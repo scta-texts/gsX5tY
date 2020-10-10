@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="295-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e434"> <!-- l1d9q1 -->
+            <head xml:id="gsX5tY-d1e434-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e434-Hd1e112" type="question-title">Utrum generatio in divinis distinguat filium a patre</head>
+            <p xml:id="gsX5tY-d1e434-d1e115">
+               <lb ed="#P" n="105"/>DISTINCTIONIS NONA 
+      <lb ed="#P" n="106"/>QVAESTIO PRIMA 
+      <lb ed="#P" n="107"/>Vtrum generatio in diuinis distinguat Filium 
+      <lb ed="#P" n="108"/>a Patre.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e126">
+      <!--320.xml-->
+               <pb ed="#P" n="295"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ARGVITVR AD PARTEM 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e138">
+               <lb ed="#P" n="2"/>negantem. 
+      <lb ed="#P" n="3"/>ILlud, per quod principaliter intenditur 
+      <lb ed="#P" n="4"/>I assimilatio, non potest esse principium
+      di<lb ed="#P" n="5" break="no"/>stinctionis, sed per generationem in diuinis 
+      <lb ed="#P" n="6"/>principaliter intenditur assimilatio: ergo non 
+      <lb ed="#P" n="7"/>potest esse principium distinctionis. Maior  
+      <lb ed="#P" n="8"/>est nota, quia assimilatio dicit quandam vni 
+      <lb ed="#P" n="9"/>tatem: Si ergo illud, quod est principium al 
+      <lb ed="#P" n="10"/>similationis, esset principium distinctionis,  
+      <lb ed="#P" n="11"/>idem esset principium oppositorum. Probo 
+      <lb ed="#P" n="12"/>minorem, Pater in diuinis per generationem 
+      <lb ed="#P" n="13"/>intendit communicare omnia filio, quae ipse 
+      <lb ed="#P" n="14"/>habet; ita vt nihil sit in patre, quod non sit in 
+      <lb ed="#P" n="15"/>filio, ex qua communicatione sequitur perfe 
+      <lb ed="#P" n="16"/>cta aequalitas, &amp; perfecta assimilatio, dicente 
+      <lb ed="#P" n="17"/>
+               <ref xml:id="gsX5tY-d1e434-Rd1e174">P. Aug. 15. de Tri cap. 14</ref> quod <quote xml:id="gsX5tY-d1e434-Qd1e178" source="http://scta.info/resource/adt-l15-d1e1848" synch="80-150">pater genuit 
+      <lb ed="#P" n="18"/>verbum sibi aequale per omnia, non enim se 
+      <lb ed="#P" n="19"/>ipsum integre, perfecteque dixisset, si aliquid 
+      <lb ed="#P" n="20"/>minus, aut amplius esset in eius verbo, quam 
+      <lb ed="#P" n="21"/>in ipso</quote>: Ergo per illam generationem
+      maxi<lb ed="#P" n="22" break="no"/>me intenditur aequalitas, &amp; assimilatio, &amp;  
+      <lb ed="#P" n="23"/>sic non erit principium distinctionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e194">
+               <lb ed="#P" n="24"/>2 Si generatio in diuinis distingueret
+      fi<lb ed="#P" n="25" break="no"/>lium a patre, vel distingueret illum specifice 
+      <lb ed="#P" n="26"/>vel numeraliter: Non specifice, quia tunc
+      il<lb ed="#P" n="27" break="no"/>la generatio esset aequiuoca, &amp; fieret in diuer 
+      <lb ed="#P" n="28"/>sitate naturae, cuius contrarium patuit supe 
+      <lb ed="#P" n="29"/>rius, neque etiam numeraliter, quia natura 
+      <lb ed="#P" n="30"/>diuina, quae communicatur per illam
+      gene<lb ed="#P" n="31" break="no"/>rationem, non plurificatur: sed est vna nume 
+      <lb ed="#P" n="32"/>ro, ergo generatio non distinguet filium a 
+      <lb ed="#P" n="33"/>patre. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e218">
+               <lb ed="#P" n="34"/>AD OPPOSITVM arguo per
+      Da<lb ed="#P" n="35" break="no"/>mascenum lib 1. cap. 2. vbi dicit, quod Pater,  
+      <lb ed="#P" n="36"/>&amp; Filius, &amp; Spiritus S anctus secundum om 
+      <lb ed="#P" n="37"/>nia sunt vuum, preter ingenerationem, gene 
+      <lb ed="#P" n="38"/>rationem, &amp; processionem: hoc autem non 
+      <lb ed="#P" n="39"/>haberet veritatem, nisi generatio
+      distingue<lb ed="#P" n="40" break="no"/>ret filium a patre. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e236">
+               <lb ed="#P" n="41"/>RESPONDEO: in ista quaestione duo 
+      <lb ed="#P" n="42"/>sunt videnda 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e243">
+               <lb ed="#P" n="43"/>Vtrum generatio in diuinis sit
+      assimi<lb ed="#P" n="44" break="no"/>latiua, vel distinctiua; &amp; si vtrunque illi con 
+      <lb ed="#P" n="45"/>uenit, vtrum prius sibi competat assimilare 
+      <lb ed="#P" n="46"/>quam dlstinguere, vel e conuerso. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e254">
+               <lb ed="#P" n="47"/>Vtrum filius distinguatur a patre
+      qua<lb ed="#P" n="48" break="no"/>si specifice, vel quasi numeraliter, 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e262">
+               <lb ed="#P" n="49"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="50"/>An generatio in diuinis sit assimilatiua,  
+      <lb ed="#P" n="51"/>vel distinctiua.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e271">
+               <lb ed="#P" n="52"/>QVantum ad primum videtur mihi
+      di<lb ed="#P" n="53" break="no"/>cedum, quod generatio in diuinis, &amp;  
+      <lb ed="#P" n="54"/>etiam in creaturis habet assimilare, &amp; distin 
+      <!--320.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 295 b -->
+               <lb ed="#P" n="55"/>guere; &amp; ista ambo sibi necessario attribuun 
+      <lb ed="#P" n="56"/>tur, non tamen ex aequo: nam quod sit
+      assi<lb ed="#P" n="57" break="no"/>milatiua, competit sibi per se, &amp; primo, quod 
+      <lb ed="#P" n="58"/>vero sit distinctiua, competit sibi per se, non 
+      <lb ed="#P" n="59"/>tamen primo, Probo ergo tres conclusiones,  
+      <lb ed="#P" n="60"/>quarum prima est 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e299">
+               <lb ed="#P" n="61"/>1 Quod generatio sit per se principium 
+      <lb ed="#P" n="62"/>assimilationis, 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e306">
+               <lb ed="#P" n="63"/>2 Quod per se sit principium
+      distin<lb ed="#P" n="64" break="no"/>ctionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e313">
+               <lb ed="#P" n="65"/>Quod magis proprie sit principium
+      as<lb ed="#P" n="66" break="no"/>similationis, quam distinctionis,  
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e320">
+               <lb ed="#P" n="67"/>Primam probo dupliciter. 
+      <lb ed="#P" n="68"/>1 Ceneratio est principium per se omniu 
+      <lb ed="#P" n="69"/>eorum, quae per se competunt genito inquan 
+      <lb ed="#P" n="70"/>tum est genitum, sed genito inquantum 
+      <lb ed="#P" n="71"/>genito competit per se assimilatio ad ipsum 
+      <lb ed="#P" n="72"/>gignentem: ergo generatio est per se
+      princi<lb ed="#P" n="73" break="no"/>pium assimilationis. Maior est de se nota, 
+      <lb ed="#P" n="74"/>quia generatio est principium geniti, &amp; per 
+      <lb ed="#P" n="75"/>consequens eorum, quae sibi per se
+      compe<lb ed="#P" n="76" break="no"/>tunt. Minorem probo per Arist. 1. de genera 
+      <lb ed="#P" n="77"/>tione tex. 77. vbi vult, quod faciens
+      vniuer<lb ed="#P" n="78" break="no"/>saliter assimilat sibi patiens: generans autem 
+      <lb ed="#P" n="79"/>in creaturis est faciens, &amp; genitum patiens; 
+      <lb ed="#P" n="80"/>ergo saltem in creaturis genito inquantum 
+      <lb ed="#P" n="81"/>genito per se compentit assimilatio ad
+      gigne<lb ed="#P" n="82" break="no"/>tem, &amp; si in creaturis, multo magis in diuinis 
+      <lb ed="#P" n="83"/>quod probo; quia illud, quod dicit perfectio 
+      <lb ed="#P" n="84"/>nem in generante, in generatione, &amp; in
+      ge<lb ed="#P" n="85" break="no"/>nito, debet poni in diuinis, multo magis, quam 
+      <lb ed="#P" n="86"/>in creaturis, sed assimilatio geniti ad
+      gignen<lb ed="#P" n="87" break="no"/>tem prouenit ex perfectione generantis, &amp;  
+      <lb ed="#P" n="88"/>per consequens ex perfectione generationis,  
+      <lb ed="#P" n="89"/>&amp; genit, ergo &amp;c. Maior est nota, &amp; minor 
+      <lb ed="#P" n="90"/>patet per Aristo 4. Metaph vbi dicit, quod 
+      <lb ed="#P" n="91"/>tunc vnumquodque perfectum est quando 
+      <lb ed="#P" n="92"/>potest facere alterum tale, quale ipsum est 
+      <lb ed="#P" n="93"/>hoc autem non haberet veritatem, nisi talis 
+      <lb ed="#P" n="94"/>assimilatio proueniret ex perfectione
+      ge<lb ed="#P" n="95" break="no"/>nerantis, &amp; per consequens ex perfectione 
+      <lb ed="#P" n="96"/>generationis, &amp; geniti. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e389">
+               <lb ed="#P" n="97"/>2 Si generatio non esser per se principium 
+      <lb ed="#P" n="98"/>assimilationis, sequeretur quod genitum ita 
+      <lb ed="#P" n="99"/>posset generari a non simili, quam a simili; 
+      <lb ed="#P" n="100"/>consequens est falsum, ergo &amp;c. Consequen 
+      <lb ed="#P" n="101"/>tia est nota: Falsitas etiam patet 7. Metap. &amp; 
+      <lb ed="#P" n="102"/>confirmatur, quia genitum accipit aliquam 
+      <lb ed="#P" n="103"/>formam, vel aliquam naturam a generante: 
+      <lb ed="#P" n="104"/>llla ergo natura, vel praeexigitur in generan 
+      <lb ed="#P" n="105"/>te aliquo modo, vel nullo modo: Si aliquo 
+      <lb ed="#P" n="106"/>modo, habeo propositum, scilicet, quod
+      ne<lb ed="#P" n="107" break="no"/>cessario ibi sequatur assimilatio: Si vero nul 
+      <lb ed="#P" n="108"/>lo modo, sequitur, quod generans communi 
+      <lb ed="#P" n="109"/>cet genito illud, quod non habet, &amp; per con 
+      <lb ed="#P" n="110"/>sequens quod agat, non vt intellectu, quod 
+      <lb ed="#P" n="111"/>totum est falsum, &amp; sic patet prima conclusio. 
+      <!--321.xml-->
+      <pb ed="#P" n="296"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Secundam etiam conclusionem probo 
+      <lb ed="#P" n="2"/>dupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e435">
+               <lb ed="#P" n="3"/>1 Si generatio non esset per se principium 
+      <lb ed="#P" n="4"/>distinctionis sequeretur, quod non esset por 
+      <lb ed="#P" n="5"/>se principium assimilationis, quod est falsum, 
+      <lb ed="#P" n="6"/>vt patet ex conclusione praecedente,
+      Conse<lb ed="#P" n="7" break="no"/>quentiam probo, quia vbi nulla est
+      distin<lb ed="#P" n="8" break="no"/>ctio, ibi non potest esse proprie assimilatio 
+      <lb ed="#P" n="9"/>immo magis est ibi identitas, &amp; ideo omnis 
+      <lb ed="#P" n="10"/>assimilatio proprie dicta includit necessario 
+      <lb ed="#P" n="11"/>realem distinctionem: sequitur ergo, quod 
+      <lb ed="#P" n="12"/>nihil possit esse principium talis
+      assimilatio<lb ed="#P" n="13" break="no"/>nis, nisi sit principium talis distinctionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e461">
+               <lb ed="#P" n="14"/>2 Si generationi non competeret per se 
+      <lb ed="#P" n="15"/>realis distinctio, sequeretur, quod posset sta 
+      <lb ed="#P" n="16"/>re cum opposito ipsius, puta cum reali iden 
+      <lb ed="#P" n="17"/>titate, hoc autem est falsum, quia tunc idem 
+      <lb ed="#P" n="18"/>generaret se ipsum, quod est absurdum, &amp; 
+      <lb ed="#P" n="19"/>contra <ref xml:id="gsX5tY-d1e434-Rd1e476">Augustinum primo de Trinit, cap. 
+        <lb ed="#P" n="20"/>3</ref>. Consequentia patet, quia quando aliquid 
+      <lb ed="#P" n="21"/>non competit alicui per se, non repugnat
+      si<lb ed="#P" n="22" break="no"/>bi stare cum opposito eius. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e486">
+               <lb ed="#P" n="23"/>Tertiam conclusionem probo etiam
+      du<lb ed="#P" n="24" break="no"/>pliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e493">
+               <lb ed="#P" n="25"/>Illud primo, &amp; magis proprie
+      compe<lb ed="#P" n="26" break="no"/>tit generationi, quod est magis intentum ab 
+      <lb ed="#P" n="27"/>ipso generante: Assimilatio est magis
+      inten<lb ed="#P" n="28" break="no"/>ta ab eo, quam distinctio; ergo &amp;c. Maior  
+      <lb ed="#P" n="29"/>est nota: Minorem probo, quia assimilatio est 
+      <lb ed="#P" n="30"/>perfectior ipsa distinctione, cum habeat se per 
+      <lb ed="#P" n="31"/>additionem ad cam, quemadmodum species 
+      <lb ed="#P" n="32"/>supra genus, ergo per se, &amp; primo est ab eo 
+      <lb ed="#P" n="33"/>intenta 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e515">
+               <lb ed="#P" n="34"/>2. Illud magis proprie est de ratione
+      ge<lb ed="#P" n="35" break="no"/>nerationis, quod competit sibi per aliquid
+      ma<lb ed="#P" n="36" break="no"/>gis essentiale: sed assimilatio competit illi por 
+      <lb ed="#P" n="37"/>aliquid magis essentiale, quam competat
+      di<lb ed="#P" n="38" break="no"/>stinctio, ergo &amp;c. Maior patet, Minorem pro 
+      <lb ed="#P" n="39"/>bo, quia assimilatio competit sibi per formam, 
+      <lb ed="#P" n="40"/>vt forma est, quod patet per Com.7
+      Metaph<lb ed="#P" n="41" break="no"/>com. 27. vbi dicit, quod generans, &amp; genera 
+      <lb ed="#P" n="42"/>tum sunt idem in forma, distinctio vero vide 
+      <lb ed="#P" n="43"/>tur competere generationi per aliquid anne 
+      <lb ed="#P" n="44"/>xum formae, quicquid sit illud, forma
+      au<lb ed="#P" n="45" break="no"/>tem magis essentialiter pertinet ad
+      genera<lb ed="#P" n="46" break="no"/>tionem, quam ad aliquid aliud sibi
+      anne<lb ed="#P" n="47" break="no"/>xum, quia specificatur per formam, &amp; non 
+      <lb ed="#P" n="48"/>per aliud annexum formae. Concludo ergo 
+      <lb ed="#P" n="49"/>breuiter pro hoc articulo, quod
+      quam<lb ed="#P" n="50" break="no"/>nis generatio sit per se
+      assimila<lb ed="#P" n="51" break="no"/>tiua, &amp; per se distinctiua, pri 
+      <lb ed="#P" n="52"/>mo tamen, &amp; magis 
+      <lb ed="#P" n="53"/>prie est assimilat 
+      <lb ed="#P" n="54"/>ua, quam di 
+      <lb ed="#P" n="55"/>stincti¬ 
+      <lb ed="#P" n="56"/>ua
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e568">
+      <!--321.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 296 b -->
+               <lb ed="#P" n="57"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="58"/>Vtrum Filius per generationem
+      distingua<lb ed="#P" n="59" break="no"/>tuc a Patre numero, vel specie.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e584">
+               <lb ed="#P" n="60"/>D hoc dico, quod non distinguitur spe 
+      <lb ed="#P" n="61"/>cifice, nec numeraliter, quia cum in Deo 
+      <lb ed="#P" n="62"/>non inueniatur proprie ratio generis, neque 
+      <lb ed="#P" n="63"/>ratio speciei, vt potest patere ex ijs, quae
+      di<lb ed="#P" n="64" break="no"/>cta fuerunt in distinctione praecedente,
+      se<lb ed="#P" n="65" break="no"/>quitur etiam, quod nec distinctio specifica, 
+      <lb ed="#P" n="66"/>vel numeralis proprie dicta habeat ibi locun: 
+      <lb ed="#P" n="67"/>&amp; ideo tota difficultas huius articuli stat in 
+      <lb ed="#P" n="68"/>videndo. Vtrum talis distinctio magis
+      assi<lb ed="#P" n="69" break="no"/>miletur distinctioni specificae, quam
+      distin<lb ed="#P" n="70" break="no"/>ctioni numerali, vel e conuerso. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e610">
+               <lb ed="#P" n="71"/>Ad quod videtur mihidicendum simplici 
+      <lb ed="#P" n="72"/>ter, quod magis assimiletur distinctioni
+      nu<lb ed="#P" n="73" break="no"/>merali in vnitate speciei, quam disti nction 
+      <lb ed="#P" n="74"/>specificae, in vnitate generis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e621">
+               <lb ed="#P" n="75"/>Quam conclusionem probo sex rationibus 
+      <lb ed="#P" n="76"/> Quanto aliqua generatio est perfectior 
+      <lb ed="#P" n="77"/>tanto maior est ibi similitudo geniti ad
+      gi<lb ed="#P" n="78" break="no"/>gnentem: sed diuina generatio est perfectif 
+      <lb ed="#P" n="79"/>sima, ergo est ibi maxima similitudo filij ge 
+      <lb ed="#P" n="80"/>nerati ad patrem generantem : Vbi autem 
+      <lb ed="#P" n="81"/>est distinctio specifica, non potest esse simili 
+      <lb ed="#P" n="82"/>tudo maxima: ergo magis assimilatur distin 
+      <lb ed="#P" n="83"/>ctioni numerali, quam distinctioni specifice: 
+      <lb ed="#P" n="84"/>Minor est nota, &amp; Maior patet ex ijs, quae 
+      <lb ed="#P" n="85"/>dicta sunt in praecedente articulo, Confirma 
+      <lb ed="#P" n="86"/>tur per Damascenum lib. primo cap. 8.
+      vbi<lb ed="#P" n="87" break="no"/>dicit, quod generatio est de se ipso (scilicet, 
+      <lb ed="#P" n="88"/>ex propria substantia) simile secundum
+      na<lb ed="#P" n="89" break="no"/>turam generare. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e656">
+               <lb ed="#P" n="90"/>2 Vbi inuenitur perfecta ratio patris, &amp;  
+      <lb ed="#P" n="91"/>filij; ibi est assimilatio specigi, &amp; distinctio nu 
+      <lb ed="#P" n="92"/>meralis: sed in dicta generatione est
+      perfe<lb ed="#P" n="93" break="no"/>cta ratio patris, &amp; filij, ergo &amp;c. Maiorem  
+      <lb ed="#P" n="94"/>bo per Augustinum contra Felicianum, vbi 
+      <lb ed="#P" n="95"/>dicit, quod nunquam est perfecta ratio
+      pa<lb ed="#P" n="96" break="no"/>tris, &amp; filij, nisi vbi maxima est similitudo; 
+      <lb ed="#P" n="97"/>haec autem maxima similitudo non
+      inueni<lb ed="#P" n="98" break="no"/>tur, nisi vbi est vnitas speciei; ergo &amp;c.
+      Mi<lb ed="#P" n="99" break="no"/>nor apparet ex pluribus locis Sacrae Seriptu 
+      <lb ed="#P" n="100"/>rae, vnde <ref xml:id="gsX5tY-d1e434-Rd1e682">Apostolus ad Ephesios tertio</ref>,
+      <quote xml:id="gsX5tY-d1e434-Qd1e685" source="http://scta.info/resource/eph3_14 http://scta.info/resource/eph3_15">fle<lb ed="#P" n="101" break="no"/>cto genua mea ad patrem domini nostri lesu 
+      <lb ed="#P" n="102"/>Christi, ex quo omnis paternitas in caelo, &amp;  
+      <lb ed="#P" n="103"/>in terra nominatur.</quote>
+            </p>
+            <p xml:id="gsX5tY-d1e434-d1e695">
+               <lb ed="#P" n="104"/>Quanto parens fuerit perfectior, tanto 
+      <lb ed="#P" n="105"/>proles erit similior: Sed Deus pater est patens 
+      <lb ed="#P" n="106"/>perfectissimus, ergo &amp; filius est proles sibi 
+      <lb ed="#P" n="107"/>maxime similis: Minor est nota: Maiorem  
+      <lb ed="#P" n="108"/>probo per Anselmum Monolg. 15 vbi dicit,  
+      <!--322.xml-->
+      <pb ed="#P" n="297"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quod tanto verior est ille parens, &amp; iste est 
+      <lb ed="#P" n="2"/>proles, quanto ille qui gignitur eius similitu 
+      <lb ed="#P" n="3"/>dinem exprimit. Vnde &amp; eodem capitulo 
+      <lb ed="#P" n="4"/>deducit, quod ibi sit perfectior ratio
+      paren<lb ed="#P" n="5" break="no"/>tis, &amp; prolis per hoc, quod ibi est expressior 
+      <lb ed="#P" n="6"/>similitudo inter gignenten, &amp; genitum, quam 
+      <lb ed="#P" n="7"/>in quacunque alia generatione. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e731">
+               <lb ed="#P" n="8"/>Confirmatur quia dicit Auic 8.
+      Metaph<lb ed="#P" n="9" break="no"/>suae, cap. 5. quod agens, qui tribuit esse,
+      qua<lb ed="#P" n="10" break="no"/>le est suum, notum est quod est dignior, &amp;  
+      <lb ed="#P" n="11"/>fortior: Constat autem, quod Deus pater est 
+      <lb ed="#P" n="12"/>dignissimum producens in gignendo verbum; 
+      <lb ed="#P" n="13"/>ergo producit ipsum maxime sibi simile, hoc 
+      <lb ed="#P" n="14"/>autem non haberet veritatem si distinctio pa 
+      <lb ed="#P" n="15"/>tris a filio esset specifica, vel ad modum
+      spe<lb ed="#P" n="16" break="no"/>ciei, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e753">
+               <lb ed="#P" n="17"/>4 Quandocunqe inter gignens &amp; genitum 
+      <lb ed="#P" n="18"/>est mutua aequalitas, &amp; nulla alia distinctio,  
+      <lb ed="#P" n="19"/>nisi quia hoc est gignens, &amp; hoc est genitum, 
+      <lb ed="#P" n="20"/>bi maxime est generatio vniuoca, &amp; per con 
+      <lb ed="#P" n="21"/>sequens non in diuersitate speciei; Sed hoc 
+      <lb ed="#P" n="22"/>est in diuinis, ergo &amp;c. Maiorem probo: Nam 
+      <lb ed="#P" n="23"/>si ratio gignentis, &amp; geniti solam faceret
+      ge<lb ed="#P" n="24" break="no"/>nerationem esse aequiuocam, &amp; in
+      diuersita<lb ed="#P" n="25" break="no"/>te speciei; tunc nulla esset generatio
+      vniuo<lb ed="#P" n="26" break="no"/>ca, &amp; vniuocae speciei, quod patet, quia
+      nul<lb ed="#P" n="27" break="no"/>la est generatio, in qua gignens, &amp; genitum 
+      <lb ed="#P" n="28"/>non habeat rationes oppositas, &amp; distinctas. 
+      <lb ed="#P" n="29"/>Minor autem apparet per Damascenum
+      su<lb ed="#P" n="30" break="no"/>perius allegatum, qui dicit, quod omnia sunt 
+      <lb ed="#P" n="31"/>ibi vnum praeter ingenerationem,
+      genera<lb ed="#P" n="32" break="no"/>tionem, &amp; processionem. Et confirmatur, quia 
+      <lb ed="#P" n="33"/>vnitas naturae communicatae non tollit a ge 
+      <lb ed="#P" n="34"/>nito, &amp; a generatione suam perfectionem, &amp;  
+      <lb ed="#P" n="35"/>tamen constat, quod si per possibile, vel
+      im<lb ed="#P" n="36" break="no"/>possibile illa generatio fieret per diuisionem. 
+      <lb ed="#P" n="37"/>naturae, adhuc tamen esset vniuoca, &amp; filius 
+      <lb ed="#P" n="38"/>esset eiusdem speciei cum Patre. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e803">
+               <lb ed="#P" n="39"/>3 Si filius esset distinctus a patre quasi 
+      <lb ed="#P" n="40"/>secundum speciem, sequeretur, quod filiatio 
+      <lb ed="#P" n="41"/>esset terminus generationis, &amp; pate nitas pri 
+      <lb ed="#P" n="42"/>cipium eius: quod est falsum, consequentia 
+      <lb ed="#P" n="43"/>patet, quia distinctio specisica inter
+      produ<lb ed="#P" n="44" break="no"/>cens, &amp; productum accipitur penes illud 
+      <lb ed="#P" n="45"/>quod est terminus productionis in producto 
+      <lb ed="#P" n="46"/>&amp; principium productionis in producente: 
+      <lb ed="#P" n="47"/>in filio autem &amp; in patre non est aliud,
+      vn<lb ed="#P" n="48" break="no"/>de possit sumi specifica distinctio, nisi filiatio 
+      <lb ed="#P" n="49"/>&amp; paternitas: Falsitas autem fuit probata 
+      <lb ed="#P" n="50"/>quantum ad vtrunque partem in quinta, &amp; 
+      <lb ed="#P" n="51"/>septima distinctione. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e834">
+               <lb ed="#P" n="52"/>Probo tamen adhuc eam quoad vtranquei 
+      <lb ed="#P" n="53"/>partem simul; nam si filiatio esset terminus 
+      <lb ed="#P" n="54"/>generationis, &amp; paternitas principium, filius 
+      <lb ed="#P" n="55"/>aliquid accepisset per generationem, quoc 
+      <lb ed="#P" n="56"/>pater non haberet, puta, filiationem, &amp; patet 
+      <lb ed="#P" n="57"/>aliquid sibi retinuisset, quod filio non de¬ 
+      <!--322.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 297 b -->
+               <lb ed="#P" n="58"/>disset, puta, paternitatem, quod est falsum. 
+      <lb ed="#P" n="59"/>per Augustinum superius allegatum, vbi ait,  
+      <lb ed="#P" n="60"/>pater genuit verbum aequale sibi per omnia 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e863">
+               <lb ed="#P" n="61"/>G Si distinguerentur specifice, sequeretur,  
+      <lb ed="#P" n="62"/>quod filius simpliciter deberet dici
+      inaequa<lb ed="#P" n="63" break="no"/>lis patri, quod est falsum, nam contrarium 
+      <lb ed="#P" n="64"/>eius confirmatum fuit per Ecclesiam in svm 
+      <lb ed="#P" n="65"/>bolo Athanasii, vbi dicitur, qualis pater, talis 
+      <lb ed="#P" n="66"/>filius &amp;c. Consequentia autem patet, quia 
+      <lb ed="#P" n="67"/>denominatio simpliciter debet fieri a termi 
+      <lb ed="#P" n="68"/>no specifico. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e883">
+               <lb ed="#P" n="69"/>Concludo ergo, quod cum generatio ma 
+      <lb ed="#P" n="70"/>gis assimilet quam distinguat, filius distingue 
+      <lb ed="#P" n="71"/>tur a patre, noquasi specifice, sed quasi 
+      <lb ed="#P" n="72"/>numeraliter, 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e895">
+               <lb ed="#P" n="73"/>Contra tamen hanc conclusionem
+      non<lb ed="#P" n="74" break="no"/>nulli arguunt tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e902">
+               <lb ed="#P" n="75"/>Primo sic. Non est maior distinctio in pri 
+      <lb ed="#P" n="76"/>cipijs quam in principiatis, sed paternitas,  
+      <lb ed="#P" n="77"/>&amp; filiatio sunt principia distinctionis patris,  
+      <lb ed="#P" n="78"/>&amp; filij, &amp; distinguuntur inter se specifice, 
+      <lb ed="#P" n="79"/>ergo etiam pater, &amp; filius distinguuntur spe 
+      <lb ed="#P" n="80"/>cifice. Maior est nota, Minor etiam apparet,  
+      <lb ed="#P" n="81"/>quia sunt relationes oppositae, &amp; per
+      conse<lb ed="#P" n="82" break="no"/>quens specifice distinctae. Et confirmatur,  
+      <lb ed="#P" n="83"/>quia pater, &amp; filius in diuinis non habent ali 
+      <lb ed="#P" n="84"/>quam distinctionem, nisi per istas relationes: 
+      <lb ed="#P" n="85"/>eo ergo modo distinguuntur, quo distinguum 
+      <lb ed="#P" n="86"/>tur praefatae relationes inter se, sed istae inter 
+      <lb ed="#P" n="87"/>se distinguuntur specifice, ergo &amp;c 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e933">
+               <lb ed="#P" n="88"/>Iterum confirmatur, quia eadem ratio
+      di<lb ed="#P" n="89" break="no"/>stinctionis videtur esse in relationibus, &amp; in 
+      <lb ed="#P" n="90"/>personis, nam sicut relationes sunt idem in 
+      <lb ed="#P" n="91"/>essentia, ita &amp; personae, hoc tamen non
+      ob<lb ed="#P" n="92" break="no"/>stante, sunt distinctae inter se realiter; ita etiam 
+      <lb ed="#P" n="93"/>&amp; personae sunt idem in essentia, &amp; tamen 
+      <lb ed="#P" n="94"/>inter se realiter distinguuntur. Ideo sicut di 
+      <lb ed="#P" n="95"/>cunt quidam mirabile videtur, quod relatio 
+      <lb ed="#P" n="96"/>nes constitutiuae personarum, cum sint distin 
+      <lb ed="#P" n="97"/>ctae secundum speciem, ita possint
+      modera<lb ed="#P" n="98" break="no"/>ri, quod distinguant personas secundum nu 
+      <lb ed="#P" n="99"/>merum tantum.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e962">
+               <lb ed="#P" n="100"/>Secundo, Non plus repugnat esse ibi
+      di<lb ed="#P" n="101" break="no"/>stinctas personas secundum speciem, quam 
+      <lb ed="#P" n="102"/>distinctas productiones: Sed sunt ibi produm 
+      <lb ed="#P" n="103"/>ctiones specifice distincte, ergo &amp; personae. 
+      <lb ed="#P" n="104"/>Maior est nota, quia distinctae productiones 
+      <lb ed="#P" n="105"/>terminantur ad distincta producta, minor ent 
+      <lb ed="#P" n="106"/>apparet, quia productiones eiusdem rationis. 
+      <lb ed="#P" n="107"/>ibi non plurificantur. Et confirmatur, quia 
+      <lb ed="#P" n="108"/>distinctio productionum est praeuia
+      distin<lb ed="#P" n="109" break="no"/>ctioni productorum. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e986">
+               <lb ed="#P" n="110"/>Neque obstat si dicatur, quod per istam ra 
+      <lb ed="#P" n="111"/>tionem arguitur solum, quod filius, &amp; Spi- 
+      <lb ed="#P" n="112"/>ritus Sanctus sint specifice distincti, non aut 
+      <lb ed="#P" n="113"/>de patre, quia pater non producitur, nam 
+      <lb ed="#P" n="114"/>quamuis non producatur, non minus tamen 
+      <!--323.xml-->
+      <pb ed="#P" n="298"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>distinguitur a filio, quam filius a Spiritu 
+      <lb ed="#P" n="2"/>Sancto. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1010">
+               <lb ed="#P" n="3"/>2 Confirmatur, quia qua ratione non pos 
+      <lb ed="#P" n="4"/>sunt ibi plurificari productiones eiusdem spe 
+      <lb ed="#P" n="5"/>ciei, &amp; rationis, pari ratione videtur, quod 
+      <lb ed="#P" n="6"/>non possint ibi plurificari personae, quae sint 
+      <lb ed="#P" n="7"/>eiusdem speciei, &amp; rationis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1024">
+               <lb ed="#P" n="8"/>3 Principia productionum sunt alterius 
+      <lb ed="#P" n="9"/>rationis, ergo, &amp; producta. Consequentia
+      vi<lb ed="#P" n="10" break="no"/>detur nota, quia non debet esse maior distin 
+      <lb ed="#P" n="11"/>ctio in principiatis, quam in principijs: Ante 
+      <lb ed="#P" n="12"/>cedens patet, quia intellectus, &amp; voluntas, 
+      <lb ed="#P" n="13"/>quae sunt principia ipsarum productionum, 
+      <lb ed="#P" n="14"/>sunt potentiae alterius rations, saltem
+      for<lb ed="#P" n="15" break="no"/>maliter, 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1044">
+               <lb ed="#P" n="16"/>Ad euidentiam ergo istarum rationum
+      in<lb ed="#P" n="17" break="no"/>telligendum, quod quidam volentes eas
+      vi<lb ed="#P" n="18" break="no"/>tare, dicunt, relationes, per quas
+      constituun<lb ed="#P" n="19" break="no"/>tur personae, non differre specle, quia fundan 
+      <lb ed="#P" n="20"/>tur super eodem fundamento. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1057">
+               <lb ed="#P" n="21"/>Sed istam responsio non potest stare: Primo 
+      <lb ed="#P" n="22"/>quia videmus etiam increaturis, quod super 
+      <lb ed="#P" n="23"/>eodem fundamento fundantur diuersae rela  
+      <lb ed="#P" n="24"/>tiones secundum speciem; sicut scientia
+      fun<lb ed="#P" n="25" break="no"/>dat relationem mensurati respectu scibilis, &amp;  
+      <lb ed="#P" n="26"/>relationem similitudinis respectu alterius 
+      <lb ed="#P" n="27"/>scientiae eiusdem speciei. Secundo, quia, non  
+      <lb ed="#P" n="28"/>ideo praefatae relationes non differunt
+      spe<lb ed="#P" n="29" break="no"/>cie, quia fundantur super eodem fundamen 
+      <lb ed="#P" n="30"/>to; nam pari ratione, non differrent nec etiam 
+      <lb ed="#P" n="31"/>numero, quia magis repugnat plura
+      aceide<lb ed="#P" n="32" break="no"/>tia solo numero differentia fundari in eodem, 
+      <lb ed="#P" n="33"/>quam accidentia differentia secundum
+      spe<lb ed="#P" n="34" break="no"/>ctem. Tertio, quia si differrent solo numero, 
+      <lb ed="#P" n="35"/>tunc essent relationeslsimiles, &amp; eiusdem ra 
+      <lb ed="#P" n="36"/>tionis, quod est absurdum 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1094">
+               <lb ed="#P" n="37"/>Et ideo alij aliter respondent, dicentes, quod 
+      <lb ed="#P" n="38"/>si loquamur de dictis personis in quantum 
+      <lb ed="#P" n="39"/>habent naturam, &amp; essentiam vnam, sic sunt 
+      <lb ed="#P" n="40"/>vnius speciei; si vero loquamur d eis in quam 
+      <lb ed="#P" n="41"/>tum constituuntur per proprietates
+      relati<lb ed="#P" n="42" break="no"/>uas specifice distinctas, sic distinguuntur 
+      <lb ed="#P" n="43"/>quasi specifice: haec responsio videtur Henri 
+      <lb ed="#P" n="44"/>ci in summa sua, art oo. qui4 in solutione
+      se<lb ed="#P" n="45" break="no"/>ptimi argumenti. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1116">
+               <lb ed="#P" n="46"/>Iste etiam modus respondendi mihi vide 
+      <lb ed="#P" n="47"/>tur, deficere dupliciter. Primo, quantum ad 
+      <lb ed="#P" n="48"/>hoc, quod ponit diuinas personas distingui 
+      <lb ed="#P" n="49"/>ab inuicem specifice, &amp; numeraliter; non enim 
+      <lb ed="#P" n="50"/>videtur rationabile, quod illa, quae omnino 
+      <lb ed="#P" n="51"/>simplicia sunt, distinguantur abinuicem
+      se<lb ed="#P" n="52" break="no"/>cundum duos modos. Diuinae ergo personae, 
+      <lb ed="#P" n="53"/>vel distinguentur abitiuicem solo numero 
+      <lb ed="#P" n="54"/>&amp; sic nusso modo specifice; vel si distinguum 
+      <lb ed="#P" n="55"/>tur, non distinguentur numeraliter, nisi
+      pro<lb ed="#P" n="56" break="no"/>sit distinctio numeralis includitur in
+      distin<lb ed="#P" n="57" break="no"/>ctione specifica: dicere ergo, quod secundum 
+      <!--323.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 298 b -->
+               <lb ed="#P" n="58"/>aliud sint vnins speciei, &amp; secundum
+      aliud<lb ed="#P" n="59" break="no"/>alterius speciei, est dicere, quod aliquo
+      mo<lb ed="#P" n="60" break="no"/>do sint compositae, Praeterea deficit, quia
+      po<lb ed="#P" n="61" break="no"/>nit, quod diuinae personae sint vnius speciei, 
+      <lb ed="#P" n="62"/>in quantum habent vnam essentiam: quod. 
+      <lb ed="#P" n="63"/>si est bene dictum, sequitur pari ratione. 
+      <lb ed="#P" n="64"/>quod sint vnum secundum numerum 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1166">
+               <lb ed="#P" n="65"/>Et ideo adhuc alij respondent aliter,
+      di<lb ed="#P" n="66" break="no"/>cunt enim, relationes constituentes diuinas 
+      <lb ed="#P" n="67"/>personas posse dupliciter accipi; vno modo 
+      <lb ed="#P" n="68"/>in quantum sunt constitutiuae personarum,. 
+      <lb ed="#P" n="69"/>&amp; sic non distinguuntur specifice, ex hoc n. 
+      <lb ed="#P" n="70"/>constituunt, quia contrahunt quadam quasi 
+      <lb ed="#P" n="71"/>virtutem formae substantialis ab essentia; &amp;  
+      <lb ed="#P" n="72"/>quia essentia est vna, non trahunt ab ea
+      di<lb ed="#P" n="73" break="no"/>uersitatem specificam, sed manent in
+      vnita<lb ed="#P" n="74" break="no"/>te speciei. Alio modo possunt accipi, in quan 
+      <lb ed="#P" n="75"/>tum relationes sunt, &amp; sic distinguuntur spe 
+      <lb ed="#P" n="76"/>cifice, non tamen communicant istam distin 
+      <lb ed="#P" n="77"/>ctionem personis, quia relatio, vt relatio est,  
+      <lb ed="#P" n="78"/>non intrat distinctionem personae, quod
+      pa<lb ed="#P" n="79" break="no"/>tet per definitionem personae quam assignat Doet. 
+      <lb ed="#P" n="80"/>Persona est rationalis naturae indiuidua sub 
+      <lb ed="#P" n="81"/>stantia. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1206">
+               <lb ed="#P" n="82"/>Sed neque ista responsio videtur bona, 
+      <lb ed="#P" n="83"/>propter tria 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1213">
+               <lb ed="#P" n="84"/>Primo, quia dato, quod relationes
+      habe<lb ed="#P" n="85" break="no"/>rent virtutem constitutiuam ab essentia
+      ali<lb ed="#P" n="86" break="no"/>quo modo, non tamen haberent ex ea
+      virtu<lb ed="#P" n="87" break="no"/>tem distinguendi, cum ipsa sit vna, &amp;
+      sim<lb ed="#P" n="88" break="no"/>plicissima.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1226">
+               <lb ed="#P" n="89"/>Secundo, quia si praefatae relationes essent 
+      <lb ed="#P" n="90"/>eiusdem specier in quantum constitutiuae, &amp;  
+      <lb ed="#P" n="91"/>&amp; alterius speciei inquantum relationes,
+      se<lb ed="#P" n="92" break="no"/>queretur, quod essent compositae ex eo in quo 
+      <lb ed="#P" n="93"/>conuenirent secundum speciem, &amp; ex eo in 
+      <lb ed="#P" n="94"/>quo differrent, quia impossibile est, quod
+      ali<lb ed="#P" n="95" break="no"/>ua sint eiusdem speciei, &amp; alterius, secundum 
+      <lb ed="#P" n="96"/>idem, dicere autem, quod relationes sint
+      con<lb ed="#P" n="97" break="no"/>positae, &amp; maxime relationes diuinae, videtur 
+      <lb ed="#P" n="98"/>omnino absurdum.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1250">
+               <lb ed="#P" n="99"/>Tertio, quia si relationes essent
+      constitu<lb ed="#P" n="100" break="no"/>tiuae non in quantum relationes, sequeretur 
+      <lb ed="#P" n="101"/>quod constituerent suppositam non relatiua, 
+      <lb ed="#P" n="102"/>quod non est dicendum.
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1261">
+               <lb ed="#P" n="103"/>Et ideo videtur esse dicendum, quod
+      di<lb ed="#P" n="104" break="no"/>uinae relationes, quae personas constituunt,  
+      <lb ed="#P" n="105"/>sunt distinctae secundum speciem, &amp; hoc non 
+      <lb ed="#P" n="106"/>obstante, persona: per eas con:itutae
+      distin<lb ed="#P" n="107" break="no"/>guuntur ad modum indiuiduorum sub vna 
+      <lb ed="#P" n="108"/>pecie, hoc autem ideo contingit, quia perso 
+      <lb ed="#P" n="109"/>nae non constituuntur per eas in esse
+      speci<lb ed="#P" n="110" break="no"/>fico, sed quasi in esse indiuiduali, ita vt
+      ma<lb ed="#P" n="111" break="no"/>gis sint differentiae quasi materiales, quam 
+      <lb ed="#P" n="112"/>uasi formales, quemadmodum videmus in 
+      <lb ed="#P" n="113"/>istis inferioribus, quod sexus masculinus, &amp; 
+      <lb ed="#P" n="114"/>foemininus, quantumcunque sint distincti spe 
+      <!--324.xml-->
+      <pb ed="#P" n="299"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>eifice inter se, non tamen causant
+      distinctio<lb ed="#P" n="2" break="no"/>nem specificam in animali, quia non consti 
+      <lb ed="#P" n="3"/>tuunt ipsum in esse specifico, sed solum in esse 
+      <lb ed="#P" n="4"/>indiuiduali. Nam sicuti patet 10. Metap. per 
+      <lb ed="#P" n="5"/>Arist. &amp; Com. quamuis sint essentiales
+      dif<lb ed="#P" n="6" break="no"/>ferentiae materiae, &amp; corpori animalis, non 
+      <lb ed="#P" n="7"/>sunt tamen differentiae essentiales ipsi anima 
+      <lb ed="#P" n="8"/>li; quia non sunt formales, differentiae dates 
+      <lb ed="#P" n="9"/>esse specificum, sed supponunt esse specificum 
+      <lb ed="#P" n="10"/>completum per formam substantialem, &amp; te 
+      <lb ed="#P" n="11"/>nent se ex parte esse indiuidualis.  
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1320">
+               <lb ed="#P" n="12"/>Hoc supposito est leue respondere ad
+      ra<lb ed="#P" n="13" break="no"/>tiones superius positas. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1328">
+               <lb ed="#P" n="14"/>Ad primam, cum dicitur, quod non est 
+      <lb ed="#P" n="15"/>maior distinctio in principijs, quam in
+      prin<lb ed="#P" n="16" break="no"/>cipiatis, dico, quod verum est, accipiendo prin 
+      <lb ed="#P" n="17"/>cipia, &amp; principiata vniformiter, cum praete 
+      <lb ed="#P" n="18"/>rea dicitur in minori, quod relationes sunt 
+      <lb ed="#P" n="19"/>principia personarum diuinarum eas consti 
+      <lb ed="#P" n="20"/>tuendo, &amp; distinguendo, dico, quod non sunt 
+      <lb ed="#P" n="21"/>earum principium quantum ad esse
+      specifi<lb ed="#P" n="22" break="no"/>cum, nec in constituendo, nec etiam in distin 
+      <lb ed="#P" n="23"/>guendo, propter quod non oportet, quod ea 
+      <lb ed="#P" n="24"/>rum distinctio specifica causet in personis di 
+      <lb ed="#P" n="25"/>stinctionem specificam 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1357">
+               <lb ed="#P" n="26"/>Vel possumus dicere, sicut dicunt alij, quod 
+      <lb ed="#P" n="27"/>principia distinguentia, magis distinguuntur,  
+      <lb ed="#P" n="28"/>quam illa quae distinguuntur per ea, quod 
+      <lb ed="#P" n="29"/>atet, quia illa, quae distinguuntur per talia 
+      <lb ed="#P" n="30"/>principia, necessario includunt aliud in quo 
+      <lb ed="#P" n="31"/>conueniunt, quod quidem non includunt 
+      <lb ed="#P" n="32"/>principia distinguentia; Videmus enim, quod 
+      <lb ed="#P" n="33"/>pecies, quae distinguuntur per differentias 
+      <lb ed="#P" n="34"/>specificas, includunt genus, quod non inclu 
+      <lb ed="#P" n="35"/>dunt ipsae differentiae, &amp; ideo minus
+      distin<lb ed="#P" n="36" break="no"/>guuntur, quam ipsae differentiae specificae; 
+      <lb ed="#P" n="37"/>eodem modo potest dici, quod indiuidua sub 
+      <lb ed="#P" n="38"/>specie includunt speciem, quam non inclu 
+      <lb ed="#P" n="39"/>dunt differentiae indiuiduales, propter quod 
+      <lb ed="#P" n="40"/>minus distinguuntur, quam illae 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1392">
+               <lb ed="#P" n="41"/>Ad confirmationem vero cum subditur,  
+      <lb ed="#P" n="42"/>quod pater, &amp; filius non habent aliquam di 
+      <lb ed="#P" n="43"/>stinctionem, nisi per istas relationes,
+      conce<lb ed="#P" n="44" break="no"/>do, non tamen propter hoc sequitur, quod 
+      <lb ed="#P" n="45"/>soecifice distinguantur, sicuti distinguuntur 
+      <lb ed="#P" n="46"/>illae, quia neque acquirunt esse specificum 
+      <lb ed="#P" n="47"/>ab eis, iuxta formam primae solutionis, vel et 
+      <lb ed="#P" n="48"/>quia includunt essentiam, quam non
+      inclu<lb ed="#P" n="49" break="no"/>dunt illae, iuxta formam secundae solutionis; 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1414">
+               <lb ed="#P" n="50"/>Ad alteram confirmationem nego assum 
+      <lb ed="#P" n="51"/>ptum, &amp; cum probatur, quia sicut relationes 
+      <lb ed="#P" n="52"/>sunt idem in essentia, &amp; tamen sunt inter se 
+      <lb ed="#P" n="53"/>realiter distinctae: dico, quod quamuis sint 
+      <lb ed="#P" n="54"/>idem in essentia, non tamen trahunt ab ea 
+      <lb ed="#P" n="55"/>esse specificum, propter quod remanent
+      di<lb ed="#P" n="56" break="no"/>uersae secundum speciem : personae vero sic 
+      <lb ed="#P" n="57"/>sunt idem in essentia, quod trahunt ab ea es- 
+      <!--324.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 299 b -->
+               <lb ed="#P" n="58"/>se specificum, &amp; ideo manent in vnitate spe 
+      <lb ed="#P" n="59"/>ciei, &amp; per consequens distinctio illa specifi 
+      <lb ed="#P" n="60"/>ca, quae est essentialis, &amp; formalis
+      relationi<lb ed="#P" n="61" break="no"/>bus, est quasi materialis, &amp; indiuidualis ipsis 
+      <lb ed="#P" n="62"/>personis, propter quod non est mirum, si
+      re<lb ed="#P" n="63" break="no"/>lationes non communicant suam
+      distinctio<lb ed="#P" n="64" break="no"/>nem personis, quia neque hoc est ex
+      mode<lb ed="#P" n="65" break="no"/>ramine suae virtutis; sicut dicunt illi, qui
+      fa<lb ed="#P" n="66" break="no"/>ciunt istam instantiam, sed ex eo quod
+      tri<lb ed="#P" n="67" break="no"/>buunt ipsis personis esse specificum 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1462">
+               <lb ed="#P" n="68"/>Possum soluere aliter dicendo, quod quam 
+      <lb ed="#P" n="69"/>uis relationes sint idem in essentia, non
+      ta<lb ed="#P" n="70" break="no"/>men includunt eam formaliter, &amp; idcirco re 
+      <lb ed="#P" n="71"/>manent distinctae secundnm speciem;
+      perso<lb ed="#P" n="72" break="no"/>nae vero includunt ipsam essentiam, propter 
+      <lb ed="#P" n="73"/>quod non habebunt eundem modum
+      di<lb ed="#P" n="74" break="no"/>stinctionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1480">
+               <lb ed="#P" n="75"/>Ad secundam dico, maiorem esse falsam, 
+      <lb ed="#P" n="76"/>quia productiones in diuinis sunt de genere 
+      <lb ed="#P" n="77"/>relationum, &amp; per consequens sunt
+      relatio<lb ed="#P" n="78" break="no"/>nes specificae ex suis proprijs rationibus, &amp;  
+      <lb ed="#P" n="79"/>eisdem specifice distinguuntur, ita etiam &amp; 
+      <lb ed="#P" n="80"/>productiones. Personae vero habent suam spe 
+      <lb ed="#P" n="81"/>ciem ab essentia, &amp; distinctionem quasi indi 
+      <lb ed="#P" n="82"/>uidualem a relationibus, propter quod repu 
+      <lb ed="#P" n="83"/>gnat plurificare ibi personas distinctas securn 
+      <lb ed="#P" n="84"/>dum speciem, quia ratio specificandi eas est 
+      <lb ed="#P" n="85"/>vna, non tamen repugnat plurificare produm 
+      <lb ed="#P" n="86"/>ctiones distinctas secundum speciem, immo 
+      <lb ed="#P" n="87"/>hoc est omnino necessarium, quia rationes 
+      <lb ed="#P" n="88"/>specificandi processiones sunt ipsae
+      relatio<lb ed="#P" n="89" break="no"/>nes, quae sunt plures specie distinctae. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1516">
+               <lb ed="#P" n="90"/>Ad confirmationem cum additur, quod 
+      <lb ed="#P" n="91"/>distinctio productionum est praeuia
+      distin<lb ed="#P" n="92" break="no"/>ctioni productorum, dico, quod dato ita
+      es<lb ed="#P" n="93" break="no"/>se, quia tamen producta, &amp; productiones non 
+      <lb ed="#P" n="94"/>specificantur ex eodem, non oportet, quod 
+      <lb ed="#P" n="95"/>sit idem modus distinguendi in vtrisque,
+      pro<lb ed="#P" n="96" break="no"/>pter quod poterit esse maior distinctio in pro 
+      <lb ed="#P" n="97"/>ductionibus, quam in productis. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1536">
+               <lb ed="#P" n="98"/>Ad tertiam, nego consequentiam, quia non 
+      <lb ed="#P" n="99"/>oportet, quod si principia quaecunque sint al 
+      <lb ed="#P" n="100"/>terius rationis, quod etiam principiata sint 
+      <lb ed="#P" n="101"/>alterius rationis, nisi sint principia specifica 
+      <lb ed="#P" n="102"/>Potest etiam negari antecedens, quia intelle 
+      <lb ed="#P" n="103"/>ctus, &amp; voluntas in Deo non sunt alterius 
+      <lb ed="#P" n="104"/>rationis; quid tamen sit de his dicendum, pa 
+      <lb ed="#P" n="105"/>tebit melius quando tractabitur de
+      distin<lb ed="#P" n="106" break="no"/>ctione processionum, in distinct. 13. 
+      <lb ed="#P" n="107"/>AD RATIONES PRINCIPALES 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1560">
+               <lb ed="#P" n="108"/>AD primam dico, quod maior est falsa, 
+      <lb ed="#P" n="109"/>quia eo ipso, quod generatio assimilat,  
+      <lb ed="#P" n="110"/>necessario etiam distinguit, quia similitudo, 
+      <lb ed="#P" n="111"/>si sit proprie dicta, includit distinctionem, &amp;  
+      <lb ed="#P" n="112"/>talis distinctio, quam includit, non est oppo 
+      <lb ed="#P" n="113"/>sita vnitati, quam dicit similitudo. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1576">
+               <lb ed="#P" n="114"/>Ad secundum dico, quod generatio distin 
+      <!--325.xml-->
+      <pb ed="#P" n="300"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>guit filium a patre quasi numeraliter, &amp; non 
+      <lb ed="#P" n="2"/>quasi specifice, vt patuit. 
+    </p>
+            <p xml:id="gsX5tY-d1e434-d1e1592">
+               <lb ed="#P" n="3"/>Ad probationem vero cum dicitur, quod 
+      <lb ed="#P" n="4"/>diuina natura in eis non numeratur, dico,  
+      <lb ed="#P" n="5"/>quod quamuis assimiletur distinctioni
+      nu<lb ed="#P" n="6" break="no"/>merali, non tamen est distinctio numeralis 
+      <lb ed="#P" n="7"/>proprie dicta, sicuti inuenitur in creaturis. 
+      <lb ed="#P" n="8"/>Vel possumus dicere, quod numeratio natu 
+      <lb ed="#P" n="9"/>rae in indiuiduis est quasi per accidens, quia 
+      <lb ed="#P" n="10"/>non est ratione naturae, vt natura est, sed
+      ra<lb ed="#P" n="11" break="no"/>tione suae limitationis,  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="590-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e1166"> <!-- l1d47q1 -->
+            <head xml:id="gsX5tY-d1e1166-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e1166-Hd1e112" type="question-title">Utrum illud, quod est contra voluntatem antecedentem, obsequatur voluntati
+      consequenti.</head>
+            <p xml:id="gsX5tY-d1e1166-d1e115">
+               <lb ed="#P" n="104"/>DISTINCTIONIS XLVII 
+      <lb ed="#P" n="105"/>QVAESTIO VNICA. 
+      <lb ed="#P" n="106"/>Vtrum illud, quod fit contra voluntatem. 
+      <lb ed="#P" n="107"/>antecedentem, obsequatur volun 
+      <lb ed="#P" n="108"/>tati consequenti.
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e128">
+      <!--615.xml-->
+               <pb ed="#P" n="590"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>VIdetur primo quod non, quia volunta 
+      <lb ed="#P" n="2"/>tes, quae non sunt oppositae, non
+      pos<lb ed="#P" n="3" break="no"/>sunt esse de oppositis, &amp; per consequens nec 
+      <lb ed="#P" n="4"/>illud, quod est contrarium vni, potest esse  
+      <lb ed="#P" n="5"/>secundum aliam, sed voluntas antecede s, 
+      <lb ed="#P" n="6"/>&amp; consequens non sunt oppositae, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e151">
+               <lb ed="#P" n="7"/>2 Si hoc esset verum, sequeretur, quod ali 
+      <lb ed="#P" n="8"/>quid posset cadere sub praecepto Dei secun 
+      <lb ed="#P" n="9"/>dum unam voluntatem, quod tamen esset con 
+      <lb ed="#P" n="10"/>tra preceptum eius secundum aliam, &amp; per 
+      <lb ed="#P" n="11"/>consequens posset Deus isto modo praecipe 
+      <lb ed="#P" n="12"/>re contraria, quod non videtur
+      rationabili<lb ed="#P" n="13" break="no"/>ter dicendum 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e169">
+               <lb ed="#P" n="14"/>IN OPPOSITVM est illud quod dicit 
+      <lb ed="#P" n="15"/>Magister in litera auctoritate D. Sregorij 
+      <lb ed="#P" n="16"/>dicentis, quod multi voluntatem Dei faciunt,  
+      <lb ed="#P" n="17"/>cum eam immutare contendunt, &amp; consilio 
+      <lb ed="#P" n="18"/>suo resistentes, suae voluntati obsequuntur,  
+      <lb ed="#P" n="19"/>quapropter videtur, quod illud, quod fit vno 
+      <lb ed="#P" n="20"/>modo contra voluntatem Dei, alio
+      mo<lb ed="#P" n="21" break="no"/>do, obsequatur eius voluntati. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e189">
+               <lb ed="#P" n="22"/>RESPONDEO: In ista quaestione duo 
+      <lb ed="#P" n="23"/>sunt videnda 
+      <lb ed="#P" n="24"/>1 An illud, quod est contra volentatem 
+      <lb ed="#P" n="25"/>Dei antecedentem, obsequatur eiu.
+      Volun<lb ed="#P" n="26" break="no"/>tati consequenti. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e202">
+               <lb ed="#P" n="27"/>2 An illud, quod est contra voluntatem 
+      <lb ed="#P" n="28"/>Dei quocunque modo, possit cadere sub eius 
+      <lb ed="#P" n="29"/>praecepto. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e211">
+               <lb ed="#P" n="30"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="31"/>Vtrum illud, quod est contra voluntatem 
+      <lb ed="#P" n="32"/>Dei antecedentem, obsequatur eius 
+      <lb ed="#P" n="33"/>voluntati consequenti 
+      <lb ed="#P" n="34"/>Vantum ad primum est sciendum, 
+      <lb ed="#P" n="35"/>aliquos simpliciter concedere, quod 
+      <lb ed="#P" n="36"/> illud, quod est contra voluntatem 
+      <lb ed="#P" n="37"/>Dei antecedentem, obsequatur voluntati 
+      <lb ed="#P" n="38"/>eius consequenti. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e233">
+               <lb ed="#P" n="39"/>Hoc tamen non videtur bene dictum, quia 
+      <lb ed="#P" n="40"/>illud, quod fit a nobis contra voluntatem 
+      <lb ed="#P" n="41"/>Dei antecedentem, non est nisi malum, sed 
+      <lb ed="#P" n="42"/>malum non obsequitur voluntati Dei simpli 
+      <lb ed="#P" n="43"/>citer, &amp; absolute, ergo non videtur
+      simplici<lb ed="#P" n="44" break="no"/>ter concedendum, quod illud, quod fit
+      con<lb ed="#P" n="45" break="no"/>tra. vo antatem Dei antecedentem, obsequa 
+      <lb ed="#P" n="46"/>tur voluntati consequenti. Maior est nota 
+      <lb ed="#P" n="47"/>Minorem probo, quia si malum obsequere 
+      <lb ed="#P" n="48"/>tur voluntati Dei simpliciter, &amp; absolute,
+      se<lb ed="#P" n="49" break="no"/>queretur, quod esset a Deo volitum, quod 
+      <lb ed="#P" n="50"/>nephas est dicere 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e263">
+               <lb ed="#P" n="51"/>Quapropter videtur mihi quod possimus 
+      <lb ed="#P" n="52"/>hic vti duplici distinctione, &amp; secundum vtram 
+      <lb ed="#P" n="53"/>que soluere quaestionem. Prima est ista, quod 
+      <lb ed="#P" n="54"/>aliquid obsequi Dei voluntati potest intelli¬ 
+      <!--615.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 590 b -->
+               <lb ed="#P" n="55"/>gi dupliciter; vno modo, vt obsequatur ei tam 
+      <lb ed="#P" n="56"/>quam aliquid quod est sibi placitum, &amp; a 
+      <lb ed="#P" n="57"/>Deo volitum, alio modo vt obsequatur ei tam 
+      <lb ed="#P" n="58"/>quam illud, ex quo elicitur aliquid, quod 
+      <lb ed="#P" n="59"/>est Deo placitum, &amp; a Deo volitum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e292">
+               <lb ed="#P" n="60"/>Ad propositum igitur dico, quod si
+      quae<lb ed="#P" n="61" break="no"/>ratur an illud, quod est contra oluntatem. 
+      <lb ed="#P" n="62"/>Dei antecedentem, obsequatur vnluntati pri 
+      <lb ed="#P" n="63"/>mo modo, sic dico quod non: nam tunc ma 
+      <lb ed="#P" n="64"/>sa essent Deo placita, &amp; ab eo volita, quod 
+      <lb ed="#P" n="65"/>primum est dicere. Si vero quaeratur an 
+      <lb ed="#P" n="66"/>obsequatur Dei voluntati secundo modo, di 
+      <lb ed="#P" n="67"/>co quod sic, nam quamuis mala culpae non 
+      <lb ed="#P" n="68"/>placeant Dei voluntati consequenti, elicitur 
+      <lb ed="#P" n="69"/>tamen ex eis aliquod bonum, quod placet 
+      <lb ed="#P" n="70"/>suae voluntati, puta bonum iustitiae. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e318">
+               <lb ed="#P" n="71"/>Secunda distinctio qua possumus vti est 
+      <lb ed="#P" n="72"/>ista, quid aliquid obsequi Dei voluntati con 
+      <lb ed="#P" n="73"/>sequenti potest adhuc dupliciter intelligi, 
+      <lb ed="#P" n="74"/>vno modo quod obsequatur ei directe cum 
+      <lb ed="#P" n="75"/>ea concordando, alio modo quod
+      obsequa<lb ed="#P" n="76" break="no"/>tur ei non concordando cum ea, sed cum vo 
+      <lb ed="#P" n="77"/>lito ab ea; Primo modo dico, quod mala cul 
+      <lb ed="#P" n="78"/>pae, quae fiunt contra voluntatem Dei
+      ante<lb ed="#P" n="79" break="no"/>cedentem, non obsequuntur Dei voluntati 
+      <lb ed="#P" n="80"/>consequenti cum ea concordando, immo
+      si<lb ed="#P" n="81" break="no"/>cut discordant a voluntate Dei
+      anteceden<lb ed="#P" n="82" break="no"/>te, ita etiam discordant a voluntate Dei con 
+      <lb ed="#P" n="83"/>sequente, obsequuntur tamen ei
+      concordan<lb ed="#P" n="84" break="no"/>do cum volito ab ea; nam voluntas
+      conse<lb ed="#P" n="85" break="no"/>quens non solum vult bonum misericordiae,  
+      <lb ed="#P" n="86"/>sed etiam bonum iustitiae, cum bono volite 
+      <lb ed="#P" n="87"/>concordent mala culpae: nam si non essent 
+      <lb ed="#P" n="88"/>mala culpae, bonum iustitiae non lucesceret,  
+      <lb ed="#P" n="89"/>&amp; haec de praesenti artic¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e362">
+               <lb ed="#P" n="90"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="91"/>Vtrum illud, quod est contra voluntatem 
+      <lb ed="#P" n="92"/>Dei quocunque modo, possit cadere 
+      <lb ed="#P" n="93"/>sub praecepto.
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e373">
+               <lb ed="#P" n="94"/>AD hoc respondet D. Aegidius, quod C 
+      <lb ed="#P" n="95"/>potest esse aliquid, quod nec est voli¬ e 
+      <lb ed="#P" n="96"/>tum voluntate antecedente, nec voluntate 
+      <lb ed="#P" n="97"/>consequente, quo tamen non obstante Deus. 
+      <lb ed="#P" n="98"/>praecipit quandoque ipsum fieri, sicut patet de 
+      <lb ed="#P" n="99"/>immolatione lsaac, quae non erat a Deo
+      vo<lb ed="#P" n="100" break="no"/>lita nec voluntate antecedente, nec
+      conse<lb ed="#P" n="101" break="no"/>quente, &amp; tamen Deus praecepit ipsum
+      im<lb ed="#P" n="102" break="no"/>molari. Quod autem immolatio lsaac non 
+      <lb ed="#P" n="103"/>fuerit a Deo volita voluntate
+      consequen<lb ed="#P" n="104" break="no"/>te probat, quia quicquid Deus vult
+      secun<lb ed="#P" n="105" break="no"/>dum talem voluntatem, necessario impletur, 
+      <lb ed="#P" n="106"/>quod etiam non fuerit volita voluntate an¬ 
+      <!--616.xml-->
+      <pb ed="#P" n="591"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tecedente probat dupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e412">
+               <lb ed="#P" n="2"/>Primo, quia voluntas antecedens, &amp;
+      con<lb ed="#P" n="3" break="no"/>sequens non sunt oppositae, &amp; per consequen 
+      <lb ed="#P" n="4"/>illud, quod est secundum vnam, non potest 
+      <lb ed="#P" n="5"/>esse contra aliam.
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e424">
+               <lb ed="#P" n="6"/>Secundo, quia si immolatio lsaac fuisset 
+      <lb ed="#P" n="7"/>volita voluntate antecedente, &amp; non
+      conse<lb ed="#P" n="8" break="no"/>quente, sicut ponit alia opinio, sequeretur quo 
+      <lb ed="#P" n="9"/>simpletio ordinis, quae est secundum volunta 
+      <lb ed="#P" n="10"/>tem antecedentem esset contraria executioni 
+      <lb ed="#P" n="11"/>ordinis, quae fit secundum voluntatem
+      con<lb ed="#P" n="12" break="no"/>sequentem, quod est absurdum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e442">
+               <lb ed="#P" n="13"/>Addit insuper quod in tali precepto
+      nul<lb ed="#P" n="14" break="no"/>la fuit fictio, quia quamuis Deus nollet illud 
+      <lb ed="#P" n="15"/>quod praecipiebat, volebat tamen illud quod 
+      <lb ed="#P" n="16"/>per tale praeceptum intendebat, intendebat 
+      <lb ed="#P" n="17"/>autem probationem fidei Abrahae, &amp; illam 
+      <lb ed="#P" n="18"/>volebat.
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e458">
+               <lb ed="#P" n="19"/>Arguitur autem a quibusdam contra istam  
+      <lb ed="#P" n="20"/>opinionem quantum ad tria puncta quae
+      vi<lb ed="#P" n="21" break="no"/>detur ponere, primo probant immolationem 
+      <lb ed="#P" n="22"/>dsaac fuisse a Deo volitam voluntate antece 
+      <lb ed="#P" n="23"/>dente, tali ratione. lllud, ad quod Deus ordi 
+      <lb ed="#P" n="24"/>nat aliquem, est ab eo volitum voluntate
+      an<lb ed="#P" n="25" break="no"/>recedente, sed Deus ex vi illius praecepti
+      or<lb ed="#P" n="26" break="no"/>dinabat Abraham ad immolationem lsaac, er 
+      <lb ed="#P" n="27"/>go talis immolatio erat ab eo volita.
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e480">
+               <lb ed="#P" n="28"/>Secundo probant qud illud, quod est secundum 
+      <lb ed="#P" n="29"/>voluntatem antecedentem, potest esse contra 
+      <lb ed="#P" n="30"/>rium voluntati consequenti,; quia saluatio om 
+      <lb ed="#P" n="31"/>nium hominum, &amp; damnatio aliquorum sunt 
+      <lb ed="#P" n="32"/>contraria, siue contradictoria, sed Deus vult 
+      <lb ed="#P" n="33"/>voluntate antecedente omnes homines saluos 
+      <lb ed="#P" n="34"/>fieri, voluntate vero consequente aliquos 
+      <lb ed="#P" n="35"/>vult damnari, ergo illud, quod vult secundum 
+      <lb ed="#P" n="36"/>vnam voluntatem, potest esse contrarium 
+      <lb ed="#P" n="37"/>alteri. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e504">
+               <lb ed="#P" n="38"/>Tertio probant, quod fuerit fictio in tali 
+      <lb ed="#P" n="39"/>praecepto, quia cum praeceptum sit
+      indicati<lb ed="#P" n="40" break="no"/>uum diuinae voluntatis, si non indicet
+      diui<lb ed="#P" n="41" break="no"/>nam voluntatem, nec antecedente, nec
+      con<lb ed="#P" n="42" break="no"/>sequentem, videtur esse in eo fictio. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e517">
+               <lb ed="#P" n="43"/>His tamen non obstantibus dico cum
+      pri<lb ed="#P" n="44" break="no"/>ma opinione, quod immolatio lsaac non fuit 
+      <lb ed="#P" n="45"/>2 Deo volita nec voluntate antecedente, nec 
+      <lb ed="#P" n="46"/>consequente, quia ad hoc quod aliquod pre 
+      <lb ed="#P" n="47"/>ceptum non sit fictum sufficit, quod aliquid 
+      <lb ed="#P" n="48"/>aliud sit volitum, propter quod illud
+      praece<lb ed="#P" n="49" break="no"/>ptum est datum: Quod ergo immolatiolsaac 
+      <lb ed="#P" n="50"/>nen fuerit a Deo volita voluntate
+      anteceden<lb ed="#P" n="51" break="no"/>te, nec voluntate consequente, sicut dicunt 
+      <lb ed="#P" n="52"/>isti qai nobis contrariantur, probo tali
+      ra<lb ed="#P" n="53" break="no"/>tione. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e544">
+               <lb ed="#P" n="54"/>lllud, quod concordat voluntati
+      antece<lb ed="#P" n="55" break="no"/>denti, non potest discordare a vcluntate con 
+      <lb ed="#P" n="56"/>sequente, sed immolatio Isaac concordabat. 
+      <lb ed="#P" n="57"/>voluntati antecedenti (secundum istos) ergo 
+      <!--616.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 591 b -->
+               <lb ed="#P" n="58"/>non poterat discordare a voluntate consequente, 
+      <lb ed="#P" n="59"/>&amp; per consequens necessario fuisset facta. 
+      <lb ed="#P" n="60"/>quod est falsum. Maiorem probo, quia illud,  
+      <lb ed="#P" n="61"/>quod concordat voluntati antecedenti, non 
+      <lb ed="#P" n="62"/>est nisi bonum, bonum autem non potest
+      di<lb ed="#P" n="63" break="no"/>scordare a voluntate consequente, si ergo im 
+      <lb ed="#P" n="64"/>molatio Isaac fuisset a Deo volita voluntate 
+      <lb ed="#P" n="65"/>antecedente (vt isti dicunt) sequeretur quod 
+      <lb ed="#P" n="66"/>concordasset ei tanquam aliquod bonum, &amp;  
+      <lb ed="#P" n="67"/>per consequens non potuisset discordare a 
+      <lb ed="#P" n="68"/>voluntate consequente. Minor autem
+      habe<lb ed="#P" n="69" break="no"/>tur ab eis 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e588">
+               <lb ed="#P" n="70"/>Nec motiua contra nostram opinionem
+      ad<lb ed="#P" n="71" break="no"/>ducta cogunt, nam cum primo dicunt, quod 
+      <lb ed="#P" n="72"/>Deus ordinabat Abraham ad immolationem 
+      <lb ed="#P" n="73"/>lsaac, dico quod est falsum, quia si ad hoc ip 
+      <lb ed="#P" n="74"/>sum ordinasset, necessario ipsum
+      immolas<lb ed="#P" n="75" break="no"/>set, quapropter non est dicendum, quod
+      or<lb ed="#P" n="76" break="no"/>dinauerit eum ad immolationem, sed ad suae 
+      <lb ed="#P" n="77"/>fidei probationem. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e608">
+               <lb ed="#P" n="78"/>Ad secundum dico, quod damnatio homi 
+      <lb ed="#P" n="79"/>num non est volita a Deo, nisi supposita
+      cul<lb ed="#P" n="80" break="no"/>pa, &amp; ideo sic accipiendo non est ibi
+      contra<lb ed="#P" n="81" break="no"/>rietas; nam saluatio hominum exclusa culpa, 
+      <lb ed="#P" n="82"/>&amp; damnatio aliquorum supposita culpa, non 
+      <lb ed="#P" n="83"/>contradicunt.
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e624">
+               <lb ed="#P" n="84"/>Ad tertium dico, quod non fuit ibi fictio,  
+      <lb ed="#P" n="85"/>quia quamuis illud praeceptum secundum se 
+      <lb ed="#P" n="86"/>non indicaret diuinam voluntate, indicabat. 
+      <lb ed="#P" n="87"/>tamen eam quantum ad illud, quod per ipsum 
+      <lb ed="#P" n="88"/>intendebat, nam probatio fidei Abrahae, quae 
+      <lb ed="#P" n="89"/>per ipsum intendebatur, diuinam
+      volunta<lb ed="#P" n="90" break="no"/>tem indicabat. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e642">
+               <lb ed="#P" n="91"/>Patet ergo quid dicendum sit ad hunc
+      ar<lb ed="#P" n="92" break="no"/>ticulum, &amp; ad totam quaestionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e1166-d1e649">
+               <lb ed="#P" n="93"/>AD Rationes autem principales patet so 
+      <lb ed="#P" n="94"/>lutio ex dictis in ambobus articulis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

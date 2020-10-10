@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="115-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e176"> <!-- l1d1q5 -->
+            <head xml:id="gsX5tY-d1e176-Hd1e109">Quaestio 5</head>
+            <head xml:id="gsX5tY-d1e176-Hd1e112" type="question-title">Utrum uti sit actus necessario distinctus ab ipso frui.</head>
+            <div xml:id="gsX5tY-d1e176-Dd1e115">
+               <head xml:id="gsX5tY-d1e176-Hd1e117">Quaestio</head>
+               <p xml:id="gsX5tY-d1e176-d1e120">
+                  <lb ed="#P" n="9"/>QVAESTIO QVINTA 
+      <lb ed="#P" n="10"/>Vtrum vti sit actus necessario distinctus ab 
+      <lb ed="#P" n="11"/>ipso frui.
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e176-Dd1e130" type="rationes-principales">
+               <head xml:id="gsX5tY-d1e176-Hd1e132">Rationes principales</head>
+               <p xml:id="gsX5tY-d1e176-d1e135">
+                  <lb ed="#P" n="12"/>ARGVITVR AFFIRMATIVE. 
+      <lb ed="#P" n="13"/>ACtus diuersarum potentiarum neces 
+      <lb ed="#P" n="14"/>sario sunt distincti, isti sunt huiusmo 
+      <lb ed="#P" n="15"/>di; ergo &amp;c. Maior est nota, Minor
+      proba<lb ed="#P" n="16" break="no"/>tur, quia frui est actus voluntatis, vt proba 
+      <lb ed="#P" n="17"/>tum est, vti vero, cum sit aliquid in finem re 
+      <lb ed="#P" n="18"/>ferre, videtur actus intellectus, cuius
+      pro<lb ed="#P" n="19" break="no"/>prium est aliqua conferre adinuicem &amp; in 
+      <lb ed="#P" n="20"/>finem referre. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e157">
+                  <lb ed="#P" n="21"/>2 Illi actus, qui necessario habent
+      diuer<lb ed="#P" n="22" break="no"/>sa obiecta, sunt necessario distincti, isti sunt 
+      <lb ed="#P" n="23"/>huiusmodi; ergo &amp;c. Maior patet, quia actu 
+      <lb ed="#P" n="24"/>distinguuntur per obiecta, minorem probo,  
+      <lb ed="#P" n="25"/>quia obiectum fruitionis est vnum tantum, 
+      <lb ed="#P" n="26"/>vt superius patuit, obiectum autem vsus ni 
+      <lb ed="#P" n="27"/>est vnum, sed multa, quia omnia, quae sunt 
+      <lb ed="#P" n="28"/>citra Deum, cadunt sub vsu, dicente P.
+      Au<lb ed="#P" n="29" break="no"/>gustino 833. quaestionum, quaest. 35. quod 
+      <lb ed="#P" n="30"/>omnia, quae facta sunt, in vsum hominis
+      fa<lb ed="#P" n="31" break="no"/>cta sunt.
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e183">
+                  <lb ed="#P" n="32"/>AD OPPOSITVM ARGVITVR. 
+      <lb ed="#P" n="33"/>SI essent actus distincti vsus, &amp; fruitio 
+      <lb ed="#P" n="34"/>vnus non posset praedicari de altero, &amp; 
+      <lb ed="#P" n="35"/>maxime praedicatione dicente hoc est hoc, 
+      <lb ed="#P" n="36"/>consequens est falsum, ergo &amp; antecedens: 
+      <lb ed="#P" n="37"/>Consequentia patet, &amp; Falsitatem probo per 
+      <lb ed="#P" n="38"/>
+                  <ref xml:id="gsX5tY-d1e176-Rd1e200">P. Augustinum xi. de Ciuitate Dei, vbi
+        ca<lb ed="#P" n="39" break="no"/>pite 20</ref>. praedicat vnam de altero dicens, <quote xml:id="gsX5tY-d1e176-Qd1e205" source="http://scta.info/resource/adcd-l11-d1e1631" synch="187-195">nec 
+      <lb ed="#P" n="40"/>ignoro, quod proprie fructus fruentis est
+      v<lb ed="#P" n="41" break="no"/>sus vtentis</quote>.
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e176-Dd1e215">
+               <head xml:id="gsX5tY-d1e176-Hd1e217">Divisio quaestionis</head>
+               <p xml:id="gsX5tY-d1e176-d1e220">
+                  <lb ed="#P" n="42"/>RESPONDEO: In hac
+      quaestio<lb ed="#P" n="43" break="no"/>ne tria sunt videnda, quae quaeruntur in
+      ar<lb ed="#P" n="44" break="no"/>gumentis. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e229">
+                  <lb ed="#P" n="45"/>1 An vti, &amp; frui sint actus eiusdem
+      po<lb ed="#P" n="46" break="no"/>tentiae. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e236">
+                  <lb ed="#P" n="47"/>2 An sint idem actus.
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e241">
+      <!--139.xml-->
+                  <cb ed="#P" n="b"/> 
+                  <!-- 114 b -->
+                  <lb ed="#P" n="48"/>3 An omnia, quae sunt citra Deum 
+      <lb ed="#P" n="49"/>sint vtibilia.  
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e176-Dd1e255" type="articulus">
+               <head xml:id="gsX5tY-d1e176-Hd1e257">Articulus 1</head>
+               <head xml:id="gsX5tY-d1e176-Hd1e260" type="question-title">Utrum uti et frui 
+      sint actus eiusdem potentiae.</head>
+               <p xml:id="gsX5tY-d1e176-d1e263">
+                  <lb ed="#P" n="50"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="51"/>Vtrum vti, &amp; frui sint actus eiusdem  
+      <lb ed="#P" n="52"/>potentiae.
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e272">
+                  <lb ed="#P" n="53"/>DRo huius articuli intelligentia primo
+      no<lb ed="#P" n="54" break="no"/>tandum est, quid sit vti. Ad quod 
+      respon<lb ed="#P" n="55" break="no"/>det <ref xml:id="gsX5tY-d1e176-Rd1e280">S. Thomas in p. 2. q4. 18. art. 1.</ref> dicens, quo 
+      <lb ed="#P" n="56"/>vti aliqua re, est applicare illam ad aliquam 
+      <lb ed="#P" n="57"/>operationem, puta vti equo est applicare
+      ip<lb ed="#P" n="58" break="no"/>sum equitationi, &amp; gladio incisioni, &amp; sic 
+      <lb ed="#P" n="59"/>de alijs. Vnde quidam exponentes eum
+      di<lb ed="#P" n="60" break="no"/>cunt, quod ita se habet vti ad vsum, sicut 
+      <lb ed="#P" n="61"/>mouere ad motum, nam sicut mouere est cau 
+      <lb ed="#P" n="62"/>sare motum in re mobili, sic vti est causare 
+      <lb ed="#P" n="63"/>vsum in re vtibili.  
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e302">
+                  <lb ed="#P" n="64"/>Contra hunc modum dicendi arguo qua 
+      <lb ed="#P" n="65"/>drupliciter 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e310">
+                  <lb ed="#P" n="66"/>Si vti aliqua re est applicare illam ad 
+      <lb ed="#P" n="67"/>aliquam operationem, tunc necessario
+      con<lb ed="#P" n="68" break="no"/>currunt ad vsum duo actus scilicet
+      impera<lb ed="#P" n="69" break="no"/>tus, cui res vtibilis applicatur, &amp; actus elici 
+      <lb ed="#P" n="70"/>tus a voluntate, per quem fit talis
+      applica<lb ed="#P" n="71" break="no"/>tio, consequens est falsum, ergo &amp;c. Conse 
+      <lb ed="#P" n="72"/>quentia patet, &amp; probo falsitatem, nam quae 
+      <lb ed="#P" n="73"/>dam sunt vtibilia, quibus voluntas vtitur se 
+      <lb ed="#P" n="74"/>lo actu elicito, puta mala culpae, quibus
+      vti<lb ed="#P" n="75" break="no"/>tur detestando, quod fit per solum actum  
+      <lb ed="#P" n="76"/>elicitum. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e336">
+                  <lb ed="#P" n="77"/>2. Omnia, quae sunt citra Deum, sunt vti 
+      <lb ed="#P" n="78"/>bilia, vt inferius patebit, &amp; per consequens 
+      <lb ed="#P" n="79"/>illa operatio, ad quam fit applicatio esset et 
+      <lb ed="#P" n="80"/>ipsa vtibilis, &amp; applicaretur ad aliquam aliam 
+      <lb ed="#P" n="81"/>operationem, &amp; illa ad aliam, &amp; sic in
+      in<lb ed="#P" n="82" break="no"/>finitum,. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e352">
+                  <lb ed="#P" n="83"/>3 Contra declarationem, si enim ita se 
+      <lb ed="#P" n="84"/>haberet vti ad vsum, sicut mouere ad motum, 
+      <lb ed="#P" n="85"/>tunc sicut mouere non ponit aliquid forma 
+      <lb ed="#P" n="86"/>liter in mouente, ita vti non poneret aliquen 
+      <lb ed="#P" n="87"/>actum in vtente, quod est falsum, quia vti 
+      <lb ed="#P" n="88"/>ponit necessario in vtente aliquem actum eli 
+      <lb ed="#P" n="89"/>citum, cum sit actus liberi arbitrij, vt patet 
+      <lb ed="#P" n="90"/>p <ref xml:id="gsX5tY-d1e176-Rd1e371">P. August. in lib. 83. quaest. quaest. 35.</ref> vbi 
+      <lb ed="#P" n="91"/>ait, quod <quote xml:id="gsX5tY-d1e176-Qd1e376" source="http://scta.info/resource/a83-q30-d1e108" synch="240-251">vti aliqua re non potest, nisi ille, 
+      <lb ed="#P" n="92"/>qui est rationis particeps</quote>; Consequentia
+      pa<lb ed="#P" n="93" break="no"/>tet, quia aliter similitudo non esset bona. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e385">
+                  <lb ed="#P" n="94"/>4. Sequeretur, quod sicut motus est
+      a<lb ed="#P" n="95" break="no"/>ctus mobilis, &amp; non mouentis, Vt patet in 
+      <lb ed="#P" n="96"/>eodem 3. physicorum, ita vsus esset actus vti 
+      <lb ed="#P" n="97"/>bilis, &amp; non vtentis, &amp; sic magis vtibile vtere 
+      <lb ed="#P" n="98"/>tur, quam ipsum vtens, quod est absurdum. 
+      <!--140.xml-->
+      <pb ed="#P" n="115"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Quapropter mihi videtur dicendum, quod 
+      <lb ed="#P" n="2"/>vti est quidam actus, per quem vtens
+      appli<lb ed="#P" n="3" break="no"/>cat se rei vtibili, referendo eam in debitum fi 
+      <lb ed="#P" n="4"/>nem, quia velle aliquid propter indebitum 
+      <lb ed="#P" n="5"/>finem, est potius abusus, quam vsus
+      secun<lb ed="#P" n="6" break="no"/>dum <ref xml:id="gsX5tY-d1e176-Rd1e417">P: Aug. primo de Doct. Chr. c. 1.</ref> Quod 
+      <lb ed="#P" n="7"/>autem iste modus describendi vti sit rationa 
+      <lb ed="#P" n="8"/>bilis, probo ex <ref xml:id="gsX5tY-d1e176-Rd1e424">P. Aug. 10. de Trinit. cap.
+        pe<lb ed="#P" n="9" break="no"/>nultimo</ref>, vbi dicit, quod <quote xml:id="gsX5tY-d1e176-Qd1e430" source="http://scta.info/resource/adt-l10-d1e1178" synch="183-190">vti est absumere
+          ali<lb ed="#P" n="10" break="no"/>quid in facultatem voluntatis</quote>, non propter 
+      <lb ed="#P" n="11"/>illud ipsum, sed propter aliud, quod
+      appeti<lb ed="#P" n="12" break="no"/>tur, constat autem, quod voluntas assumit ali 
+      <lb ed="#P" n="13"/>quam rem in sua facultate, quando se
+      appli<lb ed="#P" n="14" break="no"/>cat illi rei per aliquem actum, per quem actu 
+      <lb ed="#P" n="15"/>dicitur ea vti eo modo, quo illi applicatur It 
+      <lb ed="#P" n="16"/>talem actum, &amp; hinc est, quod cum quaedam 
+      <lb ed="#P" n="17"/>sint, quibus voluntas non potest se
+      applica<lb ed="#P" n="18" break="no"/>re, nisi per actum elicitum, vsus illorum in 
+      <lb ed="#P" n="19"/>solo actu elicito consistit, quia vero quaedam 
+      <lb ed="#P" n="20"/>alia sunt, quibus voluntas potest se
+      applica<lb ed="#P" n="21" break="no"/>re etiam per actum imperatum; ideo vsus
+      eo<lb ed="#P" n="22" break="no"/>rum consistit in vtroque actu. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e462">
+                  <lb ed="#P" n="23"/>His praemissis facile est videre, cuius
+      po<lb ed="#P" n="24" break="no"/>tentiae actus sit vti, &amp; per hoc patebit vtrum 
+      <lb ed="#P" n="25"/>vti, &amp; frui sint actus eiusdem potentiae, sicut  
+      <lb ed="#P" n="26"/>quaeritur in praesenti articulo. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e473">
+                  <lb ed="#P" n="27"/>Dico igitur, quod vti est actus voluntatis 
+      <lb ed="#P" n="28"/>&amp; hoc patet ex tribus Primo, quia sicut iam 
+      <lb ed="#P" n="29"/>i actum est per P. August vti est assumere
+      ali<lb ed="#P" n="30" break="no"/>quid in facultatem voluntatis, voluntas ergo 
+      <lb ed="#P" n="31"/>est illa, quae vtitur. Secundo quia dictum est,  
+      <lb ed="#P" n="32"/>quod vti est applicare se alicui rei per aliquen 
+      <lb ed="#P" n="33"/>actum resfe endo eam in debitum finem, hoc 
+      <lb ed="#P" n="34"/>autem pertinet ad voluntatem, nam ipsa est 
+      <lb ed="#P" n="35"/>quae applicat se, &amp; omnes alias potentias suis 
+      <lb ed="#P" n="36"/>actibus, &amp; suis obiectis, ita vt nullus motus 
+      <lb ed="#P" n="37"/>in nobis, vel a nobis fiat, quin sit secundum 
+      <lb ed="#P" n="38"/>eius imperium, teste D Anselmo lib de
+      con<lb ed="#P" n="39" break="no"/>ceptu virginis c. 10. vbi ait sic Deus nos, &amp;  
+      <lb ed="#P" n="40"/>potestatem, quae est in nobis subiecit
+      volun<lb ed="#P" n="41" break="no"/>tati, vt secundum imperium eius non
+      possi<lb ed="#P" n="42" break="no"/>mus non mouere nos, &amp; facere qud ipsa vult 
+      <lb ed="#P" n="43"/>Tertio patet hoc idem quia actus
+      virtuo<lb ed="#P" n="44" break="no"/>sus, &amp; vitiosus illi oppositus sunt eiusdem 
+      <lb ed="#P" n="45"/>potentiae, opposita enim habent fieri circa 
+      <lb ed="#P" n="46"/>idem, constat autem, quod abusus est actus 
+      <lb ed="#P" n="47"/>voluntatis, alioquin illi soli non imputaretur 
+      <lb ed="#P" n="48"/>vitium, vel peccatum, quod est contra D. Au 
+      <lb ed="#P" n="49"/>gust. in lib; de libero arbitrio cap. ij vbi ait,  
+      <lb ed="#P" n="50"/>quod non est cui recte imputetur peccatum, 
+      <lb ed="#P" n="51"/>nisi soli voluntati. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e531">
+                  <lb ed="#P" n="52"/>Concludo ergo, quod vti est actus volun 
+      <lb ed="#P" n="53"/>tatis: &amp; cum etiam frui sit actus eiusdem
+      vo<lb ed="#P" n="54" break="no"/>luntatis, vt patuit in 1: qhuius dist sequitur,  
+      <lb ed="#P" n="55"/>quod ambo sint actus eiusdem potentiae, quod 
+      <lb ed="#P" n="56"/>confirmo tali ratione. Sicut vti est applicare 
+      <!--140.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 115 b -->
+                  <lb ed="#P" n="57"/>se alicui rei per aliquem actum, referendo ea 
+      <lb ed="#P" n="58"/>in debitum fine, ita frui est applicare se illi 
+      <lb ed="#P" n="59"/>debito fini inherendo ei propter seipsum, sed  
+      <lb ed="#P" n="60"/>applicare se fini, &amp; his quaesunt ad fine, per 
+      <lb ed="#P" n="61"/>tinet ad eandem potentiam, ergo vti, &amp; frui 
+      <lb ed="#P" n="62"/>sunt actus eiusdem potentiae, &amp; sic patet pri 
+      <lb ed="#P" n="63"/>mus articulus.  
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e176-Dd1e567" type="articulus">
+               <head xml:id="gsX5tY-d1e176-Hd1e569">Articulus 2</head>
+               <head xml:id="gsX5tY-d1e176-Hd1e572" type="question-title">Utrum uti et frui sint idem actus</head>
+      
+               <p xml:id="gsX5tY-d1e176-d1e575">
+                  <lb ed="#P" n="64"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="65"/>Vtrum vti, &amp; frui sint idem actus. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e582">
+                  <lb ed="#P" n="66"/>AD euidentiam huius articuli est 
+      intel<lb ed="#P" n="67" break="no"/>ligendum, quod inter vti, &amp; frui dua 
+      <lb ed="#P" n="68"/>apparent differentiae, vna est, quod frui 
+      <lb ed="#P" n="69"/>respicit ipsum finem propter se ipsum, 
+      <lb ed="#P" n="70"/>vti vero respicit ea, quae sunt ad finem, non 
+      <lb ed="#P" n="71"/>propter se ipsa, sed propter ipsum finem 
+      <lb ed="#P" n="72"/>AItera differentia est, quia frui proprie
+      acce<lb ed="#P" n="73" break="no"/>ptum dicit solum actum elicitum
+      volunta<lb ed="#P" n="74" break="no"/>tis, vti autem quandoque etiam dicit actum
+      im<lb ed="#P" n="75" break="no"/>peratum, quod clare patet, videmus enim ma 
+      <lb ed="#P" n="76"/>nifeste, quod facta ostensione vltimi finis vo 
+      <lb ed="#P" n="77"/>luntas illi inhaeret tantum per actum
+      elici<lb ed="#P" n="78" break="no"/>tum, &amp; non per aliquem actum imperatum 
+      <lb ed="#P" n="79"/>inferioribus potentijs, facta vero ostensione, 
+      <lb ed="#P" n="80"/>&amp; plena deliberatione eorum, quae sunt ad 
+      <lb ed="#P" n="81"/>finem, voluntas se applicat illis non solum 
+      <lb ed="#P" n="82"/>per actum elicitum, sed etam per actum imperatum 
+      <lb ed="#P" n="83"/>inferioribus potentijs: quod ideo est, quia
+      ali<lb ed="#P" n="84" break="no"/>qua eorum quae sunt referibilia in vltimum 
+      <lb ed="#P" n="85"/>finem, non possunt ordinati in illum, nisi per 
+      <lb ed="#P" n="86"/>aliquem actum inferioribus potentijs
+      impe<lb ed="#P" n="87" break="no"/>ratum, &amp; hinc est, quod illi, qui exponunt 
+      <lb ed="#P" n="88"/>positionem superius recitatam dicunt, quod 
+      <lb ed="#P" n="89"/>vti est actus voluntatis, tanquam elicientis,  
+      <lb ed="#P" n="90"/>&amp; tanquam imperantis, &amp; est actus
+      inferio<lb ed="#P" n="91" break="no"/>rum potentiarum, tanquam exequentium, 
+      <lb ed="#P" n="92"/>uod dictum non probo quoad secundam par 
+      <lb ed="#P" n="93"/>tem, scilicet quod sit actus potentiarum
+      exe<lb ed="#P" n="94" break="no"/>uentium, nam quamuis huiusmodi actus se 
+      <lb ed="#P" n="95"/>cundum illud, quod est materialiter, sit actus 
+      <lb ed="#P" n="96"/>potentiarum exequentiam, in quantum
+      ta<lb ed="#P" n="97" break="no"/>men imperatus a voluntate, vt eo medianti 
+      <lb ed="#P" n="98"/>res vtibilis pertractetur eo modo, quo est vti 
+      <lb ed="#P" n="99"/>lis ad consecutionem debiti finis, sic est actus 
+      <lb ed="#P" n="100"/>potentiae imperantis; sicut quamuis actio,
+      se<lb ed="#P" n="101" break="no"/>cundum id quod est materialiter, sit actus 
+      <lb ed="#P" n="102"/>palli; quatenus tamen est actio, dicitur actus 
+      <lb ed="#P" n="103"/>agentis, &amp; quia talis actus imperatus dicitus 
+      <lb ed="#P" n="104"/>vsus, in quantum voluntas imperat eum, unt 
+      <lb ed="#P" n="105"/>mediante eo vtatur re utibili, sic vt per eum 
+      <lb ed="#P" n="106"/>iuuetur ad consequendum debitum sinem 
+      <lb ed="#P" n="107"/>hoc modo non est actus potentiarum exe¬ 
+      <!--141.xml-->
+      <pb ed="#P" n="116"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quentium, sed solius voluntatis. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e684">
+                  <lb ed="#P" n="2"/>Cum ergo quaeritur vtrum vti, &amp; frui sint 
+      <lb ed="#P" n="3"/>idem actus dico, quod si accipiatur vti pro vt 
+      <lb ed="#P" n="4"/>dicit actum elicitum solum, sic non habeo 
+      <lb ed="#P" n="5"/>pro inconueniente, quod vti, &amp; frui possint 
+      <lb ed="#P" n="6"/>dici vnus actus, ita quod non pono, quod 
+      <lb ed="#P" n="7"/>sint necessario vnus actus, nec dico, quod 
+      <lb ed="#P" n="8"/>sint necessario distincti actus, sed concedo. 
+      <lb ed="#P" n="9"/>quod vtrumque istorum possit contingere; 
+      <lb ed="#P" n="10"/>ldque patet, nam si contingat, quod voluntas 
+      <lb ed="#P" n="11"/>ita fruatur vltimo fine, vt non conuertat se 
+      <lb ed="#P" n="12"/>super aliquid aliud, tunc ille actus est
+      sim<lb ed="#P" n="13" break="no"/>pliciter frui: similiter si conuertat se super 
+      <lb ed="#P" n="14"/>ea, quae sunt ad finem, non referendo tamen 
+      <lb ed="#P" n="15"/>ea actu in finem, sed habitu tantum, tune
+      il<lb ed="#P" n="16" break="no"/>le actus erit vti, &amp; non frui, &amp; isto modo sunt 
+      <lb ed="#P" n="17"/>distincti actus eliciti a voluntate, non pro eo 
+      <lb ed="#P" n="18"/>dem tempore, sed vnus prior altero, quia sup 
+      <lb ed="#P" n="19"/>pono cum via communi, quod voluntas non 
+      <lb ed="#P" n="20"/>possit informari simul distinctis actibus. 
+      <lb ed="#P" n="21"/>Si autem contingat, quod voluntas ita frua 
+      <lb ed="#P" n="22"/>tur vltimo sine, quod etiam actualiter
+      con<lb ed="#P" n="23" break="no"/>uertat se super ea, quae sunt ad finem: tunc 
+      <lb ed="#P" n="24"/>necessario per vnum actum elicitum fruitur 
+      <lb ed="#P" n="25"/>&amp; vtitur. Similiter eodem modo, si tendat 
+      <lb ed="#P" n="26"/>in ea, quae sunt ad finem, actualiter referen 
+      <lb ed="#P" n="27"/>do ea in finem, tunc simul, &amp; per vnum actum 
+      <lb ed="#P" n="28"/>elicitum vtetur, &amp; fruetur, quod patet:
+      con<lb ed="#P" n="29" break="no"/>stat enim, quod voluntas potest simul, &amp; per 
+      <lb ed="#P" n="30"/>vnum actum elicitum tendere in finem, &amp; 
+      <lb ed="#P" n="31"/>in ea quae sunt ad finem, quemadmodum 
+      <lb ed="#P" n="32"/>intellectus, simul per eundem actum potest 
+      <lb ed="#P" n="33"/>tendere in principium, &amp; conclusionem: 
+      <lb ed="#P" n="34"/>Huiusmodi autem actus voluntatis non est 
+      <lb ed="#P" n="35"/>frui tantum, quia sequeretur, quod
+      volun<lb ed="#P" n="36" break="no"/>tas frueretur fine, &amp; his, quae sunt ad fine, 
+      <lb ed="#P" n="37"/>&amp; per consequens simul eodem actu
+      pecca<lb ed="#P" n="38" break="no"/>ret inquantum frueretur his, quae sunt ad fi- 
+      <lb ed="#P" n="39"/>nem, &amp; non peccaret fruendo ipso fine, quod 
+      <lb ed="#P" n="40"/>est impossibile: Nec potest dici, quod ille 
+      <lb ed="#P" n="41"/>actus, sit tantum vti, quia tunc vteretur
+      vl<lb ed="#P" n="42" break="no"/>timo fine, propter quod relinquitur necessa 
+      <lb ed="#P" n="43"/>rio esse dicendum, quod ille actus sit simul 
+      <lb ed="#P" n="44"/>vti, &amp; frui, aliter tamen, &amp; aliter; nam in 
+      <lb ed="#P" n="45"/>quantum voluntas tendit in sinem,
+      referen<lb ed="#P" n="46" break="no"/>do ea in finem, iste actus dicitur vti; pro vt 
+      <lb ed="#P" n="47"/>vero tendit in finem propter se ipsum,
+      refe<lb ed="#P" n="48" break="no"/>rendo alia in ipsum, idem actus dicitur frui,  
+      <lb ed="#P" n="49"/>&amp; sic patet, quod isti actus non sunt
+      neces<lb ed="#P" n="50" break="no"/>sario distincti. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e794">
+                  <lb ed="#P" n="51"/>Hinc forte est, quod P. August xi. de Ci 
+      <lb ed="#P" n="52"/>uit. Dei cap. 20. non ponit differentiam
+      in<lb ed="#P" n="53" break="no"/>ter vti, &amp; frui ex parte actus, sed ex parte 
+      <lb ed="#P" n="54"/>obiecti, dicens, nec ignoro quod proprie fru 
+      <lb ed="#P" n="55"/>ctus fruentis sit vsus vtentis: Inter quae hoc 
+      <lb ed="#P" n="56"/>interesse videtur, quia illa re frui dicimur, 
+      <lb ed="#P" n="57"/>quae nos, non in aliud referendo, per se ipsam 
+      <!--141.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 116 b -->
+                  <lb ed="#P" n="58"/>delectat, ea vero re vtimur, per quam aliud 
+      <lb ed="#P" n="59"/>quaerimus, sed si accipiamus vti, pro vt dicit 
+      <lb ed="#P" n="60"/>actum a voluntate imperatum alicui inferio 
+      <lb ed="#P" n="61"/>ri potentiae, sic est necessario distinctus actu 
+      <lb ed="#P" n="62"/>ab ipso frui, vt superius dictum est, &amp; haec 
+      <lb ed="#P" n="63"/>sufficiant. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e176-Dd1e832" type="articulus">
+               <head xml:id="gsX5tY-d1e176-Hd1e834">Articulus 3</head>
+               <head xml:id="gsX5tY-d1e176-Hd1e837" type="question-title">Utrum omnia, quae sunt citra Deum, sint utibilia</head>
+               <p xml:id="gsX5tY-d1e176-d1e840">
+                  <lb ed="#P" n="64"/>ARTICVLVS TERTIVS 
+      <lb ed="#P" n="65"/>Vtrum omnia, quae sunt citra. Deum, 
+      <lb ed="#P" n="66"/>sint vtibilia.
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e849">
+                  <lb ed="#P" n="67"/>D hoc respondeo affirmatiue; quod 
+      <lb ed="#P" n="68"/>patet, nam omnia, quae sunt citra Deum 
+      <lb ed="#P" n="69"/>iunt in Deum referibilia, ergo omnia sunt 
+      <lb ed="#P" n="70"/>vtibilia. Consequentia est nota ex dictis; 
+      <lb ed="#P" n="71"/>nam sicut frui proprie acceptum est
+      inhaere<lb ed="#P" n="72" break="no"/>re Deo, tanquam vltimo fini, propter se
+      ip<lb ed="#P" n="73" break="no"/>sum, ita vti proprie acceptum, est applicare 
+      <lb ed="#P" n="74"/>se ad quodcunque aliud ens citra Deum,
+      re<lb ed="#P" n="75" break="no"/>ferendo ipsum in Deum, probo Antecedens,  
+      <lb ed="#P" n="76"/>nam omnia quae sunt citra Deum, vel sunt 
+      <lb ed="#P" n="77"/>pera Dei, vel opera nostra, si sunt opera 
+      <lb ed="#P" n="78"/>Dei, non est dubium, quia sint referibilia in 
+      <lb ed="#P" n="79"/>Deum, tanquam in vltimumfinem, cum ipse 
+      <lb ed="#P" n="80"/>sit AIpha, &amp; Omega, &amp; ideo quamuis sint 
+      <lb ed="#P" n="81"/>quaedam opera Dei, quae non sunt pertracta 
+      <lb ed="#P" n="82"/>bilia a voluntate per aliquem actum in infe 
+      <lb ed="#P" n="83"/>rioribus potentijs imperatum, nullum est ta 
+      <lb ed="#P" n="84"/>men opus Dei, quod non sit pertractabile a 
+      <lb ed="#P" n="85"/>voluntate per aliquem actum elicitum, per 
+      <lb ed="#P" n="86"/>quem potest ipsum referre in Deum.
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e895">
+                  <lb ed="#P" n="87"/>Si autem sunt opera nostra, illa etiam sunt 
+      <lb ed="#P" n="88"/>referibilia in Deum, quia vel sunt opera vir 
+      <lb ed="#P" n="89"/>tuosa, vel vitiosa, vel indifferentia, si sint vir 
+      <lb ed="#P" n="90"/>tuosa, vel sunt facta in charitate, non est
+      du<lb ed="#P" n="91" break="no"/>bium, quod referantur in Deum, vel actu 
+      <lb ed="#P" n="92"/>vel habitu, quia principale obiectum
+      chari<lb ed="#P" n="93" break="no"/>tatis est Deus; si vero sint facta extra
+      chari<lb ed="#P" n="94" break="no"/>tatem, cum illa ex genere suo sint bona, quan 
+      <lb ed="#P" n="95"/>tum est de se sunt referibilia in Deo, quod si 
+      <lb ed="#P" n="96"/>non referantur, hoc non est ex parte operum 
+      <lb ed="#P" n="97"/>secundum se, sed propter defectum
+      charita<lb ed="#P" n="98" break="no"/>tis, cuius est omnia in Deum referre; Vnde 
+      <lb ed="#P" n="99"/>si superueniet charitas, refert opera illa in 
+      <lb ed="#P" n="100"/>Deum actu, vel habitu. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e929">
+                  <lb ed="#P" n="101"/>Si autem sint opera vitiosa, quamuis illa  
+      <lb ed="#P" n="102"/>non sint referibilia in Deum secundum se, 
+      <lb ed="#P" n="103"/>nec in quantum sunt elicita a peccante, quia 
+      <lb ed="#P" n="104"/>sic deuiant omnino ab vltimo fine, quat ens 
+      <lb ed="#P" n="105"/>tamen voluntas potest circa ea habere aliquen 
+      <lb ed="#P" n="106"/>actum, puta displicentiae, &amp; detestationis, sic 
+      <lb ed="#P" n="107"/>possunt dici vtibilia, hinc dicit <ref xml:id="gsX5tY-d1e176-Rd1e946">Apostolus ad 
+      <!--142.xml-->
+      <pb ed="#P" n="117"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>Rom.</ref> quod <quote xml:id="gsX5tY-d1e176-Qd1e957" source="http://scta.info/resource/rom8_28" synch="4-9">diligentibus Deum omnia
+      coo<lb ed="#P" n="2" break="no"/>perantur in bonum</quote>, vbi addit glosa, etiam  
+      <lb ed="#P" n="3"/>peccata, quod est intelligendum isto modo. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e965">
+                  <lb ed="#P" n="4"/>Si vero sint opera indifferentia, sic illa pos 
+      <lb ed="#P" n="5"/>sunt referri in Deum, quia pro aliquo casu 
+      <lb ed="#P" n="6"/>possunt imperari a charitate, vel propter ho 
+      <lb ed="#P" n="7"/>norem Dei, vel propter aliquid aliud, quod 
+      <lb ed="#P" n="8"/>posset valere ad illud. Sic ergo patet
+      quo<lb ed="#P" n="9" break="no"/>modo omnia citra Deum sint aliqualiter vtibilia,
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e176-Dd1e982">
+               <head xml:id="gsX5tY-d1e176-Hd1e984">Ad rationes principales</head>
+               <p xml:id="gsX5tY-d1e176-d1e987">
+                  <lb ed="#P" n="10"/>AD RATIONES PRINCIPALES.
+      <lb ed="#P" n="11"/>AD primam concedo maiorem, sed
+      ne<lb ed="#P" n="12" break="no"/>go minorem, &amp; cum probatur, quia 
+      <lb ed="#P" n="13"/>eiusdem potentiae est aliqua conferre
+      adin<lb ed="#P" n="14" break="no"/>uicem, &amp; ea in finem referre, dico, quod re 
+      <lb ed="#P" n="15"/>ferre aliqua in fine, &amp; conferre ea adinuicen 
+      <lb ed="#P" n="16"/>sunt diuersi actus, propter quod non
+      opor<lb ed="#P" n="17" break="no"/>tet, quod sint eiusdem potentiae. vlterius; 
+      <lb ed="#P" n="18"/>dato quod referre aliqua in finem sit actus 
+      <lb ed="#P" n="19"/>intellectus, non est tamen eo modo, quo pos 
+      <lb ed="#P" n="20"/>sit dici vti, sed sola voluntas est illa, quae sic 
+      <lb ed="#P" n="21"/>refert in finem res, quod illud referre
+      dici<lb ed="#P" n="22" break="no"/>tur vti, quia se applicat ad ea, &amp; in suam
+      fa<lb ed="#P" n="23" break="no"/>cultatem eam sic recipit, vt illi deseruiant 
+      <lb ed="#P" n="24"/>ad consecutionem debiti finis. 
+    </p>
+               <p xml:id="gsX5tY-d1e176-d1e1022">
+                  <lb ed="#P" n="25"/>Ad secundam concedo maiorem sub isto 
+      <lb ed="#P" n="26"/>sensu, puta, quod illi actus necessario sunt 
+      <lb ed="#P" n="27"/>distinctisquia habent diuersa abiecta, in quam 
+      <lb ed="#P" n="28"/>tum sunt diuersa, sed tunc minor est falsa, 
+      <lb ed="#P" n="29"/>nam si voluntas feratur in finem per actum 
+      <lb ed="#P" n="30"/>fruendi, &amp; in ea, quae sunt ad finem per a 
+      <lb ed="#P" n="31"/>ctum vtendi, tunc feretur in plura obiecta, 
+      <lb ed="#P" n="32"/>vt vnum sunt, quia hoc modo fertur in finem,  
+      <lb ed="#P" n="33"/>mediantibus his, quae sunt ad finem, vel e con 
+      <lb ed="#P" n="34"/>uerso fertur in ea, quae sunt ad finem,
+      me<lb ed="#P" n="35" break="no"/>diante fine, propter quod vno actu fertur in 
+      <lb ed="#P" n="36"/>vtraque; &amp; haec sufficiant pro prima
+      di<lb ed="#P" n="37" break="no"/>stinctione. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

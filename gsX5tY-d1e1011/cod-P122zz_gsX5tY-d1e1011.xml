@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="574-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e1011"> <!-- l1d38q1 -->
+            <head xml:id="gsX5tY-d1e1011-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e1011-Hd1e112" type="question-title">Utrum futura contingentia in divina essentia immutabiliter
+      repraesententur.</head>
+            <p xml:id="gsX5tY-d1e1011-d1e115">
+               <lb ed="#P" n="64"/>DISTINCTIONIS XXXVIII. 
+      <lb ed="#P" n="65"/>QVAESTIO VNICA 
+      <lb ed="#P" n="66"/>Vtrum futura contingentia in diuina
+      essen<lb ed="#P" n="67" break="no"/>tia immutabiliter represententur. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e126">
+               <lb ed="#P" n="68"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="69"/>negatiua 
+      <lb ed="#P" n="70"/>1QIfutura contingentia immutabiliter re 
+      <lb ed="#P" n="71"/>presentarentur in diuina essentia, tunc 
+      <lb ed="#P" n="72"/>representarentur eodem modo sicut necessa 
+      <lb ed="#P" n="73"/>ria, quod omnino apparet inconueniens 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e143">
+               <lb ed="#P" n="74"/>2 Sequeretur, quod immutabiliter essent 
+      <lb ed="#P" n="75"/>praesentia diuino intellectui, &amp; necessario 
+      <lb ed="#P" n="76"/>cognita, &amp; per consequens necessario eueni 
+      <lb ed="#P" n="77"/>rent, quod est falsum, Consequentia
+      appa<lb ed="#P" n="78" break="no"/>ret, quia eodem modo sunt praesentia
+      diui<lb ed="#P" n="79" break="no"/>no intellectui, &amp; ab eo cognita, quo sunt in 
+      <lb ed="#P" n="80"/>sua essentia praesentata, &amp; eodem modo eue 
+      <lb ed="#P" n="81"/>niunt, quo ab eo sunt cognita, alioquin sua 
+      <lb ed="#P" n="82"/>scientia falleretur. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e165">
+               <lb ed="#P" n="83"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="84"/>affirmante¬. 
+      <lb ed="#P" n="85"/>1 QI futura contingentia non essent immu 
+      <lb ed="#P" n="86"/>Atabiliter representata in diuina
+      essen<lb ed="#P" n="87" break="no"/>tia, sequeretur, vel quod nullo modo essent 
+      <lb ed="#P" n="88"/>representata in diuina essentia, vel quod
+      es<lb ed="#P" n="89" break="no"/>sentia reciperet variationem in ratione
+      re<lb ed="#P" n="90" break="no"/>presentandi, quorum vtrunque est absurdum.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e185">
+               <lb ed="#P" n="91"/>2 Sequeretur etiam, quod diuinus
+      intel<lb ed="#P" n="92" break="no"/>lectus non cognosceret infallibiliter ea, quod 
+      <lb ed="#P" n="93"/>etiam patet esse falsum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e194">
+               <lb ed="#P" n="94"/>RESPONDEO: In ista quaestione duo 
+      <lb ed="#P" n="95"/>sunt videnda, quae tanguntur in argumentis.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e201">
+               <lb ed="#P" n="96"/>1 Vtrum futura contingentia in diuina 
+      <lb ed="#P" n="97"/>essentia immutabiliter represententur. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e208">
+               <lb ed="#P" n="98"/>2 Vtrum futura contingentia sint
+      prae<lb ed="#P" n="99" break="no"/>sentia diuino intellectui, &amp; ex hoc infallibili 
+      <lb ed="#P" n="100"/>ter sint cognita. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e218">
+               <lb ed="#P" n="101"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="102"/>Vtrum in diuina essentia infallibiliter
+      prae<lb ed="#P" n="103" break="no"/>sententur futura contingentia.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e227">
+      <!--599.xml-->
+               <pb ed="#P" n="574"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>D hunc respondent quidam, quod fu 
+      <lb ed="#P" n="2"/>tura contingentia representantur
+      im<lb ed="#P" n="3" break="no"/>mutabiliter in diuina essentia per suas ratio 
+      <lb ed="#P" n="4"/>nes ideales, cuius ratio est secundum eos,  
+      <lb ed="#P" n="5"/>quia ideae perfecte representant ideata non 
+      <lb ed="#P" n="6"/>solum quantum ad suum esse quidditatiuum,  
+      <lb ed="#P" n="7"/>sed etiam quantum ad omnem conditionem 
+      <lb ed="#P" n="8"/>existentiae in rerum natura: Quapropter ideae 
+      <lb ed="#P" n="9"/>futurorum contingentium representabunt 
+      <lb ed="#P" n="10"/>ea non solum quantum ad suam simplicem 
+      <lb ed="#P" n="11"/>quidditatem, sed etiam quantum ad actualem 
+      <lb ed="#P" n="12"/>existentiam, quam habitura sunt in tempore, 
+      <lb ed="#P" n="13"/>quamuis contingenter. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e264">
+               <lb ed="#P" n="14"/>Hanc autem opinionem, quidam
+      impro<lb ed="#P" n="15" break="no"/>bant maxime ex tribus.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e271">
+               <lb ed="#P" n="16"/>Primo sic. lllud, quod est ratio
+      represen<lb ed="#P" n="17" break="no"/>tandi terminos simplices, non est ratio repre 
+      <lb ed="#P" n="18"/>sentandi complexionem illorum, nisi illa com 
+      <lb ed="#P" n="19"/>plexio proueniat necessario ex natura termi- 
+      <lb ed="#P" n="20"/>norum, sed complexio essentiae cum actuali 
+      <lb ed="#P" n="21"/>existentia in futuris contingentibus non pro 
+      <lb ed="#P" n="22"/>uenit necessario ex natura terminorum, quia 
+      <lb ed="#P" n="23"/>sic non essent contingentia sed necessaria, 
+      <lb ed="#P" n="24"/>ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e293">
+               <lb ed="#P" n="25"/>Secundo. Illud, cuius representatio subest 
+      <lb ed="#P" n="26"/>voluntati diuinae, non potest esse representa 
+      <lb ed="#P" n="27"/>tum per ideam, sed representatio futurorum 
+      <lb ed="#P" n="28"/>contingentium subest voluntati diuinae, ergo 
+      <lb ed="#P" n="29"/>&amp;c Maior probatur, quia representatio per 
+      <lb ed="#P" n="30"/>ideam est mere naturalis praeueniens omne 
+      <lb ed="#P" n="31"/>actum voluntatis diuinae: Minor apparet. 
+      <lb ed="#P" n="32"/>quia si voluntas diuina non sinat venire
+      fu<lb ed="#P" n="33" break="no"/>tura contingentia pro aliquo tempore,
+      nun<lb ed="#P" n="34" break="no"/>quam representabuntur in sua essentia,
+      alio<lb ed="#P" n="35" break="no"/>quin representaretur ibi falsum.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e319">
+               <lb ed="#P" n="36"/>Tertio. Sicut se habet idea possibilis non  
+      <lb ed="#P" n="37"/>futuri ad suum possibile non futurum; ita 
+      <lb ed="#P" n="38"/>idea possibllis futuri ad suum possibile
+      futu<lb ed="#P" n="39" break="no"/>rum: sed idea possibilis non futuri ita repre 
+      <lb ed="#P" n="40"/>sentat ipsum quantum ad suum esse
+      possibi<lb ed="#P" n="41" break="no"/>le, quod non quantum ad suum non esse fu 
+      <lb ed="#P" n="42"/>turum, quia hoc procedit ex mera
+      volunta<lb ed="#P" n="43" break="no"/>te diuina, ergo idea possibilis futuri ita repre 
+      <lb ed="#P" n="44"/>sentabit ipsum quantum ad suum esse
+      possi<lb ed="#P" n="45" break="no"/>bile, quod non quantum ad suum futurum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e344">
+               <lb ed="#P" n="46"/>Haec autem improbatio quantum ad
+      ali<lb ed="#P" n="47" break="no"/>quid videtur esse irrationabilis; quia ponit 
+      <lb ed="#P" n="48"/>quod, represeni atio futurorum
+      contingen<lb ed="#P" n="49" break="no"/>tium in diuina essentia non sit naturalis, quod 
+      <lb ed="#P" n="50"/>nullo modo videtur verum, sicut patebit: sed  
+      <lb ed="#P" n="51"/>quantum ad aliud rationabilis apparet,
+      scili<lb ed="#P" n="52" break="no"/>cet in eo, quod concludit contra praefatam  
+      <lb ed="#P" n="53"/>opinionem, quod praecisa ratio cognoscendi 
+      <lb ed="#P" n="54"/>futurum quantum ad suum fore non possit 
+      <lb ed="#P" n="55"/>esse sua simplex idea. Quod etiam nunc con 
+      <lb ed="#P" n="56"/>firmo per vnam rationem quae talis est: lllud,  
+      <lb ed="#P" n="57"/>quod se habet per indifferentiam ad duo op 
+      <!--599.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 574 b -->
+               <lb ed="#P" n="58"/>posita, non est magis ratio representandi
+      v<lb ed="#P" n="59" break="no"/>num, quam alterum, sed idea futuri se habet 
+      <lb ed="#P" n="60"/>per indifferentiam ad suum fore, &amp; ad suum 
+      <lb ed="#P" n="61"/>non fore, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e388">
+               <lb ed="#P" n="62"/>Et ideo isti qui improbant hanc praefatam 
+      <lb ed="#P" n="63"/>opinionem, dicunt, quod futura contingen 
+      <lb ed="#P" n="64"/>tia non representantur in diuina essentia
+      ni<lb ed="#P" n="65" break="no"/>si praeuia determinatione voluntatis diuinae,  
+      <lb ed="#P" n="66"/>ratio autem praecipua quae est pro hac opinione 
+      <lb ed="#P" n="67"/>potest sic formari. Sicut se habet aliquid ad 
+      <lb ed="#P" n="68"/>esse verum &amp; intelligibile, ita ad representa 
+      <lb ed="#P" n="69"/>ri in diuina essentia; sed futura contingentia 
+      <lb ed="#P" n="70"/>non habent esse verum, &amp; intelligibile nisi 
+      <lb ed="#P" n="71"/>praeuia determinatione voluntatis, diuinae, 
+      <lb ed="#P" n="72"/>ergo &amp;c. Maior est nota, &amp; Minor
+      proba<lb ed="#P" n="73" break="no"/>tur, quia futura contingentia non habent es 
+      <lb ed="#P" n="74"/>se verum &amp; intelligibile nisi inquantum sunt 
+      <lb ed="#P" n="75"/>habitura actualem existentiam in rerum
+      na<lb ed="#P" n="76" break="no"/>tura, talem autem existentiam non sunt
+      ha<lb ed="#P" n="77" break="no"/>bitura nisi praeuia determinatione diuinae vo 
+      <lb ed="#P" n="78"/>luntatis. Imaginantur autem isti talem ordi 
+      <lb ed="#P" n="79"/>nem, vt pote, quod intellectus, diuinus prae 
+      <lb ed="#P" n="80"/>sentet voluntati diuinae ipsum contingens 
+      <lb ed="#P" n="81"/>sub vtraque parte contradictionis, scilicet sub 
+      <lb ed="#P" n="82"/>esse futuro, &amp; sub esse non futuro, &amp; tunc in 
+      <lb ed="#P" n="83"/>potestate voluntatis est praeacceptare
+      quan<lb ed="#P" n="84" break="no"/>tum ad alteram partem quae est esse sub
+      fu<lb ed="#P" n="85" break="no"/>turo, quod si est praeacceptum, ex hoc ipso 
+      <lb ed="#P" n="86"/>est habiturum actualem existentiam in rerum 
+      <lb ed="#P" n="87"/>natura, ac per consequens ex hoc ipso capit 
+      <lb ed="#P" n="88"/>esse verum &amp; intelligibile quantum ad suam 
+      <lb ed="#P" n="89"/>futuritionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e451">
+               <lb ed="#P" n="90"/>Contra istam autem opinionem videntur 
+      <lb ed="#P" n="91"/>sequi tria inconuenientia. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e458">
+               <lb ed="#P" n="92"/>Primum est, quia aliqua limitatio, &amp; possi 
+      <lb ed="#P" n="93"/>bilitas esset in representatione diuinae
+      essen<lb ed="#P" n="94" break="no"/>tiae, quod omnino est inconueniens:
+      Conse<lb ed="#P" n="95" break="no"/>uentia apparet, quia in representatione
+      fu<lb ed="#P" n="96" break="no"/>turi contingentis expectat determinationem 
+      <lb ed="#P" n="97"/>diuinae voluntatis, vbicunque autem est expe 
+      <lb ed="#P" n="98"/>ctatio, ibi est possibilitas, &amp; limitatio.  
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e476">
+               <lb ed="#P" n="99"/>Secundum inconueniens est, quod repre 
+      <lb ed="#P" n="100"/>sentatio diuinae voluntatis erit naturalis quan 
+      <lb ed="#P" n="101"/>tum ad omnia representata; nam secundum 
+      <lb ed="#P" n="102"/>istam viam non representabit naturaliter
+      fu<lb ed="#P" n="103" break="no"/>tura contingentia, immo libere, quod
+      vide<lb ed="#P" n="104" break="no"/>tur: maximum inconueniens, quia sicut diui 
+      <lb ed="#P" n="105"/>nus intellectus naturaliter intelligit quicquid 
+      <lb ed="#P" n="106"/>intelligit, ita diuina essentia naturaliter repre 
+      <lb ed="#P" n="107"/>sentat quicquid representat 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e498">
+               <lb ed="#P" n="108"/>Tertium inconueniens est, quod diuina es 
+      <lb ed="#P" n="109"/>sentia caperet vim representatiuam ab ipsis 
+      <lb ed="#P" n="110"/>futuris contingentibus quod omnino
+      vide<lb ed="#P" n="111" break="no"/>tur absurdum: Consequentia apparet,
+      quo<lb ed="#P" n="112" break="no"/>niam (secundum viam istius opinionis) diuina 
+      <lb ed="#P" n="113"/>essentia ea non representat, nisi praeuia
+      eo<lb ed="#P" n="114" break="no"/>rum veritate, ac intelligibilitate, quam ha¬ 
+      <!--600.xml-->
+      <pb ed="#P" n="575"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bent per determinationem diuinae
+      volun<lb ed="#P" n="2" break="no"/>tatis 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e528">
+               <lb ed="#P" n="3"/>Nec valet si dicant, quod ista
+      representa<lb ed="#P" n="4" break="no"/>tio, non dependet per hoc ab ipsis
+      futu<lb ed="#P" n="5" break="no"/>ris, sed solum a diuina voluntate, propter 
+      <lb ed="#P" n="6"/>duo. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e539">
+               <lb ed="#P" n="7"/>Primo, quia diuina essentia habet comple 
+      <lb ed="#P" n="8"/>te totum quod sibi potest conuenire
+      intrin<lb ed="#P" n="9" break="no"/>sece ante omnem actum voluntatis; Nam  
+      <lb ed="#P" n="10"/>illa, quae sunt illi intrinseca non subsunt
+      im<lb ed="#P" n="11" break="no"/>perio voluntatis, representatio autem
+      quo<lb ed="#P" n="12" break="no"/>rumcunque entium est aliquid
+      intrinse<lb ed="#P" n="13" break="no"/>cum ei. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e557">
+               <lb ed="#P" n="14"/>Secundo, quia ipsimet dicunt, quod
+      di<lb ed="#P" n="15" break="no"/>uina Voluntas non facit talia representari in 
+      <lb ed="#P" n="16"/>diuina essentia nisi ex eo quod dat eis esse 
+      <lb ed="#P" n="17"/>verum, &amp; intelligibile quantum ad eorum 
+      <lb ed="#P" n="18"/>futuritionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e570">
+               <lb ed="#P" n="19"/>Videtur ergo aliter esse dicedum, scilicet,  
+      <lb ed="#P" n="20"/>quod futura contingentia representatur
+      im<lb ed="#P" n="21" break="no"/>mutabiliter in diuina essentia propter suam 
+      <lb ed="#P" n="22"/>summam actualitatem, cui repugnat
+      expe<lb ed="#P" n="23" break="no"/>ctare aliquid in futurum: &amp; ideo quicquid 
+      <lb ed="#P" n="24"/>representat, inuariabiliter, &amp; immutabiliter 
+      <lb ed="#P" n="25"/>representat. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e588">
+               <lb ed="#P" n="26"/>Quapropter vel erit dicendum, quod
+      fu<lb ed="#P" n="27" break="no"/>tura contingentia nullo modo
+      representen<lb ed="#P" n="28" break="no"/>tur in diuina essentia, quod patet esse
+      fal<lb ed="#P" n="29" break="no"/>sum, cum ipsa sit forma exemplaris omnium 
+      <lb ed="#P" n="30"/>entium; vel erit dicendum, quod
+      represen<lb ed="#P" n="31" break="no"/>tentur in ea naturaliter &amp; immutabiliter. Et 
+      <lb ed="#P" n="32"/>hoc est breuiter, quod intelligo de isto
+      arti<lb ed="#P" n="33" break="no"/>culo. Nec tamen propter hoc sequitur, quod 
+      <lb ed="#P" n="34"/>futura contingentia sint necessaria, &amp;
+      im<lb ed="#P" n="35" break="no"/>mutabilia, sicut patebit in sequenti articulo.  
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e612">
+               <lb ed="#P" n="36"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="37"/>Vtrum futura contingentia sint diuino
+      in<lb ed="#P" n="38" break="no"/>tellectui praesentia, &amp; infallibiliter, 
+      <lb ed="#P" n="39"/>ab eo cognita.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e624">
+               <lb ed="#P" n="40"/>D quod, dicunt aliqui, quod futura 
+      <lb ed="#P" n="41"/>contingentia infallbiliter cognoscun 
+      <lb ed="#P" n="42"/>tur ab intellectu diuino, non quia in sua
+      exi<lb ed="#P" n="43" break="no"/>stentia praesententur, sed quia praeacceptatio 
+      <lb ed="#P" n="44"/>diuinae voluntatis, dat eis, quod sint in
+      diui<lb ed="#P" n="45" break="no"/>na essentia Veridice representata, ac per
+      con<lb ed="#P" n="46" break="no"/>sequens infallibiter cognita. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e642">
+               <lb ed="#P" n="47"/>lsta autem opinio non potest stare, sicut  
+      <lb ed="#P" n="48"/>patuit superius in praecedenti articulo, quod 
+      <lb ed="#P" n="49"/>etiam nunc confirmo, quia si praeacceptatio 
+      <lb ed="#P" n="50"/>diuinae voluntatis, daret futuris
+      contingen<lb ed="#P" n="51" break="no"/>tibus, quod essent infallibiliter
+      cognoscibi<lb ed="#P" n="52" break="no"/>lia, sequeretur quod illa futura
+      contingen<lb ed="#P" n="53" break="no"/>tia, super quae non potest cadere
+      praeacce<lb ed="#P" n="54" break="no"/>ptatio diuinae voluntatis, non essent ab eo co¬ 
+      <!--600.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 575 b -->
+               <lb ed="#P" n="55"/>gnita, quod patet esse falsum: Nam peccata 
+      <lb ed="#P" n="56"/>quae fient in futuro sunt talia contingentia, 
+      <lb ed="#P" n="57"/>&amp; super ea non potest cadere praeacceptatio 
+      <lb ed="#P" n="58"/>diuinae voluntatis, &amp; tamen, sunt
+      infallibili<lb ed="#P" n="59" break="no"/>ter cognita a diuino intellectu.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e679">
+               <lb ed="#P" n="60"/>Et ideo alij dicunt, quod futura
+      contin<lb ed="#P" n="61" break="no"/>gentia non ideo a diuino intellectu, sunt
+      in<lb ed="#P" n="62" break="no"/>fallibiliter cognita, quia sint per
+      praeaccepta<lb ed="#P" n="63" break="no"/>tionem diuinae voluntatis cognoscibilia, nec 
+      <lb ed="#P" n="64"/>etiam quia diuino intellectui praesentia; quia 
+      <lb ed="#P" n="65"/>diuinus intellectus ad ea non terminatur, nec 
+      <lb ed="#P" n="66"/>etiam ad aliquid extra suam essentiam, vt
+      pa<lb ed="#P" n="67" break="no"/>tuit superius secundum eorum opinionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e699">
+               <lb ed="#P" n="68"/>Quapropter tota causa, quare
+      cognoscun<lb ed="#P" n="69" break="no"/>tur est, quia diuina essentia potest esse, &amp; est 
+      <lb ed="#P" n="70"/>eminens similitudo, &amp; exemplar actualitatis 
+      <lb ed="#P" n="71"/>cuiuscunque futuri, &amp; ideo intellectus
+      ter<lb ed="#P" n="72" break="no"/>minatus ad essentiam dicitur terminatus ad 
+      <lb ed="#P" n="73"/>actualitatem cuiuscunque futuri, ex eo quod 
+      <lb ed="#P" n="74"/>terminatur ad aliquod aequipollens; &amp;
+      plus<lb ed="#P" n="75" break="no"/>quam aequipollens: Quod autem diuina
+      es<lb ed="#P" n="76" break="no"/>sentia sit similitudo &amp; exemplar actualitatis. 
+      <lb ed="#P" n="77"/>cuiuscunque futuri, probant per hoc, quia 
+      <lb ed="#P" n="78"/>diuina essentia (vt dicunt) abstrahit a tota 
+      <lb ed="#P" n="79"/>linea suceessiua, &amp; per consequens abstrahit 
+      <lb ed="#P" n="80"/>a praeteritione, ita vt nihil sit ei praeteritum,  
+      <lb ed="#P" n="81"/>abstrahit etiam a futuritione, ita vt nihil sit 
+      <lb ed="#P" n="82"/>simultaneae coexistentiae, &amp; ita abstractio est 
+      <lb ed="#P" n="83"/>tota causa (secundum eos) quare diuina
+      es<lb ed="#P" n="84" break="no"/>sentia non potest distare ab aliqua
+      differen<lb ed="#P" n="85" break="no"/>tia temporis, nec etiam aliqua differentia
+      tem<lb ed="#P" n="86" break="no"/>poris sibi simultanee coexistere: Quapropter 
+      <lb ed="#P" n="87"/>videtur relinqui, quod sine omni falsitare 
+      <lb ed="#P" n="88"/>possit representare actualitatem cuiuscuque 
+      <lb ed="#P" n="89"/>futuri, tanquam indistans ab ea 
+      <lb ed="#P" n="90"/>Haec autem opinio videtur
+      quadruplici<lb ed="#P" n="91" break="no"/>ter defidere.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e754">
+               <lb ed="#P" n="92"/>Primo, quia supponit, quod diuinus
+      in<lb ed="#P" n="93" break="no"/>tuitus non terminetur ad aliquid vltra
+      diui<lb ed="#P" n="94" break="no"/>nam essentiam, tanquam ad secundarium 
+      <lb ed="#P" n="95"/>obiectum, cuius contrarium fuit ostensum 
+      <lb ed="#P" n="96"/>superius contra eos in trigesimaquinta
+      di<lb ed="#P" n="97" break="no"/>stinctione. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e770">
+               <lb ed="#P" n="98"/>Secundo, quia representationem
+      actuali<lb ed="#P" n="99" break="no"/>tatis futuri reducit in diuinam essentiam, 
+      <lb ed="#P" n="100"/>prout abstrahit a tota linea suceessionis,
+      tan<lb ed="#P" n="101" break="no"/>uam in primam causam, quod est falsum. 
+      <lb ed="#P" n="102"/>Tum quia representatio futuri est aliquod 
+      <lb ed="#P" n="103"/>posituum, abstractio vero diuinae essentiae a 
+      <lb ed="#P" n="104"/>inea suceessionis, est aliquid negatiuum,
+      af<lb ed="#P" n="105" break="no"/>firmatio autem non debet reduci in
+      negatio<lb ed="#P" n="106" break="no"/>nem. Tum quia illud non videtur esse
+      pri<lb ed="#P" n="107" break="no"/>macausa, quo habito adhuc contingit
+      quae<lb ed="#P" n="108" break="no"/>rere aliam causam, sed ita est in proposito; 
+      <lb ed="#P" n="109"/>nam habito, quod diuina essentia abstrahat 
+      <lb ed="#P" n="110"/>a tota linea suceessionis, adhuc contingit 
+      <lb ed="#P" n="111"/>quaerere, quare sic abstrahat, &amp; per conse¬ 
+      <!--601.xml-->
+      <pb ed="#P" n="576"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quens ista non potest esse prima causa
+      re<lb ed="#P" n="2" break="no"/>presentationis ipsius futuri. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e815">
+               <lb ed="#P" n="3"/>Tertio, quia ponit, quod nihil potest
+      si<lb ed="#P" n="4" break="no"/>multanee coexistere ipsi Deo. Ad quod di- 
+      <lb ed="#P" n="5"/>ctum sequuntur duo inconuenientia;
+      pri<lb ed="#P" n="6" break="no"/>mum est, quia Deus non erit causa in actu 
+      <lb ed="#P" n="7"/>respectu creaturae, quod est falsum:
+      conse<lb ed="#P" n="8" break="no"/>quentiam probo, quia de ratione effectus est,  
+      <lb ed="#P" n="9"/>quod coexistat simultanee suae causae in
+      a<lb ed="#P" n="10" break="no"/>ctu, vt patet secundo Physicorum, Secundum 
+      <lb ed="#P" n="11"/>inconueniens est, quia Deus non poterit ter 
+      <lb ed="#P" n="12"/>minare actualiter relationem creaturae: Con 
+      <lb ed="#P" n="13"/>sequentiam probo, quia de ratione
+      relatio<lb ed="#P" n="14" break="no"/>nis est, quod dum est in actu, simultanee cone 
+      <lb ed="#P" n="15"/>xistat suo toto.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e846">
+               <lb ed="#P" n="16"/>Quarto deficit, quia ponit, quod per
+      il<lb ed="#P" n="17" break="no"/>lam representationem, qua futura
+      contin<lb ed="#P" n="18" break="no"/>gentia representantur in diuina essentia non  
+      <lb ed="#P" n="19"/>redduntur intellectui diuino praesentia, quod 
+      <lb ed="#P" n="20"/>etiam est falsum propter duo. Primo, quia 
+      <lb ed="#P" n="21"/>alio modo obijcitur essentia diuina
+      intelle<lb ed="#P" n="22" break="no"/>ctui suo, vt essentia est, &amp; alio modo, vt 
+      <lb ed="#P" n="23"/>exemplar futurorum contingentium est, &amp; 
+      <lb ed="#P" n="24"/>per consequens aliquid redditur sibi
+      prae<lb ed="#P" n="25" break="no"/>sens per hoc, quod sibi obiicitur primo
+      mo<lb ed="#P" n="26" break="no"/>do, &amp; aliud per hoc, quod sibi obiicitur
+      se<lb ed="#P" n="27" break="no"/>cundo modo; nam per hoc quod sibi obiicitur 
+      <lb ed="#P" n="28"/>primo modo, sola essentia efficitur ei
+      prae<lb ed="#P" n="29" break="no"/>sens, per hoc vero, quod obiicitur secundo 
+      <lb ed="#P" n="30"/>modo, efficiuntur ei praesentia vltra hoc, 
+      <lb ed="#P" n="31"/>etiam futura contingentia. Secundo, quia 
+      <lb ed="#P" n="32"/>non minus est efficax diuina essentia in
+      re<lb ed="#P" n="33" break="no"/>presentando futura contingentia respectu
+      in<lb ed="#P" n="34" break="no"/>tellectus diuini, quam respectu intellectus 
+      <lb ed="#P" n="35"/>creati, sed potest reddere futura
+      contingen<lb ed="#P" n="36" break="no"/>tia praesentia intellectui creato, sicut patet in 
+      <lb ed="#P" n="37"/>reuelationibus Angelorum; ergo multo ma 
+      <lb ed="#P" n="38"/>gis intellectui diuino. Nec valet illud, quod 
+      <lb ed="#P" n="39"/>dicunt, scilicet diuinum intuitum ad ea non  
+      <lb ed="#P" n="40"/>terminari; Tum quia superius fuit probatum. 
+      <lb ed="#P" n="41"/>contrarium, Tum etiam quia diuinus
+      intui<lb ed="#P" n="42" break="no"/>tus debet terminati ad omne illud quod per 
+      <lb ed="#P" n="43"/>suam essentiam efficitur sibi praesens
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e909">
+               <lb ed="#P" n="44"/>Et ideo adhuc est alia opinio quae ponit, 
+      <lb ed="#P" n="45"/>quod futura contingentia non possunt esse 
+      <lb ed="#P" n="46"/>futura respectu diuini intellectus, qui
+      men<lb ed="#P" n="47" break="no"/>suratur aeternitate; nam quia aeternitas est 
+      <lb ed="#P" n="48"/>tota simul, &amp; perfecta possessio, nihil potest 
+      <lb ed="#P" n="49"/>ei esse preteritum, vel futurum, sed totus
+      de<lb ed="#P" n="50" break="no"/>cursus temporis ei praesentialiter coexistit; 
+      <lb ed="#P" n="51"/>Quapropter diuina cognitio feretur super fu 
+      <lb ed="#P" n="52"/>tura, non tanquam super futura, sed magis 
+      <lb ed="#P" n="53"/>tanquam presentia, &amp; per consequens erunt 
+      <lb ed="#P" n="54"/>ab eo infallibiliter cognita.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e935">
+               <lb ed="#P" n="55"/>H em confirmatur tali ratione. Fi, 
+      <lb ed="#P" n="56"/>quod continet &amp; excedit totum tempus, coc 
+      <lb ed="#P" n="57"/>xistunt praeterita &amp; futura, aeternitas est hu¬ 
+      <!--601.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 576 b -->
+               <lb ed="#P" n="58"/>iusmodi, ergo &amp;c. Maior patet exemplo; via 
+      <lb ed="#P" n="59"/>demus enim, quod partes circumferentiae, 
+      <lb ed="#P" n="60"/>quantumcunque non sint insimul, quia sunt 
+      <lb ed="#P" n="61"/>extra se inuicem, omnes tamen coexistunt 
+      <lb ed="#P" n="62"/>vni centro; ita ergo suo modo in proposito, 
+      <lb ed="#P" n="63"/>quantumcunque preteritum &amp; futurum non 
+      <lb ed="#P" n="64"/>sint simul, possunt tamen comexistere vni nuc 
+      <lb ed="#P" n="65"/>eternitatis 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e968">
+               <lb ed="#P" n="66"/>Hec autem opinio a quibusdam impugna 
+      <lb ed="#P" n="67"/>tur tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e975">
+               <lb ed="#P" n="68"/>Primo sic; illud, quod in se est non ens, 
+      <lb ed="#P" n="69"/>non potest coexistere alicui vero enti: futura 
+      <lb ed="#P" n="70"/>contingentia sunt huiusmodi, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e985">
+               <lb ed="#P" n="71"/>Secundo; illa, quae comexistunt vni tertio, 
+      <lb ed="#P" n="72"/>coexistunt sibi mutuo, futurum, &amp;
+      praete<lb ed="#P" n="73" break="no"/>ritum coexistunt aeternitati; ergo coexistunt 
+      <lb ed="#P" n="74"/>sibi mutuo, hoc autem patet esse falsum, er- 
+      <lb ed="#P" n="75"/>go illud ex quo sequitur.  
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e998">
+               <lb ed="#P" n="76"/>Tertio, si intellectus diuinus habet
+      infal<lb ed="#P" n="77" break="no"/>libilem cognitionem de futuris
+      contingenti<lb ed="#P" n="78" break="no"/>bus, quia coexistunt ei praesentia, sequitur 
+      <lb ed="#P" n="79"/>quod capiat certitudinem suae cognitionis ab  
+      <lb ed="#P" n="80"/>eorundem praesentia, quod est falsum. 
+      <lb ed="#P" n="81"/>lstis tamen non obstantibus dico, quod 
+      <lb ed="#P" n="82"/>si bene intelligatur illa opinio videtur om- 
+      <lb ed="#P" n="83"/>nino rationabilis; Et ideo ad euidentiam hu 
+      <lb ed="#P" n="84"/>us est notandum, quod futura contingentia 
+      <lb ed="#P" n="85"/>esse praesentia, vel comexistentia intellectui di 
+      <lb ed="#P" n="86"/>uino potest intelligi dupliciter; vno modo, 
+      <lb ed="#P" n="87"/>quod sint ei praesentia praesentialitate dante 
+      <lb ed="#P" n="88"/>eis realem, &amp; actualem existentiam in natura, 
+      <lb ed="#P" n="89"/>&amp; isto modo non intelligo opinionem, nec 
+      <lb ed="#P" n="90"/>vnquam intellectus huius opinionis potest 
+      <lb ed="#P" n="91"/>esse talis; nam si futura contingentia essent 
+      <lb ed="#P" n="92"/>praesentia diuino intellectui isto modo, iam  
+      <lb ed="#P" n="93"/>non essent amplius futura, sed simpliciter 
+      <lb ed="#P" n="94"/>praesentia. Alio vero modo potest intelligi, 
+      <lb ed="#P" n="95"/>quod sint praesentia presentialitate dante eis 
+      <lb ed="#P" n="96"/>tantam cognoscibilitatem, ac si essent
+      reali<lb ed="#P" n="97" break="no"/>ter existentia, ita vt eorum perfecta
+      cogno<lb ed="#P" n="98" break="no"/>scibilitas nullo modo expectet eorundem exi 
+      <lb ed="#P" n="99"/>stentiam, &amp; isto modo intelligo, quod opi- 
+      <lb ed="#P" n="100"/>nio sit simpliciter vera; quod patet ex
+      duo<lb ed="#P" n="101" break="no"/>bus 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1057">
+               <lb ed="#P" n="102"/>Primo, quia si futura contingentia non  
+      <lb ed="#P" n="103"/>essent hoc modo praesentia diuino
+      intelle<lb ed="#P" n="104" break="no"/>ctui, sequeretur, quod non essent actualiter; 
+      <lb ed="#P" n="105"/>in diuina essentia representata, cuius Con 
+      <lb ed="#P" n="106"/>trarium patuit in praecedenti articulo :
+      con<lb ed="#P" n="107" break="no"/>sequentiam probo, quia actualiter
+      represen<lb ed="#P" n="108" break="no"/>tatum, in quantum est representatum, dicitur 
+      <lb ed="#P" n="109"/>relatiue ad actualiter representas, &amp; per Con 
+      <lb ed="#P" n="110"/>sequens necessario coexistit praesens 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1079">
+               <lb ed="#P" n="111"/>Secundo patet, quia sequeretur, quod
+      fu<lb ed="#P" n="112" break="no"/>tura contingentia non essent actualiter a 
+      <lb ed="#P" n="113"/>Deo cognita inquantum secundaria obiecta, 
+      <lb ed="#P" n="114"/>quod est falsum ex ijs quae dicta sunt supra; 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1090">
+      <!--602.xml-->
+               <pb ed="#P" n="577"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Consequentiam probo, quia de ratione obie 
+      <lb ed="#P" n="2"/>cti, inquantum obiectum, est quod
+      coexi<lb ed="#P" n="3" break="no"/>stat praesens ipsi potentiae 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1106">
+               <lb ed="#P" n="4"/>Concludo ergo quod futura
+      contingen<lb ed="#P" n="5" break="no"/>tia sunt diuino intellectui naturaliter praesen 
+      <lb ed="#P" n="6"/>tia eo modo quo dictum est, ac per
+      conse<lb ed="#P" n="7" break="no"/>quens infallibiliter ab eo cognita. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1118">
+               <lb ed="#P" n="8"/>Oecurrit tamen hic dubitatio, quae
+      com<lb ed="#P" n="9" break="no"/>muniter mouetur contra conclusionem; nam 
+      <lb ed="#P" n="10"/>si futura contingentia sunt infallibiliter
+      co<lb ed="#P" n="11" break="no"/>gnita, videtur quod infallibiliter eueniant,  
+      <lb ed="#P" n="12"/>ac per consequens non videtur, quod possit 
+      <lb ed="#P" n="13"/>stare infallibilis cognitio, quam habet Deus 
+      <lb ed="#P" n="14"/>de ijs cum eorum contingentia. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1136">
+               <lb ed="#P" n="15"/>Ad hoc communiter dicitur, quod
+      infal<lb ed="#P" n="16" break="no"/>libilis cognitio Dei non dat futuris
+      contin<lb ed="#P" n="17" break="no"/>gentibus necessitatem absolutam, sed neces 
+      <lb ed="#P" n="18"/>sitatem conditionatam, necessitas autem con 
+      <lb ed="#P" n="19"/>ditionata bene potest stare cum
+      contingen<lb ed="#P" n="20" break="no"/>tia, nam videmus quod contingens, quando 
+      <lb ed="#P" n="21"/>actu est, necessarium est, quia omne quod 
+      <lb ed="#P" n="22"/>est, quando est, necesse est esse, vt habet Ati 
+      <lb ed="#P" n="23"/>stot. primo Perhier non tamen propter hoc 
+      <lb ed="#P" n="24"/>talis necessitas tollit sibi contingentiam suam, 
+      <lb ed="#P" n="25"/>quia non est necessitas absoluta, sed ex
+      con<lb ed="#P" n="26" break="no"/>ditione, qua supponitur ipsum iam actu ex 
+      <lb ed="#P" n="27"/>stere: quod autem infallibilis cognitio Dei 
+      <lb ed="#P" n="28"/>non det futuris contingentibus necessitatem 
+      <lb ed="#P" n="29"/>absolutam, sed conditionatam declaratur ta 
+      <lb ed="#P" n="30"/>li exemplo .IPonamus quod aliquis videat 
+      <lb ed="#P" n="31"/>Sortem actu currere, ipse quidem habebit 
+      <lb ed="#P" n="32"/>infallibilem cognitionem de cursu Sortis. 
+      <lb ed="#P" n="33"/>non tamen propter hoc cursus Sortis
+      dice<lb ed="#P" n="34" break="no"/>tur necessarius necessitate absoluta, sed ne 
+      <lb ed="#P" n="35"/>cessitate conditionata, vtpote inquantum stat 
+      <lb ed="#P" n="36"/>sub illa conditione, qua supponitur cursus 
+      <lb ed="#P" n="37"/>Sortis iam actu esse, &amp; infallibiliter videri; 
+      <lb ed="#P" n="38"/>ita ergo suo modo in proposito, futurum con 
+      <lb ed="#P" n="39"/>tingens infallibiliter a Deo cognitum, non 
+      <lb ed="#P" n="40"/>potest dici necessarium, nisi ex suppositione, 
+      <lb ed="#P" n="41"/>scilicet inquantum stat sub hac conditione 
+      <lb ed="#P" n="42"/>qua supponitur infallibiliter cognitum. 
+      <lb ed="#P" n="43"/>lsta tamen solutio confirmatur rationem, 
+      <lb ed="#P" n="44"/>exemplo; ratione dupliciter.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1204">
+               <lb ed="#P" n="45"/>Primo, nulla necessitas, quae est sic extrin 
+      <lb ed="#P" n="46"/>seca ab ipso futuro, quod nullo modo
+      tran<lb ed="#P" n="47" break="no"/>sit in ipsum futurum, non tollit ab eo suam 
+      <lb ed="#P" n="48"/>contingentiam, necessitas autem diuinae
+      co<lb ed="#P" n="49" break="no"/>gnitionis nullo modo transit in ipsum
+      futu<lb ed="#P" n="50" break="no"/>rum, ac per consequens non tollit sibi suam 
+      <lb ed="#P" n="51"/>contingentiam intrinsecam, 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1222">
+               <lb ed="#P" n="52"/>Secundo ad idem sic, llla necessitas, quae 
+      <lb ed="#P" n="53"/>non contrariatur naturis entium, non tollita 
+      <lb ed="#P" n="54"/>contingentibus eorum contingentiam, quia 
+      <lb ed="#P" n="55"/>tunc tolleret eorum naturam, necessitas
+      di<lb ed="#P" n="56" break="no"/>uinae cognitionis est huiusmodi, vt patet de 
+      <lb ed="#P" n="57"/>se, ergo &amp;c.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1238">
+      <!--602.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 577 b -->
+               <lb ed="#P" n="58"/>Idem exemplo declarari potest. Nam ita 
+      <lb ed="#P" n="59"/>se habere videtur necessitas diuinae cognitio 
+      <lb ed="#P" n="60"/>nis ad contingentiam rei cognitae,
+      quemad<lb ed="#P" n="61" break="no"/>modum immaterialitas cognitionis ad mate 
+      <lb ed="#P" n="62"/>rialitatem rei cognitae, nunc autem videmus,  
+      <lb ed="#P" n="63"/>quod immaterialitas cognitionis stat cum
+      ma<lb ed="#P" n="64" break="no"/>terialitate rei cognitae, ergo necessitas
+      diui<lb ed="#P" n="65" break="no"/>nae cognitionis poterit stare cum contingen 
+      <lb ed="#P" n="66"/>tia rei cognitae: quapropter debemus
+      imagi<lb ed="#P" n="67" break="no"/>nari, quod sicut possumus habere
+      cognitio<lb ed="#P" n="68" break="no"/>nem immaterialem de rebus materialibus, ita 
+      <lb ed="#P" n="69"/>suo modo intellectus diuinus poterit habere 
+      <lb ed="#P" n="70"/>cognitionem infallibilem, &amp; necessariam de 
+      <lb ed="#P" n="71"/>rebus contingentibus.
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1277">
+               <lb ed="#P" n="72"/>Apparet ergo quid sit dicendum
+      quan<lb ed="#P" n="73" break="no"/>tum ad istum articulum, &amp; quantum ad
+      to<lb ed="#P" n="74" break="no"/>tam quaestionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1287">
+               <lb ed="#P" n="75"/>AD RATIONES PRINCIPALES. 
+      <lb ed="#P" n="76"/>AD primam dico quod necessaria, &amp;  
+      <lb ed="#P" n="77"/>futura contingentia representantur 
+      <lb ed="#P" n="78"/>eodem modo, in diuina essentia, quantum 
+      <lb ed="#P" n="79"/>ad immutabilitatem representat onis, non 
+      <lb ed="#P" n="80"/>tamen propter hoc sequitur quod quantum 
+      <lb ed="#P" n="81"/>ad omnia. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1305">
+               <lb ed="#P" n="82"/>Ad secundam vero dicendum, quod
+      fu<lb ed="#P" n="83" break="no"/>tura contingentia sunt praesentia diuino
+      in<lb ed="#P" n="84" break="no"/>tellectui eo modo quo superius est
+      exposi<lb ed="#P" n="85" break="no"/>tum: Nec rationes superius inductae ab alijs 
+      <lb ed="#P" n="86"/>cogunt, immo magis arguunt contrarium. 
+      <lb ed="#P" n="87"/>Nam cum primo dicunt, quod illud, quod 
+      <lb ed="#P" n="88"/>ise est non ens, non potest comnexistere
+      ali<lb ed="#P" n="89" break="no"/>cui vero enti; Dicendum, quod verum est 
+      <lb ed="#P" n="90"/>quantum ad veram, &amp; realem existentiam 
+      <lb ed="#P" n="91"/>non tamen quantum ad veram
+      cognoscibi<lb ed="#P" n="92" break="no"/>litatem, secundum quod est cognoscibile per 
+      <lb ed="#P" n="93"/>quoddam aliud. 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1334">
+               <lb ed="#P" n="94"/>Ad alteram vero dicendum, quod eo
+      mo<lb ed="#P" n="95" break="no"/>do, quo aliqua coexistunt vni tetrio, coexistunt 
+      <lb ed="#P" n="96"/>sibi mutuo, praeteritum autem, &amp; futurum 
+      <lb ed="#P" n="97"/>coexistunt aeternitati non quantum ad esse 
+      <lb ed="#P" n="98"/>proprie naturaliter, sed solum quantum ad 
+      <lb ed="#P" n="99"/>esse cognoscibile 
+    </p>
+            <p xml:id="gsX5tY-d1e1011-d1e1350">
+               <lb ed="#P" n="100"/>Ad tertiam vero rationem dicendum est,  
+      <lb ed="#P" n="101"/>quod non sequitut, quod diuinus intellectus 
+      <lb ed="#P" n="102"/>nabeat certitudinem de ipsis futuris
+      contin<lb ed="#P" n="103" break="no"/>gentibus, eo quod sint illi praesentia sed
+      tan<lb ed="#P" n="104" break="no"/>tum ex ratione potest inferri quod non
+      ha<lb ed="#P" n="105" break="no"/>beatat certitudinem de huiusmodi futuris com 
+      <lb ed="#P" n="106"/>tingentibus sine eorum praesentialitate in esse 
+      <lb ed="#P" n="107"/>conceptibili ipsius intellectus, &amp; non in esse 
+      <lb ed="#P" n="108"/>reali; Idcirco ratio concludit tantum quod 
+      <lb ed="#P" n="109"/>requiratur praesentialitas in essc
+      conceptibi<lb ed="#P" n="110" break="no"/>li tanquam causa sine oia non, non autem 
+      <lb ed="#P" n="111"/>tanquam causa principalis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

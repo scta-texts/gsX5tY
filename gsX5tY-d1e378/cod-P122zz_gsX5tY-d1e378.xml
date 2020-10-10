@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="244-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e378"> <!-- l1d7q1 -->
+    <!-- only seems to be one questio here, even though the heading says "prima" not "unica"-->
+            <head xml:id="gsX5tY-d1e378-Hd1e111">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e378-Hd1e114" type="question-title">Utrum potentia generandi in Deo sit aliquid absolutum</head>
+            <p xml:id="gsX5tY-d1e378-d1e117">
+               <lb ed="#P" n="45"/>DISTINCTIONIS SEPTIMAE 
+      <lb ed="#P" n="46"/>QVAESTIO PRIMA 
+      <lb ed="#P" n="47"/>3. <!-- erroneous line in image coords -->
+      <lb ed="#P" n="48"/>Vtrum potentia generandi in Deo sit
+      ali<lb ed="#P" n="49" break="no"/>quid absolutum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e134">
+               <lb ed="#P" n="50"/>VIdetur primo quod non quia illud,  
+      <lb ed="#P" n="51"/> quod de suo significato importat
+      re<lb ed="#P" n="52" break="no"/>spectum, non est quid absolutum : potentia 
+      <!--268.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 243 b -->
+               <lb ed="#P" n="53"/>generandi est huiusmodi; ergo &amp;c. Maior  
+      <lb ed="#P" n="54"/>patet, Minorem probo per Comm 1. Caeli 
+      <lb ed="#P" n="55"/>com. penultimo, vbi ait, quod potentia non  
+      <lb ed="#P" n="56"/>dicitur nisi respectu actus: omnis ergo poten 
+      <lb ed="#P" n="57"/>tia in suo significato importat respectum 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e160">
+               <lb ed="#P" n="58"/>2 In Deo non est potentia generandi, ergo 
+      <lb ed="#P" n="59"/>potentia generandi in Deo non dicit quid ab 
+      <lb ed="#P" n="60"/>solutum Consequentia patet, quia vbi
+      po<lb ed="#P" n="61" break="no"/>tentia non e non dicit quid absolutum;
+      An<lb ed="#P" n="62" break="no"/>tecedens probo, quia purus actus non
+      com<lb ed="#P" n="63" break="no"/>patitur in se aliquam potentiam: sed Deus 
+      <lb ed="#P" n="64"/>est purus actus, cui nihil admiscetur de pote 
+      <lb ed="#P" n="65"/>tia, vt patet per Comm. 8. Metaph ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e180">
+               <lb ed="#P" n="66"/>3 Si potentia generandi diceret quid
+      ab<lb ed="#P" n="67" break="no"/>solutum, sequeretur, quod esset in omni- 
+      <lb ed="#P" n="68"/>bus tribus personis; consequens est falsum; 
+      <lb ed="#P" n="69"/>ergo &amp;c. Consequentia est nota, quia
+      abso<lb ed="#P" n="70" break="no"/>luta sunt omnibus personis communia
+      Fal<lb ed="#P" n="71" break="no"/>itas consequentis etiam patet, quia tunc om 
+      <lb ed="#P" n="72"/>nes personae generatent, vel saltem potentia 
+      <lb ed="#P" n="73"/>generandi, &amp; terminus generationis esseni 
+      <lb ed="#P" n="74"/>eiusdem rationis, vbi generatio esset
+      relati<lb ed="#P" n="75" break="no"/>ua, sed prefata generatio est respectiua, &amp;  
+      <lb ed="#P" n="76"/>terminus generationis est aliquid absolutum, 
+      <lb ed="#P" n="77"/>puta essentia, vt patuit superius: ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e209">
+               <lb ed="#P" n="78"/>IN OPPOSITVM arguitur, quia 
+      <lb ed="#P" n="79"/>in Diuinis idem est esse quod posse, sed esse 
+      <lb ed="#P" n="80"/>est quid absolutum, ergo &amp;c. Maior est Arist. 
+      <lb ed="#P" n="81"/>3 phystex. 35. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e220">
+               <lb ed="#P" n="82"/>2 Magister in litera dicit potentiam
+      ge<lb ed="#P" n="83" break="no"/>nerandi esse diuinam essentiam, at essentia 
+      <lb ed="#P" n="84"/>est quid absolutum ergo &amp; potentia. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e229">
+               <lb ed="#P" n="85"/>RESPONDEO; In ista quaestione 
+      <lb ed="#P" n="86"/>tria sunt videnda 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e237">
+               <lb ed="#P" n="87"/>Quid significet hoc nomen potentia. 
+      <lb ed="#P" n="88"/>2 Vtrum potentia generandi sit in Deo. 
+      <lb ed="#P" n="89"/>3 Vtrum talis potentia dicat quid
+      abso<lb ed="#P" n="90" break="no"/>utum, vel respectiuum, sicut quaeritur 
+      <lb ed="#P" n="91"/>principaliter, 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e250">
+               <lb ed="#P" n="92"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="93"/>Quid significet hoc nomen potentia 
+      <lb ed="#P" n="94"/>Ro huius nominis intelligentia dimissis. 
+      <lb ed="#P" n="95"/>multis modis potentiae, qui possunt
+      ha<lb ed="#P" n="96" break="no"/>peri ex quinto, &amp; nono Metaph. dico quod 
+      <lb ed="#P" n="97"/>quaestio ista intendit solum de potentia
+      age<lb ed="#P" n="98" break="no"/>di, &amp; patiendi. Nam inter modos accipiendi 
+      <lb ed="#P" n="99"/>poniam iste videtur potissimus secundum Auer 
+      <lb ed="#P" n="100"/>3 Metaph capite de potentia circa finem
+      ile<lb ed="#P" n="101" break="no"/>ius commenti. Hoc enim nomen potentia 
+      <lb ed="#P" n="102"/>in rei veritate, dicitur de potentijs agentibus 
+      <lb ed="#P" n="103"/>in aliud, in quantum aliud, &amp; de patientibus 
+      <lb ed="#P" n="104"/>ex alio, secundum, quod ex alio.  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e281">
+               <lb ed="#P" n="105"/>Accipiendo ergo potentiam isto modo, &amp; v 
+      <!--269.xml-->
+      <pb ed="#P" n="244"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>maxime potentiam agendi, quamuis ea, quae 
+      <lb ed="#P" n="2"/>dicentur infra, sint communia etiam
+      poten<lb ed="#P" n="3" break="no"/>tiae patiendi. Respondent aliqui ad istum ar 
+      <lb ed="#P" n="4"/>ticuium dicentes, quod potentia agendi, vel 
+      <lb ed="#P" n="5"/>patiendi importat duo in suo significato;
+      vi<lb ed="#P" n="6" break="no"/>delicet aliquid absolutum, &amp; aliquid
+      respe<lb ed="#P" n="7" break="no"/>ctiuum fundatum super illud absolutum, non 
+      <lb ed="#P" n="8"/>tamen ex aequo, quia absolutum importat in 
+      <lb ed="#P" n="9"/>recto, respectum vero in obliquo.  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e312">
+               <lb ed="#P" n="10"/>Quod autem importet absolutum in
+      re<lb ed="#P" n="11" break="no"/>cto, probant per, hoc, quia est in secunda spe 
+      <lb ed="#P" n="12"/>ciae qualitatis, sed quod dicat, respectum in 
+      <lb ed="#P" n="13"/>obliquo, deducunt ex modo significandi, quia 
+      <lb ed="#P" n="14"/>ex suo modo significandi dicit ordinem ad 
+      <lb ed="#P" n="15"/>actum, Quod patet etiam per Auerroem
+      di<lb ed="#P" n="16" break="no"/>centem, quod potentia non dicitur, nisi
+      res<lb ed="#P" n="17" break="no"/>pectu actus; si ergo potentia importat,
+      respe<lb ed="#P" n="18" break="no"/>ctum, &amp; non importat eum in recto, cum sit 
+      <lb ed="#P" n="19"/>de genere qualitatis, relinquitur, quod
+      im<lb ed="#P" n="20" break="no"/>portet illum in obliquo, &amp; absolutum in
+      re<lb ed="#P" n="21" break="no"/>cto; &amp; idec videntur isti dicere, potentiam esse 
+      <lb ed="#P" n="22"/>relariuum secundu dici, nam (per eos) haec est 
+      <lb ed="#P" n="23"/>differentia inter relatiua secundum esse, &amp; 
+      <lb ed="#P" n="24"/>secundum dici quia relatiua, secundum esse 
+      <lb ed="#P" n="25"/>significant respectum in recto, relatiua vero 
+      <lb ed="#P" n="26"/>secundum dici significantirespectum in obli 
+      <lb ed="#P" n="27"/>quo, &amp; absoiutum in recto. Hinc simplicius. 
+      <lb ed="#P" n="28"/>in praedigamentis capite de relatione dicit,  
+      <lb ed="#P" n="29"/>quod huiusmodi relatiua abundant
+      relatio<lb ed="#P" n="30" break="no"/>ne, quod non est per aliud, nisi qua supor
+      il<lb ed="#P" n="31" break="no"/>lud, quod dicunt in recto, vt sunt res aliorum 
+      <lb ed="#P" n="32"/>praedicamentorum, superabundant speciali 
+      <lb ed="#P" n="33"/>relatione in obliquo.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e367">
+               <lb ed="#P" n="34"/>Iste modus dicendi deficit in duobus,
+      Pri<lb ed="#P" n="35" break="no"/>mo in se, quia, ponit, hoc nomen potentiam 
+      <lb ed="#P" n="36"/>signiftcare absolutum, &amp; respectiuum;
+      Quae<lb ed="#P" n="37" break="no"/>ro ergo ab eis; vtrum sgnificatio istorum
+      duo<lb ed="#P" n="38" break="no"/>rum per vnum nomen, progeniat ex parte 
+      <lb ed="#P" n="39"/>nostri modi intelligendi, &amp; significandi
+      tan<lb ed="#P" n="40" break="no"/>tum, vel etiam ex parte rei significatae. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e385">
+               <lb ed="#P" n="41"/>Primum non potest dici; Tum quia noster 
+      <lb ed="#P" n="42"/>modus intelligendi, vel significatio talis
+      no<lb ed="#P" n="43" break="no"/>minis esset vana &amp; fictitia, quia non haberet 
+      <lb ed="#P" n="44"/>fundamentum in re: Tum quia illud
+      abso<lb ed="#P" n="45" break="no"/>lutum, quod importatur in recto per hoc non 
+      <lb ed="#P" n="46"/>men, quantum est ex parte sui, posset signifi 
+      <lb ed="#P" n="47"/>cati&amp; intelligi sine respectu, quod est falsum, 
+      <lb ed="#P" n="48"/>videmus enim manifeste, quod ea, quae sunt 
+      <lb ed="#P" n="49"/>in secuuda specie qualitatis, non
+      significan<lb ed="#P" n="50" break="no"/>tur, nisi in respectu ad actum.. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e410">
+               <lb ed="#P" n="51"/>Secundum etiam dici nequit, puta quod 
+      <lb ed="#P" n="52"/>pueniat ex parte rei intellectae, &amp;
+      significa<lb ed="#P" n="53" break="no"/>tae, quia tunc ista res significata, scilicet secu 
+      <lb ed="#P" n="54"/>da species qualitatis, esset composita ex
+      re<lb ed="#P" n="55" break="no"/>bus diuersorum praedicamentorum, puta ex 
+      <lb ed="#P" n="56"/>absoluto, &amp; respectiuo, &amp; sic esset ens per 
+      <lb ed="#P" n="57"/>accidens 
+      <!--269.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 244 b -->
+               <lb ed="#P" n="58"/>Nec valet, si dicant, huiusmodi respectm 
+      <lb ed="#P" n="59"/>significatum in obliquo non esse de essentiali 
+      <lb ed="#P" n="60"/>ugnificato ipsis potentiae, sed magis consequi 
+      <lb ed="#P" n="61"/>eam, &amp; sic non ingredi compositionem sua 
+      <lb ed="#P" n="62"/>essentiae. Quia tunc pero ab eis, quomodo 
+      <lb ed="#P" n="63"/>praefatus respectus consequatur istam rem 
+      <lb ed="#P" n="64"/>absolutam, quae denominatur potentia; nam  
+      <lb ed="#P" n="65"/>vel consequitur eam, vt aliquid pertinens ad 
+      <lb ed="#P" n="66"/>uam essentiam, vel vt quaedam proprietas; 
+      <lb ed="#P" n="67"/>Si dicant primum, habemus propositum, si 
+      <lb ed="#P" n="68"/>vero dicant secudum, sequitur, quod ista res 
+      <lb ed="#P" n="69"/>absoluta, quantum est de se, possit intelligi, 
+      <lb ed="#P" n="70"/>&amp; definiri sine respectu, quod patet essei 
+      <lb ed="#P" n="71"/>falsum.. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e465">
+               <lb ed="#P" n="72"/>Secundo deficit, in suo fundamento;
+      vide<lb ed="#P" n="73" break="no"/>tur enim se fundare super hoc, quod
+      relati<lb ed="#P" n="74" break="no"/>ua secundum dici dicant aliquid absolutun 
+      <lb ed="#P" n="75"/>in recto, &amp; aliquid, respectiuum in obliquo,  
+      <lb ed="#P" n="76"/>quod reputo falsum.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e478">
+               <lb ed="#P" n="77"/>Primo, quia sequeretur, quod
+      fundamen<lb ed="#P" n="78" break="no"/>tum relationis esset quid relatiuum, quod est 
+      <lb ed="#P" n="79"/>falsum Consequentia patet per eosmes, quia 
+      <lb ed="#P" n="80"/>psi, ponunt, quod relatiuum secundum dici 
+      <lb ed="#P" n="81"/>importet in recto aliquid absolutum. vel er- 
+      <lb ed="#P" n="82"/>go dicent huiusmodi absolutum secundum 
+      <lb ed="#P" n="83"/>se sumptum, esse relatiuum, scetindum dici,  
+      <lb ed="#P" n="84"/>vel quatenus fundamentum talis respectus 
+      <lb ed="#P" n="85"/>importat in obliquo; Non possunt dicere pri 
+      <lb ed="#P" n="86"/>mum, quia, nullum absolutum secundum se 
+      <lb ed="#P" n="87"/>sumptum est relatiuum; Si autem dicant
+      se<lb ed="#P" n="88" break="no"/>cundum habemus, ppositum probo falsitate, quia 
+      <lb ed="#P" n="89"/>fundamentum in quantum fundamentum, non 
+      <lb ed="#P" n="90"/>includit relationem, alioquin relatio
+      funda<lb ed="#P" n="91" break="no"/>ret se ipsam, relatiuum autem secundum
+      dici<lb ed="#P" n="92" break="no"/>includit relationem, quia semper concretum. 
+      <lb ed="#P" n="93"/>ncludit formam denominantem, 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e517">
+               <lb ed="#P" n="94"/>Secundo sequeretur, quod relatiuum
+      se<lb ed="#P" n="95" break="no"/>cundum dici esset relatiuum secundum esse,  
+      <lb ed="#P" n="96"/>&amp; e conuerso, Consequentiam probo. Quia 
+      <lb ed="#P" n="97"/>ipsi, ponunt, quod illa relatio, quae
+      importa<lb ed="#P" n="98" break="no"/>tut per relatiuum secundum dici, sit vera
+      re<lb ed="#P" n="99" break="no"/>atio secundum esse de genere relationis. Si- 
+      <lb ed="#P" n="100"/>cut ergo vna albedo non constituit nisi vnum 
+      <lb ed="#P" n="101"/>album, ita vna relatio non constituit nisi vnum 
+      <lb ed="#P" n="102"/>relatiuum, vel ergo illud relatiuum, quod
+      con<lb ed="#P" n="103" break="no"/>stituit, est tantum relatiuum secundum esse,  
+      <lb ed="#P" n="104"/>&amp; tunc carebimus relatiuo secundum dici; 
+      <lb ed="#P" n="105"/>vel est tantum relatiuum secundum dici, &amp;  
+      <lb ed="#P" n="106"/>hoc non videtur verum, quia, cum sit vera re 
+      <lb ed="#P" n="107"/>latio, necessario constituit, relatiuum
+      secun<lb ed="#P" n="108" break="no"/>dum esse, isicut aliae relationes. Relinquitur  
+      <lb ed="#P" n="109"/>ergo, quod illud relatiuum, quod constituit, q 
+      <lb ed="#P" n="110"/>sit simub relatiuum scdm esse, &amp; sedm dici¬  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e556">
+               <lb ed="#P" n="111"/>Tertio sequitur, quod relatiuum secundum. 
+      <lb ed="#P" n="112"/>dici non sit, relatiuum ex alio, nisi quia illud 
+      <lb ed="#P" n="113"/>absolutum, quod significat in recto,
+      necessa<lb ed="#P" n="114" break="no"/>rio fundat relationem, vt ad listetam viden¬ 
+      <!--270.xml-->
+      <pb ed="#P" n="245"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tur dicere, Si autem hoc concedant, pari
+      ratio<lb ed="#P" n="2" break="no"/>ne debent concedere, quod subitantia
+      narum<lb ed="#P" n="3" break="no"/>ralis sit quantitas, &amp; qualitas, quia
+      necessa<lb ed="#P" n="4" break="no"/>tio fundat quantitatem, &amp; qualitatem: hoc 
+      <lb ed="#P" n="5"/>autem est absurdum; ergo &amp;c lgitur propter 
+      <lb ed="#P" n="6"/>haec, &amp; multa alia, quae possem inducere con 
+      <lb ed="#P" n="7"/>tra illam, dimitto eam. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e589">
+               <lb ed="#P" n="8"/>Sunt ergo alij, qui dicunt, quod hoc
+      no<lb ed="#P" n="9" break="no"/>men potentia, aliud significat, &amp; aliud
+      deno<lb ed="#P" n="10" break="no"/>minat, significat enim relationem, sed
+      deno<lb ed="#P" n="11" break="no"/>minat necessario aliquod absolutum
+      funda<lb ed="#P" n="12" break="no"/>mentum illius relationis, quam significat. Pri 
+      <lb ed="#P" n="13"/>mum reputant satis notum, quia sicut princi 
+      <lb ed="#P" n="14"/>pium respectiuum dicitur ad principiatu, ita 
+      <lb ed="#P" n="15"/>potentia ad illud, respectu cuius est potentia. 
+      <lb ed="#P" n="16"/>Secundum declarant quia quamuis hoc
+      no<lb ed="#P" n="17" break="no"/>men potentia, sit nomen abstractum abstra 
+      <lb ed="#P" n="18"/>hens a supposito, non tamen abstrahit a fun 
+      <lb ed="#P" n="19"/>damento illius respectus significati 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e619">
+               <lb ed="#P" n="20"/>Iste tamen modus dicendi minus mihi
+      sa<lb ed="#P" n="21" break="no"/>tisfacit, quam primus, Tum quia contradicit 
+      <lb ed="#P" n="22"/>Aristoteli, qui ponit potentiam in secunda 
+      <lb ed="#P" n="23"/>specie praedicamenti qualitatis, praefata vero 
+      <lb ed="#P" n="24"/>opinio videtur eam ponere in praedicamento 
+      <lb ed="#P" n="25"/>relationis: Tum quia sequeretur, quod Ari 
+      <lb ed="#P" n="26"/>stoteles in distinguendo modos potentiae, di 
+      <lb ed="#P" n="27"/>stinxisset modo relationis, &amp; per consequen 
+      <lb ed="#P" n="28"/>omnia, quae dixit in describendo potentiam  
+      <lb ed="#P" n="29"/>ictiuam, &amp; passiuam, competerent relationi 
+      <lb ed="#P" n="30"/>puta quod relatio ageret in aliud, secundum 
+      <lb ed="#P" n="31"/>quod est aliud, &amp; quod pateretur ab alio, se 
+      <lb ed="#P" n="32"/>eudum quod ab alio; &amp; caetera alia quae potentiae 
+      <lb ed="#P" n="33"/>scribuntur, haec autem est absurdu Tum quia 
+      <lb ed="#P" n="34"/>i potentia significaret respectum, pari ratio 
+      <lb ed="#P" n="35"/>ne, &amp; actus ngnificaret respectum, quod est 
+      <lb ed="#P" n="36"/>falsum, quia tunc non diceret perfectionem 
+      <lb ed="#P" n="37"/>simpliciter : Tum quia substantia materiae 
+      <lb ed="#P" n="38"/>esset quidam respectus, cum ipsa sustentetur 
+      <lb ed="#P" n="39"/>per posse, vt patet per Comment. in de
+      sub<lb ed="#P" n="40" break="no"/>stantia orbs. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e667">
+               <lb ed="#P" n="41"/>praeterea, si potentia diceret relationem
+      de<lb ed="#P" n="42" break="no"/>nominantem aliquod absolutum, peto de 
+      <lb ed="#P" n="43"/>ista relatione, vel est de relationibus primi 
+      <lb ed="#P" n="44"/>modi, vel secundi, vel tertij, non primi, nec 
+      <lb ed="#P" n="45"/>tertij, quia illi non fundantur super potentiam 
+      <lb ed="#P" n="46"/>ictiuam, &amp; passiuam; Nec etiam de relationi 
+      <lb ed="#P" n="47"/>bus secundi modi, quia relationes secundi 
+      <lb ed="#P" n="48"/>modi non fundantur in istis potentijs, nisi 
+      <lb ed="#P" n="49"/>mediante actione, &amp; passione, iste autem re 
+      <lb ed="#P" n="50"/>spectus, de quo modo loquimur, videtur pre 
+      <lb ed="#P" n="51"/>uenire omnem actionem, quod patet, quia, 
+      <lb ed="#P" n="52"/>antequam a potentia egrediatur aliquis actus; 
+      <lb ed="#P" n="53"/>iotentia importat illum respectum, de quo 
+      <lb ed="#P" n="54"/>sstiloquuntur. Quod autem relationes de se 
+      <lb ed="#P" n="55"/>eundo modo sequantur actionem, &amp;
+      passio<lb ed="#P" n="56" break="no"/>nem, paret per Com. 5. Metaphcap. de adali 
+      <lb ed="#P" n="57"/>quid, vbi dicit quod calefaciens non acquirit 
+      <!--270.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 245 b -->
+               <lb ed="#P" n="58"/>alem dispositionem, scilicet relatiuam, nisi 
+      <lb ed="#P" n="59"/>respectu eius, quod calefacit; Potest etiam  
+      <lb ed="#P" n="60"/>hoc probari per rationem: Si enim ille respe 
+      <lb ed="#P" n="61"/>ctus, quem dicunt fundari in potentia ante 
+      <lb ed="#P" n="62"/>actionem, esset vera relatio de secudo modo, 
+      <lb ed="#P" n="63"/>vel esset eadem cum illa quae sequitur actio 
+      <lb ed="#P" n="64"/>nem, vel alia; non prinium, quia tunc agens 
+      <lb ed="#P" n="65"/>non consequeretur aliquam nouam
+      relatio<lb ed="#P" n="66" break="no"/>nem ex ipsa actione, quod nullus diceret; 
+      <lb ed="#P" n="67"/>nec secundum, quia tunc plurificarentur
+      re<lb ed="#P" n="68" break="no"/>lationes de secundo modo in eodem
+      funda<lb ed="#P" n="69" break="no"/>mento, respectu eiusdem termini, quod
+      vide<lb ed="#P" n="70" break="no"/>tur impossibile: Relinquitur ergo, quod nul 
+      <lb ed="#P" n="71"/>la vera relatio de genere relationis denomi- 
+      <lb ed="#P" n="72"/>net potentiam praeueniendo actionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e745">
+               <lb ed="#P" n="73"/>Vlterius relationes de secundo modo fun 
+      <lb ed="#P" n="74"/>dantur super potentiam: si ergo potentia
+      si<lb ed="#P" n="75" break="no"/>tnificaret relationem, relatio fundaretur
+      su<lb ed="#P" n="76" break="no"/>per relationem: Nec valet si dicatur, quod 
+      <lb ed="#P" n="77"/>fundatur super potentiam, prout dicit
+      rela<lb ed="#P" n="78" break="no"/>tionem, sed prout dicit fundamentum
+      deno<lb ed="#P" n="79" break="no"/>minatum a relatione: Quia (secudum eosmet 
+      <lb ed="#P" n="80"/>istud fundamentum non dicitur potentia, nisi 
+      <lb ed="#P" n="81"/>propter relationem denominantem, &amp; ideo 
+      <lb ed="#P" n="82"/>vt denominatur potentia, includit talem rela  
+      <lb ed="#P" n="83"/>tionem, quia semper denominatum, vt sic, in 
+      <lb ed="#P" n="84"/>cludit formam denominantem: Relinquitur 
+      <lb ed="#P" n="85"/>ergo, quod tale fundamentum fundet
+      rela<lb ed="#P" n="86" break="no"/>tionem de secundo modo, quam consequitur,  
+      <lb ed="#P" n="87"/>ex actione, mediante illa reiatione, quae
+      prae<lb ed="#P" n="88" break="no"/>uenit actionem: Ex quo sequitur, quod reiatio 
+      <lb ed="#P" n="89"/>fundet relationem, sicut arguebatur prius. 
+      <lb ed="#P" n="90"/>nde concludo, istum modum dicendi stare 
+      <lb ed="#P" n="91"/>non posse 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e789">
+               <lb ed="#P" n="92"/>Et ideo est alia opinio, quam videtur
+      po<lb ed="#P" n="93" break="no"/>nere frater AEgidius Doctor noster, gult enim 
+      <lb ed="#P" n="94"/>quod potentia simpliciter dicat quid
+      abso<lb ed="#P" n="95" break="no"/>utum, habeat tamen quendam modum rela 
+      <lb ed="#P" n="96"/>tiuum, ratione cuius est relatiuum, secundum 
+      <lb ed="#P" n="97"/>dici, &amp; potest esse in praedicamento
+      relatio<lb ed="#P" n="98" break="no"/>nis per reductionem, quemadmodum
+      ma<lb ed="#P" n="99" break="no"/>nus &amp; caput sunt quid absolutum,
+      simplici<lb ed="#P" n="100" break="no"/>ter, &amp; in praedicamento absoluto reponunt,  
+      <lb ed="#P" n="101"/>in quantum tamen habent quendam modum 
+      <lb ed="#P" n="102"/>relatiuum, sunt relatiua secundum dici, &amp;  
+      <lb ed="#P" n="103"/>sunt in praedicamento relationis per redum 
+      <lb ed="#P" n="104"/>ctionem 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e820">
+               <lb ed="#P" n="105"/>Haec opinio mihi placet: idcirco intendo 
+      <lb ed="#P" n="106"/>primo declarare, quid intelligat per relatiuu, 
+      <lb ed="#P" n="107"/>secundum dici, secundo ostendam, potentia 
+      <lb ed="#P" n="108"/>esse quid relatiuum secundum dici, eo modo 
+      <lb ed="#P" n="109"/>quo ponit fundatis simus Doctor. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e833">
+               <lb ed="#P" n="110"/>Quantum ad primum dico, quod per rela 
+      <lb ed="#P" n="111"/>tiuum secundum dici non intendo
+      significa<lb ed="#P" n="112" break="no"/>re rem diuersorum praedicamentorum, vt pone 
+      <lb ed="#P" n="113"/>bat prima opinio, sed rem vnius
+      praedicamen<lb ed="#P" n="114" break="no"/>ti absoluti, habentem tamen modum praedi¬ 
+      <!--271.xml-->
+      <pb ed="#P" n="246"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>camenti relationis; Et quod iste sit bonus 
+      <lb ed="#P" n="2"/>sensus, probo; nam, sicut substantia est
+      im<lb ed="#P" n="3" break="no"/>permista relationi secundum suam quiddita 
+      <lb ed="#P" n="4"/>tem, itaetiam est impermista qualitati, &amp; cui 
+      <lb ed="#P" n="5"/>libet alteri praedicamento: nihilominus tamen 
+      <lb ed="#P" n="6"/>videmus, quod potest habere aliquem
+      mo<lb ed="#P" n="7" break="no"/>dum qualitatis, ratione cuius conceditur es 
+      <lb ed="#P" n="8"/>se qualitas: vt patet per Aristotelem in
+      prae<lb ed="#P" n="9" break="no"/>dicamentis capite de substantia, &amp; quinto 
+      <lb ed="#P" n="10"/>Metaph vbi concedit, differentiam
+      substan<lb ed="#P" n="11" break="no"/>tialem esse quandam qualitatem, eo quod deno 
+      <lb ed="#P" n="12"/>minat admodum qualitatis. Interrogati n.m5 
+      <lb ed="#P" n="13"/>ualis substantia sit homo, respondemus
+      ra<lb ed="#P" n="14" break="no"/>tionalis: secundae enim substantiae quale qud 
+      <lb ed="#P" n="15"/>significant: Nullus tamen diceret, quod per 
+      <lb ed="#P" n="16"/>quale quid Arist. intelligeret res diuersorum 
+      <lb ed="#P" n="17"/>praedicamentorum, sed solum vnam rem de 
+      <lb ed="#P" n="18"/>praedicamento substantiae, habentem
+      quen<lb ed="#P" n="19" break="no"/>dam modum qualitatis. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e895">
+               <lb ed="#P" n="20"/>Ita in proposito videtur mihi dicendum, 
+      <lb ed="#P" n="21"/>quod per relatiuum, secundum dici non
+      de<lb ed="#P" n="22" break="no"/>beamus intelligere res diuersorum generum 
+      <lb ed="#P" n="23"/>sed vnam tantum de praedicamento
+      absolu<lb ed="#P" n="24" break="no"/>to, habentem modum relationis: Quid autem sit 
+      <lb ed="#P" n="25"/>iste modus praedicamenti relationis, infra pate 
+      <lb ed="#P" n="26"/>bit, qu aga de relationibs: In praesenti autem, 
+      <lb ed="#P" n="27"/>scire sufficit, quod iste modus est id, a quo 
+      <lb ed="#P" n="28"/>sumitur primus conceptus dicti praedicamen 
+      <lb ed="#P" n="29"/>ti; &amp; ita omnis respectus, qui poterit
+      conci<lb ed="#P" n="30" break="no"/>pi distincto conceptu a fundamento, sicut  
+      <lb ed="#P" n="31"/>non clauditur in conceptu fundamenti, per 
+      <lb ed="#P" n="32"/>tinebit ad praedicamentum relationis, &amp; con 
+      <lb ed="#P" n="33"/>stituet relatiuum secundum esse, qui potest 
+      <lb ed="#P" n="34"/>sibi appropriare conceptum praedicamenti
+      re<lb ed="#P" n="35" break="no"/>lationis, &amp; omnis talis conceptus habet non 
+      <lb ed="#P" n="36"/>solum modum, sed etiam rem
+      praedicamen<lb ed="#P" n="37" break="no"/>ti relatiui, quia infra limites illius generis 
+      <lb ed="#P" n="38"/>sic continetur quod in conceptu alterius 
+      <lb ed="#P" n="39"/>praedicamenti transire nequit, propterea di 
+      <lb ed="#P" n="40"/>ditur relatiuus secundum esse. llle autem 
+      <lb ed="#P" n="41"/>respectus qui non potest concipi distincto con 
+      <lb ed="#P" n="42"/>ceptu a fundamento, sed in conceptu eius 
+      <lb ed="#P" n="43"/>clauditur, non pertinet ad relationem secun 
+      <lb ed="#P" n="44"/>dum esse, sed tantum secundum dici, sicque 
+      <lb ed="#P" n="45"/>constituit relatiuum secundum dici, &amp; hoc 
+      <lb ed="#P" n="46"/>prouenit, quia huiusmodi conceptus non ita 
+      <lb ed="#P" n="47"/>est proprius relationis, quod non possit in con 
+      <lb ed="#P" n="48"/>ceptu alterius praedicamenti claudi, &amp; trar 
+      <lb ed="#P" n="49"/>sire: Huiusmodi autem respectus videtur im 
+      <lb ed="#P" n="50"/>portari per hoc nomen potentia, &amp; ita habet 
+      <lb ed="#P" n="51"/>solum modum, non autem rem ipsius praedi 
+      <lb ed="#P" n="52"/>camenti relationis. Patet igitur quid
+      intel<lb ed="#P" n="53" break="no"/>ligam per relatiuum secundum dici 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e971">
+               <lb ed="#P" n="54"/>Quo praemisso facile est declarare,
+      signifi<lb ed="#P" n="55" break="no"/>catum huius nominis potentia, esse relatiuum 
+      <lb ed="#P" n="56"/>secundum dici: nam constat, quod hoc
+      no<lb ed="#P" n="57" break="no"/>men potentia significat qualitatem, &amp; per 
+      <!--271.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 246 b -->
+               <lb ed="#P" n="58"/>consequens quid absolutum, patet etiam, quod 
+      <lb ed="#P" n="59"/>tale significatum includit respectum alique,  
+      <lb ed="#P" n="60"/>sine quo non potest intelligi, nec definiri,  
+      <lb ed="#P" n="61"/>prout in tali specie qualitatis collocatur: Nul 
+      <lb ed="#P" n="62"/>lus autem diceret, quod huiusmodi respects, 
+      <lb ed="#P" n="63"/>quem includit potentia, sit relatio secundum 
+      <lb ed="#P" n="64"/>esse de vero praedicamento relationis: tum 
+      <lb ed="#P" n="65"/>quia relatio non intrat intellectum
+      defini<lb ed="#P" n="66" break="no"/>tiuum, &amp; quidditatiuum alicuius speciei, di 
+      <lb ed="#P" n="67"/>genere qualitatis: alioquin essentiae eorum 
+      <lb ed="#P" n="68"/>permiscerentur, tum quia si esset vera
+      rela<lb ed="#P" n="69" break="no"/>tio, constitueret verum relatiuum secundum 
+      <lb ed="#P" n="70"/>esse, cum non minoris esset conditionis, quam  
+      <lb ed="#P" n="71"/>caeterae relationes; &amp; tunc vel nullum consti 
+      <lb ed="#P" n="72"/>tueret relatiuum secundum dici, vel idem 
+      <lb ed="#P" n="73"/>esset relatiuum secundum dici, &amp; secundum 
+      <lb ed="#P" n="74"/>esse, quod superius contra primam opinionem 
+      <lb ed="#P" n="75"/>adducebatur tanquam falsum: Significat
+      es<lb ed="#P" n="76" break="no"/>go hoc nomen potentia relatiuum
+      secun<lb ed="#P" n="77" break="no"/>dum dici,  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1032">
+               <lb ed="#P" n="78"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="79"/>An potentia generandi sit in Deo patre. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1039">
+               <lb ed="#P" n="80"/>AD hoc dicunt aliqui, quod nulla est po 
+      <lb ed="#P" n="81"/>tentia in patre, tanquam principium 
+      <lb ed="#P" n="82"/>elicitiuum, praeuium actui generationis. Qu 
+      <lb ed="#P" n="83"/>probant tripliciter.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1050">
+               <lb ed="#P" n="84"/>1 Si in patre esset aliqua potentia praeuia 
+      <lb ed="#P" n="85"/>actui generationis, sequeretur, quod in eo es 
+      <lb ed="#P" n="86"/>set aliud ab alio, quod est falsum; ergo &amp;c. 
+      <lb ed="#P" n="87"/>Falsitas probatur: quia cum pater sit primum 
+      <lb ed="#P" n="88"/>suppositum in diuinis, totum quod est in eo, 
+      <lb ed="#P" n="89"/>est a se ipso, Consequentiam probo, quia
+      ge<lb ed="#P" n="90" break="no"/>neratio actiua est in patre, si ergo in diuinis 
+      <lb ed="#P" n="91"/>erit aliqua potentia praeuia generationi, tuc 
+      <lb ed="#P" n="92"/>generatio actiua erit in patre non a se, sed  
+      <lb ed="#P" n="93"/>ab alio, puta a potentia praeuia, quod non est 
+      <lb ed="#P" n="94"/>dicendum 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1076">
+               <lb ed="#P" n="95"/>Illud, per quod constituitur suppositum 
+      <lb ed="#P" n="96"/>a se, non est ab alio, sed per generationem 
+      <lb ed="#P" n="97"/>actiuam constituitur suppositum patris, quod  
+      <lb ed="#P" n="98"/>a nullo alio est: ergo generatio actiua non est 
+      <lb ed="#P" n="99"/>ab aliquo alio principio, vel ab aliqua potem 
+      <lb ed="#P" n="100"/>tia; Maior est nota, nam quod suppositum 
+      <lb ed="#P" n="101"/>sit a se, &amp; tamen constituatur per aliquid, quod 
+      <lb ed="#P" n="102"/>sit ab alio, implicat: Minor quoque apparet,  
+      <lb ed="#P" n="103"/>nam cum generatio actiua sit idem, quod pa 
+      <lb ed="#P" n="104"/>ternitas (secundum omnes) &amp; praecipue secun 
+      <lb ed="#P" n="105"/>dum Magistrum in 17. dist. primi; si pater 
+      <lb ed="#P" n="106"/>constituitur per paternitatem, oportet
+      dice<lb ed="#P" n="107" break="no"/>re, quod constituatur etiam per
+      generatio<lb ed="#P" n="108" break="no"/>nem actiuam. 
+      <!--272.xml-->
+      <pb ed="#P" n="247"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>3. In patre non est aliqua potentia
+      distin<lb ed="#P" n="2" break="no"/>cta ab eo, ergo nec in illo erit potentia ista, 
+      <lb ed="#P" n="3"/>tanquam principium elicitiuum
+      deneratio<lb ed="#P" n="4" break="no"/>nis,. Consequentia probatur, quia formale prin 
+      <lb ed="#P" n="5"/>cipium elicitiuum alicuius actus necessario 
+      <lb ed="#P" n="6"/>est distinctum a supposito, cuius est ille actus,  
+      <lb ed="#P" n="7"/>alias idem esset agens, &amp; quo ageret, quod 
+      <lb ed="#P" n="8"/>videtur falsum; Antecedens etiam pr obatur 
+      <lb ed="#P" n="9"/>per Magistrum in praesente distinctione, vbi 
+      <lb ed="#P" n="10"/>ait, quod potestas generandi non est aliud, 
+      <lb ed="#P" n="11"/>quam patrem esse 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1140">
+               <lb ed="#P" n="12"/>Iste modus dicendi est contra iam dicta 
+      <lb ed="#P" n="13"/>&amp; etiam contra veritate: Ideo pro huius rei 
+      <lb ed="#P" n="14"/>declaratione tria faciam, primo ostendam
+      se<lb ed="#P" n="15" break="no"/>cundum quem modum sit in Deo aliqua po 
+      <lb ed="#P" n="16"/>tentia, secundo declarabo, quomodo in Deo 
+      <lb ed="#P" n="17"/>patre sit potestas generandi; tertio soluam ra 
+      <lb ed="#P" n="18"/>tiones contrariae opinionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1158">
+               <lb ed="#P" n="19"/>Quantum ad primum dico quod non
+      de<lb ed="#P" n="20" break="no"/>bet quaeri potentia agendi in Deo ad intra,  
+      <lb ed="#P" n="21"/>eo modo, quo descripta est ab Arist. secundo 
+      <lb ed="#P" n="22"/>Meta &amp; hoc propter quatuor : Primo quia 
+      <lb ed="#P" n="23"/>vbicunque est talis potentia, ibi est exitus de 
+      <lb ed="#P" n="24"/>potentia ad actum, cum ibi sit vere agens, cu 
+      <lb ed="#P" n="25"/>ius actio est educere aliquid de potentia ad 
+      <lb ed="#P" n="26"/>actum (secundum Comm ibidem tex. 24. &amp; 
+      <lb ed="#P" n="27"/>43. cum ergo in Deo non sit exitus de poten 
+      <lb ed="#P" n="28"/>tia ad actum, quia est actus purus, sequitur,  
+      <lb ed="#P" n="29"/>quod in eo non sit potentia actiua ad intra 
+      <lb ed="#P" n="30"/>eo modo, quo est ab Aristotele descripta. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1187">
+               <lb ed="#P" n="31"/>Secundo non est ibi talis potentia actiua 
+      <lb ed="#P" n="32"/>propter ipsammet actionem, quia vbi est haec 
+      <lb ed="#P" n="33"/>otentia, ibi est vera actio de genere actionis,  
+      <lb ed="#P" n="34"/>&amp; vera passio de gene e passionis, &amp; ex con 
+      <lb ed="#P" n="35"/>sequenti verus motus, vel vera mutatio, quia 
+      <lb ed="#P" n="36"/>vera actio, &amp; vera paisio semper fundantur 
+      <lb ed="#P" n="37"/>in motu, vel mutatione ex tertio physic. in 
+      <lb ed="#P" n="38"/>Deo autem non est vera mutatio, nec verus 
+      <lb ed="#P" n="39"/>motus (secundum Aristo. 12. Metaph) ergo 
+      <lb ed="#P" n="40"/>ne: ve a actio, nec vera passio d genere actio 
+      <lb ed="#P" n="41"/>nis, &amp; passionis ibi erit, ied tantum actio sim 
+      <lb ed="#P" n="42"/>plicis emanationis alicuius ab aliquo, &amp;
+      pas<lb ed="#P" n="43" break="no"/>sio tantum, prout dicit simplicem acceptio. 
+      <lb ed="#P" n="44"/>nem esse ab alio, sequitur ergo, ibi non ee ve 
+      <lb ed="#P" n="45"/>ram actionem, nec veram passionem ab Arist. 
+      <lb ed="#P" n="46"/>in physicis descriptam. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1224">
+               <lb ed="#P" n="47"/>Tertio non est ibi talis potentia propter 
+      <lb ed="#P" n="48"/>realem distinctionem, quae necessario inueni 
+      <lb ed="#P" n="49"/>tur inter actionem, &amp; potentiam, per quam  
+      <lb ed="#P" n="50"/>agens agit, &amp; etiam inter potentiam actiuam, 
+      <lb ed="#P" n="51"/>&amp; ipsum agens, nam quod haec realis
+      distin<lb ed="#P" n="52" break="no"/>ctio inter potentiam actiuam, &amp; ipsum agens 
+      <lb ed="#P" n="53"/>reperiatur clare patet, tum quia potentia 
+      <lb ed="#P" n="54"/>actiua videtur esse de genere qualitatis, ages 
+      <lb ed="#P" n="55"/>vero de genere substantiae. tum etiam, quia 
+      <lb ed="#P" n="56"/>potentia est forma, per quam agens habet es 
+      <lb ed="#P" n="57"/>se potens in genere causae formalis. Quod ve 
+      <!--272.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 247 b -->
+               <lb ed="#P" n="58"/>ro potentia distinguatur ab actione, pate 
+      <lb ed="#P" n="59"/>ex tribus 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1261">
+               <lb ed="#P" n="60"/>Primo, quia potest agens habere actiuam 
+      <lb ed="#P" n="61"/>potentiam, cum agit actu per eam, &amp;
+      separa<lb ed="#P" n="62" break="no"/>ri ab ea cum separatur ab actione peracta; ergo 
+      <lb ed="#P" n="63"/>potentia actiua ab actione separatur, &amp; sic 
+      <lb ed="#P" n="64"/>ab ea realiter erit distincta 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1274">
+               <lb ed="#P" n="65"/>Secundo, quia potentia actiua est in agen 
+      <lb ed="#P" n="66"/>te formaliter, per quam est potens agere,
+      a<lb ed="#P" n="67" break="no"/>ctio vero non est in agente, sed in passo, vt 
+      <lb ed="#P" n="68"/>patet tertio physic. ergo actio, &amp; potentia
+      a<lb ed="#P" n="69" break="no"/>ctiua realiter distinguuntur. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1288">
+               <lb ed="#P" n="70"/>Tertio, quia potentia actiua est priucipium 
+      <lb ed="#P" n="71"/>essendi ipsi agenti, saltem quantum ad
+      ali<lb ed="#P" n="72" break="no"/>quod esse formale, actio vero est
+      principia<lb ed="#P" n="73" break="no"/>ta ab eo; ergo actio a potentia realiter
+      sepa<lb ed="#P" n="74" break="no"/>ratur : Cum ergo in Deo non possit esse rea 
+      <lb ed="#P" n="75"/>lis distinctio inter ipsum, &amp; potentiam, nec 
+      <lb ed="#P" n="76"/>inter potentiam generandi, &amp; actum
+      gene<lb ed="#P" n="77" break="no"/>rationis, sequitur, hanc potentiam non 
+      <lb ed="#P" n="78"/>esse in DEO quaerendam: Et quod
+      gene<lb ed="#P" n="79" break="no"/>randi potentia in Deo non sit realiter
+      di<lb ed="#P" n="80" break="no"/>stincta ab actu generationis clare patet, nam  
+      <lb ed="#P" n="81"/>potestas generatiua vel est essentia (secundum 
+      <lb ed="#P" n="82"/>aliquos) vel est relatio (secundum alios) si est 
+      <lb ed="#P" n="83"/>essentia, non potest esse realiter distincta ab 
+      <lb ed="#P" n="84"/>actu generationis, quia faceret cum eo
+      com<lb ed="#P" n="85" break="no"/>positionem: si est relatio, cum etiam actus ge 
+      <lb ed="#P" n="86"/>nerationis sit relatio, non poterit ab eo rea 
+      <lb ed="#P" n="87"/>liter distingui; nisi forte velles dicere, quod alia 
+      <lb ed="#P" n="88"/>relatio esset potentia, &amp; alia actus: Quod
+      ta<lb ed="#P" n="89" break="no"/>men non potest dici, quia in eadem persona 
+      <lb ed="#P" n="90"/>non possunt plurificari relationes reales
+      res<lb ed="#P" n="91" break="no"/>pectu eiusdem termini.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1338">
+               <lb ed="#P" n="92"/>Quarto, &amp; vltimo dico, in Deo non esse 
+      <lb ed="#P" n="93"/>quaerendam huiusmodi potentiam actiuam 
+      <lb ed="#P" n="94"/>ab Arist descriptam, propter realem relatio 
+      <lb ed="#P" n="95"/>nem, quae est inter potentiam actiuam, &amp; rer 
+      <lb ed="#P" n="96"/>minum productum, nam per Arist. 2. Metap 
+      <lb ed="#P" n="97"/>causa actiua sanitatis est Medicus, &amp; termi- 
+      <lb ed="#P" n="98"/>nus actionis est sanitas, vult ergo Aristo. &amp; 
+      <lb ed="#P" n="99"/>Com ibidem, quod agens, &amp; potentia actiua 
+      <lb ed="#P" n="100"/>pertineant ad idem genus, &amp; per consequen 
+      <lb ed="#P" n="101"/>habeant eandem relationem realem ad
+      ter<lb ed="#P" n="102" break="no"/>minum productum. Secundum ergo istum mo 
+      <lb ed="#P" n="103"/>dum non potest inueniri potentia actiua in 
+      <lb ed="#P" n="104"/>Deo, nisi poneremus quod relatio esset
+      huius<lb ed="#P" n="105" break="no"/>modi potentia generatiua, quod non credo. 
+      <lb ed="#P" n="106"/>ideo supposito, quod potentia generandi sit 
+      <lb ed="#P" n="107"/>essentia, sicut inferius declarabo, dicendum 
+      <lb ed="#P" n="108"/>est, quod ipsa non habet realem relationem 
+      <lb ed="#P" n="109"/>ad terminum productum, quia est idem
+      rea<lb ed="#P" n="110" break="no"/>liter cum eo; Et ideo concludo, potentiam
+      a<lb ed="#P" n="111" break="no"/>ctiuam ab Arist. descriptam 2. Metaph non 
+      <lb ed="#P" n="112"/>esse in Deo, eo quod omnes conditiones po 
+      <lb ed="#P" n="113"/>tentiae ab Arist assignatae non conueniunt illi,  
+      <lb ed="#P" n="114"/>eo quod proueniunt ex defectu ipsius poten¬ 
+      <!--273.xml-->
+      <pb ed="#P" n="248"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tiae actiuae, ex defectu suae actionis, &amp; ex
+      de<lb ed="#P" n="2" break="no"/>fectu termini per eam ptoducti; Nam prima 
+      <lb ed="#P" n="3"/>conditio scilicet, quod ibi sit exitus de poten 
+      <lb ed="#P" n="4"/>tia ad actum, prouenit ex defectu
+      produ<lb ed="#P" n="5" break="no"/>ctionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1408">
+               <lb ed="#P" n="6"/>Secunda vero, quod eius actio fundetur 
+      <lb ed="#P" n="7"/>in motu, vel in mutatione, prouenit ex defe 
+      <lb ed="#P" n="8"/>ctu suae actionis, quia est actus permistus 
+      <lb ed="#P" n="9"/>potentiae. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1419">
+               <lb ed="#P" n="10"/>Tertia, quod potentia actiua realiter sit 
+      <lb ed="#P" n="11"/>distincta ab actione, &amp; ab agente, prouenit 
+      <lb ed="#P" n="12"/>ex defectu omnium trium, na cum ista tria, 
+      <lb ed="#P" n="13"/>potentia scilicet, agens, &amp; eius actio sint limi 
+      <lb ed="#P" n="14"/>tata ad genus, prout de potentia determinat 
+      <lb ed="#P" n="15"/>Arist. ideo non possunt existere sub vna, &amp;  
+      <lb ed="#P" n="16"/>eadem realitate, sed necessario distinctas
+      re<lb ed="#P" n="17" break="no"/>quirunt realitates 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1439">
+               <lb ed="#P" n="18"/>Quarta &amp; vltima conditio scilicet quod 
+      <lb ed="#P" n="19"/>potentia actiua realiter referatur ad termi- 
+      <lb ed="#P" n="20"/>num productum, oritur ex defectu
+      poten<lb ed="#P" n="21" break="no"/>tiae, &amp; termini producti. Nam si potentia
+      acti<lb ed="#P" n="22" break="no"/>ua esset ita illimitata, quod eadem natura 
+      <lb ed="#P" n="23"/>numero posset communicari producto, non 
+      <lb ed="#P" n="24"/>refereretur realiter ad ipsum, &amp; si productum 
+      <lb ed="#P" n="25"/>esset ita illimitatum, quod posset per
+      produ<lb ed="#P" n="26" break="no"/>ctionem eandem formam numero, quae est 
+      <lb ed="#P" n="27"/>in producente, recipere, quamuis realem ha 
+      <lb ed="#P" n="28"/>beret relationem ad ipsum producens, non 
+      <lb ed="#P" n="29"/>haberet tamen ad formam, per quam produm 
+      <lb ed="#P" n="30"/>ceretur, Ex quibus omnibus patet quomodo 
+      <lb ed="#P" n="31"/>potentia actiua generandi non est in Deo se 
+      <lb ed="#P" n="32"/>cundum quod de ea loquitur Philosophus. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1474">
+               <lb ed="#P" n="33"/>Aduertendum tamen, quod preter has 
+      <lb ed="#P" n="34"/>quatuor conditiones defectum importantes,  
+      <lb ed="#P" n="35"/>inueniuntur etiam quatuor aliae
+      conditio<lb ed="#P" n="36" break="no"/>nes potentiam actiuam insequentes,
+      secun<lb ed="#P" n="37" break="no"/>dum quod de ea determinauit Aristot quae 
+      <lb ed="#P" n="38"/>nullum important defectum, secundum quas 
+      <lb ed="#P" n="39"/>potentia actiua generadi poterit in Deo col 
+      <lb ed="#P" n="40"/>locari: quarum prima est 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1495">
+               <lb ed="#P" n="41"/>Quod potentia actuet ipsum agens Secu 
+      <lb ed="#P" n="42"/>da, quod ipsum ad actum determinet.
+      Ter<lb ed="#P" n="43" break="no"/>tia, quod ipsum ad actum naturae necessitet. 
+      <lb ed="#P" n="44"/>quarta quod sibi productum assimilet, in 
+      <lb ed="#P" n="45"/>quantum potest. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1508">
+               <lb ed="#P" n="46"/>Quae conditiones probatur, nam quod po 
+      <lb ed="#P" n="47"/>tentia actuet ipsum agens, apparet ex eo, quod 
+      <lb ed="#P" n="48"/>de ratione agentis est esse in actu, ex tertio 
+      <lb ed="#P" n="49"/>physic. non agit autem, nisi per potentiam 
+      <lb ed="#P" n="50"/>actiuam, ergo est in tali actu per eam. Secun 
+      <lb ed="#P" n="51"/>da conditio patet, nam cum agens agat,
+      pro<lb ed="#P" n="52" break="no"/>ut est in actu, per illud idem principium, 
+      <lb ed="#P" n="53"/>per quod actuatur, determinatur etiam ad 
+      <lb ed="#P" n="54"/>actum talem eliciendum. Tertia quod
+      ne<lb ed="#P" n="55" break="no"/>cessitet ipsum ad talem actum producendum, 
+      <lb ed="#P" n="56"/>est euidens, nam quod agens necessitetur ad 
+      <lb ed="#P" n="57"/>talem actum producendum, non est, nisi per 
+      <!--273.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 248 b -->
+               <lb ed="#P" n="58"/>exigentiam formalis principij suae potentiae, 
+      <lb ed="#P" n="59"/>per quam agit, videmus enim quod ignis pre 
+      <lb ed="#P" n="60"/>sente calefactibili necessario calefacit, quia 
+      <lb ed="#P" n="61"/>potentia, per quam calefacit, scilicet calor 
+      <lb ed="#P" n="62"/>exigit necessario, quod sequatur talis actus. 
+      <lb ed="#P" n="63"/>Quarta conditio quod assimilet productum, 
+      <lb ed="#P" n="64"/>apparet, videmus enim ad sensum, quod prin 
+      <lb ed="#P" n="65"/>cipium, per quod producens incibit
+      assimila<lb ed="#P" n="66" break="no"/>ri producto, &amp; e conuerso, est illud
+      forma<lb ed="#P" n="67" break="no"/>le principium, &amp; illa potentia, per quam
+      a<lb ed="#P" n="68" break="no"/>git, sicut patet de agente naturali, quando 
+      <lb ed="#P" n="69"/>calefacit 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1569">
+               <lb ed="#P" n="70"/>Hae quatuor conditiones potentiae gene. 
+      <lb ed="#P" n="71"/>randi conueniunt, non ex aliquo defectu, sed  
+      <lb ed="#P" n="72"/>magis ex perfectione, &amp; actualitate ipsius; 
+      <lb ed="#P" n="73"/>&amp; ideo si haec potentia actiua potest
+      inueni<lb ed="#P" n="74" break="no"/>ri in Deo, erit secundum istas quatuor con 
+      <lb ed="#P" n="75"/>ditiones, &amp; non secundum omnes, quas
+      ha<lb ed="#P" n="76" break="no"/>bet in creaturis; Restat ergo secundo loco 
+      <lb ed="#P" n="77"/>probare, in Deo esse huiusmodi potentiam : 
+      <lb ed="#P" n="78"/>quod probo quatuor medijs.  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1591">
+               <lb ed="#P" n="79"/>1 Vbicunque est verum generans, ibi opos 
+      <lb ed="#P" n="80"/>tet dare veram potentiam, per quam sit in 
+      <lb ed="#P" n="81"/>actu, sed in diuinis est verum generans, ergo 
+      <lb ed="#P" n="82"/>&amp;c. Minor supponitur, tanquam nota, Maio 
+      <lb ed="#P" n="83"/>rem probo; nam, sicut dicebatur superius,  
+      <lb ed="#P" n="84"/>de ratione agentis est, esse in actu, quia
+      age<lb ed="#P" n="85" break="no"/>re praesupponit esse: agens autem non est 
+      <lb ed="#P" n="86"/>in actu, nisi per potentiam actiuam: ergo ne 
+      <lb ed="#P" n="87"/>cessario debet illam habere Et confirmatur,  
+      <lb ed="#P" n="88"/>quia, sicut se habet agere ad esse, ita se habet 
+      <lb ed="#P" n="89"/>actio ad potentiam actiuam, id patet, quia 
+      <lb ed="#P" n="90"/>vbique est comparatio ad actum primum: nunc 
+      <lb ed="#P" n="91"/>autem agere ita se habet ad esse, quod suppo 
+      <lb ed="#P" n="92"/>uit ipsum, ergo a simili ita se habebit actio 
+      <lb ed="#P" n="93"/>ad potentiam actiuam, quod necessario ipsam  
+      <lb ed="#P" n="94"/>supponet: generatio actio est in patre : ergo 
+      <lb ed="#P" n="95"/>supponit ipsum habere poiam generatiuam. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1630">
+               <lb ed="#P" n="96"/>2 Vbicunque est determinatus actus, ab 
+      <lb ed="#P" n="97"/>aliquo agente elicitus, ibi necessario oportet 
+      <lb ed="#P" n="98"/>ponere aliquam potentiam actiuam, vel qua 
+      <lb ed="#P" n="99"/>si actiuam, quae sit principium elicitiuum il 
+      <lb ed="#P" n="100"/>lius actus: sed in diuinis reperitur actus
+      de<lb ed="#P" n="101" break="no"/>terminatus ipsius generationis elicitus a
+      pa<lb ed="#P" n="102" break="no"/>tre, ergo &amp;c. Minor supponitur, quia omnes 
+      <lb ed="#P" n="103"/>rationes probantes ibi esse potentiam
+      gene<lb ed="#P" n="104" break="no"/>ratiuam, supponunt etiam, ibi esse actum ge 
+      <lb ed="#P" n="105"/>nerationis; Maiorem probo; nam ista tria com 
+      <lb ed="#P" n="106"/>sequuntur se per ordinem, actus elicitus,
+      a<lb ed="#P" n="107" break="no"/>gens eliciens, &amp; potentia, per quam elicitur,  
+      <lb ed="#P" n="108"/>exempli gratia calefacere non qualecunque 
+      <lb ed="#P" n="109"/>agens, sed determinatum requirit, puta
+      cali<lb ed="#P" n="110" break="no"/>dum, quod non quemcunque actum, sed
+      de<lb ed="#P" n="111" break="no"/>terminatum secundum virtutem suam
+      pro<lb ed="#P" n="112" break="no"/>ducit, &amp; a potentia determinata, tanquam 
+      <lb ed="#P" n="113"/>a principio elicit, ibique datur status: Patet 
+      <lb ed="#P" n="114"/>ergo, quod requiritur potentia determinata.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1674">
+      <!--274.xml-->
+               <pb ed="#P" n="249"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Confirmatur, nam videmus quandoque
+      ef<lb ed="#P" n="2" break="no"/>fectum indeterminatum, puta casualem, &amp;  
+      <lb ed="#P" n="3"/>determinatum scilicet naturalem, certum 
+      <lb ed="#P" n="4"/>ist autem, quod ambo non proueniunt al 
+      <lb ed="#P" n="5"/>eodem principio, sed vnus in fortunam, &amp; 
+      <lb ed="#P" n="6"/>alius in naturam refertur; ergo determina 
+      <lb ed="#P" n="7"/>tio, &amp; indeterminatio, quae est in actibus pro 
+      <lb ed="#P" n="8"/>uenit ex ipsis principijs; Et sic patet, quod 
+      <lb ed="#P" n="9"/>vbi est determinatus actus, ibi est determina 
+      <lb ed="#P" n="10"/>ta potentia, qua eliciatur. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1706">
+               <lb ed="#P" n="11"/>3 Vbi est actus necessario elicitus, ibi est 
+      <lb ed="#P" n="12"/>potentia necessitans ad eliciendum huiusme 
+      <lb ed="#P" n="13"/>di actum, sed actus generationis in diuinis 
+      <lb ed="#P" n="14"/>est necessarius, ergo &amp;c. Maior est nota;
+      Mi<lb ed="#P" n="15" break="no"/>nor probatur, nam sicut se habet actus libere 
+      <lb ed="#P" n="16"/>elicitus ad agens liberum; ita actus necessarius 
+      <lb ed="#P" n="17"/>ad agens necessarium, &amp; naturaliter, sed
+      a<lb ed="#P" n="18" break="no"/>ctus libere elicitus supponit in agente poten 
+      <lb ed="#P" n="19"/>tiam liberam, ergo actus naturaliter, &amp;
+      ne<lb ed="#P" n="20" break="no"/>cessario elicitus debet supponere in agente 
+      <lb ed="#P" n="21"/>potentiam naturalem necessitantem ad
+      ta<lb ed="#P" n="22" break="no"/>nem actum 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1735">
+               <lb ed="#P" n="23"/>4 Vbi datur potentia assimilatiua
+      produ<lb ed="#P" n="24" break="no"/>centis ad productum, ibi datur, potentia
+      ge<lb ed="#P" n="25" break="no"/>nerandi; sed in diuinis est huiusmodi
+      poten<lb ed="#P" n="26" break="no"/>tia assimilatiua, ergo &amp;c. Minor est nota; 
+      <lb ed="#P" n="27"/>Maior probatur, na assimilatio gignentis ad 
+      <lb ed="#P" n="28"/>genitum, vel est formaliter per actum
+      gene<lb ed="#P" n="29" break="no"/>rationis, vel per aliquam formam suppositam 
+      <lb ed="#P" n="30"/>actui, tanquam potentiam; non potest dici 
+      <lb ed="#P" n="31"/>primum, quia per talem actum gignens, &amp;  
+      <lb ed="#P" n="32"/>genitum realiter opponuntur, &amp; inter se
+      di<lb ed="#P" n="33" break="no"/>stinguntur, ergo erit per aliquam formam 
+      <lb ed="#P" n="34"/>suppositam in agente, tanquam potentiam, 
+      <lb ed="#P" n="35"/>&amp; principium assimilationis geniti, &amp;
+      edu<lb ed="#P" n="36" break="no"/>ctionis ipsius actus. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1768">
+               <lb ed="#P" n="37"/>Contra praedicta oecurrunt duae
+      dubita<lb ed="#P" n="38" break="no"/>tiones; Prima est, quia licet praefatae
+      qua<lb ed="#P" n="39" break="no"/>tuor conditione, sex quibus desumuntur
+      su<lb ed="#P" n="40" break="no"/>pradictae rationes, proueniant ex
+      perfectio<lb ed="#P" n="41" break="no"/>ne, &amp; actualitate potentiae actiuae, non
+      pro<lb ed="#P" n="42" break="no"/>ueniunt tamen ex perfectione ipsius
+      agen<lb ed="#P" n="43" break="no"/>tis: immo magis ex ipsis, &amp; praecipue ex 
+      <lb ed="#P" n="44"/>duabus primis apparet imperfectio quaedam 
+      <lb ed="#P" n="45"/>agentis; nam quod potentia actiua actuet ip 
+      <lb ed="#P" n="46"/>sum agens, hoc videtur esse, quia ipsum de 
+      <lb ed="#P" n="47"/>se non est in actu, &amp; ideo indiget actuari per 
+      <lb ed="#P" n="48"/>potentiam actiuam. Similiter quod determi 
+      <lb ed="#P" n="49"/>net ipsum, hoc pro tanto erit, quia de se est 
+      <lb ed="#P" n="50"/>indeterminatum, &amp; propterea indiget deter 
+      <lb ed="#P" n="51"/>minari per potentiam: Quae duae conditiones 
+      <lb ed="#P" n="52"/>cum omnino repugnent supposito generant 
+      <lb ed="#P" n="53"/>in diuinis, videtur, quod nullo modo sit ibi 
+      <lb ed="#P" n="54"/>ponenda potentia generandi secundum istas 
+      <lb ed="#P" n="55"/>conditiones. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1812">
+               <lb ed="#P" n="56"/>Ad hoc respondeo, quod vbi est realis
+      di<lb ed="#P" n="57" break="no"/>stinctio inter potentiam actiuam, &amp; ipsum 
+      <!--274.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 249 b -->
+               <lb ed="#P" n="58"/>agens, huiusmodi conditiones arguunt
+      per<lb ed="#P" n="59" break="no"/>fectionem in potentia actiua, cum aliquo
+      ta<lb ed="#P" n="60" break="no"/>men defectu, &amp; aliqua diminutione in agen 
+      <lb ed="#P" n="61"/>te, quod dicebatur in dubitatione, quia tumc 
+      <lb ed="#P" n="62"/>agens non est potens, nisi per aliud superat 
+      <lb ed="#P" n="63"/>ditum: Sed vbi potentia actiua sola ratione 
+      <lb ed="#P" n="64"/>distinguitur ab agente, ibi praefatae
+      conditio<lb ed="#P" n="65" break="no"/>nes dicunt perfectionem potentiae actiuae si 
+      <lb ed="#P" n="66"/>ne defectu agentis, quia tunc agens dicitur 
+      <lb ed="#P" n="67"/>potens, non tanquam per aliquid ei additum, 
+      <lb ed="#P" n="68"/>&amp; diuersum ab eo, ex quo possit in ipso
+      ar<lb ed="#P" n="69" break="no"/>gui potentialitas, &amp; indeterminatio: Nec
+      di<lb ed="#P" n="70" break="no"/>stinctio sola ratione tollit, quin ibi sit vera 
+      <lb ed="#P" n="71"/>potentia actiua, &amp; verum generans, nam
+      vi<lb ed="#P" n="72" break="no"/>demus, quod generans dictinguitur ibi ab  
+      <lb ed="#P" n="73"/>actu generandi actiue sumpto sola ratione; 
+      <lb ed="#P" n="74"/>&amp; tamen hoc non obstante conceditur ibi 
+      <lb ed="#P" n="75"/>esse verum generans, &amp; verus actus
+      genera<lb ed="#P" n="76" break="no"/>tionis ab eo distinctus. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1867">
+               <lb ed="#P" n="77"/>Secundo dubitatur, quia dictum est in quae 
+      <lb ed="#P" n="78"/>stione principali, actum supponere in Deo 
+      <lb ed="#P" n="79"/>potentiam, ex quo videtur sequi, quod
+      pa<lb ed="#P" n="80" break="no"/>ter sit suppositum constitutum, antequam  
+      <lb ed="#P" n="81"/>generet, cuius contrarium est ostensum in 
+      <lb ed="#P" n="82"/>sexta distinctione; &amp; consequentia probatur 
+      <lb ed="#P" n="83"/>quia nullum suppositum habet potentiam ad 
+      <lb ed="#P" n="84"/>agendum, antequam sit suppositum
+      con<lb ed="#P" n="85" break="no"/>stitutum 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1889">
+               <lb ed="#P" n="86"/>Respondetur, quod actus generationis 
+      <lb ed="#P" n="87"/>potest accipi dupliciter; Vno modo prout 
+      <lb ed="#P" n="88"/>est proprietas existens in patre, &amp; isto modo 
+      <lb ed="#P" n="89"/>non supponitur ibi aliud in ratione
+      princi<lb ed="#P" n="90" break="no"/>pij elicitiui huiusmodi actus, sed supponitur 
+      <lb ed="#P" n="91"/>ibi aliud in ratione fundamenti, puta esse, 
+      <lb ed="#P" n="92"/>quia proprietas semper exigit ante se aliud 
+      <lb ed="#P" n="93"/>in ratione fundamenti, alio modo potest ac 
+      <lb ed="#P" n="94"/>cipi prout per eam pater habet principiari 
+      <lb ed="#P" n="95"/>terminum realiter distinctum, secundum 
+      <lb ed="#P" n="96"/>quem modum actus est elicitus a patre, &amp;  
+      <lb ed="#P" n="97"/>hoc modo bene supponitur sibi potentia in 
+      <lb ed="#P" n="98"/>ratione principij elicitiui; &amp; hoc non est
+      in<lb ed="#P" n="99" break="no"/>conueniens, quia ipse idem actus, in quantum 
+      <lb ed="#P" n="100"/>elicitus est a patre; sicut quaedam
+      proprie<lb ed="#P" n="101" break="no"/>tas ipsum constituit: cum ergo dicitur, quod 
+      <lb ed="#P" n="102"/>pater esset suppositum constitutum,
+      ante<lb ed="#P" n="103" break="no"/>uam generaret, potest dupliciter intelligi 
+      <lb ed="#P" n="104"/>vel sicut suppositum constitutum cum omni 
+      <lb ed="#P" n="105"/>bus suis perfectionibus essentialibus,
+      ante<lb ed="#P" n="106" break="no"/>quam habeat actum generationis quocum- 
+      <lb ed="#P" n="107"/>que modo, &amp; secundum istum intellectum 
+      <lb ed="#P" n="108"/>nego hoc, quia incidit in eandem opinionem, 
+      <lb ed="#P" n="109"/>quam superius refutaui in presenti distinctio 
+      <lb ed="#P" n="110"/>ne, &amp; vltra hoc sequeretur, quod pater
+      es<lb ed="#P" n="111" break="no"/>set suppositum absolutum, quia quicquid 
+      <lb ed="#P" n="112"/>est praeuium actui generationis in
+      supposi<lb ed="#P" n="113" break="no"/>to, totum est absolutum: vel potest intelligi, 
+      <lb ed="#P" n="114"/>quod sit suppositum constitutum, antequam 
+      <!--275.xml-->
+      <pb ed="#P" n="250"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>generet, quia prius habeat actum
+      generatio<lb ed="#P" n="2" break="no"/>nis, vt proprietatem constituentem, quam 
+      <lb ed="#P" n="3"/>habeat eum, vt actum elicitum productiuum 
+      <lb ed="#P" n="4"/>alterius suppositi, &amp; sic isto modo cor cedo 
+      <lb ed="#P" n="5"/>
+               <!-- erroneous line -->
+               <lb ed="#P" n="6"/>patrem esse suppositum constitutum, antequm 
+      <lb ed="#P" n="7"/>generet, non quod Ily ante, dicat prioritatem  
+      <lb ed="#P" n="8"/>naturae, vel originis, sed solum rationis,
+      quam<lb ed="#P" n="9" break="no"/>uis ista ratio sit supposita ex natura rei, ante 
+      <lb ed="#P" n="10"/>quam intellectus se habeat ad
+      intelligen<lb ed="#P" n="11" break="no"/>dum eam. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e1988">
+               <lb ed="#P" n="12"/>Et sic patet quod erat determinandum 
+      <lb ed="#P" n="13"/>circa istum articulum, scilicet quod in Deo 
+      <lb ed="#P" n="14"/>est potentia generandi actiua, non secundum 
+      <lb ed="#P" n="15"/>omnes conditiones, quas assignauit Aristo. 
+      <lb ed="#P" n="16"/>circa generationem naturalium. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2001">
+               <lb ed="#P" n="17"/>Ad rationes adductas pr altera opinione, 
+      <lb ed="#P" n="18"/>respondere oportet. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2008">
+               <lb ed="#P" n="19"/>Ad primam, concessa consequentia,
+      ne<lb ed="#P" n="20" break="no"/>go falsitatem consequentis, quia non est
+      in<lb ed="#P" n="21" break="no"/>conueniens, quod aliquid in patre sit ab alio 
+      <lb ed="#P" n="22"/>principio: Et cum probatur, quia pater est 
+      <lb ed="#P" n="23"/>primum suppositum, &amp; per consequens
+      to<lb ed="#P" n="24" break="no"/>tum, quod est in eo, est a se: Dico, quod
+      ali<lb ed="#P" n="25" break="no"/>quid esse ab alio potest intelligi duobus mo 
+      <lb ed="#P" n="26"/>dis, vno modo, quod sit ab alio realiter distin 
+      <lb ed="#P" n="27"/>cto, tanquam productum a producente, &amp;  
+      <lb ed="#P" n="28"/>isto modo bene repugnat patri, quia tunc 
+      <lb ed="#P" n="29"/>non esset primum suppositum, alio
+      mo<lb ed="#P" n="30" break="no"/>do potest intelligi aliquid esse ab alio
+      distin<lb ed="#P" n="31" break="no"/>cto solum secundum rationem, tanquam a 
+      <lb ed="#P" n="32"/>principio elicitiuo, vel tanquam ab
+      elicien<lb ed="#P" n="33" break="no"/>te; Est isto modo non est inconueniens, esse 
+      <lb ed="#P" n="34"/>in primo supposito aliquid, quod sit ab alio;  
+      <lb ed="#P" n="35"/>Nam si totum, quod est in primo supposito, 
+      <lb ed="#P" n="36"/>esset a se, ita vt nullo modo esset ab alio, 
+      <lb ed="#P" n="37"/>tunc actus generationis non esset ab ipso, tam 
+      <lb ed="#P" n="38"/>quam ab eliciente, &amp; ita primum suppositum 
+      <lb ed="#P" n="39"/>non eliceret actum generandi, nec esset
+      ge<lb ed="#P" n="40" break="no"/>nerans, quod est absurdum. Ideo sicut
+      ge<lb ed="#P" n="41" break="no"/>neratio actiua existens in primo supposito 
+      <lb ed="#P" n="42"/>potest sine omni inconuenienti esse ab eo. 
+      <lb ed="#P" n="43"/>tanquam ab eliciente; ita pari ratione pote 
+      <lb ed="#P" n="44"/>rit esse a sua potentia generatiua, tanquam  
+      <lb ed="#P" n="45"/>a formali principio elicitiuo; comittitur ergo 
+      <lb ed="#P" n="46"/>fallacia consequentis procedendo ab inferio 
+      <lb ed="#P" n="47"/>ri ad superius. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2073">
+               <lb ed="#P" n="48"/>Ad secundam respondetur eodem modo 
+      <lb ed="#P" n="49"/>Nam, cum dicit illud, per quod
+      constitui<lb ed="#P" n="50" break="no"/>tur primum suppositum, quod est a se, non 
+      <lb ed="#P" n="51"/>potest esse ab alio. Dico, quod verum est pri 
+      <lb ed="#P" n="52"/>mo modo, quo ponitur aliquid esse ab alio,  
+      <lb ed="#P" n="53"/>sed secundo modo non est verum. Posset et 
+      <lb ed="#P" n="54"/>dici aliter, scilicet, quod generatio actiua 
+      <lb ed="#P" n="55"/>non constituit, vt est actus elicitus ab alio,  
+      <lb ed="#P" n="56"/>sed vt est proprietas existens in alio 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2095">
+               <lb ed="#P" n="57"/>Ad tertiam nego consequentiam. Ad pro 
+      <lb ed="#P" n="58"/>bationem vero cum dicitur, quod formale 
+      <!--275.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 250 b -->
+               <lb ed="#P" n="59"/>principium elicitiuum alicuius actus est
+      di<lb ed="#P" n="60" break="no"/>stinctum a supposito, cuius est ille actus. 
+      <lb ed="#P" n="61"/>Dico non esse inconueniens quod sit idem 
+      <lb ed="#P" n="62"/>secundum rem sufficit enim, quod sit distin 
+      <lb ed="#P" n="63"/>ctum secundum rationem, &amp; maxime si
+      il<lb ed="#P" n="64" break="no"/>la distinctio sumatur ex natura rei
+      conno<lb ed="#P" n="65" break="no"/>tantis rationem, quae adsit
+      apprehenden<lb ed="#P" n="66" break="no"/>do, sicut est in proposito.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2126">
+               <lb ed="#P" n="67"/>Ad confirmationem rationis, cum dicitur 
+      <lb ed="#P" n="68"/>quod tunc aliqua perfectio esset in patre, quodm 
+      <lb ed="#P" n="69"/>non est in filio. Dico, potentiam generandi, 
+      <lb ed="#P" n="70"/>prout dicit perfectionem, ita esse in filio,
+      si<lb ed="#P" n="71" break="no"/>cut in patre, vt patebit inferius. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2140">
+               <lb ed="#P" n="72"/>ARTICVLVS TERTIVS 
+      <lb ed="#P" n="73"/>An potentia generandi in Deo dicat quio 
+      <lb ed="#P" n="74"/>absolutum, vel respectiuum.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2149">
+               <lb ed="#P" n="75"/>QVamuis ex praecedentibus articulis sa 
+      <lb ed="#P" n="76"/>tis possit haberi quid sentiam de isto 
+      <lb ed="#P" n="77"/>articulo, tamen quia haec est specialis diffi 
+      <lb ed="#P" n="78"/>cultas inter Doctores, ideo nolo eam
+      prae<lb ed="#P" n="79" break="no"/>termittere.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2162">
+               <lb ed="#P" n="80"/>Ad quam respondent aliqui, potentiam
+      ge<lb ed="#P" n="81" break="no"/>nerandi in Deo dicere quid absolutum, &amp; es 
+      <lb ed="#P" n="82"/>sentiale commune tribus personis:
+      secunda<lb ed="#P" n="83" break="no"/>rio autem dicere proprietatem relatiua, non  
+      <lb ed="#P" n="84"/>qualemcunque, sed illam, quae est personae 
+      <lb ed="#P" n="85"/>generantis, puta paternitatem, quia solus pa 
+      <lb ed="#P" n="86"/>ter generat. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2180">
+               <lb ed="#P" n="87"/>Rationes prista opinione sunt plures; qua 
+      <lb ed="#P" n="88"/>el¬ <!-- erroneous line -->
+      <lb ed="#P" n="89"/>tuor tamen adducam, quae mihi videntur 
+      <lb ed="#P" n="90"/>fortiores. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2193">
+               <lb ed="#P" n="91"/>1 Actus proprius, &amp; incommunicabilis 
+      <lb ed="#P" n="92"/>esta forma propria, &amp; incommunicabili, tan 
+      <lb ed="#P" n="93"/>quam a formali principio elicitiuo: sed gene 
+      <lb ed="#P" n="94"/>rare est actus proprius patris, &amp; incommun 
+      <lb ed="#P" n="95"/>cabilis alteri personae, ergo est a forma sibi 
+      <lb ed="#P" n="96"/>propria, &amp; incommunicabili: ista est proprie 
+      <lb ed="#P" n="97"/>tas relatiua, scilicet paternitas ergo &amp;c.
+      Ma<lb ed="#P" n="98" break="no"/>ior est nota. Minor probatur per Arist. 2. Phy 
+      <lb ed="#P" n="99"/>sicorum, &amp; 5. Metaph vbi vult quod causa, 
+      <lb ed="#P" n="100"/>&amp; effectus sibi mutuo correspondeant, vt si 
+      <lb ed="#P" n="101"/>causa est communis, effectus etiam sit
+      conmu<lb ed="#P" n="102" break="no"/>nisi; Et primo Politicorum sic arguit
+      Deati<lb ed="#P" n="103" break="no"/>tudo debetur homini, &amp; non alteri animali; 
+      <lb ed="#P" n="104"/>ergo debetur sibi per illud quod est sibi
+      pro<lb ed="#P" n="105" break="no"/>prium, in quo distinguitur ab alijs
+      animali<lb ed="#P" n="106" break="no"/>bus; &amp; hoc est intellectus, ergo &amp;c Modo a 
+      <lb ed="#P" n="107"/>simili generare debetur patri; ergo per illud,  
+      <lb ed="#P" n="108"/>quod est sibi proprium Minor patet, quia pa 
+      <lb ed="#P" n="109"/>ternitas est proprietas patris. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2237">
+               <lb ed="#P" n="110"/>2 Illa forma quae dat actum primum, po 
+      <lb ed="#P" n="111"/>test etiam dare secundum, qui est agere, si sit 
+      <!--276.xml-->
+      <pb ed="#P" n="251"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>perfecta: nam ex imperfectionep ouenit, quoi 
+      <lb ed="#P" n="2"/>det primum absque secundo, sed proprietas 
+      <lb ed="#P" n="3"/>relatiua dat actum primum, qui est esse,
+      im<lb ed="#P" n="4" break="no"/>mo dat etiam esse distinctum per modum
+      dif<lb ed="#P" n="5" break="no"/>ferentiae, constituentis: ergo poterit dare actu 
+      <lb ed="#P" n="6"/>secundum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2264">
+               <lb ed="#P" n="7"/>3 Potentia, &amp; actus sunt eiusdem
+      gene<lb ed="#P" n="8" break="no"/>ris, sed actus generationis in diuinis est
+      rela<lb ed="#P" n="9" break="no"/>tio, ergo &amp; potentia. Minor probatur, quia 
+      <lb ed="#P" n="10"/>medium est eiusdem generis cum extremis,  
+      <lb ed="#P" n="11"/>actus aute generationis mediat inter gignens 
+      <lb ed="#P" n="12"/>&amp; genitum, quae sunt relatiua: ergo &amp;c 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2280">
+               <lb ed="#P" n="13"/>4 Sicut se habet essentia ad actus
+      essen<lb ed="#P" n="14" break="no"/>tiales, ita notio ad actus notionales, sed essen 
+      <lb ed="#P" n="15"/>tia est principium actuum essentialium; ergo 
+      <lb ed="#P" n="16"/>&amp;c. Minor patet, &amp; Maior probatur, quia
+      si<lb ed="#P" n="17" break="no"/>cut actus dicuntur essentiales ab essentia, ita 
+      <lb ed="#P" n="18"/>notionales a notione. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2296">
+               <lb ed="#P" n="19"/>Contra hanc opinionem arguunt quidam 
+      <lb ed="#P" n="20"/>deducendo quatuor inconuenientia.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2303">
+               <lb ed="#P" n="21"/>1 Si Pater generaret paternitate,
+      sequere<lb ed="#P" n="22" break="no"/>tur, quod paternitas esset perfectior
+      filiatio<lb ed="#P" n="23" break="no"/>ne, hoc est falsum: ergo &amp;c Falsitas patet, quia 
+      <lb ed="#P" n="24"/>tunc filius non esset aequalis patri:
+      Conse<lb ed="#P" n="25" break="no"/>quentia probatur, quia forma dans actum  
+      <lb ed="#P" n="26"/>primum, &amp; secundum, est perfectior illa, quae 
+      <lb ed="#P" n="27"/>dat solum actum primum, sed si paternitas es 
+      <lb ed="#P" n="28"/>set formalis ratio generandi daret vtrumque 
+      <lb ed="#P" n="29"/>actum, filiatio autem daret alterum tantum: 
+      <lb ed="#P" n="30"/>ergo esset illa perfectior.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2327">
+               <lb ed="#P" n="31"/>2 Sequeretur quod paternitas
+      contine<lb ed="#P" n="32" break="no"/>ret virtualiter quicquid est in filio genito, con 
+      <lb ed="#P" n="33"/>sequens est falsum, ergo &amp;c. Consequentia 
+      <lb ed="#P" n="34"/>est nota, quia principium formale alicuius 
+      <lb ed="#P" n="35"/>ctus cum contineat virtualiter actum, conti 
+      <lb ed="#P" n="36"/>net etiam quicquid communicatur, per illum 
+      <lb ed="#P" n="37"/>actum: Falsitas probatur, quia in filio est
+      es<lb ed="#P" n="38" break="no"/>sentia, quae non potest contineri virtualiter a 
+      <lb ed="#P" n="39"/>paternitate, sed magis e conaerso, tum quia 
+      <lb ed="#P" n="40"/>est fundamentum paternitatis, tum quia
+      in<lb ed="#P" n="41" break="no"/>uenitur etiam cum opposita relatione.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2353">
+               <lb ed="#P" n="42"/>3 Sequeretur, quod patetnitas esset prin 
+      <lb ed="#P" n="43"/>cipium sur ipsius, quod est falsum. Consequen 
+      <lb ed="#P" n="44"/>tia videtur nota, quia communiter
+      concedi<lb ed="#P" n="45" break="no"/>tur, quod paternitas sit ipsamet generatio 
+      <lb ed="#P" n="46"/>actiua.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2367">
+               <lb ed="#P" n="47"/>4 Sequeretur, quod generatio filij, &amp; pro 
+      <lb ed="#P" n="48"/>cessio spiritus sancti non essent distinctae ex 
+      <lb ed="#P" n="49"/>parte principij, hoc modo scilicet, vt vna
+      es<lb ed="#P" n="50" break="no"/>set per modum intellectus, vel naturae, &amp; al 
+      <lb ed="#P" n="51"/>tera per modum voluntatis, quod est falsum 
+      <lb ed="#P" n="52"/>vt conceditur, ab omnibus: Consequentiam 
+      <lb ed="#P" n="53"/>probo, quia quaelibet relatio aequaliter respi 
+      <lb ed="#P" n="54"/>bit terminum sibi oppositum, ideo sicut
+      pa<lb ed="#P" n="55" break="no"/>ternitas respicit filium, ita spiratio actua Spi 
+      <lb ed="#P" n="56"/>ritum Sanctum. Vnde ex parte horum
+      prin<lb ed="#P" n="57" break="no"/>principiorum non potest haberi; quod vna 
+      <!--276.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 251 b -->
+               <lb ed="#P" n="58"/>sit magis per modum intellectus, vel
+      volun<lb ed="#P" n="59" break="no"/>tatis quam altera 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2404">
+               <lb ed="#P" n="60"/>Huiusmodi rationes non mouent me, vt 
+      <lb ed="#P" n="61"/>teneam hanc conclusionem, quia facile
+      sol<lb ed="#P" n="62" break="no"/>ui possunt 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2413">
+               <lb ed="#P" n="63"/>Ad primam, negatur quod paternitas sit 
+      <lb ed="#P" n="64"/>perfectior filiatione, quamuis filiatio non dei 
+      <lb ed="#P" n="65"/>actum secundum, scilicet generare, hoc enim 
+      <lb ed="#P" n="66"/>non prouenit ex aliqua imperfectione, sed  
+      <lb ed="#P" n="67"/>ex eo, quod non oporteat, sicut P. Aug solue 
+      <lb ed="#P" n="68"/>bat rationem Maximini concludentis imperfe 
+      <lb ed="#P" n="69"/>ctionem in filio, si non generaret, vt est vide 
+      <lb ed="#P" n="70"/>re apud Magistrum. Peccat igitur ratio per. 
+      <lb ed="#P" n="71"/>fallaciam consequentis, quia arguit a
+      pluri<lb ed="#P" n="72" break="no"/>bus causis Veritati, ad vnam tantum, plures r 
+      <lb ed="#P" n="73"/>enim possunt esse causae, cur aliqua forma 
+      <lb ed="#P" n="74"/>non det actum secundum, haec tamen ratio 
+      <lb ed="#P" n="75"/>vnam tantum refert. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2444">
+               <lb ed="#P" n="76"/>Ad secundam, nego consequentiam. Et cum 
+      <lb ed="#P" n="77"/>probatur, quia principium formale
+      continem<lb ed="#P" n="78" break="no"/>do actum, continet virtualiter quicquid
+      com<lb ed="#P" n="79" break="no"/>municatur per illum actum; Dico, quod verum 
+      <lb ed="#P" n="80"/>est, si illud communicatum accipit esse
+      per<lb ed="#P" n="81" break="no"/>illum actum, at si non accipiat esse, sed
+      ma<lb ed="#P" n="82" break="no"/>gis sibi praeexistat, non oportet, quod
+      conti<lb ed="#P" n="83" break="no"/>neatur virtualiter in formali principio actus 
+      <lb ed="#P" n="84"/>videmus enim quod per actum nutritionis, 
+      <lb ed="#P" n="85"/>forma humana communicatur materiae nutri 
+      <lb ed="#P" n="86"/>menti, tamen quia forma humana non
+      acci<lb ed="#P" n="87" break="no"/>pit esse, sed illi praeexistit, idcirco non contine 
+      <lb ed="#P" n="88"/>tur virtualiter in principio nutritiuo: Ita in 
+      <lb ed="#P" n="89"/>proposito quia essentia non accipit esse per; 
+      <lb ed="#P" n="90"/>actum generationis, sed praeexistit sibi, non  
+      <lb ed="#P" n="91"/>oportet, quod contineatur virtualiter in
+      for<lb ed="#P" n="92" break="no"/>mali principio illius actus, sed sufficit, quod 
+      <lb ed="#P" n="93"/>contineatur virtualiter, vel formaliter insup 
+      <lb ed="#P" n="94"/>posito, cuius est illud principium. Et ideo, cum 
+      <lb ed="#P" n="95"/>essentia contineatur formaliter in patre, non 
+      <lb ed="#P" n="96"/>oportet, quod contineatur etiam in
+      paterni<lb ed="#P" n="97" break="no"/>ate, sicut patet in exemplo praeposito, nam  
+      <lb ed="#P" n="98"/>forma humana continetur formaliter in
+      ho<lb ed="#P" n="99" break="no"/>mine, quamuis non contineatur in ipsa virtu 
+      <lb ed="#P" n="100"/>te nutritiua, peccat igitur ratio per fallaciam  
+      <lb ed="#P" n="101"/>consequentis procedendo a pluribus causis 
+      <lb ed="#P" n="102"/>id vnam tantum; nam quod forma aliqua sit 
+      <lb ed="#P" n="103"/>principium communicandi aliquid; potest 
+      <lb ed="#P" n="104"/>prouenire a pluribus causis; vel quia illud 
+      <lb ed="#P" n="105"/>continet virtualiter, vel quia est eiusdem
+      ra<lb ed="#P" n="106" break="no"/>tionis cum illo, vel quia est forma alicuius 
+      <lb ed="#P" n="107"/>supposit; ipsi vero vnam tantum causam 
+      <lb ed="#P" n="108"/>accipiunt. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2518">
+               <lb ed="#P" n="109"/>Ad tertiam dico, quod ratio concludit con 
+      <lb ed="#P" n="110"/>tra eos, &amp; contra quamcunque opinionem, 
+      <lb ed="#P" n="111"/>quia nulla opinio est, quae ponat potentiam  
+      <lb ed="#P" n="112"/>onerandi realiter distingui a generationom 
+      <lb ed="#P" n="113"/>actiua, quia tunc in patre esset composito: 
+      <lb ed="#P" n="114"/>omnes tamen concedunt, quod distinguan¬ 
+      <!--277.xml-->
+      <pb ed="#P" n="252"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tur secundum rationem: Videtur ergo
+      pere<lb ed="#P" n="2" break="no"/>re quandam difficultatem, quae est contra om 
+      <lb ed="#P" n="3"/>nes: dicendum est tamen ad eam, quod sicut 
+      <lb ed="#P" n="4"/>patet ex praecedenti articulo, sufficit differen 
+      <lb ed="#P" n="5"/>tia rationis ad hoc, quod paternitas non
+      ge<lb ed="#P" n="6" break="no"/>neret se ipsam. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2553">
+               <lb ed="#P" n="7"/>Ad quartam dico quod non concludit, nisi 
+      <lb ed="#P" n="8"/>supposita opinione eorum qui dicunt,
+      ema<lb ed="#P" n="9" break="no"/>nationes distingui per intellectum, &amp; volun 
+      <lb ed="#P" n="10"/>tatem, prout sunt distincta attributa
+      forma<lb ed="#P" n="11" break="no"/>liter ex natura rei, quae opinio si erit negata, 
+      <lb ed="#P" n="12"/>sicut a multis negatur, ratio nihil concludet. 
+      <lb ed="#P" n="13"/>Potest enim saluari alio modo, quod vna ea 
+      <lb ed="#P" n="14"/>i nalatio sit prmodum intellectus, &amp; altera per 
+      <lb ed="#P" n="15"/>modum voluntatis, absque eo, quod negetur 
+      <lb ed="#P" n="16"/>patrem per paternitatem generare. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2578">
+               <lb ed="#P" n="17"/>Quapropter omissis aliorum rationibus 
+      <lb ed="#P" n="18"/>oi <!-- erroneous line -->
+      <lb ed="#P" n="19"/>quib contra pfatam opinionem possit probat,  
+      <lb ed="#P" n="20"/>quod respectus non esse principium
+      gene<lb ed="#P" n="21" break="no"/>rationis, nec terminus, quia multo minus
+      vi<lb ed="#P" n="22" break="no"/>detur, quod possit esse constitutiuus persone; 
+      <lb ed="#P" n="23"/>&amp; tamen in diuinis constituit personam, mul 
+      <lb ed="#P" n="24"/>to magis ergo videtur, quod possit esse prin 
+      <lb ed="#P" n="25"/>cipium generationis, &amp; terminus: ideo arguo 
+      <lb ed="#P" n="26"/>adhuc contra eam quadrupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2604">
+               <lb ed="#P" n="27"/>1 Si paternitas esset potentia generandi 
+      <lb ed="#P" n="28"/>sequeretur, quod filius non haberet
+      poten<lb ed="#P" n="29" break="no"/>tiam generandi, quod est falsum. Consequen 
+      <lb ed="#P" n="30"/>tia est nota, quia filius non habet
+      paternita<lb ed="#P" n="31" break="no"/>te. Falsitatem probo, quia P. Aug. habet pro 
+      <lb ed="#P" n="32"/>inconuenienti, quod potentia generandi
+      ne<lb ed="#P" n="33" break="no"/>getur a filio, licet non generet, quod euenit 
+      <lb ed="#P" n="34"/>illi non propter non posse, sed propter non 
+      <lb ed="#P" n="35"/>oportere, sicut inducitur a magistro. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2626">
+               <lb ed="#P" n="36"/>2 Si paternitas esset potentia generandi, 
+      <lb ed="#P" n="37"/>posset communicari filio, quod est falsum, 
+      <lb ed="#P" n="38"/>quia proprietates sunt incommunicabiles 
+      <lb ed="#P" n="39"/>Consequentiam probo, nam videmus, quod 
+      <lb ed="#P" n="40"/>sicut aliqua forma est elicitiua actus, per quen 
+      <lb ed="#P" n="41"/>fit communicatio, ita forma communicatur 
+      <lb ed="#P" n="42"/>per illum actum, vt patet de igneitate, vel ca 
+      <lb ed="#P" n="43"/>liditate, quae est principium elicituum
+      calo<lb ed="#P" n="44" break="no"/>ris, &amp; communicatur per generationem ignis,  
+      <lb ed="#P" n="45"/>&amp; hoc prouenit ex perfectione, &amp;
+      actualita<lb ed="#P" n="46" break="no"/>te talis formae, si ergo paternitas esset
+      forma<lb ed="#P" n="47" break="no"/>le principium elicitiuum generationis, vel hoc 
+      <lb ed="#P" n="48"/>esset immediate, &amp; tunc communicaretur 
+      <lb ed="#P" n="49"/>imiediate filio, vel esset principaliter
+      me<lb ed="#P" n="50" break="no"/>diante alio, &amp; tunc conmunicaretur filio prin 
+      <lb ed="#P" n="51"/>cipaliter, vel vltimate, quorum vtrumque est 
+      <lb ed="#P" n="52"/>falsum.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2665">
+               <lb ed="#P" n="53"/>3 Si paternitas esset potentia generandi, 
+      <lb ed="#P" n="54"/>sequeretur, quod filiatio esset terminus per 
+      <lb ed="#P" n="55"/>generationem acquisitus, hoc autem est
+      fal<lb ed="#P" n="56" break="no"/>um vt probatum fuit superius in distinctione 
+      <lb ed="#P" n="57"/>quinta; consequentiam probo, quia idem, quod 
+      <lb ed="#P" n="58"/>est terminus generationis, est etiam potentiae 
+      <!--277.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 252 b -->
+               <lb ed="#P" n="59"/>generatiuae, sed terminus paternitatis est
+      fi<lb ed="#P" n="60" break="no"/>iatio, ergo &amp; ipsa erit terminus per genera 
+      <lb ed="#P" n="61"/>tionem acquisitus. Immo vlterius sequeretur,  
+      <lb ed="#P" n="62"/>quod frustra esset illa generatio, quia termi- 
+      <lb ed="#P" n="63"/>nus generationis praehaberetur potentiae
+      ge<lb ed="#P" n="64" break="no"/>neratiuae ante actum generationis, nam si pa 
+      <lb ed="#P" n="65"/>ternitas est potentia generandi, cum sit prae 
+      <lb ed="#P" n="66"/>uia actui generationis, erit etiam praeuia filia 
+      <lb ed="#P" n="67"/>tioni, quomd est terminus ipsius, &amp; per consequens 
+      <lb ed="#P" n="68"/>distinctio inter patrem, &amp; filium erit
+      com<lb ed="#P" n="69" break="no"/>pleta ante actum generationis, sic &amp; illa
+      ge<lb ed="#P" n="70" break="no"/>neratio erit frustra 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2713">
+               <lb ed="#P" n="71"/>4 Si paternitas esset potentia generandi, 
+      <lb ed="#P" n="72"/>sequeretur, quod actuaret, determinaret, &amp; 
+      <lb ed="#P" n="73"/>necessitaret patrem ad generandum, simulqu 
+      <lb ed="#P" n="74"/>assimilaret ei filium genitum, consequens est 
+      <lb ed="#P" n="75"/>falsum, ergo &amp;c. Consequentia est nota ex 
+      <lb ed="#P" n="76"/>praecedente articulo, vbi ostensum est, quod 
+      <lb ed="#P" n="77"/>ista quatuor sunt de ratione potentiae actiuae 
+      <lb ed="#P" n="78"/>&amp; proueniunt ex perfectione ipsius.
+      Falsita<lb ed="#P" n="79" break="no"/>tem probo, nam quod paternitas non actuet 
+      <lb ed="#P" n="80"/>principium generationis patet, quia tunc
+      a<lb ed="#P" n="81" break="no"/>ctuaret ipsam essentiam, &amp; patrem, cum
+      pa<lb ed="#P" n="82" break="no"/>ter non sit aliud quam essentia, &amp; paternitas 
+      <lb ed="#P" n="83"/>hoc autem est falsum, quia relatio trahit
+      to<lb ed="#P" n="84" break="no"/>tam suam rationem, &amp; actualitatem a funda 
+      <lb ed="#P" n="85"/>mento, quod est ipsa essentia; si autem
+      pa<lb ed="#P" n="86" break="no"/>ternitas non actuat patrem, nec etiam
+      deter<lb ed="#P" n="87" break="no"/>minabit ipsum actum generationis, quia vnum 
+      <lb ed="#P" n="88"/>sequitur ad alterum, &amp; per consequens non 
+      <lb ed="#P" n="89"/>necessitabit: similiter quod non assimilet
+      fi<lb ed="#P" n="90" break="no"/>lium patet, quia per eam habet oppositionem 
+      <lb ed="#P" n="91"/>ad patrem, ergo ex his omnibus sequitur, quod 
+      <lb ed="#P" n="92"/>paternitas non sit potentia generandi. Ratio 
+      <lb ed="#P" n="93"/>nes contrariae opinionis soluentur in fine. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2765">
+               <lb ed="#P" n="94"/>Est alia opinio huic opposita, quae ponit, 
+      <lb ed="#P" n="95"/>potentiam generandi esse aliquid absolutum 
+      <lb ed="#P" n="96"/>tantum, scilicet ipsam essentiam, quae est in 
+      <lb ed="#P" n="97"/>tribus personis, quamuis non sit ratio elicien 
+      <lb ed="#P" n="98"/>di actum, nisi prout est in patre, quod ideo est 
+      <lb ed="#P" n="99"/>secundum eos, quia essentia respicit duos
+      a<lb ed="#P" n="100" break="no"/>ctus ad intra, scilicet generare, &amp; spirare, &amp;  
+      <lb ed="#P" n="101"/>vnum ad extra, scilicet terminare ordinem 
+      <lb ed="#P" n="102"/>creaturarum, itaquod non potest in actum  
+      <lb ed="#P" n="103"/>pirandi nisi completo actugenerandi, quia 
+      <lb ed="#P" n="104"/>in eo terminatur talis actus, &amp; incipit esse 
+      <lb ed="#P" n="105"/>rincipium alterius actus, scilicet spirandi, 
+      <lb ed="#P" n="106"/>qui terminatur in Spiritu Sancto, quo
+      com<lb ed="#P" n="107" break="no"/>pleto extant emanationes diuinaei postea con 
+      <lb ed="#P" n="108"/>sequitur tertius actus ad extra, scilicet
+      crea<lb ed="#P" n="109" break="no"/>re, qui elicitur ab omnibus personis. Dicunt,  
+      <lb ed="#P" n="110"/>ergo, quod potentia generandi, &amp; spirandi, 
+      <lb ed="#P" n="111"/>&amp; creandi est vna, &amp; eadem secundum rem 
+      <lb ed="#P" n="112"/>puta diuina essentia ordine quodam, vt visum 
+      <lb ed="#P" n="113"/>est, &amp; idcirco sicut potentia creandi dicit so 
+      <lb ed="#P" n="114"/>lam essentiam, &amp; non aliquid aliod;ita poten 
+      <lb ed="#P" n="115"/>tia generandi, &amp; spirandi eandem importa¬ 
+      <!--278.xml-->
+      <pb ed="#P" n="253"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bit essentiam absolute. Rationes pro ista opi 
+      <lb ed="#P" n="2"/>nione sunt tres. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2827">
+               <lb ed="#P" n="3"/>Prima, illud, quod est fundamentum rela 
+      <lb ed="#P" n="4"/>tionis in diuinis, dicit solam essentiam, sed po 
+      <lb ed="#P" n="5"/>tentia generandi est fundamentum
+      relatio<lb ed="#P" n="6" break="no"/>nis inter gignens, &amp; genitum, ergo &amp;c.
+      Ma<lb ed="#P" n="7" break="no"/>ior est nota, quia in diuinis non est nisi essen 
+      <lb ed="#P" n="8"/>tia, &amp; relatio, fundamentum autem
+      relatio<lb ed="#P" n="9" break="no"/>nis non est relatio, quia idem fundaret se
+      ip<lb ed="#P" n="10" break="no"/>sum, ergo est essentia tantum, quae est quid 
+      <lb ed="#P" n="11"/>absolutum, Minor probatur, nam relatio
+      gi<lb ed="#P" n="12" break="no"/>nentis, ad genitum vel fundantur ibi super 
+      <lb ed="#P" n="13"/>potentiam generandi, vel super ipsam
+      gene<lb ed="#P" n="14" break="no"/>rationem, non super generationem, quia illa 
+      <lb ed="#P" n="15"/>generatio est relatio, &amp; relatio non fundatui 
+      <lb ed="#P" n="16"/>super relationem, sequitur ergo quod funde 
+      <lb ed="#P" n="17"/>tur super potentiam generandi, quae est es- 
+      <lb ed="#P" n="18"/>sentia. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2864">
+               <lb ed="#P" n="19"/>Secunda, communicare se in eadem perso 
+      <lb ed="#P" n="20"/>nalitate actualiter secundum numerum non 
+      <lb ed="#P" n="21"/>tollit aliquam perfectionem a principio
+      pro<lb ed="#P" n="22" break="no"/>ductiuo, sed si per impossibile Deus
+      comuni<lb ed="#P" n="23" break="no"/>caret se in diuetsitate numerali, itavt
+      gene<lb ed="#P" n="24" break="no"/>raret alium Deum, essentia esset principium 
+      <lb ed="#P" n="25"/>istius communicationis, &amp; non relatio, ergo 
+      <lb ed="#P" n="26"/>etiam in ista communicatione, in qua
+      com<lb ed="#P" n="27" break="no"/>municat se in identitate naturae. 
+      <lb ed="#P" n="28"/>Tertia, potentia generandi non est imper 
+      <lb ed="#P" n="29"/>fectionis continentiae quam potentia
+      crean<lb ed="#P" n="30" break="no"/>di, sed potentia creandi continet creaturam  
+      <lb ed="#P" n="31"/>ratione essentiae, &amp; non relationis, ergo &amp;
+      po<lb ed="#P" n="32" break="no"/>tentia generandi continebit partum genitum 
+      <lb ed="#P" n="33"/>ratione essentiae, &amp; non relationis, &amp; per con 
+      <lb ed="#P" n="34"/>sequens sicut sola essentia est potentia crean 
+      <lb ed="#P" n="35"/>di; ita ipsa sola erit potentia generandi 
+      <lb ed="#P" n="36"/>Contra istam opinionem arguot ipliciter.. 
+      <lb ed="#P" n="37"/>Primo, illud, quod habet ordinem ad
+      ali<lb ed="#P" n="38" break="no"/>s quem actum, non est principium pare
+      abso<lb ed="#P" n="39" break="no"/>lutum, sed essentia, vt est potentia generandi 
+      <lb ed="#P" n="40"/>habet ordinem ad talem actum, ergo &amp;c. Ma 
+      <lb ed="#P" n="41"/>lor patet, &amp; etiam minor (per eos) quia dicunt,  
+      <lb ed="#P" n="42"/>quod essentia, vt est potentia generandi
+      res<lb ed="#P" n="43" break="no"/>picit istum actum generationis, qui est
+      pri<lb ed="#P" n="44" break="no"/>mus ad intra, prout vero est potentia
+      spiran<lb ed="#P" n="45" break="no"/>di, respicit actum spirandi in secundo ordins 
+      <lb ed="#P" n="46"/>quod non esset, nisi in quantum potentia ha 
+      <lb ed="#P" n="47"/>beret ordinem ad istos actus. Immo videtur 
+      <lb ed="#P" n="48"/>quod ista opinio ponat contradictoria, quia 
+      <lb ed="#P" n="49"/>ex vna parte dicit, quod potentia generandi 
+      <lb ed="#P" n="50"/>sbirandi, &amp; creandi dicunt vnam rem pure 
+      <lb ed="#P" n="51"/>absolutam, scilicet ipsam essentiam, &amp; ex alia 
+      <lb ed="#P" n="52"/>parte vult, quod inta res absoluta habeat or. 
+      <lb ed="#P" n="53"/>dinem ad istos tres actus, &amp; ad vnum mediam 
+      <lb ed="#P" n="54"/>te alio, erit ergo ista res pure absoluta, inquam 
+      <lb ed="#P" n="55"/>tum sic eam ponunt, &amp; respectiua in ordine 
+      <lb ed="#P" n="56"/>ad istos actus, &amp; sic habebit ordinem, &amp; non 
+      <lb ed="#P" n="57"/>erdinem, erit absoluta, &amp; non absoluta 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2951">
+      <!--278.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 253 b -->
+               <lb ed="#P" n="58"/>Secundo, si essentia, prout habet rationem 
+      <lb ed="#P" n="59"/>potentiae, esset pure absoluta, sequeretur quod 
+      <lb ed="#P" n="60"/>respiceret illos tres actus immediate,
+      conse<lb ed="#P" n="61" break="no"/>quens est falsum, ergo &amp;c. Falsitas patet per 
+      <lb ed="#P" n="62"/>eosmet, quia ponunt, quod habeat ordinem 
+      <lb ed="#P" n="63"/>ad vnum actum mediante alio.
+      Consequen<lb ed="#P" n="64" break="no"/>tiam probo, quia illud, quod est pure absolutum, 
+      <lb ed="#P" n="65"/>se habet per indifferentiam ad quodcunque, 
+      <lb ed="#P" n="66"/>sicut patet de materia, nam quia sua substan 
+      <lb ed="#P" n="67"/>tia est pure absoluta, habet se per
+      indifferen<lb ed="#P" n="68" break="no"/>tiam ad omnes formas, nec respicit eas secun 
+      <lb ed="#P" n="69"/>dum aliquem ordinem, ita ergo erit in
+      pro<lb ed="#P" n="70" break="no"/>posito.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e2988">
+               <lb ed="#P" n="71"/>Tertio, sequeretur, quod essentia determi 
+      <lb ed="#P" n="72"/>naretur ad primum actum se ipsa
+      immedia<lb ed="#P" n="73" break="no"/>te, quod est falsum, nam si essentia determinaret 
+      <lb ed="#P" n="74"/>ad primum actum generandi, se ipsa, posset 
+      <lb ed="#P" n="75"/>exire in talem actum absque aliquo alio, &amp; pero 
+      <lb ed="#P" n="76"/>consequens generaret, cuius contrarium
+      pa<lb ed="#P" n="77" break="no"/>tuit in secunda distinctione Consequentiam  
+      <lb ed="#P" n="78"/>probo per eos, quia ponunt, quod essentia
+      de<lb ed="#P" n="79" break="no"/>terminetur ad secundum actum mediante pri 
+      <lb ed="#P" n="80"/>mo, ergo ad primum determinabitur
+      imme<lb ed="#P" n="81" break="no"/>diate per se ipsam. Rationes huius opinionis 
+      <lb ed="#P" n="82"/>soluentur in fine.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3017">
+               <lb ed="#P" n="83"/>Nonnulli alij ponunt quod potentia
+      ge<lb ed="#P" n="84" break="no"/>nerandi dicat essentiam, &amp; relationem,
+      cu<lb ed="#P" n="85" break="no"/>ius ratio est, nam cum essentia non
+      princi<lb ed="#P" n="86" break="no"/>piet actum generandi, nisi vt est sub
+      proprie<lb ed="#P" n="87" break="no"/>rate relatiua, quae est paternitas; idcirco (secu 
+      <lb ed="#P" n="88"/>dum eos) oportet, necessario dicere, quod in 
+      <lb ed="#P" n="89"/>ratione potentiae includatur proprietas tela  
+      <lb ed="#P" n="90"/>tiua, nam si essentia sola esset potentia gene 
+      <lb ed="#P" n="91"/>randi, tunc principium huius actus esset in 
+      <lb ed="#P" n="92"/>filio, &amp; Spiritu Sancto, quod putant esse 
+      <lb ed="#P" n="93"/>falsum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3043">
+               <lb ed="#P" n="94"/>Hanc opinionem quidam declarant dice 
+      <lb ed="#P" n="95"/>dlo, quod in illa generatione est aliquid com 
+      <lb ed="#P" n="96"/>municatum, &amp; non produetum, puta
+      essen<lb ed="#P" n="97" break="no"/>tia, &amp; est aliquid vere productum scilicet
+      rela<lb ed="#P" n="98" break="no"/>tio, de ratione enim verae generationis est; 
+      <lb ed="#P" n="99"/>quod aliquid in ea supponatur, &amp;
+      commu<lb ed="#P" n="100" break="no"/>nicetur, ita quod non producat, quia si totum 
+      <lb ed="#P" n="101"/>produceretur esset creatio. Item de ratione 
+      <lb ed="#P" n="102"/>sua est, quod sit in ea aliquid vere productum 
+      <lb ed="#P" n="103"/>aliter non esset vera generatio Ad propositum 
+      <lb ed="#P" n="104"/>dicunt, quod si consideremus illam
+      oenera<lb ed="#P" n="105" break="no"/>tionem, quantum ad illud quod est ibi ratio 
+      <lb ed="#P" n="106"/>communicationis, essentia est principium, si 
+      <lb ed="#P" n="107"/>vero consideremus eam, quantum ad illud 
+      <lb ed="#P" n="108"/>quod est ratio productionis, sic est ibi
+      prin<lb ed="#P" n="109" break="no"/>cipium proprietas relatiua: Quod probant 
+      <lb ed="#P" n="110"/>tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3083">
+               <lb ed="#P" n="111"/>Principium productionis, &amp; terminus 
+      <lb ed="#P" n="112"/>debent esse realiter distincta, sed nihilest, por 
+      <lb ed="#P" n="113"/>quod pater realiter distinguatur a filio; nisi 
+      <lb ed="#P" n="114"/>proprietas relatiua, ergo &amp;c. Maiorem prot 
+      <!--279.xml-->
+      <pb ed="#P" n="254"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bant, quia producens realiter est producens 
+      <lb ed="#P" n="2"/>ratione principij; sicut productum realiter 
+      <lb ed="#P" n="3"/>est productum ratione termini; &amp; ideo
+      di<lb ed="#P" n="4" break="no"/>stinctio realis inter ea videtur sumenda ex 
+      <lb ed="#P" n="5"/>principio, &amp; termino : erit ergo proprietas 
+      <lb ed="#P" n="6"/>relatiua patris principium illius
+      generatio<lb ed="#P" n="7" break="no"/>nis, &amp; proprietas relatiua filij erit terminus. 
+      <lb ed="#P" n="8"/>Et quia proprietas non potest essc
+      communi<lb ed="#P" n="9" break="no"/>catiua essentiae, cum eam non contineat, sed  
+      <lb ed="#P" n="10"/>magis contineatur, sequitur, quod principium 
+      <lb ed="#P" n="11"/>illius generationis, quantum ad illud, quod 
+      <lb ed="#P" n="12"/>est ibi communicationis, sit ipsa essentia; quamn 
+      <lb ed="#P" n="13"/>tum vero ad illud quod est productionis,
+      pri<lb ed="#P" n="14" break="no"/>cipium erit paternitas, nec obstat quod essen 
+      <lb ed="#P" n="15"/>tia sit idem re, sola ratione distincta a
+      prin<lb ed="#P" n="16" break="no"/>cipio, &amp; termino, quia sufficit quod sit distin 
+      <lb ed="#P" n="17"/>cta secundum rationem, quod enim principia 
+      <lb ed="#P" n="18"/>communicationis &amp; terminus realiter distin 
+      <lb ed="#P" n="19"/>guantur hoc prouenit quando illud, quoc 
+      <lb ed="#P" n="20"/>communicatur vere producitur, modo essen 
+      <lb ed="#P" n="21"/>tia ita communicatur, quod tamen non
+      pro<lb ed="#P" n="22" break="no"/>ducitur. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3148">
+               <lb ed="#P" n="23"/>2. Sicut se habent ea, quae sunt in filio ad 
+      <lb ed="#P" n="24"/>terminandum generationem, ita quae sunt 
+      <lb ed="#P" n="25"/>in patre ad illam principiandum, sed in filio 
+      <lb ed="#P" n="26"/>essentia est terminus generationis, in
+      quan<lb ed="#P" n="27" break="no"/>tum communicatiua est, quia ipsa realiter con 
+      <lb ed="#P" n="28"/>municatur: terminus vero eiusdem
+      genera<lb ed="#P" n="29" break="no"/>tionis in quantum productiua, est ipsa
+      rela<lb ed="#P" n="30" break="no"/>tio, quae sola producitur, ergo &amp; in patre ge 
+      <lb ed="#P" n="31"/>nerante essentia erit principium
+      generatio<lb ed="#P" n="32" break="no"/>nis, in quantum conmunicatiua est, &amp; relatio 
+      <lb ed="#P" n="33"/>erit principium eiusdem, in quantum
+      pro<lb ed="#P" n="34" break="no"/>ductiua.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3177">
+               <lb ed="#P" n="35"/>3 Si sola essentia poneretur principium 
+      <lb ed="#P" n="36"/>alicuius emanationis, non posset reddi ratio,  
+      <lb ed="#P" n="37"/>quare illae emanationes sint duae, &amp; non plu 
+      <lb ed="#P" n="38"/>res, nec pauciores, sed si ponatur essentiam  
+      <lb ed="#P" n="39"/>cum relatione esse principium, tunc poterit 
+      <lb ed="#P" n="40"/>reddi ratio de omnibus istis, ergo melius est 
+      <lb ed="#P" n="41"/>eam ponere principium.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3195">
+               <lb ed="#P" n="42"/>Contra hanc opinionem arguo, &amp; etiam 
+      <lb ed="#P" n="43"/>contra eius declarationem. Primo contra ea 
+      <lb ed="#P" n="44"/>tali pacto. Si potentia generandi dicit
+      essen<lb ed="#P" n="45" break="no"/>tiam, &amp; relationem, vel dicit ista duo, vt sunt 
+      <lb ed="#P" n="46"/>duo distincta principia, vel vt vniuntur ad 
+      <lb ed="#P" n="47"/>constitutionem vnius personae, non vt sunt 
+      <lb ed="#P" n="48"/>duo distincta principia, quia tunc non prin 
+      <lb ed="#P" n="49"/>cipiabunt eundem actum generationis, sed  
+      <lb ed="#P" n="50"/>alium, &amp; alium, distincta enim principia, vt 
+      <lb ed="#P" n="51"/>distincta sunt, principiant distinctos actus,  
+      <lb ed="#P" n="52"/>&amp; maxime, quando sunt in eodem genere 
+      <lb ed="#P" n="53"/>causae, &amp; non sunt subordinata, sicut est in 
+      <lb ed="#P" n="54"/>proposito, quia ambo sunt in genere
+      princi<lb ed="#P" n="55" break="no"/>pij formalis, &amp; non subordinate 
+      <lb ed="#P" n="56"/>Non vt vniuntur ad constitutionem vnius 
+      <lb ed="#P" n="57"/>personae, quia tunc concurrerent eodem mo 
+      <!--279.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 254 b -->
+               <lb ed="#P" n="58"/>do ad constituendum vnum per se, ex poten 
+      <lb ed="#P" n="59"/>tia generandi, &amp; persona generante, quod  
+      <lb ed="#P" n="60"/>videtur absurdum, quia tunc nulla esset
+      di<lb ed="#P" n="61" break="no"/>stinctio, nec etiam secundum rationem, inter 
+      <lb ed="#P" n="62"/>generans, &amp; potentiam generandi, quod etiam 
+      <lb ed="#P" n="63"/>psi negarent, si autem dicant, quod alio mo 
+      <lb ed="#P" n="64"/>do concurrunt ad constituedum personam 
+      <lb ed="#P" n="65"/>generantem, &amp; vnum complectentes poten 
+      <lb ed="#P" n="66"/>tiam generandi, tunc debuissent assignare 
+      <lb ed="#P" n="67"/>istum alium modum, qui etiam non videtur 
+      <lb ed="#P" n="68"/>possibilis, ergo &amp;c 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3263">
+               <lb ed="#P" n="69"/>2 Si praefata duo concurrerent ad
+      ratio<lb ed="#P" n="70" break="no"/>nem potentiae generatiuae, sequeretur, quod 
+      <lb ed="#P" n="71"/>actus esset simplicior suo principio elicitiuo 
+      <lb ed="#P" n="72"/>quod est falsum, vt patet. Consequentia est 
+      <lb ed="#P" n="73"/>manifesta: nam actus generationis ibi non
+      so<lb ed="#P" n="74" break="no"/>lum est simplex secundum se, sed etiam
+      se<lb ed="#P" n="75" break="no"/>cundum rationem generis, quia pertinet ad 
+      <lb ed="#P" n="76"/>vnum genus, scilicet relationis, potentia
+      ve<lb ed="#P" n="77" break="no"/>ro generandi (secundum hanc viam) pertine 
+      <lb ed="#P" n="78"/>bit ad duo genera; ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3287">
+               <lb ed="#P" n="79"/>3 Si relatio includeretur in ratione poten 
+      <lb ed="#P" n="80"/>tiae generatiuae (vt isti dicunt) tunc pari
+      ra<lb ed="#P" n="81" break="no"/>tione deberent concedere, quod quicquid 
+      <lb ed="#P" n="82"/>necessario concurrit. ad productionem
+      ali<lb ed="#P" n="83" break="no"/>cuius actus, includeretur in ratione
+      poten<lb ed="#P" n="84" break="no"/>tiae elicitiuae quod est falsum. Consequentia est non 
+      <lb ed="#P" n="85"/>ta ex fundamento opinionis eorum.
+      Falsita<lb ed="#P" n="86" break="no"/>tem probo, nam videmus, quod ad principiam 
+      <lb ed="#P" n="87"/>dum actum calefactionis concurrit
+      necessa<lb ed="#P" n="88" break="no"/>rio approximatio ignis ad materiam, nullus 
+      <lb ed="#P" n="89"/>tamen diceret, quod potentia calefactiua
+      es<lb ed="#P" n="90" break="no"/>set talis approximatio ignis ad talem materiam 
+      <lb ed="#P" n="91"/>Similiter declaratio huius opinionis mul 
+      <lb ed="#P" n="92"/>tipliciter deficit. Primo quia ponunt, quod 
+      <lb ed="#P" n="93"/>in generatione aliud sit communicatio, &amp; 
+      <lb ed="#P" n="94"/>aliud productio. Nam quaero ab eis, Vtrum  
+      <lb ed="#P" n="95"/>per communicationem, &amp; productionem
+      in<lb ed="#P" n="96" break="no"/>telligant alium, &amp; alium actum, vel alium, 
+      <lb ed="#P" n="97"/>&amp; alium terminum: non primum, quia tund 
+      <lb ed="#P" n="98"/>generatio non esset actus simplex, sed
+      com<lb ed="#P" n="99" break="no"/>plexus ex pluribus actibus, quod videtur ab 
+      <lb ed="#P" n="100"/>surdum, quia etiam gene atio naturalis,
+      di<lb ed="#P" n="101" break="no"/>cit vnam simplicem mutationem, ergo
+      mul<lb ed="#P" n="102" break="no"/>to magis in diuinis. Non secundum, quia 
+      <lb ed="#P" n="103"/>vnus simplex actus non habet, nisi vnum 
+      <lb ed="#P" n="104"/>simplicem terminum per se, &amp; primo.  
+      <lb ed="#P" n="105"/>Secundo deficit dicens, quod in
+      genera<lb ed="#P" n="106" break="no"/>tione est dare aliquem terminum productum, 
+      <lb ed="#P" n="107"/>&amp; aliquem communicatum: quod nullo mo 
+      <lb ed="#P" n="108"/>do est verum de termino producto. Nam vi 
+      <lb ed="#P" n="109"/>demus in generatione ista inferiori, quod 
+      <lb ed="#P" n="110"/>forma, quae est terminus generationis, non ess 
+      <lb ed="#P" n="111"/>producta secundum Aristo. 4. Metaph. quia 
+      <lb ed="#P" n="112"/>sic esset producta de nihilo, &amp; ideo
+      compo<lb ed="#P" n="113" break="no"/>situm habens talem formam debet dici pro 
+      <lb ed="#P" n="114"/>ductum, si ergo volunt, quod per viam gens 
+      <!--280.xml-->
+      <pb ed="#P" n="255"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nationis sit alius terminus commnnicationis,  
+      <lb ed="#P" n="2"/>&amp; alius productionis, oportet, quod dicant 
+      <lb ed="#P" n="3"/>in proposito, illud quod producitur, non es 
+      <lb ed="#P" n="4"/>se terminum generationis, sed suppositum
+      ha<lb ed="#P" n="5" break="no"/>bens talem terminum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3386">
+               <lb ed="#P" n="6"/>Tertio deficit, quia ponit potentiam gene 
+      <lb ed="#P" n="7"/>ratiuam habere duplicem terminum
+      essen<lb ed="#P" n="8" break="no"/>tialem, &amp; ita haec generatio inferior esset sim 
+      <lb ed="#P" n="9"/>plicior, cum habeat vnum tantum
+      essentia<lb ed="#P" n="10" break="no"/>lem terminum, puta substantialem. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3399">
+               <lb ed="#P" n="11"/>Tandem deficit ponens, quod relatio sit 
+      <lb ed="#P" n="12"/>terminus generationis, cuius contrarium
+      pro<lb ed="#P" n="13" break="no"/>baui superius. Rationes autem ipsorum non 
+      <lb ed="#P" n="14"/>cogunt, vt patebit in fine quaestionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3410">
+               <lb ed="#P" n="15"/>Alia opinio est, quae ponit duas conclusio 
+      <lb ed="#P" n="16"/>nes; vnam, quod diuina essentia est formale 
+      <lb ed="#P" n="17"/>principium elicitiuum omnis diuinae actio 
+      <lb ed="#P" n="18"/>nis. AIteram, quod relatio non includitur 
+      <lb ed="#P" n="19"/>in ratione istius principij elicitiui, vt dicebat. 
+      <lb ed="#P" n="20"/>praecedens opinio; concurrit tamen ibi
+      ne<lb ed="#P" n="21" break="no"/>cessario, vt ratio determinandi principium 
+      <lb ed="#P" n="22"/>elicitiuum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3430">
+               <lb ed="#P" n="23"/>Primam conclusionem probant per hoc, 
+      <lb ed="#P" n="24"/>quod oportet dare aliquod principium posi 
+      <lb ed="#P" n="25"/>tiuum actus generationis, hoc autem vel erit 
+      <lb ed="#P" n="26"/>essentia, vel relatio, quia in diuinis non sunt 
+      <lb ed="#P" n="27"/>plura praedicamenta positua; Non potest 
+      <lb ed="#P" n="28"/>autem dici, quod hoc principiuum elicitiuum 
+      <lb ed="#P" n="29"/>sit relatio, quia relatio, cum non possit esse  
+      <lb ed="#P" n="30"/>terminus actionis, vt patet ex 5. phys. ita nec 
+      <lb ed="#P" n="31"/>potest esse principium, sequitur ergo, quod 
+      <lb ed="#P" n="32"/>sit essentia. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3454">
+               <lb ed="#P" n="33"/>Secundam conclusionem probant pr hoc, 
+      <lb ed="#P" n="34"/>scilicet quia actiones diuinae sunt plures,
+      es<lb ed="#P" n="35" break="no"/>sentia Vero est vna; &amp; ideo non potest
+      deter<lb ed="#P" n="36" break="no"/>minari ad illas plures actiones per se ipsam 
+      <lb ed="#P" n="37"/>Propterea oportet eam determinari per
+      ali<lb ed="#P" n="38" break="no"/>quod superueniens, non quidem secundum 
+      <lb ed="#P" n="39"/>rem, quia nil tale potest superuenire, sed se 
+      <lb ed="#P" n="40"/>cundum rationem, hoc autem est sola
+      rela<lb ed="#P" n="41" break="no"/>tio; ergo determinabitur per relationem, &amp;  
+      <lb ed="#P" n="42"/>ex inde terminabitur ad diuersas actiones pr 
+      <lb ed="#P" n="43"/>diuersas relationes, exempli gratia; videmus 
+      <lb ed="#P" n="44"/>in inferioribus, quod forma terminatur ad di 
+      <lb ed="#P" n="45"/>uersos actus per diue sos respectus, puta ad 
+      <lb ed="#P" n="46"/>actum primum ratione substantiae, ad actum  
+      <lb ed="#P" n="47"/>secundum ratione subiecti, &amp; ad diuersos 
+      <lb ed="#P" n="48"/>actus secundos per diuersos respectus ad
+      di<lb ed="#P" n="49" break="no"/>uersa obiecta.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3493">
+               <lb ed="#P" n="50"/>Haec opinio a quibusdam arguitur primo 
+      <lb ed="#P" n="51"/>sic: llla indeterminatio essentiae, quam isti 
+      <lb ed="#P" n="52"/>ponunt, vel est indeterminatio principij acti 
+      <lb ed="#P" n="53"/>ui, vel passiui, non potest dici, quod sit inde 
+      <lb ed="#P" n="54"/>terminatio principij passiui; quia illa contin 
+      <lb ed="#P" n="55"/>git ex potentialitate, si autem dicant, quod 
+      <lb ed="#P" n="56"/>sit indeterminatio principij actiui, hoc ma 
+      <lb ed="#P" n="57"/>gis arguit illimitationem actualitatis, &amp; per 
+      <!--280.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 255 b -->
+               <lb ed="#P" n="58"/>consequens non indigebit determinari por 
+      <lb ed="#P" n="59"/>aliquod superueniens, sed ipsa erit determi- 
+      <lb ed="#P" n="60"/>nata ad omnem talem actionem: Et
+      confir<lb ed="#P" n="61" break="no"/>matur, quia talis determinatio, quamuis sit 
+      <lb ed="#P" n="62"/>ad disparatas actiones, non tamen est ad con 
+      <lb ed="#P" n="63"/>tradictorias, puta ad agere, &amp; non agere; ergo 
+      <lb ed="#P" n="64"/>non est necessarium aliquod tale
+      deter<lb ed="#P" n="65" break="no"/>minans 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3538">
+               <lb ed="#P" n="66"/>Secundo, quando aliquod principium
+      a<lb ed="#P" n="67" break="no"/>ctiuum extendit se ad plures actus secundum 
+      <lb ed="#P" n="68"/>quendam ordinem, ex se ipso sufficienter
+      de<lb ed="#P" n="69" break="no"/>terminatur ad primum actum, &amp; illo habito 
+      <lb ed="#P" n="70"/>ad secundum, &amp; sic de alijs, sed diuina essen 
+      <lb ed="#P" n="71"/>tia principiat istas actiones secundum
+      quen<lb ed="#P" n="72" break="no"/>dam ordinem, vt patet, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3556">
+               <lb ed="#P" n="73"/>Tertio, si relatio determinaret essentiam, 
+      <lb ed="#P" n="74"/>sequeretur, quod esset principium determi- 
+      <lb ed="#P" n="75"/>nans respectu generationis duobus modis, &amp;  
+      <lb ed="#P" n="76"/>in quantum determinaret principium
+      elici<lb ed="#P" n="77" break="no"/>tiuum, &amp; in quantum determinaret supposi 
+      <lb ed="#P" n="78"/>tum agens, cum sit principium constitutiuum 
+      <lb ed="#P" n="79"/>ipsius, hoc autem est absurdum. Accedit quod 
+      <lb ed="#P" n="80"/>videtur esse contra Damascenum lib. 1. cap.¬ 
+      <lb ed="#P" n="81"/>3 vbi vult quod proprietates determinent 
+      <lb ed="#P" n="82"/>hypostases, non naturam: quod etiam
+      pro<lb ed="#P" n="83" break="no"/>bant quia proprietas distinguitur ab
+      essen<lb ed="#P" n="84" break="no"/>tia sola ratione; ergo non potest eam
+      deter<lb ed="#P" n="85" break="no"/>minare ad aliquem actum realem.  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3587">
+               <lb ed="#P" n="86"/>lstae rationes non sufficienter concludunt. 
+      <lb ed="#P" n="87"/>contra praefatam opinionem ideo soluuntur,  
+      <lb ed="#P" n="88"/>cum ergo dicunt in prima, quod vel essei 
+      <lb ed="#P" n="89"/>indeterminatio principij actiui, vel passiui; 
+      <lb ed="#P" n="90"/>dico, quod est actiui, accipiendo actiuum non 
+      <lb ed="#P" n="91"/>pro agente, sed pro principio formali, quo
+      a<lb ed="#P" n="92" break="no"/>gens agit. Et cum addunt, quod huiusmodi 
+      <lb ed="#P" n="93"/>indeterminatio arguit illimitationem, &amp; actua 
+      <lb ed="#P" n="94"/>litatem, ita vt non indigeat determinari per 
+      <lb ed="#P" n="95"/>aliquod superueniens Dico, quod verum est,  
+      <lb ed="#P" n="96"/>si illud superueniens intelligatur realiter
+      di<lb ed="#P" n="97" break="no"/>tinctum, quia hoc repugnat actui illimitato 
+      <lb ed="#P" n="98"/>sed quod determinetur per aliquod superue 
+      <lb ed="#P" n="99"/>niens sola ratione distinctum, non
+      recipien<lb ed="#P" n="100" break="no"/>do ab eo aliquam actualitatem, hoc non
+      re<lb ed="#P" n="101" break="no"/>pugnat. Videmus enim, quod ignis determi 
+      <lb ed="#P" n="102"/>natur ad calefaciedum hoc, &amp; illud magis. 
+      <lb ed="#P" n="103"/>quam aliud, quia sibi magis approximatur,  
+      <lb ed="#P" n="104"/>&amp; tamen haec approximatio nullam
+      actua<lb ed="#P" n="105" break="no"/>litatem illi attribuit, nec arguit in
+      ignelali<lb ed="#P" n="106" break="no"/>quam possibilitatem talis determinationis: 
+      <lb ed="#P" n="107"/>Insuper videmus, quod Deus efficit creatu 
+      <lb ed="#P" n="108"/>ras per diuersos respectus ideales, &amp; tamen 
+      <lb ed="#P" n="109"/>nullam actualitatem ab eis recipit. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3642">
+               <lb ed="#P" n="110"/>Ad confirmationem, cum addunt, quod 
+      <lb ed="#P" n="111"/>talis indeterminatio non est ad
+      contradicto<lb ed="#P" n="112" break="no"/>ria, sed ad disparata, dico, quod hoc magis 
+      <lb ed="#P" n="113"/>arguit oppositum, quam propositum; nam si 
+      <lb ed="#P" n="114"/>esset ad contradictoria, posset se determinare 
+      <!--281.xml-->
+      <pb ed="#P" n="256"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>per suam libertatem, nunc autem, quia ista 
+      <lb ed="#P" n="2"/>indeterminatio est ad disparata, non determi 
+      <lb ed="#P" n="3"/>natur ad illa contingenter, seu libere, sed
+      na<lb ed="#P" n="4" break="no"/>turaliter, aliquo determinante, non per
+      mo<lb ed="#P" n="5" break="no"/>dum actionis, sed per modum applicantis, &amp;  
+      <lb ed="#P" n="6"/>proportionantis, vel quocunque alio modo, 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3675">
+               <lb ed="#P" n="7"/>Ad secundam, cum dicunt, quod quando 
+      <lb ed="#P" n="8"/>principium extendit se ad plures actus secun 
+      <lb ed="#P" n="9"/>dum ordinem quendam, se ipso
+      determina<lb ed="#P" n="10" break="no"/>tur ad primum. Dico, quod verum est, si
+      ex<lb ed="#P" n="11" break="no"/>tendat se ad illos per modum agentis, &amp; si 
+      <lb ed="#P" n="12"/>primus effectus determinat agens, ad
+      secun<lb ed="#P" n="13" break="no"/>dnm: Neutrum autem est ad propositum; na 
+      <lb ed="#P" n="14"/>diuina essentia principiat diuersas emanatio 
+      <lb ed="#P" n="15"/>nes, non sicut agens, sed sicut ratio agendi, 
+      <lb ed="#P" n="16"/>&amp; forsitam prima emauatio non determinat 
+      <lb ed="#P" n="17"/>eam ad secundam 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3701">
+               <lb ed="#P" n="18"/>Ad tertiam dico, non esse inconueniens, 
+      <lb ed="#P" n="19"/>quod relatio determinet ad actum
+      genera<lb ed="#P" n="20" break="no"/>tionis, duobus modis. Nam videmus, quod 
+      <lb ed="#P" n="21"/>quaelibet forma, quae est principium elicitiuum, 
+      <lb ed="#P" n="22"/>actus, determinat suppositum, in quo est duo 
+      <lb ed="#P" n="23"/>bus modis, scilicet ad esse, &amp; agere, similiter 
+      <lb ed="#P" n="24"/>intellectus agens cooperatur ad actum intel 
+      <lb ed="#P" n="25"/>ligendi actuando, &amp; excitando intellectum 
+      <lb ed="#P" n="26"/>possibilem, &amp; illustrando ipsum phantasma 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3724">
+               <lb ed="#P" n="27"/>Ad quartam dico, quod proprietates non 
+      <lb ed="#P" n="28"/>determinant secundum se, &amp; in se, quia sic 
+      <lb ed="#P" n="29"/>essent proprietates naturae, quod est falsum, 
+      <lb ed="#P" n="30"/>&amp; sic intendit Damascenus ibi: sed hoc non 
+      <lb ed="#P" n="31"/>obstat quin possint determinare naturam re 
+      <lb ed="#P" n="32"/>spectu actus, prout est in supposito cui
+      com<lb ed="#P" n="33" break="no"/>petit ille actus: Et cum additur, quod
+      proprie<lb ed="#P" n="34" break="no"/>tas nam differt a natura, nisi secundum ratio 
+      <lb ed="#P" n="35"/>nem, &amp; per consequens non potest eam
+      de<lb ed="#P" n="36" break="no"/>terminare ad actum realem. Dico quod, 
+      <lb ed="#P" n="37"/>licet differat sola ratione, est tamen vere rea 
+      <lb ed="#P" n="38"/>lis proprietas, sicut etiam ille actus, respectu 
+      <lb ed="#P" n="39"/>cuius determinat naturam, quamuis non
+      dif<lb ed="#P" n="40" break="no"/>ferat a natura, nec a supposito agente, nisi ra 
+      <lb ed="#P" n="41"/>tione: est tamen vere realis actus, &amp; sic ratio 
+      <lb ed="#P" n="42"/>nes illae parum valent. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3761">
+               <lb ed="#P" n="43"/>Contra eandem opinionem alias adduco 
+      <lb ed="#P" n="44"/>rationes, quibus moueor ad eam non tenedam 
+      <lb ed="#P" n="45"/>Primo arguo contra secundam conclusio 
+      <lb ed="#P" n="46"/>nem in qua ponunt quod relatio nullo mo 
+      <lb ed="#P" n="47"/>do includitur in ratione potentiae generandi. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3774">
+               <lb ed="#P" n="48"/>lllud, quod non potest intelligi, nec signi 
+      <lb ed="#P" n="49"/>ficari sine respectu, includit in sua ratione 
+      <lb ed="#P" n="50"/>respectum, sed potentia generandi non potest 
+      <lb ed="#P" n="51"/>intelligi, nec significari sine respectu: ergo 
+      <lb ed="#P" n="52"/>&amp;c. Maior patet, quia quaelibet res
+      intelligi<lb ed="#P" n="53" break="no"/>tur, &amp; significatur sine eo, quod non est de 
+      <lb ed="#P" n="54"/>sua ratione, nisi forte dependeat ab eo
+      tan<lb ed="#P" n="55" break="no"/>quam posterius a priori; quod non valet in 
+      <lb ed="#P" n="56"/>proposito, cum fundamentum sit prius
+      rela<lb ed="#P" n="57" break="no"/>tione. Minor etiam est nota, quia etiam ad¬ 
+      <!--281.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 256 b -->
+               <lb ed="#P" n="58"/>uersarij concedunt, quod potentia, in
+      quan<lb ed="#P" n="59" break="no"/>tum potentia, vel dicat principaliter
+      respe<lb ed="#P" n="60" break="no"/>ctum, quia ab eo imponitur tale nomen, vel 
+      <lb ed="#P" n="61"/>dicatfundamentum cum respectu ad actum, 
+      <lb ed="#P" n="62"/>ita quod si intelligatur fundamentum sine 
+      <lb ed="#P" n="63"/>tali respectu, non intelligetur inquantum 
+      <lb ed="#P" n="64"/>habet rationem potentiae. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3820">
+               <lb ed="#P" n="65"/>Praeterea, si respectus nullo modo include 
+      <lb ed="#P" n="66"/>retur in ratione potentiae generandi;
+      seque<lb ed="#P" n="67" break="no"/>retur, quod essentia diuina accepta vt essen 
+      <lb ed="#P" n="68"/>tia haberet rationem potentiae generandi, quod 
+      <lb ed="#P" n="69"/>est falsum. Consequentia habetur ab eis, quia 
+      <lb ed="#P" n="70"/>dicunt, quod potentia generandi est essentia 
+      <lb ed="#P" n="71"/>non includendo in sua ratione aliquem
+      re<lb ed="#P" n="72" break="no"/>spectum, quamuis requirat respectum
+      ne<lb ed="#P" n="73" break="no"/>cessario in ratione determinandi. Falsitatem 
+      <lb ed="#P" n="74"/>probo, quia si essentia absolute sumpta esse  
+      <lb ed="#P" n="75"/>potentia generandi, tunc potentia generandi 
+      <lb ed="#P" n="76"/>esset in filio, &amp; Spiritu Sancto, &amp; per consi 
+      <lb ed="#P" n="77"/>quens sicut tres personae sunt similes, &amp; aer 
+      <lb ed="#P" n="78"/>quales in essentia, vt essentia est, ita essenx 
+      <lb ed="#P" n="79"/>similes, &amp; aequales in poia generandi, vt
+      po<lb ed="#P" n="80" break="no"/>tentia est, &amp; sic quaelibet persona generaret. 
+      <lb ed="#P" n="81"/>Secundo arguo contra secundam partem 
+      <lb ed="#P" n="82"/>praefatae conclusionis, in quaedicunt, quod 
+      <lb ed="#P" n="83"/>essentia determinatur ad diuersas actiones 
+      <lb ed="#P" n="84"/>naturales per diuersas relationes. Et primo 
+      <lb ed="#P" n="85"/>sic, sicut se habet essentia ad diuersas relatio 
+      <lb ed="#P" n="86"/>nes in ratione fundamenti, ita se videtur
+      ha<lb ed="#P" n="87" break="no"/>bere ad diuersas actiones notionales in ratio 
+      <lb ed="#P" n="88"/>ne principij elicitiui, sed ad relationes oppo 
+      <lb ed="#P" n="89"/>sitas ita se habet, quod fundat eas absque
+      de<lb ed="#P" n="90" break="no"/>terminatione alterius principij; ergo poterit 
+      <lb ed="#P" n="91"/>esse principium elicitiuum actuum
+      notiona<lb ed="#P" n="92" break="no"/>lium sine aliquo principio determinante.
+      Mi<lb ed="#P" n="93" break="no"/>nor conceditur ab omnibus, vel saltem ab eis; 
+      <lb ed="#P" n="94"/>Maiorem probo, quia relationes fundatae in 
+      <lb ed="#P" n="95"/>essentia sunt oppositae, actiones vero, quarum 
+      <lb ed="#P" n="96"/>est principium, sunt disparatae, &amp; ideo maior 
+      <lb ed="#P" n="97"/>repugnantia videtur in fundando illas
+      rela<lb ed="#P" n="98" break="no"/>tiones, quam in principiando illas actiones; si 
+      <lb ed="#P" n="99"/>ergo essentia ratione suae illimitationis sine 
+      <lb ed="#P" n="100"/>principio determinante facit primum, multo 
+      <lb ed="#P" n="101"/>magis facit secundum 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3903">
+               <lb ed="#P" n="102"/>Praeterea (secudum eos) haec proposito est 
+      <lb ed="#P" n="103"/>magis vera, Deus est pater, quia generat, quam 
+      <lb ed="#P" n="104"/>ista, Deus generat, quia est pater: ergo ex
+      di<lb ed="#P" n="105" break="no"/>ctis eorum sequitur, quod actio notionalis magis 
+      <lb ed="#P" n="106"/>determinet essentiam ad relationem, quod e conuerso.  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e3916">
+               <lb ed="#P" n="107"/>Et ideo adhuc est alia opinio dicens, quod de 
+      <lb ed="#P" n="108"/>potentia generandi possumus loqui
+      duplicl<lb ed="#P" n="109" break="no"/>ter; vno modo quantum ad illud quod per 
+      <lb ed="#P" n="110"/>se significat, &amp; sic questio mon habet difficul 
+      <lb ed="#P" n="111"/>tatem, quia (secundum eos) potentia per se si 
+      <lb ed="#P" n="112"/>gnificat relationem; Alio modo possumus lo 
+      <lb ed="#P" n="113"/>qui de ea quantum ad illud quod per se
+      de<lb ed="#P" n="114" break="no"/>nominat, &amp; isto modo dicunt quod respe¬ 
+      <!--282.xml-->
+      <pb ed="#P" n="257"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ctus ille qui importatur per hoc nomen
+      po<lb ed="#P" n="2" break="no"/>tentia nominat aliquid absolutum idest
+      fun<lb ed="#P" n="3" break="no"/>damentum, quod est principium elicitiuum 
+      <lb ed="#P" n="4"/>actus. Distinguunt tamen de potentia sic
+      de<lb ed="#P" n="5" break="no"/>nominatiue sumpta, quia vno modo dicitur 
+      <lb ed="#P" n="6"/>pro fundamento talis respectus praecise per 
+      <lb ed="#P" n="7"/>se ipsam, alio modo pro fundamento
+      respe<lb ed="#P" n="8" break="no"/>ctus cum omnibus alijs, quae ibi necessario 
+      <lb ed="#P" n="9"/>concurrunt ad hoc vt talis potentia eliciat 
+      <lb ed="#P" n="10"/>actum, sicut in creaturis est approximatio 
+      <lb ed="#P" n="11"/>agentis ad possum, &amp; remotio omnium
+      im<lb ed="#P" n="12" break="no"/>pedimentorum, quae necessario concurrunt 
+      <lb ed="#P" n="13"/>ad eliciendum actum. Potentia primo modo 
+      <lb ed="#P" n="14"/>accepta (secundum eos) est quasi potentia re 
+      <lb ed="#P" n="15"/>mota, secundo vero modo est potentia
+      pro<lb ed="#P" n="16" break="no"/>pinqua. Si ergo quaeratur de potentia
+      gene<lb ed="#P" n="17" break="no"/>randi, secundum quod praecise dicit
+      funda<lb ed="#P" n="18" break="no"/>mentum respectus, quod est principium
+      eli<lb ed="#P" n="19" break="no"/>citiuum actus, dicunt, quod est ipsa essentia 
+      <lb ed="#P" n="20"/>diuina, &amp; hoc probant, tum quia relatio non 
+      <lb ed="#P" n="21"/>est elicitiua actus, vt supra probarunt ideo
+      se<lb ed="#P" n="22" break="no"/>quitur, quod sit essentia: quia in Deo non ess 
+      <lb ed="#P" n="23"/>nisi essentia &amp; relatio, tum quia si per
+      impos<lb ed="#P" n="24" break="no"/>sibile Deus generaret alium Deum, tunc
+      es<lb ed="#P" n="25" break="no"/>sentia esset potentia generandi, ergo &amp;
+      mo<lb ed="#P" n="26" break="no"/>do: Tum quia essentia est formalis terminus ge 
+      <lb ed="#P" n="27"/>nerationis, terminus autem formalis, &amp; prin 
+      <lb ed="#P" n="28"/>cipium sunt vnius rationis in generatione, 
+      <lb ed="#P" n="29"/>maxime quae est vniuoca, vt est ista, sicut
+      su<lb ed="#P" n="30" break="no"/>perius dictum est 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4008">
+               <lb ed="#P" n="31"/>Si vero loquamur de potentia generandi 
+      <lb ed="#P" n="32"/>secundo modo accepta, vt dicit principium 
+      <lb ed="#P" n="33"/>elicitiuum cum omnibus necessario concur 
+      <lb ed="#P" n="34"/>rentibus ad actum, sic dicunt, quod non
+      di<lb ed="#P" n="35" break="no"/>cit absolute essentiam, quia essentia absolute 
+      <lb ed="#P" n="36"/>sumpta non est propinqua ratio generandi, 
+      <lb ed="#P" n="37"/>nam si hoc esset, posset generare abstracta ab 
+      <lb ed="#P" n="38"/>omni supposito: Ideo volunt, quod potentia 
+      <lb ed="#P" n="39"/>generandi sic accepta dicat potentiam, prout 
+      <lb ed="#P" n="40"/>existit in determinato, &amp; conuenienti
+      sup<lb ed="#P" n="41" break="no"/>posito ad agendum, quia hoc gerundium go 
+      <lb ed="#P" n="42"/>nerandi, quando construitur cum principio 
+      <lb ed="#P" n="43"/>actiuo dicit actum egredientem, vel possibilem 
+      <lb ed="#P" n="44"/>rgredi a supposito, in quo est tale principium, 
+      <lb ed="#P" n="45"/>vel talis potentia
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4043">
+               <lb ed="#P" n="46"/>Haec opinio mihi non videtur vera, primo 
+      <lb ed="#P" n="47"/>quia ponit, quod potentia generandi per se 
+      <lb ed="#P" n="48"/>significet respectum cuius contrarium supe 
+      <lb ed="#P" n="49"/>rius est ostensum in primo articulo.
+      Secun<lb ed="#P" n="50" break="no"/>do, quia ponit, quod fundamentum istius re 
+      <lb ed="#P" n="51"/>spectus, qui importatur nomine potentiae, sit 
+      <lb ed="#P" n="52"/>aliquid pure absolutum, idest diuina essentia 
+      <lb ed="#P" n="53"/>quae est principium elicitiuum actus: hoc au 
+      <lb ed="#P" n="54"/>tem videtur inconueniens: Nam quaero ab 
+      <lb ed="#P" n="55"/>eis, vel essentia vt est principium actus inclu 
+      <lb ed="#P" n="56"/>dit respectum, &amp; hoc est contra eos, quia, vt 
+      <lb ed="#P" n="57"/>sic, non est quid pure absolutum, vel est prin 
+      <!--282.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 257 b -->
+               <lb ed="#P" n="58"/>cipium actus, quatenus non includit
+      respe<lb ed="#P" n="59" break="no"/>ctum, &amp; tunc sequitur, quod non principiet 
+      <lb ed="#P" n="60"/>actum generationis potentiae, &amp; per
+      conse<lb ed="#P" n="61" break="no"/>quens nec in quantum habet rationem prin 
+      <lb ed="#P" n="62"/>cipij, quod est contradictorium. 
+      <lb ed="#P" n="63"/>Tertio dicit quod essentia vno modo est 
+      <lb ed="#P" n="64"/>potentia remota, &amp; alio modo propinqua, 
+      <lb ed="#P" n="65"/>prout existit in supposito, quod videtur absur 
+      <lb ed="#P" n="66"/>dum. Nam quaero ab eis, an essentia aliquid 
+      <lb ed="#P" n="67"/>acquirat a tali supposito, quod ipsa non
+      ha<lb ed="#P" n="68" break="no"/>bebat secundum se, vel nihil acquirat, si
+      ni<lb ed="#P" n="69" break="no"/>hil acquirit, tunc non habet alio modo ratio 
+      <lb ed="#P" n="70"/>nem potentiae prout existit in supposito, quam 
+      <lb ed="#P" n="71"/>haberet secundum se accepta, si autem
+      ali<lb ed="#P" n="72" break="no"/>quid acurit a supposito, pero, quomodo hoc 
+      <lb ed="#P" n="73"/>acquirat, vel sicut ab actuante eam, vel sicut 
+      <lb ed="#P" n="74"/>a determinante, non ficut ab actuante, quia, 
+      <lb ed="#P" n="75"/>cum essentia sit purus actus, non potest ab 
+      <lb ed="#P" n="76"/>aliquo actuari; nec sicut a determinante, quia 
+      <lb ed="#P" n="77"/>isti improbant doctores ponentes hanc opi- 
+      <lb ed="#P" n="78"/>nionem, maxime quantum ad hoc, quod po 
+      <lb ed="#P" n="79"/>nit essentiam determinari per relationem: 
+      <lb ed="#P" n="80"/>Ideo haec opinio non videtur vera.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4128">
+               <lb ed="#P" n="81"/>Est ergo opinio domini Egidij Doctoris 
+      <lb ed="#P" n="82"/>nostri dicentis, quod potentia generandi
+      di<lb ed="#P" n="83" break="no"/>cit essentiam, non secundum se, vt est
+      quod<lb ed="#P" n="84" break="no"/>dam pure absolutum, sed dicit eam cum
+      ali<lb ed="#P" n="85" break="no"/>quo modo relatiuo. Quam opinionem sequor. 
+      <lb ed="#P" n="86"/>quia credo eam esse veram. Ad cuius
+      confir<lb ed="#P" n="87" break="no"/>mationem primo probabo, quod potentia ge 
+      <lb ed="#P" n="88"/>nerandi in Deo dicat aliquid absolutum, pu 
+      <lb ed="#P" n="89"/>ta essentiam. Secundo ostendam, quod dicit 
+      <lb ed="#P" n="90"/>illam cum quoddam modo relatiuo. Tertio 
+      <lb ed="#P" n="91"/>soluam rationes aliarum opinionum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4154">
+               <lb ed="#P" n="92"/>Primum probo tribus rationibus superius 
+      <lb ed="#P" n="93"/>adductis, quae videntur facere ad propositum 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4161">
+               <lb ed="#P" n="94"/>1Si Deus per impossihile generaret alit 
+      <lb ed="#P" n="95"/>Deum, formalis ratio generandi esset
+      essen<lb ed="#P" n="96" break="no"/>tia, ergo &amp; hoc modo debet poni essentia; 
+      <lb ed="#P" n="97"/>quia talis modus generandi non tollit aliquam 
+      <lb ed="#P" n="98"/>perfectionem ab essentia.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4174">
+               <lb ed="#P" n="99"/>2 Terminus generationis, &amp; principium 
+      <lb ed="#P" n="100"/>sunt vnius rationis, vbi generatio est
+      vniuo<lb ed="#P" n="101" break="no"/>ca, sicut ponitur esse in proposito, sed termi- 
+      <lb ed="#P" n="102"/>nus generationis est aliquid absolutum, scili 
+      <lb ed="#P" n="103"/>cet essentia, vt superius probatum est in 4. 
+      <lb ed="#P" n="104"/>distinctione; ergo principium, quod est poten 
+      <lb ed="#P" n="105"/>tia, erit aliquid absolutum.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4193">
+               <lb ed="#P" n="106"/>3 Relatio in Deo non est principium ge 
+      <lb ed="#P" n="107"/>nerandi, ergo est essentia. Antecedens fuit 
+      <lb ed="#P" n="108"/>probatum superius. Consequentia patet, quia 
+      <lb ed="#P" n="109"/>in Deo non est aliud quam essentia, &amp; relatio. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4204">
+               <lb ed="#P" n="110"/>4 Addo hanc rationem desumptam ex di 
+      <lb ed="#P" n="111"/>ctis in primo articulo. Illud est potentia
+      ge<lb ed="#P" n="112" break="no"/>netandi in patre, quod actuat, determinat, &amp; 
+      <lb ed="#P" n="113"/>necesfitat ipsum ad actum generandi, assimi 
+      <lb ed="#P" n="114"/>latque ipsum filio genito: hoc est essentia; er¬ 
+      <!--283.xml-->
+      <pb ed="#P" n="258"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>go &amp;c. Maior patet ex dictis in praecedenti 
+      <lb ed="#P" n="2"/>articulo, vbi ostensum est, quod quatuor con 
+      <lb ed="#P" n="3"/>ditiones, quae sunt de ratione potentiae acti 
+      <lb ed="#P" n="4"/>uae, ibi reperiuntur, Minor etiam patet quam 
+      <lb ed="#P" n="5"/>tum ad omnes eius partes, constat enim, quod 
+      <lb ed="#P" n="6"/>pater non actuatur per relationem, sed om- 
+      <lb ed="#P" n="7"/>nem actualitatem habet ab essentia, quae est 
+      <lb ed="#P" n="8"/>actus infinitus, &amp; illimitatus, &amp; per
+      conse<lb ed="#P" n="9" break="no"/>quens ab ea necessitatur, &amp; determinatur ad 
+      <lb ed="#P" n="10"/>actum, haec enim omnia ab eodem principio 
+      <lb ed="#P" n="11"/>proueniunt. Quod etiam per eam
+      assimile<lb ed="#P" n="12" break="no"/>tur filio satis est notum. Patet ergo, quod  
+      <lb ed="#P" n="13"/>potentia generandi in Deo dicit quid
+      abso<lb ed="#P" n="14" break="no"/>iutum, scilicet essentiam.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4254">
+               <lb ed="#P" n="15"/>Secundo ostendo, quod dicat essentiam  
+      <lb ed="#P" n="16"/>cum quodam modo relatiuo; &amp; haec
+      conclu<lb ed="#P" n="17" break="no"/>sio patet ex improbationibus supradictis, alia 
+      <lb ed="#P" n="18"/>rum opinionum. Nam ex improbatione pri 
+      <lb ed="#P" n="19"/>mae opinionis potest haberi, quod potentia 
+      <lb ed="#P" n="20"/>generandi non est relatio: Ex improbatione 
+      <lb ed="#P" n="21"/>vero tertiae patet, quod potentia generandi 
+      <lb ed="#P" n="22"/>non est essentia sine omni respectu. Ex
+      im<lb ed="#P" n="23" break="no"/>probatione quartae habetur, quod non dicit 
+      <lb ed="#P" n="24"/>solam essentiam, tanquam principium
+      elici<lb ed="#P" n="25" break="no"/>ens, &amp; relationem tanquam determinante. 
+      <lb ed="#P" n="26"/>Ex imptobatione vero quintae potest
+      habe<lb ed="#P" n="27" break="no"/>ri, quod non dicit essentiam solam, prout exi 
+      <lb ed="#P" n="28"/>stit in supposito, cui debetur actus. Ex
+      qui<lb ed="#P" n="29" break="no"/>bus omnibus sic arguitur. Potentia generan 
+      <lb ed="#P" n="30"/>di non dicit purum respectum, nec purum
+      ab<lb ed="#P" n="31" break="no"/>solutum, nec ambo simul, vel aliquod aggre 
+      <lb ed="#P" n="32"/>gatum ex ambobus; sequitur ergo quod
+      di<lb ed="#P" n="33" break="no"/>cat, vel respectum cum modo absoluto, vel 
+      <lb ed="#P" n="34"/>absolutum cum modo respectiuo. Non pot 
+      <lb ed="#P" n="35"/>dici quod dicat respectum cum modo
+      abso<lb ed="#P" n="36" break="no"/>luto, quia simpliciter esset de
+      praedicamen<lb ed="#P" n="37" break="no"/>to relationis, cuius contrarium fuit superius 
+      <lb ed="#P" n="38"/>ostensum. Dicet ergo absolutum cum
+      mo<lb ed="#P" n="39" break="no"/>do respectiuo. Et haec est intentio Doctoris 
+      <lb ed="#P" n="40"/>mostti 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4313">
+               <lb ed="#P" n="41"/>Non tamen intendit AEgidius, quod poten 
+      <lb ed="#P" n="42"/>tia, siue quodcunque aliud relatiuum
+      secun<lb ed="#P" n="43" break="no"/>dum dici dicat res diuersorum
+      praedicamen<lb ed="#P" n="44" break="no"/>torum, vt quidam imaginantur, sed
+      inten<lb ed="#P" n="45" break="no"/>dit, quod dicat rem vnius praedicamenti tan 
+      <lb ed="#P" n="46"/>tum absolute cum modo praedicamenti
+      rela<lb ed="#P" n="47" break="no"/>tionis, sicut alias dictum est. Et sic saluatur 
+      <lb ed="#P" n="48"/>bene, quod licet essentia sit in filio, &amp; Spi 
+      <lb ed="#P" n="49"/>ritu Sancto, non tamen principiat in eis actu 
+      <lb ed="#P" n="50"/>generandi, quia non est ibi cum illo modo re 
+      <lb ed="#P" n="51"/>latiuo, qui includitur in ratione potentiae pri 
+      <lb ed="#P" n="52"/>cipiantis actum generationis. His sic
+      deter<lb ed="#P" n="53" break="no"/>minatis facile est respondere ad rationes opi 
+      <lb ed="#P" n="54"/>nantium oppositum.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4346">
+               <lb ed="#P" n="55"/>Ad rationes primae opinionis. 
+      <lb ed="#P" n="56"/>AA primam, dico ad maiorem, quod vera 
+      <lb ed="#P" n="57"/>est, quando actus proprius est a forma actuam 
+      <!--283.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 258 b -->
+               <lb ed="#P" n="58"/>te per se ipsam suppositum agens. Modo pa 
+      <lb ed="#P" n="59"/>ternitas quicquid entitatis, vel actualitatis 
+      <lb ed="#P" n="60"/>habet, totum est ab essentia. Et sic ratio pec 
+      <lb ed="#P" n="61"/>cat accipiendo non causam pro causa, quia 
+      <lb ed="#P" n="62"/>formae proprietas non est causa, quod actus 
+      <lb ed="#P" n="63"/>sit pprius, sed formae actualitas, &amp; actiuitas. 
+      <lb ed="#P" n="64"/>Vel aliter dico, concessa maiore, ad
+      mino<lb ed="#P" n="65" break="no"/>rem, quod non solum paternitas est forma 
+      <lb ed="#P" n="66"/>propria, sed etiam aliquo modo essentia, in 
+      <lb ed="#P" n="67"/>quantum habet rationem potentiae generan 
+      <lb ed="#P" n="68"/>di, quia, vt sic, includit quendam modum re 
+      <lb ed="#P" n="69"/>latiuum, cum quo non inuenitur, nisi in solo 
+      <lb ed="#P" n="70"/>patre, &amp; sic ista ratio peccat procedendo ab 
+      <lb ed="#P" n="71"/>vna causa tantum veritatis, cum tamen plu 
+      <lb ed="#P" n="72"/>res sint, puta paternitas, vel essentia cum mo 
+      <lb ed="#P" n="73"/>do relatiuo.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4396">
+               <lb ed="#P" n="74"/>Si autem quaeratur, quare essentia cum tali 
+      <lb ed="#P" n="75"/>modo relatiuo inueniatur in solo patre.
+      Di<lb ed="#P" n="76" break="no"/>co, quod hoc totum prouenit ex exigentia 
+      <lb ed="#P" n="77"/>essentiae sic necessitantis, sicut assignabatur 
+      <lb ed="#P" n="78"/>etiam pro causa, quare actus generationis sit 
+      <lb ed="#P" n="79"/>in diuinis necessitas essentiae, vel naturae sic 
+      <lb ed="#P" n="80"/>exigentis, hoc enim exigit illa essentia, quod 
+      <lb ed="#P" n="81"/>non sit principium illius actus, nisi in solo pa 
+      <lb ed="#P" n="82"/>tre, quia aliae diuinae personae possent
+      multi<lb ed="#P" n="83" break="no"/>plicari in infinitum, quod repugnat
+      essen<lb ed="#P" n="84" break="no"/>tiae Diuinae. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4423">
+               <lb ed="#P" n="85"/>Ad confirmationem, &amp; ad modum arguen 
+      <lb ed="#P" n="86"/>di, quo vtitur Arist. Dieo, quod si
+      intelli<lb ed="#P" n="87" break="no"/>gatur sic. Deatitudo debetur homini per
+      in<lb ed="#P" n="88" break="no"/>tellectum, quia per intellectum distinguitur 
+      <lb ed="#P" n="89"/>ab alijs animalibus, hoc modo non est
+      cau<lb ed="#P" n="90" break="no"/>sa, sed magis consequens causam: Nam
+      da<lb ed="#P" n="91" break="no"/>to, quod nullum aliud esset animal, a quo 
+      <lb ed="#P" n="92"/>distingueretur homo, adhuc tamen
+      beatitu<lb ed="#P" n="93" break="no"/>do illi deberetur propter intellectum Ita 
+      <lb ed="#P" n="94"/>in proposito, quamuis actus generationis de 
+      <lb ed="#P" n="95"/>beatur patri, &amp; non filio, hoc tamen non est; 
+      <lb ed="#P" n="96"/>quia distinctus sit a filio, sed magis distingui 
+      <lb ed="#P" n="97"/>tur a filio, quia actus generationis sibi debs 
+      <lb ed="#P" n="98"/>tur. Licet etiam posset reduci in aliam
+      cau<lb ed="#P" n="99" break="no"/>sam, scilicet exigentiae essentiae sic necessitan 
+      <lb ed="#P" n="100"/>tis, vel dicatur, quod pater distinguitur a 
+      <lb ed="#P" n="101"/>filio non solum per paternitatem, sed etiam 
+      <lb ed="#P" n="102"/>per esseniam, in quantum habet illum
+      mo<lb ed="#P" n="103" break="no"/>dum correlatiuum in patre, quem non
+      ha<lb ed="#P" n="104" break="no"/>bet in filio. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4469">
+               <lb ed="#P" n="105"/>Ad secundam dicunt aliqui, quod maior 
+      <lb ed="#P" n="106"/>proposito, scilicet forma dans esse dat etiam  
+      <lb ed="#P" n="107"/>operari, valet in formis actiuis, ex quibus non 
+      <lb ed="#P" n="108"/>est relatio. Quae responsio non est bona, ali 
+      <lb ed="#P" n="109"/>ter relatio in diuinis non constitueret suppo 
+      <lb ed="#P" n="110"/>sita: quia ipsa secundum suum genus non 
+      <lb ed="#P" n="111"/>est de numero formarum constituentium 
+      <lb ed="#P" n="112"/>Alij dicunt, quod relatio non est forma
+      di<lb ed="#P" n="113" break="no"/>cens simpliciter perfectionem: &amp; ideo nulla 
+      <lb ed="#P" n="114"/>imperfectio ex hoc in ea arguitur, se det actu 
+      <!--284.xml-->
+      <pb ed="#P" n="259"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>primum, &amp; non secundum. Et forte modums 
+      <lb ed="#P" n="2"/>arguendi valeret in formis absolutis, sed hoc 
+      <lb ed="#P" n="3"/>non placet quia pari ratione posset dici, quod 
+      <lb ed="#P" n="4"/>nulla imperfectio arguitur in relatione diui 
+      <lb ed="#P" n="5"/>na, si non constitueret suppositum, quia hoc 
+      <lb ed="#P" n="6"/>non debetur formis relatiuis 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4513">
+               <lb ed="#P" n="7"/>Dico ergo, quod forma dans actum primum 
+      <lb ed="#P" n="8"/>constituendo, quantum est de se, bene potest 
+      <lb ed="#P" n="9"/>dare actum secundum, nisi inueniat aliam . 
+      <lb ed="#P" n="10"/>formam in supposito principaliorem sufficien 
+      <lb ed="#P" n="11"/>tem dare illum actum; Nunc autem paterni 
+      <lb ed="#P" n="12"/>tas inuenit in patre essentiam sufficientem ex 
+      <lb ed="#P" n="13"/>sua summa actualitate, &amp; non ex aliquo alio 
+      <lb ed="#P" n="14"/>necessitantem ad talem actum, &amp; non
+      debe<lb ed="#P" n="15" break="no"/>mus dicere, quod hoc sit propter deficientiam 
+      <lb ed="#P" n="16"/>paternitatis, sed quia non expedit, vt P.
+      Aug<lb ed="#P" n="17" break="no"/>dicit quod filius non generat, non propter 
+      <lb ed="#P" n="18"/>non posse, sed propter non oportere. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4542">
+               <lb ed="#P" n="19"/>Ad tertiam cum dicitur, quod actus, &amp; po 
+      <lb ed="#P" n="20"/>tentia sunt eiusdem generis, respondent
+      qui<lb ed="#P" n="21" break="no"/>dam, &amp; bene, quod verum est de potentia 
+      <lb ed="#P" n="22"/>obiectiua, non autem de potentia actiua, &amp;  
+      <lb ed="#P" n="23"/>productiua. Ad confirmationem de medio. 
+      <lb ed="#P" n="24"/>respectu extremorum, dico, quod est verum, 
+      <lb ed="#P" n="25"/>si fit vere medium participans vtrumque
+      ex<lb ed="#P" n="26" break="no"/>tremum; Nunc autem actus generandi non  
+      <lb ed="#P" n="27"/>est vere medium inter gignens, &amp; genitum, 
+      <lb ed="#P" n="28"/>tum quia se tenet ex parte alterius extremi 
+      <lb ed="#P" n="29"/>tanquam proprietas; tum etiam, quia non par 
+      <lb ed="#P" n="30"/>ticipat vtrumque extremum, immo opponit 
+      <lb ed="#P" n="31"/>vni extremo, &amp; est idem cum altero. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4573">
+               <lb ed="#P" n="32"/>Ad quartam cum dicitur, quod, sicut se 
+      <lb ed="#P" n="33"/>habet essentia, &amp;c. Dico, quod verum est 
+      <lb ed="#P" n="34"/>quantum ad distinctionem, &amp;
+      denominatio<lb ed="#P" n="35" break="no"/>nem. Nam talis distinctio est inter essentiam, 
+      <lb ed="#P" n="36"/>&amp; essentialia, qualis est inter notionem, &amp;  
+      <lb ed="#P" n="37"/>notionalia; sed non est simile quantum ad 
+      <lb ed="#P" n="38"/>principium, quia actus essentiales non redu 
+      <lb ed="#P" n="39"/>cuntur in aliud principium, quam in
+      essen<lb ed="#P" n="40" break="no"/>tiam, sed notionales in aliud principium 
+      <lb ed="#P" n="41"/>quam in notiones reducuntur, quia in
+      es<lb ed="#P" n="42" break="no"/>sentiam, sicut &amp; notiones: Quia ergo
+      essen<lb ed="#P" n="43" break="no"/>tia est sufficiens principium omnium horum 
+      <lb ed="#P" n="44"/>actuum ex exigentia suae naturae, idcirco non 
+      <lb ed="#P" n="45"/>expedit recurrere ad notiones. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4606">
+               <lb ed="#P" n="46"/>Ad rationes secundae opinionis. 
+      <lb ed="#P" n="47"/>Ad primam cum dicitur, quod illud ess 
+      <lb ed="#P" n="48"/>fundamentum, &amp;c. Dico verum esse, quod  
+      <lb ed="#P" n="49"/>essentia non includit illam relationem, cuius 
+      <lb ed="#P" n="50"/>est fundamentum, includit tamen quendam 
+      <lb ed="#P" n="51"/>modum relatiuum, respectu cuius est
+      princi<lb ed="#P" n="52" break="no"/>pium actus: Vnde sicut scientia, quae est in 
+      <lb ed="#P" n="53"/>homine, potest fundare relationem
+      similitu<lb ed="#P" n="54" break="no"/>dinis ad scientiam, quae est in alio, &amp; hoc non 
+      <lb ed="#P" n="55"/>obstante potest fundare respectum scibilis,  
+      <lb ed="#P" n="56"/>qui includit quendam modum relatiui; ita 
+      <lb ed="#P" n="57"/>in proposito, licet potentia generandi fundet 
+      <!--284.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 259 b -->
+               <lb ed="#P" n="58"/>relationem gignentis ad genitum, habet
+      ta<lb ed="#P" n="59" break="no"/>men quendam modum relatiui respectu
+      a<lb ed="#P" n="60" break="no"/>ctus, cuius est principium; Et cum dicitur 
+      <lb ed="#P" n="61"/>quod relatio non est fundamentum
+      relatio<lb ed="#P" n="62" break="no"/>nis; Negari potest, hoc tamen concesso nihil 
+      <lb ed="#P" n="63"/>est contra nos, quia non ponitur, quod poten 
+      <lb ed="#P" n="64"/>tia fundet relationem gignentis ad genitum 
+      <lb ed="#P" n="65"/>secundum illum modum relatiuum, quem 
+      <lb ed="#P" n="66"/>includit, sed secundum illum absolutum, 
+      <lb ed="#P" n="67"/>quod dicit.  
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4664">
+               <lb ed="#P" n="68"/>Ad secundam concedo eam: cum non sit 
+      <lb ed="#P" n="69"/>contra me, quia probat, quod potentia
+      gene<lb ed="#P" n="70" break="no"/>randi sit essentia. Si tamen vult quod sit
+      es<lb ed="#P" n="71" break="no"/>sentia, vt est quid pure absolutum, sic dico,  
+      <lb ed="#P" n="72"/>quod non inconuenit, quia dato per impossi 
+      <lb ed="#P" n="73"/>bile, quod Deus generaret alium Deum,
+      es<lb ed="#P" n="74" break="no"/>sentia sic esset potentia generandi, quod tamen 
+      <lb ed="#P" n="75"/>respectu actus semper includeret quendam 
+      <lb ed="#P" n="76"/>modum relatiuum. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4686">
+               <lb ed="#P" n="77"/>Ad tertiam similiter dicitur, quod non est 
+      <lb ed="#P" n="78"/>contra nos; ponit enim potentiam
+      generan<lb ed="#P" n="79" break="no"/>di esse essentiam, quod conceditur, vt dictum 
+      <lb ed="#P" n="80"/>est, secundum quindam modum relatiuum, 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4697">
+               <lb ed="#P" n="81"/>Ad rationes tertiae opinionis. 
+      <lb ed="#P" n="82"/>Ad fundamentum primae rationis cum di 
+      <lb ed="#P" n="83"/>citur, quod essentia non principiat actum ge 
+      <lb ed="#P" n="84"/>nerandi vt stat sub proprietate relatiua,
+      er<lb ed="#P" n="85" break="no"/>go &amp;c. Dico quod consequentia non valet; 
+      <lb ed="#P" n="86"/>nam videmus quod calor non principiat
+      a<lb ed="#P" n="87" break="no"/>ctum calefaciendi, nisi vt approximatus
+      ma<lb ed="#P" n="88" break="no"/>teriae, &amp; tamen illa approximatio non inclu 
+      <lb ed="#P" n="89"/>ditur in ratione potetiae calefactiuae; Aliquis  
+      <lb ed="#P" n="90"/>tamen instaret contra, quod non est simile; si 
+      <lb ed="#P" n="91"/>quidem calor habet potentiam calefactiuam  
+      <lb ed="#P" n="92"/>ante istam approximationem: quamuis non  
+      <lb ed="#P" n="93"/>exeat in actum sine illa, Dico quod non est 
+      <lb ed="#P" n="94"/>par ratio, quia calor habet rationem
+      poten<lb ed="#P" n="95" break="no"/>tiae calefactiuae ante approximationem, poten 
+      <lb ed="#P" n="96"/>tia Vero grnerandi non habet rationem
+      po<lb ed="#P" n="97" break="no"/>tentiae antequam habeat istum modum rela  
+      <lb ed="#P" n="98"/>tiuum, sine quo non potest intelligi respectu 
+      <lb ed="#P" n="99"/>actus, &amp; ideo iste respectus includitur in
+      ra<lb ed="#P" n="100" break="no"/>tione potentiae, quod non est sic de igne
+      re<lb ed="#P" n="101" break="no"/>spectu calefactionis, 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4745">
+               <lb ed="#P" n="102"/>Ad rationes declarantium hanc opi- 
+      <lb ed="#P" n="103"/>nionem 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4752">
+               <lb ed="#P" n="104"/>Ad primam dico, quod maior habet veri 
+      <lb ed="#P" n="105"/>tatem, vbi terminus productionis
+      produci<lb ed="#P" n="106" break="no"/>tur, tunc enim realiter distinguitur a
+      princi<lb ed="#P" n="107" break="no"/>io: modo essentia, quae est terminus
+      produ<lb ed="#P" n="108" break="no"/>ctionis, non producitur, vt superius dictum 
+      <lb ed="#P" n="109"/>est 5. distinct 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4768">
+               <lb ed="#P" n="110"/>Et, cum dicitur, quod producens
+      totali<lb ed="#P" n="111" break="no"/>ter est producens ratione principij. Dico, quod 
+      <lb ed="#P" n="112"/>haec proposito potest intelligi dupliciter, 
+      <lb ed="#P" n="113"/>vno modo, quod producens ita sit producens 
+      <lb ed="#P" n="114"/>ratione principij; quod actus producendi 
+      <!--285.xml-->
+      <pb ed="#P" n="260"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>attribuatur principio per se, producenti
+      ve<lb ed="#P" n="2" break="no"/>ro quasi secundario, &amp; hoc videtur falsum 
+      <lb ed="#P" n="3"/>etiam in creaturis; non enim formae primo, 
+      <lb ed="#P" n="4"/>&amp; per se attribuitur agere, sed supposito; 
+      <lb ed="#P" n="5"/>alio modo potest intelligi, quod producens 
+      <lb ed="#P" n="6"/>sit totaliter producens ratione principij
+      for<lb ed="#P" n="7" break="no"/>malis, a quo habet esse, &amp; agere; ita vt esse, 
+      <lb ed="#P" n="8"/>&amp; agere attribuatur primo, &amp; per se ipsi sup 
+      <lb ed="#P" n="9"/>posito, principio vero formali eius, vel nullo 
+      <lb ed="#P" n="10"/>modo attribuatur, vt dixi de actu generandi 
+      <lb ed="#P" n="11"/>respectu essentiae, cui repugnat talis attribu 
+      <lb ed="#P" n="12"/>tio, vel si attribuatur sicuti in creaturis, hoc 
+      <lb ed="#P" n="13"/>erit per accidens, scilicet in quantum tale
+      prin<lb ed="#P" n="14" break="no"/>cipium est aliquid suppositi, cui per se
+      attri<lb ed="#P" n="15" break="no"/>buitur, &amp; sic concedo, nam solum
+      supposi<lb ed="#P" n="16" break="no"/>tum habet, vel potest habere omnes
+      condi<lb ed="#P" n="17" break="no"/>tiones necessario requisitas ad agere; Modo 
+      <lb ed="#P" n="18"/>in proposito, cum dicitur producens
+      totali<lb ed="#P" n="19" break="no"/>ter est, &amp;c. Primo modo nego, secundo mo 
+      <lb ed="#P" n="20"/>do concedo; Et ideo, licet suppositum
+      pro<lb ed="#P" n="21" break="no"/>ducat ratione principij actuantis, determi- 
+      <lb ed="#P" n="22"/>nantis, &amp; necessitantis ad talem actum, prin 
+      <lb ed="#P" n="23"/>cipium tamen non produg vnde non opor 
+      <lb ed="#P" n="24"/>tet quod distinguatur eodem modo a
+      pro<lb ed="#P" n="25" break="no"/>ducto, sicut ipsum producens. Similiter
+      di<lb ed="#P" n="26" break="no"/>co ex parte producti; nam quamuis
+      produ<lb ed="#P" n="27" break="no"/>ctum producatur ratione termini, terminus 
+      <lb ed="#P" n="28"/>tamen non producitur. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4849">
+               <lb ed="#P" n="29"/>Ad secundam concedo maporem, sed nego 
+      <lb ed="#P" n="30"/>minorem, quantum ad hoc: a, quod dicit es- 
+      <lb ed="#P" n="31"/>sentiam terminum generationis in quantum 
+      <lb ed="#P" n="32"/>communicatiua est, &amp; principium, vt produm 
+      <lb ed="#P" n="33"/>ctiua; nam sicut patuit arguendo contra hac 
+      <lb ed="#P" n="34"/>viam, in generatione idem est
+      communica<lb ed="#P" n="35" break="no"/>tio, &amp; productio, &amp; per consequens idem est 
+      <lb ed="#P" n="36"/>terminus generationis, vt comunicatiua, &amp;  
+      <lb ed="#P" n="37"/>productiua. Similiter ex alia parte falsum est 
+      <lb ed="#P" n="38"/>quod relatio sit terminus generationis,
+      con<lb ed="#P" n="39" break="no"/>trarium enim probatum est supra 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4875">
+               <lb ed="#P" n="40"/>Ad tertiam, dico quod plures sunt modi 
+      <lb ed="#P" n="41"/>saluandi istam distinctionem, &amp; numerum 
+      <lb ed="#P" n="42"/>emanationum, sicut apparet ex diuersis opi- 
+      <lb ed="#P" n="43"/>nionibus; &amp; clarius patebit in dist. 15. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4886">
+               <lb ed="#P" n="44"/>Ad rationes quartae opinionis 
+      <lb ed="#P" n="45"/>Ad primam cum dicitur, quod essentia 
+      <lb ed="#P" n="46"/>est principium, &amp; non relatio, concedo. Cum 
+      <lb ed="#P" n="47"/>postea dicunt quod essentia indiget determi 
+      <lb ed="#P" n="48"/>nari ad diuersas actiones per diuersos
+      respe<lb ed="#P" n="49" break="no"/>ctus. Dico, quod si intelligunt per diuersos 
+      <lb ed="#P" n="50"/>respectus diuersos modos relatiuos, quos in 
+      <lb ed="#P" n="51"/>cludit essentia, vt habet rationem potentia 
+      <lb ed="#P" n="52"/>respectu diuersorum actuum, sic concedo. 
+      <lb ed="#P" n="53"/>quia est pro me. Si vero intelligant per istos 
+      <lb ed="#P" n="54"/>diuersos respectus diuersas relationes
+      perso<lb ed="#P" n="55" break="no"/>nales, per quas determinetur essentia ad
+      di<lb ed="#P" n="56" break="no"/>uersos actus notionales, nego. Nam, 
+      <lb ed="#P" n="57"/>quamuis essentia sit ratio eliciendi actum 
+      <!--285.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 260 b -->
+               <lb ed="#P" n="58"/>prout existit in persona, non tamen accipit 
+      <lb ed="#P" n="59"/>hoc a persona, &amp; multo minus a proprieta 
+      <lb ed="#P" n="60"/>te personae: quia ex se sufficienter determi- 
+      <lb ed="#P" n="61"/>natur ad talem actum, in quantum habet ra 
+      <lb ed="#P" n="62"/>tionem talis potentiae, prout includit modum 
+      <lb ed="#P" n="63"/>quendam relatiuum, essentia ergo se ipsa de 
+      <lb ed="#P" n="64"/>terminatur ad eliciendum talem actum, tan 
+      <lb ed="#P" n="65"/>quam ratio formalis eliciendi actum,
+      suppo<lb ed="#P" n="66" break="no"/>sito autem indiget tanquam eliciente; quia 
+      <lb ed="#P" n="67"/>ipsa non est ratio eliciendi actum sibi ipsi, 
+      <lb ed="#P" n="68"/>sed supposito; &amp; ideo abstracta por
+      intelle<lb ed="#P" n="69" break="no"/>ctum a supposito non est ratio eliciendi
+      a<lb ed="#P" n="70" break="no"/>ctum, &amp; si indigeat smpposito in eliciendo
+      a<lb ed="#P" n="71" break="no"/>ctum, hoc non est, quasi ab illo accipiat, vt 
+      <lb ed="#P" n="72"/>sit ratio eliciendi; quia hoc habet de se, in 
+      <lb ed="#P" n="73"/>quantum habet rationem potentiae, sed est 
+      <lb ed="#P" n="74"/>quia ratio eliciendi non est sine eliciente, sed  
+      <lb ed="#P" n="75"/>quia forma sic est ratio eliciendi, quod, tamen 
+      <lb ed="#P" n="76"/>non est eliciens; ideo indiget supposito, quod 
+      <lb ed="#P" n="77"/>eliciat, &amp; per hoc patet quid dicendum sit 
+      <lb ed="#P" n="78"/>ad omnes rationes huius opinionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e4971">
+               <lb ed="#P" n="79"/>Ad rationes quintae opinionis. 
+      <lb ed="#P" n="80"/>Ad primam dico, quod quamuis actus non 
+      <lb ed="#P" n="81"/>egrediatur de potentia, nisi vt existit in
+      sup<lb ed="#P" n="82" break="no"/>posito, tamen potentia non accipit a
+      suppo<lb ed="#P" n="83" break="no"/>sito, quod sit potentia, nec suppositum
+      in<lb ed="#P" n="84" break="no"/>trat rationem potentiae, alioquin ratio elicien 
+      <lb ed="#P" n="85"/>di actum, &amp; eliciens actum nullo modo
+      es<lb ed="#P" n="86" break="no"/>sent distincta, nec secundum rem, ned secun 
+      <lb ed="#P" n="87"/>dum rationem, quod est falsum etiam in Deo; 
+      <lb ed="#P" n="88"/>quia si nulla esset ibi distinctio inter
+      forma<lb ed="#P" n="89" break="no"/>lem rationem elicitiuam, &amp; suppositum
+      eli<lb ed="#P" n="90" break="no"/>ciens, haec quaestio non haberet locum. Idec 
+      <lb ed="#P" n="91"/>dico, quod essentia secundum quod, habes 
+      <lb ed="#P" n="92"/>rationem potentiae intrinsece non includit 
+      <lb ed="#P" n="93"/>suppositum nec proprietatem suppositi, sed  
+      <lb ed="#P" n="94"/>tantum quendam modum relatiuum:
+      Con<lb ed="#P" n="95" break="no"/>cludo ergo pro hac quaestione, quod in Deo 
+      <lb ed="#P" n="96"/>est potentia generandi cum quodam modo 
+      <lb ed="#P" n="97"/>relatiuo. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e5015">
+               <lb ed="#P" n="98"/>AD RATIONES PRINCIPALES. 
+      <lb ed="#P" n="99"/>Ad primam dico, quod potentia de suo
+      si<lb ed="#P" n="100" break="no"/>gnificato importat respectum, non quod ille 
+      <lb ed="#P" n="101"/>respectus sit de praedicamento relationis
+      se<lb ed="#P" n="102" break="no"/>cundum esse: sed est quidam modus
+      relati<lb ed="#P" n="103" break="no"/>uus essentialis, &amp; intrinsecus rei absolute. Et 
+      <lb ed="#P" n="104"/>sic concedo, quod potentia generandi in 
+      <lb ed="#P" n="105"/>Deo sit essentia cum respectu, idest cum mo 
+      <lb ed="#P" n="106"/>do relatiuo. 
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e5037">
+               <lb ed="#P" n="107"/>Ad secundam dico, quod in Deo est poten 
+      <lb ed="#P" n="108"/>tia generandi, &amp; cum dicitur, quod purus 
+      <lb ed="#P" n="109"/>actus non compatitur secum aliquam poten 
+      <lb ed="#P" n="110"/>tiam, concedo de potentia, quae indigeat per 
+      <lb ed="#P" n="111"/>fici per actum, bene tamen compatitur secu 
+      <lb ed="#P" n="112"/>potentiam productiuam actus.
+    </p>
+            <p xml:id="gsX5tY-d1e378-d1e5054">
+      <!--286.xml-->
+               <pb ed="#P" n="261"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Ad tertiam concedo, quod potentia gene 
+      <lb ed="#P" n="2"/>randi sit in omnibus personis quantum ad 
+      <lb ed="#P" n="3"/>aillud absolutum quod dicit, non tamen quam 
+      <lb ed="#P" n="4"/>tum ad modum relatiuum, quem includit,  
+      <lb ed="#P" n="5"/>quia sic reperitur in solo patre.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

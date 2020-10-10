@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="578"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e1028"> <!-- l1d39q1 -->
+            <head xml:id="gsX5tY-d1e1028-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e1028-Hd1e112" type="question-title">Utrum divina providentia ad omnia se extendat.</head>
+            <p xml:id="gsX5tY-d1e1028-d1e115">
+      <!--603.xml-->
+               <pb ed="#P" n="578"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>DISTINCTIONIS XXXIX. 
+      <lb ed="#P" n="2"/>QVAESTIO VNICA 
+      <lb ed="#P" n="3"/>Vtrum diuina prouidentia ad omnia se 
+      <lb ed="#P" n="4"/>extendat
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e133">
+               <lb ed="#P" n="5"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="6"/>negatiun. 
+      <lb ed="#P" n="7"/>IILla, ad quae se extendit diuina prouiden 
+      <lb ed="#P" n="8"/>tia, sunt ab ipso Deo intenta, sed sunt quae 
+      <lb ed="#P" n="9"/>dam in vniuerso, quae non possunt esse a Deo 
+      <lb ed="#P" n="10"/>intenta, sicut mala culpae, ergo saltem ad il 
+      <lb ed="#P" n="11"/>la diuina prouidentia non se extendit. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e152">
+               <lb ed="#P" n="12"/>2 Fatum non se extendit ad omnia, sed  
+      <lb ed="#P" n="13"/>diuina prouidentia est idem quod fatu, ergo 
+      <lb ed="#P" n="14"/>diuina prouidentia non se extendit ad omia 
+      <lb ed="#P" n="15"/>Maiorem probo, quia secundum Poetium 
+      <lb ed="#P" n="16"/>quarto de Consolatione fatum est indeter. 
+      <lb ed="#P" n="17"/>minabilis ordo rerum, constat autem, quoc 
+      <lb ed="#P" n="18"/>talis ordo non se extendit ad omnia, quia sal 
+      <lb ed="#P" n="19"/>tem non ad fortuita, &amp; casualia, quae viden 
+      <lb ed="#P" n="20"/>tur esse praeter omnem ordinem : Probo etiam 
+      <lb ed="#P" n="21"/>minorem, quia dicit D. Pater August. quin 
+      <lb ed="#P" n="22"/>to deCiuitate Dei cap. 8. quod fata volenten 
+      <lb ed="#P" n="23"/>ducunt, &amp; nolentem trahunt, ducere autem 
+      <lb ed="#P" n="24"/>&amp; dirigere nostram voluntatem pertinet ad 
+      <lb ed="#P" n="25"/>diuinam prouidentiam proprie; ergo &amp;c
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e185">
+               <lb ed="#P" n="26"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="27"/>affirmatiua. 
+      <lb ed="#P" n="28"/>QI essent aliqua, ad quae diuina prouiden 
+      <lb ed="#P" n="29"/>Atia non se extenderet illa remanerent
+      in<lb ed="#P" n="30" break="no"/>ordinata, &amp; per consequens vniuersum non 
+      <lb ed="#P" n="31"/>esset connexum, &amp; bene dispositum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e201">
+               <lb ed="#P" n="32"/>RESPONDEO: In ista quaestione duo 
+      <lb ed="#P" n="33"/>sunt videnda 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e208">
+               <lb ed="#P" n="34"/>1 An Diuina prouidentia se extendat ad 
+      <lb ed="#P" n="35"/>omnia. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e215">
+               <lb ed="#P" n="36"/>2 An Diuina prouidentia sit idem quod 
+      <lb ed="#P" n="37"/>fatum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e222">
+               <lb ed="#P" n="38"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="39"/>An ad omnia se extendat diuina prouidentia, 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e230">
+               <lb ed="#P" n="40"/>Vantum ad presentem articulum est 
+      <lb ed="#P" n="41"/>sciendum, quod prouidentia non
+      vi<lb ed="#P" n="42" break="no"/>detur esse aliud, quam collatio eorum 
+      <lb ed="#P" n="43"/>quae sunt necessaria, vel expedientia ad con 
+      <lb ed="#P" n="44"/>secutionem alicuius finis; vnde ista tria videm 
+      <lb ed="#P" n="45"/>tur se habere per ordinem, scilicet disposito. 
+      <lb ed="#P" n="46"/>prouidentia, &amp; gubernatio; nam ille, qui
+      in<lb ed="#P" n="47" break="no"/>tendit alique finem, primo disponit ea, quae 
+      <!--603.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 578 b -->
+               <lb ed="#P" n="48"/>sunt ad finem in suo debito ordine secundum 
+      <lb ed="#P" n="49"/>diuersos gradus, secundario vero prouidet 
+      <lb ed="#P" n="50"/>eis conferendo ea, quae sunt necessaria, vel 
+      <lb ed="#P" n="51"/>expedientia ad consecutionem dicti finis; ter 
+      <lb ed="#P" n="52"/>tio vero gubernat ea dirigendo in dictum fi 
+      <lb ed="#P" n="53"/>nem, secundum inclinationem quam per
+      di<lb ed="#P" n="54" break="no"/>spositionem, &amp; prouidentiam sunt sortita, 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e272">
+               <lb ed="#P" n="55"/>Secundum hoc ergo debemus imaginari 
+      <lb ed="#P" n="56"/>in proposito, quod Deus disponit, &amp;
+      dispo<lb ed="#P" n="57" break="no"/>suit omnia quae sunt in vniuerso in debi on 
+      <lb ed="#P" n="58"/>ordine secundum diuersos gradus, postea ve 
+      <lb ed="#P" n="59"/>ro contulit eis ea quae sunt necessaria, vel ex 
+      <lb ed="#P" n="60"/>pedientia ad consecutionem sui finis: Vltimo 
+      <lb ed="#P" n="61"/>vero gubernat ea dirigendo in suum finem, 
+      <lb ed="#P" n="62"/>&amp; inclinationem, quam ex prima
+      disposito<lb ed="#P" n="63" break="no"/>ne, &amp; diuina prouidentia sunt sortita;
+      Diui<lb ed="#P" n="64" break="no"/>na igitur prouidentia ad omnia se extendit,  
+      <lb ed="#P" n="65"/>quod etiam potest probari tali ratione. lllius 
+      <lb ed="#P" n="66"/>prouidentia ad omnia se extendit, cuius
+      di<lb ed="#P" n="67" break="no"/>posito omnia disponit, &amp; cuius gubernatio 
+      <lb ed="#P" n="68"/>habet omnia in suum finem dirigit, sed disposi 
+      <lb ed="#P" n="69"/>tio Dei de omnibus disponit, &amp; eius
+      guber<lb ed="#P" n="70" break="no"/>natio omnia in suum fine dirigere; ergo eius 
+      <lb ed="#P" n="71"/>prouidentia ad omnia se extendit. Maior pa 
+      <lb ed="#P" n="72"/>tet ex dictis: Minorem probo, quia oportet 
+      <lb ed="#P" n="73"/>dare aliquam vnam causam vuiuersalem
+      di<lb ed="#P" n="74" break="no"/>sponentem omnia constituendo ea in suo de 
+      <lb ed="#P" n="75"/>bito ordine, alio quin vel nullus esset ordo 
+      <lb ed="#P" n="76"/>in entibus, vel talis ordo esset a. casu; Haec 
+      <lb ed="#P" n="77"/>autem causa vniuersalis non potest esse, nisi 
+      <lb ed="#P" n="78"/>Deus, ac per consequens diuina disposito 
+      <lb ed="#P" n="79"/>habet omnia disponere in suo ordine.
+      Vlte<lb ed="#P" n="80" break="no"/>rius oportet etiam dare vnam causam omnia 
+      <lb ed="#P" n="81"/>gubernantem, dirigendo ea in suum finem, 
+      <lb ed="#P" n="82"/>alioquin entia essent ociosa, &amp; ordo entium 
+      <lb ed="#P" n="83"/>otiosus; Hec autem causa vniuersalis solus 
+      <lb ed="#P" n="84"/>Deus est: quapropter relinquitur quod eius 
+      <lb ed="#P" n="85"/>prouidentia ad omnia se extendat. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e342">
+               <lb ed="#P" n="86"/>Sciendum tamen, quod diuina prouiden 
+      <lb ed="#P" n="87"/>tia se potest extendere ad aliqua tribus
+      mo<lb ed="#P" n="88" break="no"/>dis; vno modo directe prouidendo de hi 
+      <lb ed="#P" n="89"/>quae sunt necessaria ad consecutionem finis,  
+      <lb ed="#P" n="90"/>&amp; ista sunt omnia illa, quae per se &amp; directe 
+      <lb ed="#P" n="91"/>habent ordinari in finem : secundo modo di 
+      <lb ed="#P" n="92"/>uina prouidentia potest se extendere ad
+      ali<lb ed="#P" n="93" break="no"/>qua non directe eis prouidendo, sed per ea 
+      <lb ed="#P" n="94"/>prouidendo alijs, vtpote, cum tribuit
+      neces<lb ed="#P" n="95" break="no"/>saria ad consecutionem finis, non se extendit 
+      <lb ed="#P" n="96"/>ad illa necessaria, ita quod illis directe
+      pro<lb ed="#P" n="97" break="no"/>uideat, sed quia per ea prouidet alijs: Tertio 
+      <lb ed="#P" n="98"/>modo se potest extendere ad aliqua, ea quo- 
+      <lb ed="#P" n="99"/>dammodo speciali sub ordine
+      collocan<lb ed="#P" n="100" break="no"/>do, quod quidem dupliciter potest
+      contin<lb ed="#P" n="101" break="no"/>gere; nam sunt aliqua, quae indigent quodam 
+      <lb ed="#P" n="102"/>speciali modo sub ordine collocari, quia
+      de<lb ed="#P" n="103" break="no"/>uiant ab ordine, non quidem secundum
+      na<lb ed="#P" n="104" break="no"/>turam suam, sed ex eo quod fiunt praeter 
+      <!--604.xml-->
+      <pb ed="#P" n="579"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>intentionem agentis, sicut fortuita, &amp;
+      casua<lb ed="#P" n="2" break="no"/>lia: Quaedam vero alia sunt, quae deuiant ab 
+      <lb ed="#P" n="3"/>ordine secundum suam naturam, sicut mala 
+      <lb ed="#P" n="4"/>culpae, quae secundum suam naturam nullo 
+      <lb ed="#P" n="5"/>modo sunt ordinabilia, immo potius
+      ordi<lb ed="#P" n="6" break="no"/>nem corrumpentia; diuina ergo prouidentia 
+      <lb ed="#P" n="7"/>se extendit ad vtraque, ea sub ordine
+      collo<lb ed="#P" n="8" break="no"/>cando. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e410">
+               <lb ed="#P" n="9"/>Primo nanque se extendit ad fortuita, &amp; 
+      <lb ed="#P" n="10"/>casualia; nam quamuis talia sint praeter or- 
+      <lb ed="#P" n="11"/>dinem, prout reducuntur in causas
+      inferio<lb ed="#P" n="12" break="no"/>res, ex quarum concursu proueniunt, non ta 
+      <lb ed="#P" n="13"/>men sunt praeter ordinem, prout reducuntur 
+      <lb ed="#P" n="14"/>in causam superiorem, quae est diuina proui 
+      <lb ed="#P" n="15"/>dentia, quae habet connectere causas inferio 
+      <lb ed="#P" n="16"/>res taliter contingentes; Et hoc est, quod
+      di<lb ed="#P" n="17" break="no"/>cit Doetius quinto de Consolatione, vbi
+      vi<lb ed="#P" n="18" break="no"/>detur definire casum esse inopinatum
+      euen<lb ed="#P" n="19" break="no"/>tum ex confluentibus causis in his, quae
+      pro<lb ed="#P" n="20" break="no"/>pter aliquid geruntur, concurrere vero,
+      at<lb ed="#P" n="21" break="no"/>que confluere huiusmodi causas facit ordo 
+      <lb ed="#P" n="22"/>ille ex ineuitabili connexione procedens, qui 
+      <lb ed="#P" n="23"/>de prouidentiae fonte descendens, cuncta suis. 
+      <lb ed="#P" n="24"/>locis, temporibusque disponit. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e447">
+               <lb ed="#P" n="25"/>VIterius dico, quod diuina prouidentia 
+      <lb ed="#P" n="26"/>collocat sub ordine etiam mala culbae, quia 
+      <lb ed="#P" n="27"/>in puniendo malum culpae per iustam
+      poe<lb ed="#P" n="28" break="no"/>nam facit ipsum bonum per malum culpae 
+      <lb ed="#P" n="29"/>eminentius relucere, ac per consequens ex 
+      <lb ed="#P" n="30"/>hoc ipso malum culpae sub ordine
+      collo<lb ed="#P" n="31" break="no"/>catur, quia ad boni relucentiam ordinatur. 
+      <lb ed="#P" n="32"/>Et ista est sententia Sancti Patris Augustini 
+      <lb ed="#P" n="33"/>in libro Enchiridion, vbi ait, quod malum 
+      <lb ed="#P" n="34"/>culpae ordinatum, &amp; suo loco positum
+      emi<lb ed="#P" n="35" break="no"/>nentius comendat bona, &amp; ibidem dicit, quod 
+      <lb ed="#P" n="36"/>Deus non sineret aliquid mali esse in opere 
+      <lb ed="#P" n="37"/>suo, nisi adeo esset potens, &amp; bonus, quod 
+      <lb ed="#P" n="38"/>benefaceret etiam de malo. Et haec de
+      prae<lb ed="#P" n="39" break="no"/>senti quaesito. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e482">
+               <lb ed="#P" n="40"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="41"/>Vtrum diuina prouidentia sit idem quod 
+      <lb ed="#P" n="42"/>fatum.
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e492">
+               <lb ed="#P" n="43"/>D huius quaesiti euidentiam sciedum 
+      <lb ed="#P" n="44"/>est, quod fatum consueuit accipi
+      duo<lb ed="#P" n="45" break="no"/>bus modis; vno modo, vt est quaedam vis, &amp;  
+      <lb ed="#P" n="46"/>quaedam svderum disposito, &amp; hoc modo lo 
+      <lb ed="#P" n="47"/>quitur de fato Pater Augustinus quinto de 
+      <lb ed="#P" n="48"/>Ciuitate Dei cap. secundo, alio modo potest 
+      <lb ed="#P" n="49"/>accipi, prout dicit quendam ordinem, &amp; con 
+      <lb ed="#P" n="50"/>nexionem causarum, sicut loquitur de eodem  
+      <lb ed="#P" n="51"/>P. Augustinus in eodem libro capite nono. 
+      <lb ed="#P" n="52"/>&amp; hoc modo magis proprie dicitur fatum 
+      <lb ed="#P" n="53"/>du nmodo accipiatur talis ordo causarum, vt 
+      <!--604.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 579 b -->
+               <lb ed="#P" n="54"/>reducitur in diuinam prouidentiam cuncta 
+      <lb ed="#P" n="55"/>ordinantem, &amp; hoc probatur tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e529">
+               <lb ed="#P" n="56"/>Primo, quia ordo causarum in diuinam  
+      <lb ed="#P" n="57"/>prouidentiam reductus continet etiam ipsam  
+      <lb ed="#P" n="58"/>vim svderum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e538">
+               <lb ed="#P" n="59"/>Secundo, quia fatum dicitur a faris, vel 
+      <lb ed="#P" n="60"/>fare, fatur, deficit enim sibi prima persona 
+      <lb ed="#P" n="61"/>indicatiui modi, &amp; ideo non videtur esse 
+      <lb ed="#P" n="62"/>aliud quam quaedam prolocutio, &amp;
+      manife<lb ed="#P" n="63" break="no"/>statio eius, quod diuina sapientia ordinauit,  
+      <lb ed="#P" n="64"/>illud autem, quod diuina sapientia ordinauit,  
+      <lb ed="#P" n="65"/>maxime nobis explicatur per connexionem, 
+      <lb ed="#P" n="66"/>&amp; ordinem causarum. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e558">
+               <lb ed="#P" n="67"/>Tertio, quia Doetius quarto de
+      Consola<lb ed="#P" n="68" break="no"/>tione cum defato loquitur, videtur
+      intende<lb ed="#P" n="69" break="no"/>re potissime istum modum, &amp; hoc est quod 
+      <lb ed="#P" n="70"/>dicit ibi; siue igitur famulantibus
+      prouiden<lb ed="#P" n="71" break="no"/>tiae diuinae spiritibus fatum excitetur, seu
+      ra<lb ed="#P" n="72" break="no"/>tio inseruiente nectatur coelestibus svderum  
+      <lb ed="#P" n="73"/>motibus, seu angelica virtute, seu daemonum 
+      <lb ed="#P" n="74"/>varia solertia, seu aliquibus eorum, seu om- 
+      <lb ed="#P" n="75"/>nibus fatalibus texetur &amp;c Ex quib videtur 
+      <lb ed="#P" n="76"/>intendere fatum proprie loquendo nil aliud 
+      <lb ed="#P" n="77"/>esse, quam quencunque ordinem causarum, 
+      <lb ed="#P" n="78"/>prout in diuinam prouidentiam reducitur,  
+      <lb ed="#P" n="79"/>siue etiam prout eidem diuinae prouidentiae 
+      <lb ed="#P" n="80"/>famulatur, 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e591">
+               <lb ed="#P" n="81"/>Quo praemisso apparet fatum non esse idem 
+      <lb ed="#P" n="82"/>cum diuina prouidentia; Tum quia diuina 
+      <lb ed="#P" n="83"/>prouidentia est in Deo, fatum vero in causis 
+      <lb ed="#P" n="84"/>secundis; Tum quia diuina prouidentia est 
+      <lb ed="#P" n="85"/>quid immobile; fatum autem mobile, 
+      <lb ed="#P" n="86"/>Tum etiam, quia fatum est quaedam pro 
+      <lb ed="#P" n="87"/>locutio diuinae prouidentiae, &amp; non e
+      con<lb ed="#P" n="88" break="no"/>uerso. 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e611">
+               <lb ed="#P" n="89"/>AD RATIONES PRINCIPARES. 
+      <lb ed="#P" n="90"/>AD primam dico, quod quamuis mala 
+      <lb ed="#P" n="91"/>culpae non sint a Deo intenta, sunt ta 
+      <lb ed="#P" n="92"/>men per diuinam omnipotentiam, &amp;
+      boni<lb ed="#P" n="93" break="no"/>tatem sub ordine collocata, vt patuit supra¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e1028-d1e625">
+               <lb ed="#P" n="94"/>Ad secundam dicendum, quod ibi P.
+      Au<lb ed="#P" n="95" break="no"/>gustinus non loquitur ad mentem propriam, 
+      <lb ed="#P" n="96"/>sed secundum intentionem aliorum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

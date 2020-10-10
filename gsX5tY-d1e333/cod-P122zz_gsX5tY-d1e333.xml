@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="229-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e333"> <!-- l1d5q4 -->
+            <head xml:id="gsX5tY-d1e333-Hd1e109">Quaestio 4</head>
+            <head xml:id="gsX5tY-d1e333-Hd1e112" type="question-title">Utrum filius generetur de substantia patris</head>
+            <p xml:id="gsX5tY-d1e333-d1e115">
+               <lb ed="#P" n="85"/>QVAESTIO QVARTA. 
+      <lb ed="#P" n="86"/>Vtrum filius generetur de substantia patris. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e122">
+               <lb ed="#P" n="87"/>Vic quaestioni respondeo absque
+      argu<lb ed="#P" n="88" break="no"/>Hmentis, quia de veritate eius non est 
+      <lb ed="#P" n="89"/>atqua dubitatio, cum sit determinata de Fi 
+      <lb ed="#P" n="90"/>de per concilia, &amp; sanctos patres, sicut habe 
+      <lb ed="#P" n="91"/>tur per magistrum in litera. Vnde D. Augu 
+      <lb ed="#P" n="92"/>stinus libro secundo contra Maximinum
+      nul<lb ed="#P" n="93" break="no"/>lo modo (inquit) verum Dei filium
+      cogita<lb ed="#P" n="94" break="no"/>tis, si eum natum esse de substantia patris ne 
+      <lb ed="#P" n="95"/>getis: quod reperit pluribus in locis, ex cuius 
+      <lb ed="#P" n="96"/>verbis duas formo rationes 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e147">
+               <lb ed="#P" n="97"/>Si filius non esset genitus de
+      substan<lb ed="#P" n="98" break="no"/>tia patris, sequeretur, quod non esset vere 
+      <lb ed="#P" n="99"/>filius, hoc est falsum, ergo &amp;c. Falsitas sup 
+      <lb ed="#P" n="100"/>ponitur, &amp; consequentia probatur, quia per 
+      <lb ed="#P" n="101"/>Con. 5. Metap. com. 27 generans, &amp; genitum 
+      <lb ed="#P" n="102"/>sunt idem in forma, &amp; subdit, quod pater est 
+      <lb ed="#P" n="103"/>similis filio in forma: vbi ergo non est
+      iden<lb ed="#P" n="104" break="no"/>titas, vel similitudo in forma, ibi non est
+      ve<lb ed="#P" n="105" break="no"/>ra generatio, &amp; per consequens nec vera
+      fi<lb ed="#P" n="106" break="no"/>liatio; a destructione ergo consequentis, cu 
+      <!--254.xml-->
+      <pb ed="#P" n="229"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>in diuinis sit vera generatio, vt patet ex
+      Sa<lb ed="#P" n="2" break="no"/>cra Scriptura, pluribus in locis, &amp; ex
+      supe<lb ed="#P" n="3" break="no"/>rius dictis, erit etiam ibi vera paternitas, &amp;  
+      <lb ed="#P" n="4"/>filiatio, prout legitur in Scriptura Sacra, 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e186">
+               <lb ed="#P" n="5"/>2 Vbi est vera generatio, ibi est vera vni 
+      <lb ed="#P" n="6"/>tas, &amp; similitudo in forma: sed in Deo est ve 
+      <lb ed="#P" n="7"/>ra generatio; ergo ibi est vera vnitas &amp; sim 
+      <lb ed="#P" n="8"/>litudo; Subinfero minorem, sed in Deo non 
+      <lb ed="#P" n="9"/>est alia forma, nec alia vnitas, quam eius sub 
+      <lb ed="#P" n="10"/>stantia ergo &amp;c. Nec potest dici, quod talis 
+      <lb ed="#P" n="11"/>vnitas sit secundum speciem, sicut in istis
+      in<lb ed="#P" n="12" break="no"/>ferioribus, quia sic essent plures diuinae
+      sub<lb ed="#P" n="13" break="no"/>stantiae, &amp; plures dij; erit ergo ibi vna
+      substam<lb ed="#P" n="14" break="no"/>tia secundum numerum, &amp; per consequens 
+      <lb ed="#P" n="15"/>filius erit genitus de tali substantia, per quam 
+      <lb ed="#P" n="16"/>est similis patri¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e215">
+               <lb ed="#P" n="17"/>De conclusione igitur sumus certi, sed de 
+      <lb ed="#P" n="18"/>modo verificandi eam, plures dubitant, vtrum 
+      <lb ed="#P" n="19"/>sta praeposito de, in proposito denotet circum 
+      <lb ed="#P" n="20"/>stantiam principij materialis, vel efficientis,  
+      <lb ed="#P" n="21"/>siue originantis. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e228">
+               <lb ed="#P" n="22"/>Ad hoc respondent aliqui, quod Iy de, 
+      <lb ed="#P" n="23"/>importat duo, scilicet habitudinem principij 
+      <lb ed="#P" n="24"/>originantis, &amp; consubstantialitatem
+      princi<lb ed="#P" n="25" break="no"/>pij, &amp; principiati, per quam denotatur
+      habi<lb ed="#P" n="26" break="no"/>tudo principij formalis, nam, per eos, si
+      im<lb ed="#P" n="27" break="no"/>portaret solam habitudinem principij origi 
+      <lb ed="#P" n="28"/>nantis, vel esficientis, tunc etiam creatura 
+      <lb ed="#P" n="29"/>posset dici esse substantia Dei, cum sit a Deo 
+      <lb ed="#P" n="30"/>originata, &amp; deriuata 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e250">
+               <lb ed="#P" n="31"/>Item si importaret solam
+      consubstantia<lb ed="#P" n="32" break="no"/>litatem, tunc posset dici, quod etiam patet 
+      <lb ed="#P" n="33"/>esset de substantia filij, cum sint
+      consubstan<lb ed="#P" n="34" break="no"/>tiales; sed si dicatur, quod importet
+      vtrum<lb ed="#P" n="35" break="no"/>que, tunc optime saluatur, quo modo filius 
+      <lb ed="#P" n="36"/>sit de substantia patris; quia in eo inuenitur 
+      <lb ed="#P" n="37"/>consubstantialitas, &amp; origo. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e268">
+               <lb ed="#P" n="38"/>Addunt insuper, quod hoc sufficit ad
+      sal<lb ed="#P" n="39" break="no"/>uandum, filium non esse de nihilo, &amp; quod  
+      <lb ed="#P" n="40"/>sit vere filius, primum patet, quia genitum  
+      <lb ed="#P" n="41"/>in inferioribus ideo non dicitur esse de nihi- 
+      <lb ed="#P" n="42"/>lo, quia aliquid eius praeexistit, vt materia, 
+      <lb ed="#P" n="43"/>quamuis forma adueniat de nouo: ponamus 
+      <lb ed="#P" n="44"/>ergo per oppositum, quod forma
+      praeexiste<lb ed="#P" n="45" break="no"/>ret, &amp; materia adueniret de nouo, adhuc sal 
+      <lb ed="#P" n="46"/>uaremus, genitum non fieri de nihilo, &amp; me 
+      <lb ed="#P" n="47"/>lius quam prius, quia forma praeexistens es 
+      <lb ed="#P" n="48"/>quid perfectius materia, quae praeexistebat. 
+      <lb ed="#P" n="49"/>Ita a simili, filius in diuinis generatur, &amp; non 
+      <lb ed="#P" n="50"/>de nihilo, quia essentia non praeexistit, vt ma 
+      <lb ed="#P" n="51"/>teria, sed bene vt forma communicanda 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e302">
+               <lb ed="#P" n="52"/>Secundo saluatur, quod vere sit filius, quia 
+      <lb ed="#P" n="53"/>in inferioribus actus generandi, per quem ali 
+      <lb ed="#P" n="54"/>quis efficitur pater, est ipsa decisio seminis, 
+      <lb ed="#P" n="55"/>cum proposito respectu, &amp; si pater esset ita 
+      <lb ed="#P" n="56"/>perfectum agens, quod immediate posset a 
+      <lb ed="#P" n="57"/>se decidere prolem, sicut decidit semen, per¬ 
+      <!--254.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 229 b -->
+               <lb ed="#P" n="58"/>fectiori modo esset pater, constat autem, quod 
+      <lb ed="#P" n="59"/>semen a substantia patris decisum praeexistit 
+      <lb ed="#P" n="60"/>ipsi decisioni, non vt materia, sed magis vt for 
+      <lb ed="#P" n="61"/>malis terminus productus, &amp; conmunicatus; 
+      <lb ed="#P" n="62"/>&amp; ita esset de filio, si immediate decideretur 
+      <lb ed="#P" n="63"/>a substantia patris, &amp; ei communicaretur im 
+      <lb ed="#P" n="64"/>mediate sine decisione alicuius ab ea, tunc nm 
+      <lb ed="#P" n="65"/>ipsa substantia patris praeexisteret generatio 
+      <lb ed="#P" n="66"/>ni filij, non vt materia, sed solum vt formalis 
+      <lb ed="#P" n="67"/>terminus per generationem communicandus,  
+      <lb ed="#P" n="68"/>quod si euenit in inferiorib us, multo magis 
+      <lb ed="#P" n="69"/>in diuinis, vbi vna substantia secundum
+      nu<lb ed="#P" n="70" break="no"/>merum communicatur sine omni decisione 
+      <lb ed="#P" n="71"/>&amp; diminutione; Concludunt ergo, ad
+      ve<lb ed="#P" n="72" break="no"/>ram filiationem non requiri
+      praeexisten<lb ed="#P" n="73" break="no"/>tiam substantiae patris, vel aliquid ipsius, vt 
+      <lb ed="#P" n="74"/>materiam, sed solum vt formalem terminum
+      pro<lb ed="#P" n="75" break="no"/>ducendum, vel communicandum, &amp; ly de, de 
+      <lb ed="#P" n="76"/>notare solum habitudinem principij
+      efficie<lb ed="#P" n="77" break="no"/>tis, vel producentis, nec non &amp; formalis, vt 
+      <lb ed="#P" n="78"/>sit talis sensus: filius est de substantia patris,  
+      <lb ed="#P" n="79"/>idest habet eandem substantiam, &amp; quasi for 
+      <lb ed="#P" n="80"/>mam cum patre, de quo est genitus. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e374">
+               <lb ed="#P" n="81"/>Iste tamen modus dicendi mihi non
+      pla<lb ed="#P" n="82" break="no"/>cet, tum quia, videtur mihi, quod dicit, stari 
+      <lb ed="#P" n="83"/>non posse; tum quia modus declarandi non 
+      <lb ed="#P" n="84"/>sufficit. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e385">
+               <lb ed="#P" n="85"/>Primum patet, nam petam ab eis, an Iy de 
+      <lb ed="#P" n="86"/>importet habitudinem principij efficientis,  
+      <lb ed="#P" n="87"/>&amp; formalis aequaliter, vel vnius principaliter 
+      <lb ed="#P" n="88"/>&amp; alterius ex consequenti; sidicant primum,  
+      <lb ed="#P" n="89"/>tunc proposito destrueretur, quia cum prin 
+      <lb ed="#P" n="90"/>cipium formale, quod ipsi dicunt esse substan 
+      <lb ed="#P" n="91"/>tiam, construatur in recto, principium vero 
+      <lb ed="#P" n="92"/>effectiuum, quod dicunt esse patrem,
+      con<lb ed="#P" n="93" break="no"/>struatur in obliquo, videtur, quod non ex 
+      <lb ed="#P" n="94"/>aequo importet habitudinem vtriusque. Nec 
+      <lb ed="#P" n="95"/>otest dici, quod importet principaliter
+      ha<lb ed="#P" n="96" break="no"/>bitudinem principij effectiui, quia tunc con 
+      <lb ed="#P" n="97"/>nenientius construeretur cum patre in recto, 
+      <lb ed="#P" n="98"/>quam cum substantia, cuius contrarium
+      vide<lb ed="#P" n="99" break="no"/>mus, similiter dico de principio formali 
+      <lb ed="#P" n="100"/>quia nunquam videmus, quod in creaturis 
+      <lb ed="#P" n="101"/>Iy de, importet principalius habitudinem ta 
+      <lb ed="#P" n="102"/>is principij, cum ergo haec praeposito de, trans 
+      <lb ed="#P" n="103"/>lata sit ad diuina secundum modum
+      signifi<lb ed="#P" n="104" break="no"/>candi, quem habet in creaturis, si hic non im 
+      <lb ed="#P" n="105"/>portat circumstantiam principij formalis. 
+      <lb ed="#P" n="106"/>nec ibi importabit
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e435">
+               <lb ed="#P" n="107"/>Secundo, si ista praeposito de, dat
+      intelli<lb ed="#P" n="108" break="no"/>gere substantiam in ratione principij
+      forma<lb ed="#P" n="109" break="no"/>lis, vel hoc est prout existit in patre, tanquam 
+      <lb ed="#P" n="110"/>formale principium praecedens generatione; 
+      <lb ed="#P" n="111"/>vel prout existit in filio, tanquam formalis 
+      <lb ed="#P" n="112"/>terminus sequens generationem, si dicatur 
+      <lb ed="#P" n="113"/>primum, sequitur, quod filius, sit de
+      substan<lb ed="#P" n="114" break="no"/>tiae patris ante generationem ipsius, quod est 
+      <!--255.xml-->
+      <pb ed="#P" n="230"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>falsum, quia filius non potest esse de substan 
+      <lb ed="#P" n="2"/>tia patris, antequam sit filius Consequentia 
+      <lb ed="#P" n="3"/>probatur, nam si ly de, denotat substantiam 
+      <lb ed="#P" n="4"/>patris, prout est formale principium in
+      pa<lb ed="#P" n="5" break="no"/>tre praecedens generationem, tunc filius es 
+      <lb ed="#P" n="6"/>set de substantia patris, quia substantia patris 
+      <lb ed="#P" n="7"/>praeexistit gene ationi ipsius, &amp; sic erit de sub 
+      <lb ed="#P" n="8"/>stantia patris, antequam sit filius. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e479">
+               <lb ed="#P" n="9"/>Si autem dicant, quod sit de substantia pa 
+      <lb ed="#P" n="10"/>tris, prout haec subi antia existit in filio, tan 
+      <lb ed="#P" n="11"/>quam formalis terminus sequens
+      generatio<lb ed="#P" n="12" break="no"/>nem, hoc etiam non videtur possibile
+      pro<lb ed="#P" n="13" break="no"/>pter duo, tum quia diuina substantia sic
+      ac<lb ed="#P" n="14" break="no"/>cepta est in filio sub opposito respectu ad pa 
+      <lb ed="#P" n="15"/>trem, &amp; per consequens, vt sic, est ipsius
+      fi<lb ed="#P" n="16" break="no"/>lij, non patris, &amp; sensus esset: filius est de sub 
+      <lb ed="#P" n="17"/>stantia patris, vt non est patris, quod
+      impli<lb ed="#P" n="18" break="no"/>cat contradictionem, tum quia diuina
+      sub<lb ed="#P" n="19" break="no"/>stantia, vt formalis terminus sequens
+      gene<lb ed="#P" n="20" break="no"/>rationem, est aliquid communicatum, &amp; 
+      <lb ed="#P" n="21"/>hoc modo non haberet rationem
+      princi<lb ed="#P" n="22" break="no"/>pij: ista autem praeposito de, semper
+      deno<lb ed="#P" n="23" break="no"/>tat circunstantiam alicuius principij, &amp;
+      ali<lb ed="#P" n="24" break="no"/>cuius causae. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e516">
+               <lb ed="#P" n="25"/>Vlterius modus eorum declarandi non  
+      <lb ed="#P" n="26"/>est sufficiens; nam, quod dicunt, sufficere ad 
+      <lb ed="#P" n="27"/>saluandum filium non esse de nihilo; non
+      vi<lb ed="#P" n="28" break="no"/>detur verum, quia omnis productio ex
+      nihi<lb ed="#P" n="29" break="no"/>lo nihil praesupponit ante productionem; 
+      <lb ed="#P" n="30"/>quae autem est non de nihilo praeexigit ante 
+      <lb ed="#P" n="31"/>se necessario aliquid, quod pertineat
+      intrin<lb ed="#P" n="32" break="no"/>sece ad substantiam ipsius producti: quod 
+      <lb ed="#P" n="33"/>autem praeexigitur, vel habet rationem
+      ter<lb ed="#P" n="34" break="no"/>mini formalis, vel principij materialis, quod 
+      <lb ed="#P" n="35"/>n. pertinet ad substantiam producti, pertinet 
+      <lb ed="#P" n="36"/>altero duorum modorum, primum non pot 
+      <lb ed="#P" n="37"/>dici, quia tum omnis productio sit propter 
+      <lb ed="#P" n="38"/>acquisitionem termini formalis, frustra
+      es<lb ed="#P" n="39" break="no"/>set illa productio, quae praehaberet ante se 
+      <lb ed="#P" n="40"/>terminum formalem: sequitur ergo, quod 
+      <lb ed="#P" n="41"/>productio, quae fit non de nihilo, necessario 
+      <lb ed="#P" n="42"/>praeexigat ante se aliquid in ratione
+      subie<lb ed="#P" n="43" break="no"/>cti, &amp; principij materialis; &amp; quia hoc non 
+      <lb ed="#P" n="44"/>reperitur in diuinis (secundum eos) non
+      vi<lb ed="#P" n="45" break="no"/>deo, quomodo possit saluari, quod non sit 
+      <lb ed="#P" n="46"/>de nihilo. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e567">
+               <lb ed="#P" n="47"/>Ad illud, quod dicunt de forma si praeexi 
+      <lb ed="#P" n="48"/>steret, &amp; materia adueniret, dico qued licet for 
+      <lb ed="#P" n="49"/>ma praeexistens non esset principium
+      mate<lb ed="#P" n="50" break="no"/>riale respectu composit producti; esset tamen 
+      <lb ed="#P" n="51"/>principium materiale respectu ipsius
+      produ<lb ed="#P" n="52" break="no"/>ctionis; quod probo; nam sicut modo
+      mate<lb ed="#P" n="53" break="no"/>ria, &amp; generatio precedit formam, saltem or- 
+      <lb ed="#P" n="54"/>dine naturae, ita tunc e contrario, forma prae 
+      <lb ed="#P" n="55"/>cederet materiam, &amp; ideo sicut modo
+      gene<lb ed="#P" n="56" break="no"/>ratio non potest fundari in forma, quia eam  
+      <lb ed="#P" n="57"/>non praeinuenit, sed eam alteri acquirit, ita 
+      <!--255.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 230 b -->
+               <lb ed="#P" n="58"/>tunc per oppositum, generatio non posset fu 
+      <lb ed="#P" n="59"/>dari in materia, quia eam non praeinueniret,  
+      <lb ed="#P" n="60"/>sed alteri acquireret, fundaretur ergo in for 
+      <lb ed="#P" n="61"/>ma, quam praeinueniret. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e608">
+               <lb ed="#P" n="62"/>Ad aliud de substantia patris, si
+      decidere<lb ed="#P" n="63" break="no"/>tur filius immediate, ex eo; dico quod quis
+      il<lb ed="#P" n="64" break="no"/>lud decisum non se haberet ibi vt principium 
+      <lb ed="#P" n="65"/>materiale, sed vt aliquid productum, substam 
+      <lb ed="#P" n="66"/>tia tamen a qua fit decisio, se haberet vt prin 
+      <lb ed="#P" n="67"/>cipium materiale respectu decisionis, quia ta 
+      <lb ed="#P" n="68"/>lis decisio requirit aliquod subiectum, &amp; sic 
+      <lb ed="#P" n="69"/>modus ponendi huius opinionis videtur
+      ir<lb ed="#P" n="70" break="no"/>rationabilis.  
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e630">
+               <lb ed="#P" n="71"/>Est altera opinio circa hoc, quam ponit 
+      <lb ed="#P" n="72"/>Henricus in summa sua articulo 34. quaest. 3. 
+      <lb ed="#P" n="73"/>vbi vult, quod filius sit de substantia patris,  
+      <lb ed="#P" n="74"/>tanquam de materia, ita quod praeposito
+      de<lb ed="#P" n="75" break="no"/>connotet ibi circunstantiam causae materialis,  
+      <lb ed="#P" n="76"/>&amp; sicut ponit essentiam in filio se habere, 
+      <lb ed="#P" n="77"/>vt principium materiale, ita etiam
+      filiatio<lb ed="#P" n="78" break="no"/>nem debet ponere, vt principium formale¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e650">
+               <lb ed="#P" n="79"/>Hanc opinionem non approbo, quia (vt 
+      <lb ed="#P" n="80"/>dixi superius) essentia non se habet in
+      ratio<lb ed="#P" n="81" break="no"/>ne principij materialis respectu supposit con 
+      <lb ed="#P" n="82"/>stituti, quamuis se habeat, vt materia
+      respe<lb ed="#P" n="83" break="no"/>ctu suae proprietatis. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e663">
+               <lb ed="#P" n="84"/>Praeterea, quaero etiam ab eo vtrum ista pro 
+      <lb ed="#P" n="85"/>posito de, denotet substantiam patris, pro 
+      <lb ed="#P" n="86"/>vt est in patre, vel in filio, &amp; quocunque mo 
+      <lb ed="#P" n="87"/>do respondeat, potest argui contra eum,
+      si<lb ed="#P" n="88" break="no"/>cut arguebatur contra superius adductam opi 
+      <lb ed="#P" n="89"/>nionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e679">
+               <lb ed="#P" n="90"/>Quapropter aliorum pace, videtur mihi 
+      <lb ed="#P" n="91"/>dicendum, quod cum dicitur, filius est de 
+      <lb ed="#P" n="92"/>substantia patris, ly de denotat substantiam 
+      <lb ed="#P" n="93"/>in ratione principij materialis, non quidem 
+      <lb ed="#P" n="94"/>respectu filij constituti, quia sic contradice 
+      <lb ed="#P" n="95"/>rem superius dictis, sed respectu
+      productio<lb ed="#P" n="96" break="no"/>nis, vt sit sensus: Filius est de substantia
+      pa<lb ed="#P" n="97" break="no"/>tris, quia sua productio, vel generatio est de 
+      <lb ed="#P" n="98"/>eius substantia tanquam de materiali
+      prin<lb ed="#P" n="99" break="no"/>cipio; nam (sicut patuit) essentia se habet 
+      <lb ed="#P" n="100"/>vt principium materiale respectu productio 
+      <lb ed="#P" n="101"/>nis filij. Et hoc bene sufficit ad saluandum 
+      <lb ed="#P" n="102"/>filium non esse de nihilo, quia quandocumque 
+      <lb ed="#P" n="103"/>productio alicuius supponit aliquam
+      natu<lb ed="#P" n="104" break="no"/>ram in ratione subiecti, &amp; principij materia 
+      <lb ed="#P" n="105"/>lis, ibi productus dicitur esse non de nihilo 
+      <lb ed="#P" n="106"/>sed de aliqua natura supposita suae
+      produ<lb ed="#P" n="107" break="no"/>ctioni, dato etiam, quod illa natura non per 
+      <lb ed="#P" n="108"/>tineret ad substantiam ipsius producti, sicut  
+      <lb ed="#P" n="109"/>patet de accidente; accidens namque
+      produ<lb ed="#P" n="110" break="no"/>ctum in subiecto dicitur esse non de nihilo; 
+      <lb ed="#P" n="111"/>non quia preexigat ad suam productionem 
+      <lb ed="#P" n="112"/>aliquod materiale principium pertinens ad 
+      <lb ed="#P" n="113"/>eius subsistentiam, sed solum quia
+      praeexi<lb ed="#P" n="114" break="no"/>git aliquod principium materiale, supposi¬ 
+      <!--256.xml-->
+      <pb ed="#P" n="231"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tum suae productioni; vnde dici solet,
+      acci<lb ed="#P" n="2" break="no"/>dens non habere materiam ex qua, sed in 
+      <lb ed="#P" n="3"/>qua: idcirco ne aliquid dicatur esse de nihi 
+      <lb ed="#P" n="4"/>so, sufficit, quod sua productio supponat 
+      <lb ed="#P" n="5"/>aliquam naturam subiectam suae productioni 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e754">
+               <lb ed="#P" n="6"/>In diuinis autem est hoc, &amp; aliquid plus,  
+      <lb ed="#P" n="7"/>primo nanque est ibi productio filij
+      suppo<lb ed="#P" n="8" break="no"/>nens substantiam patris tanquam principium 
+      <lb ed="#P" n="9"/>materiale productionis. Secundo vero
+      sub<lb ed="#P" n="10" break="no"/>stantia patris supposita intrat constitutionem 
+      <lb ed="#P" n="11"/>filij, non tanquam principium materiale, 
+      <lb ed="#P" n="12"/>nec etiam eo modo, quo intrat constitutionem 
+      <lb ed="#P" n="13"/>patris, sed solum ex eo, quod substantia sup 
+      <lb ed="#P" n="14"/>ponitur generationi filij: &amp; sic euadimus
+      il<lb ed="#P" n="15" break="no"/>am difficultatem inductam contra
+      praece<lb ed="#P" n="16" break="no"/>dentes opiniones; nam si quaeratur a me, 
+      <lb ed="#P" n="17"/>vtrum praeposito de, denotet substantia
+      pa<lb ed="#P" n="18" break="no"/>tris, vt est in patre, vel in filio, dico, quod 
+      <lb ed="#P" n="19"/>nec isto, nec illo modo, sed notat
+      substan<lb ed="#P" n="20" break="no"/>tiam patris, prout est supposita generationi 
+      <lb ed="#P" n="21"/>filij ex patre¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e333-d1e791">
+               <lb ed="#P" n="22"/>Nec videtur, quod D. Augustinus aliud 
+      <lb ed="#P" n="23"/>intendat secundo lib contra Maximinum vo 
+      <lb ed="#P" n="24"/>lens Haereticis respondere; nam Heretici 
+      <lb ed="#P" n="25"/>non dubitabant, quod filius esset ex patre; 
+      <lb ed="#P" n="26"/>sed videbatur illis, quod si generatio filij de 
+      <lb ed="#P" n="27"/>bebat esse non de nihilo, oportebat ibi
+      ali<lb ed="#P" n="28" break="no"/>quid supponere in ratione subiecti, &amp; prin 
+      <lb ed="#P" n="29"/>cipij materialis, non enim poterant
+      intelli<lb ed="#P" n="30" break="no"/>gere quomodo posset esse idem: Et ideo pr 
+      <lb ed="#P" n="31"/>Augustinus ostendit esse ipsammet substan 
+      <lb ed="#P" n="32"/>tiam patris generantis, quia si esset alia
+      sub<lb ed="#P" n="33" break="no"/>stantia, vel natura; iam non esset verus filius 
+      <lb ed="#P" n="34"/>vt Deatus P. Augustinus concludit contra 
+      <lb ed="#P" n="35"/>eos in auctoritate superius allegata.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

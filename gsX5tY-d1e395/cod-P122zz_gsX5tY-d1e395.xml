@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="262-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e395"> <!-- l1d8q1 -->
+            <head xml:id="gsX5tY-d1e395-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e395-Hd1e112" type="question-title">Utrum in Deo sit aliqua realis compositio</head>
+            <p xml:id="gsX5tY-d1e395-d1e115">
+               <lb ed="#P" n="6"/>DISTINCTIONIS OCTAVae. 
+      <lb ed="#P" n="7"/>QVAESTIO PRIMA. 
+      <lb ed="#P" n="8"/>Vtrum in Deo sit aliqua realis composito.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e124">
+               <lb ed="#P" n="9"/>ARGVITVR AD PARTEM 
+      <lb ed="#P" n="10"/>affimantem. 
+      <lb ed="#P" n="11"/>1 Qlcut se habet prima materia ad formam.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e134">
+               <lb ed="#P" n="12"/>2ita prima forma ad materiam: materia 
+      <lb ed="#P" n="13"/>an. &amp; forma dicuntur relatiue ex 2. phys. 
+      <lb ed="#P" n="14"/>sed impossibile est primam mam manere absqu  
+      <lb ed="#P" n="15"/>aliqua forma, vt habetur 2. de Cen. ergo im 
+      <lb ed="#P" n="16"/>possibile est primam formam esse sine aliqua 
+      <lb ed="#P" n="17"/>materia. Sed Deus est prima forma, ergo est 
+      <lb ed="#P" n="18"/>compositus ex materia, &amp; forma. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e152">
+               <lb ed="#P" n="19"/>2 Quod est comparabile alicui sm Maius 
+      <lb ed="#P" n="20"/>&amp; Minus, est compositum ex partibs quanti 
+      <lb ed="#P" n="21"/>tatiuis, Deus est huiusmodi, ergo. Probatur 
+      <lb ed="#P" n="22"/>Maior ex Arist. primo phys. dicente, quod 
+      <lb ed="#P" n="23"/>talis comparatio non potest fieri, nisi inter 
+      <lb ed="#P" n="24"/>ea quae sunt eiusdem rationis. Minor
+      habe<lb ed="#P" n="25" break="no"/>tur lob xi. Excelsior caelo est, &amp; quid facies;  
+      <lb ed="#P" n="26"/>profundior inferno, &amp; vnde cognosces:
+      lon<lb ed="#P" n="27" break="no"/>gior terra mensura eius, &amp; latior mare.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e174">
+               <lb ed="#P" n="28"/>3 Substantia vere dicitur a subsistendo 
+      <lb ed="#P" n="29"/>accidentibus: Deus autem proprijssime ess 
+      <lb ed="#P" n="30"/>substantia, vt patet, ergo est compositus ex sub 
+      <lb ed="#P" n="31"/>iecto, &amp; accidente
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e185">
+               <lb ed="#P" n="32"/>4 Secundum Arist. octauo phys. est
+      de<lb ed="#P" n="33" break="no"/>nenire ad aliquod primum mobile, quod mo 
+      <lb ed="#P" n="34"/>ueatur ab alio, hoc autem est corpus
+      Caele<lb ed="#P" n="35" break="no"/>ste, quod quidem secundum Auer: in de sub 
+      <lb ed="#P" n="36"/>stantia orbis, compositum est ex motore, &amp; 
+      <lb ed="#P" n="37"/>moto: Sed iste motor non potest esse nisi pri 
+      <lb ed="#P" n="38"/>mus, qui est Deus; nam corpus primo
+      mo<lb ed="#P" n="39" break="no"/>tum non potest moueri nisi a primo
+      moto<lb ed="#P" n="40" break="no"/>re, ergo &amp;c.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e207">
+               <lb ed="#P" n="41"/>3 Vbicunque est numeratiua connexio, ibi 
+      <lb ed="#P" n="42"/>est aliqua composito, sed connexio numera 
+      <lb ed="#P" n="43"/>tiua est inter Deum, &amp; vniuersum, ergo &amp;c. 
+      <lb ed="#P" n="44"/>Minorem probo, per Aristo. 12. metaph vbi 
+      <lb ed="#P" n="45"/>vult quod vniuersum se habeat ad Deum 
+      <lb ed="#P" n="46"/>sicut exercitus ad Ducem, &amp; per consequens,  
+      <lb ed="#P" n="47"/>sicut connexio militum cum exercitu non 
+      <!--286.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 261 b -->
+               <lb ed="#P" n="48"/>potest esse sine connexione totius exercitus 
+      <lb ed="#P" n="49"/>ad Ducem; ita connexio inter partes vniuer 
+      <lb ed="#P" n="50"/>si non potest saluari absque connexione totius 
+      <lb ed="#P" n="51"/>vniuersi cum Deo. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e240">
+               <lb ed="#P" n="52"/>ARGVITVR PRO PART 
+      <lb ed="#P" n="53"/>affirmatiun.  
+      <lb ed="#P" n="54"/>PRimo auctoritate <quote xml:id="gsX5tY-d1e395-Qd1e248">D Patris August. ry 
+        <lb ed="#P" n="55"/>4 de Trinit. cap. 15.</quote> dicentis, quod Deui 
+      <lb ed="#P" n="56"/>vere est summe simplex 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e257">
+               <lb ed="#P" n="57"/>Praeterea, omne compositum dependent a 
+      <lb ed="#P" n="58"/>componentibus partibus: Deus a nullo
+      de<lb ed="#P" n="59" break="no"/>pendet, cum sit primum ens independetis) 
+      <lb ed="#P" n="60"/>ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e268">
+               <lb ed="#P" n="61"/>RESPONDEO: in ista questionem 
+      <lb ed="#P" n="62"/>quinque sunt videnda, quae etiam tanguntur 
+      <lb ed="#P" n="63"/>in argumentis adductis. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e277">
+               <lb ed="#P" n="64"/>1 An Deus sit compositus ex materiam 
+      <lb ed="#P" n="65"/>&amp; forma. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e284">
+               <lb ed="#P" n="66"/>2 An compositus sit ex partibus
+      quan<lb ed="#P" n="67" break="no"/>titatiuis. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e291">
+               <lb ed="#P" n="68"/>3 An componatur ficut substantia cum 
+      <lb ed="#P" n="69"/>accidente. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e298">
+               <lb ed="#P" n="70"/>4 An sicut motor cum mobili.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e304">
+               <lb ed="#P" n="71"/>3 An componatur Deus cum vniuerso, si 
+      <lb ed="#P" n="72"/>cut cum eo quod est ad finem.  
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e311">
+               <lb ed="#P" n="73"/>ARTICVLVS PRIMI 
+      <lb ed="#P" n="74"/>An Deus sit compositus ex materia, &amp; forma 
+      <lb ed="#P" n="75"/>P GEIMfuius cuidentiam est primo intens 
+      <lb ed="#P" n="76"/>gendum, quae composito sit illa, qua 
+      <lb ed="#P" n="77"/>est ex materia, &amp; forma: nam quidam
+      arbi<lb ed="#P" n="78" break="no"/>trantur, quod materia, &amp; forma sic
+      compo<lb ed="#P" n="79" break="no"/>nantur adinuicem, quod constituanit
+      quan<lb ed="#P" n="80" break="no"/>dam tertiam naturam, quam vocant formam 
+      <lb ed="#P" n="81"/>totius; &amp; hanc dicunt esse aliquod resultans 
+      <lb ed="#P" n="82"/>ex coniunctione materiae cum forma: itaqu 
+      <lb ed="#P" n="83"/>nec est forma, nec materia, nec etiam ipsum 
+      <lb ed="#P" n="84"/>compositum, sed quid aliud resultas ex vnib 
+      <lb ed="#P" n="85"/>ne illarum partium. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e342">
+               <lb ed="#P" n="86"/>Quod non sit materia, nec forma satis
+      pa<lb ed="#P" n="87" break="no"/>tet, quia resultat ex eis: quod autem non fit 
+      <lb ed="#P" n="88"/>psum compositum facile probatur, eo quod 
+      <lb ed="#P" n="89"/>est forma composit, nihil autem est forma 
+      <lb ed="#P" n="90"/>sui ipsius, ergo erit diuersa a composito, 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e355">
+               <lb ed="#P" n="91"/>Probant autem hanc eorum sententiam  
+      <lb ed="#P" n="92"/>tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e362">
+               <lb ed="#P" n="93"/>Primo quia compositum ex materia, &amp;  
+      <lb ed="#P" n="94"/>forma habet quidditatem definibilem; non 
+      <lb ed="#P" n="95"/>potest autem dici, quod ista quidditas sit
+      ip<lb ed="#P" n="96" break="no"/>sa natura composit, quia tunc quidditas
+      ha<lb ed="#P" n="97" break="no"/>beret quidditatem, &amp; compositum haberet 
+      <lb ed="#P" n="98"/>seipsum, cum habeatsuam naturam: nec etiam 
+      <!--287.xml-->
+      <pb ed="#P" n="262"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>potest dici, quod ista quidditas definibilis sit 
+      <lb ed="#P" n="2"/>sola materia; quia tunc forma non caderet 
+      <lb ed="#P" n="3"/>in definitione: nec etiam sola forma, quia tuc 
+      <lb ed="#P" n="4"/>materia non poneretur in definitione; quod 
+      <lb ed="#P" n="5"/>totum est falsum; ergo sequitur quod illa quid 
+      <lb ed="#P" n="6"/>ditas sit quid resultans ex vtrisque.¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e397">
+               <lb ed="#P" n="7"/>Secundo probatur idem ex differentia quae 
+      <lb ed="#P" n="8"/>est inter vnionem materiae cum forma
+      sub<lb ed="#P" n="9" break="no"/>tantiali, &amp; subiecti cum accidente: nam vide 
+      <lb ed="#P" n="10"/>mus, quod in illa vnione subiecti cum
+      acci<lb ed="#P" n="11" break="no"/>dente non resultat tertium quid distinctum 
+      <lb ed="#P" n="12"/>ab eis, praeter ipsammet compositonem, vel 
+      <lb ed="#P" n="13"/>compositum, ergo debet in ista vnione substam 
+      <lb ed="#P" n="14"/>tiasi aliquid aliud resultare, cum haec sit
+      ma<lb ed="#P" n="15" break="no"/>ior vnio, quam illae, hoc autem non est nisi 
+      <lb ed="#P" n="16"/>tertia quaedam natura, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e422">
+               <lb ed="#P" n="17"/>Tertio, probatur per illud quod videmus 
+      <lb ed="#P" n="18"/>in vnione elementorum, ex quibus resultat 
+      <lb ed="#P" n="19"/>quaedam natura media, quae nec est omnia
+      il<lb ed="#P" n="20" break="no"/>la, nec aliquod illorum; ergo ita erit in
+      pro<lb ed="#P" n="21" break="no"/>posito, resultabit enim tertia quaedam
+      natu<lb ed="#P" n="22" break="no"/>ra ex vnione naturae cum forma, quae nec erit 
+      <lb ed="#P" n="23"/>materia, nec forma, nec compositum.  
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e440">
+               <lb ed="#P" n="24"/>His tamen non obstantibus puto hac
+      sen<lb ed="#P" n="25" break="no"/>tentiam esse falsam, praecipue propter tria 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e447">
+               <lb ed="#P" n="26"/>Primo, quia videtur contra intentionem 
+      <lb ed="#P" n="27"/>Arist. 2. physic. vbi determinat de natura, &amp;  
+      <lb ed="#P" n="28"/>de habente naturam, nullam tamen
+      mentio<lb ed="#P" n="29" break="no"/>nem ibi facit de huiusmodi tertia natura, im 
+      <lb ed="#P" n="30"/>mo pter materiam, &amp; formam nullum aliam dat 
+      <lb ed="#P" n="31"/>naturam, &amp; ipsum compositum non
+      appel<lb ed="#P" n="32" break="no"/>lat naturam, sed habens naturam, &amp; in
+      secu<lb ed="#P" n="33" break="no"/>do de qnima diuidens substantiam, tres tantum 
+      <lb ed="#P" n="34"/>enumerat, materiam scilicet, formam, &amp; com 
+      <lb ed="#P" n="35"/>positum, quam diuisionem respetit in 7. &amp; 
+      <lb ed="#P" n="36"/>t 2. Metaph si autem daretur haec tertiam
+      na<lb ed="#P" n="37" break="no"/>tura, tunc debuisset Arist. diuidere
+      substan<lb ed="#P" n="38" break="no"/>tiam in quatuor; si illa esset substantia; alia: 
+      <lb ed="#P" n="39"/>eius diuisio esset diminuta.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e480">
+               <lb ed="#P" n="40"/>Secundo, si daretur huiuimodi tertia
+      na<lb ed="#P" n="41" break="no"/>tura, vel esset simplex, vel composita, si
+      sim<lb ed="#P" n="42" break="no"/>plex, tunc, vel esset eiusdem rationis cum ma 
+      <lb ed="#P" n="43"/>teria, vel cum forma, quia non datur alia sub 
+      <lb ed="#P" n="44"/>stantia simplex; si primum dicatur, tunc erum 
+      <lb ed="#P" n="45"/>duae materiae in composito, si secundum, tumc 
+      <lb ed="#P" n="46"/>duae formae substantiales, quod est absurdum 
+      <lb ed="#P" n="47"/>si sit substantia composita antequam illa ad 
+      <lb ed="#P" n="48"/>ueniat, iam compositum haberet essc
+      com<lb ed="#P" n="49" break="no"/>positum, &amp; sic frustra esset illa 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e504">
+               <lb ed="#P" n="50"/>Tertio, quocunque modo dicatur, siue quod 
+      <lb ed="#P" n="51"/>sit simplex, siuc composita, dato quod
+      infor<lb ed="#P" n="52" break="no"/>met ipsum eompositum, cum ponatur esse for 
+      <lb ed="#P" n="53"/>ma totius, quro ab eis, vel informabit ipsum 
+      <lb ed="#P" n="54"/>compositum, seu totum, sicut accidens
+      infor<lb ed="#P" n="55" break="no"/>mat substantiam, vel sicut forma
+      substan<lb ed="#P" n="56" break="no"/>tialis informat materiam: si dicatur
+      pri<lb ed="#P" n="57" break="no"/>mum, tunc quemadmodum substantia cum 
+      <!--287.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 262 b -->
+               <lb ed="#P" n="58"/>accidente facit vnum ens per accidens; ita 
+      <lb ed="#P" n="59"/>compositum cum ista forma totius faciet
+      v<lb ed="#P" n="60" break="no"/>num ens per accidens; quod videtur
+      absur<lb ed="#P" n="61" break="no"/>dum, eo quod pertinent ad idem genus, &amp;  
+      <lb ed="#P" n="62"/>ad eandem speciem cum forma sua; si vero 
+      <lb ed="#P" n="63"/>dicatur secundum, tunc sicuti ex vnione ma 
+      <lb ed="#P" n="64"/>teriae cum forma resultat lista tertia
+      natu<lb ed="#P" n="65" break="no"/>ra, ita ex vnione ipsius formae totius cum 
+      <lb ed="#P" n="66"/>composito (est enim quid diuersum ab eo) re 
+      <lb ed="#P" n="67"/>sultabit quaedam alia natura, &amp; ex illa altera, 
+      <lb ed="#P" n="68"/>&amp; sic dabitur processus infinitus in
+      huius<lb ed="#P" n="69" break="no"/>modi naturis.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e556">
+               <lb ed="#P" n="70"/>Standum est ergo in primo modo, &amp; dice 
+      <lb ed="#P" n="71"/>dum est, quod materia; &amp; forma vniuntum; 
+      <lb ed="#P" n="72"/>ad inuicem, non ad constituendum tertiam 
+      <lb ed="#P" n="73"/>naturam, sed solum ipsum compositum, quod 
+      <lb ed="#P" n="74"/>quidem non est natura, sed habens naturam, 
+      <lb ed="#P" n="75"/>per Arist. 2. Physic. Vnde si quaeratur quid 
+      <lb ed="#P" n="76"/>est forma totius, dico, quod per formam
+      to<lb ed="#P" n="77" break="no"/>tius possum intelligere ipsammet formam
+      par<lb ed="#P" n="78" break="no"/>tis, quae quidem dicitur forma ipartis, in quam 
+      <lb ed="#P" n="79"/>tum ipsa est natura, potest autem dici forma 
+      <lb ed="#P" n="80"/>totius, inquantum per illam totum composi 
+      <lb ed="#P" n="81"/>tum est vnum ens in actu. Vel potest
+      secun<lb ed="#P" n="82" break="no"/>do dici, quod forma totius est ipsummet
+      to<lb ed="#P" n="83" break="no"/>tum compositum, vt sit constructio
+      intransi<lb ed="#P" n="84" break="no"/>tiua, scilicet forma totius est forma, quae est 
+      <lb ed="#P" n="85"/>totum, &amp; dicitur hoc modo forma, non ab in 
+      <lb ed="#P" n="86"/>formando, sicut illa, quae est natura, sed ab
+      a<lb ed="#P" n="87" break="no"/>ctu existendo, quia totum compositum aliud 
+      <lb ed="#P" n="88"/>existit; quamuis altera eius pars sit tantum 
+      <lb ed="#P" n="89"/>actus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e603">
+               <lb ed="#P" n="90"/>Pot tertio dici, quod forma totius sit ipsumet 
+      <lb ed="#P" n="91"/>compositum prout abstrahitur per intellectum a 
+      <lb ed="#P" n="92"/>conditionibus indiuiduantib, &amp; vocatur hoc 
+      <lb ed="#P" n="93"/>mod forma, non quod sit proprie forma, sed  
+      <lb ed="#P" n="94"/>quia habet similitudinem quandam cum for 
+      <lb ed="#P" n="95"/>ma, ex eo quod abstrahita conditionibus ma 
+      <lb ed="#P" n="96"/>teriae ad modum formae. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e621">
+               <lb ed="#P" n="97"/>Argumenta autem superius inducta
+      faci<lb ed="#P" n="98" break="no"/>le soluuntur. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e628">
+               <lb ed="#P" n="99"/>Ad primum cum dicebatur, quod compo 
+      <lb ed="#P" n="100"/>situm habet quidditatem, &amp;c. Dico, quod non 
+      <lb ed="#P" n="101"/>habet aliam quidditatem, quam ipsam forman 
+      <lb ed="#P" n="102"/>partis, non enim habet propriam quidditaten 
+      <lb ed="#P" n="103"/>definibilem, quia definitiones significant
+      con<lb ed="#P" n="104" break="no"/>posite, vt dicit Comm. 7. Metaph Com. qo. 
+      <lb ed="#P" n="105"/>propter quod non definitur quidditas, sed  
+      <lb ed="#P" n="106"/>habens quidditatem. Nec obstat si dicatur, quod 
+      <lb ed="#P" n="107"/>quidditas in substantijs est idem cum eo
+      cu<lb ed="#P" n="108" break="no"/>ius est quidditas, secundum Arist. 2.
+      Metaph<lb ed="#P" n="109" break="no"/>nam quidditas pro tanto dicitur esse idem 
+      <lb ed="#P" n="110"/>cum eo cuius est quidditas, non quia sit idem 
+      <lb ed="#P" n="111"/>simpliciter quod compositum, sed quia est 
+      <lb ed="#P" n="112"/>idem, quod eius forma intrinseca; &amp; comple 
+      <lb ed="#P" n="113"/>ctiua secundum Auer. 8. Meta. Com. 20. vbi 
+      <lb ed="#P" n="114"/>ait, quod quidditas hominis est homo, vno mo 
+      <!--288.xml-->
+      <pb ed="#P" n="263"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>do, &amp; non home alio modo, idest est forma 
+      <lb ed="#P" n="2"/>hominis, &amp; non est homo aggregatus ex ma 
+      <lb ed="#P" n="3"/>teria, &amp; forma. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e678">
+               <lb ed="#P" n="4"/>Ad secundam, cum dicitur, quod vnio ma 
+      <lb ed="#P" n="5"/>teriae cum forma est maior vnione subiecti 
+      <lb ed="#P" n="6"/>cum accidente, Concedo, sed ex hoc non ha 
+      <lb ed="#P" n="7"/>betur, quod debeat resultare tertia natura; 
+      <lb ed="#P" n="8"/>sed solum maior vnitas, quod est verum, nam  
+      <lb ed="#P" n="9"/>tanta vnione hae duae partes coniunguntui 
+      <lb ed="#P" n="10"/>adinuicem, quod compositum ex eis est vnum 
+      <lb ed="#P" n="11"/>ens secundum actum, &amp; duo secundum
+      po<lb ed="#P" n="12" break="no"/>tentiam: est tamen notandum, quod ista vnitas 
+      <lb ed="#P" n="13"/>non prouenit ex eo quod realitas materiae, 
+      <lb ed="#P" n="14"/>vel formae transeant in quandam tertiam rea 
+      <lb ed="#P" n="15"/>litatem, sicut imaginantur quidam, sed ex eo 
+      <lb ed="#P" n="16"/>tantum, quod compositum accipit
+      comple<lb ed="#P" n="17" break="no"/>mentum suae entitatis, &amp; vnitatis per formam; 
+      <lb ed="#P" n="18"/>quae est vna; licet enim duas habeat
+      realita<lb ed="#P" n="19" break="no"/>tes: altera tamen earum scilicet materia est 
+      <lb ed="#P" n="20"/>incompleta, &amp; secundum potentiam.
+      Colligi<lb ed="#P" n="21" break="no"/>tur ergo, quod per solam formam habeat
+      v<lb ed="#P" n="22" break="no"/>num essc completum secundum quod
+      dici<lb ed="#P" n="23" break="no"/>tur vnum, quia forma est vna: &amp; hoc
+      tan<lb ed="#P" n="24" break="no"/>git Comment 7. Met comm. 8. compositum 
+      <lb ed="#P" n="25"/>vero ex subiecto, &amp; accidente non est vnum 
+      <lb ed="#P" n="26"/>ens secundum actum, duas habes realitate 
+      <lb ed="#P" n="27"/>actu, formam scilicet substantialem, &amp; formam 
+      <lb ed="#P" n="28"/>accidentalem, quarum quaelibet dat esse
+      com<lb ed="#P" n="29" break="no"/>pletum secundum suum genus, &amp; suam
+      spe<lb ed="#P" n="30" break="no"/>ciem, &amp; si definiretur tale, puta homo albus.  
+      <lb ed="#P" n="31"/>definiretur necessario duabus definitionibus 
+      <lb ed="#P" n="32"/>hominis scilicet, &amp; albedinis, compositum ve 
+      <lb ed="#P" n="33"/>ro substantiale, quia vnicam habet actualita 
+      <lb ed="#P" n="34"/>tem, vnica definitur definitione. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e748">
+               <lb ed="#P" n="35"/>Ad tertiam dico, quod magis arguit oppo 
+      <lb ed="#P" n="36"/>situm, quam propositum, nam ideo ex elemen 
+      <lb ed="#P" n="37"/>tis resultat forma media, quia sunt contraria 
+      <lb ed="#P" n="38"/>&amp; habent distinctas actualitates, propter quod 
+      <lb ed="#P" n="39"/>ex eis non potest constitui vnum mixtum 
+      <lb ed="#P" n="40"/>nisi adueniat forma media, per quam mistum 
+      <lb ed="#P" n="41"/>habet vnitatem: quae quidem forma habet 
+      <lb ed="#P" n="42"/>etiam detinere elementa in misto, nam disolue 
+      <lb ed="#P" n="43"/>tur, vt dicit Arist. 2. de anima : Compositum 
+      <lb ed="#P" n="44"/>vero ex materia, &amp; forma non habet nisi vnam 
+      <lb ed="#P" n="45"/>actualitatem formae substantialis, per quam  
+      <lb ed="#P" n="46"/>est vnum ens in actu, propter quod non est 
+      <lb ed="#P" n="47"/>necesse ibi ponere aliquam aliam naturam, 
+      <lb ed="#P" n="48"/>sic ergo patet qualis sit vnio materiae cum
+      for<lb ed="#P" n="49" break="no"/>ma substantiali. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e783">
+               <lb ed="#P" n="50"/>Ex his apparet, quod in composito est de 
+      <lb ed="#P" n="51"/>pendentia ex parte materiae, ex parte compo 
+      <lb ed="#P" n="52"/>siti, &amp; etiam ex parte formae: dependet enim 
+      <lb ed="#P" n="53"/>a forma, quia perficitur, &amp; est in actu per
+      il<lb ed="#P" n="54" break="no"/>lam, vt dicit comm. 1. Met, com. 7. causa
+      a<lb ed="#P" n="55" break="no"/>ctus in composito est forma: item forma
+      ali<lb ed="#P" n="56" break="no"/>quo modo dependet a composito, &amp; per con 
+      <lb ed="#P" n="57"/>sequens a materia, quia est pars composit, 
+      <!--288.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 263 b -->
+               <lb ed="#P" n="58"/>propter quod non potest habere suum esse  
+      <lb ed="#P" n="59"/>actu, nisi in composito, vt dicit Com: &amp; Met 
+      <lb ed="#P" n="60"/>c. 10. quod quidditates non sunt actus, nisi 
+      <lb ed="#P" n="61"/>per esse rerum quidditates habentium: a ma 
+      <lb ed="#P" n="62"/>teria vero dependet, quia substentatur prea¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e821">
+               <lb ed="#P" n="63"/>Ad propositum ergo de huiusmodi
+      com<lb ed="#P" n="64" break="no"/>positone in Deo respondetur, quod in eo non 
+      <lb ed="#P" n="65"/>est talis composito; nam quod est summe 
+      <lb ed="#P" n="66"/>perfectum, nullam includit imperfectionem, 
+      <lb ed="#P" n="67"/>vel defectu, sed Deus est summe perfectus,  
+      <lb ed="#P" n="68"/>composito autem ex materia, &amp; forma dicit 
+      <lb ed="#P" n="69"/>imperfectionem, tam ex parte composit, quam 
+      <lb ed="#P" n="70"/>ex parte componibilium, ergo &amp;c. Maior est 
+      <lb ed="#P" n="71"/>nota, &amp; minor patet ex dictis quantum ad
+      v<lb ed="#P" n="72" break="no"/>nam parte, scilicet quod compositum dicat 
+      <lb ed="#P" n="73"/>imperfectionem, &amp; etiam componibilia,
+      pro<lb ed="#P" n="74" break="no"/>ter mutuam illorum inter se necessariam
+      de<lb ed="#P" n="75" break="no"/>pendentiam, ideo probo eam quo ad aliam par 
+      <lb ed="#P" n="76"/>tem, quod Deus sit summe perfectus, nam si 
+      <lb ed="#P" n="77"/>cut illud, quod est mensura in aliquo
+      gene<lb ed="#P" n="78" break="no"/>re, est summe perfectum in illo, ita quod est me 
+      <lb ed="#P" n="79"/>sura in toto genere entis, debet esse
+      simplici<lb ed="#P" n="80" break="no"/>ter, &amp; vniuersaliter perfectum. Deus antem 
+      <lb ed="#P" n="81"/>est mensura totius entis, secundum Aristo. 
+      <lb ed="#P" n="82"/>&amp; Commen. 10. Met, quia est primum ens; 
+      <lb ed="#P" n="83"/>ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e869">
+               <lb ed="#P" n="84"/>Secundo, si Deus esset compositus ex
+      ma<lb ed="#P" n="85" break="no"/>teria, &amp; forma haberet supra se aliquam cau 
+      <lb ed="#P" n="86"/>lam efficientem, quod est falsum, quia per ip 
+      <lb ed="#P" n="87"/>sum Deum omnes intelligunt primum ens, 
+      <lb ed="#P" n="88"/>&amp; primam causam, consequentiam probo, 
+      <lb ed="#P" n="89"/>quia materia non est de se actu sub forma cum 
+      <lb ed="#P" n="90"/>sit in potentia ad eam, nisi per aliquod agens 
+      <lb ed="#P" n="91"/>reducatur ad esse actu sub illa; non potest 
+      <lb ed="#P" n="92"/>aut seipsam reducere de potentia ad actum, 
+      <lb ed="#P" n="93"/>quia simul esset in actu, &amp; in potentia, non 
+      <lb ed="#P" n="94"/>potest effectiue per formam reduci ad talem  
+      <lb ed="#P" n="95"/>actum, quia tunc forma seipsam extraheret 
+      <lb ed="#P" n="96"/>de potentia ad materiam, ergo requiritur ali 
+      <lb ed="#P" n="97"/>qua causa effectiua extrinseca, a qua fiat
+      ta<lb ed="#P" n="98" break="no"/>is cumposito, non enim efficit seipsam, nec 
+      <lb ed="#P" n="99"/>efficitur a componibilibus, cum sit in
+      poten<lb ed="#P" n="100" break="no"/>tia ad eam, restat ergo, quod composito ma 
+      <lb ed="#P" n="101"/>teriae, cum forma in quocunque reperiatur. 
+      <lb ed="#P" n="102"/>habeat causam effectiuam extrinsecam, a qua 
+      <lb ed="#P" n="103"/>depedeat, quod primo enti, scilicet Deo
+      be<lb ed="#P" n="104" break="no"/>nedicto simpliciter repugnat. Et ideo non 
+      <lb ed="#P" n="105"/>est in eo talis composito. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e919">
+               <lb ed="#P" n="106"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="107"/>An Deus sit compositus ex partibus 
+      <lb ed="#P" n="108"/>quantitatis.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e928">
+               <lb ed="#P" n="109"/>REspondeo, quod hoc potest intelligi 
+      <lb ed="#P" n="110"/> duobus modis, primo an sit quantus 
+      <!--289.xml-->
+      <pb ed="#P" n="264"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pese, sicut corpus, secundo an sit quantus per 
+      <lb ed="#P" n="2"/>accidens, sicut virtus in corpore per accidens 
+      <lb ed="#P" n="3"/>extensa, &amp; vtraque composito repugnat Deo,  
+      <lb ed="#P" n="4"/>primum probo tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e950">
+               <lb ed="#P" n="5"/>Primo si Deus esset quantus, sicut corpus,  
+      <lb ed="#P" n="6"/>sequeretur, quod non esset primum ens
+      im<lb ed="#P" n="7" break="no"/>mobile, quod est falsum. Consequentia patet,  
+      <lb ed="#P" n="8"/>quia omne corpus est mobile: falsitatem pro 
+      <lb ed="#P" n="9"/>bo, quia in mouentibus, &amp; motis non est. pro 
+      <lb ed="#P" n="10"/>cedere in infinitum iat patet 3. phys ideo
+      o<lb ed="#P" n="11" break="no"/>portet deuenire ad vnum primum ens
+      im<lb ed="#P" n="12" break="no"/>mobile, &amp; hoc est Deus (secundum omnes. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e970">
+               <lb ed="#P" n="13"/>Secundo sequeretur, quod Deus non
+      es<lb ed="#P" n="14" break="no"/>set actus purus, consequentia patet, quia in 
+      <lb ed="#P" n="15"/>composito est triplex potentia, vna materiae 
+      <lb ed="#P" n="16"/>quae est in potentia vt subiectum, quod infor 
+      <lb ed="#P" n="17"/>matur, alia, qua partes eius sunt in potentia 
+      <lb ed="#P" n="18"/>ad totum, &amp; tertia, qua totum est in
+      poten<lb ed="#P" n="19" break="no"/>tia. ad partes, quia sibi non repugnat diuisio:  
+      <lb ed="#P" n="20"/>Falsitatem probo, quia primo enti conuenit 
+      <lb ed="#P" n="21"/>esse purum actum, nam si esset aliquo modo 
+      <lb ed="#P" n="22"/>in potentia, esset aliquod ens prius eo, quod 
+      <lb ed="#P" n="23"/>est falsum, semper enim actus simplex est 
+      <lb ed="#P" n="24"/>prior potentia, ut patet 5. Metaph¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1000">
+               <lb ed="#P" n="25"/>Tertio sequeretur, quod non esset simpli 
+      <lb ed="#P" n="26"/>citer ens nobilissimum, probo consequentiam, 
+      <lb ed="#P" n="27"/>quia vel esset corpus viuens, vel non, si non 
+      <lb ed="#P" n="28"/>viuens, corpora viuentia essent nobiliora eo 
+      <lb ed="#P" n="29"/>si vero viuens, tunc anima per quam viueret 
+      <lb ed="#P" n="30"/>esset nobilior, sic ergo patet Deum non esse 
+      <lb ed="#P" n="31"/>quantum sicuti corpus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1018">
+               <lb ed="#P" n="32"/>Vlterius probo quod non sit quantus per 
+      <lb ed="#P" n="33"/>accidens, sicut virtus in corpore per accidens 
+      <lb ed="#P" n="34"/>extensa, &amp; hoc tripliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1027">
+               <lb ed="#P" n="35"/>Primo, quia sequeretur quod non esset 
+      <lb ed="#P" n="36"/>primum ens immobile, sicut sequebatur prius. 
+      <lb ed="#P" n="37"/>si fuisset quantus per se, nam sicut se habet 
+      <lb ed="#P" n="38"/>aliquid ad esse quantum, ita se habet ad
+      mo<lb ed="#P" n="39" break="no"/>ueri, vel posse moueri, ergo sicut quantum 
+      <lb ed="#P" n="40"/>per se potest moueri per se, sic quantum per 
+      <lb ed="#P" n="41"/>accidens poterit moueri per accidens 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1045">
+               <lb ed="#P" n="42"/>Secundo sequeretur eodem modo, quod 
+      <lb ed="#P" n="43"/>non esset actus purus, quia omnis forma ex. 
+      <lb ed="#P" n="44"/>tensa est actus iunctus potentiae, quae incon 
+      <lb ed="#P" n="45"/>uenientia sequerentur etiam si esset virtus in 
+      <lb ed="#P" n="46"/>corpore, dato quod non esset extensa, sicui 
+      <lb ed="#P" n="47"/>anima nostra, quae nihilominus est actus ali 
+      <lb ed="#P" n="48"/>quo modo potentiae admixtus, &amp; per
+      acci<lb ed="#P" n="49" break="no"/>dens mouetur ad motum corporis. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1065">
+               <lb ed="#P" n="50"/>Tertio per Arist. 8. phys. Deus habet
+      vir<lb ed="#P" n="51" break="no"/>tutem infinitam, ergo non potest, fundari in 
+      <lb ed="#P" n="52"/>aliqua magnitudine, &amp; per consequens non 
+      <lb ed="#P" n="53"/>erit quantus per accidens, pro consequentia 
+      <lb ed="#P" n="54"/>adduco rationem Arist. qui sic arguit, si vir 
+      <lb ed="#P" n="55"/>tus infinita fundaretur in aliqua magnitudi 
+      <lb ed="#P" n="56"/>ne, vel illa esset infinita, vel finita, non enim 
+      <lb ed="#P" n="57"/>datur media, non potest dici infinita, quia ta 
+      <!--289.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 264 b -->
+               <lb ed="#P" n="58"/>lis magnitudo non datur, vt ostensum est 8. 
+      <lb ed="#P" n="59"/>phys. &amp; primo caeli: non potest dici finitati,  
+      <lb ed="#P" n="60"/>da virtus fundata in magnitudine consequi 
+      <lb ed="#P" n="61"/>tur augumentum, &amp; decrementum illius, cum 
+      <lb ed="#P" n="62"/>ergo magnitudini finitae non repugnet augu 
+      <lb ed="#P" n="63"/>mentum, sic virtuti infinitae non repugnaret 
+      <lb ed="#P" n="64"/>accretio virtutis, quod est impossibile, quia 
+      <lb ed="#P" n="65"/>tunc datetur infinitum maius infinito.  
+      <lb ed="#P" n="66"/>Sed dices, si haec ratio esset vera sequere 
+      <lb ed="#P" n="67"/>tur quod virtus corporis caelestis sit finita, 
+      <lb ed="#P" n="68"/>vel terminata, &amp; sic non poterit durare por 
+      <lb ed="#P" n="69"/>infinitum tempus, quia nulla virtus finita ex 
+      <lb ed="#P" n="70"/>tendit se ad tempus infinitum, hoc autem est 
+      <lb ed="#P" n="71"/>falsum, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1122">
+               <lb ed="#P" n="72"/>Huic dubitationi respondent aliqui, vt tam 
+      <lb ed="#P" n="73"/>git Comment. 1 2. Metaph com. o. dicendo, 
+      <lb ed="#P" n="74"/>quod celum durat infinito tempore, non per 
+      <lb ed="#P" n="75"/>virtutem propriam, quia finita est, sed per 
+      <lb ed="#P" n="76"/>virtutem primi principij conseruantis ipsum 
+      <lb ed="#P" n="77"/>iniesse, cum sit infinita, &amp; sic virtus caeli secun 
+      <lb ed="#P" n="78"/>dum se, non est infinita, relata tamen in
+      vir<lb ed="#P" n="79" break="no"/>tutem primi principij, poterit ab illo
+      recipe<lb ed="#P" n="80" break="no"/>re infinitatem, quae solutio videtur Platonis 
+      <lb ed="#P" n="81"/>in Tvmeo introducentis Deum
+      alloquen<lb ed="#P" n="82" break="no"/>tem corpora caelestia hunc in modum;
+      natu<lb ed="#P" n="83" break="no"/>ra vestra estis dissolubilia, sed voluntate mea, 
+      <lb ed="#P" n="84"/>quae maior est nexum vestro seruamini
+      indis<lb ed="#P" n="85" break="no"/>solubilia. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1156">
+               <lb ed="#P" n="86"/>Quam solutionem improbat Com. vbi su 
+      <lb ed="#P" n="87"/>pra, nam impossibile est, quod illud, quod de 
+      <lb ed="#P" n="88"/>se possibile est, necessitatem acquirat ab alio,  
+      <lb ed="#P" n="89"/>nisi natura possibilis mutetur in necessariam, 
+      <lb ed="#P" n="90"/>quod est absurdum, propter quod aliter
+      di<lb ed="#P" n="91" break="no"/>cit Comm. quod in caelo non est aliqua
+      po<lb ed="#P" n="92" break="no"/>tentia ad non asse, &amp; corruptionem, tum quia 
+      <lb ed="#P" n="93"/>non habet materiam, tum etiam quia non  
+      <lb ed="#P" n="94"/>habet contrarium, &amp; sic dicitur permanens 
+      <lb ed="#P" n="95"/>ex se, &amp; per substantiam suam, non autem pro 
+      <lb ed="#P" n="96"/>pter infinitam virtutem, quae ipsum
+      praeser<lb ed="#P" n="97" break="no"/>uet a corruptione, poterit ergo durare infi 
+      <lb ed="#P" n="98"/>nito tempore, licet sit potentia ad vbi in illo.  
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1187">
+               <lb ed="#P" n="99"/>D. Thomas primo contra gentes cap. 2o.  
+      <lb ed="#P" n="100"/>istam solutionem improbat dicens, quod
+      quam<lb ed="#P" n="101" break="no"/>uis in caelo non sit potentia passiua materia 
+      <lb ed="#P" n="102"/>ad esse, &amp; non esse; est tamen in eo
+      poten<lb ed="#P" n="103" break="no"/>tia actiua formae, ad esse tantum: quia (per 
+      <lb ed="#P" n="104"/>eum) virtus, &amp; potentia ad esse, magis est at 
+      <lb ed="#P" n="105"/>tribuenda formae, quam materiae: si ergo
+      cae<lb ed="#P" n="106" break="no"/>lum potest habere esse ex se per infinitum 
+      <lb ed="#P" n="107"/>tempus, videtur quod virtus, &amp; potentia eius 
+      <lb ed="#P" n="108"/>formae, sit infinita in eo quod se extendit ad 
+      <lb ed="#P" n="109"/>tempus infinitum: hoc tamen est falsum. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1213">
+               <lb ed="#P" n="110"/>Et ideo aliter respondet ipse dicens, quod 
+      <lb ed="#P" n="111"/>si caelum ita duraret per tempus infinitum 
+      <lb ed="#P" n="112"/>quod sua duratio haberet infinitam quanti 
+      <lb ed="#P" n="113"/>tatem sub tempore, quemadmodum motus 
+      <lb ed="#P" n="114"/>caeli, qui tempore mensuratur, tunc oporte¬ 
+      <!--290.xml-->
+      <pb ed="#P" n="265"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ret dicere quod eius duratio esset virtute di 
+      <lb ed="#P" n="2"/>uina &amp; infinita, ex eo quod se extenderet ad 
+      <lb ed="#P" n="3"/>principiandum infinitam quantitatem
+      mo<lb ed="#P" n="4" break="no"/>tus, &amp; temporis; ita eodem modo virtus for 
+      <lb ed="#P" n="5"/>mae caelestis esset infinita, quia se extenderet 
+      <lb ed="#P" n="6"/>ad infinitam quantitatem suae duratiouis; 
+      <lb ed="#P" n="7"/>nunc autem duratio celi, quamuis sit per
+      te<lb ed="#P" n="8" break="no"/>pus infinitum, nullam tamen quantitate habet 
+      <lb ed="#P" n="9"/>sub tempore, sed est simplex, &amp;
+      indiuisibi<lb ed="#P" n="10" break="no"/>lis, &amp; ideo ex tali duratione non potest argui 
+      <lb ed="#P" n="11"/>infinita virtus in forma. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1257">
+               <lb ed="#P" n="12"/>Haec solutio mihi non placet, primo, quia 
+      <lb ed="#P" n="13"/>reducit aeternitatem durationis coeli in suam 
+      <lb ed="#P" n="14"/>formam tanquam in principium actiuum, 
+      <lb ed="#P" n="15"/>quod videtur falsum, nam si esset principium 
+      <lb ed="#P" n="16"/>actiuum illius durationis, vel illam efficeret,  
+      <lb ed="#P" n="17"/>vel saltem prohiberet principium
+      corrupti<lb ed="#P" n="18" break="no"/>uum sui esse, &amp; suae durationis, vt anima ab 
+      <lb ed="#P" n="19"/>Arist. dicitur prohibere elementa ne
+      dissol<lb ed="#P" n="20" break="no"/>uantr, ad quorum dissolutionem
+      corrumpe<lb ed="#P" n="21" break="no"/>retur animal; primum dici nequit, quia
+      nul<lb ed="#P" n="22" break="no"/>la forma efficit se ipsam, nec rem cuius est 
+      <lb ed="#P" n="23"/>forma, nec etiam ipsam durationem, secundum 
+      <lb ed="#P" n="24"/>etiam est impossibile in coelo, quia ibi nullum 
+      <lb ed="#P" n="25"/>est principium corruptiuum, quod prohibea 
+      <lb ed="#P" n="26"/>tur per formam. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1292">
+               <lb ed="#P" n="27"/>Praeterea dato, quod forma esset principium 
+      <lb ed="#P" n="28"/>actiuum istius durationis adhuc haberetur 
+      <lb ed="#P" n="29"/>propositum, nam quamuis duratio coeli sit 
+      <lb ed="#P" n="30"/>simplex, &amp; indiuisibilis, excedit tamen in vir 
+      <lb ed="#P" n="31"/>tute, &amp; nobilitate durationem infiniti
+      mo<lb ed="#P" n="32" break="no"/>tus, quapropter si virtus illa, quae causat
+      du<lb ed="#P" n="33" break="no"/>rationem infiniti motus in coelo, ex hoc
+      dici<lb ed="#P" n="34" break="no"/>tur infinita, multo magis virtus formae
+      cele<lb ed="#P" n="35" break="no"/>stis debet dici infinita, ex eo quod causet du 
+      <lb ed="#P" n="36"/>rationem simpliciorem, &amp; nobiliorem poten 
+      <lb ed="#P" n="37"/>tem coexistere cum infinito motu, &amp; tempo 
+      <lb ed="#P" n="38"/>re. Accedit quod praefata solutio videtur
+      co<lb ed="#P" n="39" break="no"/>incidere cum solutione Commentat. si quid 
+      <lb ed="#P" n="40"/>veritatis continet; nam si quaeratur ab isto 
+      <lb ed="#P" n="41"/>Doctore, quare duratio corporis celestis non 
+      <lb ed="#P" n="42"/>habeat quantitatem, sed sit indiuisibilis:
+      Rni<lb ed="#P" n="43" break="no"/>det quod ideo est, qua ipsum celum in suo 
+      <lb ed="#P" n="44"/>esse, &amp; in sua duratione est inuariabile, &amp; si 
+      <lb ed="#P" n="45"/>vlterius quaeratur ab eo, quare est
+      inuariabi<lb ed="#P" n="46" break="no"/>le in suo esse, &amp; in sua duratione: oportet eum 
+      <lb ed="#P" n="47"/>necessario dicere, quod hoc est, quia non est 
+      <lb ed="#P" n="48"/>in eo potentia ad non esse, quae est principium 
+      <lb ed="#P" n="49"/>corruptionis, &amp; variationis, ergo de primo ad 
+      <lb ed="#P" n="50"/>vltimum, ideo celum non requirit virtutem 
+      <lb ed="#P" n="51"/>infinitam, vt conseruetur in esse, &amp; in
+      dura<lb ed="#P" n="52" break="no"/>tione, quia non habet potentiam ad non esse, 
+      <lb ed="#P" n="53"/>ratione cuius indigeat conseruari a
+      corru<lb ed="#P" n="54" break="no"/>ptione, sed ista est solutio Comm. ergo
+      coin<lb ed="#P" n="55" break="no"/>cidit haec cum illa 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1357">
+               <lb ed="#P" n="56"/>Quapropter solutio Comm mihi videtur 
+      <lb ed="#P" n="57"/>bona, si bene intelligatur, ad cuius euidentiam 
+      <!--290.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 265 b -->
+               <lb ed="#P" n="58"/>dico, quod secundum Aristo. &amp; Comm non 
+      <lb ed="#P" n="59"/>est par ratio de re corruptibili, &amp; incorrupti 
+      <lb ed="#P" n="60"/>bili, nam duratio, &amp; conseruatio rei corrupti 
+      <lb ed="#P" n="61"/>bilis pendet a duplici causa, primo a Deo 
+      <lb ed="#P" n="62"/>benedicto tanquam a virtute extrinseca,
+      se<lb ed="#P" n="63" break="no"/>cundo ab ipsa forma rei, tanquam a virtute 
+      <lb ed="#P" n="64"/>intrinseca, ex Arist. 1. de anima dicete quod 
+      <lb ed="#P" n="65"/>anima praeseruat animal a dissolutione, &amp;  
+      <lb ed="#P" n="66"/>corruptione conseruado vnita ipsa
+      elemen<lb ed="#P" n="67" break="no"/>ta, quanto igirur aliqua forma est maioris vir 
+      <lb ed="#P" n="68"/>tutis, tanto magis resistet contrarijs corruptio 
+      <lb ed="#P" n="69"/>nibus, &amp; tanto maiori tempore praeseruabit 
+      <lb ed="#P" n="70"/>rem cuius est forma a corruptione; &amp; ideo si 
+      <lb ed="#P" n="71"/>esset aliqua forma quae infinito tempore pos 
+      <lb ed="#P" n="72"/>set resistere corruptionibus contrarijs, illa pos 
+      <lb ed="#P" n="73"/>set praeseruare rem in infinitum, &amp; sic argue 
+      <lb ed="#P" n="74"/>retur necessario eam esse virtutis infinitae. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1408">
+               <lb ed="#P" n="75"/>Non autem sic est dicendum de duratione 
+      <lb ed="#P" n="76"/>rei incorruptibilis, sicut est coelum, quia
+      exi<lb ed="#P" n="77" break="no"/>stentia, &amp; duratio eius non dependet, nisi a 
+      <lb ed="#P" n="78"/>virtute extrinseca conseruante scilicet a Deo; 
+      <lb ed="#P" n="79"/>quod apparet per Aristo. 12 Met. dicentem, 
+      <lb ed="#P" n="80"/>quod ab ipso primo dependet coelum &amp; tota 
+      <lb ed="#P" n="81"/>natura; &amp; per Comment. in de substantia or- 
+      <lb ed="#P" n="82"/>bis, vbi dicit quod indiget non solum
+      virtu<lb ed="#P" n="83" break="no"/>te mouente ipsum secundum locum, sed etiam 
+      <lb ed="#P" n="84"/>virtute largiente sibi lationem, &amp; in sua sub 
+      <lb ed="#P" n="85"/>stantia permanentiam aeternam, praeter auten 
+      <lb ed="#P" n="86"/>stam virtutem extrinsecam conseruantem, 
+      <lb ed="#P" n="87"/>non est quaerenda aliqua alia virtus intrinse 
+      <lb ed="#P" n="88"/>ca, quae ipsum praeseruet a corruptione, cum 
+      <lb ed="#P" n="89"/>non habeat aliquod contrarium corruptiuum, 
+      <lb ed="#P" n="90"/>cui oporteat resistere per virtutem suae
+      for<lb ed="#P" n="91" break="no"/>mae intrinsecae: Ex quibus patet
+      demonstra<lb ed="#P" n="92" break="no"/>tionem Arist. qua probat, quod in
+      magnitu<lb ed="#P" n="93" break="no"/>dine finita non possit fundari virtus infinita,  
+      <lb ed="#P" n="94"/>esse bonam, quia etiam si corpus celesse
+      du<lb ed="#P" n="95" break="no"/>rat per insinitum tempus, ex hoc tamen non  
+      <lb ed="#P" n="96"/>potest argui quod habeat aliquam virtutem 
+      <lb ed="#P" n="97"/>intrinsecam infinitam, vt visum fuit. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1460">
+               <lb ed="#P" n="98"/>Concludo igitur, quod cum Deus sit vir 
+      <lb ed="#P" n="99"/>tutis infinitae, vt ad praesens supponitur, non 
+      <lb ed="#P" n="100"/>est in aliqua magnitudine; &amp; sic nullo modo 
+      <lb ed="#P" n="101"/>est quantus, nec per se, nec per accidens, &amp;  
+      <lb ed="#P" n="102"/>per consequens nullo modo compositus ex 
+      <lb ed="#P" n="103"/>partibus quantitatiuis.  
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1476">
+               <lb ed="#P" n="104"/>ARTICVLVS TERTIVS. 
+      <lb ed="#P" n="105"/>Vtrum Deus sit compositus ex substantia, 
+      <lb ed="#P" n="106"/>&amp; accidente.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1485">
+               <lb ed="#P" n="107"/>AD hoc respondeo breuiter, quod non, 
+      <lb ed="#P" n="108"/>&amp; probo quadrupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1492">
+               <lb ed="#P" n="109"/>Primo, quia sequeretur, quod non esset 
+      <!--291.xml-->
+      <pb ed="#P" n="266"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>summe perfectus: Consequentiam probo, quia 
+      <lb ed="#P" n="2"/>perficeretur per accidens additum, &amp; ita non 
+      <lb ed="#P" n="3"/>esset perfectus per suam essentiam, sed per 
+      <lb ed="#P" n="4"/>participationem alterius, &amp; per consequens 
+      <lb ed="#P" n="5"/>non esset summe perfectus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1514">
+               <lb ed="#P" n="6"/>Secundo, sequeretur, quod non esset ens 
+      <lb ed="#P" n="7"/>infinitum, quia reciperet additionem,
+      Infini<lb ed="#P" n="8" break="no"/>tum autem nullam recipit additionem, &amp;con 
+      <lb ed="#P" n="9"/>firmatur per boetium in lib de
+      hebdomadi<lb ed="#P" n="10" break="no"/>bus, ubi ait, quod hoc, &amp; illud ens potest
+      ha<lb ed="#P" n="11" break="no"/>bere aliud, &amp; aliud adiunctum, ipsum tamen 
+      <lb ed="#P" n="12"/>esse nil aliud adiunctum potest habere, &amp; quia 
+      <lb ed="#P" n="13"/>Deus est ipsum esse, cum in eo sit idem esse, 
+      <lb ed="#P" n="14"/>&amp; habens esse, sequitur quod non patiatur 
+      <lb ed="#P" n="15"/>additionem aliquam: imaginatur enim
+      Poe<lb ed="#P" n="16" break="no"/>tius, quod ipsum esse de se non sit limitatum, 
+      <lb ed="#P" n="17"/>sed limitetur in creatura, eo quod habeat
+      es<lb ed="#P" n="18" break="no"/>se participate; &amp; ideo ratione sui non recipit 
+      <lb ed="#P" n="19"/>additionem, sed ratione illius in quo est, &amp; 
+      <lb ed="#P" n="20"/>quia in Deo idem est esse, &amp; habens esse,
+      si<lb ed="#P" n="21" break="no"/>cut repugnat sibi recipere additionem
+      ratio<lb ed="#P" n="22" break="no"/>ne sui, ita etiam ratione habentis esse: arguo 
+      <lb ed="#P" n="23"/>igitur a fortiori sic; Magis est illimitatum ens 
+      <lb ed="#P" n="24"/>increatum, quam ens creatum, quod dicitur 
+      <lb ed="#P" n="25"/>de decem praedicamentis, sed ens creatum. 
+      <lb ed="#P" n="26"/>quod dicitur de decem praedicamentis,
+      ra<lb ed="#P" n="27" break="no"/>tione suae transcendentiae, &amp; illimitationis 
+      <lb ed="#P" n="28"/>non potest recipere additionem, ergo multo 
+      <lb ed="#P" n="29"/>magis ens increatum, quod est Deus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1570">
+               <lb ed="#P" n="30"/>Tertio, sequeretur, quod non esset purus 
+      <lb ed="#P" n="31"/>actus, quod est falsum, Consequentia patet,  
+      <lb ed="#P" n="32"/>quiae nihil componitur cum accidente, quod 
+      <lb ed="#P" n="33"/>non sit in potentia ad illud recipiendum, sed  
+      <lb ed="#P" n="34"/>purus actus omnem excludit potentialitatem, 
+      <lb ed="#P" n="35"/>ergo non est compositus ex accidente. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1586">
+               <lb ed="#P" n="36"/>Quarto, sequeretur, quod non esset primum 
+      <lb ed="#P" n="37"/>ens, Consequentia patet, quia illa composito 
+      <lb ed="#P" n="38"/>qua componeretur cum accidente, haberet 
+      <lb ed="#P" n="39"/>aliquam causam effectiuam, quae quidem non 
+      <lb ed="#P" n="40"/>esset ipsa substantia Dei, nec illud accidens 
+      <lb ed="#P" n="41"/>additum, nam componibilia non possunt
+      ef<lb ed="#P" n="42" break="no"/>ficere suam compositionem, cum sint in
+      po<lb ed="#P" n="43" break="no"/>tentia ad eam vt dicebatur, oporteret ergo da 
+      <lb ed="#P" n="44"/>re aliquam aliam causam efficientem superio 
+      <lb ed="#P" n="45"/>rem, &amp; ideo non erit Deus prima causa, nec 
+      <lb ed="#P" n="46"/>primum ens 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1612">
+               <lb ed="#P" n="47"/>Confirmatur ratio auctoritate <ref xml:id="gsX5tY-d1e395-Rd1e1616">Aug quinto 
+        <lb ed="#P" n="48"/>de trinitate cap. 1.</ref> dicentis Deus est, <quote xml:id="gsX5tY-d1e395-Qd1e1621" source="http://scta.info/resource/adt-l7-d1e902" synch="94-141">in quo 
+          <lb ed="#P" n="49"/>non est aliquid tanquam in subiecto, &amp;
+          ne<lb ed="#P" n="50" break="no"/>fas est dicere quod ipse subsit suae bonitati</quote>; 
+      <lb ed="#P" n="51"/>&amp; Commen. xij. Met com. 28. uult quod sub 
+      <lb ed="#P" n="52"/>stantiae intelle uales abstractae sint sine om 
+      <lb ed="#P" n="53"/>ni accidente, quamuis falsum dicat, absolute 
+      <lb ed="#P" n="54"/>loquendo, nam in omnibus illis substantijs ex 
+      <lb ed="#P" n="55"/>cepta prima, quae est Deus, inuenitur compo 
+      <lb ed="#P" n="56"/>sitio ex substantia, &amp; accidente; sufficit aut 
+      <lb ed="#P" n="57"/>quod faciat ad propositum quoad primam.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1644">
+      <!--291.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 266 b -->
+               <lb ed="#P" n="58"/>Oecurrit tamen hic dubitatio, quae tacta 
+      <lb ed="#P" n="59"/>fuit in arguendo, nam per P. August Deus 
+      <lb ed="#P" n="60"/>vere est substantia, substantia autem dicitur 
+      <lb ed="#P" n="61"/>a substando accidentibus, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1662">
+               <lb ed="#P" n="62"/>Ad hoc dicendum, quod substantia non  
+      <lb ed="#P" n="63"/>solum dicitur a substando, sed etiam a per 
+      <lb ed="#P" n="64"/>se essendo; substantia ergo vere dicitur de 
+      <lb ed="#P" n="65"/>Deo penes secundam rationem, quae dicit 
+      <lb ed="#P" n="66"/>perfectionem, secunda vero potius dicit
+      im<lb ed="#P" n="67" break="no"/>perfectionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1678">
+               <lb ed="#P" n="68"/>Videtur tamen hoc non sufficere, nam pa 
+      <lb ed="#P" n="69"/>ri ratione posset dici de accidente, quod
+      in<lb ed="#P" n="70" break="no"/>uenitur in Deo secundum illud quod dicit per 
+      <lb ed="#P" n="71"/>fectionem, remota imperfectione, non tamen 
+      <lb ed="#P" n="72"/>simpliciter negandum est accidens
+      inueni<lb ed="#P" n="73" break="no"/>ri in Deo. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1695">
+               <lb ed="#P" n="74"/>Respondeo, quod non est simile, quia
+      ac<lb ed="#P" n="75" break="no"/>cidens secundum suam propriam rationem 
+      <lb ed="#P" n="76"/>includit imperfectionem, quod patet
+      secun<lb ed="#P" n="77" break="no"/>dum suam primam impositionem nominis, 
+      <lb ed="#P" n="78"/>&amp; suum primum intellectum, nam dicit quod 
+      <lb ed="#P" n="79"/>dam ens diminutum, &amp; dependens a qua de 
+      <lb ed="#P" n="80"/>pendentia nullo modo potest absolui, nec se 
+      <lb ed="#P" n="81"/>cundum rem, nec secundum intellectum; 
+      <lb ed="#P" n="82"/>propter quod simpliciter negatur a Deo. Sub 
+      <lb ed="#P" n="83"/>stantia autem secundum suam primam
+      no<lb ed="#P" n="84" break="no"/>minis impositionem, dicit quoddam ens por 
+      <lb ed="#P" n="85"/>se subsistens, perfectum, &amp; independens, 
+      <lb ed="#P" n="86"/>quia ipsa est prior alijs entibus cognitione, 
+      <lb ed="#P" n="87"/>natura, &amp; tempore, vt patet 5. Metaph &amp; 
+      <lb ed="#P" n="88"/>ideo non includit aliquam imperfectionem 
+      <lb ed="#P" n="89"/>in suo primario intellectu, sed habet ea qua 
+      <lb ed="#P" n="90"/>si adnexam ratione suae limitationis, propter 
+      <lb ed="#P" n="91"/>quod potest ab ea seiungi, &amp; secudum intel 
+      <lb ed="#P" n="92"/>lectum, &amp; secundum rem, &amp; per consequens 
+      <lb ed="#P" n="93"/>vere dicitur de Deo. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1741">
+               <lb ed="#P" n="94"/>ARTICVLVS QVARTVS. 
+      <lb ed="#P" n="95"/>An Deus componatur cum aliquo sicut mo 
+      <lb ed="#P" n="96"/>tor cum mobili.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1750">
+               <lb ed="#P" n="97"/>Ste articulus videtur habere specialem dif 
+      <lb ed="#P" n="98"/>ficultatem propter primum orben, ad que 
+      <lb ed="#P" n="99"/>ta videtur se habere Deus, sicut
+      intelligen<lb ed="#P" n="100" break="no"/>tiae ad inferiores orbes; vnde sicut quaelibet 
+      <lb ed="#P" n="101"/>intelligentia componitur suo orbi, tanquam 
+      <lb ed="#P" n="102"/>motor appropriatus cum mobili suo pprio; 
+      <lb ed="#P" n="103"/>ita videtur dicendum esse de Deo. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1768">
+               <lb ed="#P" n="104"/>Ad cuius euidentiam est intelligendum, 
+      <lb ed="#P" n="105"/>quod Deum coniungi primo orbi potest in 
+      <lb ed="#P" n="106"/>telligi quinque modis, primo modo quod 
+      <lb ed="#P" n="107"/>coniungatur sibi per quandam appropriatio 
+      <lb ed="#P" n="108"/>nem, secundo, ex quadam naturali necessi¬ 
+      <!--292.xml-->
+      <pb ed="#P" n="267"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tate, tertio, propter consecutionem alicuius 
+      <lb ed="#P" n="2"/>perfectionis non habitae, quarto, propter con 
+      <lb ed="#P" n="3"/>seruationem alicuius perfectionis
+      praehabi<lb ed="#P" n="4" break="no"/>tae, quinto, propter liberam
+      communicatio<lb ed="#P" n="5" break="no"/>nem propriae perfectionis, &amp; bonitatis. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1799">
+               <lb ed="#P" n="6"/>His praenotatis, si quaeratur primo modo, 
+      <lb ed="#P" n="7"/>dicunt aliqui quod de intentione Aristo. &amp; 
+      <lb ed="#P" n="8"/>Comment. est primum orbem non habere 
+      <lb ed="#P" n="9"/>aliquem motorem appropriatum praeter ipsum 
+      <lb ed="#P" n="10"/>Deum, dicit enim Comm in de substantia 
+      <lb ed="#P" n="11"/>orbis, &amp; xij. Metaph. quod in separatis a ma 
+      <lb ed="#P" n="12"/>teria eadem forma est illa, quae est agens mo 
+      <lb ed="#P" n="13"/>tum, &amp; finis motus, aliter sequeretur quod 
+      <lb ed="#P" n="14"/>motus Caeli esset finitus, cuius contrarium 
+      <lb ed="#P" n="15"/>probatum est ab Arist. 8. physic Consequen 
+      <lb ed="#P" n="16"/>tiam probat, quia videmus in istis
+      inferiori<lb ed="#P" n="17" break="no"/>bus quod nulla forma pot perpetuare motum 
+      <lb ed="#P" n="18"/>suum, quia mouet propter alium finem a
+      se<lb ed="#P" n="19" break="no"/>quo adepto oportet quod cesseteius motus, 
+      <lb ed="#P" n="20"/>alioquin frustra esset: cogimur ergo dicere, 
+      <lb ed="#P" n="21"/>secundum istam viam, quod eadem substan 
+      <lb ed="#P" n="22"/>tia abstracta sit illa, quae agit motum in
+      pri<lb ed="#P" n="23" break="no"/>mo Caelo, &amp; quae est finis praefati motus; 
+      <lb ed="#P" n="24"/>eum ergo solus Deus sit finis primi motus,  
+      <lb ed="#P" n="25"/>sequitur quod ipse agat hunc motum, &amp; 
+      <lb ed="#P" n="26"/>per consequens non oportebit ponere ibi 
+      <lb ed="#P" n="27"/>alium motorem appropriatum. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1849">
+               <lb ed="#P" n="28"/>Sed hoc mihi non satisfacit, quia
+      contra<lb ed="#P" n="29" break="no"/>dicit rationi, nec non Aristot. &amp; Comment. 
+      <lb ed="#P" n="30"/>quorum fundamentis videtur inniti; Quod 
+      <lb ed="#P" n="31"/>contradicat rationi probo dupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1861">
+               <lb ed="#P" n="32"/>1 Si Deus esset motor appropriatus primo 
+      <lb ed="#P" n="33"/>Celo, sequeretur quod non esset causa
+      rea<lb ed="#P" n="34" break="no"/>lis connexionis totius vniuersi, quod est falsum, 
+      <lb ed="#P" n="35"/>quia oportet reducere huiusmodi
+      connexio<lb ed="#P" n="36" break="no"/>nemi in aliquam vniuersalem causam, quae quod 
+      <lb ed="#P" n="37"/>dem non est nisi Deus, secundum Arist.
+      xij<lb ed="#P" n="38" break="no"/>Metaph reducentem ordinem vniuersi in 
+      <lb ed="#P" n="39"/>Deum, sicut ordo exercitus reducitur in Du 
+      <lb ed="#P" n="40"/>cem : Consequentiam probo, nam illud quod 
+      <lb ed="#P" n="41"/>intrat aliquam connexionem, &amp; aliquem
+      or<lb ed="#P" n="42" break="no"/>dinem tanquam pars intrinseca ordinis, non  
+      <lb ed="#P" n="43"/>potest habere causalitatem super totum illum 
+      <lb ed="#P" n="44"/>ordinem, tunc enim haberet causalitatem su 
+      <lb ed="#P" n="45"/>per se ipsum, immo tunc pars haberet
+      causa<lb ed="#P" n="46" break="no"/>itatem super totum, &amp; sic esset perfectior to 
+      <lb ed="#P" n="47"/>to: si autem Deus esset motor appropriatus 
+      <lb ed="#P" n="48"/>primo Caelo, tuc intraret connexionem vni 
+      <lb ed="#P" n="49"/>uersi simul cum ipso Caelo, tanquam pars in 
+      <lb ed="#P" n="50"/>trinseca istius ordinis, eo quod quilibet orbis 
+      <lb ed="#P" n="51"/>in quantum pertinet ad integritatem vniuer 
+      <lb ed="#P" n="52"/>si, includit suum motorem intrinsece, &amp;
+      ap<lb ed="#P" n="53" break="no"/>propriate, repugnat autem perfectioni ipsius 
+      <lb ed="#P" n="54"/>Dei, quod intret ordinem, &amp; integritatem 
+      <lb ed="#P" n="55"/>vniuersi tanquam pars. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1916">
+               <lb ed="#P" n="56"/>2 Si Deus esset motor appropriatus
+      pri<lb ed="#P" n="57" break="no"/>mo Caelo, siue primo motui, qui est motus 
+      <!--292.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 267 b -->
+               <lb ed="#P" n="58"/>diurnus totius Caeli, sequeretur, quod eius 
+      <lb ed="#P" n="59"/>virtus esset adaequata illi motui, consequens 
+      <lb ed="#P" n="60"/>est falsum, ergo &amp;c. Consequentia est nota, 
+      <lb ed="#P" n="61"/>quia tunc ita se haberet ad illum motum, 
+      <lb ed="#P" n="62"/>quemadmodum alij motores ad propria mo 
+      <lb ed="#P" n="63"/>bilia, &amp; quia illi sunt adaequati orbibus, iti 
+      <lb ed="#P" n="64"/>vt si adderetur vna stella, non possent
+      vlte<lb ed="#P" n="65" break="no"/>rius mouere ipsos, ex 2. Caeli; ergo iste
+      pri<lb ed="#P" n="66" break="no"/>mus motor eodem modo erit adaequatus illi 
+      <lb ed="#P" n="67"/>primo motui: Falsitatem probo, nam suppo 
+      <lb ed="#P" n="68"/>no ex demonstratione facta per Arist. 8.
+      phy<lb ed="#P" n="69" break="no"/>Deum esse virtutis infinitae, si ergo esset adae 
+      <lb ed="#P" n="70"/>quatus primo mobili, tunc causaret in eo mo 
+      <lb ed="#P" n="71"/>tum in instanti, quia cum nulla sit
+      propor<lb ed="#P" n="72" break="no"/>tio virtutis infinitae ad virtutem finitam, si 
+      <lb ed="#P" n="73"/>motus causatus a virtute finita fit in
+      tempo<lb ed="#P" n="74" break="no"/>re, ille qui causabitur a virtute infinita
+      im<lb ed="#P" n="75" break="no"/>mediate fiet in non tempore, &amp; per
+      conse<lb ed="#P" n="76" break="no"/>quens in instanti, quod est falsum. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1971">
+               <lb ed="#P" n="77"/>Ex quo apparet quomodo praefatus
+      mo<lb ed="#P" n="78" break="no"/>dus contradicat Arist. 2. de Caelo ponenti ta 
+      <lb ed="#P" n="79"/>lem ad aequationem inter motorem &amp;
+      mobi<lb ed="#P" n="80" break="no"/>le, qualem impossibile est inueniri inter Deum 
+      <lb ed="#P" n="81"/>&amp; primum mobile, cum Deus sit infinitae. 
+      <lb ed="#P" n="82"/>virtutis, vt habetur 8. phys. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e1987">
+               <lb ed="#P" n="83"/>Contradicit etiam Comm. xij.
+      Metaph<lb ed="#P" n="84" break="no"/>com. 4o. vbi mouet hanc quaestionem,
+      quo<lb ed="#P" n="85" break="no"/>modo Caelum possit moueri a potentia cuius 
+      <lb ed="#P" n="86"/>actio sit infinita, tunc enim necesse esset vt 
+      <lb ed="#P" n="87"/>moueret ipsum in non tempore, &amp; soluit
+      di<lb ed="#P" n="88" break="no"/>cens, quod iste motus componitur ex duobo 
+      <lb ed="#P" n="89"/>motoribus, quorum vnus est finitae
+      motio<lb ed="#P" n="90" break="no"/>nis, &amp; est anima existens in eo scilicet motus 
+      <lb ed="#P" n="91"/>appropriatus, alter vero est motionis
+      infini<lb ed="#P" n="92" break="no"/>tae, &amp; est potentia, quae non est in materia; 
+      <lb ed="#P" n="93"/>per istum autem motorem separatum non 
+      <lb ed="#P" n="94"/>potest intelligi nisi primus motor, scilicet 
+      <lb ed="#P" n="95"/>Deus, qui mouet per modum finis, &amp; per 
+      <lb ed="#P" n="96"/>modum amati, &amp; desiderati, vt dicit Aristot. 
+      <lb ed="#P" n="97"/>in eodem libro, ergo secundum intentionem 
+      <lb ed="#P" n="98"/>amborum, Deus non coniungitur primo
+      or<lb ed="#P" n="99" break="no"/>bis, vt Motor appropriatus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2026">
+               <lb ed="#P" n="100"/>Hoc etiam clarius dicit Comment. in de 
+      <lb ed="#P" n="101"/>substantia orbis tractatu quinto, vbi loquens 
+      <lb ed="#P" n="102"/>de Arist. inquit quod cum considerasset
+      vir<lb ed="#P" n="103" break="no"/>tures appetitiuas in caelestibus; vidit eas
+      mo<lb ed="#P" n="104" break="no"/>ueri ad appetibile nobilius, per quod non
+      po<lb ed="#P" n="105" break="no"/>test intelligi nisi motor separatus, qui est vir 
+      <lb ed="#P" n="106"/>tutis infinitae, non applicatus alicui orbi. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2044">
+               <lb ed="#P" n="107"/>Motiuum autem contrariae opinionis non  
+      <lb ed="#P" n="108"/>cogit: Nam cum ait Comm. in corporibus 
+      <lb ed="#P" n="109"/>caelestibus eandem formam agere motum, &amp;  
+      <lb ed="#P" n="110"/>esse finem motus, dico quod duplex est finis,  
+      <lb ed="#P" n="111"/>quantum ad praesens spectat, vnus
+      intrinse<lb ed="#P" n="112" break="no"/>cus, &amp; perficiens, alter vero extrinsecus
+      ne<lb ed="#P" n="113" break="no"/>cessario coexistens, a quo finis intrinsecus 
+      <lb ed="#P" n="114"/>dependet. Comment. intelligit de fine intrin 
+      <!--293.xml-->
+      <pb ed="#P" n="268"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>seco perficiente, quia intelligentia non mouet 
+      <lb ed="#P" n="2"/>orbem, vt per illum motum consequatur
+      ali<lb ed="#P" n="3" break="no"/>quem finem intrinsecum, quem non habet,  
+      <lb ed="#P" n="4"/>nec vt se conseruet in sua perfectione, &amp; in 
+      <lb ed="#P" n="5"/>suo fine intrinseco, quem praehabet, &amp; ideo 
+      <lb ed="#P" n="6"/>quantum ad hoc, ipsamet quae agit motum, 
+      <lb ed="#P" n="7"/>est finis motus; quia tamen eius perfectio 
+      <lb ed="#P" n="8"/>intrinseca dependet a fine extrinseco
+      coexi<lb ed="#P" n="9" break="no"/>stente per relationem sui ad ipsum; idcirco 
+      <lb ed="#P" n="10"/>quantum ad hoc vult Comment. quod
+      in<lb ed="#P" n="11" break="no"/>telligentia moueatur ab intrinseco per appe 
+      <lb ed="#P" n="12"/>titum ad appetibile nobilius, ratione cuius 
+      <lb ed="#P" n="13"/>motus ab itra causat postea motum ad extra 
+      <lb ed="#P" n="14"/>in celo, vt per eum conseruet se in
+      assimila<lb ed="#P" n="15" break="no"/>tione suiad illud appetibile quantum est sibi 
+      <lb ed="#P" n="16"/>possibile 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2106">
+               <lb ed="#P" n="17"/>Et quod haec sit intentio Commentatoris. 
+      <lb ed="#P" n="18"/>apparet in 12. Meta. com. 38. vbi postquam  
+      <lb ed="#P" n="19"/>dixit eadem formam esse finem &amp; principium 
+      <lb ed="#P" n="20"/>motus, mouet dubitationem quaerendo, ad 
+      <lb ed="#P" n="21"/>quid laborent in mouendo huiusmodi
+      for<lb ed="#P" n="22" break="no"/>mae, cum non acquirant istum finem per
+      mo<lb ed="#P" n="23" break="no"/>tum, sed praehabeant ipsum ante motum, &amp; 
+      <lb ed="#P" n="24"/>respondens ait, dicamus igitur, quod non mo 
+      <lb ed="#P" n="25"/>uent, nisi quia intelligunt quod perfectio 
+      <lb ed="#P" n="26"/>earum est in motu, sicut facit ille, qui moue 
+      <lb ed="#P" n="27"/>tur ad conseruandam sanitatem, quia scit quod 
+      <lb ed="#P" n="28"/>sua sanitas conseruatur in motu: Si quis
+      au<lb ed="#P" n="29" break="no"/>tem quaerat a Commentatore quomodo per 
+      <lb ed="#P" n="30"/>fectio intelligentiarum conseruetur in
+      mo<lb ed="#P" n="31" break="no"/>tu, respondet per modum assimilationis, sic 
+      <lb ed="#P" n="32"/>enim potissime assimilantur primo principio 
+      <lb ed="#P" n="33"/>a quo dependet eorum, ee &amp; pfectio intrinse 
+      <lb ed="#P" n="34"/>ca, &amp; isto modo, vult, quod motus, &amp;
+      actio<lb ed="#P" n="35" break="no"/>nes intelligentiarum sint propter finem
+      ex<lb ed="#P" n="36" break="no"/>trinsecum. Immo hoc idem asserit de omni- 
+      <lb ed="#P" n="37"/>bus entibus, &amp; ideo assimilat ibidem
+      actio<lb ed="#P" n="38" break="no"/>nes entium actionibus seruorum, nam sicut 
+      <lb ed="#P" n="39"/>omnes actiones seruorum sunt propter
+      do<lb ed="#P" n="40" break="no"/>minum, ita omnes actiones quorumcunque 
+      <lb ed="#P" n="41"/>entium sunt propter primum principium. si 
+      <lb ed="#P" n="42"/>vt illi assimilentur inquantum possunt 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2165">
+               <lb ed="#P" n="43"/>Hoc idem videtur intendere Aristo. In 2. 
+      <lb ed="#P" n="44"/>de anima quando dicit, quod omnia idem 
+      <lb ed="#P" n="45"/>appetunt, &amp; illius causa agunt quaecunque 
+      <lb ed="#P" n="46"/>agunt secundum naturam, &amp; sic patet, quod 
+      <lb ed="#P" n="47"/>Deus non componitur alicui orbi, tanquam  
+      <lb ed="#P" n="48"/>motor appropriatus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2181">
+               <lb ed="#P" n="49"/>Si autem quaeratur secudo modo, an vnia 
+      <lb ed="#P" n="50"/>tur cum vniuerso ratione finis naturalis, &amp;  
+      <lb ed="#P" n="51"/>necessarij; Respondeo hoc spectare magis ad  
+      <lb ed="#P" n="52"/>sequentem articulum, ideo nihil ad praesens 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2192">
+               <lb ed="#P" n="53"/>Si vero qurat, an vniatur vniuerso proper conso 
+      <lb ed="#P" n="54"/>cutionem alicuius perfectionis non praehabi 
+      <lb ed="#P" n="55"/>te, sic nego, vt patet ex iam dictis, nam cum 
+      <lb ed="#P" n="56"/>Deus sit purus actus, &amp; ens infinitum
+      sum<lb ed="#P" n="57" break="no"/>meque perfectum, non potest ei, deesse aliqua 
+      <!--293.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 268 b -->
+               <lb ed="#P" n="58"/>perfectio, quam consequi indigeat per
+      vnio<lb ed="#P" n="59" break="no"/>nem cum toto vniuerso.  
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2216">
+               <lb ed="#P" n="60"/>Nec etiam quarto modo potest intellig 
+      <lb ed="#P" n="61"/>quod sit propter conseruationem alicuius) 
+      <lb ed="#P" n="62"/>fectionis praehabitae; nam si intelligentiae vni 
+      <lb ed="#P" n="63"/>untur suis ordibus hoc modo, est, quia earum 
+      <lb ed="#P" n="64"/>perfectio intrinseca dependet ab aliquo fine 
+      <lb ed="#P" n="65"/>extrinseco nobiliori eis, scilicet a primo
+      prin<lb ed="#P" n="66" break="no"/>cipio, ad quod mouentur tanquam in
+      ama<lb ed="#P" n="67" break="no"/>tum, &amp; desideratum: Deus autem non habet 
+      <lb ed="#P" n="68"/>aliquem finem extra se, a quo dependeat sua 
+      <lb ed="#P" n="69"/>perfectio cum sit omnino independens; ideo 
+      <lb ed="#P" n="70"/>non potest coniungi orbi, vt conseruetur eius. 
+      <lb ed="#P" n="71"/>perfectio. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2245">
+               <lb ed="#P" n="72"/>Si intelligatur quinto modo an scilicet con 
+      <lb ed="#P" n="73"/>iungatur alicui orbi, vel vniuerso propter
+      li<lb ed="#P" n="74" break="no"/>beram communicationem suae perfectionis,  
+      <lb ed="#P" n="75"/>&amp; bonitatis; sic concedo, quia in nullo
+      dero<lb ed="#P" n="76" break="no"/>gat suae perfectioni, &amp; simplicitati, vt clarius) 
+      <lb ed="#P" n="77"/>patebit in sequenti articulo; &amp; ideo pro
+      prae<lb ed="#P" n="78" break="no"/>senti haec sufficiant. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2264">
+               <lb ed="#P" n="79"/>ARTICVLVS QVINTVS. 
+      <lb ed="#P" n="80"/>An Deus componatur cum vniuerso, sicut  
+      <lb ed="#P" n="81"/>finis cum eo, quod est ad finem.
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2273">
+               <lb ed="#P" n="82"/>REspondeo, quod praesens Articulus po 
+      <lb ed="#P" n="83"/>test intelligi quatuor modis, primo mo 
+      <lb ed="#P" n="84"/>do; An componatur cum vniuerso, tanquam 
+      <lb ed="#P" n="85"/>finis intrinsecus, &amp; informans; sicut quidam 
+      <lb ed="#P" n="86"/>existimarunt dicentes Deum esse animam mum 
+      <lb ed="#P" n="87"/>di, &amp; iste sensus est erroneus, &amp;
+      impossibi<lb ed="#P" n="88" break="no"/>lis, quia haec omnia repugnant Deo, iunc nim 
+      <lb ed="#P" n="89"/>non esset purus actus, &amp; per consequens
+      ne<lb ed="#P" n="90" break="no"/>ens primum, &amp; illimitatum, repugnat etiam  
+      <lb ed="#P" n="91"/>distinctioni, &amp; ordini entium 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2297">
+               <lb ed="#P" n="92"/>Secundo modo potest intelligi; An
+      com<lb ed="#P" n="93" break="no"/>ponatur cum vniuerso, tanquam finis intrin 
+      <lb ed="#P" n="94"/>secus non in formando, vt caput dicitur finis. 
+      <lb ed="#P" n="95"/>aliorum membrorum non informando,
+      quam<lb ed="#P" n="96" break="no"/>uis sit intrinsecum connexioni eorum,
+      tan<lb ed="#P" n="97" break="no"/>quam pars principalis corporis integrando. 
+      <lb ed="#P" n="98"/>ipsum, quem sensum sequti sunt nonnulli, sed  
+      <lb ed="#P" n="99"/>iste modus, fuit improbatus in precedenti ar 
+      <lb ed="#P" n="100"/>ticulo, sequeretur enim, quod sicut caput in 
+      <lb ed="#P" n="101"/>sui perfectione dependet ab alijs membris, 
+      <lb ed="#P" n="102"/>&amp; a corpore, ita Deus dependeret ab vniuer 
+      <lb ed="#P" n="103"/>so, &amp; alijs partibus eius, quod est absurdum; 
+      <lb ed="#P" n="104"/>&amp; sic esset imperfectior toto vniuerso, si
+      se<lb ed="#P" n="105" break="no"/>iunctim ab eo acciperetur, sicut caput seiun 
+      <lb ed="#P" n="106"/>ctum a corpore imperfectum est. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2332">
+               <lb ed="#P" n="107"/>Tertio potest intelligi. An Deus compo¬ 
+      <!--294.xml-->
+      <pb ed="#P" n="269"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>natur cum vniuerso tanquam finis
+      intrinse<lb ed="#P" n="2" break="no"/>cus, ad quem necessitate quadam naturali se 
+      <lb ed="#P" n="3"/>quatur existentia vniuersi, &amp; hoc videntur 
+      <lb ed="#P" n="4"/>sensisse Ari. &amp; Com volunt. en. quod
+      vniuer<lb ed="#P" n="5" break="no"/>sum connectatur Deo, quia sua perfectio, quam 
+      <lb ed="#P" n="6"/>in connexione consistit, necessario dependet 
+      <lb ed="#P" n="7"/>a Deo,; &amp; non e conuerso, vt apparet 12. Me 
+      <lb ed="#P" n="8"/>ta. vbi in vniuerso assignatur duplex bonum, 
+      <lb ed="#P" n="9"/>scilicet ordinis, &amp; ducis, quorum, bonum du 
+      <lb ed="#P" n="10"/>cis est maius bono ordinis, cum sit eius
+      cau<lb ed="#P" n="11" break="no"/>sa a qua totaliter dependeat, Deus autem 
+      <lb ed="#P" n="12"/>in nullo dependet ab huiusmodi ordine, &amp;  
+      <lb ed="#P" n="13"/>connexione. Addit insuper vniuersum
+      coexi<lb ed="#P" n="14" break="no"/>stere Deo quadam naturali necessitate, quia 
+      <lb ed="#P" n="15"/>vbi effectus est contingens, ibi praecedit
+      ali<lb ed="#P" n="16" break="no"/>qua indeterminatio in causa, &amp; ideo si existe 
+      <lb ed="#P" n="17"/>tia vniuersi esset contingens, aliqua
+      indeter<lb ed="#P" n="18" break="no"/>minatio praecessisset in Deo; ac per
+      conse<lb ed="#P" n="19" break="no"/>quens aliqua mutatio, hoc vt euitaret posuit 
+      <lb ed="#P" n="20"/>existentiam vniuersi esse coeternam Deo,
+      si<lb ed="#P" n="21" break="no"/>cut patet. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2389">
+               <lb ed="#P" n="22"/>Si igitur vel emus respodere huic quaesito 
+      <lb ed="#P" n="23"/>ad mentem Arist tria essent dicenda, primum 
+      <lb ed="#P" n="24"/>quod vniuersum habet connexionem cum 
+      <lb ed="#P" n="25"/>Deo, taquam cum fine extrinseco a quo eius 
+      <lb ed="#P" n="26"/>connexio, &amp; perfectio totaliter est dependens. 
+      <lb ed="#P" n="27"/>Secundum, quod Deus nullam habet
+      conne<lb ed="#P" n="28" break="no"/>xionem cum vniuerso, &amp; in nullo ab eo
+      de<lb ed="#P" n="29" break="no"/>pendet. Tertium quod quamuis nullam
+      ha<lb ed="#P" n="30" break="no"/>beat colligationem, vniuersi tamen coexisten 
+      <lb ed="#P" n="31"/>tia est Deo coeterna necessario, necessitate 
+      <lb ed="#P" n="32"/>quadam immutabilitatis, ex quibus duo
+      pri<lb ed="#P" n="33" break="no"/>ma sunt vera, sed tertium est penitus falsum, 
+      <lb ed="#P" n="34"/>&amp; contra fidem 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2420">
+               <lb ed="#P" n="35"/>Quapropter est quartus modus dicendi 
+      <lb ed="#P" n="36"/>ad istum articulum, quod per istam
+      compo<lb ed="#P" n="37" break="no"/>sitionem, &amp; connexionem non intelligimus 
+      <lb ed="#P" n="38"/>aliquam dependentiam ex parte Dei, sed om 
+      <lb ed="#P" n="39"/>nem ex parte vniuersi innitentis ipsi Deo. 
+      <lb ed="#P" n="40"/>tanquam vltimo fini, &amp; primo principio, cui 
+      <lb ed="#P" n="41"/>coexistit non naturali necessitate, sed libera 
+      <lb ed="#P" n="42"/>sua voluntate, vt fides nostra Catholica
+      su<lb ed="#P" n="43" break="no"/>stinet, &amp; sic potest aliquo modo concedi, quod 
+      <lb ed="#P" n="44"/>Deus est coniunctus cum vniuerso, non
+      ta<lb ed="#P" n="45" break="no"/>men conclusus in eo sicut pars, vel sicut ali 
+      <lb ed="#P" n="46"/>quid ab ipso accipiens, vel sicut eo coexigens 
+      <lb ed="#P" n="47"/>sed magis sicut conmunicans perfectionem, 
+      <lb ed="#P" n="48"/>&amp; bonitatem suam vniuerso, &amp; partib eius,  
+      <lb ed="#P" n="49"/>nec ex aliqua necessitate, sed ex libera sua 
+      <lb ed="#P" n="50"/>voluntate: Quod autem vniuersum coexistat 
+      <lb ed="#P" n="51"/>Deo non necessario, sed contingenter, &amp;
+      li<lb ed="#P" n="52" break="no"/>bere non est opus modo probare, sufficit 
+      <lb ed="#P" n="53"/>enim ad praesens scire, quod possit
+      ali<lb ed="#P" n="54" break="no"/>quo modo verificari, Deum coniungi ipsi 
+      <lb ed="#P" n="55"/>vniuerso: Nec ista coniunctio derogat
+      diui<lb ed="#P" n="56" break="no"/>nae simplicitati, quia nullam ponit
+      depende<lb ed="#P" n="57" break="no"/>tiam ex parte Dei, sed solum ex parte vni¬ 
+      <!--294.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 269 b -->
+               <lb ed="#P" n="58"/>uersi; vnde si volumus proprie loqui, commu 
+      <lb ed="#P" n="59"/>nicatio ista non debet dici composito; quia 
+      <lb ed="#P" n="60"/>composito semper importat dependentiam  
+      <lb ed="#P" n="61"/>in vtroque componibilium, sed connexio;
+      id<lb ed="#P" n="62" break="no"/>circo cum quaeritur, an Deus componatur 
+      <lb ed="#P" n="63"/>cum vniuerso, tanquam finis, cum eo quod 
+      <lb ed="#P" n="64"/>est ad finem, simpliciter debet negari. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2495">
+               <lb ed="#P" n="65"/>Concludo ergo quantum ad totam
+      quae<lb ed="#P" n="66" break="no"/>stionem in Deo nullam esse realem
+      compo<lb ed="#P" n="67" break="no"/>sitionem, cum omnis realis composito
+      suffi<lb ed="#P" n="68" break="no"/>cienter tangatur per istas quinque, si enim 
+      <lb ed="#P" n="69"/>est alia, vel supponit aliquam istaru, vel
+      red<lb ed="#P" n="70" break="no"/>ducitur ad aliquam earum. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2511">
+               <lb ed="#P" n="71"/>AD RATIONES PRINCIPALES. 
+      <lb ed="#P" n="72"/>AD primam dico, quod illa proportio 
+      <lb ed="#P" n="73"/>non est bona, quia materia prima
+      pro<lb ed="#P" n="74" break="no"/>pter sui imperfectionem semper dependet a 
+      <lb ed="#P" n="75"/>forma, forma vero prima nec dependet a ma 
+      <lb ed="#P" n="76"/>teria, nec a quocunque alio; &amp; cum
+      proba<lb ed="#P" n="77" break="no"/>tur, quia materia, &amp; forma dicuntur
+      relati<lb ed="#P" n="78" break="no"/>ue, dico quod forma potest accipi dupliciter,  
+      <lb ed="#P" n="79"/>vno modo secundum quod dicitur ab
+      infor<lb ed="#P" n="80" break="no"/>mando, &amp; inhaerendo, alio modo secundum 
+      <lb ed="#P" n="81"/>quod dicitur natura, &amp; actus, primo
+      mo<lb ed="#P" n="82" break="no"/>do forma dicitur relatiue ad materiam, secu 
+      <lb ed="#P" n="83"/>do modo non; prima autem forma dicitur 
+      <lb ed="#P" n="84"/>forma secundo modo, non primo.  
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2544">
+               <lb ed="#P" n="85"/>Ad secundam, nego falsitatem consequen 
+      <lb ed="#P" n="86"/>tis, &amp; cum probatur, quia comparatur rebus 
+      <lb ed="#P" n="87"/>quantis, dico quod illa comparatio non est 
+      <lb ed="#P" n="88"/>secundum proprietatem, sed secundum quam 
+      <lb ed="#P" n="89"/>lam misticam similitudinem, vtitur aute, talimo 
+      <lb ed="#P" n="90"/>do loquendi Sacra Scriptura ad excitandum 
+      <lb ed="#P" n="91"/>affectum infirmorum, teste <ref xml:id="gsX5tY-d1e395-Rd1e2561">P. Aug. 1. de Trin</ref>
+               <lb ed="#P" n="92"/>vbi ait, quod <quote xml:id="gsX5tY-d1e395-Qd1e2566" source="http://scta.info/resource/adt-l1-d1e14" synch="128-155">a rebus quae in creatura
+      repe<lb ed="#P" n="93" break="no"/>riuntur, scriptura solet valde infantilia pone 
+      <lb ed="#P" n="94"/>re, quibus infirmorum affectus moueatur ve 
+      <lb ed="#P" n="95"/>luti passibus quibusdam ad superiora, &amp;
+      in<lb ed="#P" n="96" break="no"/>feriora, pro suo modulo discernenda</quote> 
+            </p>
+            <p xml:id="gsX5tY-d1e395-d1e2578">
+               <lb ed="#P" n="97"/>Ad tertiam dico, quod substantia non
+      so<lb ed="#P" n="98" break="no"/>lum dicitur a substando accidentibus, sed es 
+      <lb ed="#P" n="99"/>aper se subsistendo: Deus ergo non dicitur 
+      <lb ed="#P" n="100"/>substantia primo modo, sed secundo modo, 
+      <lb ed="#P" n="101"/>&amp; sic ratio non concludit. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2591">
+               <lb ed="#P" n="102"/>Ad quartam dico, quod primum mobile 
+      <lb ed="#P" n="103"/>dicitur moueri ex se, non in quantum moue 
+      <lb ed="#P" n="104"/>tur a Deo qui est motor extrinsecus, &amp; sepa 
+      <lb ed="#P" n="105"/>ratus, sed inquantum mouetur a motore ap 
+      <lb ed="#P" n="106"/>propriato, qui est sibi coniunctus. 
+    </p>
+            <p xml:id="gsX5tY-d1e395-d1e2604">
+               <lb ed="#P" n="107"/>Ad quintam dico, quod vbicunque est con 
+      <lb ed="#P" n="108"/>nexio, &amp; aliqua colligatio ex parte vtriusque 
+      <lb ed="#P" n="109"/>connexi, ibi est aliqua composito, inter 
+      <lb ed="#P" n="110"/>Deum autem, &amp; vniuersum
+      nul<lb ed="#P" n="111" break="no"/>la est colligatio ex parte Dei 
+      <lb ed="#P" n="112"/>vt visum fuit) sed solum 
+      <lb ed="#P" n="113"/>ex parte vniuersi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

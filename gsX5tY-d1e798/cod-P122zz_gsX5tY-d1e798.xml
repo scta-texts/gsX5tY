@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="497-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e798"> <!-- l1d27q1 -->
+            <head xml:id="gsX5tY-d1e798-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e798-Hd1e112" type="question-title">Utrum verbum mentis nostrae habeat aliquam similitudinem cum verbo
+      increato</head>
+            <p xml:id="gsX5tY-d1e798-d1e115">
+               <lb ed="#P" n="46"/>DISTINCTIONIS XVII. 
+      <lb ed="#P" n="47"/>QVAESTIO VNICA 
+      <lb ed="#P" n="48"/>Vtrum verbum mentis nostrae habeat
+      ali<lb ed="#P" n="49" break="no"/>quam similitudinem cum verbo 
+      <lb ed="#P" n="50"/>increato. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e128">
+      <!--521.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 496 b -->
+               <lb ed="#P" n="51"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="52"/>negatiua 
+      <lb ed="#P" n="53"/>VErbum mentis nostrae non videtur 
+      <lb ed="#P" n="54"/>esse aliud, quam res ipsa intellecta, 
+      <lb ed="#P" n="55"/>quae vere, &amp; realiter separata est a mente non 
+      <lb ed="#P" n="56"/>stra, cuius est verbum, sed hoc non potest di 
+      <lb ed="#P" n="57"/>ci de verbo diuino, quia semper est vnitum 
+      <lb ed="#P" n="58"/>cum patre, cuius est verbum, secundum
+      il<lb ed="#P" n="59" break="no"/>ud loan, primo, In principio erat verbum, &amp;  
+      <lb ed="#P" n="60"/>verbum erat apud Deum; ergo &amp;c. Probo 
+      <lb ed="#P" n="61"/>Maiorem, quia dicit P. P. Augustinus in ser 
+      <lb ed="#P" n="62"/>mone de Natiuitate D. Io. quod vox est
+      si<lb ed="#P" n="63" break="no"/>gnum verbi; constat autem quod mens
+      no<lb ed="#P" n="64" break="no"/>stra per vocem exterius prolatam non
+      inte<lb ed="#P" n="65" break="no"/>dit significare aliud, quam rem ipsam
+      intel<lb ed="#P" n="66" break="no"/>lectam, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e173">
+               <lb ed="#P" n="67"/>2 Verbum mentis nostrae, vel est aliquid 
+      <lb ed="#P" n="68"/>separatum a mente, vel est aliquid inhaerens 
+      <lb ed="#P" n="69"/>menti; si sit separatum a mente, idem quod 
+      <lb ed="#P" n="70"/>prius, si vero ponatur inhaerens menti,
+      ad<lb ed="#P" n="71" break="no"/>nuc non habetur propositum, quia isto
+      mo<lb ed="#P" n="72" break="no"/>do maxime videtur recedere a similitudine 
+      <lb ed="#P" n="73"/>diuini verbi, quod nullo modo est inhaerens, 
+      <lb ed="#P" n="74"/>sed simpliciter subsistens 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e193">
+               <lb ed="#P" n="75"/>3 Illud, quod representat aliquam
+      perfe<lb ed="#P" n="76" break="no"/>ctionem essentialem, &amp; communem tribus 
+      <lb ed="#P" n="77"/>personis, non habet similitudinem cum
+      ver<lb ed="#P" n="78" break="no"/>bo diuino, sed verbum mentis nostrae est
+      hu<lb ed="#P" n="79" break="no"/>iusmodi; ergo &amp;c. Maior probatur, quia
+      ver<lb ed="#P" n="80" break="no"/>bum in diuinis dicitur notionaliter, &amp; non 
+      <lb ed="#P" n="81"/>essentialiter; &amp; ideo non omnibus personis,  
+      <lb ed="#P" n="82"/>sed soli filio competit esse verbum, sicut
+      pa<lb ed="#P" n="83" break="no"/>tet per <ref xml:id="gsX5tY-d1e798-Rd1e214">P. Augustinum 8. de Trinit. cap. 2.</ref> vbi 
+      <lb ed="#P" n="84"/>ait, quod Pater, &amp; Filius <quote xml:id="gsX5tY-d1e798-Qd1e220" source="http://scta.info/resource/adt-l6-d1e792" synch="253-259">non simul ambo ver 
+      <lb ed="#P" n="85"/>bum, sed solus filius verbum</quote>. Minorem pro 
+      <lb ed="#P" n="86"/>bo per eundemmet <ref xml:id="gsX5tY-d1e798-Rd1e227">P. Augustinum o de Tri 
+      <lb ed="#P" n="87"/>nit. cap. 20.</ref> vbi loquens de verbo mentis
+      no<lb ed="#P" n="88" break="no"/>strae dicit, quod est <quote xml:id="gsX5tY-d1e798-Qd1e234" source="http://scta.info/resource/adt-l9-d1e1087" synch="125-127">cum amore notitia</quote>;
+      con<lb ed="#P" n="89" break="no"/>tat autem quod notitia nostrae mentis 
+      repre<lb ed="#P" n="90" break="no"/>sentat diuinam cognitionem, &amp; scientiam, quae 
+      <lb ed="#P" n="91"/>est essentialis, &amp; communis tribus personis; 
+      <lb ed="#P" n="92"/>ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e247">
+               <lb ed="#P" n="93"/>AD OPPOSITVM arguitur. 
+      <lb ed="#P" n="94"/>P. Aug. &amp; alij Sacti ex similitudine verbi, quod 
+      <lb ed="#P" n="95"/>est in nobis, processere ad inuestigationem 
+      <lb ed="#P" n="96"/>verbi diuini; &amp; ideo idem Aug. 25. de
+      Prin<lb ed="#P" n="97" break="no"/>cap. 14. dicit, quod verbum nostrum
+      vtcun<lb ed="#P" n="98" break="no"/>que simile est verbo Dei. Et cap. 10 eiusdem  
+      <lb ed="#P" n="99"/>libri dicit, quod qui potest intelligere verbum 
+      <lb ed="#P" n="100"/>nostrum, non solum antequam sonet, verum 
+      <lb ed="#P" n="101"/>etiam antequam sonorum imagines
+      cogita<lb ed="#P" n="102" break="no"/>tione voluantur, intelligere potest etiam per 
+      <lb ed="#P" n="103"/>speculum, &amp; in aenigmate aliquam illius ver 
+      <lb ed="#P" n="104"/>bi similitudinem, de quo dictum est. In prin 
+      <lb ed="#P" n="105"/>cipio erat verbum 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e278">
+               <lb ed="#P" n="106"/>RESPONDEO: In ista
+      quaestio<lb ed="#P" n="107" break="no"/>ne tria sunt videnda 
+      <!--522.xml-->
+      <pb ed="#P" n="497"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>1 Vtrum verbum mentis nostrae sit
+      ipsa<lb ed="#P" n="2" break="no"/>met res intellecta, secundum quod est apud 
+      <lb ed="#P" n="3"/>intellectum nostrum obiectiue. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e298">
+               <lb ed="#P" n="4"/>2 Vtrum verbum mentis nostrae sit aliquid 
+      <lb ed="#P" n="5"/>inhaerens intellectui. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e305">
+               <lb ed="#P" n="6"/>3 Vtrum verbum in diuinis dicatur tan 
+      <lb ed="#P" n="7"/>tum notionaliter. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e313">
+               <lb ed="#P" n="8"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="9"/>Vtrum verbum mentis nostrae sit res 
+      <lb ed="#P" n="10"/>ipsa intellecta.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e322">
+               <lb ed="#P" n="11"/>E isto articulo duae sunt opiniones. 
+      <lb ed="#P" n="12"/>Dicunt enim quidam, quod verbum 
+      <lb ed="#P" n="13"/>mentis nostrae non est aliud, quam ipsa quid 
+      <lb ed="#P" n="14"/>ditas rei abstracta per intellectum agentem, 
+      <lb ed="#P" n="15"/>potens mouere intellectum possibilem, &amp; ter 
+      <lb ed="#P" n="16"/>minare eius actum. Pro ista autem
+      opinio<lb ed="#P" n="17" break="no"/>ne videntur facere praecipue duo
+      fundamen<lb ed="#P" n="18" break="no"/>ta, quae sumuntur ex dictis P. Aug. Primum 
+      <lb ed="#P" n="19"/>est, quia Verbum vocale est signum verbi men 
+      <lb ed="#P" n="20"/>talis: ita enim dicit <ref xml:id="gsX5tY-d1e798-Rd1e345">Aug. 15. de Trini. cap. 
+      <lb ed="#P" n="21"/>21.</ref> 
+               <quote xml:id="gsX5tY-d1e798-Qd1e351" source="http://scta.info/resource/adt-l15-d1e1804" synch="4-13">Verbum, quod foris sonat, est signum ver 
+      <lb ed="#P" n="22"/>bi, quod intus lucet</quote>, sed verbum vocale 
+      signifi<lb ed="#P" n="23" break="no"/>cat ipsam rem intellectam sic abstractam per 
+      <lb ed="#P" n="24"/>intellectum agentem, ergo: Maior probatur,  
+      <lb ed="#P" n="25"/>quia uerbum uocale significat illud de quo 
+      <lb ed="#P" n="26"/>aliquid praedicatur, &amp; de quo intellectus for 
+      <lb ed="#P" n="27"/>mat enunciationes, hoc autem non est
+      ali<lb ed="#P" n="28" break="no"/>quid inhaerens intellectui, sed quidditas rei 
+      <lb ed="#P" n="29"/>abstractae por intellectum agentem eo modo, 
+      <lb ed="#P" n="30"/>quo dictum est. Secundum fundamentum 
+      <lb ed="#P" n="31"/>est, quia uerbum mentis nostrae non videtur 
+      <lb ed="#P" n="32"/>esse aliud, quam definitio rei, ita enim dicit 
+      <lb ed="#P" n="33"/>
+               <ref xml:id="gsX5tY-d1e798-Rd1e380">Aug 0. de Trinit. cap. 10</ref> 
+               <quote xml:id="gsX5tY-d1e798-Qd1e383" source="http://scta.info/resource/adt-l9-d1e1087" synch="33-41">definio inquit, quid 
+      <lb ed="#P" n="34"/>est temperantia, &amp; hoc est verbum eius</quote>: 
+      defi<lb ed="#P" n="35" break="no"/>nitio autem non est aliud, quam quidditas 
+      <lb ed="#P" n="36"/>rei sic definitae, ergo a primo, ad vltimum, 
+      <lb ed="#P" n="37"/>verbum non erit aliud, quam quidditas rei 
+      <lb ed="#P" n="38"/>sic abstracta, quia solum isto modo potest 
+      <lb ed="#P" n="39"/>ab intellectu nostro definiri. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e400">
+               <lb ed="#P" n="40"/>Haec autem opinio non potest stare
+      pro<lb ed="#P" n="41" break="no"/>pter tria.¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e407">
+               <lb ed="#P" n="42"/>Primo, quia de ratione verbi est, quod na 
+      <lb ed="#P" n="43"/>scatur ex ipsa memoria, dicente Aug. 15. de 
+      <lb ed="#P" n="44"/>Trin. quod verbum nostrum nascitur ex
+      ip<lb ed="#P" n="45" break="no"/>sa scientia, quam memoria tenemus, quiddi 
+      <lb ed="#P" n="46"/>tas autem rei abstractae por intellectum
+      age<lb ed="#P" n="47" break="no"/>tem non nascitur de scientia nostra, quam
+      me<lb ed="#P" n="48" break="no"/>moria tenemus, ergo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e425">
+               <lb ed="#P" n="49"/>Secundo, non est verbum, quia de ratione 
+      <lb ed="#P" n="50"/>verbi est, quod fit cogitatio, dicente <ref xml:id="gsX5tY-d1e798-Rd1e431">Aug. in 
+      <lb ed="#P" n="51"/>eodem 15. de Trin. cap. 10.</ref> quod <quote xml:id="gsX5tY-d1e798-Qd1e436" source="http://scta.info/resource/adt-l15-d1e1870" synch="20-34">cogitatio 
+      <lb ed="#P" n="52"/>nostra perueniens ad illud quod scimus, atque 
+      <lb ed="#P" n="53"/>inde formata, verbum est</quote>, quidditas autem rei 
+      <!--522.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 497 b -->
+               <lb ed="#P" n="54"/>sic abstractae (vt isti dicunt) non est
+      cogita<lb ed="#P" n="55" break="no"/>tio, ergo non est verbum 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e455">
+               <lb ed="#P" n="56"/>Tertio, quia de ratione verbi est, quod sit 
+      <lb ed="#P" n="57"/>similitudo rei intellectae, dicente Anselmo 
+      <lb ed="#P" n="58"/>Monol. 48. quod verbum rei est ipsa
+      cogita<lb ed="#P" n="59" break="no"/>tio ad eius similitudinem ex memoria forma 
+      <lb ed="#P" n="60"/>ta, quidditas autem rei per intellectum agen 
+      <lb ed="#P" n="61"/>tem abstractae, non est formata ad similitudi 
+      <lb ed="#P" n="62"/>nem rei, ergo non est verbum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e474">
+               <lb ed="#P" n="63"/>Motiua autem superius inducta pro hac 
+      <lb ed="#P" n="64"/>opinione non cogunt: Nam cum primo
+      di<lb ed="#P" n="65" break="no"/>citur, quod verbum vocale est signum uerbi 
+      <lb ed="#P" n="66"/>mentalis; potest dici, quod dicitur signum 
+      <lb ed="#P" n="67"/>eius, non a significando, sed quia gerit
+      quan<lb ed="#P" n="68" break="no"/>dam similitudinem eius, vt puta, quia quemad 
+      <lb ed="#P" n="69"/>modum per verbum vocale quis loquitur al 
+      <lb ed="#P" n="70"/>teri; ita per verbum mentale loquitur sibi 
+      <lb ed="#P" n="71"/>ipsi; vel potest dici, quod ideo dicitur signum 
+      <lb ed="#P" n="72"/>eius, quia relatio signi non est in verbo voca 
+      <lb ed="#P" n="73"/>li, nisi mediante verbo mentali: nam per ver 
+      <lb ed="#P" n="74"/>bum mentale verbum uocale formatur, &amp; re 
+      <lb ed="#P" n="75"/>latio signi sibi imponitur. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e505">
+               <lb ed="#P" n="76"/>Ad secundum vero dicendum, quod defi 
+      <lb ed="#P" n="77"/>nitio non accipitur ibi pro ipsa quidditate 
+      <lb ed="#P" n="78"/>cei explicite cognita, secundum quem
+      mo<lb ed="#P" n="79" break="no"/>dum est idem, quod ipsa res definita, sed acci 
+      <lb ed="#P" n="80"/>pitur definitio pro ipso conceptu mentis ex 
+      <lb ed="#P" n="81"/>plicito, per quem ipsum definimus. Ex his er 
+      <lb ed="#P" n="82"/>go patet, quod opinio praefata non est
+      ratio<lb ed="#P" n="83" break="no"/>nabilis.  
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e525">
+               <lb ed="#P" n="84"/>DICVNTergo alij huic opinioni con 
+      <lb ed="#P" n="85"/>formiter, quod verbum mentis nostrae est ip 
+      <lb ed="#P" n="86"/>samet res intellecta, secundum quod per
+      a<lb ed="#P" n="87" break="no"/>ctum intellectionis emanat sub quodam esse  
+      <lb ed="#P" n="88"/>intentionali, &amp; obiectiuo, per quod quidem  
+      <lb ed="#P" n="89"/>esse ponitur in prospectu mentis, &amp; terminat 
+      <lb ed="#P" n="90"/>intuitum ipsius. Et hinc est, quod (secundum 
+      <lb ed="#P" n="91"/>istos) verbum vocatur cogitatio ab Augusti 
+      <lb ed="#P" n="92"/>no in pluribus locis; non quia sit ipsa
+      cogi<lb ed="#P" n="93" break="no"/>tatio formalis, sed quia est cogitatio
+      obiecti<lb ed="#P" n="94" break="no"/>ue formata, Fundamentum autem huius opi 
+      <lb ed="#P" n="95"/>nionis est, quia supponunt, quod res cognita 
+      <lb ed="#P" n="96"/>per actum cognitionis, necessario capiat
+      quod<lb ed="#P" n="97" break="no"/>dam esse intentionale conspicuum, &amp;
+      appa<lb ed="#P" n="98" break="no"/>rens, per quod ponatur in prospectu
+      cogno<lb ed="#P" n="99" break="no"/>scentis. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e562">
+               <lb ed="#P" n="100"/>QVAE quidem opinio quantum ad istud 
+      <lb ed="#P" n="101"/>fundamentum fuit superius improbata, scili 
+      <lb ed="#P" n="102"/>cet in prologo, &amp; in 3. distinct. Et ideo per 
+      <lb ed="#P" n="103"/>ea, quae dicta sunt ibi, suppono, quod defi 
+      <lb ed="#P" n="104"/>ciat in suo fundamento. Deficit etiam in se, 
+      <lb ed="#P" n="105"/>quia expresse vadit contra intentionem Au 
+      <lb ed="#P" n="106"/>gustini, cui tamen vult inniti, vt patet ex 
+      <lb ed="#P" n="107"/>quinque¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e582">
+               <lb ed="#P" n="108"/>Primo, quia secundum Aug. 20. de
+      Trin<lb ed="#P" n="109" break="no"/>cap. 21 verbum, quod in nobis gignitur, est 
+      <lb ed="#P" n="110"/>tanquam scientia de scientia, &amp; visio de vi¬ 
+      <!--523.xml-->
+      <pb ed="#P" n="498"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sione: res autem scita, &amp; visa nullo modo pro 
+      <lb ed="#P" n="2"/>prie loquendo potest dici scientia, vel visio, 
+      <lb ed="#P" n="3"/>dato etiam quod per actum visionis esset po 
+      <lb ed="#P" n="4"/>sita in aliquo esse intentionali, &amp; apparenti, 
+      <lb ed="#P" n="5"/>vt isti imaginantur. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e608">
+               <lb ed="#P" n="6"/>2 Praeterea in <ref xml:id="gsX5tY-d1e798-Rd1e612">eodem lib de Trin. cap. 22</ref> 
+               <lb ed="#P" n="7"/>dicit, quod <quote xml:id="gsX5tY-d1e798-Qd1e617" source="http://scta.info/resource/adt-l15-d1e1931" synch="65-78">cum verbum de scientia mea
+      gi<lb ed="#P" n="8" break="no"/>gnitur, vtrunque meum est, scilicet scientia, 
+      <lb ed="#P" n="9"/>&amp; verbum</quote>, res autem cognita, &amp; posita in 
+      <lb ed="#P" n="10"/>prospectu mentis meae per illud esse
+      inten<lb ed="#P" n="11" break="no"/>tionale non est aliquid meum, ergo non est 
+      <lb ed="#P" n="12"/>verbum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e633">
+               <lb ed="#P" n="13"/>3 Si verbum esset res posita in tali esse ap 
+      <lb ed="#P" n="14"/>patenti, &amp; intentionali, vt isti imaginantur,  
+      <lb ed="#P" n="15"/>sequeretur, quod formatio verbi nullo
+      mo<lb ed="#P" n="16" break="no"/>mo esset ab ipsa re, quod est contra P. Aug. 
+      <lb ed="#P" n="17"/>
+               <ref xml:id="gsX5tY-d1e798-Rd1e646">1S. de Trin. cap. 10</ref> vbi ait, quod
+      <quote xml:id="gsX5tY-d1e798-Qd1e649" source="http://scta.info/resource/adt-l15-d1e1801" synch="31-40">forma<lb ed="#P" n="18" break="no"/>ta cogitatio ab ea re, quam scimus, verbum 
+      <lb ed="#P" n="19"/>est</quote>, Consequentiam probo, quia formans,  
+      <lb ed="#P" n="20"/>&amp; formatum debent esse realiter distincta 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e659">
+               <lb ed="#P" n="21"/>4 Sequeretur quod intellectus formaret 
+      <lb ed="#P" n="22"/>verbum in quolibet suo actu; quod est
+      con<lb ed="#P" n="23" break="no"/>tra intentionem <ref xml:id="gsX5tY-d1e798-Rd1e667">August. in eodem 15. de 
+      <lb ed="#P" n="24"/>Trinit. cap. 15.</ref> vbi distinguit inter verbum, 
+      <lb ed="#P" n="25"/>&amp; cogitationem, &amp; ideo vult, quod cum 
+      <lb ed="#P" n="26"/>mens est in simplici actu cogitandi, verbum 
+      <lb ed="#P" n="27"/>non format. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e680">
+               <lb ed="#P" n="28"/>3 Sequeretur, quod quaelibet potentia 
+      <lb ed="#P" n="29"/>cognitiua formaret verbum: quod non solum 
+      <lb ed="#P" n="30"/>est contra intentionem Aug. sed etiam
+      con<lb ed="#P" n="31" break="no"/>tra intentionem omnium Sanctorum, qui de 
+      <lb ed="#P" n="32"/>verbo loquuntur, Consequentiam probo,  
+      <lb ed="#P" n="33"/>quia ponentes hanc opin concedunt, quod 
+      <lb ed="#P" n="34"/>quaelibet potentia cognitiua per actum
+      co<lb ed="#P" n="35" break="no"/>gnitionis ponat rem cognitam in quodam es 
+      <lb ed="#P" n="36"/>se apparenti, &amp; intentionali. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e702">
+               <lb ed="#P" n="37"/>Propter quae omnia videtur simpliciter 
+      <lb ed="#P" n="38"/>tenenda conclusio negatiua, scilicet quod 
+      <lb ed="#P" n="39"/>verbum mentis nostrae non sit ipsa res
+      intel<lb ed="#P" n="40" break="no"/>lecta, secundum quod existit apud intellectu 
+      <lb ed="#P" n="41"/> 
+            </p>
+            <p xml:id="gsX5tY-d1e798-d1e715">
+               <lb ed="#P" n="42"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="43"/>Vtrum verbum mentis nostrae sit aliquid in 
+      <lb ed="#P" n="44"/>haerens intellectui existens in eo subie 
+      <lb ed="#P" n="45"/>ctiue sicut species, vel sicut actus. 
+      <lb ed="#P" n="46"/>vel sicut conceptus formatus 
+      <lb ed="#P" n="47"/>per actum.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e731">
+               <lb ed="#P" n="48"/>D istum articulum dixerunt aliqui, quod 
+      <lb ed="#P" n="49"/>verbum in, nobis est aliquid inhaerens 
+      <lb ed="#P" n="50"/>intellectui sicut species, propter duo 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e741">
+               <lb ed="#P" n="51"/>Primo, quia de ratione verbi est, quod sit 
+      <lb ed="#P" n="52"/>quaedam forma, &amp; imago, quam intellectus 
+      <!--523.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 498 b -->
+               <lb ed="#P" n="53"/>habet apud se de re intellecta, dicente
+      An<lb ed="#P" n="54" break="no"/>selmo Monol. 32. que imago in cogitatione, 
+      <lb ed="#P" n="55"/>verbum est eiusdem hominis quam
+      cogitan<lb ed="#P" n="56" break="no"/>do dico; sed species rei intellectae est talis 
+      <lb ed="#P" n="57"/>forma, &amp; imago; ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e765">
+               <lb ed="#P" n="58"/>Secundo, quia de ratione verbi est
+      repre<lb ed="#P" n="59" break="no"/>sentare, &amp; manifestare, vt patet per August. 
+      <lb ed="#P" n="60"/>in pluribus locis, sed species rei intellectae 
+      <lb ed="#P" n="61"/>representat, &amp; manifestat, ergo videtur quod 
+      <lb ed="#P" n="62"/>ipsa sit verbum.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e778">
+               <lb ed="#P" n="63"/>ISTA autem opinio manifeste est
+      con<lb ed="#P" n="64" break="no"/>tra intentionem P. August. Tum quia
+      osten<lb ed="#P" n="65" break="no"/>sum est. supra ex intentione ipsius, quod  
+      <lb ed="#P" n="66"/>verbum nascitur de memoria, &amp; species 
+      <lb ed="#P" n="67"/>non nascitur de memoria, Tum etiam, quia 
+      <lb ed="#P" n="68"/>ostensum est ex intentione eiusdem, quod 
+      <lb ed="#P" n="69"/>verbum est scientia de scientia, &amp; visio de 
+      <lb ed="#P" n="70"/>visione, quod nullo modo potest verificari. 
+      <lb ed="#P" n="71"/>de specie; Tum vlterius, quia sequeretur,  
+      <lb ed="#P" n="72"/>quod verbum praeueniret omnem actum
+      in<lb ed="#P" n="73" break="no"/>telligendi, &amp; quod in qualibet potentia
+      co<lb ed="#P" n="74" break="no"/>gnitiua inueniretur ratio verbi; quae omnia. 
+      <lb ed="#P" n="75"/>sunt absurda. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e809">
+               <lb ed="#P" n="76"/>Motiua etiam superius inducta non
+      comn<lb ed="#P" n="77" break="no"/>gunt, quia peccant per fallaciam consequen 
+      <lb ed="#P" n="78"/>tis, procedendo a pluribus causis Veritatis ad 
+      <lb ed="#P" n="79"/>vnam, non enim sequitur, quod si verbum 
+      <lb ed="#P" n="80"/>est imago, quod sit haec imago, quae est
+      spe<lb ed="#P" n="81" break="no"/>cies; &amp; eodem modo non sequitur, quod si 
+      <lb ed="#P" n="82"/>verbum representat, &amp; manifestat, quod pro 
+      <lb ed="#P" n="83"/>pter hoc representet, &amp; manifestet, sicut
+      spe<lb ed="#P" n="84" break="no"/>cies, quia potest hoc facere alio modo sicut  
+      <lb ed="#P" n="85"/>actus secundum vnam opinionem, vel sicut  
+      <lb ed="#P" n="86"/>species secundum aliam.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e835">
+               <lb ed="#P" n="87"/>ET IDEO est alia opinio magis ratio; 
+      <lb ed="#P" n="88"/>nabilis, quae ponit, quod verbum in nobis 
+      <lb ed="#P" n="89"/>non est aliud, quam actualis intellectio pro 
+      <lb ed="#P" n="90"/>ducta, vel genita a nostra memoria, diuersifi 
+      <lb ed="#P" n="91"/>cantur tamen tenentes hanc opin. in modo 
+      <lb ed="#P" n="92"/>ponendi memoriam; Quia quidam eorum, di 
+      <lb ed="#P" n="93"/>cunt, quod memoria, a qua gignitur actualis 
+      <lb ed="#P" n="94"/>intellectio, quae est verbum, sit intellectus
+      a<lb ed="#P" n="95" break="no"/>gens simul cum phantasmate illustrato
+      con<lb ed="#P" n="96" break="no"/>niunctus intellectui possibili continenti om 
+      <lb ed="#P" n="97"/>nia intelligibilia in potentia; Alij vero,
+      di<lb ed="#P" n="98" break="no"/>cunt, quod intellectus possibilis habens obie 
+      <lb ed="#P" n="99"/>ctum intelligibile sibi praesens; siue per
+      sei<lb ed="#P" n="100" break="no"/>psum, siue per speciem tenet rationem
+      me<lb ed="#P" n="101" break="no"/>moriae, a qua gignitur verbum, quod non est 
+      <lb ed="#P" n="102"/>aliud, quam ipsa actualis intellectio.
+      Moti<lb ed="#P" n="103" break="no"/>ua autem huius opinionis praecipua sunt au 
+      <lb ed="#P" n="104"/>ctoritates Aug superius allegatae: &amp; plures 
+      <lb ed="#P" n="105"/>aliae, quae adduci possent ex intentione
+      eius<lb ed="#P" n="106" break="no"/>dem, in quibus omnibus appellat verbum 
+      <lb ed="#P" n="107"/>mentis nostrae sub nomine notitiae, vel sub 
+      <lb ed="#P" n="108"/>nomine cogitationis, vel sub nomine
+      visio<lb ed="#P" n="109" break="no"/>nis: Omnia autem nomina praefata non vi¬ 
+      <!--524.xml-->
+      <pb ed="#P" n="499"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dentur importare aliud, quam ipsam
+      actua<lb ed="#P" n="2" break="no"/>lem intellectionem. Conueniunt ergo dictae 
+      <lb ed="#P" n="3"/>duae opiniones in hoc, quod verbum sit actua 
+      <lb ed="#P" n="4"/>lis intellectio. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e902">
+               <lb ed="#P" n="5"/>ARGVO tamen quantum ad hoc con 
+      <lb ed="#P" n="6"/>tra eas, &amp; ostendo quod incidunt in
+      qua<lb ed="#P" n="7" break="no"/>tuor inconuenientia. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e912">
+               <lb ed="#P" n="8"/>Primum est, quia si verbum esset quaelibet 
+      <lb ed="#P" n="9"/>intellectio actualis, tunc etiam cogitatio
+      in<lb ed="#P" n="10" break="no"/>formis esset verbum, quod est contra
+      inten<lb ed="#P" n="11" break="no"/>tionem Aug in pluribus locis, &amp; <ref xml:id="gsX5tY-d1e798-Rd1e922">maxime 15 
+      <lb ed="#P" n="12"/>de Trin. cap. 10</ref> vbi dicit, quod verbum Dei 
+      <lb ed="#P" n="13"/>ita debet dici verbum, quod nullo modo di 
+      <lb ed="#P" n="14"/>bet dici cogitatio sic inquiens: Quapropter 
+      <lb ed="#P" n="15"/>ita qicitur illud Dei verbum, vt non dicatur 
+      <lb ed="#P" n="16"/>cogitatio ne aliquid esse volubile credatur in 
+      <lb ed="#P" n="17"/>Deo, quod tunc accipiat formam, vt uerbum 
+      <lb ed="#P" n="18"/>sit, eamque possit amittere; &amp; statim ibidem 
+      <lb ed="#P" n="19"/>subiungit, cogitatio quippe nostra perueniens 
+      <lb ed="#P" n="20"/>ad illud, quod scimus, atque inde formata 
+      <lb ed="#P" n="21"/>verbum est. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e948">
+               <lb ed="#P" n="22"/>Secundum inconueniens est, quia si quae 
+      <lb ed="#P" n="23"/>libet intellectio actualis est verbum, tunc uer 
+      <lb ed="#P" n="24"/>bum non erit visio de visione, quod est
+      con<lb ed="#P" n="25" break="no"/>tra Aug. superius allegatum. Consequentia 
+      <lb ed="#P" n="26"/>apparet, quia saltem de illa actuali
+      intellectio<lb ed="#P" n="27" break="no"/>ne, quae est omnino prima, non est uerum 
+      <lb ed="#P" n="28"/>dicere, quod sit visio de visione, cum nulla 
+      <lb ed="#P" n="29"/>visio eam praecedat. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e968">
+               <lb ed="#P" n="30"/>Tertium inconueniens est, quia cognitio 
+      <lb ed="#P" n="31"/>actualis non erit principium formationis ver 
+      <lb ed="#P" n="32"/>bi, quod videtur esse falsum: Nam sicut
+      ver<lb ed="#P" n="33" break="no"/>bum vocale formatur mediante locutione ex 
+      <lb ed="#P" n="34"/>teriori; ita verbum mentale formatur in
+      no<lb ed="#P" n="35" break="no"/>bis mediante locuntione interiori, quae quidem 
+      <lb ed="#P" n="36"/>locutio exterior non videtur esse aliud, quam 
+      <lb ed="#P" n="37"/>actualis cognitio, vel saltem habet necessarie 
+      <lb ed="#P" n="38"/>annexam actualem cognitionem, Consequen 
+      <lb ed="#P" n="39"/>tiam probo, quia illud, quod est principium 
+      <lb ed="#P" n="40"/>formationis verbi in nobis, pertinet ad
+      par<lb ed="#P" n="41" break="no"/>tem imaginis, quae est memoria, actualis
+      au<lb ed="#P" n="42" break="no"/>tem cognitio, vel intellectio nullo modo(se¬ 
+      <lb ed="#P" n="43"/>cundum istos) pertinet ad memoriam: ergo 
+      <lb ed="#P" n="44"/>nullo modo erit principium formationis 
+      <lb ed="#P" n="45"/>verbi. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1005">
+               <lb ed="#P" n="46"/>Quartum inconueniens est, quia quelibet 
+      <lb ed="#P" n="47"/>otentia cognitiua poterit formare verbum 
+      <lb ed="#P" n="48"/>quod patet esse falsum, Consequentiam pro 
+      <lb ed="#P" n="49"/>so, quia quantum ad simplicem cognitionem 
+      <lb ed="#P" n="50"/>sui obiecti, non est aliqua differentia inter in 
+      <lb ed="#P" n="51"/>tellectum, &amp; sensum, &amp; ideo si simplex, &amp;  
+      <lb ed="#P" n="52"/>actualis cognitio intellectus est verbum, non 
+      <lb ed="#P" n="53"/>apparet ratio, quare simplex, &amp; actualis
+      co<lb ed="#P" n="54" break="no"/>gnitio sensus non possit dici verbum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1027">
+               <lb ed="#P" n="55"/>AD auctoritates etiam, quae adducuntur,  
+      <lb ed="#P" n="56"/>Respondetur quod non cogunt: Nam
+      quam<lb ed="#P" n="57" break="no"/>uis verbum sit uisio, non tamen visio est ver 
+      <!--524.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 499 b -->
+               <lb ed="#P" n="58"/>bum, quia in plus se habet visio, quam ipsum 
+      <lb ed="#P" n="59"/>verbum: &amp; eodem modo est dicendum de 
+      <lb ed="#P" n="60"/>notitia, &amp; cogitatione; &amp; ideo semper in tali 
+      <lb ed="#P" n="61"/>processu proceditur a superiori ad inferius 
+      <lb ed="#P" n="62"/>affirmando; quapropter defectus omnium 
+      <lb ed="#P" n="63"/>talium rationum de se est patens 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1055">
+               <lb ed="#P" n="64"/>EST ergo alia opinio, quae ponit verbum 
+      <lb ed="#P" n="65"/>in nobis esse actualem intellectionem, vel 
+      <lb ed="#P" n="66"/>notitiam, non tamen quancumque, quia sic 
+      <lb ed="#P" n="67"/>non differret ab opinione praecedenti, sed  
+      <lb ed="#P" n="68"/>dicit, quod est notitia declaratiua. Volunt. nm 
+      <lb ed="#P" n="69"/>quod intellectus informatus notitia
+      simpli<lb ed="#P" n="70" break="no"/>ci, quam recipit ab obiecto, efficiatur
+      fecun<lb ed="#P" n="71" break="no"/>dus, ita ut habeat rationem memoriae potentis 
+      <lb ed="#P" n="72"/>in seipso gignere notitiam declaratiuam, quae 
+      <lb ed="#P" n="73"/>est uerbum 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1080">
+               <lb ed="#P" n="74"/>HAEC autem opinio fuit superius recita 
+      <lb ed="#P" n="75"/>ta, &amp; improbata in x. distinct &amp; ideo
+      bre<lb ed="#P" n="76" break="no"/>uiter transeundo dico, quod quamuis
+      con<lb ed="#P" n="77" break="no"/>clusio in se forte sit vera quantum ad hoc, 
+      <lb ed="#P" n="78"/>quod dicit verbum esse notitiam
+      declarati<lb ed="#P" n="79" break="no"/>uam, modus tamen ponendi non videtur ra 
+      <lb ed="#P" n="80"/>tionabilis propter tria 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1098">
+               <lb ed="#P" n="81"/>Primo, quia dicunt, quod intellectus
+      effi<lb ed="#P" n="82" break="no"/>citur foecundus per illam notitiam simplice: 
+      <lb ed="#P" n="83"/>hoc autem non videtur rationabile, quia cum 
+      <lb ed="#P" n="84"/>notitia declaratiua sit potior, quam notitia 
+      <lb ed="#P" n="85"/>simplex; si notitia simplex potest efficere
+      in<lb ed="#P" n="86" break="no"/>tellectum foecundum, multo magis hoc pote 
+      <lb ed="#P" n="87"/>rit notitia declaratiua.  
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1116">
+               <lb ed="#P" n="88"/>Secundo, quia dicunt quod illa notitia 
+      <lb ed="#P" n="89"/>simplex est principium productiuum
+      noti<lb ed="#P" n="90" break="no"/>tiae declaratiuae, quod etiam non videtur
+      ra<lb ed="#P" n="91" break="no"/>tionabile, quia tunc productum esset
+      nobi<lb ed="#P" n="92" break="no"/>lius principio productiuo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1129">
+               <lb ed="#P" n="93"/>Tertio, quia non videtur quomodo
+      pos<lb ed="#P" n="94" break="no"/>int soluere, quod illae duae notitiae, scilicet 
+      <lb ed="#P" n="95"/>simplex, &amp; declaratiua possint simul stare in 
+      <lb ed="#P" n="96"/>eodem intellectu respectu eiusdem obiecti; 
+      <lb ed="#P" n="97"/>nec uidetur possibile quod notitia, simplex 
+      <lb ed="#P" n="98"/>desinat adueniente notitia declaratiua, quia 
+      <lb ed="#P" n="99"/>contra rationem termini producti est, quod 
+      <lb ed="#P" n="100"/>corrumpat suum principium productiuum 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1149">
+               <lb ed="#P" n="101"/>Et ideo adhuc est alia opinio, in qua
+      con<lb ed="#P" n="102" break="no"/>cordant duo doctores dicentes, verbum men 
+      <lb ed="#P" n="103"/>tis nostrae non esse speciem, nec actualem in 
+      <lb ed="#P" n="104"/>tellectionem, siue actus intelligendi, sed con 
+      <lb ed="#P" n="105"/>ceptum formatum per actum: qui quidem 
+      <lb ed="#P" n="106"/>conceptus ita se habet apud intellectum,
+      si<lb ed="#P" n="107" break="no"/>cut quaedam forma specularis, in qua natura 
+      <lb ed="#P" n="108"/>rei intellectae cernitur, &amp; ideo dicunt
+      vlte<lb ed="#P" n="109" break="no"/>rius, quod iste conceptus non est aliud, quam 
+      <lb ed="#P" n="110"/>definitio, quam intellectus format in
+      intelli<lb ed="#P" n="111" break="no"/>gendo simpliciter, quia in eo, tamquam in
+      spe<lb ed="#P" n="112" break="no"/>culo, cernitur natura rei definitae, sicut
+      pro<lb ed="#P" n="113" break="no"/>batur per Hugonem in commento suo
+      su<lb ed="#P" n="114" break="no"/>per 2. de Angelica hicrarchia, vbi exponens 
+      <!--525.xml-->
+      <pb ed="#P" n="500"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Dionysium, qui vocat definitionem specula 
+      <lb ed="#P" n="2"/>tionem, ita dicit, definitionem autem,
+      idcir<lb ed="#P" n="3" break="no"/>co speculationem vocat, quia definitio
+      qua<lb ed="#P" n="4" break="no"/>si speculum est, in qua sicut in speculo rei na 
+      <lb ed="#P" n="5"/>tura cernitur, sicut in speculo opposit
+      cor<lb ed="#P" n="6" break="no"/>poris imago. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1201">
+               <lb ed="#P" n="7"/>Quod ergo talis definitio, quae non est
+      a<lb ed="#P" n="8" break="no"/>liud, quam conceptus formatus per actum in 
+      <lb ed="#P" n="9"/>telligendi, sit verbum nostrae mentis,
+      proba<lb ed="#P" n="10" break="no"/>tur specialiter ex duobus. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1213">
+               <lb ed="#P" n="11"/>Primo, quia verbum in nobis, vel est
+      ip<lb ed="#P" n="12" break="no"/>se actus intelligendi, vel conceptus formatus 
+      <lb ed="#P" n="13"/>per actum, non actus intelligendi, quia cum 
+      <lb ed="#P" n="14"/>verbum nostrum gerat similitudinem verbi 
+      <lb ed="#P" n="15"/>diuini, videtur quod sicut intelligere patris 
+      <lb ed="#P" n="16"/>in diuinis non est verbum patris, ita
+      intelli<lb ed="#P" n="17" break="no"/>gere in nobis non est verbum nostrum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1231">
+               <lb ed="#P" n="18"/>Secundo, quia Verbum vocale est signum 
+      <lb ed="#P" n="19"/>verbi mentalis, sed verbum vocale significat 
+      <lb ed="#P" n="20"/>conceptum formatum per actum, &amp; non
+      ip<lb ed="#P" n="21" break="no"/>sum actum, ergo: Minorem probo, quia
+      ver<lb ed="#P" n="22" break="no"/>bum vocale, quod est nomen, significat
+      ip<lb ed="#P" n="23" break="no"/>sam definitionem. Nam secundum Arist. 4. 
+      <lb ed="#P" n="24"/>Metaph ratio, quam significat nomen, est 
+      <lb ed="#P" n="25"/>definitio, quae quidem definitio, vt dicebatur 
+      <lb ed="#P" n="26"/>supra, non est ipse actus intelligendi, sed
+      il<lb ed="#P" n="27" break="no"/>lud, quod format intellectus per talem
+      a<lb ed="#P" n="28" break="no"/>ctum, quapropter concluditur, verbum non 
+      <lb ed="#P" n="29"/>esse actualem intellectionem, sed quendam  
+      <lb ed="#P" n="30"/>conceptum per eam formatum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1262">
+               <lb ed="#P" n="31"/>Haec autem opinio hoc modo explicatur 
+      <lb ed="#P" n="32"/>a quibusdam. Dicunt enim quod talis conce 
+      <lb ed="#P" n="33"/>ptus est formatus per actum intelligendi, quia 
+      <lb ed="#P" n="34"/>est per eum productus, tanquam terminus 
+      <lb ed="#P" n="35"/>ntellectualis operationis. Quod confirmant 
+      <lb ed="#P" n="36"/>dupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1278">
+               <lb ed="#P" n="37"/>Primo, quia intelligere, cum sit
+      quae<lb ed="#P" n="38" break="no"/>dam operatio, debet habere aliquem termi- 
+      <lb ed="#P" n="39"/>num; iste autem terminus non potest esse
+      a<lb ed="#P" n="40" break="no"/>liud, quam talis conceptus formatus, qui est 
+      <lb ed="#P" n="41"/>verbum, ergo verbum est aliquid productum 
+      <lb ed="#P" n="42"/>per actum intelligendi. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1294">
+               <lb ed="#P" n="43"/>Secundo, quia intelligere emanat ab intel 
+      <lb ed="#P" n="44"/>ligente, vt quaedam operatio; verbum autem 
+      <lb ed="#P" n="45"/>vt aliquid productum per operationem
+      in<lb ed="#P" n="46" break="no"/>tellectus, quia de ratione sua intrinseca est 
+      <lb ed="#P" n="47"/>esse productum per actum intelligendi. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1307">
+               <lb ed="#P" n="48"/>Probatur insuper quod sit necessarium 
+      <lb ed="#P" n="49"/>ponere aliquem talem conceptum realiter
+      di<lb ed="#P" n="50" break="no"/>stinctum ab actu intelligendi, qui non sit
+      as<lb ed="#P" n="51" break="no"/>sentire, vel dissentire, vel dubitare : Conce 
+      <lb ed="#P" n="52"/>ptus, quem formamus de aliquo complexo, 
+      <lb ed="#P" n="53"/>non est aliquis istorum actuum, quia stat cum 
+      <lb ed="#P" n="54"/>quolibet eorum, vt de se patet, ergo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1326">
+               <lb ed="#P" n="55"/>Secundo, quia videmus, quod sciens
+      veri<lb ed="#P" n="56" break="no"/>tatem de aliquo complexo, &amp; ille, qui errat 
+      <lb ed="#P" n="57"/>circa illud complexum, quamuis non habeat 
+      <!--525.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 500 b -->
+               <lb ed="#P" n="58"/>similem actum intelligendi, sed omnino
+      op<lb ed="#P" n="59" break="no"/>positos, quia vnus assentit, &amp; alter dissentit, 
+      <lb ed="#P" n="60"/>nabent tamen omnino idem conceptum; qua 
+      <lb ed="#P" n="61"/>propter relinquitur, quod, talis conceptus 
+      <lb ed="#P" n="62"/>non sit ipse actus intelligendi, sed realiter di 
+      <lb ed="#P" n="63"/>stinctus ab actu. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1354">
+               <lb ed="#P" n="64"/>Tertio, quia ita est in intellectu suo
+      mo<lb ed="#P" n="65" break="no"/>do, sicut in sensu, sed in sensu est dare
+      ali<lb ed="#P" n="66" break="no"/>quod ldolum distinctum ab actu sentiendi 
+      <lb ed="#P" n="67"/>in quo cognoscitur res sensata, sicut patet in 
+      <lb ed="#P" n="68"/>somnijs, ergo &amp; in intellectu erit dare
+      ali<lb ed="#P" n="69" break="no"/>quid tale realiter distinctum ab actu
+      intelli<lb ed="#P" n="70" break="no"/>gendi, &amp; hoc non potest esse nisi talis
+      con<lb ed="#P" n="71" break="no"/>ceptus per actum productus, ergo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1374">
+               <lb ed="#P" n="72"/>Iste ergo est sensus qui datur opinioni 
+      <lb ed="#P" n="73"/>praefatae. Videtur tamen mihi, quod sit omni 
+      <lb ed="#P" n="74"/>no contra intentionem opinantium
+      pro<lb ed="#P" n="75" break="no"/>pter tria. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1385">
+               <lb ed="#P" n="76"/>Primo, quia sequeretur, quod intellectus. 
+      <lb ed="#P" n="77"/>noster per se, &amp; directe esset actiuus,
+      cu<lb ed="#P" n="78" break="no"/>ius contrarium intendunt Positores opi- 
+      <lb ed="#P" n="79"/>nionis, Consequentia apparet, quia illud,  
+      <lb ed="#P" n="80"/>quod competit intellectui per suum actum, 
+      <lb ed="#P" n="81"/>competit ei per se, &amp; directe, vt est actiuus. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1401">
+               <lb ed="#P" n="82"/>Secundo, sequeretur actum intellectus 
+      <lb ed="#P" n="83"/>definientis esse practicum, quod patet esse 
+      <lb ed="#P" n="84"/>falsum, quia tunc omnis scientia esset practi 
+      <lb ed="#P" n="85"/>ca, Consequentia apparet, quia ille actus
+      in<lb ed="#P" n="86" break="no"/>tellectus, qui habet pro fine, &amp; termino ali 
+      <lb ed="#P" n="87"/>quid a se operatum, &amp; a se productum est pra 
+      <lb ed="#P" n="88"/>cticus, sed actus intellectus definientis est 
+      <lb ed="#P" n="89"/>huiusmodi (secundum istam viam) ergo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1421">
+               <lb ed="#P" n="90"/>Tertio, sequeretur quod intellectus fieret 
+      <lb ed="#P" n="91"/>practicus sine omni ordine ad voluntatem, 
+      <lb ed="#P" n="92"/>quod est falsum ex tertio de anima;
+      Conse<lb ed="#P" n="93" break="no"/>quentia apparet, quia intellectus format
+      ta<lb ed="#P" n="94" break="no"/>lem conceptum in quolibet suo actu (secun 
+      <lb ed="#P" n="95"/>dum expositionem istorum) Praeterea si
+      di<lb ed="#P" n="96" break="no"/>cta opinio esset intelligenda, vt isti exponunt,  
+      <lb ed="#P" n="97"/>tunc rationes, quae fiunt ab alijs contra eam, 
+      <lb ed="#P" n="98"/>sufficienter concluderent, &amp; veritatem
+      at<lb ed="#P" n="99" break="no"/>tingerent. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1446">
+               <lb ed="#P" n="100"/>Arguunt enim quidam contra eam
+      tri<lb ed="#P" n="101" break="no"/>pliciter, 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1453">
+               <lb ed="#P" n="102"/>Primo, quia si esset dare in intellectu
+      ali<lb ed="#P" n="103" break="no"/>quem conceptum oroductum per actum
+      in<lb ed="#P" n="104" break="no"/>telligendi, tunc nulla esset operatio, quae non 
+      <lb ed="#P" n="105"/>haberet aliquem actum, &amp; per consequens 
+      <lb ed="#P" n="106"/>nulla operatio esset finis operantis, quod to 
+      <lb ed="#P" n="107"/>tum est contra Arist. &amp; Com. in 9.
+      Metaph<lb ed="#P" n="108" break="no"/>vt de se patet. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1471">
+               <lb ed="#P" n="109"/>Secundo sequeretur quod talis
+      conce<lb ed="#P" n="110" break="no"/>ptus prius esset cognitus, quam productus,  
+      <lb ed="#P" n="111"/>quod patet esse falsum, quia tunc intellectus 
+      <lb ed="#P" n="112"/>roduceret aliquid in se per artem,
+      Conse<lb ed="#P" n="113" break="no"/>uentia probatur, quia videmus, quod
+      arti<lb ed="#P" n="114" break="no"/>fex cum producit aliquam imaginem exterio¬ 
+      <!--526.xml-->
+      <pb ed="#P" n="501"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rem, prius eam cognoscit, quam producat; 
+      <lb ed="#P" n="2"/>ergo eodem modo talis conceptus, cum sit 
+      <lb ed="#P" n="3"/>quaedam forma specularis, &amp; quaedam
+      ima<lb ed="#P" n="4" break="no"/>go interior, prius cognoscetur, quam
+      pro<lb ed="#P" n="5" break="no"/>ducatur 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1504">
+               <lb ed="#P" n="6"/>Tertio sequeretur, quod intellectus
+      co<lb ed="#P" n="7" break="no"/>gnosceret rem ipsam perfecte antequam
+      ta<lb ed="#P" n="8" break="no"/>lem formam specularem produceret, Conse 
+      <lb ed="#P" n="9"/>quentia probatur, quia si cognitio rei est cau 
+      <lb ed="#P" n="10"/>sa productiua talis formae, &amp; talis conceptus. 
+      <lb ed="#P" n="11"/>non poterit talis forma produci perfecte,
+      ni<lb ed="#P" n="12" break="no"/>si sit praeuia perfecta cognitio rei. Hae, inquam, 
+      <lb ed="#P" n="13"/>rationes non videntur posse vitari, si
+      intelli<lb ed="#P" n="14" break="no"/>gatur opinio, sicut ipsi eam exponunt. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1526">
+               <lb ed="#P" n="15"/>Propter quae omnia videtur mihi, quod 
+      <lb ed="#P" n="16"/>sit aliter intelligenda, vt appareat rationabi 
+      <lb ed="#P" n="17"/>lis, &amp; non procedant contra eam
+      dubitatio<lb ed="#P" n="18" break="no"/>nes adductae. Ad huius ergo euidentiam est 
+      <lb ed="#P" n="19"/>intelligedum, quod apud intellectum aliud 
+      <lb ed="#P" n="20"/>est ipsum concipere, aliud est ipsum parere 
+      <lb ed="#P" n="21"/>Nam concipere idem est, quod simpliciter 
+      <lb ed="#P" n="22"/>intelligere, ad quod quidem simplex
+      intelli<lb ed="#P" n="23" break="no"/>gere ita se habet intellectus, quemadmodum 
+      <lb ed="#P" n="24"/>quaelibet alia potentia cognitiua ad suum
+      sim<lb ed="#P" n="25" break="no"/>plicem actum, &amp; ideo sicut quaelibet alia po 
+      <lb ed="#P" n="26"/>tentia cognitiua per suum simplicem actum 
+      <lb ed="#P" n="27"/>capit rem cognitam in seipsa immaterialiter; 
+      <lb ed="#P" n="28"/>ita etiam intellectus, &amp; multo magis In hoc 
+      <lb ed="#P" n="29"/>tamen est differentia, quia aliae potentiae non 
+      <lb ed="#P" n="30"/>ita capiunt rem cognitam in seipsis, vt dican 
+      <lb ed="#P" n="31"/>tur res concipere; intellectus vero dum
+      ca<lb ed="#P" n="32" break="no"/>pit rem cognitam in seipso, suum capere vo 
+      <lb ed="#P" n="33"/>catur concipere. Hoc autem ideo est, quia 
+      <lb ed="#P" n="34"/>intellectus sic capit rem cognitam in seipso 
+      <lb ed="#P" n="35"/>quod tamen potest eam loqui, &amp; parturire; 
+      <lb ed="#P" n="36"/>aliae vero potentiae sic capiunt rem cognitam 
+      <lb ed="#P" n="37"/>in seipsis, quod non possunt eam loqui, nec 
+      <lb ed="#P" n="38"/>parturire. Apparet ergo quid sit concipere 
+      <lb ed="#P" n="39"/>apud intellectum Parere vero, vel
+      parturi<lb ed="#P" n="40" break="no"/>re, idem est, quod rem oonceptam exprime 
+      <lb ed="#P" n="41"/>re vel explicare, quae quidem explicatio fie 
+      <lb ed="#P" n="42"/>ri non potest, nisi per aliquem conceptum 
+      <lb ed="#P" n="43"/>explicitum, &amp; quia conceptus definitiuus 
+      <lb ed="#P" n="44"/>est maxime explicitus inter omnes conceptus 
+      <lb ed="#P" n="45"/>simplices, idcirco tunc intellectus dicitur par 
+      <lb ed="#P" n="46"/>turire, &amp; verbum formare, quando per suum 
+      <lb ed="#P" n="47"/>processum peruenit vsque ad talem conceptum 
+      <lb ed="#P" n="48"/>explicitum, qui est vltimus terminus
+      intel<lb ed="#P" n="49" break="no"/>lectualis operationis; Non tamen propter 
+      <lb ed="#P" n="50"/>hoc est imaginandum, quod talis terminus 
+      <lb ed="#P" n="51"/>sit productus per intellectualem
+      operatio<lb ed="#P" n="52" break="no"/>nem propter inconuenientia superius
+      in<lb ed="#P" n="53" break="no"/>ducta, quia non ideo dicitur terminus eius,  
+      <lb ed="#P" n="54"/>quia sit per eam productus, sed quia sibi suc 
+      <lb ed="#P" n="55"/>cedit, &amp; eam necessario supponit,
+      quemad<lb ed="#P" n="56" break="no"/>modum forma completa succedit formae
+      in<lb ed="#P" n="57" break="no"/>tompletae, &amp; eam necessario supponit, sicut 
+      <!--526.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 501 b -->
+               <lb ed="#P" n="58"/>ergo videmus in formis naturalibus, quod 
+      <lb ed="#P" n="59"/>forma perfecta succedit formae imperfectae, 
+      <lb ed="#P" n="60"/>&amp; eam necessario supponit, nec tamen ab ea 
+      <lb ed="#P" n="61"/>producitur, sed ambae producuntur ab eade 
+      <lb ed="#P" n="62"/>causa, sic etiam possumus imaginari in
+      pro<lb ed="#P" n="63" break="no"/>posito quod talis conceptus definitiuus, &amp;  
+      <lb ed="#P" n="64"/>explicitus succedat actui intellectus implici 
+      <lb ed="#P" n="65"/>to, &amp; eum necessario supponat secudum sta 
+      <lb ed="#P" n="66"/>tum praesentis viae, &amp; tamen ab eo non
+      pro<lb ed="#P" n="67" break="no"/>ducitur, immo ambo producuntur ab eade 
+      <lb ed="#P" n="68"/>causa, quaecunque sit illa: Et ideo si ponatur 
+      <lb ed="#P" n="69"/>quod intellectus possibilis sit actiuus,
+      quo<lb ed="#P" n="70" break="no"/>cunque modo, siue directe, siue indirecte, siue 
+      <lb ed="#P" n="71"/>cum specle, siue sine specle, dicetur quod 
+      <lb ed="#P" n="72"/>producit ista duo quodam ordine, quia pri 
+      <lb ed="#P" n="73"/>mo producit illum actum intelligendi impli 
+      <lb ed="#P" n="74"/>citum, consequenter vero ipsum conceptum 
+      <lb ed="#P" n="75"/>explicitum. Si vero ponatur quod
+      intelle<lb ed="#P" n="76" break="no"/>ctus possibilis sit passiuus, tunc dicetur, quod 
+      <lb ed="#P" n="77"/>intellectus agens cum phantasmate
+      illustra<lb ed="#P" n="78" break="no"/>to producit dicta duo consimili ordine, 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1674">
+               <lb ed="#P" n="79"/>Praeterea pro maiori notitia sciendum est 
+      <lb ed="#P" n="80"/>qualiter se habeat talis conceptus ad actum 
+      <lb ed="#P" n="81"/>intelligendi simplicem, &amp; imperfectum: nam 
+      <lb ed="#P" n="82"/>sicut species est principium actus intelligen 
+      <lb ed="#P" n="83"/>di simplicis, &amp; imperfecti; quia suplet vicem 
+      <lb ed="#P" n="84"/>obiecti imperfecte representati; ita talis con 
+      <lb ed="#P" n="85"/>ceptus explicitus, &amp; perfectus est principium 
+      <lb ed="#P" n="86"/>actus intelligendi expliciti, &amp; perfecti, quia 
+      <lb ed="#P" n="87"/>suplet vicem obiecti perfecte, &amp; explicite
+      re<lb ed="#P" n="88" break="no"/>presentati, 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1699">
+               <lb ed="#P" n="89"/>Intelligendum tamen vlterius, quod
+      in<lb ed="#P" n="90" break="no"/>ter actum intelligendi simplicem, cuius prin 
+      <lb ed="#P" n="91"/>cipium est species; &amp; actum intelligendi
+      ex<lb ed="#P" n="92" break="no"/>plicitum, cuius principium est ille conceptus? 
+      <lb ed="#P" n="93"/>explicitus, &amp; formatus, credo esse
+      ponen<lb ed="#P" n="94" break="no"/>dum alium actum intelligendi medium, que 
+      <lb ed="#P" n="95"/>voco actum inquisitiuum, cuius principium 
+      <lb ed="#P" n="96"/>est ipsa cogitatio informis, &amp; credo esse de 
+      <lb ed="#P" n="97"/>intentione August. vt inferius patebit. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1721">
+               <lb ed="#P" n="98"/>ET IDEO si volumus bene videre
+      pro<lb ed="#P" n="99" break="no"/>cessum nostri intellectus, videtur mihi, quod 
+      <lb ed="#P" n="100"/>debeamus ibi imaginari sex per ordinem 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1730">
+               <lb ed="#P" n="101"/>Primo quidem imaginabimur ibi specien 
+      <lb ed="#P" n="102"/>intelligibilium: nam suppono ad praesens, 
+      <lb ed="#P" n="103"/>quod sit necessarium ponere talem speciem 
+      <lb ed="#P" n="104"/>realiter distinctam ab actu, vt in 2. libr.
+      de<lb ed="#P" n="105" break="no"/>clarabitur Deo dante 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1743">
+               <lb ed="#P" n="106"/>Secundo, actum intelligendi rectum 
+      <lb ed="#P" n="107"/>simplicem, &amp; imperfectum: nam quia 
+      <lb ed="#P" n="108"/>species representat obiectum sub quodam  
+      <lb ed="#P" n="109"/>esse confuso, &amp; implicito, idcirco
+      intelle<lb ed="#P" n="110" break="no"/>ctus informatus specie exit in actum
+      intel<lb ed="#P" n="111" break="no"/>ligendi simplicem, &amp; imperfectum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1759">
+               <lb ed="#P" n="112"/>Tertio, imaginabimur ibi quendam
+      con<lb ed="#P" n="113" break="no"/>ceptum indeterminatum, quem quidem con 
+      <lb ed="#P" n="114"/>ceptum possumus uocare cogitationem in¬ 
+      <!--527.xml-->
+      <pb ed="#P" n="502"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>formen, secundum mentem Augustini vt 
+      <lb ed="#P" n="2"/>credo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1779">
+               <lb ed="#P" n="3"/>Quarto, ponimus ibi actum intelligendi 
+      <lb ed="#P" n="4"/>inquisitiuum; Nam quia iste conceptus
+      in<lb ed="#P" n="5" break="no"/>formis representat obiectum sub quodam es 
+      <lb ed="#P" n="6"/>se indeterminato, &amp; volibili; idcirco intelle 
+      <lb ed="#P" n="7"/>ctus informatus tali conceptu erit in actum  
+      <lb ed="#P" n="8"/>intelligendi inquisitiuum, vt perueniat ad 
+      <lb ed="#P" n="9"/>conceptum vltimum, &amp; perfectum, in quo 
+      <lb ed="#P" n="10"/>sua inquisitio terminatur. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1800">
+               <lb ed="#P" n="11"/>Et ideo imaginabimur ibiQuinto quendam 
+      <lb ed="#P" n="12"/>conceptum explicitum, &amp; formatum, qui est 
+      <lb ed="#P" n="13"/>terminus dicti actus inquisitiui; non quod sit 
+      <lb ed="#P" n="14"/>productus per dictum actum, vt dicebatur 
+      <lb ed="#P" n="15"/>superius; immo producetur ab eadem
+      cau<lb ed="#P" n="16" break="no"/>sa, a qua producitur dictus actus; ita tamen 
+      <lb ed="#P" n="17"/>quod praeuio tali actu; &amp; ideo dicitur termi 
+      <lb ed="#P" n="18"/>nus eius; iste autem conceptus est verbum, 
+      <lb ed="#P" n="19"/>de quo modo loquituur. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1822">
+               <lb ed="#P" n="20"/>Sexto, imaginab imur ibi actum intelligen 
+      <lb ed="#P" n="21"/>di explicitum &amp; perfectum, cuius principium 
+      <lb ed="#P" n="22"/>est perfectus conceptus, vt supra dicebatur,  
+      <lb ed="#P" n="23"/>qui quidem conceptus merito potest
+      appel<lb ed="#P" n="24" break="no"/> lari forma specularis, quia in eo, tanquam in 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1835">
+               <lb ed="#P" n="25"/>apeculo, intuemur naturam rei explicitae, quasi 
+      <lb ed="#P" n="26"/>per partum manifestum, quae prius sub
+      con<lb ed="#P" n="27" break="no"/>ceptu simplici erat implicita, &amp; abscondita; 
+      <lb ed="#P" n="28"/>sicut ergo se habet species ad actum
+      intelli<lb ed="#P" n="29" break="no"/>gendi simplicem, &amp; cogitatio informis ad
+      a<lb ed="#P" n="30" break="no"/>ctum intelligendi perfectum inquisitiuum; 
+      <lb ed="#P" n="31"/>ita iste conceptus ad actum intelligendi por 
+      <lb ed="#P" n="32"/>fectu, &amp; ideo sicut dictum est de isto conce 
+      <lb ed="#P" n="33"/>ptu, quod est quaedam forma specularis
+      per<lb ed="#P" n="34" break="no"/>fecta, in qua intuemur naturam rei explicite; 
+      <lb ed="#P" n="35"/>ita possumus dicere de specle, quod est quae 
+      <lb ed="#P" n="36"/>dam forma specularis imperfecta, in qua
+      in<lb ed="#P" n="37" break="no"/>tuemur naturam rei; sic etiam &amp; cogitatio 
+      <lb ed="#P" n="38"/>informis est quedam forma specularis imper 
+      <lb ed="#P" n="39"/>fecta, in qua intuemur naturam rei volupta 
+      <lb ed="#P" n="40"/>biliter discursiue¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1872">
+               <lb ed="#P" n="41"/>1 Species intelligibilis realiter ab actu di
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1877">
+               <lb ed="#P" n="42"/>2 Actus intelligendi rectus, simplex, &amp; 
+      <lb ed="#P" n="43"/>stinta 
+      <lb ed="#P" n="44"/>imperfectus. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1886">
+               <lb ed="#P" n="45"/>3 Conceptus indeterminatus, qui
+      voca<lb ed="#P" n="46" break="no"/>tur cogitatio informis 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1894">
+               <lb ed="#P" n="47"/>4 Actus intelligendi inquisitiuus.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1899">
+               <lb ed="#P" n="48"/>3 Conceptus explicitus, &amp; formatus, qui 
+      <lb ed="#P" n="49"/>est terminus actus inquisitiui dicitur
+      ver<lb ed="#P" n="50" break="no"/>bum 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1908">
+               <lb ed="#P" n="51"/>8 Actus intelligendi explicitus, &amp;
+      perfe<lb ed="#P" n="52" break="no"/>ctus, qui dicitur forma specularis 
+      <lb ed="#P" n="53"/>Quia tamen omnia ista, quae dicta sunt,
+      vi<lb ed="#P" n="54" break="no"/>dentur narrata, &amp; non probata; idcirco
+      redu<lb ed="#P" n="55" break="no"/>co omnia praefata ad quatuor conclusiones, 
+      <lb ed="#P" n="56"/>quarum duae superius sunt probatae, aliae
+      ve<lb ed="#P" n="57" break="no"/>ro duae nunc restant probandae.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1926">
+      <!--527.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 502 b -->
+               <lb ed="#P" n="58"/>Prima ergo conclusio est, quod verbum 
+      <lb ed="#P" n="59"/>mentis nostrae non est species intelligibilis. 
+      <lb ed="#P" n="60"/>&amp; ista fuit probata in principio huius articu 
+      <lb ed="#P" n="61"/>li ex improbatione primae opinionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1944">
+               <lb ed="#P" n="62"/>Secunda conclusio est, quod verbum non 
+      <lb ed="#P" n="63"/>est prima intellectio actualis; &amp; ista fuit
+      su<lb ed="#P" n="64" break="no"/>perius probata ex improbatione secundae opi 
+      <lb ed="#P" n="65"/>nionis, 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1955">
+               <lb ed="#P" n="66"/>Tertia conclusio est, quod nulla intelli 
+      <lb ed="#P" n="67"/>ctio actualis est verbum, &amp; ista restat nunc 
+      <lb ed="#P" n="68"/>probanda; Probo ergo eam vna ratione, quae 
+      <lb ed="#P" n="69"/>est talis. Sicut se habet verbum vocale ad
+      ip<lb ed="#P" n="70" break="no"/>sam auditionem, ita uerbum mentale
+      adip<lb ed="#P" n="71" break="no"/>sam actualem intellectionem, sed verbum 
+      <lb ed="#P" n="72"/>vocale est realiter distinctum ab auditione,
+      er<lb ed="#P" n="73" break="no"/>go uerbum mentale erit etiam realiter distin 
+      <lb ed="#P" n="74"/>ctum ab omni actuali intellectione: Maior 
+      <lb ed="#P" n="75"/>est nota; Minorem probo, quia sicut per
+      ver<lb ed="#P" n="76" break="no"/>bum uocale quis loquitur alteri audienti; ita 
+      <lb ed="#P" n="77"/>per verbum mentale quis loquitur sibi ipsi  
+      <lb ed="#P" n="78"/>intelligenti. Sicut ergo se habet auditio
+      cor<lb ed="#P" n="79" break="no"/>potalis ad uerbum vocale, ita intellectio
+      a<lb ed="#P" n="80" break="no"/>ctualis, tanquam quaedam auditio spiritualis 
+      <lb ed="#P" n="81"/>ad verbum mentale¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e1993">
+               <lb ed="#P" n="82"/>Quarta conclusio est, quod supposito, quod  
+      <lb ed="#P" n="83"/>sit ponere speciem realiter distinctam ab
+      a<lb ed="#P" n="84" break="no"/>ctu, sicut plures ponunt, necesse est ponere 
+      <lb ed="#P" n="85"/>in intellectu duas alias formas speculares,  
+      <lb ed="#P" n="86"/>quarum una est cogitatio informis, quae est 
+      <lb ed="#P" n="87"/>principium actus inquisitiui; altera vero est 
+      <lb ed="#P" n="88"/>conceptus formatus, qui est verbum, &amp; est 
+      <lb ed="#P" n="89"/>principium actus perfecti. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2013">
+               <lb ed="#P" n="90"/>lstam ergo conclusionem primo probo ra 
+      <lb ed="#P" n="91"/>tione, secundo auctoritate; ratione sic. Non 
+      <lb ed="#P" n="92"/>minus dependet actus intelligendi
+      inquisi<lb ed="#P" n="93" break="no"/>tiuus, &amp; actus intelligendi explicitus ab
+      o<lb ed="#P" n="94" break="no"/>biecto, quam actus intelligendi simplex, sed  
+      <lb ed="#P" n="95"/>actus intelligendi simplex ita dependet ab 
+      <lb ed="#P" n="96"/>obiecto, quod indiget aliquo supplente vice 
+      <lb ed="#P" n="97"/>obiecti, vtpote specie, ergo &amp; actus
+      intellige<lb ed="#P" n="98" break="no"/>di inquisitiuus indigebit aliquo tali represen 
+      <lb ed="#P" n="99"/>tatiuo, quod quidem habet talem
+      proportio<lb ed="#P" n="100" break="no"/>nem ad actum inquisitiuum, qualem habet spec 
+      <lb ed="#P" n="101"/>cies intelligibilis ad actum intelligendi
+      sim<lb ed="#P" n="102" break="no"/>plicem, tale autem representatiuum non po 
+      <lb ed="#P" n="103"/>test esse, nisi cogitatio informis, quia ipsa
+      re<lb ed="#P" n="104" break="no"/>presentat obiectum sub quodam esse variabi 
+      <lb ed="#P" n="105"/>li, &amp; iactabili, ratione cuius representationis 
+      <lb ed="#P" n="106"/>intellectus exit in actum intelligendi inqui 
+      <lb ed="#P" n="107"/>sitiuum, &amp; pari ratione actus intelligendi ex 
+      <lb ed="#P" n="108"/>plicitus, &amp; perfectus indigebit quodam alio 
+      <lb ed="#P" n="109"/>representatiuo, si proportionatum exit, hoc 
+      <lb ed="#P" n="110"/>non potest esse nisi conceptus formatus, qui 
+      <lb ed="#P" n="111"/>est verbum realiter distinctum ab actu intel 
+      <lb ed="#P" n="112"/>ligendi, ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2065">
+               <lb ed="#P" n="113"/>Confirmo secundo hanc conclusionem
+      au<lb ed="#P" n="114" break="no"/>ctoritate P. Aug. Nam, quod sit necesse pone 
+      <!--528.xml-->
+      <pb ed="#P" n="503"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>re talem cogitationem informem realiter
+      di<lb ed="#P" n="2" break="no"/>stinctam ab actu intelligendi praecipue colli 
+      <lb ed="#P" n="3"/>gitur ex <ref xml:id="gsX5tY-d1e798-Rd1e2084">15. de Trin. c:15</ref> vbi loquens de ista 
+      <lb ed="#P" n="4"/>cognitione informi dicit. <quote xml:id="gsX5tY-d1e798-Qd1e2089" source="http://scta.info/resource/adt-l15-d1e1864" synch="15-46">Quid est, inquam, 
+      <lb ed="#P" n="5"/>hoc formab le nondumque formatum, nisi 
+      <lb ed="#P" n="6"/>quid iam mentis nostrae, quod hac, atque hac 
+      <lb ed="#P" n="7"/>volubili quadam motione iactamus, cum 
+      <lb ed="#P" n="8"/>a nobis nunc hoc, nunc illud sicut inuentum 
+      <lb ed="#P" n="9"/>fuerit, vel occurrerit cogitatur</quote>: Constat
+      au<lb ed="#P" n="10" break="no"/>tem quod illud, quod tali uolubili motione 
+      <lb ed="#P" n="11"/>iactamus, non est ipsa actualis intellectio; 
+      <lb ed="#P" n="12"/>quia ipsa est, quae facit istam iactationem, 
+      <lb ed="#P" n="13"/>Quapropter relinquetur, quod sit aliquid 
+      <lb ed="#P" n="14"/>realiter distinctum ab actuali intellectione 
+      <lb ed="#P" n="15"/>Praeterea, quod sit necesse ponere talem  
+      <lb ed="#P" n="16"/>conceptum formatum, qui est verbum
+      reali<lb ed="#P" n="17" break="no"/>ter distinctum ab actu intelligendi, potest 
+      <lb ed="#P" n="18"/>apparere maxime ex <ref xml:id="gsX5tY-d1e798-Rd1e2122">7. de Trin cap. 12</ref>: vbi 
+      <lb ed="#P" n="19"/>vult, quod patere apud intellectum, idem sit,  
+      <lb ed="#P" n="20"/>quod parere, vel deperire, &amp; hoc est quod di 
+      <lb ed="#P" n="21"/>cit: <quote xml:id="gsX5tY-d1e798-Qd1e2132" source="http://scta.info/resource/adt-l15-d1e1864" synch="125-140">Notitia, iam inuentum est, quod partum 
+      <lb ed="#P" n="22"/>uel repertum dicitur, quod saepe praecedat 
+      <lb ed="#P" n="23"/>inquisitio, eo fine quietura</quote>. Ex quibus verbis 
+      <lb ed="#P" n="24"/>apparet manifeste, quod partus mentis est ter 
+      <lb ed="#P" n="25"/>minus inquisitionis, &amp; ideo statim subiugit; 
+      <lb ed="#P" n="26"/>Nam inquisitio est appetitus inueniendi; 
+      <lb ed="#P" n="27"/>quod idem ualet si dicas, reperiendi; quae au 
+      <lb ed="#P" n="28"/>tem reperiuntur, quasi pariuntur, vnde
+      pro<lb ed="#P" n="29" break="no"/>li similia sunt, vbinisi, in ipsa notitia : ib 
+      <lb ed="#P" n="30"/>enim quasi expressa formantur: Haec autem 
+      <lb ed="#P" n="31"/>notitia, da qui modo loquitur Aug. non
+      po<lb ed="#P" n="32" break="no"/>test esse ipsa actualis intellectio propter duo 
+      <lb ed="#P" n="33"/>Primo, quia talis notitia est reperta per actu 
+      <lb ed="#P" n="34"/>inquisitionis, &amp; per consequens per se, &amp; di- 
+      <lb ed="#P" n="35"/>recte cognita, actualis autem intellectio non 
+      <lb ed="#P" n="36"/>potest esse per se, &amp; directe cognita, vt de se 
+      <lb ed="#P" n="37"/>patet,. Secundo, quia dicta notitia non est
+      a<lb ed="#P" n="38" break="no"/>liud, quam quaedam cogitatio formata, vt ap 
+      <lb ed="#P" n="39"/>paret ex modo loquendi Aug sicut ergo
+      co<lb ed="#P" n="40" break="no"/>gitatio informis ponebatur distincta realiter 
+      <lb ed="#P" n="41"/>ab actuali intellectione: ita videtur quod 
+      <lb ed="#P" n="42"/>pari ratione debeat dici de ista notitia, quae 
+      <lb ed="#P" n="43"/>est cogitatio formata. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2183">
+               <lb ed="#P" n="44"/>Apparet ergo quid videatur mihi
+      dicen<lb ed="#P" n="45" break="no"/>dum quantum ad istum Articulum.
+      Appa<lb ed="#P" n="46" break="no"/>ret insuper, quod rationes illorum, qui volunt 
+      <lb ed="#P" n="47"/>dare alium intellectum isti opinioni, quam  
+      <lb ed="#P" n="48"/>datus sit, non concludant quantum ad istum 
+      <lb ed="#P" n="49"/>modum, quem intendunt. Nam primae duae 
+      <lb ed="#P" n="50"/>rationes, quae probant, quod verbum sit ter 
+      <lb ed="#P" n="51"/>minus intellectualis operationis, quamuis con 
+      <lb ed="#P" n="52"/>cludant verum, quantum ad hoc quod
+      pro<lb ed="#P" n="53" break="no"/>bant, verbum esse terminum intellectualis
+      o<lb ed="#P" n="54" break="no"/>perationis, &amp; realiter distinctum ab ea: nullo 
+      <lb ed="#P" n="55"/>tamen modo concludunt, inquantum proba 
+      <lb ed="#P" n="56"/>tur, quod sit productum per eam, immo pec 
+      <lb ed="#P" n="57"/>cant per fallaciam consequentis, quia pro¬ 
+      <!--528.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 503 b -->
+               <lb ed="#P" n="58"/>cedunt a pluribus causis veritatis ad vnam. 
+      <lb ed="#P" n="59"/>Nam, quod aliquid sit terminus alicuius
+      a<lb ed="#P" n="60" break="no"/>ctus, hoc potest prouenire vel ex eo, quod
+      pro<lb ed="#P" n="61" break="no"/>ducitur per talem actum, vel ex eo quod na 
+      <lb ed="#P" n="62"/>turali ordine suceedit ei; &amp; ambo producun 
+      <lb ed="#P" n="63"/>tur ab eadem causa, &amp; ideo velle procedere 
+      <lb ed="#P" n="64"/>ab vna istarum causarum, est peccare per fal 
+      <lb ed="#P" n="65"/>laciam consequentis. Tres aliae rationes defi 
+      <lb ed="#P" n="66"/>ciunt in tribus.  
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2242">
+               <lb ed="#P" n="67"/>Primo, quia quamuis probent, quod sit 
+      <lb ed="#P" n="68"/>necesse date aliquem conceptum realiter di 
+      <lb ed="#P" n="69"/>stinctum ab actu intelligendi; non tamen 
+      <lb ed="#P" n="70"/>probant, quod ille talis conceptus sit verbum; 
+      <lb ed="#P" n="71"/>immo magis probant, quod sit cogitatio infor 
+      <lb ed="#P" n="72"/>mis, quia dicunt, quod cum tali conceptu stat 
+      <lb ed="#P" n="73"/>actus intelligendi dubius, cum conceptu
+      au<lb ed="#P" n="74" break="no"/>tem, qui est verbum, non stat actus
+      intelli<lb ed="#P" n="75" break="no"/>gendi dubius, cum iste conceptus sit maxime 
+      <lb ed="#P" n="76"/>explicitus; 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2266">
+               <lb ed="#P" n="77"/>Secundo deficiunt, quia non probant, quod 
+      <lb ed="#P" n="78"/>talis conceptus sit productus per actum
+      in<lb ed="#P" n="79" break="no"/>telligendi, immo supponunt hoc tanquam
+      no<lb ed="#P" n="80" break="no"/>tum, cum tamen sit valde dubium. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2278">
+               <lb ed="#P" n="81"/>Tertio, quia non possunt vitare rationes, 
+      <lb ed="#P" n="82"/>quae ab aliis fiunt contra istam opinionem; 
+      <lb ed="#P" n="83"/>nec etiam illas, quas ego superius adduxi. 
+      <lb ed="#P" n="84"/>Patet ergo quod verbum in nobis est aliquid 
+      <lb ed="#P" n="85"/>nhaerens intellectui, &amp; realiter ab actu intel 
+      <lb ed="#P" n="86"/>ligendi distinctum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2294">
+               <lb ed="#P" n="87"/>ARTICVLVS TERTIVS 
+      <lb ed="#P" n="88"/>Vtrum verbum in diuinis dicatur
+      no<lb ed="#P" n="89" break="no"/>tionaliter.
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2303">
+               <lb ed="#P" n="90"/>VDi sciendum, quod quidam supponen 
+      <lb ed="#P" n="91"/>tes verbum mentis nostrae non esse
+      a<lb ed="#P" n="92" break="no"/>liud, quam actum intelligendi dicunt, quod 
+      <lb ed="#P" n="93"/>etiam in diuinis verbum non est aliud; quam 
+      <lb ed="#P" n="94"/>intellectio, quae est communis tribus
+      perso<lb ed="#P" n="95" break="no"/>nis; &amp; ideo simpliciter, &amp; proprie
+      loquen<lb ed="#P" n="96" break="no"/>do nominat aliquid essentiale, quamuis ex 
+      <lb ed="#P" n="97"/>appropriato trahatur in personale filij; quem 
+      <lb ed="#P" n="98"/>admodum sapientia, quia sibi appropriatur 
+      <lb ed="#P" n="99"/>modus procedendi per modum intellectus. 
+      <lb ed="#P" n="100"/>Non oportet autem immorari circa istam
+      opi<lb ed="#P" n="101" break="no"/>nionem, quia fuit superius recitata, &amp;
+      im<lb ed="#P" n="102" break="no"/>probata in ro distinctione Ostensum est
+      in<lb ed="#P" n="103" break="no"/>super in praecedenti articulo, quod uerbum 
+      <lb ed="#P" n="104"/>in nobis est realiter distinctum ab actu intel 
+      <lb ed="#P" n="105"/>ligendi; Et ideo fundamentum super quo su 
+      <lb ed="#P" n="106"/>stentatur, videtur esse falsum. Vlterius etiam 
+      <lb ed="#P" n="107"/>manifeste est contra intentionem
+      Augusti<lb ed="#P" n="108" break="no"/>ni, ut inferius patebit. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2347">
+               <lb ed="#P" n="109"/>Et ideo quidam alii, quauis ponant, quod 
+      <!--529.xml-->
+      <pb ed="#P" n="504"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>verbum in nobis sit actualis intellectio;
+      di<lb ed="#P" n="2" break="no"/>cunt tamen, quod hoc non obstante, verbum 
+      <lb ed="#P" n="3"/>in diuinis dicitur tantum notionaliter: cuius 
+      <lb ed="#P" n="4"/>ratio est (secundum eos) quia verbum, &amp; ver 
+      <lb ed="#P" n="5"/>batio significant idem, quamuis differant in 
+      <lb ed="#P" n="6"/>modo significandi, sicut concretum, &amp;
+      ab<lb ed="#P" n="7" break="no"/>stractum. Verbatio autem est quaedam
+      pas<lb ed="#P" n="8" break="no"/>siua expressio eius quod est in intellectu, &amp;  
+      <lb ed="#P" n="9"/>ideo connotat notitiam, cuius est expressio, esse 
+      <lb ed="#P" n="10"/>autem sic passiuam expressionem competit 
+      <lb ed="#P" n="11"/>soli filio, quapropter concluditur, quod ver 
+      <lb ed="#P" n="12"/>bum in diuinis dicatur mere notionaliter. 
+      <lb ed="#P" n="13"/>HAEC autem opinio quamuis videatur in 
+      <lb ed="#P" n="14"/>conclusione esse vera, &amp; secundum intentio 
+      <lb ed="#P" n="15"/>nem August. deficit tamen in modo
+      ponen<lb ed="#P" n="16" break="no"/>di propter tria 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2393">
+               <lb ed="#P" n="17"/>Primo, quia ostensum est supra contra 
+      <lb ed="#P" n="18"/>eos, &amp; contra alios, quod verbum in nobis 
+      <lb ed="#P" n="19"/>non est ipsa actualis intellectio. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2402">
+               <lb ed="#P" n="20"/>Secundo, quia dicunt, quod verbum, &amp;  
+      <lb ed="#P" n="21"/>verberatio differunt sicut concretum, &amp;
+      ab<lb ed="#P" n="22" break="no"/>stractum : hoc autem non videtur verum, 
+      <lb ed="#P" n="23"/>quia Verbatio non importat aliud, quam
+      ip<lb ed="#P" n="24" break="no"/>sam relationem filij; verbum vero importai 
+      <lb ed="#P" n="25"/>ipsam personam filij: relatio autem personae 
+      <lb ed="#P" n="26"/>nlij, &amp; ipsa persona filij non differunt sicut  
+      <lb ed="#P" n="27"/>concretum, &amp; abstractum, immo sicut
+      spe<lb ed="#P" n="28" break="no"/>cies constituta, &amp; differentia specifica
+      con<lb ed="#P" n="29" break="no"/>stitutiua 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2427">
+               <lb ed="#P" n="30"/>Tertio deficit, quia ponit quod verbum 
+      <lb ed="#P" n="31"/>connotet notitiam cuius est expressio; quod  
+      <lb ed="#P" n="32"/>etiam non videtur verum, quia si
+      connota<lb ed="#P" n="33" break="no"/>ret notitiam haberet realem relationem ad 
+      <lb ed="#P" n="34"/>eam, &amp; quia notitia est quid essentiale,
+      se<lb ed="#P" n="35" break="no"/>queretur, quod haberet relationem realem  
+      <lb ed="#P" n="36"/>ad essentiam 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2445">
+               <lb ed="#P" n="37"/>Et ideo qui ponunt, quod verbum in
+      no<lb ed="#P" n="38" break="no"/>bis non sit aliud, quam res intellecta posita 
+      <lb ed="#P" n="39"/>in esse obiectiuo, &amp; apparenti (quorum
+      opi<lb ed="#P" n="40" break="no"/>nio fuit superius recitata, &amp; improbata) di 
+      <lb ed="#P" n="41"/>cunt in proposito, quod verbum in diuinis 
+      <lb ed="#P" n="42"/>non est aliud, quam Deus positus in esse ob 
+      <lb ed="#P" n="43"/>iectiuo conspicuo, &amp; apparenti; non quidem 
+      <lb ed="#P" n="44"/>intentionaliter, sed realiter, tale autem esse  
+      <lb ed="#P" n="45"/>soli filio competit vt dicunt, &amp; ideo solus fi 
+      <lb ed="#P" n="46"/>lius dicitur verbum, ac per consequens
+      ver<lb ed="#P" n="47" break="no"/>bum in diuinis dicetur solum notionaliter, 
+      <lb ed="#P" n="48"/>&amp; non essentialiter, quod autem solus filius 
+      <lb ed="#P" n="49"/>sit Deus positus in tali esse conspicuo, &amp; ap 
+      <lb ed="#P" n="50"/>parenti, lpsi probant, quia sicut filius
+      subsi<lb ed="#P" n="51" break="no"/>stit personaliter per hoc, quod est poni in 
+      <lb ed="#P" n="52"/>tali esse conspicuo, ita Pater per hoc, quod 
+      <lb ed="#P" n="53"/>est actiue ponere in tali esse, &amp; Spiritus San 
+      <lb ed="#P" n="54"/>ctus per hoc, quod est poni in esse dato per 
+      <lb ed="#P" n="55"/>vim amoris; nulla ergo persona ponitur in 
+      <lb ed="#P" n="56"/>tali esse conspicuo nisi soius filius. Nec
+      va<lb ed="#P" n="57" break="no"/>let si dicatur, quod pater sibi ipsi est prae¬ 
+      <!--529.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 504 b -->
+               <lb ed="#P" n="58"/>sens, ergo ponit seipsum in aliquo esse
+      con<lb ed="#P" n="59" break="no"/>spicuo. Quia Pater, prout est sibi praesens 
+      <lb ed="#P" n="60"/>n esse conspicuo, est ipsemet Deus filius; 
+      <lb ed="#P" n="61"/>quia idem est Deus Pater, qui ponit in
+      ta<lb ed="#P" n="62" break="no"/>li esse; &amp; Deus filius, qui ponitur in tali
+      es<lb ed="#P" n="63" break="no"/>se, &amp; non differunt aliter, nisi penes
+      pone<lb ed="#P" n="64" break="no"/>re, &amp; poni 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2515">
+               <lb ed="#P" n="65"/>HAEC autem opinio licet sufficienter fue 
+      <lb ed="#P" n="66"/>rit improbata superius in suis fundamentis; 
+      <lb ed="#P" n="67"/>&amp; etiam quantum ad istam conclusionem 
+      <lb ed="#P" n="68"/>aliqualiter in 1o. dist: induco tamen adhuc 
+      <lb ed="#P" n="69"/>contra eam tria inconuenientia. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2528">
+               <lb ed="#P" n="70"/>Primum est, quia pater non habet esse con 
+      <lb ed="#P" n="71"/>spicuum, &amp; per consequens nec esse
+      intelli<lb ed="#P" n="72" break="no"/>gibile, nisi mediante filio, &amp; ita caperet
+      es<lb ed="#P" n="73" break="no"/>se intelligibile a filio, quod non videtur
+      be<lb ed="#P" n="74" break="no"/>ne dictum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2541">
+               <lb ed="#P" n="75"/>Secundum est, quia pater cognosceret
+      se<lb ed="#P" n="76" break="no"/>ipsum, &amp; omnia alia in filio, &amp; per solum fi- 
+      <lb ed="#P" n="77"/>lium, &amp; non in seipso, nec per seipsum, quod 
+      <lb ed="#P" n="78"/>non est sane dictum, &amp; est contra <ref xml:id="gsX5tY-d1e798-Rd1e2551">Aug. 15. 
+      <lb ed="#P" n="79"/>de Trin. cap. 14.</ref> vbi ait, quod <quote xml:id="gsX5tY-d1e798-Qd1e2557" source="http://scta.info/resource/adt-l15-d1e1848" synch="193-203">Deus pater no 
+      <lb ed="#P" n="80"/>nit omnia in seipso, nouit etiam in filio</quote>. 
+      Con<lb ed="#P" n="81" break="no"/>sequentiam probo, quia secundum viam 
+      eo<lb ed="#P" n="82" break="no"/>rum, omne, quod cognoscitur ab aliquo
+      in<lb ed="#P" n="83" break="no"/>tellectu, oportet quod ponatur necessario 
+      <lb ed="#P" n="84"/>in prospectu eius sub aliquo esse conspicuo; 
+      <lb ed="#P" n="85"/>sed illud esse cospicuum in diuinis non
+      est<lb ed="#P" n="86" break="no"/>nisi esse verbi, quod est proprium filio, vt 
+      <lb ed="#P" n="87"/>ipsi dicunt, ergo omnia, quae ponuntur
+      co<lb ed="#P" n="88" break="no"/>gnoscenda in prospectu paterui intellectus,  
+      <lb ed="#P" n="89"/>ponuntur per esse conspicuum, quod est
+      so<lb ed="#P" n="90" break="no"/>ius filij, &amp; per consequens Deus pater in so 
+      <lb ed="#P" n="91"/>lo filio cognoscit seipsum, &amp; omnia alia.  
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2586">
+               <lb ed="#P" n="92"/>Tertium inconueniens est, quia
+      Philoso<lb ed="#P" n="93" break="no"/>phi non posuissent aliquam cognitionem, nec 
+      <lb ed="#P" n="94"/>aliquam scientiam in Deo; quod patet esse 
+      <lb ed="#P" n="95"/>falsum: Consequentiam probo, quia (secu¬ 
+      <lb ed="#P" n="96"/>dum viam istorum) vbicunque est aliqua
+      co<lb ed="#P" n="97" break="no"/>gnitio, ibi est ponere, &amp; poni in esse
+      conspi<lb ed="#P" n="98" break="no"/>cuo, sed philosophi non posuerunt istas duas 
+      <lb ed="#P" n="99"/>differentias in Deo, ergo non potuerunt ibi 
+      <lb ed="#P" n="100"/>ponere aliquam cognitionem; Minorem
+      pro<lb ed="#P" n="101" break="no"/>bo, quia vel posuissent istas differentias in 
+      <lb ed="#P" n="102"/>Deo realiter, vel intentionaliter; non
+      reali<lb ed="#P" n="103" break="no"/>ter, quia tunc cognouissent realem
+      distin<lb ed="#P" n="104" break="no"/>ctionem personarum, nec etiam
+      intentiona<lb ed="#P" n="105" break="no"/>liter, quia, cum posuerint eum summe
+      per<lb ed="#P" n="106" break="no"/>fectum, non potuerunt ponere in eo aliquid 
+      <lb ed="#P" n="107"/>intentionale, vel diminutum. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2624">
+               <lb ed="#P" n="108"/>PROPTER quae omnia videtur esse
+      ali<lb ed="#P" n="109" break="no"/>ter dicendum, etsi non quantum ad
+      conclu<lb ed="#P" n="110" break="no"/>sionem, saltem quantum ad modum deducen 
+      <lb ed="#P" n="111"/>di eam. Conuenio ergo in conclusione cum 
+      <lb ed="#P" n="112"/>hac opinione, &amp; ideo dico, simpliciter, quod 
+      <lb ed="#P" n="113"/>verbum in diuinis sumitur mere
+      notionali<lb ed="#P" n="114" break="no"/>ter. Ad cuius confirmationem possum in¬ 
+      <!--530.xml-->
+      <pb ed="#P" n="505"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ducere duas rationes sumptas ex iis, quae de 
+      <lb ed="#P" n="2"/>claraui in praecedenti articulo: quarum
+      pri<lb ed="#P" n="3" break="no"/>ma sumitur ex eo quod dictum fuit, verbum 
+      <lb ed="#P" n="4"/>in nobis procedere ab intelligente, non ut
+      a<lb ed="#P" n="5" break="no"/>ctualis intellectio, sed vt conceptus
+      forma<lb ed="#P" n="6" break="no"/>tus, &amp; per consequens de sua intrinseca
+      ra<lb ed="#P" n="7" break="no"/>tione est, quod sit terminus alicuius
+      produ<lb ed="#P" n="8" break="no"/>ctionis: si ergo in diuinis reperitu Iverbum 
+      <lb ed="#P" n="9"/>secundum propriam rationem verbi, necessa 
+      <lb ed="#P" n="10"/>rio habebit esse productum, &amp; quia illa, quae 
+      <lb ed="#P" n="11"/>ad productionem pertinent sunt mere notio 
+      <lb ed="#P" n="12"/>nalia, relinquitur quod verbum in diuinis 
+      <lb ed="#P" n="13"/>sumatur mere notionaliter. Secunda ratio. 
+      <lb ed="#P" n="14"/>sumitur ex eo, quod verbum est quaedam for 
+      <lb ed="#P" n="15"/>ma specularis perfecte representas illud,
+      cu<lb ed="#P" n="16" break="no"/>ius est verbum, vt patuit supra, &amp; ideo de 
+      <lb ed="#P" n="17"/>sua intrinseca ratione est, quod sit quaedam forma 
+      <lb ed="#P" n="18"/>lis ex pressio ipsius, &amp; prconsequens habeat al 
+      <lb ed="#P" n="19"/>eo realem distinctionem: si ergo in diuinis inueni 
+      <lb ed="#P" n="20"/>tur ab intra ratio verbi proprie dicta, ut
+      po<lb ed="#P" n="21" break="no"/>nit Sacra Scriptura, sicut patet 1o. 1. necessa 
+      <lb ed="#P" n="22"/>rio faciet ibi realem distinctionem, &amp; quia 
+      <lb ed="#P" n="23"/>ea, quae faciunt realem distinctionem in diui 
+      <lb ed="#P" n="24"/>nis sunt mere notionalia, relinquitur quod 
+      <lb ed="#P" n="25"/>verbum sumatur mere notionaliter: patet er- 
+      <lb ed="#P" n="26"/>go quid videatur dicendum quantum ad istum 
+      <lb ed="#P" n="27"/>articulum Posset insuper confirmari ista con 
+      <lb ed="#P" n="28"/>clusio per Aug. in diuersis locis, vult enim quod 
+      <lb ed="#P" n="29"/>solus filius dicatur verbum, &amp; per consequens 
+      <lb ed="#P" n="30"/>ratio verbi in diuinis notionali ar metur; 
+      <lb ed="#P" n="31"/>ita enim dicit <ref xml:id="gsX5tY-d1e798-Rd1e2715">8. de Trin. ap. 1</ref> Patei, inqua, 
+      <lb ed="#P" n="32"/>&amp; Filius non simul verbum, sed solus Filius 
+      <lb ed="#P" n="33"/>verbum. Iterum in eodem loco dicit, quod 
+      <lb ed="#P" n="34"/>Pater verbo aequali, atque immutabili seipsum 
+      <lb ed="#P" n="35"/>dicit, non tamen ipse est verbum, sicut nec 
+      <lb ed="#P" n="36"/>Filius, nec imago. Iterum <ref xml:id="gsX5tY-d1e798-Rd1e2729">7. de Trin. cap. 2.</ref> 
+               <lb ed="#P" n="37"/>dicit quod <quote xml:id="gsX5tY-d1e798-Qd1e2734" source="http://scta.info/resource/adt-l7-d1e864" synch="59-66">Filius, eo verbum, quo Filius</quote>.
+      Ite<lb ed="#P" n="38" break="no"/>rum 13 de Trin cap. 17. dicit, quod <quote xml:id="gsX5tY-d1e798-Qd1e2739" source="http://scta.info/resource/adt-l15-d1e1886" synch="4-14">non fru 
+      <lb ed="#P" n="39"/>stra in hac Trinitate non dicitur verbum
+      ni<lb ed="#P" n="40" break="no"/>si Filius</quote>.  
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2747">
+               <lb ed="#P" n="41"/>Potest etiam ex his quae dicta sunt
+      pate<lb ed="#P" n="42" break="no"/>re, quid sit dicendum ad quaestionem princi 
+      <lb ed="#P" n="43"/>palem, qua quaerebatur vtrum verbum men 
+      <lb ed="#P" n="44"/>tis nostrae haberet aliquam similitudinem cum 
+      <lb ed="#P" n="45"/>ver bo increato. Nam iam ex dictis potest col 
+      <lb ed="#P" n="46"/>ligi aliqualis, similitudo quantum ad duo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2763">
+               <lb ed="#P" n="47"/>Primo, quia sicut verbum in nobis
+      proce<lb ed="#P" n="48" break="no"/>dit ab intelligente, non tanquam intellectua 
+      <lb ed="#P" n="49"/>lis operatio, sed tanquam terminus
+      produm<lb ed="#P" n="50" break="no"/>ctus; ita etiam suo modo in diuinis verbum 
+      <lb ed="#P" n="51"/>emanat a patre, non sicut eius intellectualis 
+      <lb ed="#P" n="52"/>operatio, sed tanquam terminus productus 
+      <lb ed="#P" n="53"/>per actionem, quae est dicere, vel est
+      gene<lb ed="#P" n="54" break="no"/>rare. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2783">
+               <lb ed="#P" n="55"/>Secundo, quia sicut verbum in nobis est 
+      <lb ed="#P" n="56"/>quaedam formalis expressio eius, quod conti 
+      <lb ed="#P" n="57"/>netur in nostra memoria, ita verbum in diui 
+      <!--530.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 505 b -->
+               <lb ed="#P" n="58"/>nis est quaedam formalis expressio eius, quod 
+      <lb ed="#P" n="59"/>continetur in patris scientia, hoc potest pate 
+      <lb ed="#P" n="60"/>re per Aug in pluribus locis. Posset etiam 
+      <lb ed="#P" n="61"/>addi tertius modus similitudinis, vtpote, quia 
+      <lb ed="#P" n="62"/>sicut verbum est nobis intimum a nobis non 
+      <lb ed="#P" n="63"/>recedens; ita suo modo verbum diuinum est 
+      <lb ed="#P" n="64"/>intimum ipsi patri ab eo non recedendo, quia 
+      <lb ed="#P" n="65"/>semper est in sinu patris, quamuis ista
+      inti<lb ed="#P" n="66" break="no"/>mitas sit comparabiliter in nobis modo
+      im<lb ed="#P" n="67" break="no"/>perfectiori, quia verbum nostrum
+      intima<lb ed="#P" n="68" break="no"/>tur nobis inhaerendo; verbum vero diuinum 
+      <lb ed="#P" n="69"/>non intimatur patri inherendo, sed in seipso 
+      <lb ed="#P" n="70"/>perfectissime subsistendo. Plures euam aliae 
+      <lb ed="#P" n="71"/>dissimilitudines possent inueniri, de quibus 
+      <lb ed="#P" n="72"/>nihil ad praesens 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2831">
+               <lb ed="#P" n="73"/>PATET ergo quomodo verbum men 
+      <lb ed="#P" n="74"/>tis nostrae habeat aliqualem similitudinem 
+      <lb ed="#P" n="75"/>cum verbo increato, quamuis modicam, &amp; 
+      <lb ed="#P" n="76"/>diminutam. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2842">
+               <lb ed="#P" n="77"/>AD AATIONES PRINCIPALES. 
+      <lb ed="#P" n="78"/>AD primam dicendum, quod est iam 
+      <lb ed="#P" n="79"/>soluta per illud, quod dictum fuit in 
+      <lb ed="#P" n="80"/>primo articulo.  
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2854">
+               <lb ed="#P" n="81"/>Ad secundam vero dicendum, quod lices 
+      <lb ed="#P" n="82"/>verbum nostrum non habeat similitudinem 
+      <lb ed="#P" n="83"/>cum verbo increato quantum ad inhaerere, 
+      <lb ed="#P" n="84"/>habet tamen similitudinem quantum ad quae 
+      <lb ed="#P" n="85"/>dam alia, ut patuit in secundo articulo. 
+    </p>
+            <p xml:id="gsX5tY-d1e798-d1e2867">
+               <lb ed="#P" n="86"/>Ad tertiam dicendum, quod Aug non ac 
+      <lb ed="#P" n="87"/>cipit ibi notitiam pro cognitione, sed pro con 
+      <lb ed="#P" n="88"/>eptu formato praeuia cognitione, quia in non 
+      <lb ed="#P" n="89"/>bis saevper est praeuia cognitio formationi 
+      <lb ed="#P" n="90"/>verbi, quamuis in diuinis, simul sit cognitio 
+      <lb ed="#P" n="91"/>cum verbi productione, vt patuit in o. distin 
+      <lb ed="#P" n="92"/>ctione. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

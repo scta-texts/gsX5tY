@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="342-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e508"> <!-- l1d12q1 -->
+            <head xml:id="gsX5tY-d1e508-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e508-Hd1e112" type="question-title">Utrum Spiritus Sanctus procedat a patre, et filio per mutuum
+      amorem</head>
+            <p xml:id="gsX5tY-d1e508-d1e115">
+               <lb ed="#P" n="28"/>DISTINCTIONIS DVODECIMAe 
+      <lb ed="#P" n="29"/>QVAESTIO PRIMA 
+      <lb ed="#P" n="30"/>Vtrum Spiritus Sanctus procedat a patre, 
+      <lb ed="#P" n="31"/>&amp; Filio per mutuum amorem.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e126">
+               <lb ed="#P" n="32"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="33"/>negante.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e134">
+               <lb ed="#P" n="34"/>1Q1 Spiritus Sanctus procederet per
+      mu<lb ed="#P" n="35" break="no"/>Atuum amorem, sequeretur quod actus 
+      <lb ed="#P" n="36"/>spirandi non esset complete ab vna persona; 
+      <lb ed="#P" n="37"/>sed hoc est falsum, ergo &amp;c. Consequentia 
+      <lb ed="#P" n="38"/>patet, quia mutuus amor non potest esse
+      v<lb ed="#P" n="39" break="no"/>nius tantum personae, sed necessario
+      requi<lb ed="#P" n="40" break="no"/>rit distinctas personas: Falsitatem probo, 
+      <lb ed="#P" n="41"/>quia actum aliquem esse ab aliqua diuina 
+      <lb ed="#P" n="42"/>persona incomplete, argueret
+      imperfe<lb ed="#P" n="43" break="no"/>ctionem in ea, quod est absurdum ponere 
+      <lb ed="#P" n="44"/>in diuinis
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e160">
+               <lb ed="#P" n="45"/>2 Si mutuus amor Patris, &amp; Filij esset prin 
+      <lb ed="#P" n="46"/>cipium Spiritus Sancti, sequeretur, Patrem, 
+      <lb ed="#P" n="47"/>&amp; Filium spitare Spiritum Sanctum inquan 
+      <lb ed="#P" n="48"/>tum plures, &amp; non inquantum vnum, con¬ 
+      <!--366.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 341 b -->
+               <lb ed="#P" n="49"/>sequens est falsum, ergo &amp;c. Consequentia 
+      <lb ed="#P" n="50"/>patet, quia mutuus amor requirit plura, v 
+      <lb ed="#P" n="51"/>plura. Falsitatem probo, quia vnus simplex 
+      <lb ed="#P" n="52"/>actus est ab vno simplici principio, &amp; non 
+      <lb ed="#P" n="53"/>a pluribus, vt plura sunt, actus spirandi 
+      <lb ed="#P" n="54"/>est vnus simplex actus, ergo erit ab vno, 
+      <lb ed="#P" n="55"/>&amp; vnum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e193">
+               <lb ed="#P" n="56"/>3 Si amore mutuo procederet,
+      sequere<lb ed="#P" n="57" break="no"/>tur, Patrem, &amp; Filium esse plures
+      spirato<lb ed="#P" n="58" break="no"/>res, quod videtur falsum; Consequentia 
+      <lb ed="#P" n="59"/>patet: Falsitatem probo per <ref xml:id="gsX5tY-d1e508-Rd1e203">P. Augustinum 
+        <lb ed="#P" n="60"/>quinto de Trinitate cap. 14</ref> vbi dicit, quod 
+      <lb ed="#P" n="61"/>sicut Pater, &amp; Filius, &amp; Spiritus Sanctus. 
+      <lb ed="#P" n="62"/>referuntur ad creaturam, ita Pater, &amp; Filius 
+      <lb ed="#P" n="63"/>ad Spiritum Sanctum, sed tres personae
+      re<lb ed="#P" n="64" break="no"/>latae ad creaturam non dicuntur nisi vnus) 
+      <lb ed="#P" n="65"/>creater, ergo Pater, &amp; Filius relati ad Spi- 
+      <lb ed="#P" n="66"/>ritum Sanctum non dicentur nisi vnus 
+      <lb ed="#P" n="67"/>spirator.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e225">
+               <lb ed="#P" n="68"/>AD OPPOSITVM ARGVITVRV 
+      <lb ed="#P" n="69"/>1Q Piritus Sanctus, vt Amor, &amp; perfecta 
+      <lb ed="#P" n="70"/>Charitas procedit, mutuus autem Amor, 
+      <lb ed="#P" n="71"/>&amp; perfecta Charitas minus quam inter
+      du<lb ed="#P" n="72" break="no"/>os haberi non potest, sicut dicit D. Sreg in 
+      <lb ed="#P" n="73"/>Homil ergo sequitur Spiritum Sanctum
+      pro<lb ed="#P" n="74" break="no"/>cedere a Patre, &amp; Filio, vt duo sunt, &amp; per 
+      <lb ed="#P" n="75"/>concordem voluntatem, ac mutuum
+      amo<lb ed="#P" n="76" break="no"/>rem amborum.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e247">
+               <lb ed="#P" n="77"/>2 Spiritus Sanctus est connexio
+      consub<lb ed="#P" n="78" break="no"/>stantialis, &amp; coeterna Patris, &amp; Filij, sicut  
+      <lb ed="#P" n="79"/>dicit <ref xml:id="gsX5tY-d1e508-Rd1e255">P. Augustinus 8. de Trinitate cap. 1I</ref>
+               <lb ed="#P" n="80"/>hoc autem non verificaretur, nisi
+      procede<lb ed="#P" n="81" break="no"/>ret ab eis per mutuum amorem amborum o 
+      <lb ed="#P" n="82"/>ergo &amp;c. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e266">
+               <lb ed="#P" n="83"/>RESPONDEO: in ista quaestione 
+      <lb ed="#P" n="84"/>tria sunt videnda. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e274">
+               <lb ed="#P" n="85"/>1 An concordia, &amp; correspondentia amo 
+      <lb ed="#P" n="86"/>ris sit de intrinseca ratione voluntatis, pront 
+      <lb ed="#P" n="87"/>est principium productiuum Spiritus
+      San<lb ed="#P" n="88" break="no"/>cti, &amp; dato quod non; Vtrum possimus 
+      <lb ed="#P" n="89"/>saluare aliquo modo Spiritum Sactum
+      pro<lb ed="#P" n="90" break="no"/>cedere a Patre, &amp; Filio per amorem
+      mu<lb ed="#P" n="91" break="no"/>tuum amborum.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e292">
+               <lb ed="#P" n="92"/>2 An Pater, &amp; Filius spirent Spiritum 
+      <lb ed="#P" n="93"/>Sanctum inquantum vnum, vel inquantum 
+      <lb ed="#P" n="94"/>plures. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e301">
+               <lb ed="#P" n="95"/>3 An possint dici plures spiratores. 
+      <lb ed="#P" n="96"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="97"/>An concordia, &amp; correspondentia amoris sit 
+      <lb ed="#P" n="98"/>de intrinseca ratione voluntatis
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e312">
+      <!--367.xml-->
+               <pb ed="#P" n="342"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ORo huius articuli notitia est
+      praenotan<lb ed="#P" n="2" break="no"/> dum, sicut dictum fuit in x. distinct
+      ali<lb ed="#P" n="3" break="no"/>quos velle, intellectum simplici notitia
+      in<lb ed="#P" n="4" break="no"/>formatum euaderae faecundum, ita vt habeat 
+      <lb ed="#P" n="5"/>rationem memoriae, &amp; sit principium
+      noti<lb ed="#P" n="6" break="no"/>tiae declaratiuae, quae verbum nuncupatur,  
+      <lb ed="#P" n="7"/>&amp; filius in diuinis, &amp; eodem modo voluntas 
+      <lb ed="#P" n="8"/>informata simplici amore efficitur faecunda, 
+      <lb ed="#P" n="9"/>itautsit principium productiuum amoris. 
+      <lb ed="#P" n="10"/>intensiui, qui est Spiritus Sanctus, si ergo 
+      <lb ed="#P" n="11"/>quaeratur ab eis; Vtrum voluntas, prout est 
+      <lb ed="#P" n="12"/>principium productiuum Spiritus Sancti, sit 
+      <lb ed="#P" n="13"/>necessario informata amore mutuo, &amp;
+      con<lb ed="#P" n="14" break="no"/>cordi duorum, patris, s. &amp; filij; Dicunt quod 
+      <lb ed="#P" n="15"/>sic, quia (secundum eos) haec est differentia 
+      <lb ed="#P" n="16"/>inter intellectum, prout est principium
+      pro<lb ed="#P" n="17" break="no"/>ductiuum Verbi, &amp; voluntatem, prout est 
+      <lb ed="#P" n="18"/>principium productiuum Spiritus Sancti, qua 
+      <lb ed="#P" n="19"/>intellectus habet perfectam faecunditatem ad 
+      <lb ed="#P" n="20"/>Verbi productionem, prout existit in vna tam 
+      <lb ed="#P" n="21"/>tum persona, scilicet in Patre, Moluntas aut 
+      <lb ed="#P" n="22"/>non habet perfectam faecunditatem ad
+      pro<lb ed="#P" n="23" break="no"/>ductionem Spiritus Sancti, nisi prost existit 
+      <lb ed="#P" n="24"/>in duabus personis, secundum quem modum 
+      <lb ed="#P" n="25"/>necessario est informata amore mutuo, &amp; con 
+      <lb ed="#P" n="26"/>ecordi patris, &amp; filij¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e377">
+               <lb ed="#P" n="27"/>Fundamentum autem, cui inniritur hac 
+      <lb ed="#P" n="28"/>opinio, sumitur ex <ref xml:id="gsX5tY-d1e508-Rd1e383">Riccardo 3. de Trinitate 
+        <lb ed="#P" n="29"/>cap. 10</ref> vbi vult, quod plenitudosapientiae 
+      <lb ed="#P" n="30"/>in qua consistit faecunditas intellectus, sit in 
+      <lb ed="#P" n="31"/>vna sola personav plenitudo vero amoris.; in 
+      <lb ed="#P" n="32"/>qua consistit faecunditas voluntatis, requirit 
+      <lb ed="#P" n="33"/>necessario duas personas: Nam loquens de 
+      <lb ed="#P" n="34"/>plenitudine sapientiae ibidem ait; Nihil defi 
+      <lb ed="#P" n="35"/>nitur contratiuminaturae, si plenitudo sapien 
+      <lb ed="#P" n="36"/>tiae dicatur posse subsistere in singularitate 
+      <lb ed="#P" n="37"/>personae; nam quantuncumqe in deitate
+      es<lb ed="#P" n="38" break="no"/>fet tantum vna persona, nihilominus pleni 
+      <lb ed="#P" n="39"/>tudinem sapientiae habere potuisset. Cum 
+      <lb ed="#P" n="40"/>vero loquitur de plenitudine amotis: dicit,  
+      <lb ed="#P" n="41"/>quod intimae charitatis delitiae habiriuntur 
+      <lb ed="#P" n="42"/>de corde alterius; quius rationemireddit in 
+      <lb ed="#P" n="43"/>podem libro cap. 3. dicens, quod amor non 
+      <lb ed="#P" n="44"/>potest esse iucundus nisi existatiniutuus: in 
+      <lb ed="#P" n="45"/>amore enim imutuo alter est, qui amorem
+      im<lb ed="#P" n="46" break="no"/>pendit, &amp; qui amorem rependit; ex. quibus 
+      <lb ed="#P" n="47"/>colligitur secundum Riccardum, voluntaten 
+      <lb ed="#P" n="48"/>non esse principium faecundum ad spirandum 
+      <lb ed="#P" n="49"/>Spiritum Sanctum, nisi prout est informata 
+      <lb ed="#P" n="50"/>amore duorum mutuo, &amp; concordi
+      impen<lb ed="#P" n="51" break="no"/>so ab vno, &amp; repenso ab altero. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e437">
+               <lb ed="#P" n="52"/>Contra quam opinionem arguunt
+      nonnul<lb ed="#P" n="53" break="no"/>li quinque rationibus
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e445">
+               <lb ed="#P" n="54"/>DSi Pater, &amp; filius producerent Spiritum 
+      <lb ed="#P" n="55"/>Sanctum inquantum concorditer se amant 
+      <lb ed="#P" n="56"/>sequeretur, quod Spiritus Sanctus esset pro 
+      <lb ed="#P" n="57"/>ductus antequam esset productus; Conse¬ 
+      <!--367.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 342 b -->
+               <lb ed="#P" n="58"/>quentia probatur, quia secundum eos, volum 
+      <lb ed="#P" n="59"/>tas infinita habens obiectum sibi praesens
+      in<lb ed="#P" n="60" break="no"/>finitum est sufficiens principium
+      producti<lb ed="#P" n="61" break="no"/>uum Spiritus Sancti, ergo antequam Pater. 
+      <lb ed="#P" n="62"/>effectiue concorditer cum Filio vellint, per 
+      <lb ed="#P" n="63"/>eam potest produci, &amp; per consequens pro 
+      <lb ed="#P" n="64"/>duceretur Spiritus Sanctus, quod patet,
+      ua<lb ed="#P" n="65" break="no"/>voluntas non acquirit infinitatem, nec
+      prae<lb ed="#P" n="66" break="no"/>sentiam sui obiecti infiniti per hoc quod exi 
+      <lb ed="#P" n="67"/>stit i Patre, &amp; filio, sed hoc totum habet 
+      <lb ed="#P" n="68"/>priusquam intelligatur existere in eis; produm 
+      <lb ed="#P" n="69"/>ceretur ergo Spiritus Sanctus per eam
+      ante<lb ed="#P" n="70" break="no"/>quam esset productus, si concordia amoris 
+      <lb ed="#P" n="71"/>expectetur, secundum praecedentem opinio 
+      <lb ed="#P" n="72"/>nem, &amp; etiam produceretur post quam esset 
+      <lb ed="#P" n="73"/>productus.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e497">
+               <lb ed="#P" n="74"/>2 Si voluntas esset principium Spiritus. 
+      <lb ed="#P" n="75"/>Sancti prout pater, &amp; filius per eam concor. 
+      <lb ed="#P" n="76"/>diter se amant, sequeretur, quod non habe 
+      <lb ed="#P" n="77"/>ret totam perfectionem suam per obiectum 
+      <lb ed="#P" n="78"/>primarium, consequens est falsum, quia
+      ob<lb ed="#P" n="79" break="no"/>iectum primarium diuinae voluntatis est
+      in<lb ed="#P" n="80" break="no"/>finitum, &amp; ideo ex hoc debet habere omnem 
+      <lb ed="#P" n="81"/>perfectionem, quam potest habere, Conse 
+      <lb ed="#P" n="82"/>quentia probatur, quia obiectum primarium 
+      <lb ed="#P" n="83"/>diuinae voluntatis est ipsa diuina essentia 
+      <lb ed="#P" n="84"/>obiectum autem quasi secundarium
+      viden<lb ed="#P" n="85" break="no"/>tur esse diuinae personae, quae sunt plures, ob 
+      <lb ed="#P" n="86"/>iectum vero primarium debet esse vnum: si 
+      <lb ed="#P" n="87"/>ergo voluntas non est principium Spiritus 
+      <lb ed="#P" n="88"/>Sancti, nisi vt stat sub amore mutuo duorum, 
+      <lb ed="#P" n="89"/>quia Vt sic, habet pro obiecto ipsas diuinas 
+      <lb ed="#P" n="90"/>personas, sequitur, quod, non habeat totam  
+      <lb ed="#P" n="91"/>perfectionem ex obiecto primario, quod est 
+      <lb ed="#P" n="92"/>essentia.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e541">
+               <lb ed="#P" n="93"/>3: Si amor mutuus esset perfectior, &amp; iu 
+      <lb ed="#P" n="94"/>cundior amore non mutuo, sequeretur, quod 
+      <lb ed="#P" n="95"/>esset maior ratio amabilitatis in duabus
+      per<lb ed="#P" n="96" break="no"/>sonis quam in vna sola s Consequens est
+      fal<lb ed="#P" n="97" break="no"/>sum, quia sicut non est plus de bonitate in 
+      <lb ed="#P" n="98"/>duabus, vel etiam in omnibus tribus personis 
+      <lb ed="#P" n="99"/>quam in vna persona, ita non potest ibi essi 
+      <lb ed="#P" n="100"/>plus de amabilitate, Consequentiae probatour, 
+      <lb ed="#P" n="101"/>quia videmus in nobis, quod amorimutuus 
+      <lb ed="#P" n="102"/>ideo est iucundior quia dilectus redamans 
+      <lb ed="#P" n="103"/>est amabilior quam ante redamationem: cum 
+      <lb ed="#P" n="104"/>ametur non solum propter perfectionem
+      in<lb ed="#P" n="105" break="no"/>trinsecam, quam habebat, sed etiam proptes 
+      <lb ed="#P" n="106"/>ipsam superuenientem redamationem, quia 
+      <lb ed="#P" n="107"/>ergo iste modus amandi; &amp; redamandi non  
+      <lb ed="#P" n="108"/>habet locum in diuinis, sequitur quod amor 
+      <lb ed="#P" n="109"/>mutuus non fitibi perfectique, vel iucundior,  
+      <lb ed="#P" n="110"/>quam simplex amor, &amp; per consequens
+      vo<lb ed="#P" n="111" break="no"/>luntas eriti facundior ad preducendum Spi 
+      <lb ed="#P" n="112"/>ritum Sanctum per talem amorem, quam  
+      <lb ed="#P" n="113"/>peralium; nt: uIAaM 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e589">
+               <lb ed="#P" n="114"/>. Si amor mutuus est iucunmdior amore 
+      <!--368.xml-->
+      <pb ed="#P" n="343"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>simplici, sequitur, quod pater, vel filius tali 
+      <lb ed="#P" n="2"/>amore esset beatus, quod est falsum, quia 
+      <lb ed="#P" n="3"/>runc pater non esset beatus in se, sed in filic 
+      <lb ed="#P" n="4"/>obiectiue, &amp; eodem modo filius in patre, quod 
+      <lb ed="#P" n="5"/>est absurdum, consequentia patet, quia amor,  
+      <lb ed="#P" n="6"/>quo beata est quaecunque persona debet es- 
+      <lb ed="#P" n="7"/>se iucundissimus 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e615">
+               <lb ed="#P" n="8"/>3 Doctor iste tenet Spiritum Sanctum  
+      <lb ed="#P" n="9"/>distingui a filio, dato, quod ab eo non proce 
+      <lb ed="#P" n="10"/>deret, hoc autem non haberet veritatem, si 
+      <lb ed="#P" n="11"/>de ratione Spiritus Sancti esset procedere per 
+      <lb ed="#P" n="12"/>amoris concordiam, quia remota tali concon 
+      <lb ed="#P" n="13"/>dia, remoueretur suus modus procedendi, &amp;  
+      <lb ed="#P" n="14"/>per consequens nihil sibi remaneret, per quod 
+      <lb ed="#P" n="15"/>distingueretur a filio; lsta ergo duo non stant 
+      <lb ed="#P" n="16"/>simul, scilicet, quod possit distingui a filio 
+      <lb ed="#P" n="17"/>sufficienter per suum modum procedendi, 
+      <lb ed="#P" n="18"/>&amp; eius modus procedendi sit talis, quod non 
+      <lb ed="#P" n="19"/>possit procedere nisi per mutuum amorem 
+      <lb ed="#P" n="20"/>patris, &amp; filij.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e646">
+               <lb ed="#P" n="21"/>Concludunt ergo concordiam amoris non 
+      <lb ed="#P" n="22"/>esse de ratione voluntatis, prout est
+      princi<lb ed="#P" n="23" break="no"/>pium productiuum Spiritus Sancti, sed
+      quen<lb ed="#P" n="24" break="no"/>admodum (secundum eos) intellectus
+      effici<lb ed="#P" n="25" break="no"/>tur foecundus ad producendum verbum, non 
+      <lb ed="#P" n="26"/>per actum secundum, qui est intelligere, sed  
+      <lb ed="#P" n="27"/>per solam praesentiam obiecti intelligibilis,  
+      <lb ed="#P" n="28"/>puta essentia, quia per eius praesentiam
+      con<lb ed="#P" n="29" break="no"/>stituitur in ratione memoriae, ita suo modo, 
+      <lb ed="#P" n="30"/>voluntas foecunda efficitur ad producendum, 
+      <lb ed="#P" n="31"/>non per actum primum, qui est amare, sed  
+      <lb ed="#P" n="32"/>per solam praesentiam infiniti obiecti
+      amabi<lb ed="#P" n="33" break="no"/>sis, scilicet essentia, per cuius praesentiam est 
+      <lb ed="#P" n="34"/>principium actus secundi, qui est amare, &amp;  
+      <lb ed="#P" n="35"/>etiam alterius actus notionalis, qui est
+      spira<lb ed="#P" n="36" break="no"/>re, quia voluntas actiua, &amp; feecunda ex
+      prae<lb ed="#P" n="37" break="no"/>sentia obiecti amabilis est sufficiens
+      princi<lb ed="#P" n="38" break="no"/>pium vtriusque actus, concordia autem
+      mu<lb ed="#P" n="39" break="no"/>tui amoris nullam tribuit actiuitatem, vel se 
+      <lb ed="#P" n="40"/>cunditatem voluntati ad producendum Spr 
+      <lb ed="#P" n="41"/>ritum Sanctum, ratione cuius se teneat ex 
+      <lb ed="#P" n="42"/>parte principij productiui. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e697">
+               <lb ed="#P" n="43"/>Hac conclusionem probant tripliciter. 
+      <lb ed="#P" n="44"/>1 Illud, quod alteri tribuit aliquam actua 
+      <lb ed="#P" n="45"/>litatem, &amp; fecunditatem, non recipit eam ab 
+      <lb ed="#P" n="46"/>eodem, sed principium productiuum, quo ali 
+      <lb ed="#P" n="47"/>quid producitur, tribuit actiuitatem, &amp;
+      fae<lb ed="#P" n="48" break="no"/>cunditatem supposito producenti, ergo non 
+      <lb ed="#P" n="49"/>acquirit eam ao eo, vel in eo, cum ergo volum 
+      <lb ed="#P" n="50"/>tas sit principium productionis Spiritus San 
+      <lb ed="#P" n="51"/>cti, actiuitatem, &amp; feecunditatem ad ipsum 
+      <lb ed="#P" n="52"/>producendum tribuit suppositis
+      producen<lb ed="#P" n="53" break="no"/>tibus, scilicet patri, &amp; Filio, &amp; non
+      acqui<lb ed="#P" n="54" break="no"/>rit illam ab eis, vel in eis, &amp; per consequens 
+      <lb ed="#P" n="55"/>non ex mutuo amore amborum producitur. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e728">
+               <lb ed="#P" n="56"/>2 Illud principium, quod est ita perfectum 
+      <lb ed="#P" n="57"/>in solo patre, sicut in patre, &amp; filio, non ac 
+      <!--368.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 343 b -->
+               <lb ed="#P" n="58"/>quirit actiuitatem, &amp; foecunditatem sibi com 
+      <lb ed="#P" n="59"/>petentem ex concordia amoris amborum, sed  
+      <lb ed="#P" n="60"/>voluntas, prout est principium productionis 
+      <lb ed="#P" n="61"/>Spiritus Sancti, est rta perfecte in solo patre. 
+      <lb ed="#P" n="62"/>sicut in patre, &amp; filio, ergo &amp;c. Maior est
+      no<lb ed="#P" n="63" break="no"/>ta. Minor etiam patet per minorem praeceden 
+      <lb ed="#P" n="64"/>tis rationis, vbi dicebatur, quod principium 
+      <lb ed="#P" n="65"/>productiuum non acquirit actualitatem a 
+      <lb ed="#P" n="66"/>supposito agente, vel a suppositis agentibus,  
+      <lb ed="#P" n="67"/>sed magis e conuerso, quia tribuit eam ipsi, 
+      <lb ed="#P" n="68"/>vel ipsis. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e765">
+               <lb ed="#P" n="69"/>3 Si concordia amoris esset de ratione 
+      <lb ed="#P" n="70"/>voluntatis, prout est principium productiuum 
+      <lb ed="#P" n="71"/>Spiritus Sancti, sequeretur, quod pater non 
+      <lb ed="#P" n="72"/>haberet plenam faecunditatem ad producen 
+      <lb ed="#P" n="73"/>dum Spiritum Sanctum, nisi Filio iam produm 
+      <lb ed="#P" n="74"/>cto, quod est falsum, Consequentia patet, quia 
+      <lb ed="#P" n="75"/>concordia amoris non haberetur nisi produm 
+      <lb ed="#P" n="76"/>cto filio; Falsitas probatur, quia sicut patet 
+      <lb ed="#P" n="77"/>per <ref xml:id="gsX5tY-d1e508-Rd1e786">P. August. 4. de Trinini cap. 20.</ref> 
+               <quote xml:id="gsX5tY-d1e508-Qd1e789" source="http://scta.info/resource/adt-l4-d1e646" synch="70-73">Pater est 
+        <lb ed="#P" n="78"/>principium deitatis</quote>, ergo omnem 
+      fecundita<lb ed="#P" n="79" break="no"/>tem quam habet, illam habet in primo signo 
+      <lb ed="#P" n="80"/>originis, &amp; per consequens nullam habet 
+      fe<lb ed="#P" n="81" break="no"/>cunditatem filio iam producto, quam non 
+      <lb ed="#P" n="82"/>praeintelligeretur habere prius origine quam 
+      <lb ed="#P" n="83"/>filium produceret. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e806">
+               <lb ed="#P" n="84"/>Cum hac opinione concordant nonnulli 
+      <lb ed="#P" n="85"/>si Conclusione principali; volunt enim actu 
+      <lb ed="#P" n="86"/>spirandi competere Patri, &amp; Filio non per 
+      <lb ed="#P" n="87"/>concordiam amoris, quia sic non
+      compete<lb ed="#P" n="88" break="no"/>ret complete nisi ambobus, &amp; non cuilibet 
+      <lb ed="#P" n="89"/>eorum per se, &amp; diuisimi. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e822">
+               <lb ed="#P" n="90"/>Probant ergo actum spfrandi essc comple 
+      <lb ed="#P" n="91"/>te in quolibet eorum diuisim dupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e829">
+               <lb ed="#P" n="92"/>1 Actus spirandi in quocunque ponatur 
+      <lb ed="#P" n="93"/>est complete, &amp; totaliter perfectus, sed iste 
+      <lb ed="#P" n="94"/>actus est in Patre, &amp; in Fiho, ergo erit
+      com<lb ed="#P" n="95" break="no"/>plete, &amp; totaliter in quolibet eorum.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e841">
+               <lb ed="#P" n="96"/>2 Sicut se habet essentia ad trespersonas,  
+      <lb ed="#P" n="97"/>ita actus spirandi ad patrem, &amp; Filium, sed  
+      <lb ed="#P" n="98"/>essentia et ita in vna psona, sicut in tribus,
+      er<lb ed="#P" n="99" break="no"/>go &amp; actus spirandi est totus in patre solo, 
+      <lb ed="#P" n="100"/>sicut in patre, &amp; filio.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e854">
+               <lb ed="#P" n="101"/>Ambae hae opiniones mihi videntur
+      dubie<lb ed="#P" n="102" break="no"/>&amp; prima triplici de causa: Primo, quia inter 
+      <lb ed="#P" n="103"/>patrem, &amp; filium non est nisi duplex conne 
+      <lb ed="#P" n="104"/>cio, vna essentialis, altera personalis, essentia 
+      <lb ed="#P" n="105"/>lis connexio est eorum simplex vnitas in
+      es<lb ed="#P" n="106" break="no"/>sentia, &amp; notionibus essentialibus; Secunda 
+      <lb ed="#P" n="107"/>est quaedam mutua conexigentia, quam
+      ha<lb ed="#P" n="108" break="no"/>pent per suas proprietates personales, secun 
+      <lb ed="#P" n="109"/>dum quas abinuicem distinguuntur, &amp;
+      mu<lb ed="#P" n="110" break="no"/>tuo se exigunt. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e878">
+               <lb ed="#P" n="111"/>Nec obstat si dicatur, praeter istas adhuc 
+      <lb ed="#P" n="112"/>esse tertiam connexionem in spiratione actis. 
+      <lb ed="#P" n="113"/>ua: Quia haec reducitur ad connexionem
+      es<lb ed="#P" n="114" break="no"/>sentialem; na sicut Pater, &amp; filius sunt dud, 
+      <!--369.xml-->
+      <pb ed="#P" n="344"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>&amp; omnino vnum in essentia, ita sunt omni- 
+      <lb ed="#P" n="2"/>no vnum in spiratione actiua, &amp; ideo
+      possu<lb ed="#P" n="3" break="no"/>mus hanc connexionem: reducere ad aliquam 
+      <lb ed="#P" n="4"/>illarum, dicendo in patre, &amp; filio duplicem  
+      <lb ed="#P" n="5"/>esse connexionem, vnam simplicem, &amp; essen 
+      <lb ed="#P" n="6"/>tialem in qua conueniunt tam in essentia, 
+      <lb ed="#P" n="7"/>quam in communi notione, alteram vero es 
+      <lb ed="#P" n="8"/>se per mutuam coexigentiam eorum, quam 
+      <lb ed="#P" n="9"/>habeat secundum suas proprietates persona 
+      <lb ed="#P" n="10"/>les, praeter quas non apparet ibi alia
+      conne<lb ed="#P" n="11" break="no"/>xio, alioquin oporteret ibi ponere, vel alias 
+      <lb ed="#P" n="12"/>relationes, vel alias persectiones absolutas, 
+      <lb ed="#P" n="13"/>quorum neutrum est possibile
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e924">
+               <lb ed="#P" n="14"/>Verum prima opinio videtur ibi ponere 
+      <lb ed="#P" n="15"/>quandam aliam connexionem per
+      mutuita<lb ed="#P" n="16" break="no"/>tem concordiae; quaero igitur ab eis, Vtrum 
+      <lb ed="#P" n="17"/>per concordiam amoris intelligant tertiam 
+      <lb ed="#P" n="18"/>quandam connexionem, vel aliquam illarum 
+      <lb ed="#P" n="19"/>duarum, primum non possunt dicere, quia 
+      <lb ed="#P" n="20"/>cum in patre, &amp; filio non sint nisi
+      essentia<lb ed="#P" n="21" break="no"/>lia, &amp; notionalia, oportet omnem eorum con 
+      <lb ed="#P" n="22"/>nexionem attendi, vel penes essentialia, vel 
+      <lb ed="#P" n="23"/>penes notionalia, &amp; per consequens omnis 
+      <lb ed="#P" n="24"/>earum connexio coincidet in aliquam
+      illa<lb ed="#P" n="25" break="no"/>rum duarum: si vero intelligant aliquam 
+      <lb ed="#P" n="26"/>harum duarum, vel intelligunt illam quae 
+      <lb ed="#P" n="27"/>dicit mutuam coexigentiam patris, &amp; filij,  
+      <lb ed="#P" n="28"/>vel illam quae dicit eorum vnitatem, primum 
+      <lb ed="#P" n="29"/>non potest dici : Tum quia ipsimet volunt, 
+      <lb ed="#P" n="30"/>quod iste amor mutuus, &amp; concors sit actus 
+      <lb ed="#P" n="31"/>voluntatis, quasi eam informando secundum 
+      <lb ed="#P" n="32"/>nostrum modum intelligendi, dando sibi fo 
+      <lb ed="#P" n="33"/>cunditatem ad producendum Spiritum San 
+      <lb ed="#P" n="34"/>ctum, Constat autem huiusmodi coexigen 
+      <lb ed="#P" n="35"/>tiam Patris, &amp; Filij secundum suas
+      proprie<lb ed="#P" n="36" break="no"/>tates personales non esse actum voluntatis.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e976">
+               <lb ed="#P" n="37"/>Tum quia coexigentia non potest esse in
+      a<lb ed="#P" n="38" break="no"/>more, eo quod in amore nulla sit distinctio, 
+      <lb ed="#P" n="39"/>coexigentia autem semper includit
+      distin<lb ed="#P" n="40" break="no"/>ctionem, &amp; ideo talis coexigentia solum est 
+      <lb ed="#P" n="41"/>accipienda penes eorum proprietates
+      perso<lb ed="#P" n="42" break="no"/>nales, per quas adinuicem referuntur &amp; per 
+      <lb ed="#P" n="43"/>easdem adinuicem distinguuntur. Si vero di 
+      <lb ed="#P" n="44"/>cant, quod per coexigentiam amoris
+      intelli<lb ed="#P" n="45" break="no"/>gunt illam connexionem quae dicit vnitatem, 
+      <lb ed="#P" n="46"/>tunc non habent suum propositum, immo 
+      <lb ed="#P" n="47"/>sibi ipsis contradicunt;. Nam (secundam eos 
+      <lb ed="#P" n="48"/>dicere, quod Pater, &amp; Filius concordant in 
+      <lb ed="#P" n="49"/>amore, nil aliud est quam dicere, quod
+      ha<lb ed="#P" n="50" break="no"/>beant vnum amorem essentialem, Constat at,  
+      <lb ed="#P" n="51"/>imorem istum essentialem esse ita perfecte 
+      <lb ed="#P" n="52"/>in solo Patre, &amp; Filio, sicut simul in Patre, 
+      <lb ed="#P" n="53"/>&amp; Filio, &amp; per consequens eandem
+      foecun<lb ed="#P" n="54" break="no"/>ditatem dabit prout existit in solo Patre, &amp; 
+      <lb ed="#P" n="55"/>prout existit in Patre, &amp; Filio; cuius
+      con<lb ed="#P" n="56" break="no"/>trarium intendunt, sic ergo dicendo destruut 
+      <lb ed="#P" n="57"/>propositum. Ex quibus omnibus apparet non 
+      <!--369.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 344 b -->
+               <lb ed="#P" n="58"/>esse ponendam, quandam tertiam vnionem 
+      <lb ed="#P" n="59"/>inter Patrem, &amp; Filium.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1035">
+               <lb ed="#P" n="60"/>Secundo male dicunt ponendo amorem 
+      <lb ed="#P" n="61"/>istum mutuum esse primum actum spirandi 
+      <lb ed="#P" n="62"/>in ratione principij; quod si verum esset, Pa 
+      <lb ed="#P" n="63"/>ter, &amp; Filius elicerent prius actum amandi, 
+      <lb ed="#P" n="64"/>quam actum spirandi, &amp; per consequens
+      a<lb ed="#P" n="65" break="no"/>ctus essentiales praecederent notionales in ea 
+      <lb ed="#P" n="66"/>dem persona eliciente; cuius contrarium fuit 
+      <lb ed="#P" n="67"/>ostensum in 8. distinct. idcirco ibi
+      recur<lb ed="#P" n="68" break="no"/>ratur. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1058">
+               <lb ed="#P" n="69"/>Tertio est dubia, quia ponit diuinam
+      vo<lb ed="#P" n="70" break="no"/>luntatem non esse fuecundam ad
+      producen<lb ed="#P" n="71" break="no"/>dum Spiritum Sanctum prout existit in vna 
+      <lb ed="#P" n="72"/>persona, sed prout existit in duabus, cu ergo 
+      <lb ed="#P" n="73"/>tfoecunditas proueniat ex perfectione,
+      seque<lb ed="#P" n="74" break="no"/>retur, quod voluntas diuina esset minus per 
+      <lb ed="#P" n="75"/>fecta in vna persona, quam in duabus, quod 
+      <lb ed="#P" n="76"/>est falsum.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1078">
+               <lb ed="#P" n="77"/>Quapropter haec opinio sustineri non
+      po<lb ed="#P" n="78" break="no"/>test, nisi aliter intelligatur. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1085">
+               <lb ed="#P" n="79"/>Secunda etiam opinio est dubia, &amp;
+      qua<lb ed="#P" n="80" break="no"/>drupliciter deficit, primo, quia improbando 
+      <lb ed="#P" n="81"/>primam opinionem ponit, obiectum
+      prima<lb ed="#P" n="82" break="no"/>rium diuinae voluntatis esse ipsam essentiam; 
+      <lb ed="#P" n="83"/>personas vero quasi secundarium, hoc aut 
+      <lb ed="#P" n="84"/>fuit in prima distinct improbatum quaest. 2. 
+      <lb ed="#P" n="85"/>Secundo, quia, ponit in eadem persona amo 
+      <lb ed="#P" n="86"/>rem essentialem esse praeuium actui
+      notio<lb ed="#P" n="87" break="no"/>nali, qui est spirare, quod non videtur verum, 
+      <lb ed="#P" n="88"/>vt patuit in 8. distinct, Tertio, quia ponit 
+      <lb ed="#P" n="89"/>inter Patrem, &amp; Filium prius, &amp; posterius 
+      <lb ed="#P" n="90"/>secundum diuersa originis signa; &amp; est vnum 
+      <lb ed="#P" n="91"/>potissimum fundamentum istius opinionis,  
+      <lb ed="#P" n="92"/>quod in 9. distinct. fuit reiectum. Quarto, 
+      <lb ed="#P" n="93"/>quia asserit voluntatem prout est principiu 
+      <lb ed="#P" n="94"/>pirandi Spiritum Sanctum, itaesse in solo 
+      <lb ed="#P" n="95"/>Patre, quemadmodum simul in Patre, &amp; F 
+      <lb ed="#P" n="96"/>lio, quod si esset verum sequeretur, Patrem 
+      <lb ed="#P" n="97"/>potuisse spirare, supposito etiam per
+      impos<lb ed="#P" n="98" break="no"/>sibile Filium non spirare, &amp; per consequens 
+      <lb ed="#P" n="99"/>Spiritus Sanctus abeo distingueretur, dato 
+      <lb ed="#P" n="100"/>quod ab eo non procederet, cuius oppositum 
+      <lb ed="#P" n="101"/>tuit ostensum in praecedenti distinctione¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1137">
+               <lb ed="#P" n="102"/>His ergo reiectis aliter mihi videtur esse 
+      <lb ed="#P" n="103"/>dicendum, &amp; pro euidentia eorum, quae
+      di<lb ed="#P" n="104" break="no"/>cenda occurrunt, hoc ordine procedam. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1146">
+               <lb ed="#P" n="105"/>1 Inquiram, An amor, quo Pater amat 
+      <lb ed="#P" n="106"/>Filium, &amp; Filius Patrem sit vnus, &amp; idem 
+      <lb ed="#P" n="107"/>vel alius, &amp; alius, per hoc enim apparebit, 
+      <lb ed="#P" n="108"/>quomodo sit intelligendum inter batrem, &amp; 
+      <lb ed="#P" n="109"/>Filium esse mutuum, &amp; concordem
+      amo<lb ed="#P" n="110" break="no"/>rem.. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1162">
+               <lb ed="#P" n="111"/>2 Explicabo, quot modis possit intelligi 
+      <lb ed="#P" n="112"/>Patrem, &amp; Filium spirare Spiritum Sanctu 
+      <lb ed="#P" n="113"/>per amorem mutuum.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1172">
+               <lb ed="#P" n="114"/>3 Respodebo per hoc quaesito principali. 
+      <!--370.xml-->
+      <pb ed="#P" n="345"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>PRO primi intelligentia aduertendum 
+      <lb ed="#P" n="2"/>est, quod quando actus alicuius personae di 
+      <lb ed="#P" n="3"/>uinae transit super aliam obiectiue, non pot 
+      <lb ed="#P" n="4"/>esse pure essentialis; Quod patet, Constat 
+      <lb ed="#P" n="5"/>enim actum essentialem non posse termina 
+      <lb ed="#P" n="6"/>ri ad intra ad aliquem terminum realiter
+      di<lb ed="#P" n="7" break="no"/>tinctum, cum nihil sit realiter distinctum ab 
+      <lb ed="#P" n="8"/>essentia, &amp; ab essentialibus: Actus autem
+      v<lb ed="#P" n="9" break="no"/>nius personae dum cadit super aliam obie 
+      <lb ed="#P" n="10"/>ctiue, transit, &amp; terminatur ad aliam
+      notio<lb ed="#P" n="11" break="no"/>naliter, tanquam ad terminum realiter di 
+      <lb ed="#P" n="12"/>stinctum, ergo non est essentialis; oportet 
+      <lb ed="#P" n="13"/>igitur, vel quod sit actus pure notionalis, vel 
+      <lb ed="#P" n="14"/>essentialis connotans notionalem, vel
+      notio<lb ed="#P" n="15" break="no"/>nalis connotans essentialem: Tunc autem
+      ali<lb ed="#P" n="16" break="no"/>quis actus est pure notionalis, quando est 
+      <lb ed="#P" n="17"/>proprius illi personae, cuius est elicitiue, &amp;  
+      <lb ed="#P" n="18"/>eam solam denominat, sicut patet de ipso 
+      <lb ed="#P" n="19"/>generare qui est proprius soli Patri cuius 
+      <lb ed="#P" n="20"/>est elicitiue, &amp; eum solum denominat
+      for<lb ed="#P" n="21" break="no"/>maliter, non autem filium super quem cadit 
+      <lb ed="#P" n="22"/>obiectiue: Actus vero notionalis connotans 
+      <lb ed="#P" n="23"/>essentialem, quamuis sit proprius, dat tamen 
+      <lb ed="#P" n="24"/>intelligere necessario actum communem de 
+      <lb ed="#P" n="25"/>nominantem omnes tres personas, vt patet 
+      <lb ed="#P" n="26"/>in isto actu, qui est demonstrare, qui vere est 
+      <lb ed="#P" n="27"/>Patri proprius, vt habetur loan. 5. Pater
+      de<lb ed="#P" n="28" break="no"/>monstrat Filio, vbi dicit P. Augustiuus,
+      de<lb ed="#P" n="29" break="no"/>monstrans Pater filij visionem ipsum gignit,  
+      <lb ed="#P" n="30"/>idest ostendit quomodo gignat;
+      demonstra<lb ed="#P" n="31" break="no"/>tio quippe gignit visionem, non visio demon 
+      <lb ed="#P" n="32"/>strationem. Vult ergo, quod iste actus
+      de<lb ed="#P" n="33" break="no"/>monstrandi sit proprius Patri, &amp; eum solum 
+      <lb ed="#P" n="34"/>formaliter denominet, &amp; quamuis sit
+      pro<lb ed="#P" n="35" break="no"/>prius, denotat tamen necessario actum com 
+      <lb ed="#P" n="36"/>munem, qui est cognoscere, quia
+      demonstra<lb ed="#P" n="37" break="no"/>re filio nil aliud est, quam communicare
+      si<lb ed="#P" n="38" break="no"/>lio cognitionem, &amp; sic actus iste demonstram 
+      <lb ed="#P" n="39"/>di significat in recto ipsam
+      communicatio<lb ed="#P" n="40" break="no"/>nem, sed in obliquo cognitionem: quod non 
+      <lb ed="#P" n="41"/>valeret nisi actus iste esset notionalis conno 
+      <lb ed="#P" n="42"/>tans, vel includens actum essentialem. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1274">
+               <lb ed="#P" n="43"/>Est insuper alius actus essentialis
+      conno<lb ed="#P" n="44" break="no"/>tans, vel includens notionalem, sicut cum 
+      <lb ed="#P" n="45"/>dicimus patet intelligit filium, talis enim
+      a<lb ed="#P" n="46" break="no"/>ctus, quamuis in recto sit essentialis, cum 
+      <lb ed="#P" n="47"/>intelligere sit commune tribus, est tamen non 
+      <lb ed="#P" n="48"/>tionalis in obliquo, nam patris intelligere 
+      <lb ed="#P" n="49"/>non cadit super filium tanquam super
+      ter<lb ed="#P" n="50" break="no"/>minum realiter a se distinctum, nisi ratione 
+      <lb ed="#P" n="51"/>actus notionalis quem connotat, vel
+      inclu<lb ed="#P" n="52" break="no"/>dit. Notanter autem dico, quod connotat,  
+      <lb ed="#P" n="53"/>quia vbi non est realis distinctio, ibi non po 
+      <lb ed="#P" n="54"/>test esse proptia connotatio, sed magis
+      in<lb ed="#P" n="55" break="no"/>clusio per identitatem, tunc ergo dicitur
+      a<lb ed="#P" n="56" break="no"/>ctus essentialis connotare notionalem, quan 
+      <lb ed="#P" n="57"/>do illi attribuitur aliquid, quod sibi non com¬ 
+      <!--370.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 345 b -->
+               <lb ed="#P" n="58"/>petit secundum se, sed ratione actus notio 
+      <lb ed="#P" n="59"/>nalis, cum quo coincidit in idem re, sicut in 
+      <lb ed="#P" n="60"/>proposito actus intelligendi in patre
+      nun<lb ed="#P" n="61" break="no"/>quam transiret super filium, tanquam
+      su<lb ed="#P" n="62" break="no"/>per terminum realiter distinctum, nisi
+      coin<lb ed="#P" n="63" break="no"/>cideret in idem re cum actu notionali, qui 
+      <lb ed="#P" n="64"/>est generare, &amp; eodem modo actus
+      intelli<lb ed="#P" n="65" break="no"/>gendi in filio non caderet super patrem, tan 
+      <lb ed="#P" n="66"/>quam super terminum realiter distinctum, 
+      <lb ed="#P" n="67"/>nisi coincideret in idem re cum ipso genera 
+      <lb ed="#P" n="68"/>ri, &amp; haec est intentio P. Augustini super
+      il<lb ed="#P" n="69" break="no"/>lud soann. 5. non potest filius facere
+      quic<lb ed="#P" n="70" break="no"/>quam, nisi quod viderit patrem facientem, 
+      <lb ed="#P" n="71"/>vbi dicit, quod videre filij est ipsum natum 
+      <lb ed="#P" n="72"/>esse de patre, ac si diceret, visio filij, quae 
+      <lb ed="#P" n="73"/>est actus essentialis, non transit super
+      Pa<lb ed="#P" n="74" break="no"/>trem tanquam super terminum realiter
+      di<lb ed="#P" n="75" break="no"/>stinctum, nisi prout coincidit in idem re cum 
+      <lb ed="#P" n="76"/>sua natiuitate, quae est actus notionalis. Et 
+      <lb ed="#P" n="77"/>quod dictum est de actu intelligendi, seu de 
+      <lb ed="#P" n="78"/>visione, potest etiam dici de amore, quia qui 
+      <lb ed="#P" n="79"/>libet actus est essentialis, &amp; communis tribs.  
+      <lb ed="#P" n="80"/>actus ergo amandi in patre non transit super 
+      <lb ed="#P" n="81"/>filium tanquam super terminum realiter
+      di<lb ed="#P" n="82" break="no"/>stinctum, nisi vt coincidit in idem cum ipso 
+      <lb ed="#P" n="83"/>generare, &amp; actus amandi in filio non
+      tran<lb ed="#P" n="84" break="no"/>sit super patrem, nisi vt coincidit cum ipso 
+      <lb ed="#P" n="85"/>generari.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1376">
+               <lb ed="#P" n="86"/>Ex quibus omnibus apparet quod erat 
+      <lb ed="#P" n="87"/>primo declarandum, an scilicet esset idem 
+      <lb ed="#P" n="88"/>amor Patris, &amp; Filij; Ad quod dico quod 
+      <lb ed="#P" n="89"/>est vnus, &amp; idem quantum ad illud, quod 
+      <lb ed="#P" n="90"/>formaliter dicit: Nam cum sit actus
+      essen<lb ed="#P" n="91" break="no"/>tialis non potest plurificari in diuinis, sed  
+      <lb ed="#P" n="92"/>nihilominus includit per identitatem distin 
+      <lb ed="#P" n="93"/>ctos, idest oppositos actus notionales,
+      pro<lb ed="#P" n="94" break="no"/>pter quod licet non recipiat alietatem in 
+      <lb ed="#P" n="95"/>se, recipit tamen eam in his, quae per
+      iden<lb ed="#P" n="96" break="no"/>titatem includit. Ex quo etiam apparet quo 
+      <lb ed="#P" n="97"/>modo inter patrem &amp; filiu sit mutuus amor. 
+      <lb ed="#P" n="98"/>&amp; mutua amoris concordia, siquidem idem amor 
+      <lb ed="#P" n="99"/>essentialis dicitur impensus filio a patre 
+      <lb ed="#P" n="100"/>inquantum coincidit in idem cum actu
+      no<lb ed="#P" n="101" break="no"/>notionali Patris, ratione cuius potest
+      transi<lb ed="#P" n="102" break="no"/>re super filium, tanquam super terminum 
+      <lb ed="#P" n="103"/>realiter distinctum, &amp; idem amor dicitur im 
+      <lb ed="#P" n="104"/>pensus Patri a Filio, quatenus identificatur 
+      <lb ed="#P" n="105"/>cum actu notionali filij, ratione cuius potest 
+      <lb ed="#P" n="106"/>transire super Patrem realiter distinctum.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1424">
+               <lb ed="#P" n="107"/>QVANTVM ad secundum dico, quod 
+      <lb ed="#P" n="108"/>patrem, &amp; filium spirare Spiritum Sanctum 
+      <lb ed="#P" n="109"/>mutuo, &amp; concordi amore potest tribus
+      mo<lb ed="#P" n="110" break="no"/>dis intelligi; primo, quod mutuitas
+      attribu<lb ed="#P" n="111" break="no"/>ta amori essentiali per actus notionales sit 
+      <lb ed="#P" n="112"/>ratio quare amor essentialis possit facere vo 
+      <lb ed="#P" n="113"/>luntatem foecundam ad producendum Spi- 
+      <lb ed="#P" n="114"/>ritum Sanctum, vt ponebat prima opinio. Se 
+      <!--371.xml-->
+      <pb ed="#P" n="346"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cundo, vt mutuitas sit quaedam relatio secu 
+      <lb ed="#P" n="2"/>dum rationem consurgens inter personam 
+      <lb ed="#P" n="3"/>quae amorem impendit, &amp; aliam quae eundem 
+      <lb ed="#P" n="4"/>amorem rependit, per quam relationem amor 
+      <lb ed="#P" n="5"/>essentialis reddatur feecundus, &amp; inde red 
+      <lb ed="#P" n="6"/>dat foecundam voluntatem ad Spiritum San 
+      <lb ed="#P" n="7"/>ctum producendum, sicut forte imaginatui 
+      <lb ed="#P" n="8"/>eadem opinio. Tertio, vt mutuitas amoris at 
+      <lb ed="#P" n="9"/>tributa amori essentiali sit quasi de
+      intrinse<lb ed="#P" n="10" break="no"/>ca ratione actus spirandi, ita vt non se teneat 
+      <lb ed="#P" n="11"/>ex parte principij productiui, vt ponebat pri 
+      <lb ed="#P" n="12"/>ma opinio, sed ex parte productionis.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1476">
+               <lb ed="#P" n="13"/>His praemissis respondendum est quaesito 
+      <lb ed="#P" n="14"/>principali, Cum ergo quaeritur vtrum, Spiri 
+      <lb ed="#P" n="15"/>tus Sanctus procedat a filio per amorem mu 
+      <lb ed="#P" n="16"/>tuum, &amp; concordem, dico quod si
+      intelliga<lb ed="#P" n="17" break="no"/>tur primo modo, ita quod mutuitas amoris 
+      <lb ed="#P" n="18"/>se teneat ex parte principij spirandi, quod est 
+      <lb ed="#P" n="19"/>voluntas, tribuendo sibi fecunditatem ad pro 
+      <lb ed="#P" n="20"/>ducendum Spiritum Sanctu, sicut ponit prima 
+      <lb ed="#P" n="21"/>opinio, hoc modo nego, &amp; probo tripliciter 
+      <lb ed="#P" n="22"/>Primo, quia si mutuitas amoris se teneret 
+      <lb ed="#P" n="23"/>ex parte principij spiratiui dando ei foecun 
+      <lb ed="#P" n="24"/>ditarem, sequeretur notionalia dare
+      foecun<lb ed="#P" n="25" break="no"/>ditatem essentialibus, &amp; per consequens
+      foe<lb ed="#P" n="26" break="no"/>cunditas, quae est in diuinis ad illas
+      produ<lb ed="#P" n="27" break="no"/>ctiones, non proueniret ex infinitate diuinae 
+      <lb ed="#P" n="28"/>essentiae, quod est absurdum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1513">
+               <lb ed="#P" n="29"/>Secundo, sequeretur ivoluntatem diuinam  
+      <lb ed="#P" n="30"/>non esse ita in solo Patre perfectam, sicut
+      si<lb ed="#P" n="31" break="no"/>mul in Patre, &amp; Filio, quia in solo Patre non 
+      <lb ed="#P" n="32"/>haberet eandem fecunditatem, &amp; per conse 
+      <lb ed="#P" n="33"/>quens nec eandem perfectionem. 
+      <lb ed="#P" n="34"/>Tertio, sequeretur actum amandi in
+      Pa<lb ed="#P" n="35" break="no"/>tre, &amp; Filio esse preuium actui spirandi, quia 
+      <lb ed="#P" n="36"/>(secundum istam viam) esset principium
+      ip<lb ed="#P" n="37" break="no"/>sius, quod superius supponebatur esse falsum 
+      <lb ed="#P" n="38"/>ex dictis in o. distinc.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1538">
+               <lb ed="#P" n="39"/>Si vero intelligatur, quod mutuitas sit 
+      <lb ed="#P" n="40"/>quasi quaedam relatio setenes ex parte prin 
+      <lb ed="#P" n="41"/>cipij spiratiui dando sibi feecunditatem, vt 
+      <lb ed="#P" n="42"/>superius dicebatur, sic etiam nego, propter 
+      <lb ed="#P" n="43"/>eadem tria inconuenientia; nam sicut erat 
+      <lb ed="#P" n="44"/>inconueniens ipsa notionalia tribuere fe 
+      <lb ed="#P" n="45"/>cunditatem essentialibus, quinimo magis in 
+      <lb ed="#P" n="46"/>eis fecunditatem supponunt, &amp; ex eorum fe 
+      <lb ed="#P" n="47"/>cunditate proueniunt, ita etiam multo
+      ma<lb ed="#P" n="48" break="no"/>gis est inconueniens relationes aliquas
+      secun<lb ed="#P" n="49" break="no"/>dum rationem tribuere istam fecunditatem. 
+      <lb ed="#P" n="50"/>Secundo, sequeretur eandem voluntatem esse  
+      <lb ed="#P" n="51"/>minus perfectam in solo Patre quam simul 
+      <lb ed="#P" n="52"/>in Patre, &amp; Filio, &amp; eodem modo actu
+      amam<lb ed="#P" n="53" break="no"/>di in Patre, &amp; Filio esse praeuium actui
+      spi<lb ed="#P" n="54" break="no"/>randi.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1575">
+               <lb ed="#P" n="55"/>Si autem intelligatur, quod ista amoris 
+      <lb ed="#P" n="56"/>mutuiras non se teneat ex parte principij spi 
+      <lb ed="#P" n="57"/>ratiui, sed ex parte actus spirandi; sic conce¬ 
+      <!--371.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 346 b -->
+               <lb ed="#P" n="58"/>do Spiritum Sanctum per mutuum amorem 
+      <lb ed="#P" n="59"/>procedere, quod patet, quia fundamentum 
+      <lb ed="#P" n="60"/>appropriatum, &amp; immediatum actus spirati 
+      <lb ed="#P" n="61"/>di, qui est actus notionalis, est ipse amor
+      es<lb ed="#P" n="62" break="no"/>sentialis; amor autem essentialis non fundat 
+      <lb ed="#P" n="63"/>hunc actum notionalem spirandi, nisi prout 
+      <lb ed="#P" n="64"/>existit in Patre, &amp; Filio, &amp; per consequens 
+      <lb ed="#P" n="65"/>quicquid est de ratione amoris, prout existit 
+      <lb ed="#P" n="66"/>in Patre, &amp; Filio, est etiam de ratione actus 
+      <lb ed="#P" n="67"/>spirandi, nunc autem de ratione amoris
+      pro<lb ed="#P" n="68" break="no"/>ut existit in Patre, &amp; Filio est mutuitas, &amp;  
+      <lb ed="#P" n="69"/>concordia, quia sicut est in eis vnus amor 
+      <lb ed="#P" n="70"/>ita etiam vna amandi ratio, &amp; ideo necesse 
+      <lb ed="#P" n="71"/>est, quod per istum amorem Pater feratur in 
+      <lb ed="#P" n="72"/>Filium, &amp; filius in Patrem: ex ratione ergo 
+      <lb ed="#P" n="73"/>amoris, prout in ambobus existit, est
+      mutui<lb ed="#P" n="74" break="no"/>tas, &amp; concordia, &amp; per consequens
+      mutui<lb ed="#P" n="75" break="no"/>tas ista amoris erit de ratione actus spiradi. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1629">
+               <lb ed="#P" n="76"/>Iste processus videtur mihi necessarius. 
+      <lb ed="#P" n="77"/>suppositis duobus fundamentis, primum est,  
+      <lb ed="#P" n="78"/>quod fundamentum actus notionalis, qui ess 
+      <lb ed="#P" n="79"/>pirare, sit actus essentialis, scilicet amare; 
+      <lb ed="#P" n="80"/>hoc autem manifestum est ex dictis in
+      deci<lb ed="#P" n="81" break="no"/>ma distinc vbi ostensum est Spiritum Sanctum 
+      <lb ed="#P" n="82"/>procedere vt amorem, quod non esset
+      ve<lb ed="#P" n="83" break="no"/>rum, nisi amor essentialis esset fundamentum 
+      <lb ed="#P" n="84"/>suae productionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1651">
+               <lb ed="#P" n="85"/>Secundum fundamentum est, quod amor 
+      <lb ed="#P" n="86"/>non fundaret actum spirandi, nisi prout
+      exi<lb ed="#P" n="87" break="no"/>stit in Patre, &amp; Filio, quod probo, quia actus 
+      <lb ed="#P" n="88"/>spirandi non potest esse in solo Patre, nec in 
+      <lb ed="#P" n="89"/>solo Filio, ergo amor essentialis non potest 
+      <lb ed="#P" n="90"/>fundare istum actum notionalem, qui est sbi 
+      <lb ed="#P" n="91"/>rare, nisi prout existit in ambobus.
+      Conse<lb ed="#P" n="92" break="no"/>quentia est nota. Antecedens probo
+      tripli<lb ed="#P" n="93" break="no"/>citer. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1673">
+               <lb ed="#P" n="94"/>Primo ex eo quod subiectum adaequatum  
+      <lb ed="#P" n="95"/>actus spirandi non est Pater, nec solus filius 
+      <lb ed="#P" n="96"/>sed simul Pater, &amp; filius, quemadmodum su 
+      <lb ed="#P" n="97"/>biectum adaequatum spirationis passiuae est 
+      <lb ed="#P" n="98"/>solus Spiritus Sanctus. Posset ergo sic
+      for<lb ed="#P" n="99" break="no"/>mari ratio.  
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1689">
+               <lb ed="#P" n="100"/> Sicut se habet spirari passiue a filio ad 
+      <lb ed="#P" n="101"/>spirari passiue a Patre, ita se habet spirare 
+      <lb ed="#P" n="102"/>actiue filij ad spirare actiue ipsius Patris, sed  
+      <lb ed="#P" n="103"/>ita se habet spirari a filio ad spitari a patre. 
+      <lb ed="#P" n="104"/>quod vnum eorum non potest auferri altero 
+      <lb ed="#P" n="105"/>remanente, ergo eodem modo spirare actiue 
+      <lb ed="#P" n="106"/>Patris, non poterit remanere, si tollatur
+      spi<lb ed="#P" n="107" break="no"/>ratio actiua a filio, nec e conuerso, &amp; per con 
+      <lb ed="#P" n="108"/>sequens sequitur, subiectum adaequatum spi 
+      <lb ed="#P" n="109"/>rationis actiuae non esse solum Patrem, nec 
+      <lb ed="#P" n="110"/>solum filium, sed simul Patrem, &amp; Filium, 
+      <lb ed="#P" n="111"/>Maior est nota: Minorem probo; quia
+      quan<lb ed="#P" n="112" break="no"/>do aliqua duo sunt omnino idem, si eorum 
+      <lb ed="#P" n="113"/>vnum remoueatur, necessario &amp; alterum re 
+      <lb ed="#P" n="114"/>mouetur, sed spirari a filio, &amp; spirari a Patre 
+      <!--372.xml-->
+      <pb ed="#P" n="347"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sunt omnino idem, vt supra dictum fuit, &amp; vi 
+      <lb ed="#P" n="2"/>patet pr Hylarium 8. de Trin, dicentem, quod idem 
+      <lb ed="#P" n="3"/>ipsum atque vnum esse existimabitur a filio 
+      <lb ed="#P" n="4"/>accipere, quod procedendo accipit a Patre; 
+      <lb ed="#P" n="5"/>sequitur ergo actum spirandi non posse esse 
+      <lb ed="#P" n="6"/>in solo patre circumscripto filio, nec in solo 
+      <lb ed="#P" n="7"/>filio circumscripto Patre, sed simul in vtroque 
+      <lb ed="#P" n="8"/>vt se mutuo exigunt, quasi vnum subiectum 
+      <lb ed="#P" n="9"/>adaequatum istius actus spirandi. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1751">
+               <lb ed="#P" n="10"/>Secundo probo hoc idem ex ordine, qui 
+      <lb ed="#P" n="11"/>est inter generationem, &amp; spirationem. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1758">
+               <lb ed="#P" n="12"/>Si actus spirandi posset esse in soloPatre, 
+      <lb ed="#P" n="13"/>dato per impossibile, quod filius non
+      spira<lb ed="#P" n="14" break="no"/>ret, sequeretur, quod posset tolli ordo, qui est 
+      <lb ed="#P" n="15"/>inter generationem, &amp; spirationem,
+      conse<lb ed="#P" n="16" break="no"/>quens est impossibile, ergo &amp;c.
+      Consequen<lb ed="#P" n="17" break="no"/>tia est nota, quia, sicut patuit in o. distinc. in 
+      <lb ed="#P" n="18"/>diuinis non potest esse alius ordo, quam prin 
+      <lb ed="#P" n="19"/>cipiantis, &amp; principiati, &amp; ideo si talis orde 
+      <lb ed="#P" n="20"/>tollatur, ois ordo inde remouebitur, si aute 
+      <lb ed="#P" n="21"/>actus spirandi posset esse in solo patre, gene 
+      <lb ed="#P" n="22"/>ratio filij nullam haberet rationem principi 
+      <lb ed="#P" n="23"/>super spirationem Spiritus Sancti, &amp; sic nul 
+      <lb ed="#P" n="24"/>lus ibi ordo remaneret. Probo
+      impossibilita<lb ed="#P" n="25" break="no"/>tem consequentis, quia de intrinseca ratione 
+      <lb ed="#P" n="26"/>illarum productionum est, quod vna illarum 
+      <lb ed="#P" n="27"/>sit per modum intellectus, &amp; alia per modum 
+      <lb ed="#P" n="28"/>voluntatis, &amp; per consequens, quod inter eas 
+      <lb ed="#P" n="29"/>sit ordo; si ergo tollatur ab eis talis ordo, non 
+      <lb ed="#P" n="30"/>remanebunt tales productiones, &amp; tunc non 
+      <lb ed="#P" n="31"/>remanebit actus spirandi, qui ponebatur esse 
+      <lb ed="#P" n="32"/>in solo Patre, sicque actus spirandi nullo 
+      <lb ed="#P" n="33"/>modo remaneret, &amp; tamen existeret in solo 
+      <lb ed="#P" n="34"/>Patre, quod est impossibile¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1810">
+               <lb ed="#P" n="35"/>Tertio probo idem ex distinctione, quae 
+      <lb ed="#P" n="36"/>est inter actum generandi, &amp; actum spiradi. 
+      <lb ed="#P" n="37"/>Si actus spirandi posset esse in solo Patre, se 
+      <lb ed="#P" n="38"/>ueretur, quod posset esse non distinctus ab 
+      <lb ed="#P" n="39"/>actu generandi, quod est impossibile, quia 
+      <lb ed="#P" n="40"/>tunc non esset, &amp; esset talis actus
+      spiran<lb ed="#P" n="41" break="no"/>di; Consequentiam probo ex dictis in
+      pre<lb ed="#P" n="42" break="no"/>cedenti distinc. vbi ostensum est, quod si filius 
+      <lb ed="#P" n="43"/>non spiraret, non esset distinctus a genito 
+      <lb ed="#P" n="44"/>&amp; per cns nec actus spirandi ab actu generandi¬ 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1834">
+               <lb ed="#P" n="45"/>Concludo ergo, quod actum spirandi
+      es<lb ed="#P" n="46" break="no"/>se in solo Patre, importat quidam in compossibilita 
+      <lb ed="#P" n="47"/>tem, idcirco de sua intrinseca ratione est esse in 
+      <lb ed="#P" n="48"/>patre, &amp; filio, &amp; per cuns amor essentialis non 
+      <lb ed="#P" n="49"/>fundabit istu actu notionalem, qui est spirare, 
+      <lb ed="#P" n="50"/>nisi prout existit in vtroque per mutuum, &amp;  
+      <lb ed="#P" n="51"/>concordem amorem eorum, Cum ergo qrituri 
+      <lb ed="#P" n="52"/>vtrum S. 8. procedat a Patre, &amp; Filio per con 
+      <lb ed="#P" n="53"/>cordem, &amp; mutuum amorem; Dicendum est 
+      <lb ed="#P" n="54"/>quod sic: non quod mutuitas amoris se
+      te<lb ed="#P" n="55" break="no"/>neat ex parte principij spiratiui, sicut
+      pone<lb ed="#P" n="56" break="no"/>bat prima opinio, sed tenebit se ex parte
+      ip<lb ed="#P" n="57" break="no"/>sius actus, seilicet spirationis actiuae, vt sit ta 
+      <!--372.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 347 b -->
+               <lb ed="#P" n="58"/>lis sensus; Spiritus Sanctus procedit aPatre, 
+      <lb ed="#P" n="59"/>&amp; Filio per amorem mutuum, &amp; concordem 
+      <lb ed="#P" n="60"/>amborum, quia procedit per spirationem
+      acti<lb ed="#P" n="61" break="no"/>uam, de cuius intrinseca ratione est fundari 
+      <lb ed="#P" n="62"/>super amorem mutuum, &amp; concordem eorum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1882">
+               <lb ed="#P" n="63"/>Ex quibus omnibus potest patere Spiritum 
+      <lb ed="#P" n="64"/>Sanctum conuenienter dici nexum Patris,  
+      <lb ed="#P" n="65"/>&amp; Filij: Vnde &amp; P. Aug. de eo loquens 8. de 
+      <lb ed="#P" n="66"/>Trin. c. 5. dicit quod est communicatio
+      con<lb ed="#P" n="67" break="no"/>substantialis, &amp; coaeterna Patris, &amp; Filij, quae 
+      <lb ed="#P" n="68"/>si amicitia conuenienter dici potest dicatur: 
+      <lb ed="#P" n="69"/>Haec autem omnia videntur habere
+      verita<lb ed="#P" n="70" break="no"/>tem quia sua spiratio fundatur super amore 
+      <lb ed="#P" n="71"/>mutuo, &amp; concorde amborum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1904">
+               <lb ed="#P" n="72"/>Ad rationes ergo primae opinionis non est 
+      <lb ed="#P" n="73"/>necesse respondere; quia ex verbis Riccardi 
+      <lb ed="#P" n="74"/>non colligitur, quod mutuitas amoris se
+      te<lb ed="#P" n="75" break="no"/>neat ex parte principij spiratiui, quasi praeue 
+      <lb ed="#P" n="76"/>niens actum spirandi, &amp; dando foecunditate 
+      <lb ed="#P" n="77"/>eidem principio spiratiuo, vt ipsi exponunt; 
+      <lb ed="#P" n="78"/>sed solum eius verba cogunt nos, vt dicamus 
+      <lb ed="#P" n="79"/>amorem mutuum patris, &amp; filij
+      concurre<lb ed="#P" n="80" break="no"/>re necessario ad actum spirandi, quod vtiqu 
+      <lb ed="#P" n="81"/>concedo eo modo quo est declaratum. 
+      <lb ed="#P" n="82"/>Nec etiam respondendum est rationibus
+      al<lb ed="#P" n="83" break="no"/>terius opinionis, quibus impugnatur
+      mo<lb ed="#P" n="84" break="no"/>dus ponendi praefatae opinionis, quia
+      conue<lb ed="#P" n="85" break="no"/>niunt in conclusione, sed opus est respodere 
+      <lb ed="#P" n="86"/>ad illas solum quae probant directe Spiritum 
+      <lb ed="#P" n="87"/>Sanctum non procedere a Patre, &amp; Filio per 
+      <lb ed="#P" n="88"/>mutuum amorem eorum : &amp; vt breuius nos 
+      <lb ed="#P" n="89"/>expediamus est intelligendum, tria esse
+      fun<lb ed="#P" n="90" break="no"/>damenta quibus firmant suam opinionem. 
+      <lb ed="#P" n="91"/>quorum primum est amorem mutuum non 
+      <lb ed="#P" n="92"/>esse perfectiorem in diuinis amore simplici, 
+      <lb ed="#P" n="93"/>&amp; essentiali; ac per consequens nec iucudio.  
+      <lb ed="#P" n="94"/>rem, siue fecundiorem ad productionem Spi 
+      <lb ed="#P" n="95"/>ritus Sancti. Secundum est, principium
+      spi<lb ed="#P" n="96" break="no"/>ratiuum, scilicet voluntatem non acquirere 
+      <lb ed="#P" n="97"/>fecunditatem a Patre, &amp; Filio, in quibus est; 
+      <lb ed="#P" n="98"/>ed magis tribuit eam ipsis; &amp; per consequens 
+      <lb ed="#P" n="99"/>non indiget concordia amoris amborum ad 
+      <lb ed="#P" n="100"/>principiandum dictum actum 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1970">
+               <lb ed="#P" n="101"/>Tertium est, totam foecunditatem
+      princi<lb ed="#P" n="102" break="no"/>ij spiratiui esse in patre in primo signo
+      ori<lb ed="#P" n="103" break="no"/>ginis ante productionem filij, &amp; per consequens 
+      <lb ed="#P" n="104"/>ante concordiam amoris amborum. Additur 
+      <lb ed="#P" n="105"/>etiam, &amp; quartum ab alijs, quod fuit
+      supe<lb ed="#P" n="106" break="no"/>rius tactum, scilicet, actum spirandi esse actu 
+      <lb ed="#P" n="107"/>simplicem, &amp; per consequens in quocunque 
+      <lb ed="#P" n="108"/>supposito ponatur esse in eo totaliter, &amp;
+      com<lb ed="#P" n="109" break="no"/>plete. Potest ergo esse in solo patre. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1992">
+               <lb ed="#P" n="110"/>Remotis igitur istis fundamentis rationes 
+      <lb ed="#P" n="111"/>eorum nihil concludent. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e1999">
+               <lb ed="#P" n="112"/>Et ideo quantum ad primum dico, quod 
+      <lb ed="#P" n="113"/>deficit in duobus, Primo, quia diuidunt amo 
+      <lb ed="#P" n="114"/>rem mutuum contra simplicem, quasi sint 
+      <!--373.xml-->
+      <pb ed="#P" n="348"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>duo amores in diuinis, quorum vnus sit per 
+      <lb ed="#P" n="2"/>fectior alio; quod quidem est falsum, nam 
+      <lb ed="#P" n="3"/>vnus, &amp; idem amor est, qui dicitur simplex, 
+      <lb ed="#P" n="4"/>inquantum est pure essentialis, &amp;
+      commu<lb ed="#P" n="5" break="no"/>nis tribus personis quasi per modum formae 
+      <lb ed="#P" n="6"/>inexistentis &amp; dicitur mutuus inquantum 
+      <lb ed="#P" n="7"/>existit in eis quasi per actum notionalem  
+      <lb ed="#P" n="8"/>vnius impendatur alteri, &amp; pr actum notionalem 
+      <lb ed="#P" n="9"/>alterius rependatur eidem; nam sicut
+      pa<lb ed="#P" n="10" break="no"/>tuit superius ex auctoritate P. August
+      indu<lb ed="#P" n="11" break="no"/>cta: Videre silij respectu Patris idem est, quod 
+      <lb ed="#P" n="12"/>ipsum natum esse de Patre, vbi videtur
+      vel<lb ed="#P" n="13" break="no"/>le, quod visio filij non tendat in Patrem
+      tan<lb ed="#P" n="14" break="no"/>quam in terminum realiter distinctum a
+      fi<lb ed="#P" n="15" break="no"/>lio, nisi per actum notionalem qui est nasci, 
+      <lb ed="#P" n="16"/>&amp; eodem modo est dicendum visionem Pa 
+      <lb ed="#P" n="17"/>tris non tendere in Filium tanquam in obie 
+      <lb ed="#P" n="18"/>ctum distinctum, nisi per actum notionalem, 
+      <lb ed="#P" n="19"/>qui est generare: Sicut ergo mutuitas cogni 
+      <lb ed="#P" n="20"/>tionis attribuitur Patri, &amp; Filio per eorum 
+      <lb ed="#P" n="21"/>actus notionales; ita &amp; mutuitas amoris est 
+      <lb ed="#P" n="22"/>qua actus notionales, quamuis sint
+      distin<lb ed="#P" n="23" break="no"/>cti inter se, non sunt tamen distincti ab essen 
+      <lb ed="#P" n="24"/>tialibus, ldcirco sicut visio essentialis
+      sim<lb ed="#P" n="25" break="no"/>plex, &amp; visio personalis mutua non sunt duae 
+      <lb ed="#P" n="26"/>visiones; ita amor essentialis simplex, &amp;
+      a<lb ed="#P" n="27" break="no"/>mor personalis mutuus non sunt duo
+      amo<lb ed="#P" n="28" break="no"/>res, sed sunt vnus amor aeque perfectus. 
+      <lb ed="#P" n="29"/>&amp; ista est intentio Anselmi Monolg.
+      capi<lb ed="#P" n="30" break="no"/>te primo dicentis, &amp; quoniam omni- 
+      <lb ed="#P" n="31"/>non idem est quod amat, &amp; quod amatur 
+      <lb ed="#P" n="32"/>in patre, &amp; filio, necesse est vt vterque pari 
+      <lb ed="#P" n="33"/>amore diligat se, &amp; alterum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2086">
+               <lb ed="#P" n="34"/>Deficit secundo, quia iucunditatem diui 
+      <lb ed="#P" n="35"/>ni amoris videtur velle reducere in mutuita 
+      <lb ed="#P" n="36"/>tem personalem, cum tamen magis sit e
+      con<lb ed="#P" n="37" break="no"/>uerso, quia essentialia non reducuntur in por 
+      <lb ed="#P" n="38"/>sonalia, sed personalia in essentialia:
+      Mutui<lb ed="#P" n="39" break="no"/>tas ergo personalis in amore prouenit ex pro 
+      <lb ed="#P" n="40"/>fectione, &amp; iucunditate amoris essentialis, &amp;  
+      <lb ed="#P" n="41"/>non e conuerso: &amp; ita verba Riccardi sunt 
+      <lb ed="#P" n="42"/>intelligenda dicentis amorem non posse esse 
+      <lb ed="#P" n="43"/>ucundum, nisi sit mutuus; ac si diceret quod 
+      <lb ed="#P" n="44"/>siue in nobis, siue in Deo iucunditas
+      amo<lb ed="#P" n="45" break="no"/>ris exigit distinctas personas, inte quas sit 
+      <lb ed="#P" n="46"/>mutuitas impensionis, &amp; repensionis; in isto 
+      <lb ed="#P" n="47"/>tamen modo exigentiae est magna diuersitas: 
+      <lb ed="#P" n="48"/>Nam quia in creaturis plures personae se amam 
+      <lb ed="#P" n="49"/>tes, &amp; redamantes habent plus de bonitate, 
+      <lb ed="#P" n="50"/>&amp; amabilitate, quam vna sola persona,
+      idcir<lb ed="#P" n="51" break="no"/>co plenitudo, &amp; iucunditas amoris
+      innasci<lb ed="#P" n="52" break="no"/>tur ex ipsa mutuitate, &amp; amor mutuus est in 
+      <lb ed="#P" n="53"/>eis perfectior amore simplici: In diuinis aunte 
+      <lb ed="#P" n="54"/>quia plures amantes, &amp; redamantes non ha 
+      <lb ed="#P" n="55"/>bent plus de bonitate, quam vnus eorum,
+      so<lb ed="#P" n="56" break="no"/>lus idcirco plenitudo, &amp; iucunditas amoris 
+      <lb ed="#P" n="57"/>non innascetur ex mutuitate, sed magis e 
+      <!--373.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 348 b -->
+               <lb ed="#P" n="58"/>conuerso mutuitas innascetur ex
+      plenitudi<lb ed="#P" n="59" break="no"/>ne amoris. Et ideo Riccardus nititur
+      pro<lb ed="#P" n="60" break="no"/>bare pluralitatem personarum ex
+      plenitudi<lb ed="#P" n="61" break="no"/>ne amoris, &amp; sapientiae. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2156">
+               <lb ed="#P" n="62"/>Secundum etiam fundamentum deficit. 
+      <lb ed="#P" n="63"/>Primo, quia volunt voluntatem esse
+      princi<lb ed="#P" n="64" break="no"/>pium spiratiuum ex se ipsa etiam antequam 
+      <lb ed="#P" n="65"/>intelligatur existere in suppositis patris, &amp;  
+      <lb ed="#P" n="66"/>filij, quod est falsum; quia sicut dicebatur 
+      <lb ed="#P" n="67"/>superius in 7. distinct. de potentia
+      generan<lb ed="#P" n="68" break="no"/>di, quod erat quoddam absolutum cum mo 
+      <lb ed="#P" n="69"/>do relatiuo, qui est ordo ad actum, ita est hio 
+      <lb ed="#P" n="70"/>dicendum de principio spiratiuo; Quamuis 
+      <lb ed="#P" n="71"/>ergo voluntas non acquirat actualitatem, &amp;  
+      <lb ed="#P" n="72"/>foecunditatem ex patre, &amp; ex filio in quibus 
+      <lb ed="#P" n="73"/>existit, acquirit tamen exigentiam in eis con 
+      <lb ed="#P" n="74"/>uenientem, &amp; debitum ordinem ad actum; 
+      <lb ed="#P" n="75"/>non ergo indiget concordia amoris amborum 
+      <lb ed="#P" n="76"/>propter foecunditatem, sed propter
+      conue<lb ed="#P" n="77" break="no"/>nientem ordinem ad actum, &amp; ideo
+      assumi<lb ed="#P" n="78" break="no"/>tur hic pro causa, quod non est causa. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2195">
+               <lb ed="#P" n="79"/>Deficit secundo, quia supponunt in isto 
+      <lb ed="#P" n="80"/>fundamento concordiam amoris se tenere ex 
+      <lb ed="#P" n="81"/>parte principij spiratiui, cuius contrarium 
+      <lb ed="#P" n="82"/>superius est ostensum, concordia enim
+      amo<lb ed="#P" n="83" break="no"/>ris concurrit ad actum spirandi non propter 
+      <lb ed="#P" n="84"/>indigentiam principij spiratiui, nec etiam  
+      <lb ed="#P" n="85"/>propter indigentiam Patris, &amp; Filij, sed
+      pro<lb ed="#P" n="86" break="no"/>pter coexigentiam ipsius actus, puta quia
+      a<lb ed="#P" n="87" break="no"/>ctus spirandi exigit fundamentum sic
+      pro<lb ed="#P" n="88" break="no"/>portionatum 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2220">
+               <lb ed="#P" n="89"/>Tertium autem fundamentum pariter de 
+      <lb ed="#P" n="90"/>ficit in duobus, primo quidem, quia supponit 
+      <lb ed="#P" n="91"/>quod sit pribritas originis inter patrem, &amp; 
+      <lb ed="#P" n="92"/>filiu, cuius contrarium probatum est in 9. 
+      <lb ed="#P" n="93"/>distinct, Secundo, quia dato quod ibi sit prio 
+      <lb ed="#P" n="94"/>ritas originis, non tamen propter hoc sequi 
+      <lb ed="#P" n="95"/>tur, quod pater possit producere Spiritum 
+      <lb ed="#P" n="96"/>Sanctum sine filio: Nam quantuncunque 
+      <lb ed="#P" n="97"/>haberet omnem foecunditatem in primo
+      si<lb ed="#P" n="98" break="no"/>gno originis, non tamen haberet eam sub 
+      <lb ed="#P" n="99"/>debito ordine ad actum, nec etiam actus spi 
+      <lb ed="#P" n="100"/>randi haberet suum fundamentum sub debi 
+      <lb ed="#P" n="101"/>ta proportione necessario requisita; sine qua 
+      <lb ed="#P" n="102"/>non potest esse talis actus prout
+      distingui<lb ed="#P" n="103" break="no"/>tur ab actu generandi, vt superius
+      pa<lb ed="#P" n="104" break="no"/>tuit. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2257">
+               <lb ed="#P" n="105"/>quartum etiam fundamentum deficit, 
+      <lb ed="#P" n="106"/>quia quod actus spirandi non possit esse in 
+      <lb ed="#P" n="107"/>solo patre non est propter sui
+      dissimilitudi<lb ed="#P" n="108" break="no"/>nem, vel propter sui incompletam
+      existen<lb ed="#P" n="109" break="no"/>tiam in vna sola persona, sed propter suam 
+      <lb ed="#P" n="110"/>formalem exigentiam, hoc enim ex 
+      <lb ed="#P" n="111"/>sua formali, &amp; intrinseca ratione 
+      <lb ed="#P" n="112"/>exigit: &amp; sic patet quod quae 
+      <lb ed="#P" n="113"/>stio principalis
+      in<lb ed="#P" n="114" break="no"/>tendebat. A
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2281">
+      <!--374.xml-->
+               <pb ed="#P" n="349"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="2"/>Vtrum Pater, &amp; Filius spirent inquantum 
+      <lb ed="#P" n="3"/>vnum, vel inquantum plures.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2297">
+               <lb ed="#P" n="4"/>D hoc respondent illi, qui ponunt con 
+      <lb ed="#P" n="5"/>cordiam amoris esse de ratione princi 
+      <lb ed="#P" n="6"/>pij spiratiui dicentes, quod reduplicatio
+      fa<lb ed="#P" n="7" break="no"/>cta super eo quod quaeritur potest
+      redupli<lb ed="#P" n="8" break="no"/>care conditionem suppositorum spirantium,  
+      <lb ed="#P" n="9"/>&amp; conditionem principij spiratiui; si ego
+      re<lb ed="#P" n="10" break="no"/>duplicet conditionem suppositorum
+      spiran<lb ed="#P" n="11" break="no"/>tium, sic dicunt Patrem, &amp; Filium spirare in 
+      <lb ed="#P" n="12"/>quantum plures, quod patet. Tum quia
+      pa<lb ed="#P" n="13" break="no"/>ter, &amp; filius in spirando non perdunt suam 
+      <lb ed="#P" n="14"/>distinctionem personalem, &amp; per consequens 
+      <lb ed="#P" n="15"/>spirant vt supposita distincta, &amp; plura Tum 
+      <lb ed="#P" n="16"/>etiam quia (secundum eos) voluntas non
+      ha<lb ed="#P" n="17" break="no"/>bet plenam fecunditatem ad productionem 
+      <lb ed="#P" n="18"/>Spiritus Sancti, nisi prout existit in duabus 
+      <lb ed="#P" n="19"/>personis, scilicet in Patre, &amp; Filio, &amp; per con 
+      <lb ed="#P" n="20"/>sequens distinctio personalis inter Patrem, 
+      <lb ed="#P" n="21"/>&amp; Filium videtur necessario requisita ad
+      a<lb ed="#P" n="22" break="no"/>etum spirandi, &amp; sic necessario sequitur, quod 
+      <lb ed="#P" n="23"/>spirent inquantum plures: Si autem talis
+      re<lb ed="#P" n="24" break="no"/>duplicatio reduplicet conditionem principij 
+      <lb ed="#P" n="25"/>spiratiui, sic dicunt, quod spirant inquantum 
+      <lb ed="#P" n="26"/>vnum, quia principium spirationis per quod 
+      <lb ed="#P" n="27"/>spirant, scilicet diuina voluntas et in eis vna 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2352">
+               <lb ed="#P" n="28"/>Alij vero, quorum est opinio superius re 
+      <lb ed="#P" n="29"/>citata dicunt simpliciter, quod spirant inquam 
+      <lb ed="#P" n="30"/>tum vnum; Motiuum autem cui innittuntur 
+      <lb ed="#P" n="31"/>patere potest ex dictis superius, quia per eos 
+      <lb ed="#P" n="32"/>concordia amoris non concurrit ad actum  
+      <lb ed="#P" n="33"/>spirandi tanquam aliquod omnino
+      necessa<lb ed="#P" n="34" break="no"/>rium ad illum,; non enim est necessaria
+      pro<lb ed="#P" n="35" break="no"/>pter principium spiratiuum, quia illud
+      prae<lb ed="#P" n="36" break="no"/>existit complete in patre secundum totam fe 
+      <lb ed="#P" n="37"/>cunditatem, nec etiam propter actum
+      spiram<lb ed="#P" n="38" break="no"/>di, quia si principium productiuum potest es 
+      <lb ed="#P" n="39"/>se complete in solo patre, pari ratione &amp;
+      a<lb ed="#P" n="40" break="no"/>etus spiradi; si autem concordia amoris non concur 
+      <lb ed="#P" n="41"/>rit ibi tanquam aliquid omnino necessarium, 
+      <lb ed="#P" n="42"/>sequitur, quod nec aliqua pluralitas
+      suppo<lb ed="#P" n="43" break="no"/>sitorum spirantium, quia vnum eorum sequi 
+      <lb ed="#P" n="44"/>tur ad alterum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2391">
+               <lb ed="#P" n="45"/>Ad propositum ergo, quia praefata
+      redu<lb ed="#P" n="46" break="no"/>plicatio reduplicat solum principium
+      spira<lb ed="#P" n="47" break="no"/>tiuum, vt sufficiens causa talis actus, &amp; hanc 
+      <lb ed="#P" n="48"/>sufficientiam habet in vno solo supposito; id 
+      <lb ed="#P" n="49"/>circo inferunt, quod nullo modo hic
+      redu<lb ed="#P" n="50" break="no"/>plicetur pluralitas suppositorum. 
+      <lb ed="#P" n="51"/>Vtraque tamn opinio videtur deficere. 
+      <!--374.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 349 b -->
+               <lb ed="#P" n="52"/>Prima namque deficit tripliciter; Primo, quid 
+      <lb ed="#P" n="53"/>videtur velle quod reduplicatio possit redu 
+      <lb ed="#P" n="54"/>plicare principium, &amp; supposita spiratiua; qud 
+      <lb ed="#P" n="55"/>non est verum, quia reduplicatio dat intelli 
+      <lb ed="#P" n="56"/>gere causam praecisam, &amp; adaequatam praedi 
+      <lb ed="#P" n="57"/>cati in subiecto, &amp; quia in eodem subiecto 
+      <lb ed="#P" n="58"/>eiusdem praedicati non est dare nisi vna cau 
+      <lb ed="#P" n="59"/>sa, impossibile est, quod in eadem proposito 
+      <lb ed="#P" n="60"/>ne de eodem subiecto respectu eiusdem
+      pre<lb ed="#P" n="61" break="no"/>dicati reduplicatio reduplicet plura 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2438">
+               <lb ed="#P" n="62"/>Secundo, quia dato, quod pluralitas
+      sup<lb ed="#P" n="63" break="no"/>positorum necessario concurreret ad actum  
+      <lb ed="#P" n="64"/>spirandi, non tamen ex hoc sequitur, quod 
+      <lb ed="#P" n="65"/>debeant reduplicari, quia sicut inferius pate 
+      <lb ed="#P" n="66"/>bit, plura possunt concurrere necessario ad 
+      <lb ed="#P" n="67"/>veritatem alicuius propositonis,
+      reduplica<lb ed="#P" n="68" break="no"/>tio tamen non cadit super omnia illa.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2456">
+               <lb ed="#P" n="69"/>Tertio, quia vult quod actus spirandi sit 
+      <lb ed="#P" n="70"/>a duobus personis, ac si principium
+      spirati<lb ed="#P" n="71" break="no"/>uum existens in eis sortiatur fecunditatem  
+      <lb ed="#P" n="72"/>ab eis; Hoc autem fuit superius improbatum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2467">
+               <lb ed="#P" n="73"/>Secunda etiam opinio, quamuis in conclu 
+      <lb ed="#P" n="74"/>sione vera sit, in modo tamen ponendi
+      defi<lb ed="#P" n="75" break="no"/>cit dupliciter. Tum quia vult, quod actus 
+      <lb ed="#P" n="76"/>spirandi possit esse quantum ex se est ab vna 
+      <lb ed="#P" n="77"/>sola persona, cuius contrarium est probatum 
+      <lb ed="#P" n="78"/>supra Tum quia, dato, quod actus spirandi 
+      <lb ed="#P" n="79"/>non possit esse nisi a duabus personis, vt
+      su<lb ed="#P" n="80" break="no"/>perius est declaratum, non tamen propter 
+      <lb ed="#P" n="81"/>hoc oportet, quod ibi plurificetur dualitas,  
+      <lb ed="#P" n="82"/>&amp; pluralitas personarum, sicut infra
+      decla<lb ed="#P" n="83" break="no"/>rabitur. Errant igitur, quia arbitrantur
+      re<lb ed="#P" n="84" break="no"/>duplicationem hic reduplicare quicquid ne 
+      <lb ed="#P" n="85"/>cessario concurrit ad actum spirandi. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2498">
+               <lb ed="#P" n="86"/>Quapropter videtur dicendum secundum 
+      <lb ed="#P" n="87"/>mentem AEgidij, quod Pater, &amp; Filius
+      spire<lb ed="#P" n="88" break="no"/>tur Spiritum Sanctum inquantum vnum 
+      <lb ed="#P" n="89"/>non inquantum plures. Cuius ratio est, quia 
+      <lb ed="#P" n="90"/>reduplicatio ista non respicit supposita
+      spi<lb ed="#P" n="91" break="no"/>rantia, sed solum principium spiratiuum, quod 
+      <lb ed="#P" n="92"/>est vnum in Patre, &amp; filio.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2516">
+               <lb ed="#P" n="93"/>Ad cuius euidentiam breuiter est
+      intelli<lb ed="#P" n="94" break="no"/>gendum plura posse concurrere necessario 
+      <lb ed="#P" n="95"/>ad veritatem propositonis illius, in qua est 
+      <lb ed="#P" n="96"/>ceduplicatio, quemadmodum V. C
+      sidicam<lb ed="#P" n="97" break="no"/>album disgregat inquantum album, ad
+      veri<lb ed="#P" n="98" break="no"/>tatem istius propositonis non solum concur 
+      <lb ed="#P" n="99"/>rit albedo, sed etiam quantitas, &amp; debita pro 
+      <lb ed="#P" n="100"/>pinquitas ad oculum, si enim albedo esset se 
+      <lb ed="#P" n="101"/>parata ab omni quantitate, nec haberet debi 
+      <lb ed="#P" n="102"/>tam propinquitatem ad oculum nunquam  
+      <lb ed="#P" n="103"/>disgregaret. Hoc autem non obstante,
+      redu<lb ed="#P" n="104" break="no"/>plicatio non reduplicat quantitatem, vel pro 
+      <lb ed="#P" n="105"/>pinquitatem ad oculum, sed solam albedinem; 
+      <lb ed="#P" n="106"/>quod ideo est, quia sola albedo est ibi causa 
+      <lb ed="#P" n="107"/>praecisa, per quam istud praedicatum,
+      disgre<lb ed="#P" n="108" break="no"/>gare, inest huic subiecto, quod est album es¬ 
+      <!--375.xml-->
+      <pb ed="#P" n="350"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>se, quantitas vero, &amp; propinquitas ad actum  
+      <lb ed="#P" n="2"/>istum ibi concurrunt sicut causae, sine
+      qui<lb ed="#P" n="3" break="no"/>bus tale subiectum non haberet debitum
+      or<lb ed="#P" n="4" break="no"/>dinem, vel proportionem ad tale praedicatum, 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2568">
+               <lb ed="#P" n="5"/>Ita videtur dicendum in proposito: nam  
+      <lb ed="#P" n="6"/>quamuis ad veritatem istius propositonis, 
+      <lb ed="#P" n="7"/>pater, &amp; filius spirant, concurrat vnitas prin 
+      <lb ed="#P" n="8"/>cipij spiratiui, &amp; pluralitas suppositorum ha 
+      <lb ed="#P" n="9"/>bentium tale principium, sola tamen vnitas 
+      <lb ed="#P" n="10"/>rincipij spiratiui est praecisa causa, per quam 
+      <lb ed="#P" n="11"/>hoc praedicatum, quod est spirare, inest pa 
+      <lb ed="#P" n="12"/>tri, &amp; filio, pluralitas vero &amp; distinctio inter 
+      <lb ed="#P" n="13"/>eos est causa sine qua non habetur debita pr 
+      <lb ed="#P" n="14"/>portio ad talem actum, &amp; ideo reduplicatio 
+      <lb ed="#P" n="15"/>debet reduplicare vnitatem principij spirati 
+      <lb ed="#P" n="16"/>ui, non at pluralitatem suppositorum
+      spiran<lb ed="#P" n="17" break="no"/>tium; ideo dicendum est patrem, &amp; filium spirare 
+      <lb ed="#P" n="18"/>inquantum vnum, non inquantum plures. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2602">
+               <lb ed="#P" n="19"/>Est haec est D. Anselmi intentio Mono. 
+      <lb ed="#P" n="20"/>primo cap. x. dicentis, non ex relationibus, 
+      <lb ed="#P" n="21"/>quae sunt plures, sed ex essentia, quae e vna, 
+      <lb ed="#P" n="22"/>pater, &amp; filius emittunt pariter tantum
+      bo<lb ed="#P" n="23" break="no"/>num: quod etiam manifestat in de
+      Proces<lb ed="#P" n="24" break="no"/>sione, Spiritus Sancti cap. 1 exemplo de lacu 
+      <lb ed="#P" n="25"/>manante e fonte, &amp; riuo; nam sicut lacus
+      e<lb ed="#P" n="26" break="no"/>manat a fonte, &amp; riuo non vt distincta, sed 
+      <lb ed="#P" n="27"/>vt vnum sunt in habendo eandem aquam, 
+      <lb ed="#P" n="28"/>ita etiam Spiritus Sanctus manat a patre, &amp;  
+      <lb ed="#P" n="29"/>filio, non vt distincti sunt suis relationibs 
+      <lb ed="#P" n="30"/>sed vt sunt vnum in virtute spiratiua. Et
+      quam<lb ed="#P" n="31" break="no"/>uis D. Anselmus non nominet ibi virtutem 
+      <lb ed="#P" n="32"/>spiratiuam, sed solam essentiam, hoc tamen 
+      <lb ed="#P" n="33"/>non variat propositum; nam per essentiam  
+      <lb ed="#P" n="34"/>debemus intelligere virtutem spiratiuam, spi 
+      <lb ed="#P" n="35"/>rat enim per essentia m quatenus essentia ha 
+      <lb ed="#P" n="36"/>bet rationem potentiae spiratiuae; &amp; ideo
+      si<lb ed="#P" n="37" break="no"/>cut dicebatur in 7. distinct. quod potentia go 
+      <lb ed="#P" n="38"/>nerandi dicebat essentiam cum modo
+      relati<lb ed="#P" n="39" break="no"/>uo, ita dici potest de potentia spirandi, quae 
+      <lb ed="#P" n="40"/>est vna in patre &amp; filio, &amp; sic spirant inquam 
+      <lb ed="#P" n="41"/>tum vnum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2654">
+               <lb ed="#P" n="42"/>Intelligendum tamen, quod ly inquantum 
+      <lb ed="#P" n="43"/>vnum, non reduplicat formaliter illud quod 
+      <lb ed="#P" n="44"/>est causa praecisa talis actus; nam constat,  
+      <lb ed="#P" n="45"/>quod vnitas quae ibi reduplicatur, non est 
+      <lb ed="#P" n="46"/>causa actus spirandi aliquo modo, est tamen 
+      <lb ed="#P" n="47"/>conditio causae praecisae, sed reduplicatio,  
+      <lb ed="#P" n="48"/>cadit super illud quod dat intelligere
+      cau<lb ed="#P" n="49" break="no"/>sam praecisam spirationis.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2674">
+               <lb ed="#P" n="50"/>Hoc at addidi, propter aliquos dicentes, quod 
+      <lb ed="#P" n="51"/>nullo modo, pater, &amp; filius spirant
+      inquan<lb ed="#P" n="52" break="no"/>tum vnum, quia vnitas eorum nullam habet 
+      <lb ed="#P" n="53"/>rationem causae respectu istius actus; qua 
+      <lb ed="#P" n="54"/>instantia parum valet, nam sufficit quod 
+      <lb ed="#P" n="55"/>per vnitatem denotetur causa praecisai
+      ma<lb ed="#P" n="56" break="no"/>gis quam per pluralitatem, &amp; sic patet quo 
+      <lb ed="#P" n="57"/>modo spirent inquantum vnum.
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2694">
+      <!--375.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 350 b -->
+               <lb ed="#P" n="58"/>ARTICVLVS TERTIVS. 
+      <lb ed="#P" n="59"/>Vtrum Pater, &amp; Filius sint plures spiratores. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2707">
+               <lb ed="#P" n="60"/>AD hoc respondent quidam dicentes 
+      <lb ed="#P" n="61"/>quod de virtute sermonis non est con 
+      <lb ed="#P" n="62"/>cedendum, patrem, &amp; filium esse plures spi 
+      <lb ed="#P" n="63"/>ratores, quamuis possint dici plures
+      spiran<lb ed="#P" n="64" break="no"/>tes, Rationem huius assignant, quia haec est 
+      <lb ed="#P" n="65"/>differentia inter nomina adiectiua, &amp; substam 
+      <lb ed="#P" n="66"/>tiua, quia nomina adiectiua significant
+      for<lb ed="#P" n="67" break="no"/>mam, vt adiacentem vni, vel pluribus suppo 
+      <lb ed="#P" n="68"/>sitis, idcirco recipiunt numerum, &amp; vnitate 
+      <lb ed="#P" n="69"/>ab eis suppositis, quibus adiacet forma signi 
+      <lb ed="#P" n="70"/>ficata, &amp; non ab ipsa forma. Nomina vero 
+      <lb ed="#P" n="71"/>substantiua, quia formam secundum se signi 
+      <lb ed="#P" n="72"/>ficant, idcirco recipiunt numerum, &amp;
+      vnita<lb ed="#P" n="73" break="no"/>tem a forma significata, &amp; non suppositis, qui 
+      <lb ed="#P" n="74"/>bus adiacent. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2742">
+               <lb ed="#P" n="75"/>Ad propositum ergo concedunt Patrem, 
+      <lb ed="#P" n="76"/>&amp; filium esse plures spirantes, quia hoc
+      ad<lb ed="#P" n="77" break="no"/>ectiuum, spirantes, significat virtutem
+      spi<lb ed="#P" n="78" break="no"/>randi adiacentem pluribus suppositis; &amp; ideo 
+      <lb ed="#P" n="79"/>praefatum nomen potest numerari secudum 
+      <lb ed="#P" n="80"/>numerum suppositorum, non autem possunt 
+      <lb ed="#P" n="81"/>dici plures spiratores, quia spirator est
+      no<lb ed="#P" n="82" break="no"/>men substantiuum, &amp; per consequens non 
+      <lb ed="#P" n="83"/>potest plurificari, nisi penes formam signifi 
+      <lb ed="#P" n="84"/>catam, quae est vna tantum s virtus
+      spira<lb ed="#P" n="85" break="no"/>tiua; quapropter non debent dici plures
+      spi<lb ed="#P" n="86" break="no"/>ratores. Et exemplificant de patre, filio, &amp; S. 8. 
+      <lb ed="#P" n="87"/>qui conceduntur esse plures creantes, non 
+      <lb ed="#P" n="88"/>autem plures creatores, quod ideo est, quia 
+      <lb ed="#P" n="89"/>hoc nomen creans, est nomen adiectiuum,, 
+      <lb ed="#P" n="90"/>pterea numeratur non penes formam, sed  
+      <lb ed="#P" n="91"/>penes supposita, in quibus est forma,
+      crea<lb ed="#P" n="92" break="no"/>tor vero est nomen substantiuum, idcirco 
+      <lb ed="#P" n="93"/>non debet numerari penes supposita, sed pe 
+      <lb ed="#P" n="94"/>nes formam significatam, quae est vnum in 
+      <lb ed="#P" n="95"/>omnibus personis. svirtus crenatiua. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2791">
+               <lb ed="#P" n="96"/>Nonnulli tenentes eandem conclusionem 
+      <lb ed="#P" n="97"/>adducunt aliam rationem dicentes, quod
+      quam<lb ed="#P" n="98" break="no"/>do terminus numeralis additur nomini
+      adie<lb ed="#P" n="99" break="no"/>ctiuo, non terminatur dependentia eius per 
+      <lb ed="#P" n="100"/>ipsum, quia vtrumque est dependens, sed
+      ter<lb ed="#P" n="101" break="no"/>minatur dependentia vtriusque per
+      supposi<lb ed="#P" n="102" break="no"/>ta, in quibus est forma significata per nomen 
+      <lb ed="#P" n="103"/>adiectiuum, &amp; ideo per talem terminum nu 
+      <lb ed="#P" n="104"/>meralem non necessario numeratur forma 
+      <lb ed="#P" n="105"/>significata per nomen adiectiuum, sed
+      suffi<lb ed="#P" n="106" break="no"/>cit quod numerentur supposita ad quae
+      ter<lb ed="#P" n="107" break="no"/>minatur dependentia vtriusque: quapropter 
+      <lb ed="#P" n="108"/>possumus dicere plures creantes, &amp; plures 
+      <lb ed="#P" n="109"/>spitantes: quando vero terminus numeralis. 
+      <!--376.xml-->
+      <pb ed="#P" n="351"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>additur nomini substantiuo, tunc dependen 
+      <lb ed="#P" n="2"/>tia eius terminatur ad ipsum immediate,
+      id<lb ed="#P" n="3" break="no"/>circo videtur necessario numerari forma
+      si<lb ed="#P" n="4" break="no"/>gnificata per tale nomen substantiuum; Qua 
+      <lb ed="#P" n="5"/>propter non possumus dicere esse plures crea 
+      <lb ed="#P" n="6"/>tores, quia vis creatiua, &amp; spiratiua non plu 
+      <lb ed="#P" n="7"/>rificantur. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2846">
+               <lb ed="#P" n="8"/>Primus modus dicendi mihi non videtur 
+      <lb ed="#P" n="9"/>rationabilis. Tum quia conclusio in se non 
+      <lb ed="#P" n="10"/>est vera, nam aliquae Sanctorum auctorita 
+      <lb ed="#P" n="11"/>tes nominare videntur patrem, &amp; filium esse 
+      <lb ed="#P" n="12"/>plures spiratores. Dicit . n. Hylarius 2. de 
+      <lb ed="#P" n="13"/>Trinit. quod Spiritus Sanctus procedit a pa 
+      <lb ed="#P" n="14"/>tre &amp; filio auctoribus, quod idem est, quod 
+      <lb ed="#P" n="15"/>spiratoribus. Tum quia non est par ratio de crea 
+      <lb ed="#P" n="16"/>re, &amp; spirare: Nam hoc nomen substantiuum 
+      <lb ed="#P" n="17"/>creator, significat talem formam, cui potest 
+      <lb ed="#P" n="18"/>attribui actus creandi, attribuitur, n act) cream 
+      <lb ed="#P" n="19"/>di ipsi essentiae quod est virtus creatiua, &amp; ideo 
+      <lb ed="#P" n="20"/>ei adderetur terminus numeralis omnino vi 
+      <lb ed="#P" n="21"/>detur numerari essentia; non sic autem con 
+      <lb ed="#P" n="22"/>tingit de hoc nomine spirator, quia
+      signifi<lb ed="#P" n="23" break="no"/>cat talem formam, cui non potest attribui
+      a<lb ed="#P" n="24" break="no"/>ctus spirandi, immo solum attribuitur
+      duo<lb ed="#P" n="25" break="no"/>bus determinatis suppositis, in quibus est vir 
+      <lb ed="#P" n="26"/>tus spiratiua; Quapropter terminus numera 
+      <lb ed="#P" n="27"/>lis sibi additus non numerabit formam, sed  
+      <lb ed="#P" n="28"/>supposita, quibus attribuitur talis actus. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2894">
+               <lb ed="#P" n="29"/>Ad rationes illorum dico, quod fundamen 
+      <lb ed="#P" n="30"/>tum cui innituntur, non est efficax; nam
+      quam<lb ed="#P" n="31" break="no"/>uis nomen adiectiuum, &amp; substantiuum dif 
+      <lb ed="#P" n="32"/>ferant in modo significandi, possunttamen 
+      <lb ed="#P" n="33"/>conuenire in principali significato, &amp; quia 
+      <lb ed="#P" n="34"/>terminus numeralis numerat principale
+      si<lb ed="#P" n="35" break="no"/>gnificatum nominis (cui additur) idcirco vbi 
+      <lb ed="#P" n="36"/>adiectiuum, &amp; substantiuum conueniunt in 
+      <lb ed="#P" n="37"/>principali significato, eodem modo numeram 
+      <lb ed="#P" n="38"/>tur per terminum numeralem eis additum,  
+      <lb ed="#P" n="39"/>sicut patet de hoc adiectiuo aedificans, &amp;  
+      <lb ed="#P" n="40"/>hoc substantiuo aedificator, nam quia in 
+      <lb ed="#P" n="41"/>principali significato conueniunt, sicut plu 
+      <lb ed="#P" n="42"/>rificatur aedificans, ita plurificatur
+      aedifi<lb ed="#P" n="43" break="no"/>cator. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2929">
+               <lb ed="#P" n="44"/>Ad illud, quod ab alijs additur pro
+      con<lb ed="#P" n="45" break="no"/>clusione, quod nomen substantiuum
+      termi<lb ed="#P" n="46" break="no"/>net dependentiam termini numeralis, dico,  
+      <lb ed="#P" n="47"/>quod non terminat talem dependentiam ra 
+      <lb ed="#P" n="48"/>tione formae significatae, tunc. nm sequeretur,  
+      <lb ed="#P" n="49"/>quod actus, a quo talis forma nominatur,  
+      <lb ed="#P" n="50"/>attribueretur ipsi formae, quod est falsum. 
+      <lb ed="#P" n="51"/>Magis ergo dicendum est, quod terminent 
+      <lb ed="#P" n="52"/>dependentiam ratione suppositorum in
+      qui<lb ed="#P" n="53" break="no"/>bus est talis forma, nam sicut actus, a quo de 
+      <lb ed="#P" n="54"/>nominatur forma, non attribuitur formae, sed  
+      <lb ed="#P" n="55"/>supposito habenti formam, ita etiam termi- 
+      <lb ed="#P" n="56"/>nare dependentiam termini numeralis, vel 
+      <lb ed="#P" n="57"/>non attribuetur formae, vel solum attribue¬ 
+      <!--376.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 351 b -->
+               <lb ed="#P" n="58"/>tur sibi ratione suppositi in quo est, &amp; ideo 
+      <lb ed="#P" n="59"/>quantuncunque nomen substantiuum
+      termi<lb ed="#P" n="60" break="no"/>net dependentiam termini numeralis, quia 
+      <lb ed="#P" n="61"/>non terminat eam ratione formae, sed
+      ra<lb ed="#P" n="62" break="no"/>tione suppositi habenti eam, non
+      plurifica<lb ed="#P" n="63" break="no"/>bit formam, sed supposita. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e2981">
+               <lb ed="#P" n="64"/>Quapropter videtur esse dicendum
+      secu<lb ed="#P" n="65" break="no"/>dum opinionem D. AEgidij dicentis, quod 
+      <lb ed="#P" n="66"/>quemadmodum conceditur patrem, &amp; filiu 
+      <lb ed="#P" n="67"/>esse plures spirantes, ita potest concedi, quod 
+      <lb ed="#P" n="68"/>sint plures spiratores, cuius fundamentum 
+      <lb ed="#P" n="69"/>stat in hoc, quod quamuis pater, &amp; filius ha 
+      <lb ed="#P" n="70"/>beant vnam virtutem spiratiuam, actus
+      ta<lb ed="#P" n="71" break="no"/>men spirandi non attribuitur illi virtuti, sed  
+      <lb ed="#P" n="72"/>suppositis habentibus eam, ideo terminus
+      nu<lb ed="#P" n="73" break="no"/>meralis additus nomini adiectiuo, vel substam 
+      <lb ed="#P" n="74"/>tiuo significanti virtutem in ordine ad actum, 
+      <lb ed="#P" n="75"/>non numerabit necessario ipsam virtutem, 
+      <lb ed="#P" n="76"/>sed supposita habentia eam. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e3012">
+               <lb ed="#P" n="77"/>Et confirmo eius rationem, quia (sicut tan 
+      <lb ed="#P" n="78"/>gebatur superius) quando adiectiuum, &amp; 
+      <lb ed="#P" n="79"/>ubstantiuum conueniunt in principali signi 
+      <lb ed="#P" n="80"/>ficato semper habent numerari eodem
+      mo<lb ed="#P" n="81" break="no"/>do per terminum numeralem eis additum; 
+      <lb ed="#P" n="82"/>si autem contingat contratium, sicut in crea 
+      <lb ed="#P" n="83"/>te, &amp; creatore, hoc ideo est, quia actus, a quo 
+      <lb ed="#P" n="84"/>fit denominatio formae importatae per vtrun 
+      <lb ed="#P" n="85"/>que nomen, ita potest attribui formae sicut  
+      <lb ed="#P" n="86"/>supposito. Et ideo si posset eis terminus
+      nu<lb ed="#P" n="87" break="no"/>meralis addi eodem modo, sequeretur, quod 
+      <lb ed="#P" n="88"/>eodem modo numeraretur forma sicut
+      sup<lb ed="#P" n="89" break="no"/>positum: vbi ergo actus, a quo sit denomi 
+      <lb ed="#P" n="90"/>natio formae importatae per adiectiuum, &amp; 
+      <lb ed="#P" n="91"/>substantiuum, ita conuenit supposito, quod 
+      <lb ed="#P" n="92"/>non formae, terminus numeralis additus vtri 
+      <lb ed="#P" n="93"/>que nomini, numerabit supposita, &amp; non ne 
+      <lb ed="#P" n="94"/>cessario formam, &amp; ideo nullum
+      inconue<lb ed="#P" n="95" break="no"/>niens sequitur in pposito si vtrumque nomen spi 
+      <lb ed="#P" n="96"/>ratoris, &amp; spirantis eodem modo plurificetur. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e3059">
+               <lb ed="#P" n="97"/>AD ARGVM ENTA 
+      <lb ed="#P" n="98"/>principalia.  
+      <lb ed="#P" n="99"/>AD primum nego consequentiam, &amp; 
+      <lb ed="#P" n="100"/>cum probatur, quia mutuus amor
+      re<lb ed="#P" n="101" break="no"/>quirit distinctas personas, dico hoc non esse, 
+      <lb ed="#P" n="102"/>vt acquirat in eis maiorem perfectionem, im 
+      <lb ed="#P" n="103"/>mo ex plenitudine suae infinitae perfectionis 
+      <lb ed="#P" n="104"/>quam habet ex se, exigiti habere distinctas 
+      <lb ed="#P" n="105"/>personas, ita tamen quod aeque perfecte sit 
+      <lb ed="#P" n="106"/>in vna, &amp; in pluribus, &amp; eodem modo
+      dice<lb ed="#P" n="107" break="no"/>dum est de actu spiradi, qui tam perfecte est 
+      <lb ed="#P" n="108"/>ab vna persona, sicut a duabus. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e3088">
+               <lb ed="#P" n="109"/>Ad secundum dicendum quod non
+      va<lb ed="#P" n="110" break="no"/>set consequentia, nec sua probatio, quia
+      si<lb ed="#P" n="111" break="no"/>cut in 2. art. patuit, reduplicatio non debet 
+      <lb ed="#P" n="112"/>reduplicare supposita spirantia, sed
+      princi<lb ed="#P" n="113" break="no"/>pium spiratiuum. 
+    </p>
+            <p xml:id="gsX5tY-d1e508-d1e3101">
+               <lb ed="#P" n="114"/>Ad tertium nego eorum consequentiam,  
+      <!--377.xml-->
+      <pb ed="#P" n="352"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quia in 3. art concessum est, patrem, &amp; filiu 
+      <lb ed="#P" n="2"/>esse plures spiratores, cum ergo contrarium 
+      <lb ed="#P" n="3"/>probatur, quia non sunt nisi vnus creator,  
+      <lb ed="#P" n="4"/>patuit in eodem ait, non esse simile 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

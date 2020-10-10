@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="106-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e164"> <!-- l1d1q4 -->
+            <head xml:id="gsX5tY-d1e164-Hd1e109">Quaestio 4</head>
+            <head xml:id="gsX5tY-d1e164-Hd1e112" type="question-title">Utrum obiectum fruitionis possit movere voluntatem ad actum fruendi, non
+      movendo intellectum ad actum videndi.</head>
+            <div xml:id="gsX5tY-d1e164-Dd1e115">
+               <head xml:id="gsX5tY-d1e164-Hd1e117">Quaestio</head>
+               <p xml:id="gsX5tY-d1e164-d1e120">
+                  <lb ed="#P" n="91"/>QVAESTIO QVARTA. 
+      <lb ed="#P" n="92"/>Vtrum obiectum fruitionis possit mouere 
+      <lb ed="#P" n="93"/>voluntatem ad actum fruendi, non mo 
+      <lb ed="#P" n="94"/>uendo intellectum ad actum videndi.
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e164-Dd1e132" type="rationes-principales">
+               <head xml:id="gsX5tY-d1e164-Hd1e134">Rationes principales</head>
+               <p xml:id="gsX5tY-d1e164-d1e137">
+                  <lb ed="#P" n="95"/>ARVITVR AFFIRMATIVES 
+      <lb ed="#P" n="96"/>1 SIcut se habet phantasia ad intellectum, 
+      <lb ed="#P" n="97"/>Dita intellectus ad voluntatem: sed obie 
+      <lb ed="#P" n="98"/>ctum fruibile prius mouet intellectum ad
+      a<lb ed="#P" n="99" break="no"/>ctum videndi, non mouendo phantasium 
+      <lb ed="#P" n="100"/>ad actum phantasiandi; ergo etiam poterit 
+      <lb ed="#P" n="101"/>mouere voluntatem ad actu fuendi, non  
+      <lb ed="#P" n="102"/>mouendo intellectu ad actum videndi;
+      Ma<lb ed="#P" n="103" break="no"/>ior est nota, quia sicut voluntas monetur ab 
+      <!--131.xml-->
+      <pb ed="#P" n="106"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>obiecto mediante intellectu; ita &amp; intellectus 
+      <lb ed="#P" n="2"/>mouetur ab eodem obiecto mediante
+      phan<lb ed="#P" n="3" break="no"/>tasia, non enim potest intelligere, nisi
+      phan<lb ed="#P" n="4" break="no"/>tasmata speculando. Minorem probo, nam  
+      <lb ed="#P" n="5"/>obiectum fruibile, cum non sit sensibile, nec 
+      <lb ed="#P" n="6"/>phantasiabile, non potest mouere
+      phanta<lb ed="#P" n="7" break="no"/>siam in ratione obiecti ad actum phantasian 
+      <lb ed="#P" n="8"/>di, mouebit ergo intellectum immediate ad 
+      <lb ed="#P" n="9"/>actum videndi 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e185">
+                  <lb ed="#P" n="10"/>2 Si obiectum fruibile non posset
+      moue<lb ed="#P" n="11" break="no"/>re voluntatem ad fruitionem, nisi mediante 
+      <lb ed="#P" n="12"/>visione intellectus, sequeretur, quod visio 
+      <lb ed="#P" n="13"/>esset de interna ratione obiecti fruibilis; con 
+      <lb ed="#P" n="14"/>sequens est falsum ergo, &amp; antecedens, Con 
+      <lb ed="#P" n="15"/>sequentiam probo; nam si visio non esset de 
+      <lb ed="#P" n="16"/>interna ratione eius, inquantum fruibile est,  
+      <lb ed="#P" n="17"/>esset per se sufficiens sine ea, ad terminandum 
+      <lb ed="#P" n="18"/>actum fruitionis, probo falsitatem consequen 
+      <lb ed="#P" n="19"/>tis, quia si visio esset de interna ratione frui 
+      <lb ed="#P" n="20"/>bilis, cum ipsa terminetur ad obiectum sub 
+      <lb ed="#P" n="21"/>alia ratione acceptum, tunc illud esset
+      frui<lb ed="#P" n="22" break="no"/>bile sub alia ratione, quam sub ratione
+      frui<lb ed="#P" n="23" break="no"/>bili, cuius contrarium superius est ostensum 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e218">
+                  <lb ed="#P" n="24"/>Obiectum fruibile potest mouere intel 
+      <lb ed="#P" n="25"/>lectum ad actum videndi sine voluntate; ergo 
+      <lb ed="#P" n="26"/>e diuerso poterit mouere voluntatem, ad
+      a<lb ed="#P" n="27" break="no"/>ctum fruendi, non mouendo intellectum ad 
+      <lb ed="#P" n="28"/>actum videndi: Consequentia est nota por 
+      <lb ed="#P" n="29"/>hoc, quia voluntas, cum moueat omnes
+      po<lb ed="#P" n="30" break="no"/>tentias ad actus suos, non videtur magis
+      de<lb ed="#P" n="31" break="no"/>pendere in suo actu ab intellectu, quam e 
+      <lb ed="#P" n="32"/>conuerso. Antecedens probo, nam videmus 
+      <lb ed="#P" n="33"/>hic in via, quod pure speculabile ita obijci 
+      <lb ed="#P" n="34"/>tur intellectui, vt moueat ipsum ad actum 
+      <lb ed="#P" n="35"/>cognitionis, absque eo, quod moueat
+      volun<lb ed="#P" n="36" break="no"/>tatem ad actum amoris : Poterit ergo in
+      pa<lb ed="#P" n="37" break="no"/>tria eodem modo obiectum fruibile offerre 
+      <lb ed="#P" n="38"/>se intellectui, vt pure visibile, &amp; sic mouebit 
+      <lb ed="#P" n="39"/>intellectum ad actum fruendi, quod non
+      mo<lb ed="#P" n="40" break="no"/>uebit voluntatem ad eundem actum 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e257">
+                  <lb ed="#P" n="41"/>ARGVITVR NEGATIVE. 
+      <lb ed="#P" n="42"/>obiectum fruibile, vt patuit in
+      praece<lb ed="#P" n="43" break="no"/>Rdenti quaestione sub eadem ratione mo 
+      <lb ed="#P" n="44"/>uet intellectum, &amp; voluntatem: ergo non
+      po<lb ed="#P" n="45" break="no"/>test mouere vnam potentiam ad actum suum 
+      <lb ed="#P" n="46"/>sine alia.  
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e164-Dd1e275">
+               <head xml:id="gsX5tY-d1e164-Hd1e277">Divisio quaestionis</head>
+               <p xml:id="gsX5tY-d1e164-d1e280">
+                  <lb ed="#P" n="47"/>RESPONDEO in hac quaestione 
+      <lb ed="#P" n="48"/>tria sunt videnda, quae tanguntur in
+      argu<lb ed="#P" n="49" break="no"/>mentis.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e289">
+                  <lb ed="#P" n="50"/>1 An phantasia sic habeat ordinem essen 
+      <lb ed="#P" n="51"/>tialem ab intellectu, sicut intellectus ad
+      vo<lb ed="#P" n="52" break="no"/>luntatem.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e298">
+                  <lb ed="#P" n="53"/>2 An visio sit de ratione obiecti fruibilis 
+      <lb ed="#P" n="54"/>in quantum fruibile 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e305">
+                  <lb ed="#P" n="55"/>3 An in Patria obiectum fruibile pos¬ 
+      <!--131.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 106 b -->
+                  <lb ed="#P" n="56"/>sit mouere vnam potentiam ad actum 
+      <lb ed="#P" n="57"/>suum sine alia, 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e164-Dd1e322" type="articulus">
+               <head xml:id="gsX5tY-d1e164-Hd1e324">Articulus 1</head>
+               <head xml:id="gsX5tY-d1e164-Hd1e327" type="question-title">Utrum phantasia se habeat ad intellectum 
+      essentialiter sicut intellectus ad voluntatem</head>
+               <p xml:id="gsX5tY-d1e164-d1e330">
+                  <lb ed="#P" n="58"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="59"/>Vtrum phantasia se habeat ad intellectum 
+      <lb ed="#P" n="60"/>essentialiter sicut intellectus ad
+      vo<lb ed="#P" n="61" break="no"/>luntatem.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e341">
+                  <lb ed="#P" n="62"/>AD hoc dico, quod ordo inter istas po 
+      <lb ed="#P" n="63"/>tentias debet attendi quantum ad actus 
+      <lb ed="#P" n="64"/>suos; &amp; secundum hoc phantasia non habet 
+      <lb ed="#P" n="65"/>essentialem ordinem ad intellectum, sed ma 
+      <lb ed="#P" n="66"/>gis accidentalem; intellectus vero e conuer 
+      <lb ed="#P" n="67"/>so habet simpliciter essentialem ordinem ad 
+      <lb ed="#P" n="68"/>voluntatem, nam phantasia talem habet or- 
+      <lb ed="#P" n="69"/>dinem ad intellectum, quod intellectus
+      po<lb ed="#P" n="70" break="no"/>test esse in actu suo sine phantasia, voluntas 
+      <lb ed="#P" n="71"/>autem sine intellectu nequaquam, &amp; quod 
+      <lb ed="#P" n="72"/>ita sit apparet ex duobus. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e367">
+                  <lb ed="#P" n="73"/>Primo ex eo, quod voluntas est quidam 
+      <lb ed="#P" n="74"/>appetitus intellectiuus, &amp; ideo sicut
+      appeti<lb ed="#P" n="75" break="no"/>tus naturalis supponit necessario formam na 
+      <lb ed="#P" n="76"/>turalem, ita voluntas necessario supponit
+      in<lb ed="#P" n="77" break="no"/>tellectum, &amp; hoc ideo est, quia fluit ab
+      es<lb ed="#P" n="78" break="no"/>sentia animae, &amp; fundatur in ea mediante in 
+      <lb ed="#P" n="79"/>tellectu: Quapropter sicut potentia
+      suppo<lb ed="#P" n="80" break="no"/>nit potentiam, ita actus supponit actum. 
+      <lb ed="#P" n="81"/>Intellectus autem non sic supponit
+      phanta<lb ed="#P" n="82" break="no"/>siam, quia nec fluit ab anima mediante ipsa 
+      <lb ed="#P" n="83"/>phantasia, nec fundatur in ea mediante illa; 
+      <lb ed="#P" n="84"/>quinimo fundatur immediate in essentia ani 
+      <lb ed="#P" n="85"/>mae incorruptibili, phantasia autem fundatur 
+      <lb ed="#P" n="86"/>in toto coniuncto secundum aliquam
+      par<lb ed="#P" n="87" break="no"/>tem determinatam, puta secundum aliquod 
+      <lb ed="#P" n="88"/>organum corruptibile, propter quod &amp;
+      cor<lb ed="#P" n="89" break="no"/>rumpitur, sicut patet tertio de anima,
+      intel<lb ed="#P" n="90" break="no"/>lectus vero separatur ab eo, &amp; ab alijs poten 
+      <lb ed="#P" n="91"/>tijs organicis, sicut perpetuum a corruptibi 
+      <lb ed="#P" n="92"/>li, vt patet in eodem tertio, &amp; ideo sicut
+      in<lb ed="#P" n="93" break="no"/>tellectus non necessario supponit
+      phanta<lb ed="#P" n="94" break="no"/>siam, ita nec suus actus supponit actu ipsius. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e418">
+                  <lb ed="#P" n="95"/>Secundo apparet hoc idem ex eo qud istae 
+      <lb ed="#P" n="96"/>duae potentiae scilicet intellectus, &amp;
+      volun<lb ed="#P" n="97" break="no"/>tas sunt potentiae subordinatae respectu obie 
+      <lb ed="#P" n="98"/>cti, sicut &amp; respectu subiecti, puta quia sicui 
+      <lb ed="#P" n="99"/>ex eo, quod fundantur in eodem subiecto, 
+      <lb ed="#P" n="100"/>necessario vna supponit aliam; impossibile 
+      <lb ed="#P" n="101"/>est enim, quod aeque immediate fundentur 
+      <lb ed="#P" n="102"/>in eodem subiecto indiuisibili; ita suo modo 
+      <lb ed="#P" n="103"/>in proposito, quia mouentur ab eodem
+      obie<lb ed="#P" n="104" break="no"/>cto, &amp; non ab alio, &amp; alio, vt in praecedente 
+      <!--132.xml-->
+      <pb ed="#P" n="107"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quaestione visum fuit: necesse est quod
+      mo<lb ed="#P" n="2" break="no"/>ueantur secundum quendam ordinem, :&amp;  
+      <lb ed="#P" n="3"/>per consequens necessario actus vnius
+      sup<lb ed="#P" n="4" break="no"/>ponit actum alterius, nullus autem diceret,  
+      <lb ed="#P" n="5"/>quod actus intellectus supponeret actum vo 
+      <lb ed="#P" n="6"/>luntatis, sequitur ergo, quod actus
+      volunta<lb ed="#P" n="7" break="no"/>tis supponat actum intellectus: phantasia 
+      <lb ed="#P" n="8"/>autem, &amp; intellectus non sic sunt ordinatae 
+      <lb ed="#P" n="9"/>potentiae respectu cuiusdam obiecti, quia
+      ne<lb ed="#P" n="10" break="no"/>cessario mouetur ab eodem obiecto, nam in 
+      <lb ed="#P" n="11"/>patria ita mouebitur intellectus ab obiecto 
+      <lb ed="#P" n="12"/>beatifico, quod non mouebitur ab eo ipsa 
+      <lb ed="#P" n="13"/>phantasia, 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e477">
+                  <lb ed="#P" n="14"/>Nec valet si dicatur, quod saltem in via a 
+      <lb ed="#P" n="15"/>quocunque mouetur intellectus, mouetur 
+      <lb ed="#P" n="16"/>etiam phantasia: quia dato quod sint necessa 
+      <lb ed="#P" n="17"/>rio subordinatae potentiae in via respectu
+      eius<lb ed="#P" n="18" break="no"/>dem obiecti in ratione mouentis, non sunt ta 
+      <lb ed="#P" n="19"/>men necessario subordinatae respectu
+      eius<lb ed="#P" n="20" break="no"/>dem obiecti in ratione terminantis; non enim 
+      <lb ed="#P" n="21"/>terminantur eorum actus necessario ad idem 
+      <lb ed="#P" n="22"/>obiectum, sed actus intellectus terminatur 
+      <lb ed="#P" n="23"/>ad id, ad quod nullo modo potest terminari 
+      <lb ed="#P" n="24"/>actus phantasiae, puta ad intelligendum
+      sub<lb ed="#P" n="25" break="no"/>stantias spirituales, &amp; vniuersalia. 
+      <lb ed="#P" n="26"/>Notandum tamen non esse inconueniens 
+      <lb ed="#P" n="27"/>concedere, quod pro statu praesentis viae
+      a<lb ed="#P" n="28" break="no"/>ctus intellectus necessario supponat actum  
+      <lb ed="#P" n="29"/>phantasiae, vel respectu eiusdem obiecti, vel 
+      <lb ed="#P" n="30"/>saltem respectu diuersorum, quorum vnum 
+      <lb ed="#P" n="31"/>habet necessario ordinem ad alterum, &amp; ideo 
+      <lb ed="#P" n="32"/>quamuis intellectus se extendat ad
+      substan<lb ed="#P" n="33" break="no"/>tias separatas, ad quas non se extendit
+      phan<lb ed="#P" n="34" break="no"/>tasia, extendit se tamen ad earum effectus,  
+      <lb ed="#P" n="35"/>qui talem habent ordinem ad substantias
+      se<lb ed="#P" n="36" break="no"/>paratas, quod si praefati effectus non caderent 
+      <lb ed="#P" n="37"/>sub actu phantasiae, substantiae separatae non 
+      <lb ed="#P" n="38"/>caderent sub actu intelligendi, &amp; hinc est, 
+      <lb ed="#P" n="39"/>quod Arist in 3. de anima absolute concedit,  
+      <lb ed="#P" n="40"/>quod sine intellectu passiuo, qui est
+      phanta<lb ed="#P" n="41" break="no"/>sia nil intelligitur. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e540">
+                  <lb ed="#P" n="42"/>Est ergo phantasia necessario subordinata 
+      <lb ed="#P" n="43"/>intellectui pro statu isto, qui ordo non
+      proue<lb ed="#P" n="44" break="no"/>nit ex nam intellectus sedn se, sed quatenus 
+      <lb ed="#P" n="45"/>est copulatus corpori, ex hoc enim prouenit,  
+      <lb ed="#P" n="46"/>quod colligatur phantasiae, &amp; alijs potentijs 
+      <lb ed="#P" n="47"/>sensitiuis : Propter quod talis ordo potest
+      im<lb ed="#P" n="48" break="no"/>mutari in anima separata, &amp; etiam in anima 
+      <lb ed="#P" n="49"/>vnita corpori glorificato, vt patebit in 4 dum 
+      <lb ed="#P" n="50"/>tractabitur de resurrectione, &amp; ideo
+      huius<lb ed="#P" n="51" break="no"/>modi ordo debet dici accidentalis, &amp; non
+      es<lb ed="#P" n="52" break="no"/>sentialis: sed ordo, qui est inter intellectum, 
+      <lb ed="#P" n="53"/>&amp; voluntatem prouenit ex natura vtriusque 
+      <lb ed="#P" n="54"/>potentiae, ex quarum natura prouenit, quod 
+      <lb ed="#P" n="55"/>necessario radicentur in eodem subiecto, &amp; 
+      <lb ed="#P" n="56"/>per consequens quod vna sit necessario alte 
+      <lb ed="#P" n="57"/>ri colligata, &amp; sub ordinata; vnde talis ordo 
+      <!--132.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 107 b -->
+                  <lb ed="#P" n="58"/>debet dici essentialis, &amp; sic patet quid
+      dice<lb ed="#P" n="59" break="no"/>dum est ad hunc articulum. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e164-Dd1e589" type="articulus">
+               <head xml:id="gsX5tY-d1e164-Hd1e591">Articulus 2</head>
+               <head xml:id="gsX5tY-d1e164-Hd1e594" type="question-title">Utrum visio sit de intrinseca ratione 
+      fruibilis in quantum fruibile, 
+      ita ut actus voluntatis supponat actum intellectus, 
+      quasi sit de intrinseca ratione sui obiecti</head>
+               <p xml:id="gsX5tY-d1e164-d1e597">
+                  <lb ed="#P" n="60"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="61"/>Vtrum visio sit de intrinseca ratione
+      fruibi<lb ed="#P" n="62" break="no"/>lis in quantum fruibile, ita vt actus volun 
+      <lb ed="#P" n="63"/>tatis supponat actum intellectus, quasi 
+      <lb ed="#P" n="64"/>sit de intrinseca ratione sui obiecti. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e610">
+                  <lb ed="#P" n="65"/>AD hoc videntur dicere quidam
+      vni<lb ed="#P" n="66" break="no"/>uersaliter, quod cognitio est de in 
+      <lb ed="#P" n="67"/>trinseca ratione obiecti voluntatis,
+      suppo<lb ed="#P" n="68" break="no"/>nunt enim, quod voluntas sit passiua, &amp; per 
+      <lb ed="#P" n="69"/>consequens non possit moueri a se ipsa, sed  
+      <lb ed="#P" n="70"/>moueatur ab obiecto, prout habet esse cogni 
+      <lb ed="#P" n="71"/>tum, &amp; appraehensum per ipsum intellectum, 
+      <lb ed="#P" n="72"/>erit ergo ipsa apprehensio, seu cognitio de 
+      <lb ed="#P" n="73"/>intrinseca ratione obiecti fruibilis in patria. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e632">
+                  <lb ed="#P" n="74"/>Haec posito mihi non placet, nam si obie 
+      <lb ed="#P" n="75"/>ctum apprehensum per intellectum ita
+      mo<lb ed="#P" n="76" break="no"/>ueret voluntatem, quod apprehensio
+      concur<lb ed="#P" n="77" break="no"/>reret in mouendo, tanquam de intrinseca ra 
+      <lb ed="#P" n="78"/>rione obiecti mouentis, sequeretur, quod
+      vo<lb ed="#P" n="79" break="no"/>luntas moueretur a non cognito, consequens 
+      <lb ed="#P" n="80"/>est falsum, ergo &amp; antecedens Falsitas conce 
+      <lb ed="#P" n="81"/>ditur ab omnibus, &amp; consequentiam probo; 
+      <lb ed="#P" n="82"/>nam quamuis obiectum necessario habeat 
+      <lb ed="#P" n="83"/>esse cognitum ante actum voluntatis,
+      cogni<lb ed="#P" n="84" break="no"/>tio tamen ipsa, per quam cognoscitur
+      obie<lb ed="#P" n="85" break="no"/>ctum, non necessario est cognita ante actum  
+      <lb ed="#P" n="86"/>voluntatis, quia non cognoscitur, nisi per
+      a<lb ed="#P" n="87" break="no"/>ctum reflexum; Oportet ergo dicere, quod 
+      <lb ed="#P" n="88"/>ante omnem actum voluntatis sit aliquis
+      a<lb ed="#P" n="89" break="no"/>ctus reflexus in intellectu, &amp; quod actum re 
+      <lb ed="#P" n="90"/>ctum intellectus non sequatur aliquis actus 
+      <lb ed="#P" n="91"/>voluntatis, quod est manifeste falsum. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e675">
+                  <lb ed="#P" n="92"/>Alij dicunt, quod cognitio non est de
+      ra<lb ed="#P" n="93" break="no"/>tione obiecti voluntatis, sed concurrit ad hoc 
+      <lb ed="#P" n="94"/>tanquam causa, sine qua non, supponunt. enim 
+      <lb ed="#P" n="95"/>quod voluntas sit actiua, &amp; sic inferunt, quod 
+      <lb ed="#P" n="96"/>non indigeat cognitione in ratione mouentis 
+      <lb ed="#P" n="97"/>tanquam causa per se, sed solum voluntas in 
+      <lb ed="#P" n="98"/>digeat ea in ratione ostendentis, &amp;
+      praepo<lb ed="#P" n="99" break="no"/>nentis sibi obiectum suum tanquam causa, 
+      <lb ed="#P" n="100"/>sine qua non moueret se in ipsum 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e697">
+                  <lb ed="#P" n="101"/>lsta etiam posito mihinon placet, &amp; ma 
+      <lb ed="#P" n="102"/>time, quia supponit quod voluntas sit
+      acti<lb ed="#P" n="103" break="no"/>ua, quod ego non concedo, sed de hoc
+      pate<lb ed="#P" n="104" break="no"/>bit in 2. lib. Ideo nihil ad praesens 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e708">
+                  <lb ed="#P" n="105"/>Alij dicunt, quod voluntas mouetur ab
+      ob<lb ed="#P" n="106" break="no"/>iecto dupliciter scilicet per modum sinis, &amp;  
+      <lb ed="#P" n="107"/>per modum agentis, secundum tamen aliud,  
+      <!--133.xml-->
+      <pb ed="#P" n="108"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>&amp; aliud esse; nam pront obiectum habet esse 
+      <lb ed="#P" n="2"/>cognitum in intellectu, sic mouet
+      volunta<lb ed="#P" n="3" break="no"/>tem per modum agentis, in quantum vero 
+      <lb ed="#P" n="4"/>habet esse reale extra intellectum, sic mouet 
+      <lb ed="#P" n="5"/>eam per modum finis, quod probant per Con 
+      <lb ed="#P" n="6"/>ment 1 2. Meth. vbi ait, quod balncum
+      secu<lb ed="#P" n="7" break="no"/>dum esse, quod habet in anima est agens
+      de<lb ed="#P" n="8" break="no"/>siderium, secundum esse vero, quod habet 
+      <lb ed="#P" n="9"/>extra animam, est finis desiderij. Ad
+      proposi<lb ed="#P" n="10" break="no"/>tum ergo dicunt, quod cognitio est de intrin 
+      <lb ed="#P" n="11"/>seca ratione obiecti voluntatis, prout
+      volun<lb ed="#P" n="12" break="no"/>tas mouetur ab eo per modum agentis, non 
+      <lb ed="#P" n="13"/>autem prout monetur ab eo per modum 
+      <lb ed="#P" n="14"/>finis. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e754">
+                  <lb ed="#P" n="15"/>Haec posito mihi non satisfacit, quia
+      inci<lb ed="#P" n="16" break="no"/>dit in idem inconueniens, quod prima,
+      scili<lb ed="#P" n="17" break="no"/>cet quod, voluntas moueatur ante
+      cognitio<lb ed="#P" n="18" break="no"/>nem. Nec valet, quod dicunt per
+      Commen<lb ed="#P" n="19" break="no"/>tatorem de balneo, quia Commentator. 
+      <lb ed="#P" n="20"/>non intelligit per esse in anima esse
+      secun<lb ed="#P" n="21" break="no"/>dum intellectum, sed secundum aliam
+      poten<lb ed="#P" n="22" break="no"/>tiam, puta secundum phantasiam; vult
+      er<lb ed="#P" n="23" break="no"/>go secundum hoc, quod Palneum habens
+      es<lb ed="#P" n="24" break="no"/>se materiale extra animam non possit
+      secun<lb ed="#P" n="25" break="no"/>dum tale esse agere motum in anima, sed
+      se<lb ed="#P" n="26" break="no"/>cundum esse spirituale,, quod habet in
+      ani<lb ed="#P" n="27" break="no"/>ma, puta in phantasia, prout illustratur per 
+      <lb ed="#P" n="28"/>intellectum agentem, &amp; sic mouet animam, 
+      <lb ed="#P" n="29"/>non solum quantum ad desiderium, quod 
+      <lb ed="#P" n="30"/>est in voluntate, sed etiam quantum ad
+      com<lb ed="#P" n="31" break="no"/>gnitionem, quae est in intellectu. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e793">
+                  <lb ed="#P" n="32"/>vel possumus dicere, quod balneum esse 
+      <lb ed="#P" n="33"/>in anima, siue in intellectu potest intelligi 
+      <lb ed="#P" n="34"/>dupliciter, vel quantum ad esse
+      repraesenta<lb ed="#P" n="35" break="no"/>tatum per speciem, vel quantum ad esse
+      com<lb ed="#P" n="36" break="no"/>gnitum per actum intelligendi; vult ergo 
+      <lb ed="#P" n="37"/>Comment. quod balneum non moueat ad 
+      <lb ed="#P" n="38"/>actum desiderij per illam formam, quam
+      ha<lb ed="#P" n="39" break="no"/>bet in materia extra intellectu, sed per illam, quam 
+      <lb ed="#P" n="40"/>habet extra materiam puta per speciem in
+      in<lb ed="#P" n="41" break="no"/>tellectu existentem, quod non nego, siquidem 
+      <lb ed="#P" n="42"/>per eandem formam credo, quod moueat
+      in<lb ed="#P" n="43" break="no"/>tellectum ad actum intelligendi, &amp; volunta 
+      <lb ed="#P" n="44"/>tem ad actum volendi Sed sic dicendo non 
+      <lb ed="#P" n="45"/>habent propositum, scilicet quod cognitio ip 
+      <lb ed="#P" n="46"/>sa sit de intrinseca ratione obiecti, in quantum 
+      <lb ed="#P" n="47"/>habet rationem mouentis; immo habent,  
+      <lb ed="#P" n="48"/>quod ab eodem agente, puta a specie
+      intel<lb ed="#P" n="49" break="no"/>ligibili, sit cognitio, &amp; desiderium, quod ego 
+      <lb ed="#P" n="50"/>etiam concedo. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e837">
+                  <lb ed="#P" n="51"/>Videtur ergo mihi dicendum, actum
+      ip<lb ed="#P" n="52" break="no"/>sius voluntatis ita supponete actum intellects, 
+      <lb ed="#P" n="53"/>quod non supponit ipsum, quasi sit de intrin 
+      <lb ed="#P" n="54"/>seca ratione obiecti voluntatis, nec
+      inquan<lb ed="#P" n="55" break="no"/>tum est agens desiderium, nec inquantum 
+      <lb ed="#P" n="56"/>est finis desiderij; nam nec intrat rationem 
+      <lb ed="#P" n="57"/>praefati obiecti; nec cooperatur obiecto in 
+      <!--133.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 108 b -->
+                  <lb ed="#P" n="58"/>agendo, vel eerminando actum voluntatis, 
+      <lb ed="#P" n="59"/>Ratio igitur suppositonis horum actuum  
+      <lb ed="#P" n="60"/>inter se non est accipienda ex parte obiecti 
+      <lb ed="#P" n="61"/>voluntatis, vt sic indigeat actu intellectus,  
+      <lb ed="#P" n="62"/>quod ex se non habeat virtutem mouendi 
+      <lb ed="#P" n="63"/>ipsam voluntatem, nisi per actu intellectus. 
+      <lb ed="#P" n="64"/>Nam sicut ostensum fuit in praecedenti quae 
+      <lb ed="#P" n="65"/>stione, per eandem rationem monet vtramqu.  
+      <lb ed="#P" n="66"/>potentiam ad suum actum, propter quod non 
+      <lb ed="#P" n="67"/>mouet vnam in virtute alterius, quia sic non 
+      <lb ed="#P" n="68"/>moueret per eandem rationem vtramque. 
+      <lb ed="#P" n="69"/>Quod ergo moueat vnam mediante alia, hoc 
+      <lb ed="#P" n="70"/>non prouenit nisi ex ordine naturali, &amp;
+      es<lb ed="#P" n="71" break="no"/>sentiali, qui inter istas potentias reperitur; 
+      <lb ed="#P" n="72"/>sicut patuit in praecedenti artic. 
+      <lb ed="#P" n="73"/>Posset ergo formari ratio ad propositum, 
+      <lb ed="#P" n="74"/>sicut superius, quando arguebatur contra 
+      <lb ed="#P" n="75"/>pnimam positionem. Si cognitio esset de
+      in<lb ed="#P" n="76" break="no"/>trinseca ratione obiecti voluntatis, vel si coo 
+      <lb ed="#P" n="77"/>peraretur ei in causando suum actum, seque 
+      <lb ed="#P" n="78"/>retur, quod voluntas moueretur a non
+      co<lb ed="#P" n="79" break="no"/>gnito, &amp; quod obiectum non moueret sub 
+      <lb ed="#P" n="80"/>tadem ratione vtramque potentiam, cuius
+      com<lb ed="#P" n="81" break="no"/>trarium superius fuit probarum: ergo &amp;c. 
+      <lb ed="#P" n="82"/>Cum ergo quaeritur, vtrum visio sit de
+      in<lb ed="#P" n="83" break="no"/>trinseca ratione obiecti fruibilis: dicendum 
+      <lb ed="#P" n="84"/>est, quod non, quia tunc voluntas frueretur 
+      <lb ed="#P" n="85"/>non viso, &amp; obiectum fruibile non causaret 
+      <lb ed="#P" n="86"/>sub eadem ratione actum visionis, &amp; actum  
+      <lb ed="#P" n="87"/>fruitionis; &amp; hoc sufficit quantum ad psens
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e164-Dd1e927" type="articulus">
+               <head xml:id="gsX5tY-d1e164-Hd1e929">Articulus 3</head>
+               <head xml:id="gsX5tY-d1e164-Hd1e932" type="question-title">Utrum in fruitione beata 
+      obiectum fruibile possit movere unam potentiarum ad actum 
+      suum sine alia.</head>
+               <p xml:id="gsX5tY-d1e164-d1e935">
+                  <lb ed="#P" n="88"/>ARTICVLVS TERTIVS. 
+      <lb ed="#P" n="89"/>Vtrum in fruitione beata obiectum fruibile 
+      <lb ed="#P" n="90"/>possit mouere vnam potentiarum ad actum 
+      <lb ed="#P" n="91"/>suum sine alia.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e946">
+                  <lb ed="#P" n="92"/>Vnt hic duo mihi dicenda pro
+      declara<lb ed="#P" n="93" break="no"/>Dtione huius artic. Primum, vtrum
+      pos<lb ed="#P" n="94" break="no"/>sit mouere intellectum ad actum visionis, non 
+      <lb ed="#P" n="95"/>mouendo voluntatem ad actum fruitionis: 
+      <lb ed="#P" n="96"/>Secundum, an possit mouere voluntatem ad 
+      <lb ed="#P" n="97"/>actum fruitionis, non mouendo intellectum 
+      <lb ed="#P" n="98"/>ad actum visionis.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e964">
+                  <lb ed="#P" n="99"/>Ad primum respondet Doctor noster
+      Ae<lb ed="#P" n="100" break="no"/>gidius quolibetto 3. quest. 8. dicens, non es 
+      <lb ed="#P" n="101"/>se possibile, intellectum videre aperte
+      obie<lb ed="#P" n="102" break="no"/>ctum fruibile, &amp; tamen voluntatem non frui 
+      <lb ed="#P" n="103"/>ipso, vel non diligere ipsum, quod probat. 
+      <lb ed="#P" n="104"/>quatuor rationibus 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e981">
+                  <lb ed="#P" n="105"/>Si intellectus posset moueri ab obiecto frui 
+      <lb ed="#P" n="106"/>bili ad actum visionis, non mota voluntate 
+      <lb ed="#P" n="107"/>ad actum fruitionis, sequeretur quod actus 
+      <lb ed="#P" n="108"/>intellectus posset simpliciter, &amp;
+      vniuersali<lb ed="#P" n="109" break="no"/>ter sepatari ab actu voluntatis, consequens 
+      <!--134.xml-->
+      <pb ed="#P" n="109"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>est falsum, ergo &amp; antecedens, probo
+      Con<lb ed="#P" n="2" break="no"/>sequentiam, nam non apparet alia causa et 
+      <lb ed="#P" n="3"/>secundum contrariam opinionem, quare
+      a<lb ed="#P" n="4" break="no"/>ctus visionis possit separari ab actu
+      fruitio<lb ed="#P" n="5" break="no"/>nis, nisi quia realiter est distinctus ab illo, &amp;  
+      <lb ed="#P" n="6"/>&amp; prior illo ordine naturae, nunc autem
+      a<lb ed="#P" n="7" break="no"/>ctus intellectus non est vniuersaliter
+      distin<lb ed="#P" n="8" break="no"/>ctus ab actu voluntatis, &amp; prior illo ordine 
+      <lb ed="#P" n="9"/>naturae, Falsitatem probo per <ref xml:id="gsX5tY-d1e164-Rd1e1019">Augustinum 
+        <lb ed="#P" n="10"/>11. de Trinit. cap. 8. &amp; 9.</ref> vbi vult, quod 
+      <lb ed="#P" n="11"/>nihil omnino contingat intelligere, nisi
+      ad<lb ed="#P" n="12" break="no"/>sit prima intentio voluntatis, quae est actus 
+      <lb ed="#P" n="13"/>ipsus: Non ergo potest vniuersaliter
+      separa<lb ed="#P" n="14" break="no"/>riactus intellectus, ab actu voluntatis. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1034">
+                  <lb ed="#P" n="15"/>Secundo illud, quod videtur ab
+      intelle<lb ed="#P" n="16" break="no"/>ctu sub ratione summi boni, non potest non 
+      <lb ed="#P" n="17"/>diligi a voluntate, sed obiectum fruibile, quod 
+      <lb ed="#P" n="18"/>est Deus si aperte videatur, necessario vide 
+      <lb ed="#P" n="19"/>tur sub ratione summi boni; ergo non potest 
+      <lb ed="#P" n="20"/>non diligi a voluntate: &amp; sic voluntas neces 
+      <lb ed="#P" n="21"/>sario ipso fruetur. Maior probatur, nam
+      si<lb ed="#P" n="22" break="no"/>cut se habet summe malum ad odiri, ita sum 
+      <lb ed="#P" n="23"/>me bonum ad amari, sed summe malum actu 
+      <lb ed="#P" n="24"/>apprehensum per intellectum, nullo modo 
+      <lb ed="#P" n="25"/>potest a voluntate amari; ergo etiam per nul 
+      <lb ed="#P" n="26"/>lam potentiam potest fieri, quod summe bo 
+      <lb ed="#P" n="27"/>num, actualiter visum ab intellectu non ame 
+      <lb ed="#P" n="28"/>tur a voluntate: Minor huius rationis est de 
+      <lb ed="#P" n="29"/>se nota, &amp; hanc rationem tangit <ref xml:id="gsX5tY-d1e164-Rd1e1068">D. P. Aug. 15. 
+        <lb ed="#P" n="30"/>de Trin. cap. lij.</ref> &amp; <ref xml:id="gsX5tY-d1e164-Rd1e1073">xi. de Ciuit. Dei cap. 2xv.</ref> 
+                  <lb ed="#P" n="31"/>vbi declarat, quod omnes necessario volunt 
+      <lb ed="#P" n="32"/>beatitudinem, quae est summum bonum, &amp; 
+      <lb ed="#P" n="33"/>quod nullus potest velle miseriam, quae est 
+      <lb ed="#P" n="34"/>summum malum. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1086">
+                  <lb ed="#P" n="35"/>Tertio. Ille actus, ad quem necessario
+      se<lb ed="#P" n="36" break="no"/>quitur delecratio, non potest separari ab amo 
+      <lb ed="#P" n="37"/>re, sed ad actum visionis diuinae necessario 
+      <lb ed="#P" n="38"/>sequitur delectatio; ergo, &amp;c. Maior patet 
+      <lb ed="#P" n="39"/>quia ipsa delectatio est quidam amor: Minol  
+      <lb ed="#P" n="40"/>probatur, quia visio talis erit respectu
+      sum<lb ed="#P" n="41" break="no"/>me intelligibilis, &amp; summe delectabilis. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1104">
+                  <lb ed="#P" n="42"/>Quarto. Deati videntes Deum aperte, vident 
+      <lb ed="#P" n="43"/>eum magis diligibilem se ipsis: sed appraehen 
+      <lb ed="#P" n="44"/>dens quis se ipsum, non potest se non
+      dilige<lb ed="#P" n="45" break="no"/>re; ergo videns Deum aperte non potest eum 
+      <lb ed="#P" n="46"/>non diligere. Maior probatur, quia videns 
+      <lb ed="#P" n="47"/>Deum aperte, videt ipsum esse bonum essen 
+      <lb ed="#P" n="48"/>tiale, se ipsum autem cognoscit esse bonum 
+      <lb ed="#P" n="49"/>participatum, &amp; sic cognoscit quod ratio
+      sum<lb ed="#P" n="50" break="no"/>miboni magis reseruatur in Deo, quam in se 
+      <lb ed="#P" n="51"/>ipso. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1128">
+                  <lb ed="#P" n="52"/>Contra hanc opinionem insurgit
+      Ooffre<lb ed="#P" n="53" break="no"/>dus, &amp; primo ostendit, huiusmodi rationes 
+      <lb ed="#P" n="54"/>son concludere, &amp; ad primam dicit, quod 
+      <lb ed="#P" n="55"/>prima intentio voluntatis, quam P. Aug.
+      po<lb ed="#P" n="56" break="no"/>nit necessario connexam actui intelligendi, 
+      <lb ed="#P" n="57"/>non est amor perfectus, nec supponit actum 
+      <!--134.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 109 b -->
+                  <lb ed="#P" n="58"/>intelligendi perfectum, quia huiusmodi actus 
+      <lb ed="#P" n="59"/>completur, &amp; perficitur per istam
+      intentio<lb ed="#P" n="60" break="no"/>nem. Accedit, quod ista intentio voluntatis 
+      <lb ed="#P" n="61"/>requiritur in actu pure speculatiuo, ad que 
+      <lb ed="#P" n="62"/>non sequitur amor rei cognitae. Item
+      requi<lb ed="#P" n="63" break="no"/>ritur etiam in cognitione malorum, ad quam  
+      <lb ed="#P" n="64"/>nulla sequitur dilectio; idcirco ratio non
+      vi<lb ed="#P" n="65" break="no"/>detur ad propositum, quia quaestio quaerit de 
+      <lb ed="#P" n="66"/>amore perfecto, qui sequitur ad amorem
+      vi<lb ed="#P" n="67" break="no"/>sionis Dei perfectum 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1172">
+                  <lb ed="#P" n="68"/>Similiter secunda ratio non concludit; nam 
+      <lb ed="#P" n="69"/>quando dicitur quod summe bonum aperte 
+      <lb ed="#P" n="70"/>visum non potest non diligi, dicit, quod hoc 
+      <lb ed="#P" n="71"/>potest intelligi dupliciter, sicut etiam sum: 
+      <lb ed="#P" n="72"/>me malum non posse non odiri; stat
+      duplici<lb ed="#P" n="73" break="no"/>ter; vno modo ponendo voluntatem sub actu 
+      <lb ed="#P" n="74"/>volitionis affirmante, per quem actum
+      sum<lb ed="#P" n="75" break="no"/>mum bonum diligat, &amp; summum malum
+      o<lb ed="#P" n="76" break="no"/>diat, &amp; hoc modo bene concedit, quod est 
+      <lb ed="#P" n="77"/>impossibile: Alio modo potest intelligi ponem 
+      <lb ed="#P" n="78"/>do voluntatem sub carentia omnis actus
+      vo<lb ed="#P" n="79" break="no"/>litionis, &amp; isto modo non reputat
+      inconue<lb ed="#P" n="80" break="no"/>niens esse quod voluntas summum bonum 
+      <lb ed="#P" n="81"/>non diligat, &amp; summum malum non odiat; 
+      <lb ed="#P" n="82"/>quia Deus potest eam suspendere ab omni 
+      <lb ed="#P" n="83"/>actu, &amp; sic restat quaestio. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1210">
+                  <lb ed="#P" n="84"/>Tertia etiam non concludit (inquit
+      ipse<lb ed="#P" n="85" break="no"/>quia illa delectatio, quae sequitur ad diuinam  
+      <lb ed="#P" n="86"/>visionem, necessario non est amor Dei, sed po 
+      <lb ed="#P" n="87"/>tius amor visionis, propter quod non est amor 
+      <lb ed="#P" n="88"/>amicitiae, de quo modo queritur, sed est amor 
+      <lb ed="#P" n="89"/>concupiscentiae. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1226">
+                  <lb ed="#P" n="90"/>Ad quartam dicit, quod non concludit 
+      <lb ed="#P" n="91"/>propter duo; primo, quia diligere Deum: pro 
+      <lb ed="#P" n="92"/>vt proprium bonum, magis reseruatur in eo, 
+      <lb ed="#P" n="93"/>quam in se ipso, est illum diligere amore
+      con<lb ed="#P" n="94" break="no"/>cupiscentiae, de quo modo non inquiritur: 
+      <lb ed="#P" n="95"/>Secundo, quia cum dicitur, nullum potest se 
+      <lb ed="#P" n="96"/>ipsum non diligere, dicit hoc verum esse
+      po<lb ed="#P" n="97" break="no"/>nendo veritatem sub aliquo actu affirmato, 
+      <lb ed="#P" n="98"/>sed falsum, ponendo voluntatem sub actu ne 
+      <lb ed="#P" n="99"/>gato, &amp; sub carentia omnis actus, vt
+      diceba<lb ed="#P" n="100" break="no"/>tur superius; potest enim Deus illam suspen 
+      <lb ed="#P" n="101"/>dere ab omni actu 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1255">
+                  <lb ed="#P" n="102"/>Idcirco adducit ipse nonnullas alias ratio 
+      <lb ed="#P" n="103"/>nes pro hac conclusione. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1262">
+                  <lb ed="#P" n="104"/>Potentia summe disposita praesente ob 
+      <lb ed="#P" n="105"/>iecto, necessario exit in actum, sed stante aper 
+      <lb ed="#P" n="106"/>ta visione obiecti fruibilis, voluntas est sum 
+      <lb ed="#P" n="107"/>me disposita ad fruendum, cum habeat obie 
+      <lb ed="#P" n="108"/>ctum praesens, &amp; sit informata charitate, er- 
+      <lb ed="#P" n="109"/>go &amp;caet. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1278">
+                  <lb ed="#P" n="110"/>2 Sicut habens formam naturalem se
+      ha<lb ed="#P" n="111" break="no"/>pet ad actum appetendi naturalem,
+      putaha<lb ed="#P" n="112" break="no"/>pens grauitatem ad actum appetendi esse 
+      <lb ed="#P" n="113"/>deorsum, ita habens formam boni appraehen 
+      <lb ed="#P" n="114"/>si per intellectum, se habet 7d TA appeti 
+      <!--135.xml-->
+      <pb ed="#P" n="110"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tus intellectiui: sed habens grauitatem non 
+      <lb ed="#P" n="2"/>potest per aliquam potentiam non appetere 
+      <lb ed="#P" n="3"/>esse deorsum, vt de se patet; ergo &amp; habens 
+      <lb ed="#P" n="4"/>formam boni per intellectum, non potest 
+      <lb ed="#P" n="5"/>non diligere. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1309">
+                  <lb ed="#P" n="6"/>Res naturalis non potest conseruari in 
+      <lb ed="#P" n="7"/>esse sine suo appetitu naturali necessario con 
+      <lb ed="#P" n="8"/>sequente; ergo &amp; pari ratione non poterit 
+      <lb ed="#P" n="9"/>conseruari in natura intellectuali apprehen 
+      <lb ed="#P" n="10"/>sio summi boni sine fruitione, vel amore ne 
+      <lb ed="#P" n="11"/>cessario consequente. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1326">
+                  <lb ed="#P" n="12"/>Confirmatur, quia, qui videt Deum aper 
+      <lb ed="#P" n="13"/>te iudicat ipsum necessario summe
+      diligen<lb ed="#P" n="14" break="no"/>dum, &amp; per consequens necessario appetit 
+      <lb ed="#P" n="15"/>ipsum diligere, sed appetere diligere est acti 
+      <lb ed="#P" n="16"/>reflexus, &amp; supponit actum rectum; ergo ne 
+      <lb ed="#P" n="17"/>cessario eum diligit. Et confirmatur, quia iu 
+      <lb ed="#P" n="18"/>dicans aliquid summe diligendum, &amp; non di 
+      <lb ed="#P" n="19"/>ligens peccat, sed videns Deum aperte, pec 
+      <lb ed="#P" n="20"/>care non potest, ergo necessario ipsum
+      dili<lb ed="#P" n="21" break="no"/>git, &amp; ita videtur, quod obiectum fruibile 
+      <lb ed="#P" n="22"/>non possit mouere intellectum ad actum
+      vi<lb ed="#P" n="23" break="no"/>sionis, quin necessario etiam moueat
+      volun<lb ed="#P" n="24" break="no"/>tatem ad actum dilectionis, vel fruitionis. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1357">
+                  <lb ed="#P" n="25"/>His tamen non obstantibus tenet Doctor 
+      <lb ed="#P" n="26"/>iste oppositam partem, quam comprobat
+      tri<lb ed="#P" n="27" break="no"/>bus rationibus, quamuis videantur habere 
+      <lb ed="#P" n="28"/>eandem virtutem. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1368">
+                  <lb ed="#P" n="29"/>Primo. llle actus, qui est ab aliquo alio 
+      <lb ed="#P" n="30"/>realiter distinctus, &amp; ab eo independens,
+      po<lb ed="#P" n="31" break="no"/>test sieri sine illo, absque vlla repugnantia: 
+      <lb ed="#P" n="32"/>sed actus ivisionis Dei est realiter distinctus 
+      <lb ed="#P" n="33"/>ab actu fruitionis, vt de se patet, &amp; etiam ab 
+      <lb ed="#P" n="34"/>eo independens, cum sit prior illo ordine na 
+      <lb ed="#P" n="35"/>turae, ergo &amp;c 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1386">
+                  <lb ed="#P" n="36"/>Secundo, stante visione Dei aperta potest 
+      <lb ed="#P" n="37"/>Deus subtrahere influentiam suam a volun 
+      <lb ed="#P" n="38"/>tate, cum libere agat in eam: sed subtracta. 
+      <lb ed="#P" n="39"/>diuina influentia voluntas non potest exire 
+      <lb ed="#P" n="40"/>in actum suum, vt de se patet, ergo &amp;c. Haec 
+      <lb ed="#P" n="41"/>ratio supponit per primam actum visionis 
+      <lb ed="#P" n="42"/>non dependere ab actu amoris, &amp; sic, stanti 
+      <lb ed="#P" n="43"/>illo actu, Deus potest se subtrahere ab isto. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1406">
+                  <lb ed="#P" n="44"/>Tertio. Illud agens, quod potest omnia 
+      <lb ed="#P" n="45"/>etia:: in nihil redigere, potest voluntatem a 
+      <lb ed="#P" n="46"/>suo actu suspendere stante aperta visione 
+      <lb ed="#P" n="47"/>intellectus, Deus est huiusmodi ergo &amp;c 
+      <lb ed="#P" n="48"/>Haec ratio similiter supponit independentiam 
+      <lb ed="#P" n="49"/>actus visionis ab actu dilectionis, sicut
+      prae<lb ed="#P" n="50" break="no"/>cedens ratio; ideo omnes tres habent
+      ean<lb ed="#P" n="51" break="no"/>dem virtutem 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1426">
+                  <lb ed="#P" n="52"/>Ad rationes superius inductas respondet,  
+      <lb ed="#P" n="53"/>&amp; ad primam cum dicitur, quod potentia 
+      <lb ed="#P" n="54"/>summe disposita, &amp;c. dicit, quod verum est,  
+      <lb ed="#P" n="55"/>nisi interueniat impedimentum aliquod, nund 
+      <lb ed="#P" n="56"/>aut sm istam suppositionem interuenit impe 
+      <lb ed="#P" n="57"/>dimentum: s suptractio diuinae infiuentiae. 
+      <!--135.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 110 b -->
+                  <lb ed="#P" n="58"/>Ad secundam dicit non esse simile de
+      ap<lb ed="#P" n="59" break="no"/>petitu naturale ad formam naturalem, &amp; de 
+      <lb ed="#P" n="60"/>actu voluntatis ad actum intellectus, quia 
+      <lb ed="#P" n="61"/>appetitus naturalis non est realiter distinctus. 
+      <lb ed="#P" n="62"/>a forma naturali, actus autem voluntatis est 
+      <lb ed="#P" n="63"/>realiter distinctus ab actu intellectus, &amp;
+      eo<lb ed="#P" n="64" break="no"/>dem modo dicit ad tertiam. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1464">
+                  <lb ed="#P" n="65"/>Ad confirmationem dicit, quod Deus po 
+      <lb ed="#P" n="66"/>test subtrahere a vidente non solum
+      dilige<lb ed="#P" n="67" break="no"/>re, qui est actus rectus, sed etiam appetere 
+      <lb ed="#P" n="68"/>&amp; diligere, qui est actus reflexus; &amp; cum ad 
+      <lb ed="#P" n="69"/>ditur, quod peccaret si Deum non diligeret,  
+      <lb ed="#P" n="70"/>respondet, non esse verum, tum quia non di 
+      <lb ed="#P" n="71"/>ligere pro illo tunc, non esset in sua potesta 
+      <lb ed="#P" n="72"/>te: tum etiam, quia dicit puram negationem 
+      <lb ed="#P" n="73"/>actus, &amp; non oppositionem. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1486">
+                  <lb ed="#P" n="74"/>Haec opinio mihi videtur irrationabilis, &amp;  
+      <lb ed="#P" n="75"/>primo sibi contradicit, ponit enim alibi
+      Do<lb ed="#P" n="76" break="no"/>ctor iste, voluntatem necessario sequi
+      iudi<lb ed="#P" n="77" break="no"/>cium intellectus practici, alioquin tale
+      iudi<lb ed="#P" n="78" break="no"/>cium esset frustra, &amp; quod ista sit eius inten 
+      <lb ed="#P" n="79"/>tio, patet in pluribus locis suorum quolib. 
+      <lb ed="#P" n="80"/>Hoc ergo supposito, peto ab eo, vtrum visio 
+      <lb ed="#P" n="81"/>Dei aperta sit pure speculatiua, vel aliquo 
+      <lb ed="#P" n="82"/>modo practica: Non potest dici quod sit pu 
+      <lb ed="#P" n="83"/>re speculatiua, quia intellectus speculatiuus 
+      <lb ed="#P" n="84"/>nil dicit de fugibili, vel prosequibili, vt
+      pa<lb ed="#P" n="85" break="no"/>tet tertio de anima, &amp; per consequens nec 
+      <lb ed="#P" n="86"/>de amando, &amp; non amando; si ergo illa
+      vi<lb ed="#P" n="87" break="no"/>sio esset pure speculatiua, non sequeretur ad 
+      <lb ed="#P" n="88"/>eam aliquis amor illius bonitatis, quod est 
+      <lb ed="#P" n="89"/>falsum, remanet igitur, quod sit aliquo
+      mo<lb ed="#P" n="90" break="no"/>do practica, vel ergo ad eam sequitur neces 
+      <lb ed="#P" n="91"/>sario amor in voluntate, itaquod per nullam  
+      <lb ed="#P" n="92"/>potentiam possit impediri, &amp; sic liabemus T 
+      <lb ed="#P" n="93"/>positum, vel si ad eam non necessatio sequi 
+      <lb ed="#P" n="94"/>tur amor, relinquitur quod sit frustra, vt pa 
+      <lb ed="#P" n="95"/>tet per suppositionem ab eo acceptam, Deus 
+      <lb ed="#P" n="96"/>autem, &amp; natura nihil facit frustra 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1538">
+                  <lb ed="#P" n="97"/>Immo ad eius dicta sequuntur
+      contradi<lb ed="#P" n="98" break="no"/>ctoria, ponens enim, quod ad illam visionem 
+      <lb ed="#P" n="99"/>non sequatur amor, habet dicere, quod illa  
+      <lb ed="#P" n="100"/>visio sit pure speculatiua, in quantum vero 
+      <lb ed="#P" n="101"/>dicit, quod nunc de facto ad eam sequatur 
+      <lb ed="#P" n="102"/>amor, cogitur dicere quod non sit pure
+      spe<lb ed="#P" n="103" break="no"/>culatiua 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1556">
+                  <lb ed="#P" n="104"/>Secundo declaro hoc idem ex dictis ipsius 
+      <lb ed="#P" n="105"/>in hac quaestione, in qua quaerit, an beati vi 
+      <lb ed="#P" n="106"/>dentes diuinam essentiam, videant omnia 
+      <lb ed="#P" n="107"/>quae sunt in illa, &amp; respondet, quod diuina 
+      <lb ed="#P" n="108"/>essentia postquam repraesentauit se ipsam Dea 
+      <lb ed="#P" n="109"/>tis, necessario videtur ipsa, &amp; omnia, qua 
+      <lb ed="#P" n="110"/>sunt in ea; nam quamuis sit speculum
+      volum<lb ed="#P" n="111" break="no"/>tarium in hoc, quod est manifestare se, vel 
+      <lb ed="#P" n="112"/>non manifestare; postquam vero se
+      manife<lb ed="#P" n="113" break="no"/>stauit intellectui in ratione obiecti, non est 
+      <lb ed="#P" n="114"/>implius speculum voluntarium, quod videa 
+      <!--136.xml-->
+      <pb ed="#P" n="111"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tur, vel non videatur, immo est necessarium, 
+      <lb ed="#P" n="2"/>&amp; naturale, quod videatur ipsa, &amp; omnia, 
+      <lb ed="#P" n="3"/>quae sunt in ipsa; imaginatur ergo Doctor 
+      <lb ed="#P" n="4"/>iste, quod actus diuinae visionis terminatus 
+      <lb ed="#P" n="5"/>ad essentiam actualiter in ratione obiecti pre 
+      <lb ed="#P" n="6"/>sentati, non sit voluntarius, sed naturalis, &amp;  
+      <lb ed="#P" n="7"/>necessarius, &amp; ita secundum ipsum haec duo 
+      <lb ed="#P" n="8"/>non possunt stare simul, scilicet quod diuina 
+      <lb ed="#P" n="9"/>essentia sit actualiter presens intellectui Dea 
+      <lb ed="#P" n="10"/>ti in ratione obiecti, &amp; tamen non videatur 
+      <lb ed="#P" n="11"/>simul cum omnibus, quae sunt in ipsa.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1613">
+                  <lb ed="#P" n="12"/>Ex his sic arguo contra ipsum. Sicut se ha 
+      <lb ed="#P" n="13"/>bet diuina essentia actualiter praesens
+      intel<lb ed="#P" n="14" break="no"/>lectui beati tanquam obiectum visibile; ita 
+      <lb ed="#P" n="15"/>etiam se habet ad voluntate prout sibi actua 
+      <lb ed="#P" n="16"/>liter offertur in ratione obiecti fruibilis, sed  
+      <lb ed="#P" n="17"/>praesentata intellectui causat in eo
+      naturali<lb ed="#P" n="18" break="no"/>ter, &amp; necessario actum visionis, qui non po 
+      <lb ed="#P" n="19"/>test impediri, stante eius actuali repraesenta 
+      <lb ed="#P" n="20"/>tione (vt ipsi concedunt) ergo etiam
+      reprae<lb ed="#P" n="21" break="no"/>sentata voluntati causabit in ea naturaliter, 
+      <lb ed="#P" n="22"/>&amp; necessario actum fruitionis, qui non
+      de<lb ed="#P" n="23" break="no"/>bet tolli stante actuali repraesentatione, quae 
+      <lb ed="#P" n="24"/>fit per actum visionis, sequitur ergo, quod 
+      <lb ed="#P" n="25"/>stante actu apertae visionis, non possit tolli,  
+      <lb ed="#P" n="26"/>vel impediri actus fruitionis; sic ergo patet,  
+      <lb ed="#P" n="27"/>quomodo sibi contradicant. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1650">
+                  <lb ed="#P" n="28"/>Consequenter ostendo, quod rationes, 
+      <lb ed="#P" n="29"/>quas adducit pro conclusione nostra, si
+      ali<lb ed="#P" n="30" break="no"/>quid concludunt, hoc faciunt inquantum 
+      <lb ed="#P" n="31"/>habent eadem virtutem cum rationibus Do 
+      <lb ed="#P" n="32"/>ctoris nostri, &amp; maxime cum secunda: Nam  
+      <lb ed="#P" n="33"/>cum dicit in prima, quod voluntas est
+      sum<lb ed="#P" n="34" break="no"/>me disposita ad fruendum, ista est secanda 
+      <lb ed="#P" n="35"/>ratio D. AEgidij, quae dicebat, quod in illa vi 
+      <lb ed="#P" n="36"/>sione beata, ideo voluntas non potest non di 
+      <lb ed="#P" n="37"/>ligere, quia ibi videtur Deus sub ratione sumn 
+      <lb ed="#P" n="38"/>mi boni, &amp; sic habetur, quod ibi sit summa 
+      <lb ed="#P" n="39"/>disposito, &amp; ex parte obiecti, &amp; ex parte po 
+      <lb ed="#P" n="40"/>tentiae. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1682">
+                  <lb ed="#P" n="41"/>Similiter secunda ratio ipsius, in qua
+      di<lb ed="#P" n="42" break="no"/>cit, quod ita se habet actus appetitus
+      intel<lb ed="#P" n="43" break="no"/>lectiui, ad formam appraehensam per intelle 
+      <lb ed="#P" n="44"/>ctum, sicut actus appetitus naturalis ad
+      for<lb ed="#P" n="45" break="no"/>mam naturalem: si ista proposito
+      intelliga<lb ed="#P" n="46" break="no"/>tur vniuersaliter est falsa; nam quia intelle 
+      <lb ed="#P" n="47"/>ctus non est determinatus ad
+      appraehensio<lb ed="#P" n="48" break="no"/>nem vnius tantum, vel ad vnum modum ap 
+      <lb ed="#P" n="49"/>prehendendi; idcirco potest aliqua ita appre 
+      <lb ed="#P" n="50"/>nendere, quod non sequatur ad ea aliquis 
+      <lb ed="#P" n="51"/>actus appetendi, forma autem naturalis, quia 
+      <lb ed="#P" n="52"/>est determinata ad vnum, necessario ad ea 
+      <lb ed="#P" n="53"/>sequitur appetitus, &amp; sic ratio eius nihilcon  
+      <lb ed="#P" n="54"/>cludit. Sed si restringatur proposito, &amp; di- 
+      <lb ed="#P" n="55"/>catur, quod sicut se habet appetitus natura 
+      <lb ed="#P" n="56"/>lis ad formam naturalem, ita fruitio ad
+      visio<lb ed="#P" n="57" break="no"/>nem summi boni, sic proposito aliquo mo¬ 
+      <!--136.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 111 b -->
+                  <lb ed="#P" n="58"/>do est vera, quia forma naturalis, &amp; visio il 
+      <lb ed="#P" n="59"/>la inuariabiliter est determinata ad vnum 
+      <lb ed="#P" n="60"/>terminum, puta ad obiectum, &amp; etiam sub 
+      <lb ed="#P" n="61"/>modo determinato videlicet sub ratione sum 
+      <lb ed="#P" n="62"/>mi boni, ita vt impossibile sit, quod videatur 
+      <lb ed="#P" n="63"/>aperte alio modo, quam sub ratione summ 
+      <lb ed="#P" n="64"/>boni; idcirco ad eam videtur sequi
+      necessa<lb ed="#P" n="65" break="no"/>rio actus appetitus intellectiui; si ergo isto 
+      <lb ed="#P" n="66"/>modo intelligatur proposito potest concedi, 
+      <lb ed="#P" n="67"/>sed tunc est eadem cum ratione Doctoris no 
+      <lb ed="#P" n="68"/>stri AEgidij; nam sicut patet, in hac ratione 
+      <lb ed="#P" n="69"/>dicit, voluntatem non posse non diligere
+      stan<lb ed="#P" n="70" break="no"/>te aperta visione obiecti; impossibile est enim 
+      <lb ed="#P" n="71"/>quod videatur aperte, nisi sub ratione
+      sum<lb ed="#P" n="72" break="no"/>mi boni, &amp; per consequens sub ratione
+      sum<lb ed="#P" n="73" break="no"/>me diligibilis. Et eodem modo dicendum est 
+      <lb ed="#P" n="74"/>de tertia ratione, quia innititur eidem medio. 
+      <lb ed="#P" n="75"/>cum ista.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1767">
+                  <lb ed="#P" n="76"/>Similiter quarta ratio habet eandem veri 
+      <lb ed="#P" n="77"/>tatem cum secunda ratione AEgidij, nam cum 
+      <lb ed="#P" n="78"/>dicit, quod qui videt Deum aperte, necessa 
+      <lb ed="#P" n="79"/>rio videt ipsum summe diligendum, &amp; per 
+      <lb ed="#P" n="80"/>consequens necessario appetit ipsum dilige 
+      <lb ed="#P" n="81"/>re, haec proposito pro tanto est vera, quia vi 
+      <lb ed="#P" n="82"/>det ipsum necessario esse summum bonum, 
+      <lb ed="#P" n="83"/>&amp; summe appetibile, &amp; hoc idem dicit AEgi 
+      <lb ed="#P" n="84"/>dius. Similiter &amp; confirmatio quartae ratio 
+      <lb ed="#P" n="85"/>nis eandem virtutem habet, si bene
+      inspi<lb ed="#P" n="86" break="no"/>ciatur, 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1793">
+                  <lb ed="#P" n="87"/>Ostendo insuper, rationes Doctoris
+      no<lb ed="#P" n="88" break="no"/>stri non esse solutas, nam cum dicunt ad pri 
+      <lb ed="#P" n="89"/>mam, intentionem illam voluntatis, quam 
+      <lb ed="#P" n="90"/>ponit P. August. necessario connexam actui 
+      <lb ed="#P" n="91"/>ntelligendi, non esse amorem perfectum 
+      <lb ed="#P" n="92"/>quia sequitur actum intelligendi
+      imperfe<lb ed="#P" n="93" break="no"/>ctum, &amp; pure speculatiuum; dico, quod 
+      <lb ed="#P" n="94"/>sta responsio est contra eos; nam si actus vo 
+      <lb ed="#P" n="95"/>luntatis est connexus actui intellectus pure 
+      <lb ed="#P" n="96"/>speculatiuo (vt ipsi concedunt) multo
+      magi<lb ed="#P" n="97" break="no"/>est connexus actui practico, quia iste habet 
+      <lb ed="#P" n="98"/>magis ordinem ad voluntatem, ratione cuius 
+      <lb ed="#P" n="99"/>dicitur practicus. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1824">
+                  <lb ed="#P" n="100"/>Similiter respondeo ad secundam, nam 
+      <lb ed="#P" n="101"/>si <!-- -error in line coords ?? -->
+      <lb ed="#P" n="102"/>cum dicunt, quod stante aperta visione
+      Dei<lb ed="#P" n="103" break="no"/>voluntas potest non diligere, quia potest
+      es<lb ed="#P" n="104" break="no"/>se sub carentia omnis actus, hoc nego, si
+      ac<lb ed="#P" n="105" break="no"/>cipiatur actus visionis aperte actualiter; &amp;  
+      <lb ed="#P" n="106"/>ratio ipsorum, (vt ipsimet accipiunt) tantum 
+      <lb ed="#P" n="107"/>concludit, non supposita aperta Dei visione 
+      <lb ed="#P" n="108"/>sicut etiam supposita; nam si non
+      suppona<lb ed="#P" n="109" break="no"/>tur visio Dei aperta, voluntas potest etiam  
+      <lb ed="#P" n="110"/>tunc summum bonum non diligere actu
+      af<lb ed="#P" n="111" break="no"/>firmato: si ergo ratio debet plus
+      conclude<lb ed="#P" n="112" break="no"/>re supposita aperta Dei visione, quam non  
+      <lb ed="#P" n="113"/>supposita, oportet, quod concludat volunta 
+      <lb ed="#P" n="114"/>tem non posse summum bonum non
+      dilige<lb ed="#P" n="115" break="no"/>re, nec actu affirmato, nec actu negato. 
+      <!--137.xml-->
+      <pb ed="#P" n="112"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Tertia ratio nec etiam soluitur, cum enim 
+      <lb ed="#P" n="2"/>dicunt, quod delectatio sequens apertam Dei 
+      <lb ed="#P" n="3"/>visionem non est amor Dei, sed cognitionis,  
+      <lb ed="#P" n="4"/>&amp; visionis; dico quod hoc concesso adhuc 
+      <lb ed="#P" n="5"/>habetur propositum, Tum quia sufficit, quod 
+      <lb ed="#P" n="6"/>illa visio non possit separari ab omni actu vc 
+      <lb ed="#P" n="7"/>luntatis, cuius contrarium ipsi tenent; Tum 
+      <lb ed="#P" n="8"/>uia dato, quod illa delectatio non esset amor 
+      <lb ed="#P" n="9"/>Dei secudum se illam tamen fupponit, quia 
+      <lb ed="#P" n="10"/>amor rei, cognitae praecedit amorem cognitio 
+      <lb ed="#P" n="11"/>nis rei, cum iste sequatur actum intellectus 
+      <lb ed="#P" n="12"/>rectum, ille vere reflexum. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1896">
+                  <lb ed="#P" n="13"/>Quarta etiam ratio non soluitur, nam cum 
+      <lb ed="#P" n="14"/>dicunt, quod ille esset amor concupiscentiae, 
+      <lb ed="#P" n="15"/>&amp; non amicitiae, hoc posset negari, concesso 
+      <lb ed="#P" n="16"/>tamen, non habent intentum, Tum quia illa  
+      <lb ed="#P" n="17"/>visio non separatur omnino ab actu volunta 
+      <lb ed="#P" n="18"/>tis, tum etiam, quia illum amorem, vel praece 
+      <lb ed="#P" n="19"/>dit amor amicitiae, vel necessario sequitur,  
+      <lb ed="#P" n="20"/>alioquin talis amor esset inordinatus, quod 
+      <lb ed="#P" n="21"/>est impossibile¬ 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1918">
+                  <lb ed="#P" n="22"/>Similiter nec valet alia solutio, nam cum 
+      <lb ed="#P" n="23"/>dicunt, quod potest quis se non diligere isto 
+      <lb ed="#P" n="24"/>modo scilicet actu negato, quamuis hoc sit ve 
+      <lb ed="#P" n="25"/>rum pro aliquo nunc, puta pro illo, in quo 
+      <lb ed="#P" n="26"/>se ipsum non appraehendit, &amp; circa aliud est 
+      <lb ed="#P" n="27"/>occupatus; Quando tamen actu se appraehen 
+      <lb ed="#P" n="28"/>dit, &amp; maxime cum illa visione, quam habet 
+      <lb ed="#P" n="29"/>ad se ipsum, est impossibile, quod non se
+      dili<lb ed="#P" n="30" break="no"/>gat: sic ergo patet, quod rationes huius
+      fun<lb ed="#P" n="31" break="no"/>damentalis Doctoris adhuc stant in suo
+      ro<lb ed="#P" n="32" break="no"/>bore. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1945">
+                  <lb ed="#P" n="33"/>Quapropter teneo conclusionem
+      Docto<lb ed="#P" n="34" break="no"/>ris mei, &amp; quamuis sit sufficienter probata 
+      <lb ed="#P" n="35"/>per eius rationes, confirmo tamen eam
+      du<lb ed="#P" n="36" break="no"/>pliciter. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e1956">
+                  <lb ed="#P" n="37"/>Primo sic, si posset subtrahi actus fruitio 
+      <lb ed="#P" n="38"/>nis manente aperta visione, sequeretur, quod 
+      <lb ed="#P" n="39"/>manente illa eadem visione posset subtrahi, 
+      <lb ed="#P" n="40"/>immo quod subtraheretur praesentia obiecti 
+      <lb ed="#P" n="41"/>fruibilis, consequens est impossibile, ergo &amp; 
+      <lb ed="#P" n="42"/>antecedens; Consequentiam probo, quia si 
+      <lb ed="#P" n="43"/>est aliqua ratio, quare actus fruitionis sit con 
+      <lb ed="#P" n="44"/>tingens, &amp; possibilis tolli, erit ipsa presentia 
+      <lb ed="#P" n="45"/>obiecti fruibilis, nam vel talis praesentia ess 
+      <lb ed="#P" n="46"/>necessaria manente aperta visione, vel est con 
+      <lb ed="#P" n="47"/>tingens; si est necessaria causabit necessario 
+      <lb ed="#P" n="48"/>actum fruitionis, obiectum enim fruibile ion 
+      <lb ed="#P" n="49"/>causat fruitionem, quam prius non causabat 
+      <lb ed="#P" n="50"/>quia modo est praesens voluntati, cui prius 
+      <lb ed="#P" n="51"/>non erat, &amp; sic eo modo, quo est praesens, cau 
+      <lb ed="#P" n="52"/>sat fruitionem, si ergo necessario est praesens 
+      <lb ed="#P" n="53"/>necessario causabit eam, &amp; sic habemus pro 
+      <lb ed="#P" n="54"/>positum, si autem talis praesentia erit
+      contin<lb ed="#P" n="55" break="no"/>gens, tunc clara est consequentia, scilicet quod 
+      <lb ed="#P" n="56"/>possit subtr ahi, &amp; tolli, quemadmodum etiam 
+      <lb ed="#P" n="57"/>actum fruitionis. Falsitatem probo, nam con¬ 
+      <!--137.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 112 b -->
+                  <lb ed="#P" n="58"/>stat, quod obiectum fruibile, cum non sit pre 
+      <lb ed="#P" n="59"/>sens voluntati, nisi per apertum visionem
+      ip<lb ed="#P" n="60" break="no"/>sius, non potest tolli eius praesentia, quin tol 
+      <lb ed="#P" n="61"/>latur etiam illa aperta visio: manente igitur 
+      <lb ed="#P" n="62"/>aperta visione, impossibile est, quod tollatur 
+      <lb ed="#P" n="63"/>praesentia obiecti fruibilis, &amp; per consequens 
+      <lb ed="#P" n="64"/>eadem ratione impossibile est, quod tollatur 
+      <lb ed="#P" n="65"/>actus fruitionis. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2028">
+                  <lb ed="#P" n="66"/>Secundo, si posset tolli actus fruitionis a 
+      <lb ed="#P" n="67"/>voluntate manente intellectu sub actu visio 
+      <lb ed="#P" n="68"/>nis, sequeretur, quod remotionem pfati actus
+      pue<lb ed="#P" n="69" break="no"/>niret aliqua nouitas, vel ex parte posae vel ex 
+      <lb ed="#P" n="70"/>parte obiecti, consequens est falsum, ergo &amp;c. 
+      <lb ed="#P" n="71"/>Consequentiam probo; nam potentia eodem mo 
+      <lb ed="#P" n="72"/>do se habet ad obiectum, quo obiectum se 
+      <lb ed="#P" n="73"/>habet ad potentiam, semper eodem modo se 
+      <lb ed="#P" n="74"/>quitur actus, probo falsitatem consequentis; 
+      <lb ed="#P" n="75"/>non enim potest dici, quod fiat talis nouitas 
+      <lb ed="#P" n="76"/>in potentia, nam supponitur, quod sit summu 
+      <lb ed="#P" n="77"/>disposita, etiam amoto huiusmodi actu, nec 
+      <lb ed="#P" n="78"/>etiam potest fieri in praesentialitate obiecti 
+      <lb ed="#P" n="79"/>quia Vt patuit, huiusmodi praesentialitas non  
+      <lb ed="#P" n="80"/>potest tolli manente illa visione: Nec valet si 
+      <lb ed="#P" n="81"/>dicatur, quod sit nouitas in potentia ex eo 
+      <lb ed="#P" n="82"/>quod suspendatur a suo actu; nam cum actus 
+      <lb ed="#P" n="83"/>resultet in potentia ex debita proportione, 
+      <lb ed="#P" n="84"/>quae est inter ipsam, &amp; obiectum, oporteret 
+      <lb ed="#P" n="85"/>quod illa proportio dissolueretur antequam 
+      <lb ed="#P" n="86"/>tolleretur ille actus, non potest autem dissol 
+      <lb ed="#P" n="87"/>ui, nisi per aliquam aliam mutationem
+      prae<lb ed="#P" n="88" break="no"/>uenientem remotionem actus, &amp; sic daretur 
+      <lb ed="#P" n="89"/>processus in infinitum. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2083">
+                  <lb ed="#P" n="90"/>Concludo ergo pro isto atticulo, quod 
+      <lb ed="#P" n="91"/>obiectum non potest mouere intellectum ad 
+      <lb ed="#P" n="92"/>actum visionis, non mouendo voluntatem 
+      <lb ed="#P" n="93"/>ad actum fruitionis. Vtrum autem voluntas 
+      <lb ed="#P" n="94"/>sit libera respectu istius actus fruitionis, &amp;  
+      <lb ed="#P" n="95"/>vtrum necessitas praefati actus stet cum sua 
+      <lb ed="#P" n="96"/>libertate, de hoc nihil ad praesens, quia in
+      se<lb ed="#P" n="97" break="no"/>cundo libro, cum Dei auxilio, vbi agetur de 
+      <lb ed="#P" n="98"/>libertate voluntatis, poterit hoc videri. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2105">
+                  <lb ed="#P" n="99"/>Restat nunc videre, dato quod obiectum 
+      <lb ed="#P" n="100"/>fruibile non possit mouere intellectum ad 
+      <lb ed="#P" n="101"/>actum visionis, non mouendo voluntatem 
+      <lb ed="#P" n="102"/>ad actum fruitionis; vtrum possit mouere vo 
+      <lb ed="#P" n="103"/>luntatem ad fruitionem non mouendo inte 
+      <lb ed="#P" n="104"/>lectum ad visionem. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2121">
+                  <lb ed="#P" n="105"/>Ad quod simpliciter dico, quod non, &amp; 
+      <lb ed="#P" n="106"/>probo tripliciter. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2129">
+                  <lb ed="#P" n="107"/>1 Si illud, quod magis videtur possibile, 
+      <lb ed="#P" n="108"/>&amp; tamen non est; ergo quod minus videtur 
+      <lb ed="#P" n="109"/>possibile, non erit, sed magis videtur
+      possibi<lb ed="#P" n="110" break="no"/>le, quod possit fieri actus visionis sine
+      frui<lb ed="#P" n="111" break="no"/>tione, &amp; tamen non est; ergo nec etiam erit 
+      <lb ed="#P" n="112"/>possibile, quod fiat fruitio sine visione;
+      Ma<lb ed="#P" n="113" break="no"/>ior probatione non indiget, quia est locus dia 
+      <lb ed="#P" n="114"/>lecticus; Minor etiam est nota quantum ad 
+      <!--138.xml-->
+      <pb ed="#P" n="113"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>vnam partem, cum probatum sit, quod non 
+      <lb ed="#P" n="2"/>sit possibilis visio sine fruitione, quantum ve 
+      <lb ed="#P" n="3"/>ro ad aliam partem facile est eam probare 
+      <lb ed="#P" n="4"/>nam quia actus visionis est prior saltem ordi 
+      <lb ed="#P" n="5"/>ne naturae actu fruitionis, magis videtur
+      pos<lb ed="#P" n="6" break="no"/>sibile, quod fiat actus fruitionis sine illo, quam 
+      <lb ed="#P" n="7"/>e conuerso. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2171">
+                  <lb ed="#P" n="8"/>2 Illud, quod non potest fieri praesens vo 
+      <lb ed="#P" n="9"/>luntati in ratione obiecti mouentis, nisi
+      me<lb ed="#P" n="10" break="no"/>diante actu intellectus, nequit mouere volum 
+      <lb ed="#P" n="11"/>tatem ad suum actum, nisi prius moueat
+      in<lb ed="#P" n="12" break="no"/>tellectum ad eius actum, obiectum fruibile, 
+      <lb ed="#P" n="13"/>&amp; quodcunque aliud est huiusmodi; ergo 
+      <lb ed="#P" n="14"/>&amp;caet. Maior est nota, quia nulla potentia po 
+      <lb ed="#P" n="15"/>test moueri a suo obiecto, nisi illud fiat
+      prae<lb ed="#P" n="16" break="no"/>sens sibi in ratione obiecti mouentis; probo 
+      <lb ed="#P" n="17"/>Minorem, dictum est enim in secundo
+      arti<lb ed="#P" n="18" break="no"/>lo huius quaestionis, ex ordine, &amp; natura ista 
+      <lb ed="#P" n="19"/>rum potentiarum prouenire, quod obiectum 
+      <lb ed="#P" n="20"/>quodcunque non moueat voluntatem ad 
+      <lb ed="#P" n="21"/>suum actum, nisi prius moueat intellectum; 
+      <lb ed="#P" n="22"/>si ergo ista est natura specifica harum
+      poten<lb ed="#P" n="23" break="no"/>tiarum, non poterit saluari earum natura 
+      <lb ed="#P" n="24"/>nisi prius obiectum fruibile fiat praesens
+      in<lb ed="#P" n="25" break="no"/>tellectui, quam voluntati. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2213">
+                  <lb ed="#P" n="26"/>3 Si obiectum fruibile moueret
+      volunta<lb ed="#P" n="27" break="no"/>tem, non mouendo intellectum ad actum vi 
+      <lb ed="#P" n="28"/>sionis, sequeretur, quod voluntas non esset 
+      <lb ed="#P" n="29"/>appetitus itellectiuus, quod est falsum, quia 
+      <lb ed="#P" n="30"/>hoc posito voluntas transiret de specie in spe 
+      <lb ed="#P" n="31"/>ciem, immo etiam de genere in genus, quod  
+      <lb ed="#P" n="32"/>est impossibile : Consequentiam probo, nam 
+      <lb ed="#P" n="33"/>sicut appetitus naturalis est in tali genere, 
+      <lb ed="#P" n="34"/>vel in tali specle, quia sequitur talem formam 
+      <lb ed="#P" n="35"/>naturalem, &amp; appetitus sensitiuus est in tali 
+      <lb ed="#P" n="36"/>genere, quia sequitur ipsum sensum; ita
+      eo<lb ed="#P" n="37" break="no"/>dem modo appetitus intellectiuus est in tali 
+      <lb ed="#P" n="38"/>genere, quia sequitur ipsum intellectum; &amp; 
+      <lb ed="#P" n="39"/>ideo si ponatur, quod possit esse in suo actu 
+      <lb ed="#P" n="40"/>sine intellectu, oportebit dicere, quod
+      muta<lb ed="#P" n="41" break="no"/>uerit suum genus, vel suam speciem, &amp; haec 
+      <lb ed="#P" n="42"/>de tota quaestione. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2252">
+                  <lb ed="#P" n="43"/>AD rationes contrariae opinionis. Ad  
+      <lb ed="#P" n="44"/>primam, concessa maiore, nego mi- 
+      <lb ed="#P" n="45"/>norem, &amp; cum probatur, quia est prior,  
+      <lb ed="#P" n="46"/>dicendum, non esse inconueniens, quoc 
+      <lb ed="#P" n="47"/>prius aliquo modo in suo esse indigeat poste 
+      <lb ed="#P" n="48"/>riori, videmus enim quod actus intelligendi 
+      <lb ed="#P" n="49"/>est prior relatione, quam habet ad obiectum 
+      <lb ed="#P" n="50"/>in ratione terminantis, &amp; tamen in suo esse 
+      <lb ed="#P" n="51"/>ita indiget ea, quod non possit absolui abilla,  
+      <lb ed="#P" n="52"/>vt patuit in praecedente quaestione: similiter 
+      <lb ed="#P" n="53"/>possumus, distinguere de dependentia, quia 
+      <lb ed="#P" n="54"/>potest aliquid duobus modis dependere ab 
+      <lb ed="#P" n="55"/>aliquo, vno modo in ratione alicuius
+      causa<lb ed="#P" n="56" break="no"/>litatis, cuiuscunque generis sit respectu ip¬ 
+      <!--138.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 113 b -->
+                  <lb ed="#P" n="57"/>sius, alio modo in ratione cuiusdam
+      conexigen<lb ed="#P" n="58" break="no"/>tiae, secundum quem modum relatiuum
+      de<lb ed="#P" n="59" break="no"/>pendet a suo correlatiuo; non enim vnum re 
+      <lb ed="#P" n="60"/>latiuum habet causalitatem super alterum, 
+      <lb ed="#P" n="61"/>cum sint simul natura, dependent ergo
+      rela<lb ed="#P" n="62" break="no"/>tiua a se inuicem in ratione cuiusdam
+      exi<lb ed="#P" n="63" break="no"/>gentiae, &amp; sic non inconuenit, quod actus vi 
+      <lb ed="#P" n="64"/>sionis dependeat ab actu fruitionis, coexigit 
+      <lb ed="#P" n="65"/>enim iste actus illum per rationes iam
+      addu<lb ed="#P" n="66" break="no"/>ctas, &amp; ideo necessario non concludit
+      eo<lb ed="#P" n="67" break="no"/>rum ratio.
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2315">
+                  <lb ed="#P" n="68"/>Ad secundam cum dicunt, quod stante 
+      <lb ed="#P" n="69"/>aperta Dei visione, Deus potest subtrahere 
+      <lb ed="#P" n="70"/>influentiam suam a voluntate, nego, &amp; cum 
+      <lb ed="#P" n="71"/>probatur, quia libere influit in eam, dico quod 
+      <lb ed="#P" n="72"/>quamuis libere simpliciter influat; facta
+      ta<lb ed="#P" n="73" break="no"/>men ista suppositone, quod infiuat in
+      in<lb ed="#P" n="74" break="no"/>tellectum quoad actum visionis, necessario 
+      <lb ed="#P" n="75"/>influet in voluntatem quantum ad actum  
+      <lb ed="#P" n="76"/>fruitionis, quia isti duo actus sunt annexi ne 
+      <lb ed="#P" n="77"/>cessario respectu obiecti fruibilis, vt superium 
+      <lb ed="#P" n="78"/>visum est. Neque hoc repugnat diuinae libei 
+      <lb ed="#P" n="79"/>tati, quia iste influxus non est necessarius sim 
+      <lb ed="#P" n="80"/>pliciter, sed ex suppositone, &amp; ipsi actus, qui 
+      <lb ed="#P" n="81"/>causantur a diuina essentia in ratione
+      obie<lb ed="#P" n="82" break="no"/>cti actualiter praesentati, inter se sunt
+      neces<lb ed="#P" n="83" break="no"/>sarij, vt superius patuit. 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2352">
+                  <lb ed="#P" n="84"/>Ad tertiam, nego maiorem, nam redigere 
+      <lb ed="#P" n="85"/>omnia in nihil, est possibile, quia non
+      inclu<lb ed="#P" n="86" break="no"/>dit repugnantiam, sed suspendere voluntatem 
+      <lb ed="#P" n="87"/>ab omni actu, manente aperta Dei visione, 
+      <lb ed="#P" n="88"/>multas includit repugnantias, si, quis
+      consi<lb ed="#P" n="89" break="no"/>deret rationes superius, inductas, puta, 
+      <lb ed="#P" n="90"/>quod actus intellectus sit independens, &amp;  
+      <lb ed="#P" n="91"/>dependens a voluntate, &amp; quod obiectum 
+      <lb ed="#P" n="92"/>fruibile sit prius, &amp; non prius voluntate, &amp;  
+      <lb ed="#P" n="93"/>plura alia, quae possent deduci ex rationibus 
+      <lb ed="#P" n="94"/>praehabitis; ideo ratio non concludit.  
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e164-Dd1e2379">
+               <head xml:id="gsX5tY-d1e164-Hd1e2381">Ad rationes principales</head>
+               <p xml:id="gsX5tY-d1e164-d1e2384">
+                  <lb ed="#P" n="95"/>AD ARGVMENTA 
+      <lb ed="#P" n="96"/>principalit. 
+      <lb ed="#P" n="97"/>D primum quid dicendum sit patet 
+      <lb ed="#P" n="98"/>per iam dicta in primo articulo huius 
+      <lb ed="#P" n="99"/>quaest quia non ita se habet intellectus ad vo 
+      <lb ed="#P" n="100"/>luntatem, sicut phantasia ad intellectum, &amp; 
+      <lb ed="#P" n="101"/>ideo ratio non concludit.  
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2402">
+                  <lb ed="#P" n="102"/>Ad secundum etiam patet per dicta in 2. 
+      <lb ed="#P" n="103"/>articulo, vbi fuit ostensum, quod visio non 
+      <lb ed="#P" n="104"/>est de intrinseca ratione obiecti fruibilis, nec 
+      <lb ed="#P" n="105"/>est requisita ad fruitionem propter obiectum, 
+      <lb ed="#P" n="106"/>quasi sit de eius intrinseca ratione, sed solum 
+      <lb ed="#P" n="107"/>propter naturalem ordinem potentiarum 
+    </p>
+               <p xml:id="gsX5tY-d1e164-d1e2418">
+                  <lb ed="#P" n="108"/>Ad tertium patet ex dictis in poenti articu 
+      <lb ed="#P" n="109"/>lo, nam dato quod consequentia esset bona, 
+      <lb ed="#P" n="110"/>consequens tamen est falsum, vt patuit, &amp; 
+      <!--139.xml-->
+      <pb ed="#P" n="114"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cum probatur, quia videmus, quod hic in 
+      <lb ed="#P" n="2"/>via potest obijci aliquid intellectui pure spe 
+      <lb ed="#P" n="3"/>culabile, quod non moueat voluntatem ad 
+      <lb ed="#P" n="4"/>actum amoris, dicendum, hoc non esse simi 
+      <lb ed="#P" n="5"/>le, quia in illa visione beata obiectum fruibi 
+      <lb ed="#P" n="6"/>le necessario videtur sub ratione summe dili 
+      <lb ed="#P" n="7"/>gibilis, propter quod ad illam visionem
+      ne<lb ed="#P" n="8" break="no"/>cessario sequitur actus amoris 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

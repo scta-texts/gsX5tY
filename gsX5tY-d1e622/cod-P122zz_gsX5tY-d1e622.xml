@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="415-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e622"> <!-- l1d18q1 -->
+            <head xml:id="gsX5tY-d1e622-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e622-Hd1e112" type="question-title">Utrum id, quod significatur nomine doni, in divinis sit quid
+      essentiale</head>
+            <p xml:id="gsX5tY-d1e622-d1e115">
+               <lb ed="#P" n="46"/>DISTINCTIONIS NVII. 
+      <lb ed="#P" n="47"/>QVAESTIO VNICA 
+      <lb ed="#P" n="48"/>Vtrum id quod significatur nomine doni, 
+      <lb ed="#P" n="49"/>in diuinis sit quid essentiale
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e126">
+      <!--439.xml-->
+               <cb ed="#P" n="b"/> 
+               <!-- 414 b -->
+               <lb ed="#P" n="50"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="51"/>affirmante¬. 
+      <lb ed="#P" n="52"/>1 Aluator noster testatur apud lohane 
+      <lb ed="#P" n="53"/>A1o essentiam sibi datam a patre, sic
+      in<lb ed="#P" n="54" break="no"/>quiens: Pater quod dedit mihi maius omni- 
+      <lb ed="#P" n="55"/>bus est, quod non haberet veritatem nisi
+      es<lb ed="#P" n="56" break="no"/>sentia haberet rationem doni, cui etiam con 
+      <lb ed="#P" n="57"/>cordat dictum Hilarij 8 de Trin vbi dicit,  
+      <lb ed="#P" n="58"/>quod essentia est donum quod datur a
+      pa<lb ed="#P" n="59" break="no"/>tre filio.  
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e158">
+               <lb ed="#P" n="60"/>2 Si significatum doni non esset quid
+      es<lb ed="#P" n="61" break="no"/>sentiale, sequeretur quod conueniret soli 
+      <lb ed="#P" n="62"/>Spiritui Sancto, quod est falsum,
+      Consequen<lb ed="#P" n="63" break="no"/>tia patet, quia secundum <ref xml:id="gsX5tY-d1e622-Rd1e168">Augu. 5. de Trin. ci 
+      lb ed="#P" n="64"/&gt;14.</ref> 
+               <quote xml:id="gsX5tY-d1e622-Qd1e172" source="http://scta.info/resource/adt-l5-d1e753" synch="91-98">Spiritus Sanctus procedit non quomodo 
+      <lb ed="#P" n="65"/>natus, sed quomodo datus</quote>, &amp; ideo si ponas 
+      <lb ed="#P" n="66"/>tur quod donum sit quid essentiale, &amp; com 
+      <lb ed="#P" n="67"/>mune tribus personis nulla est persona in 
+      <lb ed="#P" n="68"/>Trinitate cui videatur appropriari, nisi soli 
+      <lb ed="#P" n="69"/>Spiritui Sancto; Falsitatem probo, quia in 
+      <lb ed="#P" n="70"/>sanctificatione creaturae rationalis omnes 
+      <lb ed="#P" n="71"/>tres personae conueniunt ad inhabitandum 
+      <lb ed="#P" n="72"/>illam creaturam, secundum quod habetur 
+      <lb ed="#P" n="73"/>1o. 14. Ad eum inquit veniemus, &amp;
+      mansio<lb ed="#P" n="74" break="no"/>nem apud eum faciemus, &amp; per consequens 
+      <lb ed="#P" n="75"/>ratio doni videtur conuenire omnibus tribs 
+      <lb ed="#P" n="76"/>personis, quia in dicto effectu sanctificationis 
+      <lb ed="#P" n="77"/>earum vna non datur sine alijs duabus. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e204">
+               <lb ed="#P" n="78"/>AD OPPOSITVM arguitur; Quia di- 
+      <lb ed="#P" n="79"/>cit per <ref xml:id="gsX5tY-d1e622-Rd1e210">Aug. 15. de Trin. c. 27</ref>. <quote xml:id="gsX5tY-d1e622-Qd1e213" source="http://scta.info/resource/adt-l15-d1e1886" synch="4-20">Non frustra in 
+      il<lb ed="#P" n="80" break="no"/>la Trinitate non dicitur verbum Dei nisi filius, ne 
+      <lb ed="#P" n="81"/>que donum Dei, nisi Spiritus Sanctus</quote>, sicut  
+      <lb ed="#P" n="82"/>ergo illud, quod significatur nomine verbi, e 
+      <lb ed="#P" n="83"/>notionale, &amp; non essentiale; ita illud, quod 
+      <lb ed="#P" n="84"/>significatur nomine doni, videbitur solum 
+      <lb ed="#P" n="85"/>notionale, &amp; non essentiale, 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e230">
+               <lb ed="#P" n="86"/>RESPONDEO: In ista quaestione dud 
+      <lb ed="#P" n="87"/>sunt videnda 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e237">
+               <lb ed="#P" n="88"/>An nomen doni significet quid
+      essen<lb ed="#P" n="89" break="no"/>tiale, vel notionale in diuinis. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e244">
+               <lb ed="#P" n="90"/>An illud, quod significatur per hoc non 
+      <lb ed="#P" n="91"/>men donum, conueniat soli Spiritui Sacto, 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e251">
+               <lb ed="#P" n="92"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="93"/>An nomen doni significet quid essentiale 
+      <lb ed="#P" n="94"/>vel notionale in diuinis.
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e261">
+               <lb ed="#P" n="95"/>Vantum ad hoc est intelligendum quos 
+      <lb ed="#P" n="96"/>dam velle significatum huius
+      nomi<lb ed="#P" n="97" break="no"/>nis doni non esse essentiale, neque
+      notiona<lb ed="#P" n="98" break="no"/>le, sed abstrahere ab vtroque, &amp; posse conue 
+      <lb ed="#P" n="99"/>nire vtrique. Hoc autem probant ex eo quod 
+      <lb ed="#P" n="100"/>donum est datio liberalis, &amp; ideo quantum 
+      <lb ed="#P" n="101"/>est de sua ratione significandi importat om- 
+      <lb ed="#P" n="102"/>ne illud, quod etitam alteri liberaliter commu¬ 
+      <!--440.xml-->
+      <pb ed="#P" n="415"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nicatum, siue illud sit homo, siue quodcumque 
+      <lb ed="#P" n="2"/>aliud ens creatum, vel increatum. Nam quia 
+      <lb ed="#P" n="3"/>(secundum eos) ratio importata per hoc
+      no<lb ed="#P" n="4" break="no"/>men non determinat sibi aliquod genus
+      en<lb ed="#P" n="5" break="no"/>tis, idcirco non variatur in aliquo genere 
+      <lb ed="#P" n="6"/>entis; quapropter non repugnat sibi
+      inueni<lb ed="#P" n="7" break="no"/>ri in quocunque ente, siue illud sit creatum, si 
+      <lb ed="#P" n="8"/>ue increatum, &amp; ideo si applicetur ad
+      diui<lb ed="#P" n="9" break="no"/>na secundum quod dicunt, non determinat 
+      <lb ed="#P" n="10"/>sibi essentialia vel notionalia, quamuis possit 
+      <lb ed="#P" n="11"/>conuenire aliquibus eorum, vel forte vtrisquae 
+      <lb ed="#P" n="12"/>sicut ponunt exemplum de hoc nomine
+      pre<lb ed="#P" n="13" break="no"/>cium, quod quidem secundum suam
+      ratio<lb ed="#P" n="14" break="no"/>nem significandi non importat nec solidum, 
+      <lb ed="#P" n="15"/>nec denarium, nec obolum, sed abstrahit ab 
+      <lb ed="#P" n="16"/>omnibus istis, potest tamen nihilominus sua 
+      <lb ed="#P" n="17"/>ratio significandi applicari ad quodlibet
+      i<lb ed="#P" n="18" break="no"/>storum. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e326">
+               <lb ed="#P" n="19"/>Iste autem modus dicendi non videtur pro 
+      <lb ed="#P" n="20"/>babilis propter tria. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e333">
+               <lb ed="#P" n="21"/>Primo, quia non videtur verum quod ra 
+      <lb ed="#P" n="22"/>tio importata per nomen doni possit applica 
+      <lb ed="#P" n="23"/>ri ad quodcunque ens. Nam de ratione doni 
+      <lb ed="#P" n="24"/>proprie sumpti est, quod exeat ab aliquo
+      li<lb ed="#P" n="25" break="no"/>beraliter dante, &amp; communicante : nunc aute 
+      <lb ed="#P" n="26"/>est deuenire ad aliquod quod non habet
+      ali<lb ed="#P" n="27" break="no"/>quem exitum ab alio puta, sicut est diuina es 
+      <lb ed="#P" n="28"/>sentia, &amp; etiam prima persona in diuinis, &amp;  
+      <lb ed="#P" n="29"/>ideo non videtur quod ratio doni proprie lo 
+      <lb ed="#P" n="30"/>quendo possit applicari ad diuinam essentiam, 
+      <lb ed="#P" n="31"/>nec ad primam personam diuinam.  
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e359">
+               <lb ed="#P" n="32"/>Secundo, non videtur verum quod hoc 
+      <lb ed="#P" n="33"/>nomen donum non determinet sibi aliquoc 
+      <lb ed="#P" n="34"/>speciale significatum, quia non est sicut
+      no<lb ed="#P" n="35" break="no"/>me aequiuocum, quod significat plura actua 
+      <lb ed="#P" n="36"/>liter, &amp; aequaliter; nec etiam sicut nomen 
+      <lb ed="#P" n="37"/>vniuocum, quod significat plura
+      potentiali<lb ed="#P" n="38" break="no"/>ter, &amp; per quandam indifferentiam, sed
+      ma<lb ed="#P" n="39" break="no"/>gis est sicut nomen analogum quod ita signi 
+      <lb ed="#P" n="40"/>ficat plura, quod tamen determinate, &amp; sim 
+      <lb ed="#P" n="41"/>pliciter significat vnum, a quo fit
+      denomina<lb ed="#P" n="42" break="no"/>tio, &amp; cui simpliciter, &amp; principaliter est
+      fa<lb ed="#P" n="43" break="no"/>cta nominis imposito, sicut patet de hoc non 
+      <lb ed="#P" n="44"/>mine ens, quod principaliter, &amp; simpliciter 
+      <lb ed="#P" n="45"/>significat substantiam, &amp; ita videtur suo mo 
+      <lb ed="#P" n="46"/>do dicendum de hoc nomine donum, nam  
+      <lb ed="#P" n="47"/>quamuis dictum nomen possit significare o- 
+      <lb ed="#P" n="48"/>mnia illa, quae exeunt ab aliquo liberaliter 
+      <lb ed="#P" n="49"/>dante, &amp; communicante, simpliciter tamen, 
+      <lb ed="#P" n="50"/>&amp; principaliter videtur significare illud quod 
+      <lb ed="#P" n="51"/>habet talem exitum liberalem a dante
+      pri<lb ed="#P" n="52" break="no"/>mo &amp; immediate, ita vt sit causa liberalis exi 
+      <lb ed="#P" n="53"/>tus, &amp; liberalis dationis omnium aliorum, &amp;  
+      <lb ed="#P" n="54"/>ideo (secundum istam viam) ipsi amori com 
+      <lb ed="#P" n="55"/>petit nomen doni per se, &amp; simpliciter, quia 
+      <lb ed="#P" n="56"/>hoc est primum quod exit liberaliter ab ipso 
+      <lb ed="#P" n="57"/>amante, &amp; ipse est causa liberalis exitus, &amp;  
+      <!--440.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 415 b -->
+               <lb ed="#P" n="58"/>liberalis dationis, &amp; communicationis olum 
+      <lb ed="#P" n="59"/>aliorum. Quapropter videtur quod hoc
+      no<lb ed="#P" n="60" break="no"/>men donum determinet sibi speciale
+      signifi<lb ed="#P" n="61" break="no"/>catum, puta amorem, tanquam illud cui per 
+      <lb ed="#P" n="62"/>se, &amp; primo competit ratio importata per 
+      <lb ed="#P" n="63"/>istud nomen: quamuis ex consequenti
+      pos<lb ed="#P" n="64" break="no"/>sit significare piura alia.  
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e440">
+               <lb ed="#P" n="65"/>Tertio, si iste modus dicendi esset verus 
+      <lb ed="#P" n="66"/>sequeretur, quod ratio importata per nomen 
+      <lb ed="#P" n="67"/>doni non esset propria Spiritui Sancto, quod 
+      <lb ed="#P" n="68"/>est contra August. in auctoritate superius 
+      <lb ed="#P" n="69"/>allegata, vt probabitur in articulo sequenti. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e453">
+               <lb ed="#P" n="70"/>Et ideo videtur quod via, quam tangit D. 
+      <lb ed="#P" n="71"/>AEgidius in isto articulo, sit melior, &amp; rationa 
+      <lb ed="#P" n="72"/>bilior, ponit enim quod significatum
+      nomi<lb ed="#P" n="73" break="no"/>nis doni in diuinis sit aliquid notionale, quen 
+      <lb ed="#P" n="74"/>admodum &amp; illud, quod significatur
+      nomi<lb ed="#P" n="75" break="no"/>ne verbi. Cuius rationem assignat, quia sicut  
+      <lb ed="#P" n="76"/>verbum importat duplicem respectum,
+      pu<lb ed="#P" n="77" break="no"/>ta vnum ad personam dicentem, &amp; alium 
+      <lb ed="#P" n="78"/>ad creaturam cuius est principium, quia
+      ini<lb ed="#P" n="79" break="no"/>tium omnis operis est verbum, vt patet per 
+      <lb ed="#P" n="80"/>
+               <ref xml:id="gsX5tY-d1e622-Rd1e479">P. August. 15. de Trinit cap. ij</ref>; ita etiam ip 
+      <lb ed="#P" n="81"/>sum donum importat duplicem respectum, 
+      <lb ed="#P" n="82"/>scilicet vnum ad personam donantem, &amp;
+      a<lb ed="#P" n="83" break="no"/>lium ad creaturam cui donatur. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e490">
+               <lb ed="#P" n="84"/>Vlterius, sicut respectus quem importat 
+      <lb ed="#P" n="85"/>verbum ad ipsam creaturam est
+      aptitudina<lb ed="#P" n="86" break="no"/>lis, non actualis, quia verbum diuinum sem 
+      <lb ed="#P" n="87"/>per fuit verbum, creatura autem actu non  
+      <lb ed="#P" n="88"/>semper fuit; sic etiam &amp; respectus quem im 
+      <lb ed="#P" n="89"/>portat donum Dei ad creaturam cui
+      dona<lb ed="#P" n="90" break="no"/>tur est aptitudinalis, &amp; non actualis, quia 
+      <lb ed="#P" n="91"/>illa persona, quae in diuinis dicitur donum 
+      <lb ed="#P" n="92"/>Dei, semper fuit donum Dei, creatura vero 
+      <lb ed="#P" n="93"/>cui donatur non semper suit. Quapropter 
+      <lb ed="#P" n="94"/>videtur posse concludi ex his dictis sufficien 
+      <lb ed="#P" n="95"/>ter, quod sicut illud, quod significatur
+      no<lb ed="#P" n="96" break="no"/>mine verbi, in diuinis simpliciter sit quid non 
+      <lb ed="#P" n="97"/>tionale, &amp; non essentiale; ita &amp; illud, quod 
+      <lb ed="#P" n="98"/>significatur nomine doni, est simpliciter quod 
+      <lb ed="#P" n="99"/>notionale, &amp; non essentiale; &amp; haec est senten 
+      <lb ed="#P" n="100"/>tia quae potest colligi ex dictis praefati
+      Do<lb ed="#P" n="101" break="no"/>ctoris 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e532">
+               <lb ed="#P" n="102"/>Addit tamen, quod quamuis noniine
+      do<lb ed="#P" n="103" break="no"/>ni significetur aliquid notionale; nomine ta 
+      <lb ed="#P" n="104"/>men dati significatur aliquid essentiale;
+      cu<lb ed="#P" n="105" break="no"/>ius ratio est, quia illa persona, quae habet ra 
+      <lb ed="#P" n="106"/>tionem doni, non datur actualiter nisi ratio 
+      <lb ed="#P" n="107"/>ne alicuius effectus, qui est actu in creatura 
+      <lb ed="#P" n="108"/>qui quidem effectus attribuitur essentiae, eo 
+      <lb ed="#P" n="109"/>quod sit communis omnibus tribus personis. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e552">
+               <lb ed="#P" n="110"/>Iste autem modus dicendi videtur mihi ra 
+      <lb ed="#P" n="111"/>tionabilis propter duo. Primo, quia sicut tan 
+      <lb ed="#P" n="112"/>gebatur superius, de ratione doni proprie 
+      <lb ed="#P" n="113"/>iumpti est, quod exeat ab aliquo liberaliter 
+      <lb ed="#P" n="114"/>dante, &amp; ideo dicebatur ibidem quod ratio 
+      <!--441.xml-->
+      <pb ed="#P" n="416"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>doni non poterat applicari ad diuinam essen 
+      <lb ed="#P" n="2"/>tiam, quae nullum habet exitum ab alio; nec 
+      <lb ed="#P" n="3"/>etiam ad primam personam diuinam propter 
+      <lb ed="#P" n="4"/>eandem rationem, quapropter vel nullo mo 
+      <lb ed="#P" n="5"/>do ratio doni poterit applicari ad diuina, vel 
+      <lb ed="#P" n="6"/>necessario applicabitur ad aliquam personam 
+      <lb ed="#P" n="7"/>procedentem, simpliciter, &amp; per consequens 
+      <lb ed="#P" n="8"/>est quid notionale. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e589">
+               <lb ed="#P" n="9"/>Secundo forte videretur alicui, quod
+      do<lb ed="#P" n="10" break="no"/>num in diuinis importet aliquid
+      essentia<lb ed="#P" n="11" break="no"/>le, quia importat habitudinem ad creaturam 
+      <lb ed="#P" n="12"/>ipsum accipientem, omnis autem habitudo 
+      <lb ed="#P" n="13"/>Dei ad creaturam videtur essc communis tri 
+      <lb ed="#P" n="14"/>bus personis: Sed hoc non obstante, dicendum 
+      <lb ed="#P" n="15"/>est simpliciter, quod importat quid notiona 
+      <lb ed="#P" n="16"/>le, quia donum diuinum habet quod sit
+      do<lb ed="#P" n="17" break="no"/>num per illam habitudinem quam habet ad 
+      <lb ed="#P" n="18"/>personam donantem, &amp; non per illam quam 
+      <lb ed="#P" n="19"/>habet ad creaturam accipientem. Nam per 
+      <lb ed="#P" n="20"/>dictam habitudinem magis habet quod, sit 
+      <lb ed="#P" n="21"/>donatum, vel datum, &amp; ista videtur esse
+      in<lb ed="#P" n="22" break="no"/>tentio <ref xml:id="gsX5tY-d1e622-Rd1e621">P. August. 5. de Trin. cap. 15</ref>. vbi
+      lo<lb ed="#P" n="23" break="no"/>quens de Spiritu Sancto, sic ait: <quote xml:id="gsX5tY-d1e622-Qd1e626" source="http://scta.info/resource/adt-l5-d1e759" synch="120-157">procedebat. 
+      <lb ed="#P" n="24"/>Spiritus Sanctus vt esset donabile; iam enim 
+      <lb ed="#P" n="25"/>donum erat antequam donaretur, aliter nm 
+      <lb ed="#P" n="26"/>intelligitur cum dicitur donum, &amp; aliter cum 
+      <lb ed="#P" n="27"/>dicitur donatum; nam donum potest esse  
+      <lb ed="#P" n="28"/>antequam detur, donatum autem non nisi 
+      <lb ed="#P" n="29"/>postquam datum fuerit dici potest</quote>. Ex
+      qui<lb ed="#P" n="30" break="no"/>bus verbis apparet euidenter, quod Spiritus 
+      <lb ed="#P" n="31"/>Sanctus habet vt sit donum per habitudinem 
+      <lb ed="#P" n="32"/>aeternam, quam habet ratione suae
+      processio<lb ed="#P" n="33" break="no"/>nis ad personam donantem, sed per
+      habitu<lb ed="#P" n="34" break="no"/>dinem temporalem quam habet ad creaturam 
+      <lb ed="#P" n="35"/>accipientem habet quod sit datum, vel
+      do<lb ed="#P" n="36" break="no"/>natum. Et ideo rationabiliter dicit AEgidius,  
+      <lb ed="#P" n="37"/>quod nomine doni importatur aliquid
+      no<lb ed="#P" n="38" break="no"/>tionale; nomine vero dati aliquid essentiale.
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e663">
+               <lb ed="#P" n="39"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="40"/>Vtrum illud, quod significatur nomine
+      do<lb ed="#P" n="41" break="no"/>ni, conueniat solum Spiritui Sancto. 
+      <lb ed="#P" n="42"/>T<!-- erroneous line --> 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e676">
+               <lb ed="#P" n="43"/>AD hoc respondent quidam negatiue, 
+      <lb ed="#P" n="44"/>quorum ratio est, quia omne illud, quod 
+      <lb ed="#P" n="45"/>in diuinis potest liberaliter conmunicari crea 
+      <lb ed="#P" n="46"/>turae rationali, habet rationem doni, sed es 
+      <lb ed="#P" n="47"/>sentia diuina cum omnibus tribus personis, 
+      <lb ed="#P" n="48"/>&amp; non sola persona Spiritus Sancti potest li 
+      <lb ed="#P" n="49"/>beraliter communicari creaturae rationali, 
+      <lb ed="#P" n="50"/>ergo &amp;c. Maior est nota apud eos Minor pro 
+      <lb ed="#P" n="51"/>batur, quia cum Deus, donatur, &amp;
+      commu<lb ed="#P" n="52" break="no"/>nicatur creaturae rationali, non datur sibi, vt 
+      <!--441.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 416 b -->
+               <lb ed="#P" n="53"/>quasi habeatur ab ipsa subiectiue, sed tantum 
+      <lb ed="#P" n="54"/>obiectiue, puta per modum obiecti cogniti. 
+      <lb ed="#P" n="55"/>&amp; amati, secundum quem modum non
+      po<lb ed="#P" n="56" break="no"/>test donari Spiritus Sanctus sine diuina essen 
+      <lb ed="#P" n="57"/>tia, &amp; sine alijs duabus personis, quia omnes 
+      <lb ed="#P" n="58"/>tres personae cum vna essentia simul amatur,  
+      <lb ed="#P" n="59"/>&amp; simul cognoscuntur. Quapropter videtur 
+      <lb ed="#P" n="60"/>eis sequi, quod illud, quod significatur nomi 
+      <lb ed="#P" n="61"/>ne doni, non conueniat soli Spiritui Sancto, 
+      <lb ed="#P" n="62"/>sed etiam patri, &amp; filio, &amp; per consequens 
+      <lb ed="#P" n="63"/>tam essentiae quam personis) 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e732">
+               <lb ed="#P" n="64"/>Iste modus dicendi stare non potest
+      pro<lb ed="#P" n="65" break="no"/>pter tria. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e739">
+               <lb ed="#P" n="66"/>Primo, quia non distinguit inter donum, 
+      <lb ed="#P" n="67"/>&amp; datum, cum tamen secundum P. August. 
+      <lb ed="#P" n="68"/>superius allegatum sit ibi distinctio, quia no 
+      <lb ed="#P" n="69"/>mine dati importatur non solum aliquod di 
+      <lb ed="#P" n="70"/>uinum intrinsecum, sed etiam aliquis
+      effe<lb ed="#P" n="71" break="no"/>ctus Dei intrinsecus, qui est communis toti 
+      <lb ed="#P" n="72"/>Trinitati; nomine vero doni importatur,
+      so<lb ed="#P" n="73" break="no"/>lum aliquid intrinsecum diuinum, alioquin  
+      <lb ed="#P" n="74"/>Spiritus Sanctus non fuisset donum ab aeter 
+      <lb ed="#P" n="75"/>no antequam donaretur. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e763">
+               <lb ed="#P" n="76"/>Secundo decipiuntur, quia idem est
+      mo<lb ed="#P" n="77" break="no"/>dus diuinae missionis, &amp; diuinae donationis: 
+      <lb ed="#P" n="78"/>nam sicut Deus non datur creaturae rationa 
+      <lb ed="#P" n="79"/>li, nisi vt habeatur ab ea per modum obiecti 
+      <lb ed="#P" n="80"/>cogniti, &amp; amati, sic etiam non mittitur in 
+      <lb ed="#P" n="81"/>mentem eiusdem creaturae rationalis, nisi vt 
+      <lb ed="#P" n="82"/>psa eo fruatur cognoscendo, &amp; amando, &amp; 
+      <lb ed="#P" n="83"/>tamen hoc non obstante videmus, quod mit 
+      <lb ed="#P" n="84"/>ti non competit essentiae, nec omnibus
+      per<lb ed="#P" n="85" break="no"/>sonis, quia persona patris nusquam legitur, 
+      <lb ed="#P" n="86"/>missa, vt patet per P. August. secundo de Tri 
+      <lb ed="#P" n="87"/>nit. cap. 5. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e792">
+               <lb ed="#P" n="88"/>Tertio deficit huiusmodi dictum, quia 
+      <lb ed="#P" n="89"/>non videtur loqui de dono proprie sumpto 
+      <lb ed="#P" n="90"/>Nam de ratione doni proprie sumpti est, vt 
+      <lb ed="#P" n="91"/>exeat ab aliquo liberaliter dante, sicut tange 
+      <lb ed="#P" n="92"/>batur in articulo praecedente, &amp; ideo
+      quan<lb ed="#P" n="93" break="no"/>tuncunque persona patris det seipsam
+      crea<lb ed="#P" n="94" break="no"/>turae rationali per modum obiecti cogniti, &amp;  
+      <lb ed="#P" n="95"/>amati, non tamen propter hoc habet pprie 
+      <lb ed="#P" n="96"/>rationem doni, quia nullum habet exitum 
+      <lb ed="#P" n="97"/>ab aliquo.  
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e816">
+               <lb ed="#P" n="98"/>Quapropter si volumus proprie loqui de 
+      <lb ed="#P" n="99"/>dono dicendum est, quod ratio significata 
+      <lb ed="#P" n="100"/>per nomen doni est propria Spiritui Sancto, 
+      <lb ed="#P" n="101"/>quod probo quadrupliciter. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e827">
+               <lb ed="#P" n="102"/>Primo, ex intentione August. superius 
+      al<lb ed="#P" n="103" break="no"/>legati <ref xml:id="gsX5tY-d1e622-Rd1e833">15. de Trin. cap. 18</ref> quod non
+      <quote xml:id="gsX5tY-d1e622-Qd1e836" source="http://scta.info/resource/adt-l15-d1e1886" synch="5-20">fru<lb ed="#P" n="104" break="no"/>stra in illa Trinitate dicitur verbum Dei, ni 
+      <lb ed="#P" n="105"/>si filius</quote>; nec donum Dei nisi Spiritus
+      San<lb ed="#P" n="106" break="no"/>ctus, ex quibus verbis potest formari talis ra 
+      <lb ed="#P" n="107"/>tio. Sicut se habet ratio significata nomine 
+      <lb ed="#P" n="108"/>verbi ad ipsum filium, ita ratio significata no 
+      <lb ed="#P" n="109"/>mine doni ad Spiritum Sanctum, sed ratio 
+      <!--442.xml-->
+      <pb ed="#P" n="417"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>significata nomine verbi est propria filio,
+      er<lb ed="#P" n="2" break="no"/>go ratio significata nomine doni erit propria 
+      <lb ed="#P" n="3"/>soli Spiritui Sancto.
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e867">
+               <lb ed="#P" n="4"/>Secundo, De ratione doni proprie dicti 
+      <lb ed="#P" n="5"/>est quod exeat ab aliquo cuius exitus princi 
+      <lb ed="#P" n="6"/>pium sit voluntas, solus Spiritus Sanctus ess 
+      <lb ed="#P" n="7"/>illa persona in diuinis quae sic habet exitum 
+      <lb ed="#P" n="8"/>ab aliqua, quod principium sui exitus est vo 
+      <lb ed="#P" n="9"/>luntas, ergo &amp;c. Maior apparet ex ipsa ratio 
+      <lb ed="#P" n="10"/>ne doni, est enim de ratione ipsius liberaliter 
+      <lb ed="#P" n="11"/>dari, &amp; communicari, non autem daretur li 
+      <lb ed="#P" n="12"/>beraliter nisi principium sui exitus esset vo 
+      <lb ed="#P" n="13"/>luntas: Minor etiam apparet ex ijs quae
+      di<lb ed="#P" n="14" break="no"/>cta sunt supra in 11. &amp; 12. dist. 
+      <lb ed="#P" n="15"/>Confirmatur per Augustinum, quinto de 
+      <lb ed="#P" n="16"/>Trin. cap. 14. vbi vult, quod filius procedit 
+      <lb ed="#P" n="17"/>vt natus, Spiritus Sanctus vt datus; qua
+      pro<lb ed="#P" n="18" break="no"/>pter videtur velle quod sicut filio proprium 
+      <lb ed="#P" n="19"/>est esse natum, quia principium suae
+      proces<lb ed="#P" n="20" break="no"/>sionis est intellectus, vel natura, sic
+      Spiri<lb ed="#P" n="21" break="no"/>tui Sancto proprium est esse donum, vel
+      da<lb ed="#P" n="22" break="no"/>rum, quia principium suae processionis estvo 
+      <lb ed="#P" n="23"/>luntas. Ex hoc apparet quod sicut Spiritus 
+      <lb ed="#P" n="24"/>Sanctus capi per suam processionem simpli 
+      <lb ed="#P" n="25"/>citer esse, ita ver eandem recipit quod sit do 
+      <lb ed="#P" n="26"/>num, quia eadem necessitate, qua est illud 
+      <lb ed="#P" n="27"/>quod est, habet etiam quod sit donum, sicut 
+      <lb ed="#P" n="28"/>patet per <ref xml:id="gsX5tY-d1e622-Rd1e923">P. Aug. 1 de Trin. cap. 15.</ref> vbi ait,  
+      <lb ed="#P" n="29"/>quod sicut natura esse est filio a Patre esse, 
+      <lb ed="#P" n="30"/>sic Spiritui Sancto donum Dei esse est a pa 
+      <lb ed="#P" n="31"/>tre, &amp; filio procedere. Propter quod bene di 
+      <lb ed="#P" n="32"/>cebatur in praecedenti articulo, quod
+      Spiri<lb ed="#P" n="33" break="no"/>tus Sanctus erat donum per habitudinem
+      ae<lb ed="#P" n="34" break="no"/>ternam, quem habet ad personam donantem 
+      <lb ed="#P" n="35"/>ratione suae processionis. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e942">
+               <lb ed="#P" n="36"/>Ideo si quaeratur, sicut consueuerunt quae 
+      <lb ed="#P" n="37"/>rere Doctores, Vtrum Spiritus Sanctus sit 
+      <lb ed="#P" n="38"/>eo donum quo Deus; dicendum est, quod si 
+      <lb ed="#P" n="39"/>loquamur principiatiue, eodem est donum 
+      <lb ed="#P" n="40"/>&amp; Deus, nam per eandem processionem ca 
+      <lb ed="#P" n="41"/>pit quod sit Deus, &amp; donum, &amp; omnia qua 
+      <lb ed="#P" n="42"/>sunt intrinseca suae personalitati: Si vero lo 
+      <lb ed="#P" n="43"/>quamur formaliter, dicendum est, quod non, 
+      <lb ed="#P" n="44"/>quia per suam proprietatem personalem
+      ha<lb ed="#P" n="45" break="no"/>bet formaliter quod sit donum, per ipsam ve 
+      <lb ed="#P" n="46"/>ro deitatem communem tribus habet quod 
+      <lb ed="#P" n="47"/>sit Deus. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e971">
+               <lb ed="#P" n="48"/>Tertio probo principalem conclusionem 
+      <lb ed="#P" n="49"/>sic. llla persona sola habet rationem doni in 
+      <lb ed="#P" n="50"/>diuinis, cui appropriantur septem dona in 
+      <lb ed="#P" n="51"/>quibus Deus donatur, sed haec est persona 
+      <lb ed="#P" n="52"/>Spiritus Sancti, ergo &amp;c. Maiorem probo,  
+      <lb ed="#P" n="53"/>quia appropriatio dictorum donorum vni 
+      <lb ed="#P" n="54"/>personae, vel fit propter efficientiam, vel pro 
+      <lb ed="#P" n="55"/>pter donationem, non propter efficientiam, 
+      <lb ed="#P" n="56"/>quia illa est communis tribus, ergo propter 
+      <lb ed="#P" n="57"/>donationem, appropriatio autem, quae est. pro 
+      <!--442.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 417 b -->
+               <lb ed="#P" n="58"/>pter donationem, non potest fieri vni perso 
+      <lb ed="#P" n="59"/>nae magis quam alteri ex aliqua causa, nisi 
+      <lb ed="#P" n="60"/>quia illa persona est donum Dei intrinsecun 
+      <lb ed="#P" n="61"/>in quo, &amp; cum quo donantur omnia illa
+      se<lb ed="#P" n="62" break="no"/>ptem dona extrinseca; Minor autem huius 
+      <lb ed="#P" n="63"/>rationis apparet per lsaiam cap. 9. vbi
+      enu<lb ed="#P" n="64" break="no"/>merat dicta septem dona attribuendo ea Spi 
+      <lb ed="#P" n="65"/>ritui Sancto. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e1019">
+               <lb ed="#P" n="66"/>Ex hoc apparet vltimo solutio cuiusdam 
+      <lb ed="#P" n="67"/>quaestionis, quae consueuit queri, Vtrum, sci 
+      <lb ed="#P" n="68"/>licet Spiritus Sanctus sit donum in quo om 
+      <lb ed="#P" n="69"/>nia dona donantur, quia dicendum est quod 
+      <lb ed="#P" n="70"/>sic, vt patet ex ista ratione. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e1032">
+               <lb ed="#P" n="71"/>Quarto probo conclusionem principalem 
+      <lb ed="#P" n="72"/>sic. llla sola persona habet rationem doni in 
+      <lb ed="#P" n="73"/>diuinis, quae est ratio, quare tota Trinitas nos 
+      <lb ed="#P" n="74"/>nhabitat, &amp; nobis donatur, sed haec est sola  
+      <lb ed="#P" n="75"/>persona Spiritus Sancti, ergo &amp;c. Maior iest 
+      <lb ed="#P" n="76"/>nota, quia inhabitatio, &amp; donatio totius Tri 
+      <lb ed="#P" n="77"/>nitatis non videtur posse attribui vni
+      perso<lb ed="#P" n="78" break="no"/>nae magis quam alteri ex alia causa, nisi quia 
+      <lb ed="#P" n="79"/>illa persona sua proprietate personali est
+      do<lb ed="#P" n="80" break="no"/>num Dei in quo, &amp; per quod donatur
+      no<lb ed="#P" n="81" break="no"/>bis tota Trinitas: Minorem probo, per <ref xml:id="gsX5tY-d1e622-Rd1e1058">Aug
+      <lb ed="#P" n="82"/>de Trin. cap. 18.</ref> vbi ait, quod Dilectio, quae 
+      <lb ed="#P" n="83"/>est ex Deo, est Deus, proprie autem Spiritus 
+      <lb ed="#P" n="84"/>Sanctus est per quem <quote xml:id="gsX5tY-d1e622-Qd1e1067" source="http://scta.info/resource/adt-l15-d1e1962" synch="29-33">diffunditur in
+      cordi<lb ed="#P" n="85" break="no"/>bus nostris charitas</quote>; &amp; per quem tota nos in 
+      <lb ed="#P" n="86"/>habitat Trinitas; ergo &amp;c. Et sic patet quid 
+      <lb ed="#P" n="87"/>dicendum sit quantum ad istum articulum, 
+      <lb ed="#P" n="88"/>&amp; ad totam quaestionem. 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e1080">
+               <lb ed="#P" n="89"/>AD ARGVMENTA 
+      <lb ed="#P" n="90"/>principalia.  
+      <lb ed="#P" n="91"/>AD primum dico, quod Saluator noster 
+      <lb ed="#P" n="92"/>accipit ibi datum prout idem est, quod 
+      <lb ed="#P" n="93"/>per generationem communicatum, secundum 
+      <lb ed="#P" n="94"/>quem modum non proprie accipitur donum, 
+      <lb ed="#P" n="95"/>&amp; ideo Hilarius videtur accipere nomen 
+      <lb ed="#P" n="96"/>doni valde large, quando dicit, quod
+      essen<lb ed="#P" n="97" break="no"/>tia est donum datum filio a patre, 
+    </p>
+            <p xml:id="gsX5tY-d1e622-d1e1103">
+               <lb ed="#P" n="98"/>Ad secundum dico, quod solum Spiritus 
+      <lb ed="#P" n="99"/>Sanctus obtinet rationem doni proprie
+      lo<lb ed="#P" n="100" break="no"/>quendo, sicut habetur ex vi illius
+      consequen<lb ed="#P" n="101" break="no"/>tiae. Ad probationem vero cum dicitur, quod 
+      <lb ed="#P" n="102"/>omnes tres personae conueniunt ad
+      inhabi<lb ed="#P" n="103" break="no"/>tandam creaturam rationalem: Dicendum, 
+      <lb ed="#P" n="104"/>quod quamuis omnes tres personae ad hoc 
+      <lb ed="#P" n="105"/>conueniant, ratio tamen totius
+      inhabi<lb ed="#P" n="106" break="no"/>tationis attribuitur Spiritui
+      San<lb ed="#P" n="107" break="no"/>cto (vt patuit) quia sua
+      pro<lb ed="#P" n="108" break="no"/>prietas est donum in 
+      <lb ed="#P" n="109"/>quo, &amp; per quod 
+      <lb ed="#P" n="110"/>tota
+      Trini<lb ed="#P" n="111" break="no"/>tas
+      no<lb ed="#P" n="112" break="no"/>bis donatur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

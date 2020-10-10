@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="449-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e684"> <!-- l1d21q1 -->
+            <head xml:id="gsX5tY-d1e684-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e684-Hd1e112" type="question-title">Utrum dictio exclusiva addita patri excludat filium, et e converso, vel
+      Spiritum Sanctum</head>
+            <p xml:id="gsX5tY-d1e684-d1e115">
+               <lb ed="#P" n="79"/>DISTINCTIONIS XXI 
+      <lb ed="#P" n="80"/>QVAESTIO VNICA 
+      <lb ed="#P" n="81"/>Vtrum dictio exclusiua addita patri
+      exclu<lb ed="#P" n="82" break="no"/>dat filium, &amp; e conuerso, vel
+      Spiri<lb ed="#P" n="83" break="no"/>tum Sanctum.
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e128">
+               <lb ed="#P" n="84"/>ARGVITVR AD PARTEM 
+      <lb ed="#P" n="85"/>negantem. 
+      <lb ed="#P" n="86"/>Lla, quae sunt simul natura, nequeunt a 
+      <lb ed="#P" n="87"/>Iseinuicem excludi, sed pater, &amp; filius 
+      <lb ed="#P" n="88"/>sunt correlatiua, &amp; per consequens simul na 
+      <lb ed="#P" n="89"/>tura; ergo non possunt aseinuicem excludi 
+      <lb ed="#P" n="90"/>per quamcunque dictionem exclusiuam.
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e147">
+               <lb ed="#P" n="91"/>ARGVITVR PRO PARTE 
+      <lb ed="#P" n="92"/>affirmante¬. 
+      <lb ed="#P" n="93"/>
+               <ref xml:id="gsX5tY-d1e684-Rd1e155">Pater Augustinus 8 de Trin. cap. 7.</ref> 
+               <lb ed="#P" n="94"/>prout introducitur a Magistro in 
+      lite<lb ed="#P" n="95" break="no"/>ra ait, quod per hoc quod dicitur solus,
+      vel<lb ed="#P" n="96" break="no"/>tantum pater, filius, &amp; Spiritus Sanctus a 
+      <lb ed="#P" n="97"/>paternitatis consortio excluduntur, ergo &amp;c 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e168">
+               <lb ed="#P" n="98"/>RESPONDEO: In ista questione 
+      <lb ed="#P" n="99"/>omissis pluribus alijs breuitatis causa, duo 
+      <lb ed="#P" n="100"/>tantum adducam, quae &amp; necessaria, &amp; vti 
+      <lb ed="#P" n="101"/>lia huic quaesito mihi esse videntur, 
+      <lb ed="#P" n="102"/>1 Quae nam sit virtus dictionis exclusiuae, 
+      <lb ed="#P" n="103"/>2 Quot modis possit teneri in significundo, 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e184">
+               <lb ed="#P" n="104"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="105"/>Quae nam sit virtus dictionis exclusiuae. 
+      <lb ed="#P" n="106"/>Pro poc avt &amp; sequenti vide Doct. cit. in principio.  <!-- error in line coords -->
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e195">
+               <lb ed="#P" n="107"/>Rimum est sciendum, quod dictio exclu 
+      <lb ed="#P" n="108"/> siua quaedam supponit, quaedam vero a¬ 
+      <!--474.xml-->
+      <pb ed="#P" n="449"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>lia excludit, &amp; quaedam nec supponit, nec 
+      <lb ed="#P" n="2"/>excludit. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e213">
+               <lb ed="#P" n="3"/>Supponit omnia, quae sunt de primo
+      in<lb ed="#P" n="4" break="no"/>tellectu termini cui additur, cuius ratio est,  
+      <lb ed="#P" n="5"/>quia sicut priuatio supponit necessario
+      ali<lb ed="#P" n="6" break="no"/>quod subiectum; ita exclusio facta per talem 
+      <lb ed="#P" n="7"/>dictionem ponit necessario aliquem
+      termi<lb ed="#P" n="8" break="no"/>num, eadem autem necessitate qua ponit ter 
+      <lb ed="#P" n="9"/>minum, ponit &amp; omnia, quae sunt
+      intrinse<lb ed="#P" n="10" break="no"/>ta illi termino, &amp; quia omnia, quae sunt de 
+      <lb ed="#P" n="11"/>suo primo intellectu, sunt ei intrinseca,
+      id<lb ed="#P" n="12" break="no"/>circo omnia illa ponit, vel supponit. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e237">
+               <lb ed="#P" n="13"/>Excludit autem omnia, quae habent
+      alie<lb ed="#P" n="14" break="no"/>tatem a termino, quantumcunque habeant 
+      <lb ed="#P" n="15"/>necessariam connexionem cum eo, nam sicut  
+      <lb ed="#P" n="16"/>de ratione sua est supponere omnia, quae 
+      <lb ed="#P" n="17"/>sunt intrinseca termino cui additur; ita de 
+      <lb ed="#P" n="18"/>ratione sua est excludere omnia, quae sunt ei 
+      <lb ed="#P" n="19"/>extrinseca, &amp; quia illa, quae habent ab eo alie 
+      <lb ed="#P" n="20"/>tatem sunt ei extrinseca, idcirco omnia talia 
+      <lb ed="#P" n="21"/>excludit quantumcunque sint sibi necessario 
+      <lb ed="#P" n="22"/>connexa. Hinc dicit Arist. 2. Elencorum, quod 
+      <lb ed="#P" n="23"/>solum idem est, quod non cum alio; nam  
+      <lb ed="#P" n="24"/>omne, quod est aliud a termini posito, exclu 
+      <lb ed="#P" n="25"/>ditur per hanc dictionem exclusiuam. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e269">
+               <lb ed="#P" n="26"/>Sunt quaedam alia, quae dictio exclusiua 
+      <lb ed="#P" n="27"/>nec supponit, nec excludit, haec autem sunt 
+      <lb ed="#P" n="28"/>quaecunque contenta sunt in subiecto aliquo 
+      <lb ed="#P" n="29"/>secundum potentiam, sicut V. Oste termi- 
+      <lb ed="#P" n="30"/>nus animal continet hunc terminum, qui 
+      <lb ed="#P" n="31"/>est homo secundum potentiam, &amp; idcirco di 
+      <lb ed="#P" n="32"/>ctio exclusiua ibi addita nec supponit, nec ex 
+      <lb ed="#P" n="33"/>cludit hominem; ratio autem huius est, quia 
+      <lb ed="#P" n="34"/>talis dictio non se extendit ad supponendum, 
+      <lb ed="#P" n="35"/>vel excludendum, nisi inquantum se
+      exten<lb ed="#P" n="36" break="no"/>dit primat ius intellectus termini superioris; 
+      <lb ed="#P" n="37"/>Primarius autem intellectus termini fuperlo 
+      <lb ed="#P" n="38"/>tis ita se habet ad suum inferius, quod nec 
+      <lb ed="#P" n="39"/>ipsum includit, nec excludit; quapropter 
+      <lb ed="#P" n="40"/>si dicatur solum animal currit, non propter 
+      <lb ed="#P" n="41"/>boc excluditur quod homo non currat, nec 
+      <lb ed="#P" n="42"/>propter hoc ponitur, quod homo currat: ha 
+      <lb ed="#P" n="43"/>tet ergo ex his, quae sit virtus dictionis exclu 
+      <lb ed="#P" n="44"/>siuae in excludendo. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e313">
+               <lb ed="#P" n="45"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="46"/>Quot modis possit teneri in significando. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e320">
+               <lb ed="#P" n="47"/>QVantum ad secudum scilicet, quot mo 
+      <lb ed="#P" n="48"/>dis teneatur dictio exclusiua in signifi 
+      <lb ed="#P" n="49"/>cando, dico, sicut communiter dicitur,  
+      <lb ed="#P" n="50"/>uod potest teneri duobus modis, scilicet ca 
+      <lb ed="#P" n="51"/>hegorematice, &amp; sincathegorematice, tunc 
+      <lb ed="#P" n="52"/>enim tenetur cathegorematice, quando
+      si<lb ed="#P" n="53" break="no"/>gnificat, exclusionem omnis societatis, &amp; alie 
+      <lb ed="#P" n="54"/>tatis a termino simplici absolute sumpto, si¬ 
+      <!--474.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 449 b -->
+               <lb ed="#P" n="55"/>cut cum dico solus homo, tune vero tenetur 
+      <lb ed="#P" n="56"/>sincathegorematice, quando significat exclu 
+      <lb ed="#P" n="57"/>sionem associationis ab vno termino in habi 
+      <lb ed="#P" n="58"/>tudine ad alium terminum, cui componitur 
+      <lb ed="#P" n="59"/>in enunciatione, sicut cum dico solus homo 
+      <lb ed="#P" n="60"/>currit, nam propter hoc non signisicatur, quod 
+      <lb ed="#P" n="61"/>homo sit exclusus ab omni consortio, sed
+      so<lb ed="#P" n="62" break="no"/>lum respectu huius praedicati, qui est cursus,  
+      <lb ed="#P" n="63"/>cui componitur in enunciatione.
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e366">
+               <lb ed="#P" n="64"/>Sed contra praedicta occurrit dubitatio, 
+      <lb ed="#P" n="65"/>non enim videtur verum, quod dictio exclu 
+      <lb ed="#P" n="66"/>siua excludat a termino omnia, quae habent 
+      <lb ed="#P" n="67"/>alietatem ab eo; siquidem primo videmus, 
+      <lb ed="#P" n="68"/>quod pars integralit est aliud a toto, &amp; tamen 
+      <lb ed="#P" n="69"/>dictio exclusiua toti attributa non excludit 
+      <lb ed="#P" n="70"/>partem, non enim valet sola domus est, ergo 
+      <lb ed="#P" n="71"/>paries non est, immo potius potest affirmati 
+      <lb ed="#P" n="72"/>ue inferri, ergo paries est. 
+      <lb ed="#P" n="73"/>Similiter constat, quod subiectum est aliud 
+      <lb ed="#P" n="74"/>ab accidente, nihilominus tamen dictio exclu 
+      <lb ed="#P" n="75"/>siua addita accidenti in concreto non exclu 
+      <lb ed="#P" n="76"/>dit subiectum, nec e conuerso; vnde non va 
+      <lb ed="#P" n="77"/>let solum album currit, ergo animal non cur 
+      <lb ed="#P" n="78"/>rit, nec e contrario, solum animal currit, ergo 
+      <lb ed="#P" n="79"/>album, vel quantum non currit. 
+      <lb ed="#P" n="80"/>Ad hoc est dicendum, quod illud, quod s 
+      <lb ed="#P" n="81"/>uperius dictum est, debet intelligi de his,  
+      <lb ed="#P" n="82"/>quae sic habent alietatem a termino, quod 
+      <lb ed="#P" n="83"/>non sunt es intrinseca; nunc autem pars est 
+      <lb ed="#P" n="84"/>intrinseca toto, &amp; ideo non habet talem
+      di<lb ed="#P" n="85" break="no"/>uersitatem ab eo, quod contradiuidi, vel per 
+      <lb ed="#P" n="86"/>dictionem exclusiuam excludi possit, 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e418">
+               <lb ed="#P" n="87"/>Vlterius praefatum dictum de dictione ex 
+      <lb ed="#P" n="88"/>clusiua est intelligendum de his, quae habet 
+      <lb ed="#P" n="89"/>talem diuersitatem a termino, quod non sunt 
+      <lb ed="#P" n="90"/>vnum numero, vel vnum subiecto cum eo. 
+      <lb ed="#P" n="91"/>quae enim sunt vnum numero, vel subiecto 
+      <lb ed="#P" n="92"/>se mutuo implicant, &amp; per consequens prae 
+      <lb ed="#P" n="93"/>dicata propria sibi mutuo communicant, qua 
+      <lb ed="#P" n="94"/>propter si dictio exclusiua addatur vni
+      eo<lb ed="#P" n="95" break="no"/>rum, quae sunt vnum numero, &amp; subiecto, 
+      <lb ed="#P" n="96"/>non propter hoc excluditur alterum. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e442">
+               <lb ed="#P" n="97"/>Ex quo apparet immediate quae sit causa, 
+      <lb ed="#P" n="98"/>quare dictio exclusiua addita accidenti. nec 
+      <lb ed="#P" n="99"/>excludat subiectum, nec e conuerso, ex quo 
+      <lb ed="#P" n="100"/>etiam apparere potest, quod dictio
+      exclusi<lb ed="#P" n="101" break="no"/>ua addita vni correlatiuorum excludit
+      reli<lb ed="#P" n="102" break="no"/>quum, Tum quia vnum est realiter distinctum 
+      <lb ed="#P" n="103"/>ab alio; Tum quia vnum eorum est
+      extra<lb ed="#P" n="104" break="no"/>neum ab alio, &amp; sibi contradiuisum; Tum entm 
+      <lb ed="#P" n="105"/>quia non sunt vnum numero, &amp; subiecto, si 
+      <lb ed="#P" n="106"/>ue supposito, quod pro eodem accipio: vbi 
+      <lb ed="#P" n="107"/>autem tria ista concurrunt, ibi non se exten 
+      <lb ed="#P" n="108"/>ditur virtus dictionis exclusiuae in
+      exclu<lb ed="#P" n="109" break="no"/>dendo. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e474">
+               <lb ed="#P" n="110"/>Intelligendum tamen, quod in tali exclu 
+      <lb ed="#P" n="111"/>sione vnius relatiui ab alio semper implica¬ 
+      <!--475.xml-->
+      <pb ed="#P" n="450"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tur contradictio, nam quia relatiua sunt
+      fi<lb ed="#P" n="2" break="no"/>mul natura, &amp; se mutuo coexigunt, idcirco 
+      <lb ed="#P" n="3"/>ad exclusionem vnius, necessario sequitur ex 
+      <lb ed="#P" n="4"/>olusio alterius; &amp; ideo dictio exclusiua
+      ad<lb ed="#P" n="5" break="no"/>dita vni eorum facit circa ipsam
+      contradictio<lb ed="#P" n="6" break="no"/>nem, quia ipsum simul ponit, &amp; excludit;  
+      <lb ed="#P" n="7"/>ponit namque ipsum per se, &amp; directe inquam 
+      <lb ed="#P" n="8"/>tum de ratione dictionis exclusiuae est pone 
+      <lb ed="#P" n="9"/>re terminum cui additur, excludit autem 
+      <lb ed="#P" n="10"/>ipsum indirecteinquantum excludit aliud 
+      <lb ed="#P" n="11"/>relatiuum, ad cuius exclusionem sequitur  
+      <lb ed="#P" n="12"/>necessario exclusio ipsius. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e513">
+               <lb ed="#P" n="13"/>1 Sic ergo patent illa duo, quae superius pro 
+      <lb ed="#P" n="14"/>ponebantur declaranda circa dictionem
+      ex<lb ed="#P" n="15" break="no"/>clufiuam.
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e522">
+               <lb ed="#P" n="16"/>His autem praemissis, cum quaeritur, vtrum 
+      <lb ed="#P" n="17"/>dictio exclusiua addita patri in Diuinis
+      ex<lb ed="#P" n="18" break="no"/>cludat filium, vel e conuerso, ex his, quae ian 
+      <lb ed="#P" n="19"/>dicta sunt, apparet quod sic, quantum est de 
+      <lb ed="#P" n="20"/>virture sermonis lsta tamen exclusio
+      quan<lb ed="#P" n="21" break="no"/>doque habet sensum falsum, &amp; non est recipien 
+      <lb ed="#P" n="22"/>pa in Diuinis; quandoque vero habet
+      sen<lb ed="#P" n="23" break="no"/>sum verum, &amp; sic est ibi admittenda: nam fi 
+      <lb ed="#P" n="24"/>dictio exclusiua teneatur cathegorematice, 
+      <lb ed="#P" n="25"/>ita quod addatur alicui diuinae personae
+      ab<lb ed="#P" n="26" break="no"/>solute sumpte, &amp; non in ordine ad aliquod 
+      <lb ed="#P" n="27"/>praedicatum, sic exclusio facta per talem
+      di<lb ed="#P" n="28" break="no"/>ctionem semper habet sensum falsum, &amp; nul 
+      <lb ed="#P" n="29"/>lo modo est recipienda in Diuinis, quia isto 
+      <lb ed="#P" n="30"/>modo significat simplicem solitudinem cum 
+      <lb ed="#P" n="31"/>exclusione omnis societatis a persona, cui ad 
+      <lb ed="#P" n="32"/>ditur, &amp; quia est impossibile, quod aliae
+      di<lb ed="#P" n="33" break="no"/>uinae personae excludantur absolute, &amp;
+      sim<lb ed="#P" n="34" break="no"/>pliciter a consortio praefatae personae, idcirco 
+      <lb ed="#P" n="35"/>talis exclusio habet semper sensum falsum, 
+      <lb ed="#P" n="36"/>nec est ibi recipienda. Si autem talis dictio 
+      <lb ed="#P" n="37"/>exclusiua teneatur sincathegorematice, ita 
+      <lb ed="#P" n="38"/>quod addatur alicui diuinae personae non ab 
+      <lb ed="#P" n="39"/>solute, sed in ordine ad aliquod praedicatum,  
+      <lb ed="#P" n="40"/>sic exclusio facta per talem dictionem potest 
+      <lb ed="#P" n="41"/>habere sensum falsum, &amp; sensum verum, nam 
+      <lb ed="#P" n="42"/>si dictio exclusiua addatur personae in
+      ordi<lb ed="#P" n="43" break="no"/>ne ad praedicata essentialia dicendo, solus 
+      <lb ed="#P" n="44"/>pater est Deus, vel solus est sapiens, sic
+      sem<lb ed="#P" n="45" break="no"/>per est falsa, quia sicut est impossibile, quod  
+      <lb ed="#P" n="46"/>aliae diuinae personae excludantur
+      simplici<lb ed="#P" n="47" break="no"/>ter, &amp; absolute a consortio personae, cui ad 
+      <lb ed="#P" n="48"/>ditur praefata dictio; ita etiam est impossibi 
+      <lb ed="#P" n="49"/>le, quod eaedem diuinae personae
+      excludan<lb ed="#P" n="50" break="no"/>tur a consortio eiusdem in habitudine ad prae 
+      <lb ed="#P" n="51"/>dicata essentialia, cum illa sint aeque commu 
+      <lb ed="#P" n="52"/>nia tribus personis. Si vero dictio exclusiua 
+      <lb ed="#P" n="53"/>addatur vni personae in habitudine ad
+      quae<lb ed="#P" n="54" break="no"/>dam praedicata notionalia sibi propria, sic est 
+      <lb ed="#P" n="55"/>semper vera proposito, puta, si dicamus, quoam 
+      <lb ed="#P" n="56"/>in Diuinis solus pater est generans, vel solus 
+      <lb ed="#P" n="57"/>pater habet paternitatem: nam licet im ordi 
+      <!--475.xml-->
+      <cb ed="#P" n="b"/> 
+               <!-- 450 b -->
+               <lb ed="#P" n="58"/>ne ad praedicata essentialia ibi non sit repo 
+      <lb ed="#P" n="59"/>nenda dictio exclusiua, verumtamen
+      salua<lb ed="#P" n="60" break="no"/>tur ibi exclusio vnius ab alia respectu
+      prae<lb ed="#P" n="61" break="no"/>dicatorum notionalium, quae ita sunt
+      pro<lb ed="#P" n="62" break="no"/>pria vni, quod non conueniunt alteri: Patet 
+      <lb ed="#P" n="63"/>igitur quid sit dicendum quantum ad istam 
+      <lb ed="#P" n="64"/>uaestionem 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e637">
+               <lb ed="#P" n="65"/>AD ARGVMENTA 
+      <lb ed="#P" n="66"/>principalia 
+      <lb ed="#P" n="67"/>S Vid sit dicendum ad argumenta in 
+      <lb ed="#P" n="68"/>principio quaestionis adducta patet ex 
+      <lb ed="#P" n="69"/>superius dictis, procedunt enim
+      om<lb ed="#P" n="70" break="no"/>nia suis vijs. 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e653">
+               <lb ed="#P" n="71"/>Nam prima ratio probat vnam personam 
+      <lb ed="#P" n="72"/>non posse excludi ab alia simpliciter, &amp;
+      ab<lb ed="#P" n="73" break="no"/>solute sumpta, quod vtique est concedendum 
+    </p>
+            <p xml:id="gsX5tY-d1e684-d1e662">
+               <lb ed="#P" n="74"/>Secunda vero probat, quod filius, &amp; Spi 
+      <lb ed="#P" n="75"/>ritus Sanctus excludantur a consortio
+      pa<lb ed="#P" n="76" break="no"/>tris secundum hoc praedicatum, quod est pa 
+      <lb ed="#P" n="77"/>ternitas, quae soli patri conuenit, quod etiam  
+      <lb ed="#P" n="78"/>est concedendum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

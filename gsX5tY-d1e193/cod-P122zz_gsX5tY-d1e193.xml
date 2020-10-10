@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#GerardusDeSiena">Gerard of Siena</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-10">October 10, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="118-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gsX5tY-d1e193"> <!-- l1d2q1 -->
+            <head xml:id="gsX5tY-d1e193-Hd1e109">Quaestio 1</head>
+            <head xml:id="gsX5tY-d1e193-Hd1e112" type="question-title">Utrum sit tantum unus Deus.</head>
+            <div xml:id="gsX5tY-d1e193-Dd1e115">
+               <head xml:id="gsX5tY-d1e193-Hd1e117">Quaestio</head>
+               <p xml:id="gsX5tY-d1e193-d1e120">
+                  <lb ed="#P" n="38"/>DISTINCTIO
+      SECVNDA<lb ed="#P" n="39" break="no"/>Irea distinctionem secundam: 
+      <lb ed="#P" n="40"/>quaero de vnitate Diuinae essen 
+      <lb ed="#P" n="41"/>tiae, &amp; primo. 
+      <lb ed="#P" n="42"/>Vtrum sit tantum vnus Deus.
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e134" type="rationes-principales">
+               <head xml:id="gsX5tY-d1e193-Hd1e136">Rationes principales</head>
+               <p xml:id="gsX5tY-d1e193-d1e139">
+      <!--142.xml-->
+                  <cb ed="#P" n="b"/> 
+                  <!-- 117 b -->
+                  <lb ed="#P" n="43"/>ARGVITVR AD PARTEM 
+      <lb ed="#P" n="44"/>negatiuame. 
+      <lb ed="#P" n="45"/>1QI vnum contrariorum fuerit in natura, 
+      <lb ed="#P" n="46"/>Aerit &amp; alterum, primo caeli, sed est
+      da<lb ed="#P" n="47" break="no"/>re vnum summumbonum in natura,
+      videli<lb ed="#P" n="48" break="no"/>cet Deum, cuius essentiae vnitatem nittitur 
+      <lb ed="#P" n="49"/>probare Magister in littera, ergo erit dare 
+      <lb ed="#P" n="50"/>vnum summum malum, &amp; quia contraria 
+      <lb ed="#P" n="51"/>non dependent a se inuicem, quodlibet
+      isto<lb ed="#P" n="52" break="no"/>rum erit independens, &amp; per consequens 
+      <lb ed="#P" n="53"/>quodlibet erit Deus
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e172">
+                  <lb ed="#P" n="54"/>Confirmo rationem, quia sicut oportet da 
+      <lb ed="#P" n="55"/>re summum bonum, per cuius
+      participatio<lb ed="#P" n="56" break="no"/>nem quodlibet aliud sit bonum, ita videtur 
+      <lb ed="#P" n="57"/>quod oporteat dari summum malum, per 
+      <lb ed="#P" n="58"/>cuius participationem quodlibet aliud sit 
+      <lb ed="#P" n="59"/>malum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e188">
+                  <lb ed="#P" n="60"/>2 Enti independenti non repugnat
+      plu<lb ed="#P" n="61" break="no"/>rificari, sed per ipsum Deum intelligimus 
+      <lb ed="#P" n="62"/>quoddam ens independens, ergo Deo non 
+      <lb ed="#P" n="63"/>repugnat plurificari, &amp; sic erunt plures
+      Dij<lb ed="#P" n="64" break="no"/>Minor ab omnibus conceditur, probo ergo 
+      <lb ed="#P" n="65"/>Maiorem, quia si, enti independenti repngna 
+      <lb ed="#P" n="66"/>ret plurificari, vel hoc esset ratione, qua ens 
+      <lb ed="#P" n="67"/>vel ratione, qua independens. Non ratione 
+      <lb ed="#P" n="68"/>qua ens, quia sic cuilibet enti repugnaret plu 
+      <lb ed="#P" n="69"/>rificari, nec ratione, qua independens, quia 
+      <lb ed="#P" n="70"/>videmus quod idiuidua sub eadem specie a 
+      <lb ed="#P" n="71"/>se inuicem non dependent, &amp; tamen
+      pluri<lb ed="#P" n="72" break="no"/>ficantur. Similiter diuersae species sub
+      eo<lb ed="#P" n="73" break="no"/>dem genere non dependent a seinuicem, &amp;  
+      <lb ed="#P" n="74"/>tamen plurificantur: ergo &amp; pari ratione po 
+      <lb ed="#P" n="75"/>terunt esse plures Dij a seinuicem
+      indepen<lb ed="#P" n="76" break="no"/>dentes.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e227">
+                  <lb ed="#P" n="77"/>3 Illud, quod non derogat diuinae
+      perfe<lb ed="#P" n="78" break="no"/>ctioni, Deo non repugnat, sed plurificari non 
+      <lb ed="#P" n="79"/>derogat diuinae perfectioni, ergo &amp;c.
+      Ma<lb ed="#P" n="80" break="no"/>ior est nota, Minorem probo. Nam cum de 
+      <lb ed="#P" n="81"/>ratione boni sit communicatio, quanto
+      ali<lb ed="#P" n="82" break="no"/>quod bonum est perfectius, &amp; melius, tanto 
+      <lb ed="#P" n="83"/>magis communicatur, &amp; plurificatur. 
+      <lb ed="#P" n="84"/>4 Illud, quod non repugnat ordini
+      vni<lb ed="#P" n="85" break="no"/>uersi, sed magis facit ad suam perfectionem, 
+      <lb ed="#P" n="86"/>est possibile poni in natura: sed esse plures 
+      <lb ed="#P" n="87"/>Deos non repugnat ordini vniuersi, immo 
+      <lb ed="#P" n="88"/>magis facit ad suam perfectionem, ergo &amp;c. 
+      <lb ed="#P" n="89"/>Maior patet, quia vniuersum supponitur
+      es<lb ed="#P" n="90" break="no"/>se in optima dispositone, &amp; maxime
+      quan<lb ed="#P" n="91" break="no"/>tum ad sua principia, probo Minorem: Nam  
+      <lb ed="#P" n="92"/>si essent plures Dij plus haberent de
+      per<lb ed="#P" n="93" break="no"/>fectione, &amp; bonitate, quam vnus
+      so<lb ed="#P" n="94" break="no"/>lus, &amp; per consequens
+      redde<lb ed="#P" n="95" break="no"/>rent vniuersum magis 
+      <lb ed="#P" n="96"/>perfectum.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e274">
+      <!--143.xml-->
+                  <pb ed="#P" n="118"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ARGVITVR AD PARTEM 
+      <lb ed="#P" n="2"/>affirmantem. 
+      <lb ed="#P" n="3"/>A Rist. xij. Meth. eoncludit esse vnum 
+      <lb ed="#P" n="4"/> pincipatum, &amp; vnum principem, por 
+      <lb ed="#P" n="5"/>quem intelligit ipsum Deum, ergo &amp;c. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e296">
+               <head xml:id="gsX5tY-d1e193-Hd1e298">Divisio quaestionis</head>
+               <p xml:id="gsX5tY-d1e193-d1e301">
+                  <lb ed="#P" n="6"/>RESPONDEO. In hac quaestione qua 
+      <lb ed="#P" n="7"/>tuor sunt videnda, quae tanguntur in
+      argu<lb ed="#P" n="8" break="no"/>mentis propositis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e310">
+                  <lb ed="#P" n="9"/>1 An sit dare vnum principium
+      sum<lb ed="#P" n="10" break="no"/>me malum, per cuius participationem
+      om<lb ed="#P" n="11" break="no"/>nia alia mala sint mala.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e319">
+                  <lb ed="#P" n="12"/>2 An principio summe bono, quod est 
+      <lb ed="#P" n="13"/>Deus, repugnet plurificari, eo quod sit ens 
+      <lb ed="#P" n="14"/>independens 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e328">
+                  <lb ed="#P" n="15"/>3 Vtrum repugnet sibi plurificari
+      ratio<lb ed="#P" n="16" break="no"/>ne suae perfectionis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e336">
+                  <lb ed="#P" n="17"/>4 Vtrum pluralitas Deorum repugnet or 
+      <lb ed="#P" n="18"/>dini vniuersi. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e344" type="articulus">
+               <head xml:id="gsX5tY-d1e193-Hd1e346">Articulus 1</head>
+               <head xml:id="gsX5tY-d1e193-Hd1e349" type="question-title">Utrum sit dare unum principium summe 
+      malum, cuius participatione omnia alia sint mala</head>
+               <p xml:id="gsX5tY-d1e193-d1e352">
+                  <lb ed="#P" n="19"/>ARTICVLVS PRIMVS. 
+      <lb ed="#P" n="20"/>
+                  <!-- erroneous line in image coords -->
+                  <lb ed="#P" n="21"/>Vtrum sit dare vnum principium summe 
+      <lb ed="#P" n="22"/>malum, cuius participatione 
+      om<lb ed="#P" n="23" break="no"/>nia alia sint mala
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e368">
+                  <lb ed="#P" n="24"/>RESPONDEO, impossibile esse dare 
+      <lb ed="#P" n="25"/> huiusmodi principium contrarium prin 
+      <lb ed="#P" n="26"/>cipio summe bono, &amp; hoc probo tripliciter, 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e377">
+                  <lb ed="#P" n="27"/>1 Summe bono non est aliquid
+      contra<lb ed="#P" n="28" break="no"/>rium ergo non est dare summe malum illi 
+      <lb ed="#P" n="29"/>contratium, Consequentia est nota, probo 
+      <lb ed="#P" n="30"/>antecedens, tum quia contraria debent esse 
+      <lb ed="#P" n="31"/>in eodem genere, vt patet in 4. Meth summum 
+      <lb ed="#P" n="32"/>autem non est in aliquo genere, vt suppono 
+      <lb ed="#P" n="33"/>ad praesens, tum quia contraria requirut ma 
+      <lb ed="#P" n="34"/>teriam, nam sicut patet, in eadem materia ess 
+      <lb ed="#P" n="35"/>obiectum contrariorum, summum autem bo 
+      <lb ed="#P" n="36"/>num est denudatum ab omni materia, &amp; ab  
+      <lb ed="#P" n="37"/>omni potentia: nam sicut dicit Comment. 
+      <lb ed="#P" n="38"/>in 12 Meth com. x. in eo nulla est potentia, 
+      <lb ed="#P" n="39"/>nec essentialiter, nec accidentaliter, per quod 
+      <lb ed="#P" n="40"/>potest patere, quod non sit in genere, quia ge 
+      <lb ed="#P" n="41"/>nus sumitur a potentia. Tum tertio, quia
+      com<lb ed="#P" n="42" break="no"/>traria sunt de genere accidentis, nam substam 
+      <lb ed="#P" n="43"/>tiae nihil est contrarium, vt patet in praedica 
+      <lb ed="#P" n="44"/>mentis, &amp; quarto phys summum autem
+      bo<lb ed="#P" n="45" break="no"/>num non potest esse de genere accidentis,  
+      <lb ed="#P" n="46"/>quia tunc accidens esset simpliciter nobilius 
+      <lb ed="#P" n="47"/>substantia, quod est absurdum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e426">
+                  <lb ed="#P" n="48"/>Nec valet si dicatur, quod summe malum 
+      <lb ed="#P" n="49"/>opponitur summe bono, non sicut contrarium, 
+      <lb ed="#P" n="50"/>sed sicut priuatio.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e435">
+                  <lb ed="#P" n="51"/>Nam quamuis priuatio, &amp; habitus non sint 
+      <lb ed="#P" n="52"/>necessario de genere accidentis, quia inue 
+      <!--143.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 118 b -->
+                  <lb ed="#P" n="53"/>niuntur etiam in genere substantiae, non
+      ta<lb ed="#P" n="54" break="no"/>men sunt extra omne genus, summum auten 
+      <lb ed="#P" n="55"/>bonum est extra omne genus, vt alias
+      pro<lb ed="#P" n="56" break="no"/>babitur. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e457">
+                  <lb ed="#P" n="57"/>Accedit, quod sicut contraria requirunt  
+      <lb ed="#P" n="58"/>eandem materiam, circa quam fiant, ita eoden 
+      <lb ed="#P" n="59"/>modo priuatio, &amp; habitus, summum autem 
+      <lb ed="#P" n="60"/>bonum est denudatum ab omni materia, (vt 
+      <lb ed="#P" n="61"/>dicebatur. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e470">
+                  <lb ed="#P" n="62"/>Habetur ergo ex omnibus istis, quod non 
+      <lb ed="#P" n="63"/>sit dare summum malum oppositum sumvne 
+      <lb ed="#P" n="64"/>bono, nec per modum contrarietatis proprie 
+      <lb ed="#P" n="65"/>dictae, nec per modum priuationis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e481">
+                  <lb ed="#P" n="66"/>Secundo idem, si esset dare summum
+      ma<lb ed="#P" n="67" break="no"/>lum, esset dare puram priuationem,
+      conse<lb ed="#P" n="68" break="no"/>quens est falsum, ergo &amp; antecedens:
+      Con<lb ed="#P" n="69" break="no"/>sequentia est nota, quia malum dicit defectu 
+      <lb ed="#P" n="70"/>&amp; priuationem, &amp; per consequens summi 
+      <lb ed="#P" n="71"/>malum dicit purum defectum, &amp; puram
+      pri<lb ed="#P" n="72" break="no"/>uationem; probo Falsitatem, quia malum. 
+      <lb ed="#P" n="73"/>&amp; priuatio semper requirunt aliquod subie 
+      <lb ed="#P" n="74"/>ctum, &amp; aliquam naturam, supra quam
+      fun<lb ed="#P" n="75" break="no"/>dentur, cum in hoc differant a simplici nega 
+      <lb ed="#P" n="76"/>tione, non est ergo dare aliquod malum, quod 
+      <lb ed="#P" n="77"/>non sit fundatum in aliquobono, &amp; per
+      con<lb ed="#P" n="78" break="no"/>sequens non est purum malum, vel summum 
+      <lb ed="#P" n="79"/>malum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e514">
+                  <lb ed="#P" n="80"/>Tertio si esset dare summum malum poer 
+      <lb ed="#P" n="81"/>cuius participationem omnia alia mala essent,  
+      <lb ed="#P" n="82"/>sequeretur quod non ens haberet rationem cause, 
+      <lb ed="#P" n="83"/>&amp; effectus, Consequens est impossibile e go 
+      <lb ed="#P" n="84"/>&amp; Antecedens. Impossibilitas Consequentis 
+      <lb ed="#P" n="85"/>est nota, probo Consequentiam, quia si pona 
+      <lb ed="#P" n="86"/>tur summum malum simpliciter esse non ens, 
+      <lb ed="#P" n="87"/>habebit ergo non ens rationem causae. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e535">
+                  <lb ed="#P" n="88"/>Iterum alia mala causata ab isto summe 
+      <lb ed="#P" n="89"/>malo, quamuis ratione fundamenti sint
+      en<lb ed="#P" n="90" break="no"/>tia, quia fundantur super aliqua natura
+      posi<lb ed="#P" n="91" break="no"/>tiua, cum non sint summe mala: quia tunc 
+      <lb ed="#P" n="92"/>non causantur ab isto summe malo, nisi
+      in<lb ed="#P" n="93" break="no"/>quantum mala sunt, &amp; hoc modo sunt non 
+      <lb ed="#P" n="94"/>entia; sequitur quod non ens habent rationem 
+      <lb ed="#P" n="95"/>effectus; Et sic patet primum principale. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e556" type="articulus">
+               <head xml:id="gsX5tY-d1e193-Hd1e558">Articulus 2</head>
+               <head xml:id="gsX5tY-d1e193-Hd1e561" type="question-title">An principio summe bono 
+      repugnet plurificari ratione quae est ens independens</head>
+               <p xml:id="gsX5tY-d1e193-d1e564">
+                  <lb ed="#P" n="96"/>ARTICVLVS SECVNDVS 
+      <lb ed="#P" n="97"/>An principio summe bono repugner 
+      <lb ed="#P" n="98"/>plurificari ratione, qua est ens 
+      <lb ed="#P" n="99"/>independens
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e575">
+                  <lb ed="#P" n="100"/>AD hoc respondeo, quod sic, &amp; probo 
+      <lb ed="#P" n="101"/>tribus rationibus 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e582">
+                  <lb ed="#P" n="102"/>Primo si essent plura independentia, vel 
+      <lb ed="#P" n="103"/>distinguerentur per rationem independentiae, 
+      <lb ed="#P" n="104"/>vel per aliquod aliud, quia illud vel esset in¬ 
+      <!--144.xml-->
+      <pb ed="#P" n="119"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>dependens, vel dependens: si ponatur depen 
+      <lb ed="#P" n="2"/>dens, erunt composita ex dependenti, &amp;
+      in<lb ed="#P" n="3" break="no"/>dependenti, &amp; per consequens ambo depen 
+      <lb ed="#P" n="4"/>debunt ab aliquo alio, tum quia in sui
+      ratio<lb ed="#P" n="5" break="no"/>ne includunt aliquod dependens: tum etiam  
+      <lb ed="#P" n="6"/>quia sunt composita, quodlibet autem
+      com<lb ed="#P" n="7" break="no"/>positum dependet ab aliquo extrinseco com 
+      <lb ed="#P" n="8"/>ponente, eo quod nullum compositum, vel 
+      <lb ed="#P" n="9"/>componibile efficiat suammet compositonem, 
+      <lb ed="#P" n="10"/>ergo non est possibile plura independentia 
+      <lb ed="#P" n="11"/>esse, &amp; per consequens nec plures Deos.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e622">
+                  <lb ed="#P" n="12"/>lstam rationem tangit Auicenna 5.
+      Me<lb ed="#P" n="13" break="no"/>taphc. 8. vbi vult, quod non sit dare plura
+      ne<lb ed="#P" n="14" break="no"/>nesse esse, quia non possent differre per
+      ne<lb ed="#P" n="15" break="no"/>cesse esse, cum in hoc conueniant, nec per ali 
+      <lb ed="#P" n="16"/>quod consequens ad necesse esse, quia ad  
+      <lb ed="#P" n="17"/>idem necesse esse semper sequitur idem,
+      dif<lb ed="#P" n="18" break="no"/>ferrent ergo per aliquod possibile, quod ha 
+      <lb ed="#P" n="19"/>bent ab extrinseco, &amp; per consequens non 
+      <lb ed="#P" n="20"/>erunt necesse esse, tum quia in sui ratione 
+      <lb ed="#P" n="21"/>includunt aliquod possibile, tum etiam, quia 
+      <lb ed="#P" n="22"/>dependebunt ab alia causa¬ 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e648">
+                  <lb ed="#P" n="23"/>Secundo ad idem sic. lllud, quod conuenit 
+      <lb ed="#P" n="24"/>alicui rei secundum esse proprium, &amp;
+      singu<lb ed="#P" n="25" break="no"/>lare, quod habet, non plurificatur, sed esse in 
+      <lb ed="#P" n="26"/>dependens conuenit primo enti secundum 
+      <lb ed="#P" n="27"/>esse proprium, &amp; singulare, quod habet, er 
+      <lb ed="#P" n="28"/>go non plurificatur Maior est satis nota. Nam 
+      <lb ed="#P" n="29"/>ideo primum ens est independens, &amp; necesse 
+      <lb ed="#P" n="30"/>esse, quia a seipso, &amp; non per aliud alterum  
+      <lb ed="#P" n="31"/>determinatur ad necessario esse, quod autem 
+      <lb ed="#P" n="32"/>sic determinatur est quoddam singulare: quia 
+      <lb ed="#P" n="33"/>omne, quod actu existit, singulare est: Et ideo 
+      <lb ed="#P" n="34"/>sicut aliquod determinatur ad esse, ita deter 
+      <lb ed="#P" n="35"/>minatur ad suam singularitatem: Hinc est, 
+      <lb ed="#P" n="36"/>quod materialia non sunt singularia per se ip 
+      <lb ed="#P" n="37"/>sa, quia non determinantur ad esse per se; &amp;  
+      <lb ed="#P" n="38"/>per consequens in suo esse sunt dependentia:; 
+      <lb ed="#P" n="39"/>primum autem ens, quia seipso est quoddam  
+      <lb ed="#P" n="40"/>fingulare; ideo est independens. Relinquitur 
+      <lb ed="#P" n="41"/>ergo quod independentia sibi conueniant ra 
+      <lb ed="#P" n="42"/>tione suae singularitatis, &amp; per consequens 
+      <lb ed="#P" n="43"/>erit sibi propria, &amp; non poterit alteri conue 
+      <lb ed="#P" n="44"/>nire, &amp; ita non poterunt esse plura
+      inde<lb ed="#P" n="45" break="no"/>pendentia.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e700">
+                  <lb ed="#P" n="46"/>lstam rationem videtur tangere Commen 
+      <lb ed="#P" n="47"/>tator 1 2. Meth com xi vbi videtur
+      imagina<lb ed="#P" n="48" break="no"/>ri, quod ponentes numerum in Deo
+      cogan<lb ed="#P" n="49" break="no"/>tur ponere substantiam plurificari, quod
+      ta<lb ed="#P" n="50" break="no"/>men non est verum, vt infra patebit. Volens 
+      <lb ed="#P" n="51"/>tamen ostendere, quod prima substantia non 
+      <lb ed="#P" n="52"/>possit plurificari in diuersis suppositis, quod 
+      <lb ed="#P" n="53"/>est ad propositum nostrum, dicit, quod cum 
+      <lb ed="#P" n="54"/>substantia fuerit numerata congregatum
+      v<lb ed="#P" n="55" break="no"/>num per vnam intentionem additam congre 
+      <lb ed="#P" n="56"/>gato: intelligit autem ibi per aggregatum ip 
+      <lb ed="#P" n="57"/>sum suppositum, quod habet substantiam, 
+      <!--144.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 119 b -->
+                  <lb ed="#P" n="58"/>vult ergo dicere, quod si dicta substantia plu 
+      <lb ed="#P" n="59"/>rificetur, ita quod sint plures Dei, tuc Deus,  
+      <lb ed="#P" n="60"/>qui est nomen supposit habentis substantiam, 
+      <lb ed="#P" n="61"/>erit vnus vnitate singularitatis, non per
+      ip<lb ed="#P" n="62" break="no"/>sam, sed per aliquod additum, quia hoc dato 
+      <lb ed="#P" n="63"/>substantia diuina non determinaretur ad
+      es<lb ed="#P" n="64" break="no"/>se singulare per seipsam, sed per aliquod
+      ad<lb ed="#P" n="65" break="no"/>ditum, quemadmodum substantia
+      materia<lb ed="#P" n="66" break="no"/>lis, &amp; per consequens, sicut suppositum
+      sub<lb ed="#P" n="67" break="no"/>stantiae materialis dependet in suo esse signa 
+      <lb ed="#P" n="68"/>to, &amp; actuali, ab eo, quod additur suae
+      substam<lb ed="#P" n="69" break="no"/>tiae, &amp; a causa, quae hoc superaddit; ita suo mo 
+      <lb ed="#P" n="70"/>do diceret Commentat. quod suppositum di 
+      <lb ed="#P" n="71"/>uinae substantiae dependeret in suo esse
+      si<lb ed="#P" n="72" break="no"/>gnato, &amp; singulari ab intentione addita suae 
+      <lb ed="#P" n="73"/>ubstantiae, &amp; a causa, quae faceret illam
+      ad<lb ed="#P" n="74" break="no"/>ditionem. Si autem volumus vitare illud
+      in<lb ed="#P" n="75" break="no"/>conueniens, cogimur dicere, quod ens
+      inde<lb ed="#P" n="76" break="no"/>pendens, eo ipso, quod independens est,
+      de<lb ed="#P" n="77" break="no"/>terminatur ad habere esse signatum, &amp;
+      sin<lb ed="#P" n="78" break="no"/>gulare in rerum natura per se ipsum, &amp; suam 
+      <lb ed="#P" n="79"/>substantiam propriam, &amp; non per aliquam 
+      <lb ed="#P" n="80"/>intentionem additam, &amp; secundum istam viam 
+      <lb ed="#P" n="81"/>ratio dependentiae conuenit ei ratione suae 
+      <lb ed="#P" n="82"/>propriae singularitatis, &amp; sua propria singula 
+      <lb ed="#P" n="83"/>ritas ratione suae independentiae. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e791">
+                  <lb ed="#P" n="84"/>Tertio ad idem sic. Si ens independens 
+      <lb ed="#P" n="85"/>posset plurificari, tunc possent esse in rerum 
+      <lb ed="#P" n="86"/>natura plures omnipotentes, Consequens est 
+      <lb ed="#P" n="87"/>falsum, ergo &amp; Antecedens, probo
+      Conse<lb ed="#P" n="88" break="no"/>quentiam, nam ideo aliquod in rerum
+      natu<lb ed="#P" n="89" break="no"/>ra habet omnipotentiam, quia est
+      indepen<lb ed="#P" n="90" break="no"/>dens a quocunque alio, &amp; omnia alia depen 
+      <lb ed="#P" n="91"/>dent ab ipso, si ergo possent esse plures
+      inde<lb ed="#P" n="92" break="no"/>pendentes pari ratione, qua vnus esset omni- 
+      <lb ed="#P" n="93"/>potens, eadem ratione, &amp; alius, probo Falsita 
+      <lb ed="#P" n="94"/>tem Consequentis. Nam ille; qui est omnipo 
+      <lb ed="#P" n="95"/>tens debet habere potentiam super omnia alia 
+      <lb ed="#P" n="96"/>a se, sic quicunque illorum deberet habere 
+      <lb ed="#P" n="97"/>potentiam super alios distinctos a se, &amp; per 
+      <lb ed="#P" n="98"/>consequens alij non erunt omnipotentes, &amp;  
+      <lb ed="#P" n="99"/>in Deo implicatur contradictio.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e828">
+                  <lb ed="#P" n="100"/>lstam rationem tangit Riccardus primo l 
+      <lb ed="#P" n="101"/>bro suo de Trinit cap. vlt. vbi probat, quoc 
+      <lb ed="#P" n="102"/>non possent esse plures omnipotentes dices 
+      <lb ed="#P" n="103"/>quod qui vere est omnipotens, efficere poto 
+      <lb ed="#P" n="104"/>rit vt caeterorum quilibet nihil efficiat. Intel 
+      <lb ed="#P" n="105"/>ligendum tamen, quod ista ratio supponit 
+      <lb ed="#P" n="106"/>quod in rerum natura sit aliquid, quod
+      ha<lb ed="#P" n="107" break="no"/>bet omnipotentiam, &amp; hoc supposito probat,  
+      <lb ed="#P" n="108"/>quod non possint esse plura talia. Vtrum au 
+      <lb ed="#P" n="109"/>tem istud suppositum possit efficaciter
+      pro<lb ed="#P" n="110" break="no"/>bari, habebit locum in secundo libro. Sic er- 
+      <lb ed="#P" n="111"/>go patet, quod Deo repugnat plurificari
+      ra<lb ed="#P" n="112" break="no"/>tione, qua ens independens, sicut quaerebat 
+      <lb ed="#P" n="113"/>secundum argumentum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e861">
+                  <lb ed="#P" n="114"/>Contra tamen dictas rationes, quidam te¬ 
+      <!--145.xml-->
+      <pb ed="#P" n="120"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>nentes non posse efficaciter probari Deum es 
+      <lb ed="#P" n="2"/>se vnum, sed solum fide teneri, quia dicunt, si 
+      <lb ed="#P" n="3"/>cut est articulus de distinctione personarum; 
+      <lb ed="#P" n="4"/>Ita etiam de vnitate essentiae occurrunt dicentes,  
+      <lb ed="#P" n="5"/>istas rationes, &amp; similes non necessario
+      con<lb ed="#P" n="6" break="no"/>cludere; Instant ergo contra primam, &amp;
+      di<lb ed="#P" n="7" break="no"/>cunt, quod si essent plura independentia 
+      <lb ed="#P" n="8"/>vel plura necesse esse, distinguerentur
+      seip<lb ed="#P" n="9" break="no"/>sis, quemadmodum etiam si Deus faceret 
+      <lb ed="#P" n="10"/>duas intelligentias eiusdem speciei, sicut
+      te<lb ed="#P" n="11" break="no"/>netur communiter, quod posset facere, ille 
+      <lb ed="#P" n="12"/>distinguerentur seipsis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e899">
+                  <lb ed="#P" n="13"/>Iterum instant contra secundam, dicunt 
+      <lb ed="#P" n="14"/>enim quod ipsum singulare potest plurifica 
+      <lb ed="#P" n="15"/>ri. Nam videmus, quod Diuina persona est 
+      <lb ed="#P" n="16"/>quoddam singulare, &amp; tamen plurificatur; 
+      <lb ed="#P" n="17"/>distinguunt ergo de singulari, quod duplex 
+      <lb ed="#P" n="18"/>est singulare, quoddam quod accipit esse ab 
+      <lb ed="#P" n="19"/>alio, &amp; istud non potest plurificari, &amp; quod 
+      <lb ed="#P" n="20"/>dam, quod habet esse cum alio, non tamen 
+      <lb ed="#P" n="21"/>accipit esse ab eo, &amp; istud potest plurificari 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e921">
+                  <lb ed="#P" n="22"/>Contra tertiam rationem instant dicentes 
+      <lb ed="#P" n="23"/>quod non oporteret si essent plures omnipo 
+      <lb ed="#P" n="24"/>tentes, quod vnus eorum haberet posse sup 
+      <lb ed="#P" n="25"/>alios, quia alij non essent obiectum omnipo 
+      <lb ed="#P" n="26"/>tentiae suae, sicut non sequitur, Pater est omni 
+      <lb ed="#P" n="27"/>potens, ergo habet posse super Filium, ita vt 
+      <lb ed="#P" n="28"/>possit facere, quod Filius nihil possit, sicut vi 
+      <lb ed="#P" n="29"/>detur imaginari Riccardus, quia hoc modo 
+      <lb ed="#P" n="30"/>Filius non est obiectum omnipotentiae suae. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e943">
+                  <lb ed="#P" n="31"/>Istae tamen instantiae de facili tolluntur, 
+      <lb ed="#P" n="32"/>Nam cum dicunt primo, quod si essent
+      plu<lb ed="#P" n="33" break="no"/>ra indepedentia, vel plura necesse esse distin 
+      <lb ed="#P" n="34"/>guerentur seipsis, hoc non potest capere
+      in<lb ed="#P" n="35" break="no"/>tellectus, nam quia essent eiusdem rationis,  
+      <lb ed="#P" n="36"/>nec haberent aliquam intentionem additam, 
+      <lb ed="#P" n="37"/>per quam possent distingui, cum
+      supponan<lb ed="#P" n="38" break="no"/>tur vere principia, nec esset inter ea aliqua 
+      <lb ed="#P" n="39"/>ratio distinctionis, remanerent ergo penitus 
+      <lb ed="#P" n="40"/>indistincta, &amp; penitus vnum: teste
+      Doe<lb ed="#P" n="41" break="no"/>tio primo de Trinitate, vbi dicit, quod ibi
+      nul<lb ed="#P" n="42" break="no"/>la est pluralitas, vbi nulla est differentia Nec 
+      <lb ed="#P" n="43"/>est simile, quod adducunt de duabus
+      intel<lb ed="#P" n="44" break="no"/>ligentijs, quia illae duae intelligentiae eiusdem 
+      <lb ed="#P" n="45"/>rationis si fierent a Deo, possent distingui per 
+      <lb ed="#P" n="46"/>intentionem additam earum substantiae, cum 
+      <lb ed="#P" n="47"/>eis non repugnet recipere additionem, duo 
+      <lb ed="#P" n="48"/>autem independentia, vel necesse esse, nec 
+      <lb ed="#P" n="49"/>distinguerentur seipsis cum sint eiusdem
+      ra<lb ed="#P" n="50" break="no"/>tionis, nec per aliquod additum, quia eis re 
+      <lb ed="#P" n="51"/>pugnaret quaecumque additio.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e991">
+                  <lb ed="#P" n="52"/>Secunda instantia faciliter tollitur. Nam  
+      <lb ed="#P" n="53"/>cum dicunt quod singulare potest plurifica 
+      <lb ed="#P" n="54"/>ri, hoc non videtur possibile, quia tunc
+      sin<lb ed="#P" n="55" break="no"/>gulare esset vniuersale, nec valet quod addu 
+      <lb ed="#P" n="56"/>cunt de Diuina persona, quae plurificatur; 
+      <lb ed="#P" n="57"/>Nam si accipiatur diuina persona in speciali,  
+      <!--145.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 120 b -->
+                  <lb ed="#P" n="58"/>secundum quem modum est vere singularis,  
+      <lb ed="#P" n="59"/>puta pro persona Patris tantum, vel pro per 
+      <lb ed="#P" n="60"/>sona Filij tantum, sic non potest
+      plurifica<lb ed="#P" n="61" break="no"/>ri, quia impossibile est esse plures Patres in 
+      <lb ed="#P" n="62"/>Diuinis, vel Filios, &amp; Spiritus Sanctos. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1024">
+                  <lb ed="#P" n="63"/>Tertia instantia non procedit. Nam quan 
+      <lb ed="#P" n="64"/>do dicunt, quod si essent plures oipotentes,  
+      <lb ed="#P" n="65"/>quilibet eorum non posset super oes alios, &amp;c. 
+      <lb ed="#P" n="66"/>hoc non potest stare, quia pari rtione posset di 
+      <lb ed="#P" n="67"/>ei de quolibet ente, quod esset omnipotens; 
+      <lb ed="#P" n="68"/>dato quod in vnum tantum esset possibile, 
+      <lb ed="#P" n="69"/>nam diceretur, quod non posset super oia 
+      <lb ed="#P" n="70"/>alia, quia non sunt obiectum omnipotentiae 
+      <lb ed="#P" n="71"/>suae; nec valet quod adducunt, quia Pater 
+      <lb ed="#P" n="72"/>in Diuinis est omnipotens, &amp; tamen non ha 
+      <lb ed="#P" n="73"/>bet posse super Filium, ita vt Filius non
+      pos<lb ed="#P" n="74" break="no"/>sit, hoc enim est multum dissimile, nam
+      Pa<lb ed="#P" n="75" break="no"/>ter, &amp; Filius in diuinis mutuo se coexigunt,  
+      <lb ed="#P" n="76"/>tum quia sunt relatiua, tum etiam quia
+      ha<lb ed="#P" n="77" break="no"/>bent eandem substantiam. Quapropter si Fi 
+      <lb ed="#P" n="78"/>lium destrueret, seipsum destrueret, &amp; si
+      fa<lb ed="#P" n="79" break="no"/>ceret, quod Filius nil posset, similiter
+      face<lb ed="#P" n="80" break="no"/>ret se nil posse. Si autem essent plures omni 
+      <lb ed="#P" n="81"/>potentes habentes diuersas substatias, vnus 
+      <lb ed="#P" n="82"/>non conexigeret alterum, seipso remanente; 
+      <lb ed="#P" n="83"/>&amp; ideo instantia non habet locum. Patet ergo 
+      <lb ed="#P" n="84"/>secundum principale. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e1075" type="articulus">
+               <head xml:id="gsX5tY-d1e193-Hd1e1077">Articulus 3</head>
+               <head xml:id="gsX5tY-d1e193-Hd1e1080" type="question-title">Utrum repugnet Deo plurificari ratione suae perfectionis</head>
+               <p xml:id="gsX5tY-d1e193-d1e1083">
+                  <lb ed="#P" n="85"/>ARTICVLVS TERTIVS 
+      <lb ed="#P" n="86"/>Vtrum repugnet Deo plurificari ratione. 
+      <lb ed="#P" n="87"/>suae perfectionis.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1092">
+                  <lb ed="#P" n="88"/>AD hoc dicendum quod sic, &amp; probo 
+      <lb ed="#P" n="89"/>tripliciter.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1099">
+                  <lb ed="#P" n="90"/>Primo, ei, quod est summe perfectum, &amp;  
+      <lb ed="#P" n="91"/>optimum, repugnat plurisicari, Deus est
+      hu<lb ed="#P" n="92" break="no"/>iusmodi, ergo &amp;c. Maior videtur nota, quia 
+      <lb ed="#P" n="93"/>quod dicitur per superabundantiam vni soli 
+      <lb ed="#P" n="94"/>conuenit, vnise dctauo Ethicorum Arist. di 
+      <lb ed="#P" n="95"/>cit quod illud, quod per superabundantiam  
+      <lb ed="#P" n="96"/>dicitur, non estnatum fieri nisi ad vnum tan 
+      <lb ed="#P" n="97"/>tum, probo Minorem: Nam omnes
+      intelli<lb ed="#P" n="98" break="no"/>gunt per ipsum Deum ens optimum, &amp; sum 
+      <lb ed="#P" n="99"/>me perfectum, dicente P. Augustino 8. de 
+      <lb ed="#P" n="100"/>Trinit. c. 3. quod plura, &amp; plura bona bonum 
+      <lb ed="#P" n="101"/>hoc, &amp; bonum id, tolle hoc, &amp; tolle illud, &amp;  
+      <lb ed="#P" n="102"/>vide ipsum bonum si potes, &amp; ita Deum 
+      <lb ed="#P" n="103"/>videbis.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1133">
+                  <lb ed="#P" n="104"/>Instatur tamen contra istam rationem, 
+      <lb ed="#P" n="105"/>quod optimum potest capi duobus modis, sci 
+      <lb ed="#P" n="106"/>licet positue, &amp; negatiue, optimum positiue 
+      <lb ed="#P" n="107"/>non potest esse nisi vnum, quia debet esse 
+      <lb ed="#P" n="108"/>melius vniuersaliter quolibet alio, sed
+      opti<lb ed="#P" n="109" break="no"/>mum negatiue potest plurificari; quia suffi¬ 
+      <!--146.xml-->
+      <pb ed="#P" n="121"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cit ad summam suam perfectionem, quod non 
+      <lb ed="#P" n="2"/>habeat aliquod supra se melius, tamen pote 
+      <lb ed="#P" n="3"/>rit habere aliquid iuxta se aeque bonum,
+      si<lb ed="#P" n="4" break="no"/>cut verbi gratia si essent duo calida 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1164">
+                  <lb ed="#P" n="5"/>lsta tamen instantia de facili potest tolli,  
+      <lb ed="#P" n="6"/>nam ille modus accipiendi optimum
+      negati<lb ed="#P" n="7" break="no"/>ue est contra Philosophos, Theologos, &amp;  
+      <lb ed="#P" n="8"/>Grammaticos. Quod autem sit contra Philo 
+      <lb ed="#P" n="9"/>sophos apparet, quia Arist. superius allegatus 
+      <lb ed="#P" n="10"/>vult, quod illud, quod per superabundantiam 
+      <lb ed="#P" n="11"/>dicitur, non sit natum fieri nisi ad vnum tan 
+      <lb ed="#P" n="12"/>tum, non potest ergo accipi nisi positue. 
+      <lb ed="#P" n="13"/>Nam si acciperetur negatiue, sibi non
+      repu<lb ed="#P" n="14" break="no"/>gnaret reperir i in pluribus. Est etiam contra 
+      <lb ed="#P" n="15"/>Commentatorem 1. Ethicor, vbi dicit.
+      Quo<lb ed="#P" n="16" break="no"/>niam autem vnum aliquod oportet esse 
+      <lb ed="#P" n="17"/>optimum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1195">
+                  <lb ed="#P" n="18"/>Est etiam dictum istorum contra
+      Theolo<lb ed="#P" n="19" break="no"/>gos, nam D. Anselmus Monologion quinto 
+      <lb ed="#P" n="20"/>cap 1 ait, datur aliquod summum, quod sic 
+      <lb ed="#P" n="21"/>eminet alijs, vt nec par habeat, nec
+      prae<lb ed="#P" n="22" break="no"/>stantius eo reperiri possit. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1208">
+                  <lb ed="#P" n="23"/>Quod autem sit contra Grammaticos ap 
+      <lb ed="#P" n="24"/>paret. Nam Grammatici dicunt, quod
+      com<lb ed="#P" n="25" break="no"/>paratiuum supponit posituum, &amp;
+      superlati<lb ed="#P" n="26" break="no"/>uum supponit comparatiuum, sicut igitur con 
+      <lb ed="#P" n="27"/>paratiuum significat illud idem, quod
+      signi<lb ed="#P" n="28" break="no"/>ficat posituum perfectiori modo, ita
+      super<lb ed="#P" n="29" break="no"/>latiuum videtur significare illudmet idem, 
+      <lb ed="#P" n="30"/>quod prius significabat comparatiuum
+      per<lb ed="#P" n="31" break="no"/>fectiori tamen modo; Concludit ergo
+      su<lb ed="#P" n="32" break="no"/>perlatiuum in sua intranea ratione posituum 
+      <lb ed="#P" n="33"/>&amp; comparatiuum, puta hoc, quod dico
+      opti<lb ed="#P" n="34" break="no"/>mum, includit in sua ratione bonum, &amp;
+      me<lb ed="#P" n="35" break="no"/>lius, cum ergo bonum, &amp; melius significent 
+      <lb ed="#P" n="36"/>illud, quod significant positiue, &amp; non
+      nega<lb ed="#P" n="37" break="no"/>riue, multo magis, &amp; ipsum optimum in suo 
+      <lb ed="#P" n="38"/>modo significandi semper erit posituum, &amp;  
+      <lb ed="#P" n="39"/>nunquam negatiuum, sicut ergo illud, quod 
+      <lb ed="#P" n="40"/>est simpliciter melius in aliquo genere, non 
+      <lb ed="#P" n="41"/>compatitur secum aliud aequale in aliquo ge 
+      <lb ed="#P" n="42"/>nere, ita &amp; illud, quod est optimum. Stat er- 
+      <lb ed="#P" n="43"/>go prima ratio, quod cum Deus sit optimum 
+      <lb ed="#P" n="44"/>in toto genere entis, non compatiatur secum 
+      <lb ed="#P" n="45"/>aliud aequale, &amp; per consequens repugnet 
+      <lb ed="#P" n="46"/>sibi plurificari ratione suae summae
+      perfe<lb ed="#P" n="47" break="no"/>ctionis, 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1265">
+                  <lb ed="#P" n="48"/>Secundo probo hoc idem sic; Cui
+      repu<lb ed="#P" n="49" break="no"/>gnat habere communem conceptum cum ali 
+      <lb ed="#P" n="50"/>quo alio, ei repugnat habere aliquod aequale; 
+      <lb ed="#P" n="51"/>ted Deo repugnat habere communem conce 
+      <lb ed="#P" n="52"/>ptum cum aliquo alio ratione suae summae 
+      <lb ed="#P" n="53"/>perfectionis, ergo sibi repugnat habere alium 
+      <lb ed="#P" n="54"/>Deum aequalem; Maior videtur nota, quia 
+      <lb ed="#P" n="55"/>ea, quae sunt aequalia in perfectione,
+      necessa<lb ed="#P" n="56" break="no"/>tio habent vnum communem conceptum. 
+      <lb ed="#P" n="57"/>Probo Minorem, ea, quae habent commune 
+      <!--146.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 121 b -->
+                  <lb ed="#P" n="58"/>conceptum, &amp; sunt distincta, vel habent
+      con<lb ed="#P" n="59" break="no"/>munem conceptum secundum speciem, sicut  
+      <lb ed="#P" n="60"/>indiuidua, vel secundum genus, sicut
+      di<lb ed="#P" n="61" break="no"/>uersae species, vel secundum analogiam, sicut  
+      <lb ed="#P" n="62"/>diuersa geuera, non potest dici quod plures 
+      <lb ed="#P" n="63"/>Dij habeant communem conceptum primo 
+      <lb ed="#P" n="64"/>modo, quia tunc essent composit ex ratione 
+      <lb ed="#P" n="65"/>specifica, in qua communicarent, &amp; ex condi 
+      <lb ed="#P" n="66"/>tione indiuiduali, per quam differrent; nec 
+      <lb ed="#P" n="67"/>potest dici secundum, quia tunc essent com 
+      <lb ed="#P" n="68"/>posit ex ratione generis, in qua conuenirent,  
+      <lb ed="#P" n="69"/>&amp; ex ratione differentiae, per quam
+      differ<lb ed="#P" n="70" break="no"/>rent: composito autem omnis Deo repugnat,  
+      <lb ed="#P" n="71"/>quia causa compositonis est possibilitas,
+      pos<lb ed="#P" n="72" break="no"/>sibilitas autem dicit imperfectionem Nec po 
+      <lb ed="#P" n="73"/>test dici tertium, scilicet quod habeant
+      com<lb ed="#P" n="74" break="no"/>munem conceptum secundum analogiam, 
+      <lb ed="#P" n="75"/>tum quia conceptus analogi non est vnus,  
+      <lb ed="#P" n="76"/>sicut magis communiter tenetur, tum quia 
+      <lb ed="#P" n="77"/>dato quod esset vnus, oporteret, quod praefa 
+      <lb ed="#P" n="78"/>ti essent composit ex ratione, per quam con 
+      <lb ed="#P" n="79"/>uenirent, &amp; per quam differrent, tum etiam  
+      <lb ed="#P" n="80"/>quia non essent aequaliter perfecti: nam si 
+      <lb ed="#P" n="81"/>sub eodem genere non possunt esse diuersae 
+      <lb ed="#P" n="82"/>species aequaliter perfectae, multo magis sub 
+      <lb ed="#P" n="83"/>eadem analogia, non poterunt esse diuersa ge 
+      <lb ed="#P" n="84"/>nera aequalis perfectionis, 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1354">
+                  <lb ed="#P" n="85"/>Contra istamr ationem instatur primo; Si 
+      <lb ed="#P" n="86"/>esset plures Dij, non oporteret quod essent 
+      <lb ed="#P" n="87"/>composit ex ratione, per quam conuenirent 
+      <lb ed="#P" n="88"/>&amp; ex ratione, per quam diffeirent. Nam
+      vi<lb ed="#P" n="89" break="no"/>demus, quod Diuinae personae conueniunt, 
+      <lb ed="#P" n="90"/>&amp; differunt, &amp;tamen non sunt compositae. 
+      <lb ed="#P" n="91"/>Secundo. Si essent plures Dij non
+      o<lb ed="#P" n="92" break="no"/>porteret, quod haberent communem
+      con<lb ed="#P" n="93" break="no"/>ceptum secundum genus, quia nullus eorum 
+      <lb ed="#P" n="94"/>esset in genere: Nam non ideo Deus non est 
+      <lb ed="#P" n="95"/>in genere, eo quoe non sit possibilis alius Deus,  
+      <lb ed="#P" n="96"/>dato enimlquod esset alius Deus, iste tamen 
+      <lb ed="#P" n="97"/>Deus, quem ponimus modo, non esset in
+      ge<lb ed="#P" n="98" break="no"/>nere, quia ab intrinseco suae naturae sibi repu 
+      <lb ed="#P" n="99"/>gnat, &amp; pari ratione nec alius Deus esset in 
+      <lb ed="#P" n="100"/>genere, &amp; per consequens non oporteret,  
+      <lb ed="#P" n="101"/>quod ambo haberent communem conceptum 
+      <lb ed="#P" n="102"/>secundum genus. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1397">
+                  <lb ed="#P" n="103"/>Prima instantia tollitur sic Non est simile, 
+      <lb ed="#P" n="104"/>de modo quo conueniunt, &amp; differunt Diuii 
+      <lb ed="#P" n="105"/>nae personae a se inuicem, &amp; plures Dij si
+      es<lb ed="#P" n="106" break="no"/>sent, quia diuinae personae conueniunt re
+      ab<lb ed="#P" n="107" break="no"/>soluta, &amp; differunt relatiua, res autem
+      relati<lb ed="#P" n="108" break="no"/>ua ita se habet ad rem absolutam, quae est
+      di<lb ed="#P" n="109" break="no"/>uina essentia, quod nullam perfectionem,
+      nul<lb ed="#P" n="110" break="no"/>la ve actualitatem addit super eam, quia cum  
+      <lb ed="#P" n="111"/>diuina essentia sit perfectissima, &amp; actualissi 
+      <lb ed="#P" n="112"/>ma, nulla perfectio potest ei addi. Sed si essent 
+      <lb ed="#P" n="113"/>plures Dij, re absoluta conuenirent, &amp; re ab 
+      <lb ed="#P" n="114"/>soluta differrent, vel ergo dices quod com¬ 
+      <!--147.xml-->
+      <pb ed="#P" n="122"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>municant, &amp; differunt eadem ratione
+      abso<lb ed="#P" n="2" break="no"/>luta, vel alia, &amp; alia. Si dicas, quod eadem, 
+      <lb ed="#P" n="3"/>tunc res illa absoluta erit necessario
+      secun<lb ed="#P" n="4" break="no"/>dum aliquem gradum, vel modum perfectio 
+      <lb ed="#P" n="5"/>nis in vno, secundum quem non erit in alio;  
+      <lb ed="#P" n="6"/>quia si esset in vtroque secundum eundem 
+      <lb ed="#P" n="7"/>modum, vel gradum perfectionis, tunc inter 
+      <lb ed="#P" n="8"/>eos nulla esset ratio differendi secundum ra 
+      <lb ed="#P" n="9"/>tionem, &amp; multo minus secudum rem, ergo 
+      <lb ed="#P" n="10"/>ibi necessario erit quaedam composito
+      pos<lb ed="#P" n="11" break="no"/>sibilis, &amp; actualis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1456">
+                  <lb ed="#P" n="12"/>Si autem dicas, quod sit alia res absoluta, 
+      <lb ed="#P" n="13"/>per quam conueniunt, &amp; alia per quam dif 
+      <lb ed="#P" n="14"/>ferunt, tunc non est dubium, quod ibi est 
+      <lb ed="#P" n="15"/>composito; patet ergo quod prima instantia 
+      <lb ed="#P" n="16"/>non procedit.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1469">
+                  <lb ed="#P" n="17"/>Secunda instantia non videtur
+      procede<lb ed="#P" n="18" break="no"/>re: Nam cum dicunt, quod si essent plures 
+      <lb ed="#P" n="19"/>Dij, non haberent communem conceptum 
+      <lb ed="#P" n="20"/>secundum genus, dicendum, non esse
+      in<lb ed="#P" n="21" break="no"/>telligibile, quod aliquo modo habeant
+      si<lb ed="#P" n="22" break="no"/>milem naturam, &amp; non habeant commune 
+      <lb ed="#P" n="23"/>conceptum, vel secundum speciem, vel sal 
+      <lb ed="#P" n="24"/>tem secundum genus, quod si quis neget in 
+      <lb ed="#P" n="25"/>proposito, pari ratione poterit hoc negare in 
+      <lb ed="#P" n="26"/>omnibus alijs; illud vero medium, quod ad 
+      <lb ed="#P" n="27"/>ducunt, non valet, nam cum dicunt, quod si 
+      <lb ed="#P" n="28"/>essent plures Dij, neuter eorum esset in
+      ge<lb ed="#P" n="29" break="no"/>nere, simpliciter est negandum, &amp; cum pro 
+      <lb ed="#P" n="30"/>bant, quia non ideo Deus non est in
+      gene<lb ed="#P" n="31" break="no"/>re, eoqud non sit possibilis alius, sed quia ab  
+      <lb ed="#P" n="32"/>intrinseco suae naturae sibi repugnat.
+      Dicen<lb ed="#P" n="33" break="no"/>dum quod vnum istorum sequitur ad
+      alte<lb ed="#P" n="34" break="no"/>rum: puta quia repugnat Deo ab intrinseco 
+      <lb ed="#P" n="35"/>suae naturae esse in genere, ideo repugnat es 
+      <lb ed="#P" n="36"/>se alium Deum in eodem genere secum, sed 
+      <lb ed="#P" n="37"/>si esset alius Deus in eodem genere, vel in 
+      <lb ed="#P" n="38"/>eadem specie, non repugnaret sibi ab
+      intrin<lb ed="#P" n="39" break="no"/>seco suae naturae esse in genere, quia vere ha 
+      <lb ed="#P" n="40"/>beret eandem naturam, quam ponitur habe 
+      <lb ed="#P" n="41"/>re modo, propter quod in isto dicto semper 
+      <lb ed="#P" n="42"/>implicatur contradictio, nam inquantum po 
+      <lb ed="#P" n="43"/>nitur, Deum non esse in genere,
+      supponi<lb ed="#P" n="44" break="no"/>tur, quod sua natura sit purior actus, &amp; per 
+      <lb ed="#P" n="45"/>consequens non sit distinguibilis, &amp; diuisibi 
+      <lb ed="#P" n="46"/>lis ab intrinseco per aliquos gradus
+      essentia<lb ed="#P" n="47" break="no"/>les ad modum generis, vel ab extrinseco per 
+      <lb ed="#P" n="48"/>aliquas conditiones indiuiduales ad modum 
+      <lb ed="#P" n="49"/>speciei, inquantum vero ponitur esse alium 
+      <lb ed="#P" n="50"/>Deum praeter ipsum, sequitur, quod sua 
+      <lb ed="#P" n="51"/>natura sit distincta, &amp; diuisa in ambobus,
+      ve<lb ed="#P" n="52" break="no"/>per diuersos gradus essentiales, vel per diuei 
+      <lb ed="#P" n="53"/>sas conditiones indiuiduales, &amp; per
+      conse<lb ed="#P" n="54" break="no"/>quens, quod sit in genere, vel in specie;
+      re<lb ed="#P" n="55" break="no"/>motis ergo istis instantijs stat adhuc
+      secun<lb ed="#P" n="56" break="no"/>da ratio, scilicet quod si essent plures Dij 
+      <lb ed="#P" n="57"/>haberent communem conceptum, vel salte 
+      <!--147.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 122 b -->
+                  <lb ed="#P" n="58"/>non posset hoc fugi, quin haberent vnitatem 
+      <lb ed="#P" n="59"/>secundum analogiam, quia secundum
+      Dea<lb ed="#P" n="60" break="no"/>tum <ref xml:id="gsX5tY-d1e193-Rd1e1572">Dionvsium lib. 1. de diuinis nominibus</ref>, 
+      <lb ed="#P" n="61"/>non est aliqua multitudo, quae non participet 
+      <lb ed="#P" n="62"/>vno, quod probat ibidem discurrendo per
+      sin<lb ed="#P" n="63" break="no"/>gulos modos multitudinis, vt patet
+      intuenti<lb ed="#P" n="64" break="no"/>cui concordat Proclus in principio sui
+      li<lb ed="#P" n="65" break="no"/>bri. Si autem plures Dij haberent vnitaten 
+      <lb ed="#P" n="66"/>secundum analogiam non essent aequaliter 
+      <lb ed="#P" n="67"/>perfecti, &amp; per consequens ille solus, qui
+      es<lb ed="#P" n="68" break="no"/>set perfectior, esset Deus, ergo repugnat Deo 
+      <lb ed="#P" n="69"/>plurificari ratione suae summae perfectionis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1596">
+                  <lb ed="#P" n="70"/>Tertio probo hoc idem sic; Fi, quod est in 
+      <lb ed="#P" n="71"/>finitae perfectionis, repugnat plurificari; Des 
+      <lb ed="#P" n="72"/>est huiusmodi, ergo; Minorem suppono, Ma 
+      <lb ed="#P" n="73"/>iorem probo. Nam si infinita Diuina
+      perfe<lb ed="#P" n="74" break="no"/>ctio plurificaretur, sequeretur quod daretur 
+      <lb ed="#P" n="75"/>Maius infinito, consequens est impossibile, 
+      <lb ed="#P" n="76"/>ergo &amp; antecedens, probo Consequentiam,  
+      <lb ed="#P" n="77"/>quia sicut duo perfecta habent plus de
+      per<lb ed="#P" n="78" break="no"/>fectione quam alterum tantum, ita &amp; duo 
+      <lb ed="#P" n="79"/>infinita perfecta simul sumpta plus habent 
+      <lb ed="#P" n="80"/>de perfectione, quam alterum solum; Si ergo 
+      <lb ed="#P" n="81"/>essent plures Dij, &amp; quilibet infinitae actiui 
+      <lb ed="#P" n="82"/>tatis, &amp; perfectionis, vt supponitur, plus
+      es<lb ed="#P" n="83" break="no"/>set de perfectione in eis omnibus simul
+      sum<lb ed="#P" n="84" break="no"/>ptis, quam in vno solo, cum ergo in vno sit 
+      <lb ed="#P" n="85"/>perfectio infinita, erit dare maius infinito. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1633">
+                  <lb ed="#P" n="86"/>lsta ratio patitur vnam instantiam. Nam  
+      <lb ed="#P" n="87"/>videtur ad eam sequi, quod non sit
+      possibi<lb ed="#P" n="88" break="no"/>le dare aliquam creaturam, quia plus
+      vide<lb ed="#P" n="89" break="no"/>tur esse de perfectione in Deo, &amp; creatura 
+      <lb ed="#P" n="90"/>simul, quam in Deo solo, secundum modum 
+      <lb ed="#P" n="91"/>arguendi superius obseruatum, sed in solo 
+      <lb ed="#P" n="92"/>Deo est perfectio infinita, ergo esset dare Ma 
+      <lb ed="#P" n="93"/>ius infinito  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1653">
+                  <lb ed="#P" n="94"/>Ad hoc dico, quod non est plus de perfei 
+      <lb ed="#P" n="95"/>ctione in Deo, &amp; creatura simul, quam in 
+      <lb ed="#P" n="96"/>Deo solo, quia quicquid perfectionis est in 
+      <lb ed="#P" n="97"/>creatura, totum praeexistit in Deo, dicente 
+      <lb ed="#P" n="98"/>Dionysio 3. de diuinis nominibus, quod ipse 
+      <lb ed="#P" n="99"/>Deus incircumscripte preaccipit in se totum 
+      <lb ed="#P" n="100"/>esse, quod non est propter aliud, nisi quia 
+      <lb ed="#P" n="101"/>Deus est perfectus per essentiam, creatura 
+      <lb ed="#P" n="102"/>autem per participationem, sed si essent plu 
+      <lb ed="#P" n="103"/>res Dij, quilibet esset perfectus per essentiam, 
+      <lb ed="#P" n="104"/>propter quod instantia non procedit. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1680">
+                  <lb ed="#P" n="105"/>Intelligendum autem quod quidam
+      pro<lb ed="#P" n="106" break="no"/>bant istam eandem rationem duabus conclu 
+      <lb ed="#P" n="107"/>sionibus, quae videntur mihi sumptae ex
+      par<lb ed="#P" n="108" break="no"/>te diuinae perfectionis, propter quod
+      habe<lb ed="#P" n="109" break="no"/>rent locum in isto articulo si concluderent 
+      <lb ed="#P" n="110"/>de necessitate: quod tamen non credo, vt 
+      <lb ed="#P" n="111"/>statim patebit, quarum prima sic pot formari, 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1698">
+                  <lb ed="#P" n="112"/>Si essent plures Dij, vnus non
+      intellige<lb ed="#P" n="113" break="no"/>ret alium, consequens est falsum, ergo, &amp;
+      an<lb ed="#P" n="114" break="no"/>tecedens, Falsitas consequentis apparet, quia 
+      <!--148.xml-->
+      <pb ed="#P" n="123"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>derogaret rationi vtriusque. Consequentia 
+      <lb ed="#P" n="2"/>probatur, quia si ponatur, quod vnus Deus 
+      <lb ed="#P" n="3"/>intelligat alium Deum, alius Deus intelligens 
+      <lb ed="#P" n="4"/>intelliget alium Deum per essentiam Dei 
+      <lb ed="#P" n="5"/>intellecti, aut per suam propriam essentiam, 
+      <lb ed="#P" n="6"/>non per essentiam Dei intellecti, quia tunc 
+      <lb ed="#P" n="7"/>actus intelligendi Dei intelligentis
+      causare<lb ed="#P" n="8" break="no"/>tur, &amp; dependeret ab essentia Dei intellecti, 
+      <lb ed="#P" n="9"/>&amp; pari ratione essentia Dei intelligentis de 
+      <lb ed="#P" n="10"/>penderet, quia supponitur, quod actus
+      intelli<lb ed="#P" n="11" break="no"/>gendi sit idem, quod essentia Dei, repugnat 
+      <lb ed="#P" n="12"/>autem Diuinae perfectioni, quod sua
+      essen<lb ed="#P" n="13" break="no"/>tia, vel suus actus dependeat, si autem
+      dica<lb ed="#P" n="14" break="no"/>tur, quod intelligat alium Deum non per es 
+      <lb ed="#P" n="15"/>sentiam Dei intellecti, sed per suammet essen 
+      <lb ed="#P" n="16"/>tiam, quae est quaedam similitudo Dei
+      intel<lb ed="#P" n="17" break="no"/>lecti, tunc sequeretur, quod non intelligat 
+      <lb ed="#P" n="18"/>eum perfecte, sicut intelligibilis est, &amp; sicut  
+      <lb ed="#P" n="19"/>intelligitur a seipso, nam cognoscitur a
+      se<lb ed="#P" n="20" break="no"/>ipso per suam essentiam intuitiue, cognitio 
+      <lb ed="#P" n="21"/>vero per similitudinem non est intuitiua, &amp;  
+      <lb ed="#P" n="22"/>per consequens non ita perfecta, sicut illa, quam 
+      <lb ed="#P" n="23"/>est per essentiam, hoc autem derogat diuinae pr 
+      <lb ed="#P" n="24"/>fectioni, quod intelligat aliquam rem non pro 
+      <lb ed="#P" n="25"/>fecte, sicut intelligibilis est. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1768">
+                  <lb ed="#P" n="26"/>Confirmatur ratio, quia nulla potentia 
+      <lb ed="#P" n="27"/>potest habere duo obiecta adaequata, eo quod 
+      <lb ed="#P" n="28"/>alterum omnino superflueret, si autem vns 
+      <lb ed="#P" n="29"/>Deus intelligeret alium Deum, suus
+      intelle<lb ed="#P" n="30" break="no"/>ctus, haberet duo obiecta adaequata, scilicet 
+      <lb ed="#P" n="31"/>essentiam propriam, &amp; essentiam Dei
+      intel<lb ed="#P" n="32" break="no"/>lecti, quarum quaelibet supponitur esse
+      in<lb ed="#P" n="33" break="no"/>finita.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1788">
+                  <lb ed="#P" n="34"/>4 Secundo sic arguitur, Si essent plures Dij, 
+      <lb ed="#P" n="35"/>sequeretur, quod vnus non diligeret alium, 
+      <lb ed="#P" n="36"/>quantum diligibilis esset. consequens est 
+      <lb ed="#P" n="37"/>falsum, ergo &amp; antecedens, Falsitas
+      conse<lb ed="#P" n="38" break="no"/>quentis probatur, quia si vnus non
+      dilige<lb ed="#P" n="39" break="no"/>ret alium, quemadmodum diligibilis est,  
+      <lb ed="#P" n="40"/>non haberet amorem debitum, &amp; ordinatum, 
+      <lb ed="#P" n="41"/>hoc autem repugnat diuinae perfectioni; Con 
+      <lb ed="#P" n="42"/>sequentia probatur, quia quilibet eorum
+      es<lb ed="#P" n="43" break="no"/>set diligibilis infinite, vnus autem non
+      pos<lb ed="#P" n="44" break="no"/>set diligere alium infinite, patet, quia
+      quili<lb ed="#P" n="45" break="no"/>bet naturaliter plus diligit se, quam alium,  
+      <lb ed="#P" n="46"/>nisi contineatur in eo vel sicut effectus eius,  
+      <lb ed="#P" n="47"/>vel sicut bonum partiale in bono totali, neu 
+      <lb ed="#P" n="48"/>trum autem potest dici de vno Deo respectu 
+      <lb ed="#P" n="49"/>alterius, si plures essent, quia nec vnus esset 
+      <lb ed="#P" n="50"/>effectus alterius, nec etiam bonum vnius
+      es<lb ed="#P" n="51" break="no"/>set partiale respectu alterius boni, ergo
+      qui<lb ed="#P" n="52" break="no"/>libet eorum plus diligeret se, quem alium 
+      <lb ed="#P" n="53"/>Deum, &amp; per consequens non diligeret alium 
+      <lb ed="#P" n="54"/>Deum infinite, sicut diligibilis esset 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1836">
+                  <lb ed="#P" n="55"/>Confirmatur ratio, quia si vnus illorum 
+      <lb ed="#P" n="56"/>Deorum diligeret alium vel diligeret eum 
+      <lb ed="#P" n="57"/>vt eo vteretur, vel vt eo frueretur, si primo 
+      <!--148.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 123 b -->
+                  <lb ed="#P" n="58"/>modo, omnino haberent voluntatem inordi 
+      <lb ed="#P" n="59"/>natam, quia magna peruersitas est vti Deo. 
+      <lb ed="#P" n="60"/>Si secundo modo, sequitur, quod fruitio pos 
+      <lb ed="#P" n="61"/>set habere plura obiecta adaequata, quod non 
+      <lb ed="#P" n="62"/>videtur possibile, quia excepto vno solo, oia 
+      <lb ed="#P" n="63"/>alia superfluerent, nam destructis omnibus 
+      <lb ed="#P" n="64"/>alijs vno solo remanente adaequato, fruitio 
+      <lb ed="#P" n="65"/>remaneret. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1869">
+                  <lb ed="#P" n="66"/>lstae rationes quamuis sint apparentes,  
+      <lb ed="#P" n="67"/>non videtur tamen mihi, quod concludant 
+      <lb ed="#P" n="68"/>necessario, &amp; quod possent faciliter solui a 
+      <lb ed="#P" n="69"/>tenentibus, quod ista conclusio non possit 
+      <lb ed="#P" n="70"/>demonstrari, propter quod volo eas soluere. 
+      <lb ed="#P" n="71"/>Ad primam ergo concedo
+      Consequen<lb ed="#P" n="72" break="no"/>tiam, quod vnus Deus non intelligeret alium, 
+      <lb ed="#P" n="73"/>nec repugnaret suae perfectioni, quia sicut  
+      <lb ed="#P" n="74"/>vnus Deus non indigeret alio ad suum per 
+      <lb ed="#P" n="75"/>fectum intelligere, propter quod in nullo 
+      <lb ed="#P" n="76"/>derogaretur perfectioni vtriusque si vnus non 
+      <lb ed="#P" n="77"/>intelligeret alium, soluendo autem hoc mo 
+      <lb ed="#P" n="78"/>do, prima ratio cum sua confirmatione non 
+      <lb ed="#P" n="79"/>concludit. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1903">
+                  <lb ed="#P" n="80"/>Alio modo possum dicere negando
+      Con<lb ed="#P" n="81" break="no"/>sequentiam, &amp; cum probatur, quod vnus 
+      <lb ed="#P" n="82"/>Deus non intelligeret alium per essentiam  
+      <lb ed="#P" n="83"/>Dei intellecti, dico, quod verum est in ratio 
+      <lb ed="#P" n="84"/>ne medij, sed intelligeret per suammet essen 
+      <lb ed="#P" n="85"/>tiam, quae esset perfecte representatiua essen 
+      <lb ed="#P" n="86"/>tiae Dei intellecti. Et cum additur, quod co 
+      <lb ed="#P" n="87"/>gnitio per similitudinem representantem est 
+      <lb ed="#P" n="88"/>imperfecta, dico, quod cognoscere aliquam 
+      <lb ed="#P" n="89"/>rem per similitudinem potest prouenire ex 
+      <lb ed="#P" n="90"/>duabus causis : vno modo propter absentiam 
+      <lb ed="#P" n="91"/>rei cognitae, &amp; talis cognitio bene est
+      imper<lb ed="#P" n="92" break="no"/>fecta, quia non est intuitiua, alio modo
+      po<lb ed="#P" n="93" break="no"/>test hoc prouenire propter diuersitatem, quae 
+      <lb ed="#P" n="94"/>est inter rem cognitam, &amp; cognoscentem, sit 
+      <lb ed="#P" n="95"/>ue inter rem cognitam, &amp; actum cognitionis,  
+      <lb ed="#P" n="96"/>secundum quem modum visus cognoscit co 
+      <lb ed="#P" n="97"/>orem sibi praesentem per speciem, &amp;
+      simili<lb ed="#P" n="98" break="no"/>tudinem ipsius, &amp; talis cognitio est bene per 
+      <lb ed="#P" n="99"/>fecta, quia vere intuitiua, secundum quem 
+      <lb ed="#P" n="100"/>modum Deus cognoscit creaturas per essen 
+      <lb ed="#P" n="101"/>tiam suam, quae est similitudo eorum, vt ipsi 
+      <lb ed="#P" n="102"/>concederent. Applicando ergo hoc ad
+      pro<lb ed="#P" n="103" break="no"/>positum diceretur, quod vnus Deus
+      intelli<lb ed="#P" n="104" break="no"/>geret alium per similitudinem secundo
+      mo<lb ed="#P" n="105" break="no"/>do, &amp; non primo modo, propter quod non 
+      <lb ed="#P" n="106"/>sequeretur, quod cognitio illa esset imperfe 
+      <lb ed="#P" n="107"/>cta, quia vere esset intuitiua, nam essentia 
+      <lb ed="#P" n="108"/>rei intellectae vere esset praesens intellectui 
+      <lb ed="#P" n="109"/>Dei intelligentis 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1971">
+                  <lb ed="#P" n="110"/>Ad confirmationem vero cum dicitur,  
+      <lb ed="#P" n="111"/>quod tunc intellectus Diuinus haberet duo 
+      <lb ed="#P" n="112"/>obiecta adequata, dico quod non essent duo 
+      <lb ed="#P" n="113"/>vt duo, sed magis duo, vt vnum, tum quia es 
+      <lb ed="#P" n="114"/>sent eiusdem rationis, tum quia intellige¬ 
+      <!--149.xml-->
+      <pb ed="#P" n="124"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>retur per vnum medium 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e1993">
+                  <lb ed="#P" n="2"/>Ad secundam rationem respondeo etiam
+      du<lb ed="#P" n="3" break="no"/>pliciter, primo modo concedendo consequentiam, 
+      <lb ed="#P" n="4"/>quia vnus Deus non diligeret alium, nam
+      si<lb ed="#P" n="5" break="no"/>cut dicebatur superius, quod vnus eorum non 
+      <lb ed="#P" n="6"/>indigeret alio ad suum perfectum esse, nec 
+      <lb ed="#P" n="7"/>ad suum perfectum intelligere, ita possumus 
+      <lb ed="#P" n="8"/>dicere in proposito, quod non indigeret eo 
+      <lb ed="#P" n="9"/>ad suum perfectum diligere, propter quod 
+      <lb ed="#P" n="10"/>poterit suus amor perfectus esse non
+      exten<lb ed="#P" n="11" break="no"/>dendo se ad alium Deum, &amp; secundum istam 
+      <lb ed="#P" n="12"/>solutionem, confirmatio istius rationis non  
+      <lb ed="#P" n="13"/>habet locum, siquidem vnus Deus non vteretur,  
+      <lb ed="#P" n="14"/>nec fueretur alio Deo, quia nullum actum  
+      <lb ed="#P" n="15"/>haberet respectu ipsius. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2026">
+                  <lb ed="#P" n="16"/>Secundo respondeo negando
+      Consequen<lb ed="#P" n="17" break="no"/>tiam, &amp; cum probatur, quia est diligibilis
+      in<lb ed="#P" n="18" break="no"/>finite, nam tunc diligeret eum quantum se, 
+      <lb ed="#P" n="19"/>dico, quod non est diligibilis infinite a quo- 
+      <lb ed="#P" n="20"/>cunque, sed solum respectu sui ipsus, quia 
+      <lb ed="#P" n="21"/>amor fundatur supra vnione, &amp; ad seipsum 
+      <lb ed="#P" n="22"/>habet maximam vnionem, scilicet vnionem 
+      <lb ed="#P" n="23"/>per identitatem, propter quod a seipso infini 
+      <lb ed="#P" n="24"/>te diligitur, ad alium vero Deum non habet 
+      <lb ed="#P" n="25"/>tantam vnionem, quia solum habet vnionem per 
+      <lb ed="#P" n="26"/>similitudinem, quapropter non oportet,  
+      <lb ed="#P" n="27"/>quod ab alio Deo diligatur finite, non enim 
+      <lb ed="#P" n="28"/>amor recipit mensuram suae quantitatis ab  
+      <lb ed="#P" n="29"/>ipso obiecto diligibili absolute, sed inquantum 
+      <lb ed="#P" n="30"/>est vnitum diligenti, idcirco sua quantitas 
+      <lb ed="#P" n="31"/>magis videtur mensurari penes vnionem di 
+      <lb ed="#P" n="32"/>ligibilis ad diligentem, quam e conuerso.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2065">
+                  <lb ed="#P" n="33"/>Ad confirmationem dicitur, quod ibi non 
+      <lb ed="#P" n="34"/>est fruitio, nec vsus, quia ratio fruitionis non  
+      <lb ed="#P" n="35"/>cadit nisi supra finem, &amp; ratio vsus super
+      il<lb ed="#P" n="36" break="no"/>lud, quod est ad finem. Si autem essent
+      plu<lb ed="#P" n="37" break="no"/>res Dij, Vnus non se haberet ad alium, nec 
+      <lb ed="#P" n="38"/>sicut finis, nec sicut illud, quod est ad finem,  
+      <lb ed="#P" n="39"/>propter quod ita esset ibi simpliciter amor,  
+      <lb ed="#P" n="40"/>quod nec vsus, nec fruitio. Concludo ergo 
+      <lb ed="#P" n="41"/>quod repugnat Deo plurificari non propter 
+      <lb ed="#P" n="42"/>istas rationes, quae non concludunt hoc
+      ne<lb ed="#P" n="43" break="no"/>cessario, sed propter rationes superius
+      ad<lb ed="#P" n="44" break="no"/>ductas, &amp; haec de secundo. 
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e2095" type="articulus">
+               <head xml:id="gsX5tY-d1e193-Hd1e2097">Articulus 4</head>
+               <head xml:id="gsX5tY-d1e193-Hd1e2100" type="question-title">
+        Utrum repugnet esse plures 
+        Deo ratione perfectionis et ordinis universi
+      </head>
+               <p xml:id="gsX5tY-d1e193-d1e2103">
+                  <lb ed="#P" n="45"/>ARTICVLVS QVARTVS. 
+      <lb ed="#P" n="46"/>Vtrum repugnet esse plures Deos ratione 
+      <lb ed="#P" n="47"/>perfectionis, &amp; ordinis vniuersi.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2112">
+                  <lb ed="#P" n="48"/>REspondeo quod sic: idque probo
+      tri<lb ed="#P" n="49" break="no"/> pliciter.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2119">
+                  <lb ed="#P" n="50"/>Primo sic. Quod repugnat primo motui, 
+      <!--149.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 124 b -->
+                  <lb ed="#P" n="51"/>maxime repugnat ordini vniuersi, sed esse 
+      <lb ed="#P" n="52"/>plures Deos repugnat primo motui, ergo
+      ma<lb ed="#P" n="53" break="no"/>xime repugnat ordini vniuersi. Maior satis 
+      <lb ed="#P" n="54"/>est nota, quia primus motus maxime facit ad 
+      <lb ed="#P" n="55"/>perfectionem vniuersi, &amp; ad conseruationem 
+      <lb ed="#P" n="56"/>ordinis, cum sit quaedam vita omnibus natu 
+      <lb ed="#P" n="57"/>ra subsistentibus, vt qicit Arist. 8. Physicorum. 
+      <lb ed="#P" n="58"/>Probo Minorem, nam si essent plures Dij 
+      <lb ed="#P" n="59"/>vel primus motus esset ab ijs omnibus, vel ab  
+      <lb ed="#P" n="60"/>vno eorum solo, si ab vno eorum solo, omnes 
+      <lb ed="#P" n="61"/>alij superfluerent, quantum ad motum, &amp; per 
+      <lb ed="#P" n="62"/>consequens quantum ad ordinem vniuersi, 
+      <lb ed="#P" n="63"/>hoc autem omnino repugnat perfectioni vni 
+      <lb ed="#P" n="64"/>uersi, scilicet ponero aliquid, quod suo ordini 
+      <lb ed="#P" n="65"/>non expediat. Si autem dicat, quod primus 
+      <lb ed="#P" n="66"/>motus est ab eis omnibus, uel est ab eis omni 
+      <lb ed="#P" n="67"/>bus simul, uel suceessiue, si simul, ergo nullus 
+      <lb ed="#P" n="68"/>eorum est sufficiens per se solus, quia si vnus 
+      <lb ed="#P" n="69"/>per se solus sufficeret, frustra alij mouerent, 
+      <lb ed="#P" n="70"/>nam frustra fit per plura, quod potest fieri 
+      <lb ed="#P" n="71"/>per pauciora. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2177">
+                  <lb ed="#P" n="72"/>Si autem quilibet eorum est insufficiens 
+      <lb ed="#P" n="73"/>nullus erit simpliciter perfectus, quod est 
+      <lb ed="#P" n="74"/>absurdum.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2186">
+                  <lb ed="#P" n="75"/>Si vero dicatur, quod est ab omnibus suc 
+      <lb ed="#P" n="76"/>cessiue, tunc primus motus non erit
+      conti<lb ed="#P" n="77" break="no"/>nuus, cuius contrarium probatum est. 8. Phy 
+      <lb ed="#P" n="78"/>sicorum, &amp; primo Celi, &amp; mundi. Quod
+      au<lb ed="#P" n="79" break="no"/>tem hoc sequatur apparet per Arist. 8. Physi 
+      <lb ed="#P" n="80"/>corum, vbi ait, quod motus continuus, &amp;
+      u<lb ed="#P" n="81" break="no"/>nus est ille qui prouenit ab vno mouente tamen 
+      <lb ed="#P" n="82"/>&amp; isto medio vtitur Arist. &amp; Comment. ibi 
+      <lb ed="#P" n="83"/>dem ad probandum primum motorem esse vnum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2208">
+                  <lb ed="#P" n="84"/>Sed posset aliquis dicere quod existentia 
+      <lb ed="#P" n="85"/>Dei non dependet a motu, &amp; ideo ex vnitate 
+      <lb ed="#P" n="86"/>motus non necessario concluditur vnitas Dei 
+      <lb ed="#P" n="87"/>nam cum motus nil faciat ad diuinam perfectio 
+      <lb ed="#P" n="88"/>nem, &amp; ad suam existentiam, videtur, quod 
+      <lb ed="#P" n="89"/>ex ista parte non repugnet esse plures Deos,  
+      <lb ed="#P" n="90"/>nullus tamen eorum habebit habitudinem ad motum. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2226">
+                  <lb ed="#P" n="91"/>Ad istam instantiam dico, quod quamuis 
+      <lb ed="#P" n="92"/>existentia Dei a motu non dependeat, quia 
+      <lb ed="#P" n="93"/>non accipit per ipsum aliquod esse, nec
+      ali<lb ed="#P" n="94" break="no"/>quam perfectionem: intrinsecam, quam prius 
+      <lb ed="#P" n="95"/>non haberet, secundum tamen mentem
+      Phy<lb ed="#P" n="96" break="no"/>losophi, &amp; Commentatoris, quorum est ista 
+      <lb ed="#P" n="97"/>ratio, existentia Dei necessario exigit motum, 
+      <lb ed="#P" n="98"/>tanquam aliquid, quod necessario consequi 
+      <lb ed="#P" n="99"/>tur ad suum esse, &amp; ad suam perfectionem. 
+      <lb ed="#P" n="100"/>Vnde, &amp; Commentator 12 Meth. com. 35. 
+      <lb ed="#P" n="101"/>dicit, quod motus non est prima perfectio cor 
+      <lb ed="#P" n="102"/>porum coelestium, &amp; intelligentiarum mouen 
+      <lb ed="#P" n="103"/>tium, est tamen consequens primario
+      perfe<lb ed="#P" n="104" break="no"/>ctionem earum. Et ideo propter istam
+      necessa<lb ed="#P" n="105" break="no"/>riam consecutionem, saltem apud Arist. &amp; 
+      <lb ed="#P" n="106"/>Commentatorem, &amp; apud eorum sequaces 
+      <lb ed="#P" n="107"/>potest. necessario concludi ex vnitates primi 
+      <!--150.xml-->
+      <pb ed="#P" n="125"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>motus vnitas primi motoris, &amp; per
+      conse<lb ed="#P" n="2" break="no"/>quens vnitas Dei- 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2276">
+                  <lb ed="#P" n="3"/>Aliter dico magis Theologice, quod
+      quam<lb ed="#P" n="4" break="no"/>uis Deus simpliciter habeat contingentem, 
+      <lb ed="#P" n="5"/>&amp; liberam habitudinem ad motum, quia libe 
+      <lb ed="#P" n="6"/>re motum potest causare, &amp; non causare, &amp;  
+      <lb ed="#P" n="7"/>potest facere, quod nullus motus sit in rerum 
+      <lb ed="#P" n="8"/>natura, tamen possumus necessario
+      conclu<lb ed="#P" n="9" break="no"/>dere, quod praeter illud Deum, a quo depen 
+      <lb ed="#P" n="10"/>det primus motus, &amp; per consequens totus 
+      <lb ed="#P" n="11"/>ordo vniuersi, impossibile sit dare alium Deum 
+      <lb ed="#P" n="12"/>qui nullam habitudinem habeat ad motum 
+      <lb ed="#P" n="13"/>Nam possum petere de illo Deo, quare non 
+      <lb ed="#P" n="14"/>moueat, &amp; quare non gubernet, &amp; regat
+      to<lb ed="#P" n="15" break="no"/>tum vniuersum, sicut facit iste : vel ergo
+      di<lb ed="#P" n="16" break="no"/>ces, quia non potest, vel quia non vult; Si non 
+      <lb ed="#P" n="17"/>potest, ergo non est potens quantum iste, &amp; 
+      <lb ed="#P" n="18"/>p consequens solus iste erit Deus; si non, vult 
+      <lb ed="#P" n="19"/>ergo habet contrariam voluntate ab isto, &amp; per 
+      <lb ed="#P" n="20"/>consequens sicut ad velle istius sequitur vni 
+      <lb ed="#P" n="21"/>uersi gubernatio, ita ad velle alterius contra 
+      <lb ed="#P" n="22"/>rium deberet sequi vniuersi. s. destructio Et 
+      <lb ed="#P" n="23"/>istam rationem tangit Damascenus primo
+      li<lb ed="#P" n="24" break="no"/>bro cap. quinto sic inquiens, quomodo
+      au<lb ed="#P" n="25" break="no"/>tem multis existentibus gubernabitur
+      mun<lb ed="#P" n="26" break="no"/>dus, &amp; non soluetur, &amp; corrumpetur, pugna 
+      <lb ed="#P" n="27"/>in gubernantibus, considerata differentia, sup 
+      <lb ed="#P" n="28"/>ple voluntatum: Nec potest dici, quod vnus 
+      <lb ed="#P" n="29"/>gubernet vnam partem mundi, &amp; alius aliam, 
+      <lb ed="#P" n="30"/>tum quia hoc est contra suppositum, tum 
+      <lb ed="#P" n="31"/>etiam, quia Damascenus hoc excludit dicens 
+      <lb ed="#P" n="32"/>quod tunc quaeritur.
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2344">
+                  <lb ed="#P" n="33"/>Quis ordinat partes mundi, &amp;
+      permanen<lb ed="#P" n="34" break="no"/>tiam eius: Nam neuter eorum poterit hoc fa 
+      <lb ed="#P" n="35"/>cere, quia neuter se extendet ad omnes
+      par<lb ed="#P" n="36" break="no"/>tes, oportebit ergo dare tertium Deum, qui 
+      <lb ed="#P" n="37"/>ad omnes vniuersi partes se extendat, &amp; iste 
+      <lb ed="#P" n="38"/>solus erit Deus. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2361">
+                  <lb ed="#P" n="39"/>Nec valet si dicas, quod praeter istum Deum, 
+      <lb ed="#P" n="40"/>qui totum mundum gubernat, sit possibile po 
+      <lb ed="#P" n="41"/>nere alium Deum, qui nec habeat eandem  
+      <lb ed="#P" n="42"/>voluntatem cum isto in mundi
+      gubernatio<lb ed="#P" n="43" break="no"/>ne, nec in mundi destructione, propter quod 
+      <lb ed="#P" n="44"/>nec mundum gubernabit cum isto, nec mun 
+      <lb ed="#P" n="45"/>dum destruet contra istum, quia non poteris 
+      <lb ed="#P" n="46"/>effugere, quod cum ille alius Deus habeat li 
+      <lb ed="#P" n="47"/>bertatem, sicut iste, poterit determinare se ad 
+      <lb ed="#P" n="48"/>alteram partem, sicut determinauit se iste, po 
+      <lb ed="#P" n="49"/>namus ergo, quod determinet se ad modum 
+      <lb ed="#P" n="50"/>gubernandi; tunc gubernabit simul cum isto, 
+      <lb ed="#P" n="51"/>&amp; per consequens alterum eorum superflue 
+      <lb ed="#P" n="52"/>ret, vel ponamus quod se determinet ad alte 
+      <lb ed="#P" n="53"/>ram partem, scilicet ad mundum
+      destruen<lb ed="#P" n="54" break="no"/>dum, tumc sequeretur, quod immediate simul, &amp;  
+      <lb ed="#P" n="55"/>semel mundus gubernabitur ab vno, &amp;
+      de<lb ed="#P" n="56" break="no"/>struetur ab altero, quod est impossibile, stat 
+      <lb ed="#P" n="57"/>ergo prima ratio in suo robore. 
+      <!--150.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 125 b -->
+                  <lb ed="#P" n="58"/>Secundo probo hoc idem. lllud, quod
+      re<lb ed="#P" n="59" break="no"/>pugnat vltimo fini omnium motuum, &amp; om 
+      <lb ed="#P" n="60"/>nium actionum, repugnat maxime ordini vni 
+      <lb ed="#P" n="61"/>uersi, sed esse plures Deos repugnat vltimo 
+      <lb ed="#P" n="62"/>fini omnium motuum, &amp; omnium actionum, 
+      <lb ed="#P" n="63"/>ergo repugnat maxime ordini vniuersi.
+      Ma<lb ed="#P" n="64" break="no"/>or est nota, quia ordo vniuerfi maxime
+      ap<lb ed="#P" n="65" break="no"/>paret in motibus, &amp; actionibus entium; &amp; 
+      <lb ed="#P" n="66"/>ideo, quod repugnat fini motuum, &amp;
+      actio<lb ed="#P" n="67" break="no"/>num, omnino repugnat ordini vniuersi;
+      pro<lb ed="#P" n="68" break="no"/>bo Minorem: si essent plures Dij, necessario 
+      <lb ed="#P" n="69"/>essent vltimi fines omnium motuum, &amp;
+      actio<lb ed="#P" n="70" break="no"/>num, quae sunt in vniuerso, &amp; si essent
+      plu<lb ed="#P" n="71" break="no"/>res vltimi fines motuum, &amp; actionum,
+      mo<lb ed="#P" n="72" break="no"/>tus, &amp; actiones, quae sunt in vniuerso, non
+      es<lb ed="#P" n="73" break="no"/>sent connexae, quia diuersi motus, &amp; actiones 
+      <lb ed="#P" n="74"/>non connectuntur ad inuicem, nisi propter. 
+      <lb ed="#P" n="75"/>vnum finem, qui intenditur, si autem motus 
+      <lb ed="#P" n="76"/>&amp; actiones non essent connexae, entia non  
+      <lb ed="#P" n="77"/>essent connexa, &amp; si entia non essent
+      conne<lb ed="#P" n="78" break="no"/>xa, totus mundus periret, ergo de primo ad 
+      <lb ed="#P" n="79"/>vltimum, qui ponit plures Deos destruit totum 
+      <lb ed="#P" n="80"/>vniuersi ordinem: lstam rationem tangit Con 
+      <lb ed="#P" n="81"/>mentator. 12. Meth. com 44. vbi vult, quod 
+      <lb ed="#P" n="82"/>motores orbium per omnes suos motus, &amp;  
+      <lb ed="#P" n="83"/>actiones intendant, tanquam finem
+      principa<lb ed="#P" n="84" break="no"/>lem, assimilari primo principi, &amp; primae
+      cau<lb ed="#P" n="85" break="no"/>sae, quia in intelligendo primam causam
+      con<lb ed="#P" n="86" break="no"/>sistit principalis eorum perfectio, cum ergo 
+      <lb ed="#P" n="87"/>non possint sibi assimilari, quantum ad fine 
+      <lb ed="#P" n="88"/>intrinsecum principalem, puta vt sint
+      perfe<lb ed="#P" n="89" break="no"/>cti intrinsece, sicut iste est, quia hoc est oino 
+      <lb ed="#P" n="90"/>mpossibile, idcirco istam similitudinem non  
+      <lb ed="#P" n="91"/>ntendunt, sed intendunt sibi assimilari,
+      quam<lb ed="#P" n="92" break="no"/>tum ad aliquem sinem extrinsecum
+      secun<lb ed="#P" n="93" break="no"/>darium, consequentem finem intrinsecum 
+      <lb ed="#P" n="94"/>principalem, iste autem finis extrinsecus
+      se<lb ed="#P" n="95" break="no"/>cundarius, quem intendit primus Princeps,  
+      <lb ed="#P" n="96"/>est ordo totius vniuersi, &amp; propter istum fine 
+      <lb ed="#P" n="97"/>causat primum motum, siue mediante moto 
+      <lb ed="#P" n="98"/>re appropriate, siue immediate, quia de hoc 
+      <lb ed="#P" n="99"/>non curo ad praesens, alij ergo motores
+      alio<lb ed="#P" n="100" break="no"/>rum orbium volentessibi assimilari, quantum 
+      <lb ed="#P" n="101"/>possibile est, conformant se sibi intendendo 
+      <lb ed="#P" n="102"/>istum eundem finem. Et ideo propter istum 
+      <lb ed="#P" n="103"/>eundem finem causant motus in orbibus suis 
+      <lb ed="#P" n="104"/>subordinando omnes praefatos motus primo 
+      <lb ed="#P" n="105"/>motui, &amp; actioni primi principis, quasi sibi 
+      <lb ed="#P" n="106"/>subseruientes, &amp; adiuuantes ad
+      consecutio<lb ed="#P" n="107" break="no"/>nem intenti finis, scilicet ordini vniuersi. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2520">
+                  <lb ed="#P" n="108"/>Quod autem haec sit intentio Com
+      appa<lb ed="#P" n="109" break="no"/>ret pluribus in locis, maxime tamen in loco 
+      <lb ed="#P" n="110"/>praeallegato, si quis velit diligenter
+      animad<lb ed="#P" n="111" break="no"/>uertere eius verba; ibi enim expresse dicit 
+      <lb ed="#P" n="112"/>perfectionem vniuscuiusqe intelligentiae, &amp;  
+      <lb ed="#P" n="113"/>motoris consistere in intellectione causae pri 
+      <lb ed="#P" n="114"/>mae: &amp; istae est finis eorum principalis, assi¬ 
+      <!--151.xml-->
+      <pb ed="#P" n="126"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>milari scilicet primo Motori, quantum est 
+      <lb ed="#P" n="2"/>eis possibile, ad quem principalem finem
+      se<lb ed="#P" n="3" break="no"/>quitur immediate quod intendant alium fi- 
+      <lb ed="#P" n="4"/>nem secundarium ordinem videlicet vniuersi 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2553">
+                  <lb ed="#P" n="5"/>Sed contra hanc rationem diceret aliquis 
+      <lb ed="#P" n="6"/>plutes esse Deos, vnum tamen eorum tantum 
+      <lb ed="#P" n="7"/>habere rationem vltimi finis. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2562">
+                  <lb ed="#P" n="8"/>Huic dubitationi potest responderi dupli 
+      <lb ed="#P" n="9"/>citer, primo modo dicendo, secundum Com 
+      <lb ed="#P" n="10"/>mentatorem hoc esse impossibile, quod ille 
+      <lb ed="#P" n="11"/>sit Deus, &amp; non habeat rationem
+      vltimifi<lb ed="#P" n="12" break="no"/>nis, quia tunc non haberet aliquam
+      actio<lb ed="#P" n="13" break="no"/>nem &amp; esset ociosus, quod Deo repugnat 
+      <lb ed="#P" n="14"/>quae responsio procedit saltem contra illos,  
+      <lb ed="#P" n="15"/>qui non credunt, vnitatem Dei apud
+      Philo<lb ed="#P" n="16" break="no"/>sophos fuisse demostratam; Alio modo respo 
+      <lb ed="#P" n="17"/>detur, quod supposito ordine vniuersi qui 
+      <lb ed="#P" n="18"/>nunc est, habitudo etm ipsius ad Deum,
+      tan<lb ed="#P" n="19" break="no"/>quam ad vnicum finem, est. necessaria, &amp; sic,  
+      <lb ed="#P" n="20"/>qua ratione dependet ab ipso Deo, depende 
+      <lb ed="#P" n="21"/>bit etiam ab alio; si erit dare alterum. Nec va 
+      <lb ed="#P" n="22"/>let si dicatur, quod ideo magis dependet ab 
+      <lb ed="#P" n="23"/>vno, quam ab alio, quia ab vno est products 
+      <lb ed="#P" n="24"/>&amp; non ab alio, quia posset quaeri qua
+      ratio<lb ed="#P" n="25" break="no"/>ne ille alius non produxit Mundum sicut
+      iste<lb ed="#P" n="26" break="no"/>vel quia non potuit, vel quia noluit, si
+      dica<lb ed="#P" n="27" break="no"/>tur quod non potuit, ergo non omnipotens, 
+      <lb ed="#P" n="28"/>vt iste, si vero noluit, tunc poterit argui
+      si<lb ed="#P" n="29" break="no"/>cut arguebatur superius circa mundi
+      guber<lb ed="#P" n="30" break="no"/>nationem, manet ergo secunda ratio in
+      ro<lb ed="#P" n="31" break="no"/>bore. 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2617">
+                  <lb ed="#P" n="32"/>Tertia ratio, illud, quod repugnat mensu 
+      <lb ed="#P" n="33"/>rae omnium entium, repugnat maxime ordi 
+      <lb ed="#P" n="34"/>ni vniuersi, sed esse plures Deos repugnat 
+      <lb ed="#P" n="35"/>mensurae omnium entium, ergo repugnat 
+      <lb ed="#P" n="36"/>maxime ordini vniuersi, probatur Maior,  
+      <lb ed="#P" n="37"/>nam ordo vniuersi fundatur super distinctos 
+      <lb ed="#P" n="38"/>gradus entis, qui distinguuntur per
+      appro<lb ed="#P" n="39" break="no"/>pinquationem, &amp; recessum a prima
+      mensu<lb ed="#P" n="40" break="no"/>ra entium, qui ergo tollit rationem prima 
+      <lb ed="#P" n="41"/>mensurae in genere entium, tollit distinctio 
+      <lb ed="#P" n="42"/>nem graduum in entibus, &amp; toilit
+      ordi<lb ed="#P" n="43" break="no"/>nem vniuersi;, probo Minorem, nam sicut 
+      <lb ed="#P" n="44"/>patet 10. Met. de ratione mensurae, est vnitas,  
+      <lb ed="#P" n="45"/>&amp; ideo videmus quod vnum habes rationem 
+      <lb ed="#P" n="46"/>mensurae in quantitate discreta, non
+      plurifi<lb ed="#P" n="47" break="no"/>catur, nisi forte per accidens, puta ratione ma 
+      <lb ed="#P" n="48"/>teriae in qua ponitur, ita ergo debet esse de 
+      <lb ed="#P" n="49"/>prima substantia, quae est mensura omnium 
+      <lb ed="#P" n="50"/>substantiarum, illa ergo substantia non
+      po<lb ed="#P" n="51" break="no"/>test plurificari, nisi forte per accidens, sed  
+      <lb ed="#P" n="52"/>hoc est falsum, quia nullam habet materiam, 
+      <lb ed="#P" n="53"/>in qua possibile sit ipsam poni, cum sit actus 
+      <lb ed="#P" n="54"/>purus absque omni poia, vt patet 10. Metaph
+    </p>
+            </div>
+            <div xml:id="gsX5tY-d1e193-Dd1e2670">
+               <head xml:id="gsX5tY-d1e193-Hd1e2672">Ad rationes principales</head>
+               <p xml:id="gsX5tY-d1e193-d1e2675">
+                  <lb ed="#P" n="55"/>AD ARGVMENTA PRINCIPALIA 
+      <lb ed="#P" n="56"/>AD primum ergo concedo Maiorem  
+      <lb ed="#P" n="57"/>quia cum summe bono non sit aliquid 
+      <!--151.xml-->
+      <cb ed="#P" n="b"/> 
+                  <!-- 126 b -->
+                  <lb ed="#P" n="58"/>contrarium, ideo nihil valeret ad probadum 
+      <lb ed="#P" n="59"/>propositionem Maiorem, quia nec minor est 
+      <lb ed="#P" n="60"/>sumpta sub ea, cum supponat summe bono 
+      <lb ed="#P" n="61"/>esse contrarium summe malum, quod tamen 
+      <lb ed="#P" n="62"/>est simpliciter falsum.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2701">
+                  <lb ed="#P" n="63"/>Ad secundum vero dicendum negando 
+      <lb ed="#P" n="64"/>Maiorem, &amp; cum probatur, quia vel repugna 
+      <lb ed="#P" n="65"/>ret etiam independenti plurificari ratione 
+      <lb ed="#P" n="66"/>qua ens, vel ratione, qua independens,
+      di<lb ed="#P" n="67" break="no"/>co, quod ratione, qua independens, cum vero vlte 
+      <lb ed="#P" n="68"/>rius probatur contrarium, quia indiuidua 
+      <lb ed="#P" n="69"/>sub eadem specie a se inuice non dependent,  
+      <lb ed="#P" n="70"/>&amp; etiam species sub eodem genere, dicendum 
+      <lb ed="#P" n="71"/>quod dato, hoc ita esse (quamuis non sit 
+      <lb ed="#P" n="72"/>omniquaque verum) multi tamen sunt alij 
+      <lb ed="#P" n="73"/>modi, quibus possent dependere, propter quod 
+      <lb ed="#P" n="74"/>non sunt independentia, Deus autem
+      sim<lb ed="#P" n="75" break="no"/>pliciter, quantum, ad omnem modum est
+      in<lb ed="#P" n="76" break="no"/>dependens 
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2734">
+                  <lb ed="#P" n="77"/>Ad tertium, nego Minorem, &amp; cum
+      pro<lb ed="#P" n="78" break="no"/>batur, quia de ratione boni est communica 
+      <lb ed="#P" n="79"/>tio, dicendum hoc verum esse, at non
+      quae<lb ed="#P" n="80" break="no"/>cunque, sed illa tantum, quae saluat rationem 
+      <lb ed="#P" n="81"/>boni communicandi, talis autem
+      communi<lb ed="#P" n="82" break="no"/>catio, &amp; plurificatio non congruit, nec saluat 
+      <lb ed="#P" n="83"/>perfectionem Diuini boni, immo magis sibi 
+      <lb ed="#P" n="84"/>repugnat, &amp; ideo ratio non concludit.  
+    </p>
+               <p xml:id="gsX5tY-d1e193-d1e2754">
+                  <lb ed="#P" n="85"/>Ad quartum nego Minorem, &amp; ad proba 
+      <lb ed="#P" n="86"/>tionem cum dicitur, quod si essent plures 
+      <lb ed="#P" n="87"/>Dij, haberet plus, de perfectione quam vno 
+      <lb ed="#P" n="88"/>solus, dico, in huiusmodi dicto semper 
+      <lb ed="#P" n="89"/>mplicari incompossibilia, nam inquantum 
+      <lb ed="#P" n="90"/>ponuntur duo Dij, plus debet de
+      perfectio<lb ed="#P" n="91" break="no"/>ne in ambobus quam in vno solo; inquantum 
+      <lb ed="#P" n="92"/>vero supponitur Deum esse infinitum, &amp; 
+      <lb ed="#P" n="93"/>nfinito non esse dare Maius, sequitur quod 
+      <lb ed="#P" n="94"/>non sit plus de perfectione in ambobus, quam 
+      <lb ed="#P" n="95"/>in altero solum, dato tamen quod ista essent 
+      <lb ed="#P" n="96"/>compossibilia in se, argumentum non
+      con<lb ed="#P" n="97" break="no"/>cludit, quia saltem ordini vniuersi repugnat 
+      <lb ed="#P" n="98"/>esse plures Deos, super quo tamen ordine 
+      <lb ed="#P" n="99"/>argumentum se fundabat. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
