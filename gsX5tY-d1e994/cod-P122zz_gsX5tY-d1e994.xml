@@ -1,352 +1,364 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="571"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e994"> <!-- l1d37q1 -->
-            <head xml:id="gsX5tY-d1e994-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e994-Hd1e112" type="question-title">Utrum Deus sit ubique.</head>
-            <p xml:id="gsX5tY-d1e994-d1e115">
-               <lb ed="#P" n="53"/>DISTINCTIONIS XXXVII. 
-      <lb ed="#P" n="54"/>QVAESTIO VNICA 
-      <lb ed="#P" n="55"/>Vtrum Deus sit vbique,
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e124">
-      <!--596.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 571 b -->
-               <lb ed="#P" n="56"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="57"/>negatiu. 
-      <lb ed="#P" n="58"/> Vm in Deo non sit possibilis aliqua 
-      <lb ed="#P" n="59"/> mutatio, eodem modo se habet nuc, 
-      <lb ed="#P" n="60"/>sicut se habebat ante mundi constitutionem; 
-      <lb ed="#P" n="61"/>sed ante mundi constitutionem non erat
-      vbi<lb ed="#P" n="62" break="no"/>que, , quia tunc nullus erat locus, ergo nec 
-      <lb ed="#P" n="63"/>etiam modo est vbique. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e151">
-               <lb ed="#P" n="64"/>2 Quod est simplicissimum, vbicunque
-      exi<lb ed="#P" n="65" break="no"/>stit, existet vno simplicissimo, sed Deus est 
-      <lb ed="#P" n="66"/>simplicissimus, ergo vno eodem modo
-      exi<lb ed="#P" n="67" break="no"/>stet, vbicunque dicatur existere, &amp; sic
-      male<lb ed="#P" n="68" break="no"/>ponitur existere in omnibus per essentiam 
-      <lb ed="#P" n="69"/>praesentiam &amp; potentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e167">
-               <lb ed="#P" n="70"/>IN OPPOSITVM sunt, auctoritates 
-      <lb ed="#P" n="71"/>quas Magister introducit in litera. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e174">
-               <lb ed="#P" n="72"/>RESPONDEO: in ista quaestione duo 
-      <lb ed="#P" n="73"/>sunt videnda 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e181">
-               <lb ed="#P" n="74"/>1 An Deus sit vbique. 
-      <lb ed="#P" n="75"/>2 An conuenienter assignentur tres modi 
-      <lb ed="#P" n="76"/>generales, quibus Deus dicitur esse vbique. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e190">
-               <lb ed="#P" n="77"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="78"/>An Deus sit vbique. 
-            </p>
-            <p>
-      <lb ed="#P" n="79"/> Ro huius quaesiti notitia est
-      intelligen<lb ed="#P" n="80" break="no"/> dum, quod quamuis conclusio ista non  
-      <lb ed="#P" n="81"/>sit dubia in se, quia &amp; per auctoritates
-      San<lb ed="#P" n="82" break="no"/>ctorum sufficienter probatur in litera; &amp; per 
-               <lb ed="#P" n="83"/>auctoritate Sacrae Scripturae apud <ref>Hierem. 22.</ref> 
-               <lb ed="#P" n="84"/>dicitur, <quote source="http://scta.info/resource/ier23_24@15-19">Coelum &amp; terram ego impleo</quote>, est ta 
-      <lb ed="#P" n="85" break="no"/>men dubium an per aliquod medium possit 
-      <lb ed="#P" n="86"/>demonstrari.
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e214">
-               <lb ed="#P" n="87"/>Et videtur pluribus, quod sic, medium ve 
-      <lb ed="#P" n="88"/>ro, quo id probant, est diuina operatio qua 
-      <lb ed="#P" n="89"/>Deus operatur in creatura vniuersaliter eam 
-      <lb ed="#P" n="90"/>efficiendo, eamque in esse conseruando Quae 
-      <lb ed="#P" n="91"/>quidem operatio est maxime intima cuilibet 
-      <lb ed="#P" n="92"/>rei; sed siita est oportet etiam, quod diuina 
-      <lb ed="#P" n="93"/>virtus a qua est, dicta operatio sit cuilibet rei 
-      <lb ed="#P" n="94"/>maxime intima, ac per consequens etiam
-      di<lb ed="#P" n="95" break="no"/>uina substantia, quae non est aliud, quam sua 
-      <lb ed="#P" n="96"/>virtus. Ex quibus omnibus relinquitur, quod 
-      <lb ed="#P" n="97"/>Deus sit intimus omnibus rebus secundum 
-      <lb ed="#P" n="98"/>suam virtutem, &amp; substantiam: si autem est 
-      <lb ed="#P" n="99"/>intimus omnibus rebus, relinquitur
-      vlte<lb ed="#P" n="100" break="no"/>rius, quod sit vbique, non solum quantum 
-      <lb ed="#P" n="101"/>ad omnem differentiam loci, sed etiam quan 
-      <lb ed="#P" n="102"/>tum ad omnem differentiam entis; quidam  
-      <lb ed="#P" n="103"/>tamen dicunt, quod ex parte operationis nul 
-      <lb ed="#P" n="104"/>lo modo potest probati Deum esse vbique, 
-      <!--597.xml-->
-      <pb ed="#P" n="572"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Hoc autem maxime probant ex tribus.  
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e265">
-               <lb ed="#P" n="2"/>Primo, quia potest agens operari vbi non  
-      <lb ed="#P" n="3"/>est. imo, secundum eos, quanto est maioris 
-      <lb ed="#P" n="4"/>virtutis, tanto operatur in magis distans,
-      si<lb ed="#P" n="5" break="no"/>cut videmus de sole cuius operatio habet
-      lo<lb ed="#P" n="6" break="no"/>cum etiam in omnibus visceribus terrae, &amp; 
-      <lb ed="#P" n="7"/>tamen non extendit se ad dictum locum, nec 
-      <lb ed="#P" n="8"/>secundum se, nec secundum suos radios. 
-      <lb ed="#P" n="9"/>Secundo, quia velle diuinum est omnipo 
-      <lb ed="#P" n="10"/>tens, &amp; potest operari quando vult, &amp; vbi 
-      <lb ed="#P" n="11"/>vult, &amp; ideo dato quod Deus non esset
-      vbi<lb ed="#P" n="12" break="no"/>que, &amp; esset omnipotens, sicut suum velle 
-      <lb ed="#P" n="13"/>posset esset circa aliquid distans, sic etiam &amp; 
-      <lb ed="#P" n="14"/>suum operari; &amp; per consequens non videtur 
-      <lb ed="#P" n="15"/>quod ex parte suae operationis quam habet 
-      <lb ed="#P" n="16"/>in omni creatura, possit probari ipsum esse 
-      <lb ed="#P" n="17"/>vbique. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e302">
-               <lb ed="#P" n="18"/>Tertio, quia Deus potest operari extra 
-      <lb ed="#P" n="19"/>vniuersum, &amp; tamen non est ibi secundum 
-      <lb ed="#P" n="20"/>essentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e311">
-               <lb ed="#P" n="21"/>lstis tamen non obstantibus, videtur
-      mi<lb ed="#P" n="22" break="no"/>hi, quod conclusio communis sit vera. Ad 
-      <lb ed="#P" n="23"/>cuius euidentiam sciendum, quod Deum 
-      <lb ed="#P" n="24"/>esse in aliqua re, potest intelligi dupliciter; 
-      <lb ed="#P" n="25"/>vno modo, vt sit in ea antequam operetur, 
-      <lb ed="#P" n="26"/>&amp; iste intellectus est falsus, quia tunc seque 
-      <lb ed="#P" n="27"/>retur, quod res haberet esse, &amp; conseruaretur 
-      <lb ed="#P" n="28"/>in esse, ipso non operante: alio vero modo po 
-      <lb ed="#P" n="29"/>test intelligi, quod sit in re, dum actu in ea 
-      <lb ed="#P" n="30"/>operatur, siue eam efficiendo, siue eam
-      con<lb ed="#P" n="31" break="no"/>seruando, &amp; iste sensus videtur esse verus. 
-      <lb ed="#P" n="32"/>quia sua operatio non potest seperari ab
-      eius<lb ed="#P" n="33" break="no"/>dem virtute, &amp; substantia, hoc autem
-      prae<lb ed="#P" n="34" break="no"/>misso respondeo ad motiua eorum. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e344">
-               <lb ed="#P" n="35"/>Ad primum ergo dico, quod sol attingit 
-      <lb ed="#P" n="36"/>viscera terrae secundum aliquam qualitatem 
-      <lb ed="#P" n="37"/>causatam in aere, vel in superficiae terrae ex 
-      <lb ed="#P" n="38"/>reflexione radiorum. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e355">
-               <lb ed="#P" n="39"/>Ad secundum vero dico, quod vbi
-      ope<lb ed="#P" n="40" break="no"/>rari est coniunctum cum velle, sicut operari 
-      <lb ed="#P" n="41"/>non est aliquid aliud distans, ita nec velle; 
-      <lb ed="#P" n="42"/>&amp; ideo sicut dicebatur modo, Deus non 
-      <lb ed="#P" n="43"/>prius est in re, &amp; postea operatur; imo sicut  
-      <lb ed="#P" n="44"/>est in ea, sic operatur, ita in proposito est
-      di<lb ed="#P" n="45" break="no"/>cendum, quod Deus non prius vult operari 
-      <lb ed="#P" n="46"/>in re, &amp; postea operatur, sed simul vult ope 
-      <lb ed="#P" n="47"/>rari, &amp; operatur. Quapropter sicut suum ope 
-      <lb ed="#P" n="48"/>rari non est ad aliud distans, ita nec suum 
-      <lb ed="#P" n="49"/>velle hoc modo acceptum. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e381">
-               <lb ed="#P" n="50"/>Ad tertium dicendum, quod aliud est pos 
-      <lb ed="#P" n="51"/>se operari, &amp; actu operari, quamuis ergo ex 
-      <lb ed="#P" n="52"/>posse operari Dei non possit inferri, vel
-      pro<lb ed="#P" n="53" break="no"/>bari ipsum esse secundum essentiam, vbi
-      po<lb ed="#P" n="54" break="no"/>test operari, ex ipso tamen actu operari
-      po<lb ed="#P" n="55" break="no"/>test inferri, &amp; probari ipsum esse secundum 
-      <lb ed="#P" n="56"/>essentiam suam, vbi actu operatur, quia vbi 
-      <lb ed="#P" n="57"/>actu operatur, ibi actu est. Ex hoc etiam vl¬ 
-      <!--597.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 572 b -->
-               <lb ed="#P" n="58"/>terius apparet, quod Deum esse vbique
-      se<lb ed="#P" n="59" break="no"/>cundum potentiam, &amp; posse operati non
-      in<lb ed="#P" n="60" break="no"/>fert ipsum esse vbique secundum essentiam, 
-      <lb ed="#P" n="61"/>sed ipsum esse vbique secundum potentia actu 
-      <lb ed="#P" n="62"/>operantem, bene infert ipsum esse vbique
-      se<lb ed="#P" n="63" break="no"/>cundum essentiam, &amp; haec de praesenti
-      arti<lb ed="#P" n="64" break="no"/>culo. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e424">
-               <lb ed="#P" n="65"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="66"/>Vtrum conuenienter assignentur illi tres 
-      <lb ed="#P" n="67"/>modi generales qui Deo attribuuntur
-      <lb ed="#P" n="68"/>esse ubiqu per essentiam, praesen
-      <lb ed="#P" n="69"/>tiam, &amp; potentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e437">
-               <lb ed="#P" n="70"/>D hoc omissis multis, quae ab alijs
-      di<lb ed="#P" n="71" break="no"/>cuntur; Respondeo, quod illi tres 
-      <lb ed="#P" n="72"/>modi essendi conuenienter assignantur. Ad 
-      <lb ed="#P" n="73"/>cuius euidentiam est preintelligendum quic 
-      <lb ed="#P" n="74"/>intelligo per tres modos essendi in aliquo,  
-      <lb ed="#P" n="75"/>Per esse in aliquo secundum essentiam, nil 
-      <lb ed="#P" n="76"/>aliud intelligo, nisi quod illud quod sic est 
-      <lb ed="#P" n="77"/>in aliquo attingat ipsum secundum suam
-      es<lb ed="#P" n="78" break="no"/>sentiam, ita vt non interueniat distantia
-      in<lb ed="#P" n="79" break="no"/>ter essentiam vnius, &amp; essentiam alterius. 
-      <lb ed="#P" n="80"/>Per esse vero in aliquo secundum
-      praesen<lb ed="#P" n="81" break="no"/>tiam intendo, quod illud, quod hoc modo 
-      <lb ed="#P" n="82"/>est in aliquo, sic attingat ipsum secundum 
-      <lb ed="#P" n="83"/>notitiam vt sit praesens suae notitiae sine
-      ali<lb ed="#P" n="84" break="no"/>qua expectatione. Per esse vero in aliquo 
-      <lb ed="#P" n="85"/>secundum potentiam, nihil aliud capio, nisi 
-      <lb ed="#P" n="86"/>quod illud quod sic est in aliquo attingat ip 
-      <lb ed="#P" n="87"/>ium secundum aliquam operationem. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e479">
-               <lb ed="#P" n="88"/>Hoc praemisso est etiam sciendum, quod 
-      <lb ed="#P" n="89"/>isti tres modi essendi in creaturis realiter
-      di<lb ed="#P" n="90" break="no"/>stinguuntur, quia possunt abinuicem
-      sepa<lb ed="#P" n="91" break="no"/>rari, sicut statim patebit. Et ideo incipiendo 
-      <lb ed="#P" n="92"/>ab vltimo modo, videmus in creaturis, quod 
-      <lb ed="#P" n="93"/>aliquid est in aliquo secundum potentiam, 
-      <lb ed="#P" n="94"/>non tamen est in eo secundum praesentiam, 
-      <lb ed="#P" n="95"/>&amp; essentiam, sicut verbi gratia, ignis est in 
-      <lb ed="#P" n="96"/>aqua secundum potentiam, quando eam
-      ca<lb ed="#P" n="97" break="no"/>lefacit, quia attingit eam secundum
-      opera<lb ed="#P" n="98" break="no"/>tionem, non tamen est in aqua secundum 
-      <lb ed="#P" n="99"/>praesentiam, quia non attingit eam per
-      co<lb ed="#P" n="100" break="no"/>gnitionem; nec etiam secundum essentiam, 
-      <lb ed="#P" n="101"/>quia operatio per quam ignis agit in aquam, 
-      <lb ed="#P" n="102"/>non intimatur essentiae aquae, &amp; per
-      conse<lb ed="#P" n="103" break="no"/>uens nec essentia ignis intimabitur
-      essen<lb ed="#P" n="104" break="no"/>tiae aquae, quod autem talis operatio non
-      in<lb ed="#P" n="105" break="no"/>timetur essentiae aquae apparet, quia vel
-      in<lb ed="#P" n="106" break="no"/>timaretur secundum illud totum quod est 
-      <lb ed="#P" n="107"/>causa causando, vel secundum ilud totum 
-      <lb ed="#P" n="108"/>quod est causa conseruando, quorum
-      neu<lb ed="#P" n="109" break="no"/>trum dici potest. Quapropter relinquitur,  
-      <!--598.xml-->
-      <pb ed="#P" n="573"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>vt ita sit in aqua secundum potentiam, quod 
-      <lb ed="#P" n="2"/>tamen non sit in ea secundum praesentiam, 
-      <lb ed="#P" n="3"/>nec etiam secundum essentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e542">
-               <lb ed="#P" n="4"/>Vlterius videmus, quod aliquid est in ali 
-      <lb ed="#P" n="5"/>quo secundumpresentiam, in quo non est
-      a<lb ed="#P" n="6" break="no"/>lijs modis, vt verbi gratia, visus est in
-      colo<lb ed="#P" n="7" break="no"/>re secundum praesentiam, quia color est
-      prae<lb ed="#P" n="8" break="no"/>sens suae notitiae, &amp; tamen non est in eo secun 
-      <lb ed="#P" n="9"/>dum potentiam, nec secundum essentiam, vt 
-      <lb ed="#P" n="10"/>de se patet, ergo. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e560">
-               <lb ed="#P" n="11"/>Videmus etiam, quod aliquid est in
-      ali<lb ed="#P" n="12" break="no"/>quo secundum essentiam, in quo non est se 
-      <lb ed="#P" n="13"/>cundum presentiam, nec secundum poiam, 
-      <lb ed="#P" n="14"/>vt V. g forma est in materia secundum essen 
-      <lb ed="#P" n="15"/>tiam, quia attingit eam secundum illud
-      to<lb ed="#P" n="16" break="no"/>tum, quod est esse sibi largiendo, &amp; eam in 
-      <lb ed="#P" n="17"/>esse conseruando, non tamen est in ea secun 
-      <lb ed="#P" n="18"/>dum praesentiam, quia non attingit eam
-      se<lb ed="#P" n="19" break="no"/>cundum notitiam, nec etiam secundum
-      po<lb ed="#P" n="20" break="no"/>tentiam, cum non habeat in ea aliquam ope 
-      <lb ed="#P" n="21"/>rationem, secundum quam agat in ipsam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e586">
-               <lb ed="#P" n="22"/>Ex quibus omnibus apparet, quod quia 
-      <lb ed="#P" n="23"/>dicti tres modi in creaturis realiter distinguum 
-      <lb ed="#P" n="24"/>tur, &amp; abinuicem separantur, poterunt
-      di<lb ed="#P" n="25" break="no"/>stingui, &amp; abinuicem separati etiam in Deo 
-      <lb ed="#P" n="26"/>saltem secundum rationem. Et ideo videmus,  
-      <lb ed="#P" n="27"/>quod possumus concipere Deum cum vno 
-      <lb ed="#P" n="28"/>dictorum modorum sine alijs, Vt v. 8. possu 
-      <lb ed="#P" n="29"/>mus eum concipere ad modum vnius
-      agen<lb ed="#P" n="30" break="no"/>tis naturalis vniuersalis, &amp; tunc accipiemus 
-      <lb ed="#P" n="31"/>eum existere in omnibus rebus secundum 
-      <lb ed="#P" n="32"/>potentiam solum, &amp; nullo modo secundum 
-      <lb ed="#P" n="33"/>presentiam, vel essentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e616">
-               <lb ed="#P" n="34"/>Praeterea posset aliquis concipere eum ad 
-      <lb ed="#P" n="35"/>modum vnius intellectus separati omnia con 
-      <lb ed="#P" n="36"/>gnoscentis, &amp; nihil operantis, &amp; tunc conci 
-      <lb ed="#P" n="37"/>piemus eum existere in omnibus rebus secu 
-      <lb ed="#P" n="38"/>dum presentiam, &amp; non secundum potentiam, 
-      <lb ed="#P" n="39"/>nec essentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e632">
-               <lb ed="#P" n="40"/>Similiter posset aliquis concipere Deum 
-      <lb ed="#P" n="41"/>ad modum vnius formae omnia
-      substentan<lb ed="#P" n="42" break="no"/>tia, ita tamen quod nihil cognosceret, nec et 
-      <lb ed="#P" n="43"/>operaretur, secundum quem modum
-      conci<lb ed="#P" n="44" break="no"/>peretur existere in omnibus secundum essen 
-      <lb ed="#P" n="45"/>tiam, &amp; nullo modo secundum praesentiam, 
-      <lb ed="#P" n="46"/>vel potentiam 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e650">
-               <lb ed="#P" n="47"/>iuapropter possumus ex his omnibus con 
-      <lb ed="#P" n="48"/>cludere, quod conueniens fuerit dictorum 
-      <lb ed="#P" n="49"/>trium modorum assignatio, &amp; distinctio. Et 
-      <lb ed="#P" n="50"/>ita patet quid sit dicendum quantum ad istum 
-      <lb ed="#P" n="51"/>articulum, &amp; quantum ad totam questionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e663">
-               <lb ed="#P" n="52"/>AD RATIONES PRINCIPALES. 
-      <lb ed="#P" n="53"/>D primam dicendum quod ex hoc, quod 
-      <lb ed="#P" n="54"/>Deus est vbique post mundi creationem, 
-      <lb ed="#P" n="55"/>&amp; ante non erat vbique, quia non erat locus,  
-      <lb ed="#P" n="56"/>nec vbi, non arguitur aliqua mutatio in 
-      <lb ed="#P" n="57"/>Deo, sed solum in mundo de nouo creato.
-    </p>
-            <p xml:id="gsX5tY-d1e994-d1e679">
-      <!--598.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 573 b -->
-               <lb ed="#P" n="58"/>Ad secundam vero dicendum, quod sicut  
-      <lb ed="#P" n="59"/>iam patuit, dicti tres modi non
-      distinguun<lb ed="#P" n="60" break="no"/>tur in Deo realiter, sed solum secundum
-      ra<lb ed="#P" n="61" break="no"/>tionem, quae quidem distinctio secundum ra 
-      <lb ed="#P" n="62"/>tionem accepta est a distinctione reali, quae ess 
-      <lb ed="#P" n="63"/>in creaturis, vt ostensum fuit. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="571"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e994"> <!-- l1d37q1 -->
+        <head xml:id="gsX5tY-d1e994-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e994-Hd1e112" type="question-title">Utrum Deus sit ubique.</head>
+        <p xml:id="gsX5tY-d1e994-d1e115">
+          <lb ed="#P" n="53"/>DISTINCTIONIS XXXVII. 
+          <lb ed="#P" n="54"/>QVAESTIO VNICA 
+          <lb ed="#P" n="55"/>Vtrum Deus sit vbique,
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e124">
+          <!--596.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 571 b -->
+          <lb ed="#P" n="56"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="57"/>negatiu. 
+          <lb ed="#P" n="58"/> Vm in Deo non sit possibilis aliqua 
+          <lb ed="#P" n="59"/> mutatio, eodem modo se habet nuc, 
+          <lb ed="#P" n="60"/>sicut se habebat ante mundi constitutionem; 
+          <lb ed="#P" n="61"/>sed ante mundi constitutionem non erat
+          vbi<lb ed="#P" n="62" break="no"/>que, , quia tunc nullus erat locus, ergo nec 
+          <lb ed="#P" n="63"/>etiam modo est vbique. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e151">
+          <lb ed="#P" n="64"/>2 Quod est simplicissimum, vbicunque
+          exi<lb ed="#P" n="65" break="no"/>stit, existet vno simplicissimo, sed Deus est 
+          <lb ed="#P" n="66"/>simplicissimus, ergo vno eodem modo
+          exi<lb ed="#P" n="67" break="no"/>stet, vbicunque dicatur existere, &amp; sic
+          male<lb ed="#P" n="68" break="no"/>ponitur existere in omnibus per essentiam 
+          <lb ed="#P" n="69"/>praesentiam &amp; potentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e167">
+          <lb ed="#P" n="70"/>IN OPPOSITVM sunt, auctoritates 
+          <lb ed="#P" n="71"/>quas Magister introducit in litera. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e174">
+          <lb ed="#P" n="72"/>RESPONDEO: in ista quaestione duo 
+          <lb ed="#P" n="73"/>sunt videnda 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e181">
+          <lb ed="#P" n="74"/>1 An Deus sit vbique. 
+          <lb ed="#P" n="75"/>2 An conuenienter assignentur tres modi 
+          <lb ed="#P" n="76"/>generales, quibus Deus dicitur esse vbique. 
+        </p>
+        <div xml:id="gsX5tY-d1e994-Dd1e183" type="et-000002">
+        <head xml:id="gsX5tY-d1e994-Hd1e185">Articulus 1</head>
+        <head xml:id="gsX5tY-d1e994-Hd1e187" type="question-title">An Deus sit ubique</head>
+        <p xml:id="gsX5tY-d1e994-d1e184">
+          <lb ed="#P" n="77"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="78"/>An Deus sit vbique. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e190">
+          <lb ed="#P" n="79"/>PRo huius quaesiti notitia est
+          intelligen<lb ed="#P" n="80" break="no"/> dum, quod quamuis conclusio ista non  
+          <lb ed="#P" n="81"/>sit dubia in se, quia &amp; per auctoritates
+          San<lb ed="#P" n="82" break="no"/>ctorum sufficienter probatur in litera; &amp; per 
+          <lb ed="#P" n="83"/>auctoritate Sacrae Scripturae apud <ref xml:id="gsX5tY-d1e994-Rd1e203">Hierem. 22.</ref> 
+          <lb ed="#P" n="84"/>dicitur, <quote xml:id="gsX5tY-d1e994-Qd1e207" source="http://scta.info/resource/ier23_24@15-19">Coelum &amp; terram ego impleo</quote>, est ta 
+          <lb ed="#P" n="85" break="no"/>men dubium an per aliquod medium possit 
+          <lb ed="#P" n="86"/>demonstrari.
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e214">
+          <lb ed="#P" n="87"/>Et videtur pluribus, quod sic, medium ve 
+          <lb ed="#P" n="88" break="no"/>ro, quo id probant, est diuina operatio qua 
+          <lb ed="#P" n="89"/>Deus operatur in creatura vniuersaliter eam 
+          <lb ed="#P" n="90"/>efficiendo, eamque in esse conseruando Quae 
+          <lb ed="#P" n="91"/>quidem operatio est maxime intima cuilibet 
+          <lb ed="#P" n="92"/>rei; sed si ita est oportet etiam, quod diuina 
+          <lb ed="#P" n="93"/>virtus a qua est, dicta operatio sit cuilibet rei 
+          <lb ed="#P" n="94"/>maxime intima, ac per consequens etiam
+          di<lb ed="#P" n="95" break="no"/>uina substantia, quae non est aliud, quam sua 
+          <lb ed="#P" n="96"/>virtus. Ex quibus omnibus relinquitur, quod 
+          <lb ed="#P" n="97"/>Deus sit intimus omnibus rebus secundum 
+          <lb ed="#P" n="98"/>suam virtutem, &amp; substantiam: si autem est 
+          <lb ed="#P" n="99"/>intimus omnibus rebus, relinquitur
+          vlte<lb ed="#P" n="100" break="no"/>rius, quod sit vbique, non solum quantum 
+          <lb ed="#P" n="101"/>ad omnem differentiam loci, sed etiam quan 
+          <lb ed="#P" n="102" break="no"/>tum ad omnem differentiam entis; quidam  
+          <lb ed="#P" n="103"/>tamen dicunt, quod ex parte operationis nul 
+          <lb ed="#P" n="104" break="no"/>lo modo potest probari Deum esse vbique, 
+          <!--597.xml-->
+          <pb ed="#P" n="572"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Hoc autem maxime probant ex tribus.
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e265">
+          <lb ed="#P" n="2"/>Primo, quia potest agens operari vbi non  
+          <lb ed="#P" n="3"/>est. imo, secundum eos, quanto est maioris 
+          <lb ed="#P" n="4"/>virtutis, tanto operatur in magis distans,
+          si<lb ed="#P" n="5" break="no"/>cut videmus de sole cuius operatio habet
+          lo<lb ed="#P" n="6" break="no"/>cum etiam in omnibus visceribus terrae, &amp; 
+          <lb ed="#P" n="7"/>tamen non extendit se ad dictum locum, nec 
+          <lb ed="#P" n="8"/>secundum se, nec secundum suos radios.
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e285">
+          <lb ed="#P" n="9"/>Secundo, quia velle diuinum est omnipo 
+          <lb ed="#P" n="10" break="no"/>tens, &amp; potest operari quando vult, &amp; vbi 
+          <lb ed="#P" n="11"/>vult, &amp; ideo dato quod Deus non esset
+          vbi<lb ed="#P" n="12" break="no"/>que, &amp; esset omnipotens, sicut suum velle 
+          <lb ed="#P" n="13"/>posset esset circa aliquid distans, sic etiam &amp; 
+          <lb ed="#P" n="14"/>suum operari; &amp; per consequens non videtur 
+          <lb ed="#P" n="15"/>quod ex parte suae operationis quam habet 
+          <lb ed="#P" n="16"/>in omni creatura, possit probari ipsum esse 
+          <lb ed="#P" n="17"/>vbique. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e302">
+          <lb ed="#P" n="18"/>Tertio, quia Deus potest operari extra 
+          <lb ed="#P" n="19"/>vniuersum, &amp; tamen non est ibi secundum 
+          <lb ed="#P" n="20"/>essentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e311">
+          <lb ed="#P" n="21"/>Istis tamen non obstantibus, videtur
+          mi<lb ed="#P" n="22" break="no"/>hi, quod conclusio communis sit vera. Ad 
+          <lb ed="#P" n="23"/>cuius euidentiam sciendum, quod Deum 
+          <lb ed="#P" n="24"/>esse in aliqua re, potest intelligi dupliciter; 
+          <lb ed="#P" n="25"/>vno modo, vt sit in ea antequam operetur, 
+          <lb ed="#P" n="26"/>&amp; iste intellectus est falsus, quia tunc seque 
+          <lb ed="#P" n="27"/>retur, quod res haberet esse, &amp; conseruaretur 
+          <lb ed="#P" n="28"/>in esse, ipso non operante: alio vero modo po 
+          <lb ed="#P" n="29"/>test intelligi, quod sit in re, dum actu in ea 
+          <lb ed="#P" n="30"/>operatur, siue eam efficiendo, siue eam
+          con<lb ed="#P" n="31" break="no"/>seruando, &amp; iste sensus videtur esse verus. 
+          <lb ed="#P" n="32"/>quia sua operatio non potest seperari ab
+          eius<lb ed="#P" n="33" break="no"/>dem virtute, &amp; substantia, hoc autem
+          prae<lb ed="#P" n="34" break="no"/>misso respondeo ad motiua eorum. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e344">
+          <lb ed="#P" n="35"/><ref xml:id="gsX5tY-d1e994-Rd1e352" target="http://scta.info/resource/gsX5tY-d1e994-d1e265">Ad primum</ref> ergo dico, quod sol attingit 
+          <lb ed="#P" n="36"/>viscera terrae secundum aliquam qualitatem 
+          <lb ed="#P" n="37"/>causatam in aere, vel in superficiae terrae ex 
+          <lb ed="#P" n="38"/>reflexione radiorum. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e355">
+          <lb ed="#P" n="39"/><ref xml:id="gsX5tY-d1e994-Rd1e372" target="http://scta.info/resource/gsX5tY-d1e994-d1e285">Ad secundum</ref> vero dico, quod vbi
+          ope<lb ed="#P" n="40" break="no"/>rari est coniunctum cum velle, sicut operari 
+          <lb ed="#P" n="41"/>non est aliquid aliud distans, ita nec velle; 
+          <lb ed="#P" n="42"/>&amp; ideo sicut dicebatur modo, Deus non 
+          <lb ed="#P" n="43"/>prius est in re, &amp; postea operatur; imo sicut  
+          <lb ed="#P" n="44"/>est in ea, sic operatur, ita in proposito est
+          di<lb ed="#P" n="45" break="no"/>cendum, quod Deus non prius vult operari 
+          <lb ed="#P" n="46"/>in re, &amp; postea operatur, sed simul vult ope 
+          <lb ed="#P" n="47"/>rari, &amp; operatur. Quapropter sicut suum ope 
+          <lb ed="#P" n="48"/>rari non est ad aliud distans, ita nec suum 
+          <lb ed="#P" n="49"/>velle hoc modo acceptum. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e381">
+          <lb ed="#P" n="50"/><ref xml:id="gsX5tY-d1e994-Rd1e401" target="http://scta.info/resource/gsX5tY-d1e994-d1e302">Ad tertium</ref> dicendum, quod aliud est pos 
+          <lb ed="#P" n="51"/>se operari, &amp; actu operari, quamuis ergo ex 
+          <lb ed="#P" n="52"/>posse operari Dei non possit inferri, vel
+          pro<lb ed="#P" n="53" break="no"/>bari ipsum esse secundum essentiam, vbi
+          po<lb ed="#P" n="54" break="no"/>test operari, ex ipso tamen actu operari
+          po<lb ed="#P" n="55" break="no"/>test inferri, &amp; probari ipsum esse secundum 
+          <lb ed="#P" n="56"/>essentiam suam, vbi actu operatur, quia vbi 
+          <lb ed="#P" n="57"/>actu operatur, ibi actu est. Ex hoc etiam vl¬ 
+          <!--597.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 572 b -->
+          <lb ed="#P" n="58"/>terius apparet, quod Deum esse vbique
+          se<lb ed="#P" n="59" break="no"/>cundum potentiam, &amp; posse operati non
+          in<lb ed="#P" n="60" break="no"/>fert ipsum esse vbique secundum essentiam, 
+          <lb ed="#P" n="61"/>sed ipsum esse vbique secundum potentia actu 
+          <lb ed="#P" n="62"/>operantem, bene infert ipsum esse vbique
+          se<lb ed="#P" n="63" break="no"/>cundum essentiam, &amp; haec de praesenti
+          arti<lb ed="#P" n="64" break="no"/>culo. 
+        </p>
+      </div>
+        <div xml:id="gsX5tY-d1e994-Dd1e443">
+          <head xml:id="gsX5tY-d1e994-Hd1e445">Articulus 2</head>
+          <head xml:id="gsX5tY-d1e994-Hd1e447" type="question-title">Utrum convenienter assignentur illi tres modi generales qui Deo attribuuntur 
+          esse ubique per essentiam, praesentiam, et potentiam</head>
+          
+        <p xml:id="gsX5tY-d1e994-d1e424">
+          <lb ed="#P" n="65"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="66"/>Vtrum conuenienter assignentur illi tres 
+          <lb ed="#P" n="67"/>modi generales qui Deo attribuuntur
+          <lb ed="#P" n="68"/>esse ubiqu per essentiam, praesen
+          <lb ed="#P" n="69"/>tiam, &amp; potentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e437">
+          <lb ed="#P" n="70"/>AD hoc omissis multis, quae ab alijs
+          di<lb ed="#P" n="71" break="no"/>cuntur; Respondeo, quod illi tres 
+          <lb ed="#P" n="72"/>modi essendi conuenienter assignantur. Ad 
+          <lb ed="#P" n="73"/>cuius euidentiam est preintelligendum quic 
+          <lb ed="#P" n="74"/>intelligo per tres modos essendi in aliquo,  
+          <lb ed="#P" n="75"/>Per esse in aliquo secundum essentiam, nil 
+          <lb ed="#P" n="76"/>aliud intelligo, nisi quod illud quod sic est 
+          <lb ed="#P" n="77"/>in aliquo attingat ipsum secundum suam
+          es<lb ed="#P" n="78" break="no"/>sentiam, ita vt non interueniat distantia
+          in<lb ed="#P" n="79" break="no"/>ter essentiam vnius, &amp; essentiam alterius. 
+          <lb ed="#P" n="80"/>Per esse vero in aliquo secundum
+          praesen<lb ed="#P" n="81" break="no"/>tiam intendo, quod illud, quod hoc modo 
+          <lb ed="#P" n="82"/>est in aliquo, sic attingat ipsum secundum 
+          <lb ed="#P" n="83"/>notitiam vt sit praesens suae notitiae sine
+          ali<lb ed="#P" n="84" break="no"/>qua expectatione. Per esse vero in aliquo 
+          <lb ed="#P" n="85"/>secundum potentiam, nihil aliud capio, nisi 
+          <lb ed="#P" n="86"/>quod illud quod sic est in aliquo attingat ip 
+          <lb ed="#P" n="87"/>ium secundum aliquam operationem. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e479">
+          <lb ed="#P" n="88"/>Hoc praemisso est etiam sciendum, quod 
+          <lb ed="#P" n="89"/>isti tres modi essendi in creaturis realiter
+          di<lb ed="#P" n="90" break="no"/>stinguuntur, quia possunt abinuicem
+          sepa<lb ed="#P" n="91" break="no"/>rari, sicut statim patebit. Et ideo incipiendo 
+          <lb ed="#P" n="92"/>ab vltimo modo, videmus in creaturis, quod 
+          <lb ed="#P" n="93"/>aliquid est in aliquo secundum potentiam, 
+          <lb ed="#P" n="94"/>non tamen est in eo secundum praesentiam, 
+          <lb ed="#P" n="95"/>&amp; essentiam, sicut verbi gratia, ignis est in 
+          <lb ed="#P" n="96"/>aqua secundum potentiam, quando eam
+          ca<lb ed="#P" n="97" break="no"/>lefacit, quia attingit eam secundum
+          opera<lb ed="#P" n="98" break="no"/>tionem, non tamen est in aqua secundum 
+          <lb ed="#P" n="99"/>praesentiam, quia non attingit eam per
+          co<lb ed="#P" n="100" break="no"/>gnitionem; nec etiam secundum essentiam, 
+          <lb ed="#P" n="101"/>quia operatio per quam ignis agit in aquam, 
+          <lb ed="#P" n="102"/>non intimatur essentiae aquae, &amp; per
+          conse<lb ed="#P" n="103" break="no"/>uens nec essentia ignis intimabitur
+          essen<lb ed="#P" n="104" break="no"/>tiae aquae, quod autem talis operatio non
+          in<lb ed="#P" n="105" break="no"/>timetur essentiae aquae apparet, quia vel
+          in<lb ed="#P" n="106" break="no"/>timaretur secundum illud totum quod est 
+          <lb ed="#P" n="107"/>causa causando, vel secundum ilud totum 
+          <lb ed="#P" n="108"/>quod est causa conseruando, quorum
+          neu<lb ed="#P" n="109" break="no"/>trum dici potest. Quapropter relinquitur,  
+          <!--598.xml-->
+          <pb ed="#P" n="573"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vt ita sit in aqua secundum potentiam, quod 
+          <lb ed="#P" n="2"/>tamen non sit in ea secundum praesentiam, 
+          <lb ed="#P" n="3"/>nec etiam secundum essentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e542">
+          <lb ed="#P" n="4"/>Vlterius videmus, quod aliquid est in ali 
+          <lb ed="#P" n="5"/>quo secundumpresentiam, in quo non est
+          a<lb ed="#P" n="6" break="no"/>lijs modis, vt verbi gratia, visus est in
+          colo<lb ed="#P" n="7" break="no"/>re secundum praesentiam, quia color est
+          prae<lb ed="#P" n="8" break="no"/>sens suae notitiae, &amp; tamen non est in eo secun 
+          <lb ed="#P" n="9"/>dum potentiam, nec secundum essentiam, vt 
+          <lb ed="#P" n="10"/>de se patet, ergo. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e560">
+          <lb ed="#P" n="11"/>Videmus etiam, quod aliquid est in
+          ali<lb ed="#P" n="12" break="no"/>quo secundum essentiam, in quo non est se 
+          <lb ed="#P" n="13"/>cundum presentiam, nec secundum poiam, 
+          <lb ed="#P" n="14"/>vt V. g forma est in materia secundum essen 
+          <lb ed="#P" n="15"/>tiam, quia attingit eam secundum illud
+          to<lb ed="#P" n="16" break="no"/>tum, quod est esse sibi largiendo, &amp; eam in 
+          <lb ed="#P" n="17"/>esse conseruando, non tamen est in ea secun 
+          <lb ed="#P" n="18"/>dum praesentiam, quia non attingit eam
+          se<lb ed="#P" n="19" break="no"/>cundum notitiam, nec etiam secundum
+          po<lb ed="#P" n="20" break="no"/>tentiam, cum non habeat in ea aliquam ope 
+          <lb ed="#P" n="21"/>rationem, secundum quam agat in ipsam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e586">
+          <lb ed="#P" n="22"/>Ex quibus omnibus apparet, quod quia 
+          <lb ed="#P" n="23"/>dicti tres modi in creaturis realiter distinguum 
+          <lb ed="#P" n="24"/>tur, &amp; abinuicem separantur, poterunt
+          di<lb ed="#P" n="25" break="no"/>stingui, &amp; abinuicem separati etiam in Deo 
+          <lb ed="#P" n="26"/>saltem secundum rationem. Et ideo videmus,  
+          <lb ed="#P" n="27"/>quod possumus concipere Deum cum vno 
+          <lb ed="#P" n="28"/>dictorum modorum sine alijs, Vt v. 8. possu 
+          <lb ed="#P" n="29"/>mus eum concipere ad modum vnius
+          agen<lb ed="#P" n="30" break="no"/>tis naturalis vniuersalis, &amp; tunc accipiemus 
+          <lb ed="#P" n="31"/>eum existere in omnibus rebus secundum 
+          <lb ed="#P" n="32"/>potentiam solum, &amp; nullo modo secundum 
+          <lb ed="#P" n="33"/>presentiam, vel essentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e616">
+          <lb ed="#P" n="34"/>Praeterea posset aliquis concipere eum ad 
+          <lb ed="#P" n="35"/>modum vnius intellectus separati omnia con 
+          <lb ed="#P" n="36"/>gnoscentis, &amp; nihil operantis, &amp; tunc conci 
+          <lb ed="#P" n="37"/>piemus eum existere in omnibus rebus secu 
+          <lb ed="#P" n="38"/>dum presentiam, &amp; non secundum potentiam, 
+          <lb ed="#P" n="39"/>nec essentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e632">
+          <lb ed="#P" n="40"/>Similiter posset aliquis concipere Deum 
+          <lb ed="#P" n="41"/>ad modum vnius formae omnia
+          substentan<lb ed="#P" n="42" break="no"/>tia, ita tamen quod nihil cognosceret, nec et 
+          <lb ed="#P" n="43"/>operaretur, secundum quem modum
+          conci<lb ed="#P" n="44" break="no"/>peretur existere in omnibus secundum essen 
+          <lb ed="#P" n="45"/>tiam, &amp; nullo modo secundum praesentiam, 
+          <lb ed="#P" n="46"/>vel potentiam 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e650">
+          <lb ed="#P" n="47"/>iuapropter possumus ex his omnibus con 
+          <lb ed="#P" n="48"/>cludere, quod conueniens fuerit dictorum 
+          <lb ed="#P" n="49"/>trium modorum assignatio, &amp; distinctio. Et 
+          <lb ed="#P" n="50"/>ita patet quid sit dicendum quantum ad istum 
+          <lb ed="#P" n="51"/>articulum, &amp; quantum ad totam questionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e663">
+          <lb ed="#P" n="52"/>AD RATIONES PRINCIPALES. 
+          <lb ed="#P" n="53"/>D primam dicendum quod ex hoc, quod 
+          <lb ed="#P" n="54"/>Deus est vbique post mundi creationem, 
+          <lb ed="#P" n="55"/>&amp; ante non erat vbique, quia non erat locus,  
+          <lb ed="#P" n="56"/>nec vbi, non arguitur aliqua mutatio in 
+          <lb ed="#P" n="57"/>Deo, sed solum in mundo de nouo creato.
+        </p>
+        <p xml:id="gsX5tY-d1e994-d1e679">
+          <!--598.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 573 b -->
+          <lb ed="#P" n="58"/>Ad secundam vero dicendum, quod sicut  
+          <lb ed="#P" n="59"/>iam patuit, dicti tres modi non
+          distinguun<lb ed="#P" n="60" break="no"/>tur in Deo realiter, sed solum secundum
+          ra<lb ed="#P" n="61" break="no"/>tionem, quae quidem distinctio secundum ra 
+          <lb ed="#P" n="62"/>tionem accepta est a distinctione reali, quae ess 
+          <lb ed="#P" n="63"/>in creaturis, vt ostensum fuit. 
+        </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
