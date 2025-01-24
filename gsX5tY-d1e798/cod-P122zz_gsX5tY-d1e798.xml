@@ -279,13 +279,13 @@
                <cb ed="#P" n="a"/>
                <lb ed="#P" n="1"/>sione: res autem scita, &amp; visa nullo modo pro 
       <lb ed="#P" n="2"/>prie loquendo potest dici scientia, vel visio, 
-      <lb ed="#P" n="3"/>dato etiam quod per actum visionis esset po 
-      <lb ed="#P" n="4"/>sita in aliquo esse intentionali, &amp; apparenti, 
+      <lb ed="#P" n="3"/>dato etiam quod per actum visionis esset 
+               po<lb ed="#P" n="4" break="no"/>sita in aliquo esse intentionali, &amp; apparenti, 
       <lb ed="#P" n="5"/>vt isti imaginantur. 
     </p>
             <p xml:id="gsX5tY-d1e798-d1e608">
-               <lb ed="#P" n="6"/>2 Praeterea in <ref xml:id="gsX5tY-d1e798-Rd1e612">eodem lib de Trin. cap. 22</ref> 
-               <lb ed="#P" n="7"/>dicit, quod <quote xml:id="gsX5tY-d1e798-Qd1e617" source="http://scta.info/resource/adt-l15-d1e1931" synch="65-78">cum verbum de scientia mea
+               <lb ed="#P" n="6"/>2 Praeterea in <ref xml:id="gsX5tY-d1e798-Rd1e612" corresp="#gsX5tY-d1e798-Qd1e617">eodem lib de Trin. cap. 22</ref> 
+               <lb ed="#P" n="7"/>dicit, quod <quote xml:id="gsX5tY-d1e798-Qd1e617" source="http://scta.info/resource/adt-l15-d1e1931@65-78">cum verbum de scientia mea
       gi<lb ed="#P" n="8" break="no"/>gnitur, vtrunque meum est, scilicet scientia, 
       <lb ed="#P" n="9"/>&amp; verbum</quote>, res autem cognita, &amp; posita in 
       <lb ed="#P" n="10"/>prospectu mentis meae per illud esse
@@ -296,10 +296,9 @@
                <lb ed="#P" n="13"/>3 Si verbum esset res posita in tali esse ap 
       <lb ed="#P" n="14"/>patenti, &amp; intentionali, vt isti imaginantur,  
       <lb ed="#P" n="15"/>sequeretur, quod formatio verbi nullo
-      mo<lb ed="#P" n="16" break="no"/>mo esset ab ipsa re, quod est contra P. Aug. 
-      <lb ed="#P" n="17"/>
-               <ref xml:id="gsX5tY-d1e798-Rd1e646">1S. de Trin. cap. 10</ref> vbi ait, quod
-      <quote xml:id="gsX5tY-d1e798-Qd1e649" source="http://scta.info/resource/adt-l15-d1e1801" synch="31-40">forma<lb ed="#P" n="18" break="no"/>ta cogitatio ab ea re, quam scimus, verbum 
+      mo<lb ed="#P" n="16" break="no"/>mo esset ab ipsa re, quod est contra <ref xml:id="gsX5tY-d1e798-Rd1e646" corresp="#gsX5tY-d1e798-Qd1e649">P. Aug. 
+      <lb ed="#P" n="17"/>1S. de Trin. cap. 10</ref> vbi ait, quod <quote xml:id="gsX5tY-d1e798-Qd1e649" source="http://scta.info/resource/adt-l15-d1e1801@31-40">forma<lb ed="#P" n="18" break="no"/>ta 
+      cogitatio ab ea re, quam scimus, verbum 
       <lb ed="#P" n="19"/>est</quote>, Consequentiam probo, quia formans,  
       <lb ed="#P" n="20"/>&amp; formatum debent esse realiter distincta 
     </p>
