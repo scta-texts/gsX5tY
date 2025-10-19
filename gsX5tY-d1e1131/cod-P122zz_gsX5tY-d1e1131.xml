@@ -1,174 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="588"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e1131"> <!-- l1d45q1 -->
-            <head xml:id="gsX5tY-d1e1131-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e1131-Hd1e112" type="question-title">Utrum voluntas divina convenienter distinguatur in voluntatem signi, et
-      beneplaciti.</head>
-            <p xml:id="gsX5tY-d1e1131-d1e115">
-               <lb ed="#P" n="3"/>DISTINCTIONIS XLV. 
-      <lb ed="#P" n="4"/>QVAESTIO VNICA 
-      <lb ed="#P" n="5"/>Vtrum voluntas diuina conuenienter
-      di<lb ed="#P" n="6" break="no"/>stinguatur in voluntatem signi, 
-      <lb ed="#P" n="7"/>&amp; beneplaciti.
-    </p>
-            <p xml:id="gsX5tY-d1e1131-d1e128">
-               <lb ed="#P" n="8"/>VIDETVR primo quod non, quia 
-      <lb ed="#P" n="9"/>vvoluntas signi aut significat
-      ip<lb ed="#P" n="10" break="no"/>summet diuinum beneplacitum, aut aliquid 
-      <lb ed="#P" n="11"/>aliud; si dicatur quod significat ipsummet di 
-      <lb ed="#P" n="12"/>uinum beneplacitum, non est distincta
-      vo<lb ed="#P" n="13" break="no"/>luntas ab eo, si vero significet aliquid aliud,  
-      <lb ed="#P" n="14"/>tunc istud membrum non congruet diuinae 
-      <lb ed="#P" n="15"/>voluntati, quapropter videtur nullo modo 
-      <lb ed="#P" n="16"/>dicta distinctio conueniens 
-    </p>
-            <p xml:id="gsX5tY-d1e1131-d1e151">
-               <lb ed="#P" n="17"/>INOPPOSITVM est Magister in litera. 
-      <lb ed="#P" n="18"/>RESPONDEO ad istam quaestionem 
-      <lb ed="#P" n="19"/>breuiter dicens, quod dicta distinctio est con 
-      <lb ed="#P" n="20"/>ueniens praemitto tamen quid sit intelligen 
-      <lb ed="#P" n="21"/>dum per voluntatem signi, &amp; beneplaciti; 
-      <lb ed="#P" n="22"/>per voluntatem ergo beneplaciti nil aliud
-      in<lb ed="#P" n="23" break="no"/>telligo, nisi ipsum beneplacitum, prout est 
-      <lb ed="#P" n="24"/>idem quod diuinum velle aeternum, &amp;
-      im<lb ed="#P" n="25" break="no"/>mutabile; per voluntatem vero signi
-      intelli<lb ed="#P" n="26" break="no"/>go omne signum exterius exhibitum, vel
-      pre<lb ed="#P" n="27" break="no"/>ceptum ad manifestationem diuini
-      benepla<lb ed="#P" n="28" break="no"/>citi, siue veraciter manifestet, siue praetendat 
-      <lb ed="#P" n="29"/>se illud manifestare. 
-    </p>
-            <p xml:id="gsX5tY-d1e1131-d1e182">
-               <lb ed="#P" n="30"/>Hoc praemisso statim apparet quod dicta 
-      <lb ed="#P" n="31"/>distinctio est conueniens; nam videmus in 
-      <lb ed="#P" n="32"/>nobis, quod non solum actus volitionis
-      in<lb ed="#P" n="33" break="no"/>terior appellatur nostra voluntas, sed etiam  
-      <lb ed="#P" n="34"/>ipsum signum exterius exhibitum indicans 
-      <lb ed="#P" n="35"/>talem actum: quapropter consueuimus
-      di<lb ed="#P" n="36" break="no"/>cere quod mandatum Praelati exterius
-      pro<lb ed="#P" n="37" break="no"/>latum, vel scriptum est sua voluntas, quod 
-      <lb ed="#P" n="38"/>non est propter aliud, nisi quia indicat actu 
-      <lb ed="#P" n="39"/>volitionis intrinsecum, &amp; eodem modo con 
-      <lb ed="#P" n="40"/>sueuimus dicere, quod peritio subditi
-      exte<lb ed="#P" n="41" break="no"/>rius prolata, vel scripta est sua voluntas
-      pro<lb ed="#P" n="42" break="no"/>pter eandem causam. Quare possumus
-      con<lb ed="#P" n="43" break="no"/>uenienter vti tali distinctione in nobis dicen 
-      <lb ed="#P" n="44"/>do, quod voluntas in nobis dicitur
-      duplici<lb ed="#P" n="45" break="no"/>ter, scilicet de voluntate beneplaciti, quae non  
-      <lb ed="#P" n="46"/>est aliud quam actus volitionis, qui habet 
-      <lb ed="#P" n="47"/>voluntatem intrinsecus informare, &amp; de
-      vo<lb ed="#P" n="48" break="no"/>luntate signi quae non est aliud, quam
-      quod<lb ed="#P" n="49" break="no"/>dam signum extrinsecum, indicans exterius 
-      <lb ed="#P" n="50"/>nostram voluntatem, &amp; quia in cognitione 
-      <lb ed="#P" n="51"/>diuinorum venimus maxime per ea quae sunt 
-      <!--613.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 588 b -->
-               <lb ed="#P" n="52"/>in nobis, possumus conuenienter dictam
-      di<lb ed="#P" n="53" break="no"/>stinctionem ad diuina applicate, maxime 
-      <lb ed="#P" n="54"/>cum videamus eam sibi non repugnare, sed  
-      <lb ed="#P" n="55"/>potius conuenire, quapropter apparet quod 
-      <lb ed="#P" n="56"/>praefata distinctio ad diuina applicata conue 
-      <lb ed="#P" n="57"/>nienter assignatur. 
-    </p>
-            <p xml:id="gsX5tY-d1e1131-d1e252">
-               <lb ed="#P" n="58"/>Intelligendum tamen, quod voluntas
-      si<lb ed="#P" n="59" break="no"/>gni subdiuiditur a Magistro in quinque,
-      sci<lb ed="#P" n="60" break="no"/>licet in praeceptum, consilium, prohibitionem, 
-      <lb ed="#P" n="61"/>operationem, &amp; permissionem, quorum
-      si<lb ed="#P" n="62" break="no"/>gnorum sufficientiam, quamuis diuersi diuer 
-      <lb ed="#P" n="63"/>simode assignent, tamen videtur ad praesens 
-      <lb ed="#P" n="64"/>sic posse assignari. 
-    </p>
-            <p xml:id="gsX5tY-d1e1131-d1e270">
-               <lb ed="#P" n="65"/>Dicimus enim quod omne signum
-      indi<lb ed="#P" n="66" break="no"/>catiuum diuinae voluntatis, vel indicat eam, 
-      <lb ed="#P" n="67"/>vt ad bonum promouendum, vel indicat eam, 
-      <lb ed="#P" n="68"/>vt ex malo bonum elicientem, si ergo indicat 
-      <lb ed="#P" n="69"/>eam vt ex malo bonum elicientem, sic
-      habe<lb ed="#P" n="70" break="no"/>mus vnum signum, &amp; est permissio, nam
-      di<lb ed="#P" n="71" break="no"/>uina permissio, qua permittit malum, est
-      si<lb ed="#P" n="72" break="no"/>gnum suae omnipotentis voluntatis, qua
-      po<lb ed="#P" n="73" break="no"/>test ex malo bonum elicere; si autem signum 
-      <lb ed="#P" n="74"/>indicet diuinam voluntatem, vt ad bonum 
-      <lb ed="#P" n="75"/>promouentem, hoc potest esse dupliciter,  
-      <lb ed="#P" n="76"/>quia vel indicat diuinam voluntatem
-      pro<lb ed="#P" n="77" break="no"/>mouentem ad bonum retrahendo a malo, &amp;  
-      <lb ed="#P" n="78"/>sic est aliud signum, quod vocatur
-      prohibi<lb ed="#P" n="79" break="no"/>tio, vel indicat diuinam voluntatem directe 
-      <lb ed="#P" n="80"/>dirigentem ad bonum, &amp; h c potest esse
-      tri<lb ed="#P" n="81" break="no"/>pliciter, secundum quoc diuina voluntas 
-      <lb ed="#P" n="82"/>tripliciter potest nos ad bonum dirigere, vno 
-      <lb ed="#P" n="83"/>modo proponendo nobis ea, quae sunt nostrae 
-      <lb ed="#P" n="84"/>saluti necessaria, &amp; hoc facit per praeceptum; 
-      <lb ed="#P" n="85"/>alio modo proponendo nobis ea, quae sunt ad 
-      <lb ed="#P" n="86"/>nostram salutem conferentia, &amp; hoc facit per 
-      <lb ed="#P" n="87"/>consilium; Tertio modo operando in nobis 
-      <lb ed="#P" n="88"/>bonum, &amp; hoc facit per operationem. Patet 
-      <lb ed="#P" n="89"/>igitur quid sit dicedum ad hanc quaestionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e1131-d1e327">
-               <lb ed="#P" n="90"/>AD Rationem in oppositum dico, quod prae 
-      <lb ed="#P" n="91"/>fata distinctio est conueniens, siue voluntas 
-      <lb ed="#P" n="92"/>signi directe significet ipsum diuinum
-      bene<lb ed="#P" n="93" break="no"/>placitum, siue praetedat ipsum significare 
-      <lb ed="#P" n="94"/>quia talis distinctio non dat intelligere duas 
-      <lb ed="#P" n="95"/>voluntates, sed vnam, &amp; cadem aliter, &amp;
-      ali<lb ed="#P" n="96" break="no"/>ter acceptam.
-      <lb ed="#P" n="97"/>ti; <!-- error in image coords -->
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="588"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e1131"> <!-- l1d45q1 -->
+        <head xml:id="gsX5tY-d1e1131-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e1131-Hd1e112" type="question-title">Utrum voluntas divina convenienter distinguatur in voluntatem signi, et
+          beneplaciti.</head>
+        <p xml:id="gsX5tY-d1e1131-d1e115">
+          <lb ed="#P" n="3"/>DISTINCTIONIS XLV. 
+          <lb ed="#P" n="4"/>QVAESTIO VNICA 
+          <lb ed="#P" n="5"/>Vtrum voluntas diuina conuenienter
+          di<lb ed="#P" n="6" break="no"/>stinguatur in voluntatem signi, 
+          <lb ed="#P" n="7"/>&amp; beneplaciti.
+        </p>
+        <p xml:id="gsX5tY-d1e1131-d1e128">
+          <lb ed="#P" n="8"/>VIDETVR primo quod non, quia 
+          <lb ed="#P" n="9"/>vvoluntas signi aut significat
+          ip<lb ed="#P" n="10" break="no"/>summet diuinum beneplacitum, aut aliquid 
+          <lb ed="#P" n="11"/>aliud; si dicatur quod significat ipsummet di 
+          <lb ed="#P" n="12"/>uinum beneplacitum, non est distincta
+          vo<lb ed="#P" n="13" break="no"/>luntas ab eo, si vero significet aliquid aliud,  
+          <lb ed="#P" n="14"/>tunc istud membrum non congruet diuinae 
+          <lb ed="#P" n="15"/>voluntati, quapropter videtur nullo modo 
+          <lb ed="#P" n="16"/>dicta distinctio conueniens 
+        </p>
+        <p xml:id="gsX5tY-d1e1131-d1e151">
+          <lb ed="#P" n="17"/>INOPPOSITVM est Magister in litera. 
+          <lb ed="#P" n="18"/>RESPONDEO ad istam quaestionem 
+          <lb ed="#P" n="19"/>breuiter dicens, quod dicta distinctio est con 
+          <lb ed="#P" n="20"/>ueniens praemitto tamen quid sit intelligen 
+          <lb ed="#P" n="21"/>dum per voluntatem signi, &amp; beneplaciti; 
+          <lb ed="#P" n="22"/>per voluntatem ergo beneplaciti nil aliud
+          in<lb ed="#P" n="23" break="no"/>telligo, nisi ipsum beneplacitum, prout est 
+          <lb ed="#P" n="24"/>idem quod diuinum velle aeternum, &amp;
+          im<lb ed="#P" n="25" break="no"/>mutabile; per voluntatem vero signi
+          intelli<lb ed="#P" n="26" break="no"/>go omne signum exterius exhibitum, vel
+          pre<lb ed="#P" n="27" break="no"/>ceptum ad manifestationem diuini
+          benepla<lb ed="#P" n="28" break="no"/>citi, siue veraciter manifestet, siue praetendat 
+          <lb ed="#P" n="29"/>se illud manifestare. 
+        </p>
+        <p xml:id="gsX5tY-d1e1131-d1e182">
+          <lb ed="#P" n="30"/>Hoc praemisso statim apparet quod dicta 
+          <lb ed="#P" n="31"/>distinctio est conueniens; nam videmus in 
+          <lb ed="#P" n="32"/>nobis, quod non solum actus volitionis
+          in<lb ed="#P" n="33" break="no"/>terior appellatur nostra voluntas, sed etiam  
+          <lb ed="#P" n="34"/>ipsum signum exterius exhibitum indicans 
+          <lb ed="#P" n="35"/>talem actum: quapropter consueuimus
+          di<lb ed="#P" n="36" break="no"/>cere quod mandatum Praelati exterius
+          pro<lb ed="#P" n="37" break="no"/>latum, vel scriptum est sua voluntas, quod 
+          <lb ed="#P" n="38"/>non est propter aliud, nisi quia indicat actu 
+          <lb ed="#P" n="39"/>volitionis intrinsecum, &amp; eodem modo con 
+          <lb ed="#P" n="40"/>sueuimus dicere, quod peritio subditi
+          exte<lb ed="#P" n="41" break="no"/>rius prolata, vel scripta est sua voluntas
+          pro<lb ed="#P" n="42" break="no"/>pter eandem causam. Quare possumus
+          con<lb ed="#P" n="43" break="no"/>uenienter vti tali distinctione in nobis dicen 
+          <lb ed="#P" n="44"/>do, quod voluntas in nobis dicitur
+          duplici<lb ed="#P" n="45" break="no"/>ter, scilicet de voluntate beneplaciti, quae non  
+          <lb ed="#P" n="46"/>est aliud quam actus volitionis, qui habet 
+          <lb ed="#P" n="47"/>voluntatem intrinsecus informare, &amp; de
+          vo<lb ed="#P" n="48" break="no"/>luntate signi quae non est aliud, quam
+          quod<lb ed="#P" n="49" break="no"/>dam signum extrinsecum, indicans exterius 
+          <lb ed="#P" n="50"/>nostram voluntatem, &amp; quia in cognitione 
+          <lb ed="#P" n="51"/>diuinorum venimus maxime per ea quae sunt 
+          <!--613.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 588 b -->
+          <lb ed="#P" n="52"/>in nobis, possumus conuenienter dictam
+          di<lb ed="#P" n="53" break="no"/>stinctionem ad diuina applicate, maxime 
+          <lb ed="#P" n="54"/>cum videamus eam sibi non repugnare, sed  
+          <lb ed="#P" n="55"/>potius conuenire, quapropter apparet quod 
+          <lb ed="#P" n="56"/>praefata distinctio ad diuina applicata conue 
+          <lb ed="#P" n="57"/>nienter assignatur. 
+        </p>
+        <p xml:id="gsX5tY-d1e1131-d1e252">
+          <lb ed="#P" n="58"/>Intelligendum tamen, quod voluntas
+          si<lb ed="#P" n="59" break="no"/>gni subdiuiditur a Magistro in quinque,
+          sci<lb ed="#P" n="60" break="no"/>licet in praeceptum, consilium, prohibitionem, 
+          <lb ed="#P" n="61"/>operationem, &amp; permissionem, quorum
+          si<lb ed="#P" n="62" break="no"/>gnorum sufficientiam, quamuis diuersi diuer 
+          <lb ed="#P" n="63"/>simode assignent, tamen videtur ad praesens 
+          <lb ed="#P" n="64"/>sic posse assignari. 
+        </p>
+        <p xml:id="gsX5tY-d1e1131-d1e270">
+          <lb ed="#P" n="65"/>Dicimus enim quod omne signum
+          indi<lb ed="#P" n="66" break="no"/>catiuum diuinae voluntatis, vel indicat eam, 
+          <lb ed="#P" n="67"/>vt ad bonum promouendum, vel indicat eam, 
+          <lb ed="#P" n="68"/>vt ex malo bonum elicientem, si ergo indicat 
+          <lb ed="#P" n="69"/>eam vt ex malo bonum elicientem, sic
+          habe<lb ed="#P" n="70" break="no"/>mus vnum signum, &amp; est permissio, nam
+          di<lb ed="#P" n="71" break="no"/>uina permissio, qua permittit malum, est
+          si<lb ed="#P" n="72" break="no"/>gnum suae omnipotentis voluntatis, qua
+          po<lb ed="#P" n="73" break="no"/>test ex malo bonum elicere; si autem signum 
+          <lb ed="#P" n="74"/>indicet diuinam voluntatem, vt ad bonum 
+          <lb ed="#P" n="75"/>promouentem, hoc potest esse dupliciter,  
+          <lb ed="#P" n="76"/>quia vel indicat diuinam voluntatem
+          pro<lb ed="#P" n="77" break="no"/>mouentem ad bonum retrahendo a malo, &amp;  
+          <lb ed="#P" n="78"/>sic est aliud signum, quod vocatur
+          prohibi<lb ed="#P" n="79" break="no"/>tio, vel indicat diuinam voluntatem directe 
+          <lb ed="#P" n="80"/>dirigentem ad bonum, &amp; h c potest esse
+          tri<lb ed="#P" n="81" break="no"/>pliciter, secundum quoc diuina voluntas 
+          <lb ed="#P" n="82"/>tripliciter potest nos ad bonum dirigere, vno 
+          <lb ed="#P" n="83"/>modo proponendo nobis ea, quae sunt nostrae 
+          <lb ed="#P" n="84"/>saluti necessaria, &amp; hoc facit per praeceptum; 
+          <lb ed="#P" n="85"/>alio modo proponendo nobis ea, quae sunt ad 
+          <lb ed="#P" n="86"/>nostram salutem conferentia, &amp; hoc facit per 
+          <lb ed="#P" n="87"/>consilium; Tertio modo operando in nobis 
+          <lb ed="#P" n="88"/>bonum, &amp; hoc facit per operationem. Patet 
+          <lb ed="#P" n="89"/>igitur quid sit dicedum ad hanc quaestionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e1131-d1e327">
+          <lb ed="#P" n="90"/>AD Rationem in oppositum dico, quod prae 
+          <lb ed="#P" n="91"/>fata distinctio est conueniens, siue voluntas 
+          <lb ed="#P" n="92"/>signi directe significet ipsum diuinum
+          bene<lb ed="#P" n="93" break="no"/>placitum, siue praetedat ipsum significare 
+          <lb ed="#P" n="94"/>quia talis distinctio non dat intelligere duas 
+          <lb ed="#P" n="95"/>voluntates, sed vnam, &amp; cadem aliter, &amp;
+          ali<lb ed="#P" n="96" break="no"/>ter acceptam.
+          <lb ed="#P" n="97"/>ti; <!-- error in image coords -->
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

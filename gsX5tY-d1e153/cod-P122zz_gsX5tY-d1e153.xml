@@ -1,1216 +1,1216 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 3</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 3</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="97"/>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="97"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e153"> <!-- l1d1q3 -->
+        <head xml:id="gsX5tY-d1e153-Hd1e109">Quaestio 3</head>
+        <head xml:id="gsX5tY-d1e153-Hd1e112" type="question-title">Utrum obiectum fruitionis obiiciat se intellectui sub eadem ratione, qua
+          obiicit se voluntati ad fruendum.</head>
+        <div xml:id="gsX5tY-d1e153-Dd1e115">
+          <head xml:id="gsX5tY-d1e153-Hd1e117">Quaestio</head>
+          <p xml:id="gsX5tY-d1e153-d1e120">
+            <lb ed="#P" n="40"/>QVAESTIO TERTIA 
+            <lb ed="#P" n="41"/>Vtrum obiectum fruitionis obiiciat se
+            intel<lb ed="#P" n="42" break="no"/>lectui sub eadem ratione quia
+            obij<lb ed="#P" n="43" break="no"/>cit se voluntati ad fruendum
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e153-Dd1e132">
+          <head xml:id="gsX5tY-d1e153-Hd1e134">Rationes principales</head>
+          <p xml:id="gsX5tY-d1e153-d1e137">
+            <lb ed="#P" n="44"/>ARGVITVR AFFIRMATIVE 
+            <lb ed="#P" n="45"/>IILlis potentijs obijcitur sub eadem ratio 
+            <lb ed="#P" n="46"/>ne obiectum, quae ipsum aequaliter
+            ca<lb ed="#P" n="47" break="no"/>piunt, sed intellectus, &amp; voluntas aequaliter 
+            <lb ed="#P" n="48"/>capiunt obiectum fruitionis; ergo &amp;c. Maioi 
+            <lb ed="#P" n="49"/>est nota, nam sicut obiici subdiuersa ratione 
+            <!--122.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 97 b -->
+            <lb ed="#P" n="50"/>est causa inaequalitatis capiendi, sic
+            obijci<lb ed="#P" n="51" break="no"/>sub eadem ratione est causa aequalitatis;
+            pro<lb ed="#P" n="52" break="no"/>bo Minorem, quia actus intellectus, &amp;
+            vo<lb ed="#P" n="53" break="no"/>luntatis, cum sint potentiae aeque immateria 
+            <lb ed="#P" n="54"/>es, &amp; abstractae, aequaliter capere possunt 
+            <lb ed="#P" n="55"/>obiectum fruitionis. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e172">
+            <lb ed="#P" n="56"/>2 Si aliqua causa esset, quare obiectum 
+            <lb ed="#P" n="57"/>fruitionis non posset se obijcere huiusmodi 
+            <lb ed="#P" n="58"/>potentijs sub eadem ratione, ista esset
+            distin<lb ed="#P" n="59" break="no"/>ctio actuum, quia non videtur quod ab
+            eo<lb ed="#P" n="60" break="no"/>dem obiecto, &amp; sub eadem ratione possint 
+            <lb ed="#P" n="61"/>esse distincti actus, sed ista causa non obstat,  
+            <lb ed="#P" n="62"/>quia potest reduci distinctio horum actuum  
+            <lb ed="#P" n="63"/>sufficienter in ipsas potentias, ex eo quod
+            il<lb ed="#P" n="64" break="no"/>lis repugnat habere eundem actum, ergo
+            ob<lb ed="#P" n="65" break="no"/>iectum fruitionis se obijciet eisdem sub
+            ea<lb ed="#P" n="66" break="no"/>dem ratione. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e198">
+            <lb ed="#P" n="67"/>ARVITVRIN OPPOSITVM 
+            <lb ed="#P" n="68"/>I obiectum fruitionis se obijceret
+            huius<lb ed="#P" n="69" break="no"/> modi potentijs sub eadem ratione, tunc 
+            <lb ed="#P" n="70"/>ille essent vna potentia, quod est falsum, er- 
+            <lb ed="#P" n="71"/>go &amp;c. Falsitas est nota probatur consequen 
+            <lb ed="#P" n="72"/>tia, quia tunc nulla remaneret causa
+            distin<lb ed="#P" n="73" break="no"/>ctionis earum, non enim ratione obiecti, nec 
+            <lb ed="#P" n="74"/>ratione subiecti, cum insint eidem anime, nec 
+            <lb ed="#P" n="75"/>potest dici quod actus sint causa huius,
+            di<lb ed="#P" n="76" break="no"/>stinctionis potentiarum, quia sunt
+            posterio<lb ed="#P" n="77" break="no"/>res eis, remanebant igitur indistinctae.
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e153-Dd1e226">
+          <head xml:id="gsX5tY-d1e153-Hd1e228">Divisio quaestionis</head>
+          <p xml:id="gsX5tY-d1e153-d1e231">
+            <lb ed="#P" n="78"/>RESPONDEO; in hac quaestione tria 
+            <lb ed="#P" n="79"/>sunt videnda quae tanguntur in argumentis,  
+            <lb ed="#P" n="80"/>superius adductis. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e240">
+            <lb ed="#P" n="81"/>1 Quid intelligatur per intellectum, &amp; 
+            <lb ed="#P" n="82"/>voluntatem, quomodo se habeat ad inuicem  
+            <lb ed="#P" n="83"/>an sint aeque immateriales.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e249">
+            <lb ed="#P" n="84"/>2 An distinctio actuum dependeat a
+            po<lb ed="#P" n="85" break="no"/>tentijs vel obiectis. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e256">
+            <lb ed="#P" n="86"/>3 An obiectum fruitionis obiiciat se
+            vtri<lb ed="#P" n="87" break="no"/>que potentiae sub eadem ratione. 
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e153-Dd1e264" type="articulus">
+          <head xml:id="gsX5tY-d1e153-Hd1e266">Articulus 1</head>
+          <head xml:id="gsX5tY-d1e153-Hd1e269" type="question-title">Utrum intellectus et voluntas sint
+            potentiae aeque immateriales et abstractae</head>
+          <p xml:id="gsX5tY-d1e153-d1e272">
+            <lb ed="#P" n="88"/>ARTICVLVS PRIMVS. 
+            <lb ed="#P" n="89"/>Vtrum intellectus, &amp; voluntas sint 
+            poten<lb ed="#P" n="90" break="no"/>tiae aeque immateriales, &amp; abstractae. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e281">
+            <lb ed="#P" n="91"/>QVantum ad hunc articulum est
+            intel<lb ed="#P" n="92" break="no"/>ligendum quod per intellectum
+            in<lb ed="#P" n="93" break="no"/>telligo quandam potentiam
+            cogitati<lb ed="#P" n="94" break="no"/>uam, non arctatam in essendo ad aliquod
+            or<lb ed="#P" n="95" break="no"/>ganum corporale; quia nec est corpus, nec 
+            <lb ed="#P" n="96"/>virtus in corpore, vt patet 3. de anima, sed  
+            <lb ed="#P" n="97"/>fundatur in essentia animae, quae est imma¬ 
+            <!--123.xml-->
+            <pb ed="#P" n="98"/>
             <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e153"> <!-- l1d1q3 -->
-            <head xml:id="gsX5tY-d1e153-Hd1e109">Quaestio 3</head>
-            <head xml:id="gsX5tY-d1e153-Hd1e112" type="question-title">Utrum obiectum fruitionis obiiciat se intellectui sub eadem ratione, qua
-      obiicit se voluntati ad fruendum.</head>
-            <div xml:id="gsX5tY-d1e153-Dd1e115">
-               <head xml:id="gsX5tY-d1e153-Hd1e117">Quaestio</head>
-               <p xml:id="gsX5tY-d1e153-d1e120">
-                  <lb ed="#P" n="40"/>QVAESTIO TERTIA 
-      <lb ed="#P" n="41"/>Vtrum obiectum fruitionis obiiciat se
-      intel<lb ed="#P" n="42" break="no"/>lectui sub eadem ratione quia
-      obij<lb ed="#P" n="43" break="no"/>cit se voluntati ad fruendum
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e153-Dd1e132">
-               <head xml:id="gsX5tY-d1e153-Hd1e134">Rationes principales</head>
-               <p xml:id="gsX5tY-d1e153-d1e137">
-                  <lb ed="#P" n="44"/>ARGVITVR AFFIRMATIVE 
-      <lb ed="#P" n="45"/>IILlis potentijs obijcitur sub eadem ratio 
-      <lb ed="#P" n="46"/>ne obiectum, quae ipsum aequaliter
-      ca<lb ed="#P" n="47" break="no"/>piunt, sed intellectus, &amp; voluntas aequaliter 
-      <lb ed="#P" n="48"/>capiunt obiectum fruitionis; ergo &amp;c. Maioi 
-      <lb ed="#P" n="49"/>est nota, nam sicut obiici subdiuersa ratione 
-      <!--122.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 97 b -->
-                  <lb ed="#P" n="50"/>est causa inaequalitatis capiendi, sic
-      obijci<lb ed="#P" n="51" break="no"/>sub eadem ratione est causa aequalitatis;
-      pro<lb ed="#P" n="52" break="no"/>bo Minorem, quia actus intellectus, &amp;
-      vo<lb ed="#P" n="53" break="no"/>luntatis, cum sint potentiae aeque immateria 
-      <lb ed="#P" n="54"/>es, &amp; abstractae, aequaliter capere possunt 
-      <lb ed="#P" n="55"/>obiectum fruitionis. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e172">
-                  <lb ed="#P" n="56"/>2 Si aliqua causa esset, quare obiectum 
-      <lb ed="#P" n="57"/>fruitionis non posset se obijcere huiusmodi 
-      <lb ed="#P" n="58"/>potentijs sub eadem ratione, ista esset
-      distin<lb ed="#P" n="59" break="no"/>ctio actuum, quia non videtur quod ab
-      eo<lb ed="#P" n="60" break="no"/>dem obiecto, &amp; sub eadem ratione possint 
-      <lb ed="#P" n="61"/>esse distincti actus, sed ista causa non obstat,  
-      <lb ed="#P" n="62"/>quia potest reduci distinctio horum actuum  
-      <lb ed="#P" n="63"/>sufficienter in ipsas potentias, ex eo quod
-      il<lb ed="#P" n="64" break="no"/>lis repugnat habere eundem actum, ergo
-      ob<lb ed="#P" n="65" break="no"/>iectum fruitionis se obijciet eisdem sub
-      ea<lb ed="#P" n="66" break="no"/>dem ratione. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e198">
-                  <lb ed="#P" n="67"/>ARVITVRIN OPPOSITVM 
-      <lb ed="#P" n="68"/>I obiectum fruitionis se obijceret
-      huius<lb ed="#P" n="69" break="no"/> modi potentijs sub eadem ratione, tunc 
-      <lb ed="#P" n="70"/>ille essent vna potentia, quod est falsum, er- 
-      <lb ed="#P" n="71"/>go &amp;c. Falsitas est nota probatur consequen 
-      <lb ed="#P" n="72"/>tia, quia tunc nulla remaneret causa
-      distin<lb ed="#P" n="73" break="no"/>ctionis earum, non enim ratione obiecti, nec 
-      <lb ed="#P" n="74"/>ratione subiecti, cum insint eidem anime, nec 
-      <lb ed="#P" n="75"/>potest dici quod actus sint causa huius,
-      di<lb ed="#P" n="76" break="no"/>stinctionis potentiarum, quia sunt
-      posterio<lb ed="#P" n="77" break="no"/>res eis, remanebant igitur indistinctae.
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e153-Dd1e226">
-               <head xml:id="gsX5tY-d1e153-Hd1e228">Divisio quaestionis</head>
-               <p xml:id="gsX5tY-d1e153-d1e231">
-                  <lb ed="#P" n="78"/>RESPONDEO; in hac quaestione tria 
-      <lb ed="#P" n="79"/>sunt videnda quae tanguntur in argumentis,  
-      <lb ed="#P" n="80"/>superius adductis. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e240">
-                  <lb ed="#P" n="81"/>1 Quid intelligatur per intellectum, &amp; 
-      <lb ed="#P" n="82"/>voluntatem, quomodo se habeat ad inuicem  
-      <lb ed="#P" n="83"/>an sint aeque immateriales.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e249">
-                  <lb ed="#P" n="84"/>2 An distinctio actuum dependeat a
-      po<lb ed="#P" n="85" break="no"/>tentijs vel obiectis. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e256">
-                  <lb ed="#P" n="86"/>3 An obiectum fruitionis obiiciat se
-      vtri<lb ed="#P" n="87" break="no"/>que potentiae sub eadem ratione. 
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e153-Dd1e264" type="articulus">
-               <head xml:id="gsX5tY-d1e153-Hd1e266">Articulus 1</head>
-               <head xml:id="gsX5tY-d1e153-Hd1e269" type="question-title">Utrum intellectus et voluntas sint
-    potentiae aeque immateriales et abstractae</head>
-               <p xml:id="gsX5tY-d1e153-d1e272">
-                  <lb ed="#P" n="88"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="89"/>Vtrum intellectus, &amp; voluntas sint 
-      poten<lb ed="#P" n="90" break="no"/>tiae aeque immateriales, &amp; abstractae. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e281">
-                  <lb ed="#P" n="91"/>QVantum ad hunc articulum est
-      intel<lb ed="#P" n="92" break="no"/>ligendum quod per intellectum
-      in<lb ed="#P" n="93" break="no"/>telligo quandam potentiam
-      cogitati<lb ed="#P" n="94" break="no"/>uam, non arctatam in essendo ad aliquod
-      or<lb ed="#P" n="95" break="no"/>ganum corporale; quia nec est corpus, nec 
-      <lb ed="#P" n="96"/>virtus in corpore, vt patet 3. de anima, sed  
-      <lb ed="#P" n="97"/>fundatur in essentia animae, quae est imma¬ 
-      <!--123.xml-->
-      <pb ed="#P" n="98"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>terialis, &amp; non extensa: Vnde oportet, quod 
-      <lb ed="#P" n="2"/>intellectus sit potentia abstracta, &amp; non arcta 
-      <lb ed="#P" n="3"/>ta in essendo ad aliquod organum
-      corpora<lb ed="#P" n="4" break="no"/>le; ita &amp; per consequens quantum ad cogno 
-      <lb ed="#P" n="5"/>scere, non debet esse restricta ad aliquod ge 
-      <lb ed="#P" n="6"/>nus cognoscibilium, sicut de facto non est; 
-      <lb ed="#P" n="7"/>nam extendit se ad omne ens simpliciter, quia 
-      <lb ed="#P" n="8"/>eius obiectum adaequatum est ens
-      vniuersa<lb ed="#P" n="9" break="no"/>liter sumptum.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e325">
-                  <lb ed="#P" n="10"/>Per voluntatem vero intelligo quandam 
-      <lb ed="#P" n="11"/>potentiam appetitiuam, similiter non
-      limi<lb ed="#P" n="12" break="no"/>tatam in essendo ad aliquod organum corpo 
-      <lb ed="#P" n="13"/>rale, sed simpliciter abstractam, &amp;
-      immate<lb ed="#P" n="14" break="no"/>rialem non alligatam organo corporali, &amp;  
-      <lb ed="#P" n="15"/>ideo sicut intellectus non restringitur ad
-      ali<lb ed="#P" n="16" break="no"/>quod genus cognoscibilium; ita voluntas non 
-      <lb ed="#P" n="17"/>limitatur ad aliquod genus appetibilium. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e346">
-                  <lb ed="#P" n="18"/>Ex quo patet quomodo se habeant
-      huius<lb ed="#P" n="19" break="no"/>modi potentiae admuicem, sit onim se habet 
-      <lb ed="#P" n="20"/>voluntas ad intellectum, sicut appetitus
-      na<lb ed="#P" n="21" break="no"/>turalis ad formam naturalem, quam
-      sequi<lb ed="#P" n="22" break="no"/>tur, quia sicut quaecunque res per suum appe 
-      <lb ed="#P" n="23"/>titum naturalem tendit in illud, quod est
-      si<lb ed="#P" n="24" break="no"/>bi conueniens, &amp; refugit illud, quod est sibi 
-      <lb ed="#P" n="25"/>repugnans; ita suo modo natura intellectu. 
-      <lb ed="#P" n="26"/>&amp; voluntate praedita shomo per voluntaten 
-      <lb ed="#P" n="27"/>seu per actum voluntatis tendit in illud, quod 
-      <lb ed="#P" n="28"/>sibi proponitur tanquam conueniens, per in 
-      <lb ed="#P" n="29"/>tellectum vero refugit a contrario. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e375">
-                  <lb ed="#P" n="30"/>In hoc tamen est dissimilitudo, quia appe 
-      <lb ed="#P" n="31"/>titus naturalis non differt realiter a forma na 
-      <lb ed="#P" n="32"/>turali, quam sequitur, appetitus autem
-      intel<lb ed="#P" n="33" break="no"/>lectiuus, qui est voluntas sequens intellectum 
-      <lb ed="#P" n="34"/>differt realiter ab anima, vt patebit in 3:
-      di<lb ed="#P" n="35" break="no"/>stinctione, vel in 2 libro sent. Dato tamen 
-      <lb ed="#P" n="36"/>quod non differrent realiter ab anima, nec 
-      <lb ed="#P" n="37"/>inter se, actus tamen voluntatis differt
-      rea<lb ed="#P" n="38" break="no"/>liter ab actu intellectus, vt patet omnibus 
-      <lb ed="#P" n="39"/>Propter quod consurgit rationabilis dubita. 
-      <lb ed="#P" n="40"/>tio: quare hoc contingat, puta cum appeti 
-      <lb ed="#P" n="41"/>tus naturalis sit idem cum forma naturali,  
-      <lb ed="#P" n="42"/>quam sequitur, vnde est, quod appetitus
-      in<lb ed="#P" n="43" break="no"/>tellectiuus differat realiter ab intellectu. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e408">
-                  <lb ed="#P" n="44"/>Ad hoc possuni assignari plures causae. in 
-      <lb ed="#P" n="45"/>praesenti tamen vnam assigno; quia res natu 
-      <lb ed="#P" n="46"/>rales sufficienter determinantur ad illud quod 
-      <lb ed="#P" n="47"/>est sibi conueniens per suam formam, &amp; re- 
-      <lb ed="#P" n="48"/>fugiunt a contrario per eandem formam suffi 
-      <lb ed="#P" n="49"/>cienter; idcirco non oportet ponere in ea ali 
-      <lb ed="#P" n="50"/>quam aliam potentiam vel virtutem, quia 
-      <lb ed="#P" n="51"/>frustra fit per plura quod potest fieri per pau 
-      <lb ed="#P" n="52"/>ciora: natura autem intellectualis contrario 
-      <lb ed="#P" n="53"/>modo se habet, quia non sufficienter
-      incli<lb ed="#P" n="54" break="no"/>natur in sibi conueniens per intellectum,
-      fi<lb ed="#P" n="55" break="no"/>ue per actum eius, &amp; ideo oportet ponere in 
-      <lb ed="#P" n="56"/>ea aliam potentiam, puta voluntatem, per 
-      <lb ed="#P" n="57"/>cuius actum fiat ista inelinatio.  
-      <!--123.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 98 b -->
-                  <lb ed="#P" n="58"/>Sed quaereret aliquis, quare ista determi-l 
-      <lb ed="#P" n="59"/>natio &amp; inclinatio non possit fieri per
-      intel<lb ed="#P" n="60" break="no"/>lectum, sicut in re naturali fit per formam 
-      <lb ed="#P" n="61"/>naturalem. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e456">
-                  <lb ed="#P" n="62"/>Dico, quod forte ideo est, quia intellectus. 
-      <lb ed="#P" n="63"/>est ad opposita, forma autem naturalis est de 
-      <lb ed="#P" n="64"/>terminata ad vnum. Vel ideo est, quia intel 
-      <lb ed="#P" n="65"/>lectus ex sui natura non habet vim
-      inclina<lb ed="#P" n="66" break="no"/>tiuam, quod patet, siquidem omnis
-      inclina<lb ed="#P" n="67" break="no"/>tio incipit ab intra, &amp; terminatur per modum 
-      <lb ed="#P" n="68"/>complementi in aliquo extrinseco, actus aut 
-      <lb ed="#P" n="69"/>intellectus e contrario videtur incipere ab 
-      <lb ed="#P" n="70"/>extrinseco, &amp; terminari per modum comple 
-      <lb ed="#P" n="71"/>menti in ipso intellectu, ideo oportet ponero 
-      <lb ed="#P" n="72"/>aliam potentiam eius actus, quae habeat vim 
-      <lb ed="#P" n="73"/>inclinatiuam, sicut est voluntas, cuius
-      obie<lb ed="#P" n="74" break="no"/>ctum est bonum in rebus extra animam
-      exi<lb ed="#P" n="75" break="no"/>stens, vt patet 8. Metaph vnde in volendo 
-      <lb ed="#P" n="76"/>est motus animae ad res; sic ergo patet quid 
-      <lb ed="#P" n="77"/>intelligam per intellectum, &amp; voluntatem, 
-      <lb ed="#P" n="78"/>&amp; quomodo sint aeque immateriales, licet 
-      <lb ed="#P" n="79"/>voluntas, quia coniungitur rebus materiali 
-      <lb ed="#P" n="80"/>bus, videatur minus abstracta, &amp; tandem quo 
-      <lb ed="#P" n="81"/>modo se habeant adinuicem 
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e153-Dd1e503" type="articulus">
-               <head xml:id="gsX5tY-d1e153-Hd1e505">Articulus 2</head>
-               <head xml:id="gsX5tY-d1e153-Hd1e508" type="question-title">Utrum distinctio actuum sit a potentiis vel ab obiectis</head>
-               <p xml:id="gsX5tY-d1e153-d1e511">
-                  <lb ed="#P" n="82"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="83"/>Vtrum distinctio actuum sit a potentijs 
-      <lb ed="#P" n="84"/>vel ab obiectis. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e520">
-                  <lb ed="#P" n="85"/>AD euidentiam huius articuli est
-      inte<lb ed="#P" n="86" break="no"/>ligendum quod in actibus animae, de 
-      <lb ed="#P" n="87"/>quibus modo quaerimus, consurgit distinctis 
-      <lb ed="#P" n="88"/>quadrimembris. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e531">
-                  <lb ed="#P" n="89"/>Primo secundum genus remotum, secun 
-      <lb ed="#P" n="90"/>dum quod possumus dicere, quod actus, qui 
-      <lb ed="#P" n="91"/>est intelligere, distinguatur a sentire, aut a 
-      <lb ed="#P" n="92"/>velle : Voco autem hanc distinctionem
-      se<lb ed="#P" n="93" break="no"/>cundum genus remotum, non quod
-      huius<lb ed="#P" n="94" break="no"/>modi actus non sint in eodem
-      praedicamen<lb ed="#P" n="95" break="no"/>to, sed quia habent maximam distinctionem, 
-      <lb ed="#P" n="96"/>quae potest esse inter actus animae, vt patet 
-      <lb ed="#P" n="97"/>cuilibet intuenti. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e554">
-                  <lb ed="#P" n="98"/>Secundo modo distinguuntur actus
-      ani<lb ed="#P" n="99" break="no"/>mae pene genus propinquum, sicut actus 
-      <lb ed="#P" n="100"/>vnius potentiae potest esse distinctus ab actu 
-      <lb ed="#P" n="101"/>eiusdem potentiae, dummodo illi actus sint 
-      <lb ed="#P" n="102"/>ad obiecta diuersorum generum; puta actus 
-      <lb ed="#P" n="103"/>intelligendi colores, ab actu intelligendi sa 
-      <lb ed="#P" n="104"/>pores: Voco istam distinctionem secundum 
-      <lb ed="#P" n="105"/>genus propinquum: quia non est ita magna 
-      <lb ed="#P" n="106"/>sicut prima; est tamen maior quam speci¬ 
-      <!--124.xml-->
-      <pb ed="#P" n="99"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>fica, vt patet, magis enim differt actus intel 
-      <lb ed="#P" n="2"/>ligendi colorem ab actu intelligendi saporem, 
-      <lb ed="#P" n="3"/>quam actus intelligendi colorem rubeum ab 
-      <lb ed="#P" n="4"/>actu intelligendi colorem nigrum, quae ess 
-      <lb ed="#P" n="5"/>distinctio specifica. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e593">
-                  <lb ed="#P" n="6"/>Tertio modo inuenimus distinctionem in 
-      <lb ed="#P" n="7"/>actibus animae secundum speciem, vt iam ta 
-      <lb ed="#P" n="8"/>ctum est, puta quia actus intelligendi album 
-      <lb ed="#P" n="9"/>differt specie ab actu intelligendi nigrum, 
-      <lb ed="#P" n="10"/>quod patet, magis enim differunt isti actus, 
-      <lb ed="#P" n="11"/>qui sunt respectu diuersorum obiectorum se 
-      <lb ed="#P" n="12"/>cundum speciem, quam illi, qui sunt
-      respe<lb ed="#P" n="13" break="no"/>ctu obiecti eiusdem speciei; sed illi differunt 
-      <lb ed="#P" n="14"/>numero; ergo &amp;c. Quod autem illi differant 
-      <lb ed="#P" n="15"/>numero, patebit inferius. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e617">
-                  <lb ed="#P" n="16"/>Quarto distinguuntur actus animae secun 
-      <lb ed="#P" n="17"/>dum numerum, vt iam dictum est, quia actus 
-      <lb ed="#P" n="18"/>intelligendi album in isto tempore differt nu 
-      <lb ed="#P" n="19"/>mero ab actu intelligendi album in alio tem 
-      <lb ed="#P" n="20"/>pore; nam cum isti actus habeant aliquam 
-      <lb ed="#P" n="21"/>distinctionem, vel habent specificam, vel 
-      <lb ed="#P" n="22"/>numeralem, non specificam, quia sunt in
-      ea<lb ed="#P" n="23" break="no"/>dem potentia, &amp; respectu eiusdem cbiecti 
-      <lb ed="#P" n="24"/>specifici; ergo habebunt distinctionem
-      nu<lb ed="#P" n="25" break="no"/>meralem. lsti ergo sunt quatuor
-      principa<lb ed="#P" n="26" break="no"/>les modi distinctionis in actibus animae, ad 
-      <lb ed="#P" n="27"/>quos omnes alij reducuntur, 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e646">
-                  <lb ed="#P" n="28"/>Cum ergo quaeritur an distinctio actuum  
-      <lb ed="#P" n="29"/>sit a potentijs, vel ab obiectis. Respondeo 
-      <lb ed="#P" n="30"/>quod si quaeratur primo modo, eorum distin 
-      <lb ed="#P" n="31"/>ctio est per obiecta, &amp; potentias; aliter tamen, 
-      <lb ed="#P" n="32"/>&amp; aliter; distinguuntur n. huiusmodi actus 
-      <lb ed="#P" n="33"/>secundum genus remotum, &amp; etiam
-      secun<lb ed="#P" n="34" break="no"/>dum speciem, quia maior distinctio
-      inclu<lb ed="#P" n="35" break="no"/>dit minorem, quatenus ergo specie
-      distin<lb ed="#P" n="36" break="no"/>guuntur, distinctio eorum est per obiecta, 
-      <lb ed="#P" n="37"/>in quantum vero distinguuntur genere
-      re<lb ed="#P" n="38" break="no"/>moto, sic distinguuntur per potentias. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e672">
-                  <lb ed="#P" n="39"/>Primum probo sic: Distinctio specifica ho 
-      <lb ed="#P" n="40"/>rum actuum non est per ipsosmet actus; quia 
-      <lb ed="#P" n="41"/>si sufficienter essent distincti seipsis, tunc re 
-      <lb ed="#P" n="42"/>mota quacunque distinctione remanerent
-      di<lb ed="#P" n="43" break="no"/>stincti, quod est falsum, quia si ponatur per 
-      <lb ed="#P" n="44"/>impossibile, quod anima vnicam habeat
-      po<lb ed="#P" n="45" break="no"/>tentiam secundum speciem, quae habeat
-      v<lb ed="#P" n="46" break="no"/>num obiectum specificum, tunc nullus
-      di<lb ed="#P" n="47" break="no"/>ceret, quod actus animae essent distincti
-      se<lb ed="#P" n="48" break="no"/>cundum speciem; sic enim vna potentia
-      re<lb ed="#P" n="49" break="no"/>spectu eiusdem obiecti posset habere omnes 
-      <lb ed="#P" n="50"/>illos actus, quos habent modo singulae poten 
-      <lb ed="#P" n="51"/>tiae respectu singulorum obiectorum, quod 
-      <lb ed="#P" n="52"/>est absurdum: Vel eadem potentia posset ha 
-      <lb ed="#P" n="53"/>bere distinctos actus specle, respectu illius 
-      <lb ed="#P" n="54"/>obiecti; sicut nunc habet respectu
-      diuerso<lb ed="#P" n="55" break="no"/>rum, quod est falsum: Non ergo
-      distinguum<lb ed="#P" n="56" break="no"/>tur se ipsis actus, sed eorum distinctio spe 
-      <lb ed="#P" n="57"/>cifica necessario est reducenda, vel in poten 
-      <!--124.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 99 b -->
-                  <lb ed="#P" n="58"/>tias, vel in obiecta. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e724">
-                  <lb ed="#P" n="59"/>Probo autem quod non reducatur in
-      po<lb ed="#P" n="60" break="no"/>tentias, quia sequeretur, quod omnes actus 
-      <lb ed="#P" n="61"/>eiusdem potentiae essent eiusdem speciei, quod 
-      <lb ed="#P" n="62"/>est falsum, vt superius est ostensum:
-      sequi<lb ed="#P" n="63" break="no"/>tur ergo per locum a diuisione, quod distin 
-      <lb ed="#P" n="64"/>ctio specifica actuum reducatur in obiecta, 
-      <lb ed="#P" n="65"/>seu in formales rationes obiectorum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e743">
-                  <lb ed="#P" n="66"/>Praeterea quod est causa plurificationis 
-      <lb ed="#P" n="67"/>specificae in actibus, est etiam causa eorum 
-      <lb ed="#P" n="68"/>specificae distinctionis;, sed obiecta sunt huius 
-      <lb ed="#P" n="69"/>modi; ergo &amp;c. Maior patet, quia causa plu 
-      <lb ed="#P" n="70"/>rificationis est etiam causa distinctionis
-      ali<lb ed="#P" n="71" break="no"/>quorum; Minor est etiam nota: Videmus 
-      <lb ed="#P" n="72"/>enim quod actus specie distincti
-      numeran<lb ed="#P" n="73" break="no"/>tur secundum numerum obiectorum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e763">
-                  <lb ed="#P" n="74"/>Vlterius ad idem sicut se habet motus ad 
-      <lb ed="#P" n="75"/>terminum, ita actus ad obiectum, sed motus 
-      <lb ed="#P" n="76"/>distinguuntur specifice ab ipsis terminis; ergo 
-      <lb ed="#P" n="77"/>&amp; actus ab obiectis; Minor patet ex 5.
-      phy<lb ed="#P" n="78" break="no"/>sicorum, &amp; probo Maiorem, quia sicut
-      mo<lb ed="#P" n="79" break="no"/>tus est quaedam assecutio termini, ita actus 
-      <lb ed="#P" n="80"/>est quaedam assecutio obiecti. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e781">
-                  <lb ed="#P" n="81"/>Nec obstat si dicatur, quod haec
-      similitu<lb ed="#P" n="82" break="no"/>do non valet: quia motus non differt
-      reali<lb ed="#P" n="83" break="no"/>ter a termino, sicut actus ab obiecto, quia
-      si<lb ed="#P" n="84" break="no"/>militudo non debet tenere per omnia, suffi 
-      <lb ed="#P" n="85"/>cit enim in proposito, quod motus, licet non 
-      <lb ed="#P" n="86"/>differat realiter a termino, specificetur, &amp;  
-      <lb ed="#P" n="87"/>plurificetur, secundum plurificationem
-      ter<lb ed="#P" n="88" break="no"/>minorum, vltra quod aliqui ponunt motum 
-      <lb ed="#P" n="89"/>differre realiter a termino. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e803">
-                  <lb ed="#P" n="90"/>Iterum: Actus specificantur, &amp; distinguum 
-      <lb ed="#P" n="91"/>tur per illa, quibus maxime assimilantur, &amp; 
-      <lb ed="#P" n="92"/>ad quae habent essentialem ordinem; haec 
-      <lb ed="#P" n="93"/>sunt obiecta; ergo &amp;c. Minor est euidens, &amp;  
-      <lb ed="#P" n="94"/>probo Maiorem, nam actus animae cum sini 
-      <lb ed="#P" n="95"/>accidentia fluxibilia non sunt ex se in rerum 
-      <lb ed="#P" n="96"/>natura: sed per obiecta, sicut ergo non
-      ha<lb ed="#P" n="97" break="no"/>bent esse per se; ita nec possunt per se
-      suffi<lb ed="#P" n="98" break="no"/>cienter distingui, oportet ergo quod
-      distin<lb ed="#P" n="99" break="no"/>guantur per illa, quibus assimilantur, &amp; a 
-      <lb ed="#P" n="100"/>quibus essentialiter dependent, quae sunt ob 
-      <lb ed="#P" n="101"/>iecta. Concludo ergo quod distinctio
-      speci<lb ed="#P" n="102" break="no"/>fica quorumcunque actuum est ab obiectis 
-      <lb ed="#P" n="103"/>Non nego tamen, quod actus etiam se ipsis 
-      <lb ed="#P" n="104"/>distinguantur formaliter, &amp; intrinsece, sed  
-      <lb ed="#P" n="105"/>dico, quod haec distinctio intrinseca non est 
-      <lb ed="#P" n="106"/>sufficiens, &amp; requiritur alia extrinseca
-      sci<lb ed="#P" n="107" break="no"/>licet obiectorum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e845">
-                  <lb ed="#P" n="108"/>Hoc explicato, declaro modo secundum 
-      <lb ed="#P" n="109"/>quod huiusmodi actus in quantum
-      distin<lb ed="#P" n="110" break="no"/>guuntur genere remoto, eorum distinctio sit 
-      <lb ed="#P" n="111"/>a potentijs sumenda, quod patet ex duobus; 
-      <lb ed="#P" n="112"/>primo: quia videmus in quibuslibet alijs 
-      <lb ed="#P" n="113"/>quod distinctio secundum genus subiicibile 
-      <lb ed="#P" n="114"/>est causa distinctionis eorum secundum ge¬ 
-      <!--125.xml-->
-      <pb ed="#P" n="100"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>nus praedicabile, vt patet in coloribus, &amp;  
-      <lb ed="#P" n="2"/>saporibus; sic erit in proposito, quod
-      di<lb ed="#P" n="3" break="no"/>stinctio actuum secundum potentias, quam 
-      <lb ed="#P" n="4"/>sunt quasi eorum genus subiicibile, erit
-      cau<lb ed="#P" n="5" break="no"/>sa eorundem, secundum genus praedicabile 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e880">
-                  <lb ed="#P" n="6"/>Secundo, quia videmus, quod praefati
-      a<lb ed="#P" n="7" break="no"/>ctus magis distinguuntur penes potentias,  
-      <lb ed="#P" n="8"/>quam penes obiecta, si enim accipiamus
-      in<lb ed="#P" n="9" break="no"/>telligere, &amp; velle, siuae intelligere, &amp; sentire, 
-      <lb ed="#P" n="10"/>patet, quod huiusmodi actus distinguuntur 
-      <lb ed="#P" n="11"/>genere remoto, vt supra dictum est: Constat 
-      <lb ed="#P" n="12"/>autem, quod isti actus tantam habent
-      distin<lb ed="#P" n="13" break="no"/>ctionem, quantum ad potentias, quod tamen 
-      <lb ed="#P" n="14"/>possunt esse actus vnius obiecti; nam vnum, 
-      <lb ed="#P" n="15"/>&amp; eandem rem possumus intelligere, sentire 
-      <lb ed="#P" n="16"/>&amp; velle: Distinctio ergo ista cum sit maior,  
-      <lb ed="#P" n="17"/>&amp; principaliter illa, quam habent ab
-      obie<lb ed="#P" n="18" break="no"/>ctis, debet reduci tanquam in causam in
-      ip<lb ed="#P" n="19" break="no"/>sus potentias, per quas maxime
-      distinguun<lb ed="#P" n="20" break="no"/>tur secundum genus. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e916">
-                  <lb ed="#P" n="21"/>Si autem quaeratur de actibus, prout
-      se<lb ed="#P" n="22" break="no"/>cundo modo distinguuntur, puta genere pro 
-      <lb ed="#P" n="23"/>pinquo, sicut sunt actus intelligendi colores 
-      <lb ed="#P" n="24"/>&amp; sapores; sic etiam dico quod
-      distinguun<lb ed="#P" n="25" break="no"/>tur per obiecta, &amp; per potentias; principalius 
-      <lb ed="#P" n="26"/>tamen per obiecta, &amp; quantum ad species, &amp;  
-      <lb ed="#P" n="27"/>quantum ad genus: Quod autem huiusmodi 
-      <lb ed="#P" n="28"/>actus quoad species principalius distinguan 
-      <lb ed="#P" n="29"/>tur per obiecta, quam per potentias, non 
-      <lb ed="#P" n="30"/>oportet probare, quia ostensum est esse
-      ve<lb ed="#P" n="31" break="no"/>rum in omnibus actibus, sed quod
-      principa<lb ed="#P" n="32" break="no"/>lius distinguantur per obiecta, quantum  
-      <lb ed="#P" n="33"/>ad genus probo tali ratione
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e947">
-                  <lb ed="#P" n="34"/>Per illa principalius distinguuntur generice 
-      <lb ed="#P" n="35"/>huiusmodi actus, per quae magis apparent di 
-      <lb ed="#P" n="36"/>stincti; sed apparent magis distincti; per obie 
-      <lb ed="#P" n="37"/>cta, quam per potentias; ergo &amp;c. Maior
-      pa<lb ed="#P" n="38" break="no"/>tet, quia apparentia maioris distinctionis
-      es<lb ed="#P" n="39" break="no"/>set falsa, si non esset causa principalis illius 
-      <lb ed="#P" n="40"/>distinctionis, probatur Minor, videmus enim 
-      <lb ed="#P" n="41"/>quod praefati actus intelligendi sapores, &amp;  
-      <lb ed="#P" n="42"/>colores tantam distinctionem habent
-      respe<lb ed="#P" n="43" break="no"/>ctu obiectorum, quod nullo modo
-      pos<lb ed="#P" n="44" break="no"/>sunt esse de eodem obiecto, quamuis
-      pos<lb ed="#P" n="45" break="no"/>sint esse, &amp; de facto sint ab eadem potentia; 
-      <lb ed="#P" n="46"/>ergo principalius est reducenda haec
-      distin<lb ed="#P" n="47" break="no"/>ctio in obiecta, quam in potentias. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e980">
-                  <lb ed="#P" n="48"/>Dico tamen vlterius, quod aliquo modo 
-      <lb ed="#P" n="49"/>concurrunt potentiae adhanc distinctionem; 
-      <lb ed="#P" n="50"/>nam quamuis vna, &amp; eadem potentia sit
-      ali<lb ed="#P" n="51" break="no"/>quando sub actu intelligendi colores, &amp;
-      ali<lb ed="#P" n="52" break="no"/>quando sub actu intelligendi sapores, non ta 
-      <lb ed="#P" n="53"/>men sub eadem ratione, nec eodem modo 
-      <lb ed="#P" n="54"/>fit sub vtroque actu, quia non est possibile 
-      <lb ed="#P" n="55"/>quod idem subiectum subiiciatur diuersis
-      a<lb ed="#P" n="56" break="no"/>ctibus secundum genus, vel secundum
-      spe<lb ed="#P" n="57" break="no"/>ciem secundum eandem potentiam: Vide¬ 
-      <!--125.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 100 b -->
-                  <lb ed="#P" n="58"/>mus namque quod idem corpus quandom 
-      <lb ed="#P" n="59"/>est sub sanitate, quandou; sub infirmitate, non 
-      <lb ed="#P" n="60"/>tamen secundum eandem rationem
-      poten<lb ed="#P" n="61" break="no"/>tiae; Vnde dicit Aristo 3. physicorum, quod, si 
-      <lb ed="#P" n="62"/>potentia ad sanitatem, &amp; infirmitatem essei 
-      <lb ed="#P" n="63"/>eadem, etiam sanitas, &amp; infirmitas essent idem; 
-      <lb ed="#P" n="64"/>sic ergo possumus arguere in pposito, quod 
-      <lb ed="#P" n="65"/>si intellectus fieret sub istis actibus secundum 
-      <lb ed="#P" n="66"/>eandem rationem potentiae, isti actus essent 
-      <lb ed="#P" n="67"/>idem, &amp; sic patet quomodo principalius
-      re<lb ed="#P" n="68" break="no"/>ducantur in obiecta. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1035">
-                  <lb ed="#P" n="69"/>Si autem quaeratur de actibus tertio
-      mo<lb ed="#P" n="70" break="no"/>do distinctis puta secundum speciem dico,  
-      <lb ed="#P" n="71"/>quod distinguuntur per obiecta, &amp; aliquo 
-      <lb ed="#P" n="72"/>modo per potentias; &amp; hoc patet per iam
-      di<lb ed="#P" n="73" break="no"/>cta, quia quamuis idem subiectum fiat sub 
-      <lb ed="#P" n="74"/>diuersis actibus genere vel specle, non
-      ta<lb ed="#P" n="75" break="no"/>men fit sub eis secundum eandem rationem 
-      <lb ed="#P" n="76"/>potentiae; ideo sequitur aliqua distinctio
-      in<lb ed="#P" n="77" break="no"/>ter illos ex parte potentiae. Quod autem prin 
-      <lb ed="#P" n="78"/>cipalius distinguantur per obiecta patet, tum 
-      <lb ed="#P" n="79"/>quia haec distinctio est specifica tantum, quae 
-      <lb ed="#P" n="80"/>simpliciter causatur ab obiectis, vt probatum 
-      <lb ed="#P" n="81"/>fuit superius, tum quia per obiecta apparent 
-      <lb ed="#P" n="82"/>euidenter distincti, cum non possint esse
-      re<lb ed="#P" n="83" break="no"/>spectu eiusdem obiecti specifici, &amp; tamen 
-      <lb ed="#P" n="84"/>possunt esse eiusdem potenriae specificae, &amp;  
-      <lb ed="#P" n="85"/>numeraliter acceptae.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1074">
-                  <lb ed="#P" n="86"/>Si tandem quaeratur de, actibus distinctis 
-      <lb ed="#P" n="87"/>quarto modo scilicet secundum numerum 
-      <lb ed="#P" n="88"/>sic dico absolute, quod potentia est causa
-      il<lb ed="#P" n="89" break="no"/>lius distinctionis connotando tamen aliquid 
-      <lb ed="#P" n="90"/>extrinsecum ratione cuius interrumpitur quam 
-      <lb ed="#P" n="91"/>doque actus, quod patet, nam quod faciunt di 
-      <lb ed="#P" n="92"/>uersi intellectus in eodem tempore, hoc
-      po<lb ed="#P" n="93" break="no"/>test facere vnus in alio, &amp; alio tempore, sed  
-      <lb ed="#P" n="94"/>diuersi intellectus sufficiunt ad distinctionem 
-      <lb ed="#P" n="95"/>numeralem actuum respectu eiusdem albi, 
-      <lb ed="#P" n="96"/>&amp; in eodem tempore; ergo &amp;c.Ex quo appa 
-      <lb ed="#P" n="97"/>ret immediate, quod distinctio numeralis 
-      <lb ed="#P" n="98"/>actuum potest prouenire ex parte potentiae 
-      <lb ed="#P" n="99"/>duobus modis; vno modo si feratur in idem 
-      <lb ed="#P" n="100"/>obiectum alio, &amp; alio tempore, alio modo si 
-      <lb ed="#P" n="101"/>diuersae potentiae, solum numero differentes,  
-      <lb ed="#P" n="102"/>ferantur in idem obiectum. Similiter posset 
-      <lb ed="#P" n="103"/>etiam prouenire haec distinctio ex parte
-      ob<lb ed="#P" n="104" break="no"/>iectorum duobus alijs modis, puta si vnus
-      in<lb ed="#P" n="105" break="no"/>tellectus posset simul intelligere duo alba di 
-      <lb ed="#P" n="106"/>uersis actibus, sicut forte aliqui dicerent, alio 
-      <lb ed="#P" n="107"/>modo si duo intellectus intelligant idem
-      al<lb ed="#P" n="108" break="no"/>bum, duo ergo concurrent simul ad 
-      <lb ed="#P" n="109"/>illam distinctionem numeralem; 
-      <lb ed="#P" n="110"/>potentia scilicet, &amp; obiectum; 
-      <lb ed="#P" n="111"/>sic ergo patet quid
-      di<lb ed="#P" n="112" break="no"/>cedum sit ad hoc 
-      <lb ed="#P" n="113"/>quaesitum.
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e153-Dd1e1138" type="articulus">
-               <head xml:id="gsX5tY-d1e153-Hd1e1140">Articulus 3</head>
-               <head xml:id="gsX5tY-d1e153-Hd1e1143" type="question-title">An obiectum fruitionis obiciat se voluntati 
-      ad fruendum et intellectu ad videndum sub eadem ratione.</head>
-               <p xml:id="gsX5tY-d1e153-d1e1146">
-      <!--126.xml-->
-                  <pb ed="#P" n="101"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>ARTICVLVS TERTIVS. 
-      <lb ed="#P" n="2"/>An obiectum fruitionis obiiciat se voluntati 
-      <lb ed="#P" n="3"/>ad fruendum, &amp; intellectui ad
-      viden<lb ed="#P" n="4" break="no"/>dum sub eadem ratione.
-      <lb ed="#P" n="5"/>conesim ilexodo¬ei tmonoMIvi <!-- possible erroneous line -->
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1168">
-                  <lb ed="#P" n="6"/>AD hoc dicunt aliqui, quod se
-      obij<lb ed="#P" n="7" break="no"/> ciat necessario sub alia, &amp; alia ratione 
-      <lb ed="#P" n="8"/>formali; nam si obiiceret se sub eadem
-      ra<lb ed="#P" n="9" break="no"/>tione formali, non videretur quomodo
-      cau<lb ed="#P" n="10" break="no"/>saret distinctos actus in his potentijs; Volunt 
-      <lb ed="#P" n="11"/>ergo, quod eadem res materialiter sit
-      obie<lb ed="#P" n="12" break="no"/>ctum intellectus, &amp; voluntatis, sub diuersa 
-      <lb ed="#P" n="13"/>rone formali, &amp; hoc sufficit eis ad saluandum 
-      <lb ed="#P" n="14"/>distinctionem in actibus propter duo; primo 
-      <lb ed="#P" n="15"/>quia non oporteret dare tantam
-      diuersita<lb ed="#P" n="16" break="no"/>tem in principijs, quanta est in principiatis. 
-      <lb ed="#P" n="17"/>secundo, quia actus non distinguuntur per 
-      <lb ed="#P" n="18"/>illud, quod est materiale in obiecto, sed per 
-      <lb ed="#P" n="19"/>illud, quod est formale, &amp; quia haec
-      posi<lb ed="#P" n="20" break="no"/>tio videtur fuisse satis communis; ideo confir 
-      <lb ed="#P" n="21"/>mo illam tali ratione Sicut se habet potentia 
-      <lb ed="#P" n="22"/>ad actus, ita actus ad obiecta, sed duae poten 
-      <lb ed="#P" n="23"/>tiae non possunt habere eundem actum; ergo 
-      <lb ed="#P" n="24"/>duo actus, nequeunt habere formaliter idem 
-      <lb ed="#P" n="25"/>obiectum; Maior est nota, quia actus sunt
-      fi<lb ed="#P" n="26" break="no"/>nes potentiarum, &amp; actuum fines, sunt
-      obie<lb ed="#P" n="27" break="no"/>cta: Minor conceditur ab omnibus 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1218">
-                  <lb ed="#P" n="28"/>Nec obstat si dicatur, quod stante hac pro 
-      <lb ed="#P" n="29"/>portione sicut duae potentiae nulio modo 
-      <lb ed="#P" n="30"/>possunt habere eundem actum realiter; ita 
-      <lb ed="#P" n="31"/>nec duo actus poterunt habere idem obiectum 
-      <lb ed="#P" n="32"/>realiter, quod est falsum: Quia dicerent illi 
-      <lb ed="#P" n="33"/>quod non est omnino simile, siquidem actu 
-      <lb ed="#P" n="34"/>ita sunt fines potentiarum, quod non sunt 
-      <lb ed="#P" n="35"/>principia earum, obiecta autem ita sunt sines 
-      <lb ed="#P" n="36"/>actuum, quod etiam sunt principia, nunc
-      au<lb ed="#P" n="37" break="no"/>tem non oportet dare tantam diuersitatem 
-      <lb ed="#P" n="38"/>in principijs, quantam in principiatis, vt
-      di<lb ed="#P" n="39" break="no"/>ctum fuit, propter quod stante sola diuersita 
-      <lb ed="#P" n="40"/>te rationis, in obiecto poterit esse diuersitas 
-      <lb ed="#P" n="41"/>tealis in actibus.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1252">
-                  <lb ed="#P" n="42"/>Contra hanc positionem arguo tripliciter. 
-      <lb ed="#P" n="43"/>Primo. llluo, quod mouet potentiam ad 
-      <lb ed="#P" n="44"/>aliquem actum realem, debet mouere sul 
-      <lb ed="#P" n="45"/>ratione reali, sed obiecta harum potentiarum 
-      <lb ed="#P" n="46"/>mouent eas ad actus reales; ergo, &amp; rationes; 
-      <lb ed="#P" n="47"/>ub quibus mouent, debent esse reales;
-      Mi<lb ed="#P" n="48" break="no"/>nor est euidens probo ergo Maiorem: Nam  
-      <lb ed="#P" n="49"/>si rationes, sub quibus obiectum mouet, essent 
-      <lb ed="#P" n="50"/>constitutae per actum rationis; tunc ens ratio 
-      <lb ed="#P" n="51"/>nis esset causa entis realis, quod est absurdum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1276">
-                  <lb ed="#P" n="52"/>Secundo, ratio formalis in obiecto non pro 
-      <lb ed="#P" n="53"/>cedit actum potentiae, cum sit eius causa, sed  
-      <!--126.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 101 b -->
-                  <lb ed="#P" n="54"/>diuersae rationes in obiecto non possunt prae 
-      <lb ed="#P" n="55"/>cedere saltem actus intellectus, cum per
-      ip<lb ed="#P" n="56" break="no"/>um constituantur, ergo frustra ponuntur.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1296">
-                  <lb ed="#P" n="57"/>Tertio istae rationes formales, vel ita se ha 
-      <lb ed="#P" n="58"/>bent, quod ratio formalis obiecti voluntatis 
-      <lb ed="#P" n="59"/>continetur sub ratione formali obiecti
-      intel<lb ed="#P" n="60" break="no"/>lectus, vel e contra; vel ambae sub vna tertia 
-      <lb ed="#P" n="61"/>ratione, vel sunt aequales, &amp; vna non
-      conti<lb ed="#P" n="62" break="no"/>netur sub altera, nec ambae sub tertia Primum 
-      <lb ed="#P" n="63"/>non potest dici, quia intellectus, &amp; voluntas 
-      <lb ed="#P" n="64"/>sunt potentiae aeque abstracte, vt patuit, &amp; 
-      <lb ed="#P" n="65"/>per consequens in quod tendit vna, potest 
-      <lb ed="#P" n="66"/>tendere &amp; altera: Nec. potest dici e contra 
-      <lb ed="#P" n="67"/>propter eandem rationem, &amp; etiam quia
-      se<lb ed="#P" n="68" break="no"/>queretur quod voluntas posset velle aliquid 
-      <lb ed="#P" n="69"/>non cognitum. Item non potest dici quod 
-      <lb ed="#P" n="70"/>ambae contineantur sub tertia; quia si
-      moue<lb ed="#P" n="71" break="no"/>rentur potentiae secundum illam tertiam
-      ra<lb ed="#P" n="72" break="no"/>tionem non mouerentur vt distinctae, sed ma 
-      <lb ed="#P" n="73"/>gis vt vna, similiter non potest dici quod am  
-      <lb ed="#P" n="74"/>bae sint aequales; ita vt non reducantur in se 
-      <lb ed="#P" n="75"/>inuicem, nec in tertiam rationem: quia hoc 
-      <lb ed="#P" n="76"/>posito sequeretur quod intellectus non
-      in<lb ed="#P" n="77" break="no"/>telligeret illud, quod vult volantes, nec
-      vo<lb ed="#P" n="78" break="no"/>luntas vellet, quod intelligeret intellectus; 
-      <lb ed="#P" n="79"/>hoc autem est absurdum, quod autem hoc se 
-      <lb ed="#P" n="80"/>quatur patet, nam totum, quod intelligit
-      in<lb ed="#P" n="81" break="no"/>tellectus, intelligit sub ratione sui obiecti, &amp;  
-      <lb ed="#P" n="82"/>quicquid vult voluntas vult sub ratione sui 
-      <lb ed="#P" n="83"/>obiecti: Videtur ergo quod haec posito non 
-      <lb ed="#P" n="84"/>possit sustineri. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1359">
-                  <lb ed="#P" n="85"/>Ideo dicunt alij, quod eadem res
-      obijci<lb ed="#P" n="86" break="no"/>tur intellectui, &amp; voluntati sub eadem
-      ra<lb ed="#P" n="87" break="no"/>tione, &amp; non sub diuersis propter rationes 
-      <lb ed="#P" n="88"/>iam factas, &amp; si queratur ab eis quomodo cau 
-      <lb ed="#P" n="89"/>set diuersos actus in istis potentijs, dicunt,  
-      <lb ed="#P" n="90"/>quod non est inconueniens, quod idem agens 
-      <lb ed="#P" n="91"/>aequiuocum causet diuersos actus etiam per 
-      <lb ed="#P" n="92"/>eadem rationem in diuersis subiectis; sicut 
-      <lb ed="#P" n="93"/>patet de Sole, qui eodem calore descicat
-      lu<lb ed="#P" n="94" break="no"/>tum, &amp; liquaefacit ceram, sic obiectum fruibi 
-      <lb ed="#P" n="95"/>se per eandem rationem realem poterit
-      mo<lb ed="#P" n="96" break="no"/>uere intellectum ad intelligendum, &amp; volun 
-      <lb ed="#P" n="97"/>tatem ad sruendum.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1390">
-                  <lb ed="#P" n="98"/>Contra hanc positionem arguo vnica
-      ra<lb ed="#P" n="99" break="no"/>tione. Si idem posset obijci intellectui, &amp; vo 
-      <lb ed="#P" n="100"/>luntati secundum eandem rationem,
-      seque<lb ed="#P" n="101" break="no"/>retur, quod actus vtriusque potentiae essent 
-      <lb ed="#P" n="102"/>eiusdem speciei, quod est falsum vt
-      concedi<lb ed="#P" n="103" break="no"/>tur ab omnibus, consequentia probatur, quia 
-      <lb ed="#P" n="104"/>actus specificantur ab obiectis; non enim ex 
-      <lb ed="#P" n="105"/>se ipsis sufficienter, nec a potentijs specificari 
-      <lb ed="#P" n="106"/>possunt, vt dictum est superius, vbi ergo est 
-      <lb ed="#P" n="107"/>omnino idem obiectum; ibi actus sunt
-      eius<lb ed="#P" n="108" break="no"/>dem speciei.¬ 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1416">
-                  <lb ed="#P" n="109"/>Alij dicunt quod obiectum fruitionis siue 
-      <lb ed="#P" n="110"/>quodcunque aliud obiicit se intellectui, &amp;  
-      <!--127.xml-->
-      <pb ed="#P" n="102"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>voluntati sub alia, &amp; alia ratione; ita tamen 
-      <lb ed="#P" n="2"/>quod huiusmodi rationes non sunt constitu 
-      <lb ed="#P" n="3"/>tae per actum intellectus, quia sic
-      coincide<lb ed="#P" n="4" break="no"/>rent cum prima positone, sed sunt in obie 
-      <lb ed="#P" n="5"/>cto ex natura rei distinctae, non sicut duae 
-      <lb ed="#P" n="6"/>res, sed sicut vna res materialis, formaliter ta 
-      <lb ed="#P" n="7"/>men inter se distinctae, quia conceptus
-      quid<lb ed="#P" n="8" break="no"/>ditatiuus vnius rationis non includitur in con 
-      <lb ed="#P" n="9"/>ceptu quidditatiuo alterius, &amp; totum hoc est 
-      <lb ed="#P" n="10"/>ex natura rei; quia non ideo hae rationes se 
-      <lb ed="#P" n="11"/>inuicem non includunt, quia intellectus sic 
-      <lb ed="#P" n="12"/>concipiat eas, sed magis e conuerso; ideo
-      in<lb ed="#P" n="13" break="no"/>tellectus sic concipit eas distinctis concepti 
-      <lb ed="#P" n="14"/>bus, quia formaliter ex natura rei sunt distin 
-      <lb ed="#P" n="15"/>ctae: ratio enim formalis in obiecto
-      intelle<lb ed="#P" n="16" break="no"/>ctus debet praecedere actum ipsius &amp; ista est 
-      <lb ed="#P" n="17"/>meglior ratio, quae possit fieri pro hac
-      po<lb ed="#P" n="18" break="no"/>sitiorie. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1469">
-                  <lb ed="#P" n="19"/>Hanc tamen positionem non approbo, &amp; 
-      <lb ed="#P" n="20"/>possent contra eam induci omnia, quae indum 
-      <lb ed="#P" n="21"/>cuntur ab aliquibus contra formalitates
-      ip<lb ed="#P" n="22" break="no"/>sius, hoc tamen non intendo facere, sed con 
-      <lb ed="#P" n="23"/>tra eam induco tertiam rationem, quae indum 
-      <lb ed="#P" n="24"/>cebatur superius contra primam, nam sicut 
-      <lb ed="#P" n="25"/>ibi sequebatur, quod aliqua ratio cognita, 
-      <lb ed="#P" n="26"/>esset non volita, &amp; aliqua volita, esset non 
-      <lb ed="#P" n="27"/>cognita; ita etiam contra hanc sequitur idem; 
-      <lb ed="#P" n="28"/>&amp; multo euidentius, quia iste ponit
-      maio<lb ed="#P" n="29" break="no"/>rem distinctionem inter has rationes, cum 
-      <lb ed="#P" n="30"/>hic ponantur distinctae ex natura rei;
-      se<lb ed="#P" n="31" break="no"/>cundum vero primam opinionem ponuntur 
-      <lb ed="#P" n="32"/>distinctae opere intellectus. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1502">
-                  <lb ed="#P" n="33"/>Propter has difficultates, &amp; plures alias 
-      <lb ed="#P" n="34"/>fortiores (saluo meliori iudicio) vdetur
-      mi<lb ed="#P" n="35" break="no"/>hi aliter dicendum esse. Ad cuius
-      euiden<lb ed="#P" n="36" break="no"/>tiam est notandum, quod obiectum
-      cuius<lb ed="#P" n="37" break="no"/>cunque potentiae cognitiuae, vel appetitiuae se 
-      <lb ed="#P" n="38"/>habet ad suam potentiam in duplici
-      habitu<lb ed="#P" n="39" break="no"/>dine, scilicet in habitudine mouentis, &amp; in 
-      <lb ed="#P" n="40"/>habitudine terminantis, habet enim se
-      pri<lb ed="#P" n="41" break="no"/>mo in ratione mouentis, quia mouet
-      poten<lb ed="#P" n="42" break="no"/>tiam ad actum suum, (suppono enim, quod 
-      <lb ed="#P" n="43"/>potentiae cognitiuae, &amp; appetitiuae sint
-      passi<lb ed="#P" n="44" break="no"/>uae) habet etiam se in ratione terminantis
-      a<lb ed="#P" n="45" break="no"/>ctum potentiae, siquidem actus potentiae ha 
-      <lb ed="#P" n="46"/>bent quandam essentialem habitudinem ad 
-      <lb ed="#P" n="47"/>obiectum, a qua nequeunt absolui, nec
-      se<lb ed="#P" n="48" break="no"/>cundum rem, nec etiam forte secundum
-      in<lb ed="#P" n="49" break="no"/>tellectum, immo ita essentialis est haec habi 
-      <lb ed="#P" n="50"/>tudo actui, quod quidam dixerunt actum in 
-      <lb ed="#P" n="51"/>telligendi, siue quarumcunque aliarum poten 
-      <lb ed="#P" n="52"/>tiarum non esse aliud, quam quidam
-      respe<lb ed="#P" n="53" break="no"/>ctus, quamuis hoc non credam: de quo
-      ta<lb ed="#P" n="54" break="no"/>men nihil ad praesens.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1552">
-                  <lb ed="#P" n="55"/>Hoc praemisso cum quaeritur an obiectum 
-      <lb ed="#P" n="56"/>fruitionis obijciat se voluntati, &amp;
-      intelle<lb ed="#P" n="57" break="no"/>ctui sub eadem, vel sub diuersa ratione. Re 
-      <!--127.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 102 b -->
-                  <lb ed="#P" n="58"/>spondeo per duas conclusiones. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1570">
-                  <lb ed="#P" n="59"/>Prima est, quod comparando obiectum 
-      <lb ed="#P" n="60"/>fruitionis ad istas duas potentias in ratione 
-      <lb ed="#P" n="61"/>mouentis, sic obijcit se eis sub alia, &amp; alia 
-      <lb ed="#P" n="62"/>ratione. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1581">
-                  <lb ed="#P" n="63"/>Secunda est, quod si comparetur ad istas, 
-      <lb ed="#P" n="64"/>potentias in ratione terminantis, sic obijcit 
-      <lb ed="#P" n="65"/>se eis sub alia, &amp; alia ratione. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1590">
-                  <lb ed="#P" n="66"/>Primam conclusionem probo tali ratione, 
-      <lb ed="#P" n="67"/>Quandocunque aliquod mouens mouet duo 
-      <lb ed="#P" n="68"/>mobilia, secundum quondam ordinem,
-      pu<lb ed="#P" n="69" break="no"/>ta vnum mediante altero, semper mouet
-      se<lb ed="#P" n="70" break="no"/>cundum eadem ratione qua mouet primum 
-      <lb ed="#P" n="71"/>sed obiectum fruitionis (vt supponitur
-      no<lb ed="#P" n="72" break="no"/>tum) mouet intellectum, &amp; voluntatem ad 
-      <lb ed="#P" n="73"/>suos actus, &amp; voluntatem mouet mediante 
-      <lb ed="#P" n="74"/>intellectu, vt conceditur ab omnibus; ergo 
-      <lb ed="#P" n="75"/>sub eadem ratione, sub qua mouet
-      volunta<lb ed="#P" n="76" break="no"/>tem ad actum fruitionis, prius ordine quodam 
-      <lb ed="#P" n="77"/>mouebit intellectum ad actum cognitionis; 
-      <lb ed="#P" n="78"/>Minor est nota, &amp; Maior probatur per hoc, 
-      <lb ed="#P" n="79"/>quod si aliquod mouens moueret duo mobi 
-      <lb ed="#P" n="80"/>lia, vnum mediante altero, &amp; poneretur, quod 
-      <lb ed="#P" n="81"/>per altam rationem moueret primum, &amp; per 
-      <lb ed="#P" n="82"/>aliam secundum, talis modus mouendi
-      de<lb ed="#P" n="83" break="no"/>strueret se ipsum, cum enim ponatur per alia 
-      <lb ed="#P" n="84"/>rationem mouere secundum, &amp; per aliam 
-      <lb ed="#P" n="85"/>primum, oportet dicere quod per illant
-      ra<lb ed="#P" n="86" break="no"/>tionem per quam mouet secundum, non mo 
-      <lb ed="#P" n="87"/>ueat primum, &amp; per consequens non
-      moue<lb ed="#P" n="88" break="no"/>bit secundum mediante primo. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1643">
-                  <lb ed="#P" n="89"/>Secunda conclusio probatur tripliciter. 
-      <lb ed="#P" n="90"/>Primo si obiectum fruitionis terminaret 
-      <lb ed="#P" n="91"/>actum cognitionis, &amp; actum fruitionis sub 
-      <lb ed="#P" n="92"/>eadem ratione formali, sequeretur, quod prae 
-      <lb ed="#P" n="93"/>fati duo actus essent eiusdem speciei, Conse 
-      <lb ed="#P" n="94"/>quens est falsum, ergo, &amp; antecedens: Falsi 
-      <lb ed="#P" n="95"/>tas consequentis patet; quia isti actus specie 
-      <lb ed="#P" n="96"/>distinguuntur, distinctio autem inter eos non 
-      <lb ed="#P" n="97"/>potest esse sine concursu obiectorum sub 
-      <lb ed="#P" n="98"/>alia, &amp; alia ratione, Consequentia patet por 
-      <lb ed="#P" n="99"/>ta, quae dicta sunt superius, vbi ostensum es,  
-      <lb ed="#P" n="100"/>quod omnis actus recipit specie ab obiecto. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1672">
-                  <lb ed="#P" n="101"/>Confirmatur, quia illud quod concurrit 
-      <lb ed="#P" n="102"/>necessario ad distinctionem pure specificam  
-      <lb ed="#P" n="103"/>in actibus, concurrit etiam necessario ad
-      di<lb ed="#P" n="104" break="no"/>stinctionem secundum genus; non enim est 
-      <lb ed="#P" n="105"/>dare genus sine specie, nec distinctio
-      generi<lb ed="#P" n="106" break="no"/>ca sine distinctione specifica, ergo, &amp;c. Non 
-      <lb ed="#P" n="107"/>sufficit ergo dicere, quod praefati actus sint 
-      <lb ed="#P" n="108"/>distincti secundum genus, quia sunt in diuer 
-      <lb ed="#P" n="109"/>sis potentijs, sed vlterius oportet ostendere 
-      <lb ed="#P" n="110"/>quomodo sint collocati in distinctis
-      specie<lb ed="#P" n="111" break="no"/>bus secundum sua genera, quod non potest 
-      <lb ed="#P" n="112"/>sieri sine obiecto, concurrit ergo ibi necessa 
-      <lb ed="#P" n="113"/>rio obiectum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1703">
-                  <lb ed="#P" n="114"/>Secundo; si obiectum fruibile termina 
-      <!--128.xml-->
-      <pb ed="#P" n="103"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>ret hos duos actus sub eadem ratione,
-      seque<lb ed="#P" n="2" break="no"/>retur quod duae habitudines diuersarum
-      ra<lb ed="#P" n="3" break="no"/>tionum possent habere eundem terminum 
-      <lb ed="#P" n="4"/>formaliter, consequens est falsum, ergo &amp; 
-      <lb ed="#P" n="5"/>antecedens, Consequentiam probo; nam, cum 
-      <lb ed="#P" n="6"/>isti duo actus habeant essentiaiem
-      habitudi<lb ed="#P" n="7" break="no"/>nem ad obiectum fruibile, si ipsi sunt
-      diuer<lb ed="#P" n="8" break="no"/>sarum rationum, etiam eorum essentiales ha 
-      <lb ed="#P" n="9"/>bitudines erunt diuersarum rationum.
-      Fal<lb ed="#P" n="10" break="no"/>sitatem consequentis probo, quia si habitudi 
-      <lb ed="#P" n="11"/>nes diuersarum rationum possent habere eum 
-      <lb ed="#P" n="12"/>dem terminum formaliter, tunc terminus non 
-      <lb ed="#P" n="13"/>faceret per se ad vnitatem habitudinis, &amp;  
-      <lb ed="#P" n="14"/>er consequens nec ad diuersitatem, quod 
-      <lb ed="#P" n="15"/>est falsum; nam videmus, quod, stante eoden 
-      <lb ed="#P" n="16"/>fundamento, puta albedine, plurificatur in 
-      <lb ed="#P" n="17"/>ea habitudo, &amp; relatio, propter diuersitatem 
-      <lb ed="#P" n="18"/>terminorum, alia enim est relatio
-      similitudi<lb ed="#P" n="19" break="no"/>nis, quae fundatur in albo respectu alterius 
-      <lb ed="#P" n="20"/>albi, &amp; alia est relatio dissimilitudinis, quae 
-      <lb ed="#P" n="21"/>fundatur in eodem albo, respectu
-      nigredi<lb ed="#P" n="22" break="no"/>nis. Si ergo relationes plurificantur ratione 
-      <lb ed="#P" n="23"/>terminorum, sicut &amp; fundamentorum, a
-      si<lb ed="#P" n="24" break="no"/>mili; sicut diuersae habitudines, &amp; relatione; 
-      <lb ed="#P" n="25"/>non possunt fundari in eodem fundamento, 
-      <lb ed="#P" n="26"/>sub eadem ratione formali; ita, nec etiam pos 
-      <lb ed="#P" n="27"/>sunt terminari ad eundem terminum, sub 
-      <lb ed="#P" n="28"/>eadem ratione formali. Quod autem
-      diuer<lb ed="#P" n="29" break="no"/>sae relationes non fundentur in eodem subie 
-      <lb ed="#P" n="30"/>cto sub eadem ratione formali, patet per Ar 
-      <lb ed="#P" n="31"/>stot. 3. physicorum dicentem, quod
-      poten<lb ed="#P" n="32" break="no"/>tia ad sanitatem, &amp; infirmitatem non est
-      ea<lb ed="#P" n="33" break="no"/>dem, quia tunc sanitas, &amp; infirmitas essent 
-      <lb ed="#P" n="34"/>idem, sic in proposito, si albedo sub eadem  
-      <lb ed="#P" n="35"/>ratione fundaret similitudinem, &amp;
-      dissimili<lb ed="#P" n="36" break="no"/>tudinem, tunc essent idem, &amp; esset eadem re 
-      <lb ed="#P" n="37"/>latio, quod est absurdum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1794">
-                  <lb ed="#P" n="38"/>Tertio; si obiectum fruitionis terminaret 
-      <lb ed="#P" n="39"/>actum visionis, &amp; fruitionis sub eadem ratio 
-      <lb ed="#P" n="40"/>ne formali, sequeretur, quod eandem ex eis 
-      <lb ed="#P" n="41"/>denominationem acciperet, consequens est 
-      <lb ed="#P" n="42"/>falsum; ergo &amp;c. Consequentia est nota, quia 
-      <lb ed="#P" n="43"/>actus secundum rationem terminandi habet 
-      <lb ed="#P" n="44"/>essentialem habitudinem ad obiectum, igitur 
-      <lb ed="#P" n="45"/>obiectum non sortitur denominationem ex 
-      <lb ed="#P" n="46"/>actu, nisi secundum rationem terminandi; se 
-      <lb ed="#P" n="47"/>cundum enim rationem mouendi, magis
-      ha<lb ed="#P" n="48" break="no"/>bet habitudinem accidentalem, vt inferius pa 
-      <lb ed="#P" n="49"/>tebit. Falsitatem consequentis declaro; nam 
-      <lb ed="#P" n="50"/>obiectum fruibile, sicut denominatur
-      fruibi<lb ed="#P" n="51" break="no"/>le ex actu fruitionis, ita denominatur
-      visibi<lb ed="#P" n="52" break="no"/>le ex actu visionis, quod non est propter aliud,  
-      <lb ed="#P" n="53"/>nisi quia sub alia, &amp; alia ratione terminat 
-      <lb ed="#P" n="54"/>vtrumque actum, terminat enim actum
-      vi<lb ed="#P" n="55" break="no"/>sionis sub ratione assimilantis, vnde dicit D. 
-      <lb ed="#P" n="56"/>loannes in sua prima Cannonica cap. 5.
-      sci<lb ed="#P" n="57" break="no"/>mus quoniam cum apparuerit, similes ei eri¬ 
-      <!--128.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 103 b -->
-                  <lb ed="#P" n="58"/>mus, quoniam videbimus eum sicuti est;
-      vi<lb ed="#P" n="59" break="no"/>sio enim est quaedam assimilatio; ldem autem 
-      <lb ed="#P" n="60"/>obiectum terminat actum fruitionis sub
-      ra<lb ed="#P" n="61" break="no"/>tione quietantis, cum fruitio sit quaedam
-      in<lb ed="#P" n="62" break="no"/>haesio, vt patuit superius, quae cum sua ratione 
-      <lb ed="#P" n="63"/>requirit terminum quietanrem, &amp; sic patent 
-      <lb ed="#P" n="64"/>ambae conclusiones. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1862">
-                  <lb ed="#P" n="65"/>Contra primam conclusionem occurrit 
-      <lb ed="#P" n="66"/>dubitatio, quia dictum est, quod obiectum 
-      <lb ed="#P" n="67"/>sub alia ratione mouet potentiam ad actum, 
-      <lb ed="#P" n="68"/>&amp; sub alia terminat; Quod alicui non
-      vide<lb ed="#P" n="69" break="no"/>bitur verum, nam diceret aliquis, quod ideo 
-      <lb ed="#P" n="70"/>actus dependet ab obiecto, &amp; terminatur ad 
-      <lb ed="#P" n="71"/>ipsum, quia causatur ab ipso; sub eadem ergo 
-      <lb ed="#P" n="72"/>ratione causabit, &amp; terminabit actum, 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1882">
-                  <lb ed="#P" n="73"/>Ad hoc respondeo, quod non ideo actus 
-      <lb ed="#P" n="74"/>depedet ab obiecto, &amp; terminatur ad ipsum; 
-      <lb ed="#P" n="75"/>quia causetur ab eo, sed quia obiectum
-      re<lb ed="#P" n="76" break="no"/>spectu potentiae informatae actu, se habet
-      si<lb ed="#P" n="77" break="no"/>cut finis cuius, actus autem sicut sinis quo, 
-      <lb ed="#P" n="78"/>nunc autem finis quo semper habet
-      essentia<lb ed="#P" n="79" break="no"/>nem habitudinem ad finem cuius, a qua habi 
-      <lb ed="#P" n="80"/>tudine non potest absolui nec secundum re. 
-      <lb ed="#P" n="81"/>nec fotte secundum intellectum, quia est
-      si<lb ed="#P" n="82" break="no"/>bi quasi essentialis; prima vero habitudo, qua 
-      <lb ed="#P" n="83"/>habet actus ad obiectum in ratione
-      mouen<lb ed="#P" n="84" break="no"/>tis est sibi quasi accidentalis, in tantum, quod 
-      <lb ed="#P" n="85"/>potest ab eo separari, &amp; actu separatur; Vide 
-      <lb ed="#P" n="86"/>mus enim quod actus intelligendi non phan 
-      <lb ed="#P" n="87"/>tasiatum, puta Deum, vel Angelum bene ter 
-      <lb ed="#P" n="88"/>minatur ad illud obiectum, sed non
-      causa<lb ed="#P" n="89" break="no"/>tur ab eo; quia intellectus noster non potest 
-      <lb ed="#P" n="90"/>moueri a non phantasiato, ex quo apparet,  
-      <lb ed="#P" n="91"/>quod in obiecto alia est ratio mouendi ad
-      a<lb ed="#P" n="92" break="no"/>ctum, &amp; alia ratio terminandi actum, cum 
-      <lb ed="#P" n="93"/>vna possit inueniri sine alie r a; apparet etiam  
-      <lb ed="#P" n="94"/>quod habitudo mouentis est quasi
-      acciden<lb ed="#P" n="95" break="no"/>talis; quia actus terminatur ad obiectum, a 
-      <lb ed="#P" n="96"/>quo quandoque non causatur, sed habitudo 
-      <lb ed="#P" n="97"/>terminantis est quasi essentialis; quia
-      impos<lb ed="#P" n="98" break="no"/>sibile est, quod actus non terminetur ad suum 
-      <lb ed="#P" n="99"/>proprium obiectum.
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1944">
-                  <lb ed="#P" n="100"/>Secundo contra eandem conclusionem 
-      <lb ed="#P" n="101"/>dubitatur, quia dictum est, quod obiectum 
-      <lb ed="#P" n="102"/>fruibile moueat sub eadem ratione vtrumqu 
-      <lb ed="#P" n="103"/>actum, nam cum obiectum specificet actum, 
-      <lb ed="#P" n="104"/>in quantum causat ipsum: sequitur per hoc 
-      <lb ed="#P" n="105"/>quod actus fruitionis, &amp; visionis sint eiusdem 
-      <lb ed="#P" n="106"/>rationis, specifice, quod nullus diceret. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1962">
-                  <lb ed="#P" n="107"/>Respondeo, quod obiectum specificat
-      a<lb ed="#P" n="108" break="no"/>ctum, non quia causet ipsum, sedquia termi 
-      <lb ed="#P" n="109"/>nat ipsum, vt patuit in exemplo superius
-      po<lb ed="#P" n="110" break="no"/>sito, actus enim quo intelligo aliquid non 
-      <lb ed="#P" n="111"/>phantasiatum, non specificatur a
-      phantasia<lb ed="#P" n="112" break="no"/>to, a quo causatur, sed a non phantasiato, ad 
-      <lb ed="#P" n="113"/>quod terminatur, actus ergo visionis, &amp; fini 
-      <lb ed="#P" n="114"/>tionis, quamuis causentur ab obiecto fruibi¬ 
-      <!--129.xml-->
-      <pb ed="#P" n="104"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>li sub eadem ratione mouentis, non termi- 
-      <lb ed="#P" n="2"/>nantur ad ipsum sub eade ratione, vt superius 
-      <lb ed="#P" n="3"/>patuit, &amp; sic possunt remanere distincti specie¬ 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e1995">
-                  <lb ed="#P" n="4"/>Tertio si quaeratur a me de istis
-      rationi<lb ed="#P" n="5" break="no"/>bus terminandi an differant ex natura rei, 
-      <lb ed="#P" n="6"/>vel ratione tantum, si dicam quod differunt 
-      <lb ed="#P" n="7"/>ex natura rei, tunc contra me occurrunt quae 
-      <lb ed="#P" n="8"/>cunque occurrebant contra illam positionem 
-      <lb ed="#P" n="9"/>de formalitatibus; si autem dicam quod dif- 
-      <lb ed="#P" n="10"/>ferant ratione tantum, tunc incido in
-      pri<lb ed="#P" n="11" break="no"/>mam positionem, &amp; contra me sunt, quae
-      conm<lb ed="#P" n="12" break="no"/>tra illa erant. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2017">
-                  <lb ed="#P" n="13"/>Ad hoc dico, quod differunt ex natura 
-      <lb ed="#P" n="14"/>obiecti fundamentaliter, &amp; potentialiter: sed  
-      <lb ed="#P" n="15"/>ex ipsis actibus completiue, &amp; actualiter, sic 
-      <lb ed="#P" n="16"/>intelligendo, quod ipsum obiectum habet in 
-      <lb ed="#P" n="17"/>se naturam, secundum quam potest termina 
-      <lb ed="#P" n="18"/>re istos diuersos actus alio, &amp; alio modo, ista 
-      <lb ed="#P" n="19"/>tamen differentia reducitur de potentia ad 
-      <lb ed="#P" n="20"/>actum, &amp; completur per hoc, quod isti actus 
-      <lb ed="#P" n="21"/>terminantur actualiter ad obiectum,
-      secun<lb ed="#P" n="22" break="no"/>dum quod erat in potentia ad terminandum 
-      <lb ed="#P" n="23"/>eos; Sicut ratio albedinis fundata in
-      albedi<lb ed="#P" n="24" break="no"/>ne, non existente termino opposito, dicitur 
-      <lb ed="#P" n="25"/>esse in fundamento ex natura rei solum
-      po<lb ed="#P" n="26" break="no"/>tentialiter existente vero termino op- 
-      <lb ed="#P" n="27"/>posito, incipit esse in eodem fundamento
-      a<lb ed="#P" n="28" break="no"/>ctualiter, per nullam tamen mutationem in 
-      <lb ed="#P" n="29"/>ipso factam; ita suo modo in proposito,
-      ratio<lb ed="#P" n="30" break="no"/>nes terminandi actus sunt in obiecto, non 
-      <lb ed="#P" n="31"/>existentibus praefatis actibus, potentialiter di 
-      <lb ed="#P" n="32"/>stinctae, ipsis vero actibus existentibus, sunt 
-      <lb ed="#P" n="33"/>ibi actualiter 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2065">
-                  <lb ed="#P" n="34"/>Ex quo apparet, quod huiusmodi
-      ratione<lb ed="#P" n="35" break="no"/>quantum ad suum complementum
-      sequun<lb ed="#P" n="36" break="no"/>tur dictos actus, &amp; per consequens licet
-      ob<lb ed="#P" n="37" break="no"/>iectum praecedat actus in ratione mouentis,  
-      <lb ed="#P" n="38"/>sequitur tamen eos in ratione tarminantis 
-      <lb ed="#P" n="39"/>Neque hoc est contra rationem specificatio. 
-      <lb ed="#P" n="40"/>nis actuum, nam videmus, quod terminus se 
-      <lb ed="#P" n="41"/>quitur motum, &amp; tamen specificat ipsum 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2085">
-                  <lb ed="#P" n="42"/>Notandum tamen, quod istae rationes
-      ter<lb ed="#P" n="43" break="no"/>minantes non sequuntur actus, sicut
-      termi<lb ed="#P" n="44" break="no"/>nus sequitur motum: quia motus non vere 
-      <lb ed="#P" n="45"/>praecedit istas rationes; non enim est dare ali 
-      <lb ed="#P" n="46"/>quod instans naturae, vel temporis, in quo 
-      <lb ed="#P" n="47"/>praefati actus sint sine rationibus
-      terminan<lb ed="#P" n="48" break="no"/>tibus eos, dicuntur ergo sequi solum
-      quan<lb ed="#P" n="49" break="no"/>tum ad nostrum modum intelligendi, puta 
-      <lb ed="#P" n="50"/>quia non cognoscimus praefatas rationes in 
-      <lb ed="#P" n="51"/>obiecto, &amp; maxime forte distinctas, nisi per 
-      <lb ed="#P" n="52"/>dictos actus, quos in potentijs experimur: &amp;  
-      <lb ed="#P" n="53"/>sic non incido in positionem de
-      formalitati<lb ed="#P" n="54" break="no"/>bus, quia ipsi ponunt rationes obiectales ita 
-      <lb ed="#P" n="55"/>differre ex natura rei, quod preueniant actus,  
-      <lb ed="#P" n="56"/>&amp; sint complete in obiecto ante aduentum 
-      <lb ed="#P" n="57"/>horum actuum in potentijs
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2123">
-      <!--129.xml-->
-                  <cb ed="#P" n="b"/> 
-                  <!-- 104 b -->
-                  <lb ed="#P" n="58"/>Quarto dubitatur, nam quaeret aliquis
-      v<lb ed="#P" n="59" break="no"/>trum istae rationes terminantes sint
-      absolu<lb ed="#P" n="60" break="no"/>tae, vel respectiuae; &amp; vtrum sint illud idem, 
-      <lb ed="#P" n="61"/>quod obiectum, in quo sunt, vel aliquid
-      alte<lb ed="#P" n="62" break="no"/>rum, quia si non detur, quod sint aliquid ho 
-      <lb ed="#P" n="63"/>rum, quae modo dicta sunt, videbitur
-      quae<lb ed="#P" n="64" break="no"/>dam fictio. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2147">
-                  <lb ed="#P" n="65"/>Ad hoc dico, quod existimo de istis
-      ra<lb ed="#P" n="66" break="no"/>tionibus obiectalibus vniuersaliter, sicut
-      ar<lb ed="#P" n="67" break="no"/>bitratur Arist. &amp; Comment. 2. de anima,
-      vo<lb ed="#P" n="68" break="no"/>ens enim Arist. 2. de anima tex. 8o
-      ostende<lb ed="#P" n="69" break="no"/>re quid sit ratio formalis obiecti visus,
-      deno<lb ed="#P" n="70" break="no"/>minat eam ab actu videndi dicens, cuius scien 
-      <lb ed="#P" n="71"/>tia est uisus, hoc est visibile: Volens insuper 
-      <lb ed="#P" n="72"/>ostendere qualiter haec ratio se habeat ad
-      co<lb ed="#P" n="73" break="no"/>lorem dicit ibidem, visibile enim est colon, hoc 
-      <lb ed="#P" n="74"/>autem secundum se visibile, secundum auten 
-      <lb ed="#P" n="75"/>se, non ratione, sed quoniam in se habet
-      cau<lb ed="#P" n="76" break="no"/>sam vt sit visibile; vbi Commentator dicit quid 
-      <lb ed="#P" n="77"/>color est per se visibilis, non secundum
-      pri<lb ed="#P" n="78" break="no"/>mam intentionem, de quibus dicitur illud,  
-      <lb ed="#P" n="79"/>quod est essentialiter in primo modo
-      dicen<lb ed="#P" n="80" break="no"/>di per se, in quo praedicatum est de
-      substan<lb ed="#P" n="81" break="no"/>tia subiecti; sed secundum intentionem
-      secu<lb ed="#P" n="82" break="no"/>dam in secundo modo dicendi per se, in quo 
-      <lb ed="#P" n="83"/>subiectum est de definitione praedicati :
-      Vn<lb ed="#P" n="84" break="no"/>de si quaeratur, quomodo visibile se habeat 
-      <lb ed="#P" n="85"/>ad colorem ex Arist. &amp; Commentatore, dici  
-      <lb ed="#P" n="86"/>tur, quod se habet sicut passio ad subiectum 
-      <lb ed="#P" n="87"/>in secundo modo dicendi per se; sed si
-      vlte<lb ed="#P" n="88" break="no"/>rius quaeratur, ab eodem Com an haec ratio 
-      <lb ed="#P" n="89"/>visibilis dicat aliquam qualitatem, vel aliquam 
-      <lb ed="#P" n="90"/>aliam formam absolutam colori inhaerentem; 
-      <lb ed="#P" n="91"/>non potest responderi jn od dicat formam  
-      <lb ed="#P" n="92"/>colori inhaerentem, Tum quia contradiceres 
-      <lb ed="#P" n="93"/>sibi in Commento sequenti, vbi dicit, quod 
-      <lb ed="#P" n="94"/>color est visibilis non mediante aliqua fora 
-      <lb ed="#P" n="95"/>ma se ibi connectente; Tum quia
-      contradi<lb ed="#P" n="96" break="no"/>ceret Arist. probanti, quod color sit visibilis,  
-      <lb ed="#P" n="97"/>quia per suam naturam potest mouero
-      dia<lb ed="#P" n="98" break="no"/>phanum, &amp; per consequens visum, &amp; subdit 
-      <lb ed="#P" n="99"/>quod omnis color est motiuus secudum actum; 
-      <lb ed="#P" n="100"/>lucidi &amp; hoc est per suam naturam; Tum 
-      <lb ed="#P" n="101"/>demum quia multa alia sequerentur
-      incon<lb ed="#P" n="102" break="no"/>uenientia, vt quod daretur processus in
-      in<lb ed="#P" n="103" break="no"/>finitum, &amp; alia, quae omitto breuitatis causa 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2234">
-                  <lb ed="#P" n="104"/>Ex omnibus his deduco secundum
-      men<lb ed="#P" n="105" break="no"/>tem Arist. &amp; Comment. duo; Primum, quod 
-      <lb ed="#P" n="106"/>ratio visibilis non dicat supra colorem
-      ali<lb ed="#P" n="107" break="no"/>quam formam absolutam realiter distinctam  
-      <lb ed="#P" n="108"/>a colore, secundum quod insit colori per se 
-      <lb ed="#P" n="109"/>in secudo modo quasi per modum passionis, 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2250">
-                  <lb ed="#P" n="110"/>Ad saluandum ergo ista duo
-      cogimuridi<lb ed="#P" n="111" break="no"/>cere, vt mihi videtur, quod ratio visibilis sit 
-      <lb ed="#P" n="112"/>quaedam ratio praescindens colorem ab om- 
-      <lb ed="#P" n="113"/>ni eo, quod visus non potest de eo
-      comprae<lb ed="#P" n="114" break="no"/>hendere. Nam constat, quod visus non com¬ 
-      <!--130.xml-->
-      <pb ed="#P" n="105"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>praehendit de colore, quod compraehendit 
-      <lb ed="#P" n="2"/>intellectus. Sicut ergo dicebatur superius in 
-      <lb ed="#P" n="3"/>quaestione de subiecto Theologiae, quod
-      ra<lb ed="#P" n="4" break="no"/>tio glorificatoris erat quaedam praescisio
-      vir<lb ed="#P" n="5" break="no"/>tualis, secundum quam praescindebatur
-      sub<lb ed="#P" n="6" break="no"/>iectum Theologiae ab illa ratione absoluta, ad 
-      <lb ed="#P" n="7"/>quam intellectus non poterat attingere; ita 
-      <lb ed="#P" n="8"/>dico in proposito, quod ratio visibilis mihi vi 
-      <lb ed="#P" n="9"/>detur quaedam praescisio virtualis, secundum 
-      <lb ed="#P" n="10"/>quam praescinditur color ab omni non
-      com<lb ed="#P" n="11" break="no"/>praehenso per visum, &amp; sicut dicebatur ibi, 
-      <lb ed="#P" n="12"/>quod ratio glorificatoris praeexistebat in ob 
-      <lb ed="#P" n="13"/>iecto secundum potentiam, incipiebat tamen 
-      <lb ed="#P" n="14"/>esse ibi secundum actum per coexistentiam  
-      <lb ed="#P" n="15"/>actus sic exigentis; ita videtur dicendum in 
-      <lb ed="#P" n="16"/>proposito: &amp; sicut ponebatur ibi exemplum 
-      <lb ed="#P" n="17"/>de diuisione motus per animam, &amp; de tempo 
-      <lb ed="#P" n="18"/>re consequente ad illam diuisionem: ita ad 
-      <lb ed="#P" n="19"/>propositum potest induci idem exemplum 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2311">
-                  <lb ed="#P" n="20"/>Ex quibus apparet quomodo possumus 
-      <lb ed="#P" n="21"/>saluare intentionem Arist. quod ratio
-      visi<lb ed="#P" n="22" break="no"/>bilis non dicat aliquam formam supra
-      colo<lb ed="#P" n="23" break="no"/>rem, quemadmodum &amp; diuisio primi motus 
-      <lb ed="#P" n="24"/>facti per animam, &amp; etiam ipsum tempus non 
-      <lb ed="#P" n="25"/>addit supra motum ab eo realiter distinctum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2327">
-                  <lb ed="#P" n="26"/>Secundo possum saluare, quod non obstam 
-      <lb ed="#P" n="27"/>te identitate rationis visibilis ad colorem,
-      con<lb ed="#P" n="28" break="no"/>sequitur tamen ipsum per modum passionis,  
-      <lb ed="#P" n="29"/>ex eosquod color non habet hanc rationem 
-      <lb ed="#P" n="30"/>secundum esse actuale completum, nisi ab  
-      <lb ed="#P" n="31"/>actu visionis extrinseco, praescindente colo 
-      <lb ed="#P" n="32"/>rem ab eo, quod visus non potest de eo com 
-      <lb ed="#P" n="33"/>prehendere, sicut non obstante identitate te 
-      <lb ed="#P" n="34"/>poris cum motu, tempus tamen
-      consequi<lb ed="#P" n="35" break="no"/>tur ipsum per modum passionis, quia motus 
-      <lb ed="#P" n="36"/>non habet tempus secundum suum esse
-      com<lb ed="#P" n="37" break="no"/>pletum, nisi ab actu animae extrinsecus
-      diui<lb ed="#P" n="38" break="no"/>dentis, &amp; numerantis ipsum. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2359">
-                  <lb ed="#P" n="39"/>Ita eroo videtur mihi dicendum in
-      pro<lb ed="#P" n="40" break="no"/>posito scilicet quod dictae rationes terminan 
-      <lb ed="#P" n="41"/>di, quamuis non addant aliquid realiter
-      di<lb ed="#P" n="42" break="no"/>stinctum ab obiecto, consequuntur tamen il 
-      <lb ed="#P" n="43"/>sum per modum passionum, quia non habet 
-      <lb ed="#P" n="44"/>suum essc completum nisi ab actibus
-      intel<lb ed="#P" n="45" break="no"/>lectus, &amp; voluntatis, per quos a se inuicem 
-      <lb ed="#P" n="46"/>praescinduntur secundum exigentiam dicto 
-      <lb ed="#P" n="47"/>rum actuum, nam obiectum terminat actum  
-      <lb ed="#P" n="48"/>&amp; exigentiam eius quantum ad quantitatem, 
-      <lb ed="#P" n="49"/>&amp; quantum ad modum, &amp; quia actus
-      intel<lb ed="#P" n="50" break="no"/>lectus actualiter attingit obiectum aliter quam 
-      <lb ed="#P" n="51"/>actus voluntatis; idcireo exigit in obiecto
-      a<lb ed="#P" n="52" break="no"/>liam rationem terminandi 
-      <lb ed="#P" n="53"/>Cum ergo quaeritur : vtrum istae rationes 
-      <lb ed="#P" n="54"/>ibi sint idem, quod obiectum, dicendum: quid 
-      <lb ed="#P" n="55"/>sunt idem, quatenus non addunt super ipsum 
-      <lb ed="#P" n="56"/>aliquid realiter ab eo distinctum, non auten 
-      <lb ed="#P" n="57"/>sunt idem, quatenus secundum suum esse com 
-      <!--130.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 105 b -->
-                  <lb ed="#P" n="58"/>pletum consequuntur ipsum ab extrinseco 
-      <lb ed="#P" n="59"/>per modum passionum, &amp; ideo si obiectum 
-      <lb ed="#P" n="60"/>est quid absolutum, &amp; dictae rationes sunt 
-      <lb ed="#P" n="61"/>quid absolutum, &amp; haec de tota quaestione. 
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e153-Dd1e2419">
-               <head xml:id="gsX5tY-d1e153-Hd1e2421">Ad rationes principales</head>
-               <p xml:id="gsX5tY-d1e153-d1e2424">
-                  <lb ed="#P" n="62"/>AD ARGVMENTA 
-      <lb ed="#P" n="63"/>principaliu.
-      <lb ed="#P" n="64"/>AD primum dicendum: quod
-      quantum<lb ed="#P" n="65" break="no"/>cunque dictae potentiae sint aeque
-      ab<lb ed="#P" n="66" break="no"/>stractae, non tamen attingunt obiectum
-      eo<lb ed="#P" n="67" break="no"/>dem modo, quia non habent actum eiusdem  
-      <lb ed="#P" n="68"/>rationis: quapropter necessario exigunt in 
-      <lb ed="#P" n="69"/>obiecto diuersas rationes terminandi¬ 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2444">
-                  <lb ed="#P" n="70"/>Ad secundum, cum dicebatur quod sola 
-      <lb ed="#P" n="71"/>distinctio actuum videretur sufficiens causa 
-      <lb ed="#P" n="72"/>praefatae distinctionis, nego, quia requiritur.  
-      <lb ed="#P" n="73"/>etiam obiectum, &amp; si quaeratur, quare
-      obie<lb ed="#P" n="74" break="no"/>ctum fruibile non se possit obijcere potentijs 
-      <lb ed="#P" n="75"/>sub eadem ratione; dico quod possunt esse 
-      <lb ed="#P" n="76"/>plures rariones, quare diuersi actus
-      specifi<lb ed="#P" n="77" break="no"/>centur ab eodem obiecto, quarum
-      aliquae<lb ed="#P" n="78" break="no"/>sunt superius assignatae: cum vero
-      addeba<lb ed="#P" n="79" break="no"/>tur, quod distinctio actuum potest sufficien 
-      <lb ed="#P" n="80"/>ter reduci in potentias, nego: quia ostensumi 
-      <lb ed="#P" n="81"/>est in secudo articulo, quod distinctio actuum 
-      <lb ed="#P" n="82"/>quantum ad genus, vtique potest esse a
-      poten<lb ed="#P" n="83" break="no"/>tijs, distinctio tamen specifica eorum
-      neces<lb ed="#P" n="84" break="no"/>sario est ab obiectis. 
-    </p>
-               <p xml:id="gsX5tY-d1e153-d1e2479">
-                  <lb ed="#P" n="85"/>Ad argumentum etiam, quod erat in op- 
-      <lb ed="#P" n="86"/>positum, respondeo: quod consequentia
-      pro<lb ed="#P" n="87" break="no"/>cederet, si esset idem omnino obiectum, &amp; 
-      <lb ed="#P" n="88"/>ub eadem ratione formali, quatenus mouens,  
-      <lb ed="#P" n="89"/>&amp; quatenus terminans, contrarium autem 
-      <lb ed="#P" n="90"/>ostensum est supra; &amp; ideo non concludita 
-    </p>
-            </div>
-         </div>
-      </body>
-   </text>
+            <lb ed="#P" n="1"/>terialis, &amp; non extensa: Vnde oportet, quod 
+            <lb ed="#P" n="2"/>intellectus sit potentia abstracta, &amp; non arcta 
+            <lb ed="#P" n="3"/>ta in essendo ad aliquod organum
+            corpora<lb ed="#P" n="4" break="no"/>le; ita &amp; per consequens quantum ad cogno 
+            <lb ed="#P" n="5"/>scere, non debet esse restricta ad aliquod ge 
+            <lb ed="#P" n="6"/>nus cognoscibilium, sicut de facto non est; 
+            <lb ed="#P" n="7"/>nam extendit se ad omne ens simpliciter, quia 
+            <lb ed="#P" n="8"/>eius obiectum adaequatum est ens
+            vniuersa<lb ed="#P" n="9" break="no"/>liter sumptum.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e325">
+            <lb ed="#P" n="10"/>Per voluntatem vero intelligo quandam 
+            <lb ed="#P" n="11"/>potentiam appetitiuam, similiter non
+            limi<lb ed="#P" n="12" break="no"/>tatam in essendo ad aliquod organum corpo 
+            <lb ed="#P" n="13"/>rale, sed simpliciter abstractam, &amp;
+            immate<lb ed="#P" n="14" break="no"/>rialem non alligatam organo corporali, &amp;  
+            <lb ed="#P" n="15"/>ideo sicut intellectus non restringitur ad
+            ali<lb ed="#P" n="16" break="no"/>quod genus cognoscibilium; ita voluntas non 
+            <lb ed="#P" n="17"/>limitatur ad aliquod genus appetibilium. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e346">
+            <lb ed="#P" n="18"/>Ex quo patet quomodo se habeant
+            huius<lb ed="#P" n="19" break="no"/>modi potentiae admuicem, sit onim se habet 
+            <lb ed="#P" n="20"/>voluntas ad intellectum, sicut appetitus
+            na<lb ed="#P" n="21" break="no"/>turalis ad formam naturalem, quam
+            sequi<lb ed="#P" n="22" break="no"/>tur, quia sicut quaecunque res per suum appe 
+            <lb ed="#P" n="23"/>titum naturalem tendit in illud, quod est
+            si<lb ed="#P" n="24" break="no"/>bi conueniens, &amp; refugit illud, quod est sibi 
+            <lb ed="#P" n="25"/>repugnans; ita suo modo natura intellectu. 
+            <lb ed="#P" n="26"/>&amp; voluntate praedita shomo per voluntaten 
+            <lb ed="#P" n="27"/>seu per actum voluntatis tendit in illud, quod 
+            <lb ed="#P" n="28"/>sibi proponitur tanquam conueniens, per in 
+            <lb ed="#P" n="29"/>tellectum vero refugit a contrario. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e375">
+            <lb ed="#P" n="30"/>In hoc tamen est dissimilitudo, quia appe 
+            <lb ed="#P" n="31"/>titus naturalis non differt realiter a forma na 
+            <lb ed="#P" n="32"/>turali, quam sequitur, appetitus autem
+            intel<lb ed="#P" n="33" break="no"/>lectiuus, qui est voluntas sequens intellectum 
+            <lb ed="#P" n="34"/>differt realiter ab anima, vt patebit in 3:
+            di<lb ed="#P" n="35" break="no"/>stinctione, vel in 2 libro sent. Dato tamen 
+            <lb ed="#P" n="36"/>quod non differrent realiter ab anima, nec 
+            <lb ed="#P" n="37"/>inter se, actus tamen voluntatis differt
+            rea<lb ed="#P" n="38" break="no"/>liter ab actu intellectus, vt patet omnibus 
+            <lb ed="#P" n="39"/>Propter quod consurgit rationabilis dubita. 
+            <lb ed="#P" n="40"/>tio: quare hoc contingat, puta cum appeti 
+            <lb ed="#P" n="41"/>tus naturalis sit idem cum forma naturali,  
+            <lb ed="#P" n="42"/>quam sequitur, vnde est, quod appetitus
+            in<lb ed="#P" n="43" break="no"/>tellectiuus differat realiter ab intellectu. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e408">
+            <lb ed="#P" n="44"/>Ad hoc possuni assignari plures causae. in 
+            <lb ed="#P" n="45"/>praesenti tamen vnam assigno; quia res natu 
+            <lb ed="#P" n="46"/>rales sufficienter determinantur ad illud quod 
+            <lb ed="#P" n="47"/>est sibi conueniens per suam formam, &amp; re- 
+            <lb ed="#P" n="48"/>fugiunt a contrario per eandem formam suffi 
+            <lb ed="#P" n="49"/>cienter; idcirco non oportet ponere in ea ali 
+            <lb ed="#P" n="50"/>quam aliam potentiam vel virtutem, quia 
+            <lb ed="#P" n="51"/>frustra fit per plura quod potest fieri per pau 
+            <lb ed="#P" n="52"/>ciora: natura autem intellectualis contrario 
+            <lb ed="#P" n="53"/>modo se habet, quia non sufficienter
+            incli<lb ed="#P" n="54" break="no"/>natur in sibi conueniens per intellectum,
+            fi<lb ed="#P" n="55" break="no"/>ue per actum eius, &amp; ideo oportet ponere in 
+            <lb ed="#P" n="56"/>ea aliam potentiam, puta voluntatem, per 
+            <lb ed="#P" n="57"/>cuius actum fiat ista inelinatio.  
+            <!--123.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 98 b -->
+            <lb ed="#P" n="58"/>Sed quaereret aliquis, quare ista determi-l 
+            <lb ed="#P" n="59"/>natio &amp; inclinatio non possit fieri per
+            intel<lb ed="#P" n="60" break="no"/>lectum, sicut in re naturali fit per formam 
+            <lb ed="#P" n="61"/>naturalem. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e456">
+            <lb ed="#P" n="62"/>Dico, quod forte ideo est, quia intellectus. 
+            <lb ed="#P" n="63"/>est ad opposita, forma autem naturalis est de 
+            <lb ed="#P" n="64"/>terminata ad vnum. Vel ideo est, quia intel 
+            <lb ed="#P" n="65"/>lectus ex sui natura non habet vim
+            inclina<lb ed="#P" n="66" break="no"/>tiuam, quod patet, siquidem omnis
+            inclina<lb ed="#P" n="67" break="no"/>tio incipit ab intra, &amp; terminatur per modum 
+            <lb ed="#P" n="68"/>complementi in aliquo extrinseco, actus aut 
+            <lb ed="#P" n="69"/>intellectus e contrario videtur incipere ab 
+            <lb ed="#P" n="70"/>extrinseco, &amp; terminari per modum comple 
+            <lb ed="#P" n="71"/>menti in ipso intellectu, ideo oportet ponero 
+            <lb ed="#P" n="72"/>aliam potentiam eius actus, quae habeat vim 
+            <lb ed="#P" n="73"/>inclinatiuam, sicut est voluntas, cuius
+            obie<lb ed="#P" n="74" break="no"/>ctum est bonum in rebus extra animam
+            exi<lb ed="#P" n="75" break="no"/>stens, vt patet 8. Metaph vnde in volendo 
+            <lb ed="#P" n="76"/>est motus animae ad res; sic ergo patet quid 
+            <lb ed="#P" n="77"/>intelligam per intellectum, &amp; voluntatem, 
+            <lb ed="#P" n="78"/>&amp; quomodo sint aeque immateriales, licet 
+            <lb ed="#P" n="79"/>voluntas, quia coniungitur rebus materiali 
+            <lb ed="#P" n="80"/>bus, videatur minus abstracta, &amp; tandem quo 
+            <lb ed="#P" n="81"/>modo se habeant adinuicem 
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e153-Dd1e503" type="articulus">
+          <head xml:id="gsX5tY-d1e153-Hd1e505">Articulus 2</head>
+          <head xml:id="gsX5tY-d1e153-Hd1e508" type="question-title">Utrum distinctio actuum sit a potentiis vel ab obiectis</head>
+          <p xml:id="gsX5tY-d1e153-d1e511">
+            <lb ed="#P" n="82"/>ARTICVLVS SECVNDVS 
+            <lb ed="#P" n="83"/>Vtrum distinctio actuum sit a potentijs 
+            <lb ed="#P" n="84"/>vel ab obiectis. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e520">
+            <lb ed="#P" n="85"/>AD euidentiam huius articuli est
+            inte<lb ed="#P" n="86" break="no"/>ligendum quod in actibus animae, de 
+            <lb ed="#P" n="87"/>quibus modo quaerimus, consurgit distinctis 
+            <lb ed="#P" n="88"/>quadrimembris. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e531">
+            <lb ed="#P" n="89"/>Primo secundum genus remotum, secun 
+            <lb ed="#P" n="90"/>dum quod possumus dicere, quod actus, qui 
+            <lb ed="#P" n="91"/>est intelligere, distinguatur a sentire, aut a 
+            <lb ed="#P" n="92"/>velle : Voco autem hanc distinctionem
+            se<lb ed="#P" n="93" break="no"/>cundum genus remotum, non quod
+            huius<lb ed="#P" n="94" break="no"/>modi actus non sint in eodem
+            praedicamen<lb ed="#P" n="95" break="no"/>to, sed quia habent maximam distinctionem, 
+            <lb ed="#P" n="96"/>quae potest esse inter actus animae, vt patet 
+            <lb ed="#P" n="97"/>cuilibet intuenti. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e554">
+            <lb ed="#P" n="98"/>Secundo modo distinguuntur actus
+            ani<lb ed="#P" n="99" break="no"/>mae pene genus propinquum, sicut actus 
+            <lb ed="#P" n="100"/>vnius potentiae potest esse distinctus ab actu 
+            <lb ed="#P" n="101"/>eiusdem potentiae, dummodo illi actus sint 
+            <lb ed="#P" n="102"/>ad obiecta diuersorum generum; puta actus 
+            <lb ed="#P" n="103"/>intelligendi colores, ab actu intelligendi sa 
+            <lb ed="#P" n="104"/>pores: Voco istam distinctionem secundum 
+            <lb ed="#P" n="105"/>genus propinquum: quia non est ita magna 
+            <lb ed="#P" n="106"/>sicut prima; est tamen maior quam speci¬ 
+            <!--124.xml-->
+            <pb ed="#P" n="99"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>fica, vt patet, magis enim differt actus intel 
+            <lb ed="#P" n="2"/>ligendi colorem ab actu intelligendi saporem, 
+            <lb ed="#P" n="3"/>quam actus intelligendi colorem rubeum ab 
+            <lb ed="#P" n="4"/>actu intelligendi colorem nigrum, quae ess 
+            <lb ed="#P" n="5"/>distinctio specifica. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e593">
+            <lb ed="#P" n="6"/>Tertio modo inuenimus distinctionem in 
+            <lb ed="#P" n="7"/>actibus animae secundum speciem, vt iam ta 
+            <lb ed="#P" n="8"/>ctum est, puta quia actus intelligendi album 
+            <lb ed="#P" n="9"/>differt specie ab actu intelligendi nigrum, 
+            <lb ed="#P" n="10"/>quod patet, magis enim differunt isti actus, 
+            <lb ed="#P" n="11"/>qui sunt respectu diuersorum obiectorum se 
+            <lb ed="#P" n="12"/>cundum speciem, quam illi, qui sunt
+            respe<lb ed="#P" n="13" break="no"/>ctu obiecti eiusdem speciei; sed illi differunt 
+            <lb ed="#P" n="14"/>numero; ergo &amp;c. Quod autem illi differant 
+            <lb ed="#P" n="15"/>numero, patebit inferius. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e617">
+            <lb ed="#P" n="16"/>Quarto distinguuntur actus animae secun 
+            <lb ed="#P" n="17"/>dum numerum, vt iam dictum est, quia actus 
+            <lb ed="#P" n="18"/>intelligendi album in isto tempore differt nu 
+            <lb ed="#P" n="19"/>mero ab actu intelligendi album in alio tem 
+            <lb ed="#P" n="20"/>pore; nam cum isti actus habeant aliquam 
+            <lb ed="#P" n="21"/>distinctionem, vel habent specificam, vel 
+            <lb ed="#P" n="22"/>numeralem, non specificam, quia sunt in
+            ea<lb ed="#P" n="23" break="no"/>dem potentia, &amp; respectu eiusdem cbiecti 
+            <lb ed="#P" n="24"/>specifici; ergo habebunt distinctionem
+            nu<lb ed="#P" n="25" break="no"/>meralem. lsti ergo sunt quatuor
+            principa<lb ed="#P" n="26" break="no"/>les modi distinctionis in actibus animae, ad 
+            <lb ed="#P" n="27"/>quos omnes alij reducuntur, 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e646">
+            <lb ed="#P" n="28"/>Cum ergo quaeritur an distinctio actuum  
+            <lb ed="#P" n="29"/>sit a potentijs, vel ab obiectis. Respondeo 
+            <lb ed="#P" n="30"/>quod si quaeratur primo modo, eorum distin 
+            <lb ed="#P" n="31"/>ctio est per obiecta, &amp; potentias; aliter tamen, 
+            <lb ed="#P" n="32"/>&amp; aliter; distinguuntur n. huiusmodi actus 
+            <lb ed="#P" n="33"/>secundum genus remotum, &amp; etiam
+            secun<lb ed="#P" n="34" break="no"/>dum speciem, quia maior distinctio
+            inclu<lb ed="#P" n="35" break="no"/>dit minorem, quatenus ergo specie
+            distin<lb ed="#P" n="36" break="no"/>guuntur, distinctio eorum est per obiecta, 
+            <lb ed="#P" n="37"/>in quantum vero distinguuntur genere
+            re<lb ed="#P" n="38" break="no"/>moto, sic distinguuntur per potentias. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e672">
+            <lb ed="#P" n="39"/>Primum probo sic: Distinctio specifica ho 
+            <lb ed="#P" n="40"/>rum actuum non est per ipsosmet actus; quia 
+            <lb ed="#P" n="41"/>si sufficienter essent distincti seipsis, tunc re 
+            <lb ed="#P" n="42"/>mota quacunque distinctione remanerent
+            di<lb ed="#P" n="43" break="no"/>stincti, quod est falsum, quia si ponatur per 
+            <lb ed="#P" n="44"/>impossibile, quod anima vnicam habeat
+            po<lb ed="#P" n="45" break="no"/>tentiam secundum speciem, quae habeat
+            v<lb ed="#P" n="46" break="no"/>num obiectum specificum, tunc nullus
+            di<lb ed="#P" n="47" break="no"/>ceret, quod actus animae essent distincti
+            se<lb ed="#P" n="48" break="no"/>cundum speciem; sic enim vna potentia
+            re<lb ed="#P" n="49" break="no"/>spectu eiusdem obiecti posset habere omnes 
+            <lb ed="#P" n="50"/>illos actus, quos habent modo singulae poten 
+            <lb ed="#P" n="51"/>tiae respectu singulorum obiectorum, quod 
+            <lb ed="#P" n="52"/>est absurdum: Vel eadem potentia posset ha 
+            <lb ed="#P" n="53"/>bere distinctos actus specle, respectu illius 
+            <lb ed="#P" n="54"/>obiecti; sicut nunc habet respectu
+            diuerso<lb ed="#P" n="55" break="no"/>rum, quod est falsum: Non ergo
+            distinguum<lb ed="#P" n="56" break="no"/>tur se ipsis actus, sed eorum distinctio spe 
+            <lb ed="#P" n="57"/>cifica necessario est reducenda, vel in poten 
+            <!--124.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 99 b -->
+            <lb ed="#P" n="58"/>tias, vel in obiecta. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e724">
+            <lb ed="#P" n="59"/>Probo autem quod non reducatur in
+            po<lb ed="#P" n="60" break="no"/>tentias, quia sequeretur, quod omnes actus 
+            <lb ed="#P" n="61"/>eiusdem potentiae essent eiusdem speciei, quod 
+            <lb ed="#P" n="62"/>est falsum, vt superius est ostensum:
+            sequi<lb ed="#P" n="63" break="no"/>tur ergo per locum a diuisione, quod distin 
+            <lb ed="#P" n="64"/>ctio specifica actuum reducatur in obiecta, 
+            <lb ed="#P" n="65"/>seu in formales rationes obiectorum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e743">
+            <lb ed="#P" n="66"/>Praeterea quod est causa plurificationis 
+            <lb ed="#P" n="67"/>specificae in actibus, est etiam causa eorum 
+            <lb ed="#P" n="68"/>specificae distinctionis;, sed obiecta sunt huius 
+            <lb ed="#P" n="69"/>modi; ergo &amp;c. Maior patet, quia causa plu 
+            <lb ed="#P" n="70"/>rificationis est etiam causa distinctionis
+            ali<lb ed="#P" n="71" break="no"/>quorum; Minor est etiam nota: Videmus 
+            <lb ed="#P" n="72"/>enim quod actus specie distincti
+            numeran<lb ed="#P" n="73" break="no"/>tur secundum numerum obiectorum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e763">
+            <lb ed="#P" n="74"/>Vlterius ad idem sicut se habet motus ad 
+            <lb ed="#P" n="75"/>terminum, ita actus ad obiectum, sed motus 
+            <lb ed="#P" n="76"/>distinguuntur specifice ab ipsis terminis; ergo 
+            <lb ed="#P" n="77"/>&amp; actus ab obiectis; Minor patet ex 5.
+            phy<lb ed="#P" n="78" break="no"/>sicorum, &amp; probo Maiorem, quia sicut
+            mo<lb ed="#P" n="79" break="no"/>tus est quaedam assecutio termini, ita actus 
+            <lb ed="#P" n="80"/>est quaedam assecutio obiecti. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e781">
+            <lb ed="#P" n="81"/>Nec obstat si dicatur, quod haec
+            similitu<lb ed="#P" n="82" break="no"/>do non valet: quia motus non differt
+            reali<lb ed="#P" n="83" break="no"/>ter a termino, sicut actus ab obiecto, quia
+            si<lb ed="#P" n="84" break="no"/>militudo non debet tenere per omnia, suffi 
+            <lb ed="#P" n="85"/>cit enim in proposito, quod motus, licet non 
+            <lb ed="#P" n="86"/>differat realiter a termino, specificetur, &amp;  
+            <lb ed="#P" n="87"/>plurificetur, secundum plurificationem
+            ter<lb ed="#P" n="88" break="no"/>minorum, vltra quod aliqui ponunt motum 
+            <lb ed="#P" n="89"/>differre realiter a termino. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e803">
+            <lb ed="#P" n="90"/>Iterum: Actus specificantur, &amp; distinguum 
+            <lb ed="#P" n="91"/>tur per illa, quibus maxime assimilantur, &amp; 
+            <lb ed="#P" n="92"/>ad quae habent essentialem ordinem; haec 
+            <lb ed="#P" n="93"/>sunt obiecta; ergo &amp;c. Minor est euidens, &amp;  
+            <lb ed="#P" n="94"/>probo Maiorem, nam actus animae cum sini 
+            <lb ed="#P" n="95"/>accidentia fluxibilia non sunt ex se in rerum 
+            <lb ed="#P" n="96"/>natura: sed per obiecta, sicut ergo non
+            ha<lb ed="#P" n="97" break="no"/>bent esse per se; ita nec possunt per se
+            suffi<lb ed="#P" n="98" break="no"/>cienter distingui, oportet ergo quod
+            distin<lb ed="#P" n="99" break="no"/>guantur per illa, quibus assimilantur, &amp; a 
+            <lb ed="#P" n="100"/>quibus essentialiter dependent, quae sunt ob 
+            <lb ed="#P" n="101"/>iecta. Concludo ergo quod distinctio
+            speci<lb ed="#P" n="102" break="no"/>fica quorumcunque actuum est ab obiectis 
+            <lb ed="#P" n="103"/>Non nego tamen, quod actus etiam se ipsis 
+            <lb ed="#P" n="104"/>distinguantur formaliter, &amp; intrinsece, sed  
+            <lb ed="#P" n="105"/>dico, quod haec distinctio intrinseca non est 
+            <lb ed="#P" n="106"/>sufficiens, &amp; requiritur alia extrinseca
+            sci<lb ed="#P" n="107" break="no"/>licet obiectorum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e845">
+            <lb ed="#P" n="108"/>Hoc explicato, declaro modo secundum 
+            <lb ed="#P" n="109"/>quod huiusmodi actus in quantum
+            distin<lb ed="#P" n="110" break="no"/>guuntur genere remoto, eorum distinctio sit 
+            <lb ed="#P" n="111"/>a potentijs sumenda, quod patet ex duobus; 
+            <lb ed="#P" n="112"/>primo: quia videmus in quibuslibet alijs 
+            <lb ed="#P" n="113"/>quod distinctio secundum genus subiicibile 
+            <lb ed="#P" n="114"/>est causa distinctionis eorum secundum ge¬ 
+            <!--125.xml-->
+            <pb ed="#P" n="100"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>nus praedicabile, vt patet in coloribus, &amp;  
+            <lb ed="#P" n="2"/>saporibus; sic erit in proposito, quod
+            di<lb ed="#P" n="3" break="no"/>stinctio actuum secundum potentias, quam 
+            <lb ed="#P" n="4"/>sunt quasi eorum genus subiicibile, erit
+            cau<lb ed="#P" n="5" break="no"/>sa eorundem, secundum genus praedicabile 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e880">
+            <lb ed="#P" n="6"/>Secundo, quia videmus, quod praefati
+            a<lb ed="#P" n="7" break="no"/>ctus magis distinguuntur penes potentias,  
+            <lb ed="#P" n="8"/>quam penes obiecta, si enim accipiamus
+            in<lb ed="#P" n="9" break="no"/>telligere, &amp; velle, siuae intelligere, &amp; sentire, 
+            <lb ed="#P" n="10"/>patet, quod huiusmodi actus distinguuntur 
+            <lb ed="#P" n="11"/>genere remoto, vt supra dictum est: Constat 
+            <lb ed="#P" n="12"/>autem, quod isti actus tantam habent
+            distin<lb ed="#P" n="13" break="no"/>ctionem, quantum ad potentias, quod tamen 
+            <lb ed="#P" n="14"/>possunt esse actus vnius obiecti; nam vnum, 
+            <lb ed="#P" n="15"/>&amp; eandem rem possumus intelligere, sentire 
+            <lb ed="#P" n="16"/>&amp; velle: Distinctio ergo ista cum sit maior,  
+            <lb ed="#P" n="17"/>&amp; principaliter illa, quam habent ab
+            obie<lb ed="#P" n="18" break="no"/>ctis, debet reduci tanquam in causam in
+            ip<lb ed="#P" n="19" break="no"/>sus potentias, per quas maxime
+            distinguun<lb ed="#P" n="20" break="no"/>tur secundum genus. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e916">
+            <lb ed="#P" n="21"/>Si autem quaeratur de actibus, prout
+            se<lb ed="#P" n="22" break="no"/>cundo modo distinguuntur, puta genere pro 
+            <lb ed="#P" n="23"/>pinquo, sicut sunt actus intelligendi colores 
+            <lb ed="#P" n="24"/>&amp; sapores; sic etiam dico quod
+            distinguun<lb ed="#P" n="25" break="no"/>tur per obiecta, &amp; per potentias; principalius 
+            <lb ed="#P" n="26"/>tamen per obiecta, &amp; quantum ad species, &amp;  
+            <lb ed="#P" n="27"/>quantum ad genus: Quod autem huiusmodi 
+            <lb ed="#P" n="28"/>actus quoad species principalius distinguan 
+            <lb ed="#P" n="29"/>tur per obiecta, quam per potentias, non 
+            <lb ed="#P" n="30"/>oportet probare, quia ostensum est esse
+            ve<lb ed="#P" n="31" break="no"/>rum in omnibus actibus, sed quod
+            principa<lb ed="#P" n="32" break="no"/>lius distinguantur per obiecta, quantum  
+            <lb ed="#P" n="33"/>ad genus probo tali ratione
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e947">
+            <lb ed="#P" n="34"/>Per illa principalius distinguuntur generice 
+            <lb ed="#P" n="35"/>huiusmodi actus, per quae magis apparent di 
+            <lb ed="#P" n="36"/>stincti; sed apparent magis distincti; per obie 
+            <lb ed="#P" n="37"/>cta, quam per potentias; ergo &amp;c. Maior
+            pa<lb ed="#P" n="38" break="no"/>tet, quia apparentia maioris distinctionis
+            es<lb ed="#P" n="39" break="no"/>set falsa, si non esset causa principalis illius 
+            <lb ed="#P" n="40"/>distinctionis, probatur Minor, videmus enim 
+            <lb ed="#P" n="41"/>quod praefati actus intelligendi sapores, &amp;  
+            <lb ed="#P" n="42"/>colores tantam distinctionem habent
+            respe<lb ed="#P" n="43" break="no"/>ctu obiectorum, quod nullo modo
+            pos<lb ed="#P" n="44" break="no"/>sunt esse de eodem obiecto, quamuis
+            pos<lb ed="#P" n="45" break="no"/>sint esse, &amp; de facto sint ab eadem potentia; 
+            <lb ed="#P" n="46"/>ergo principalius est reducenda haec
+            distin<lb ed="#P" n="47" break="no"/>ctio in obiecta, quam in potentias. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e980">
+            <lb ed="#P" n="48"/>Dico tamen vlterius, quod aliquo modo 
+            <lb ed="#P" n="49"/>concurrunt potentiae adhanc distinctionem; 
+            <lb ed="#P" n="50"/>nam quamuis vna, &amp; eadem potentia sit
+            ali<lb ed="#P" n="51" break="no"/>quando sub actu intelligendi colores, &amp;
+            ali<lb ed="#P" n="52" break="no"/>quando sub actu intelligendi sapores, non ta 
+            <lb ed="#P" n="53"/>men sub eadem ratione, nec eodem modo 
+            <lb ed="#P" n="54"/>fit sub vtroque actu, quia non est possibile 
+            <lb ed="#P" n="55"/>quod idem subiectum subiiciatur diuersis
+            a<lb ed="#P" n="56" break="no"/>ctibus secundum genus, vel secundum
+            spe<lb ed="#P" n="57" break="no"/>ciem secundum eandem potentiam: Vide¬ 
+            <!--125.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 100 b -->
+            <lb ed="#P" n="58"/>mus namque quod idem corpus quandom 
+            <lb ed="#P" n="59"/>est sub sanitate, quandou; sub infirmitate, non 
+            <lb ed="#P" n="60"/>tamen secundum eandem rationem
+            poten<lb ed="#P" n="61" break="no"/>tiae; Vnde dicit Aristo 3. physicorum, quod, si 
+            <lb ed="#P" n="62"/>potentia ad sanitatem, &amp; infirmitatem essei 
+            <lb ed="#P" n="63"/>eadem, etiam sanitas, &amp; infirmitas essent idem; 
+            <lb ed="#P" n="64"/>sic ergo possumus arguere in pposito, quod 
+            <lb ed="#P" n="65"/>si intellectus fieret sub istis actibus secundum 
+            <lb ed="#P" n="66"/>eandem rationem potentiae, isti actus essent 
+            <lb ed="#P" n="67"/>idem, &amp; sic patet quomodo principalius
+            re<lb ed="#P" n="68" break="no"/>ducantur in obiecta. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1035">
+            <lb ed="#P" n="69"/>Si autem quaeratur de actibus tertio
+            mo<lb ed="#P" n="70" break="no"/>do distinctis puta secundum speciem dico,  
+            <lb ed="#P" n="71"/>quod distinguuntur per obiecta, &amp; aliquo 
+            <lb ed="#P" n="72"/>modo per potentias; &amp; hoc patet per iam
+            di<lb ed="#P" n="73" break="no"/>cta, quia quamuis idem subiectum fiat sub 
+            <lb ed="#P" n="74"/>diuersis actibus genere vel specle, non
+            ta<lb ed="#P" n="75" break="no"/>men fit sub eis secundum eandem rationem 
+            <lb ed="#P" n="76"/>potentiae; ideo sequitur aliqua distinctio
+            in<lb ed="#P" n="77" break="no"/>ter illos ex parte potentiae. Quod autem prin 
+            <lb ed="#P" n="78"/>cipalius distinguantur per obiecta patet, tum 
+            <lb ed="#P" n="79"/>quia haec distinctio est specifica tantum, quae 
+            <lb ed="#P" n="80"/>simpliciter causatur ab obiectis, vt probatum 
+            <lb ed="#P" n="81"/>fuit superius, tum quia per obiecta apparent 
+            <lb ed="#P" n="82"/>euidenter distincti, cum non possint esse
+            re<lb ed="#P" n="83" break="no"/>spectu eiusdem obiecti specifici, &amp; tamen 
+            <lb ed="#P" n="84"/>possunt esse eiusdem potenriae specificae, &amp;  
+            <lb ed="#P" n="85"/>numeraliter acceptae.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1074">
+            <lb ed="#P" n="86"/>Si tandem quaeratur de, actibus distinctis 
+            <lb ed="#P" n="87"/>quarto modo scilicet secundum numerum 
+            <lb ed="#P" n="88"/>sic dico absolute, quod potentia est causa
+            il<lb ed="#P" n="89" break="no"/>lius distinctionis connotando tamen aliquid 
+            <lb ed="#P" n="90"/>extrinsecum ratione cuius interrumpitur quam 
+            <lb ed="#P" n="91"/>doque actus, quod patet, nam quod faciunt di 
+            <lb ed="#P" n="92"/>uersi intellectus in eodem tempore, hoc
+            po<lb ed="#P" n="93" break="no"/>test facere vnus in alio, &amp; alio tempore, sed  
+            <lb ed="#P" n="94"/>diuersi intellectus sufficiunt ad distinctionem 
+            <lb ed="#P" n="95"/>numeralem actuum respectu eiusdem albi, 
+            <lb ed="#P" n="96"/>&amp; in eodem tempore; ergo &amp;c.Ex quo appa 
+            <lb ed="#P" n="97"/>ret immediate, quod distinctio numeralis 
+            <lb ed="#P" n="98"/>actuum potest prouenire ex parte potentiae 
+            <lb ed="#P" n="99"/>duobus modis; vno modo si feratur in idem 
+            <lb ed="#P" n="100"/>obiectum alio, &amp; alio tempore, alio modo si 
+            <lb ed="#P" n="101"/>diuersae potentiae, solum numero differentes,  
+            <lb ed="#P" n="102"/>ferantur in idem obiectum. Similiter posset 
+            <lb ed="#P" n="103"/>etiam prouenire haec distinctio ex parte
+            ob<lb ed="#P" n="104" break="no"/>iectorum duobus alijs modis, puta si vnus
+            in<lb ed="#P" n="105" break="no"/>tellectus posset simul intelligere duo alba di 
+            <lb ed="#P" n="106"/>uersis actibus, sicut forte aliqui dicerent, alio 
+            <lb ed="#P" n="107"/>modo si duo intellectus intelligant idem
+            al<lb ed="#P" n="108" break="no"/>bum, duo ergo concurrent simul ad 
+            <lb ed="#P" n="109"/>illam distinctionem numeralem; 
+            <lb ed="#P" n="110"/>potentia scilicet, &amp; obiectum; 
+            <lb ed="#P" n="111"/>sic ergo patet quid
+            di<lb ed="#P" n="112" break="no"/>cedum sit ad hoc 
+            <lb ed="#P" n="113"/>quaesitum.
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e153-Dd1e1138" type="articulus">
+          <head xml:id="gsX5tY-d1e153-Hd1e1140">Articulus 3</head>
+          <head xml:id="gsX5tY-d1e153-Hd1e1143" type="question-title">An obiectum fruitionis obiciat se voluntati 
+            ad fruendum et intellectu ad videndum sub eadem ratione.</head>
+          <p xml:id="gsX5tY-d1e153-d1e1146">
+            <!--126.xml-->
+            <pb ed="#P" n="101"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ARTICVLVS TERTIVS. 
+            <lb ed="#P" n="2"/>An obiectum fruitionis obiiciat se voluntati 
+            <lb ed="#P" n="3"/>ad fruendum, &amp; intellectui ad
+            viden<lb ed="#P" n="4" break="no"/>dum sub eadem ratione.
+            <lb ed="#P" n="5"/>conesim ilexodo¬ei tmonoMIvi <!-- possible erroneous line -->
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1168">
+            <lb ed="#P" n="6"/>AD hoc dicunt aliqui, quod se
+            obij<lb ed="#P" n="7" break="no"/> ciat necessario sub alia, &amp; alia ratione 
+            <lb ed="#P" n="8"/>formali; nam si obiiceret se sub eadem
+            ra<lb ed="#P" n="9" break="no"/>tione formali, non videretur quomodo
+            cau<lb ed="#P" n="10" break="no"/>saret distinctos actus in his potentijs; Volunt 
+            <lb ed="#P" n="11"/>ergo, quod eadem res materialiter sit
+            obie<lb ed="#P" n="12" break="no"/>ctum intellectus, &amp; voluntatis, sub diuersa 
+            <lb ed="#P" n="13"/>rone formali, &amp; hoc sufficit eis ad saluandum 
+            <lb ed="#P" n="14"/>distinctionem in actibus propter duo; primo 
+            <lb ed="#P" n="15"/>quia non oporteret dare tantam
+            diuersita<lb ed="#P" n="16" break="no"/>tem in principijs, quanta est in principiatis. 
+            <lb ed="#P" n="17"/>secundo, quia actus non distinguuntur per 
+            <lb ed="#P" n="18"/>illud, quod est materiale in obiecto, sed per 
+            <lb ed="#P" n="19"/>illud, quod est formale, &amp; quia haec
+            posi<lb ed="#P" n="20" break="no"/>tio videtur fuisse satis communis; ideo confir 
+            <lb ed="#P" n="21"/>mo illam tali ratione Sicut se habet potentia 
+            <lb ed="#P" n="22"/>ad actus, ita actus ad obiecta, sed duae poten 
+            <lb ed="#P" n="23"/>tiae non possunt habere eundem actum; ergo 
+            <lb ed="#P" n="24"/>duo actus, nequeunt habere formaliter idem 
+            <lb ed="#P" n="25"/>obiectum; Maior est nota, quia actus sunt
+            fi<lb ed="#P" n="26" break="no"/>nes potentiarum, &amp; actuum fines, sunt
+            obie<lb ed="#P" n="27" break="no"/>cta: Minor conceditur ab omnibus 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1218">
+            <lb ed="#P" n="28"/>Nec obstat si dicatur, quod stante hac pro 
+            <lb ed="#P" n="29"/>portione sicut duae potentiae nulio modo 
+            <lb ed="#P" n="30"/>possunt habere eundem actum realiter; ita 
+            <lb ed="#P" n="31"/>nec duo actus poterunt habere idem obiectum 
+            <lb ed="#P" n="32"/>realiter, quod est falsum: Quia dicerent illi 
+            <lb ed="#P" n="33"/>quod non est omnino simile, siquidem actu 
+            <lb ed="#P" n="34"/>ita sunt fines potentiarum, quod non sunt 
+            <lb ed="#P" n="35"/>principia earum, obiecta autem ita sunt sines 
+            <lb ed="#P" n="36"/>actuum, quod etiam sunt principia, nunc
+            au<lb ed="#P" n="37" break="no"/>tem non oportet dare tantam diuersitatem 
+            <lb ed="#P" n="38"/>in principijs, quantam in principiatis, vt
+            di<lb ed="#P" n="39" break="no"/>ctum fuit, propter quod stante sola diuersita 
+            <lb ed="#P" n="40"/>te rationis, in obiecto poterit esse diuersitas 
+            <lb ed="#P" n="41"/>tealis in actibus.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1252">
+            <lb ed="#P" n="42"/>Contra hanc positionem arguo tripliciter. 
+            <lb ed="#P" n="43"/>Primo. llluo, quod mouet potentiam ad 
+            <lb ed="#P" n="44"/>aliquem actum realem, debet mouere sul 
+            <lb ed="#P" n="45"/>ratione reali, sed obiecta harum potentiarum 
+            <lb ed="#P" n="46"/>mouent eas ad actus reales; ergo, &amp; rationes; 
+            <lb ed="#P" n="47"/>ub quibus mouent, debent esse reales;
+            Mi<lb ed="#P" n="48" break="no"/>nor est euidens probo ergo Maiorem: Nam  
+            <lb ed="#P" n="49"/>si rationes, sub quibus obiectum mouet, essent 
+            <lb ed="#P" n="50"/>constitutae per actum rationis; tunc ens ratio 
+            <lb ed="#P" n="51"/>nis esset causa entis realis, quod est absurdum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1276">
+            <lb ed="#P" n="52"/>Secundo, ratio formalis in obiecto non pro 
+            <lb ed="#P" n="53"/>cedit actum potentiae, cum sit eius causa, sed  
+            <!--126.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 101 b -->
+            <lb ed="#P" n="54"/>diuersae rationes in obiecto non possunt prae 
+            <lb ed="#P" n="55"/>cedere saltem actus intellectus, cum per
+            ip<lb ed="#P" n="56" break="no"/>um constituantur, ergo frustra ponuntur.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1296">
+            <lb ed="#P" n="57"/>Tertio istae rationes formales, vel ita se ha 
+            <lb ed="#P" n="58"/>bent, quod ratio formalis obiecti voluntatis 
+            <lb ed="#P" n="59"/>continetur sub ratione formali obiecti
+            intel<lb ed="#P" n="60" break="no"/>lectus, vel e contra; vel ambae sub vna tertia 
+            <lb ed="#P" n="61"/>ratione, vel sunt aequales, &amp; vna non
+            conti<lb ed="#P" n="62" break="no"/>netur sub altera, nec ambae sub tertia Primum 
+            <lb ed="#P" n="63"/>non potest dici, quia intellectus, &amp; voluntas 
+            <lb ed="#P" n="64"/>sunt potentiae aeque abstracte, vt patuit, &amp; 
+            <lb ed="#P" n="65"/>per consequens in quod tendit vna, potest 
+            <lb ed="#P" n="66"/>tendere &amp; altera: Nec. potest dici e contra 
+            <lb ed="#P" n="67"/>propter eandem rationem, &amp; etiam quia
+            se<lb ed="#P" n="68" break="no"/>queretur quod voluntas posset velle aliquid 
+            <lb ed="#P" n="69"/>non cognitum. Item non potest dici quod 
+            <lb ed="#P" n="70"/>ambae contineantur sub tertia; quia si
+            moue<lb ed="#P" n="71" break="no"/>rentur potentiae secundum illam tertiam
+            ra<lb ed="#P" n="72" break="no"/>tionem non mouerentur vt distinctae, sed ma 
+            <lb ed="#P" n="73"/>gis vt vna, similiter non potest dici quod am  
+            <lb ed="#P" n="74"/>bae sint aequales; ita vt non reducantur in se 
+            <lb ed="#P" n="75"/>inuicem, nec in tertiam rationem: quia hoc 
+            <lb ed="#P" n="76"/>posito sequeretur quod intellectus non
+            in<lb ed="#P" n="77" break="no"/>telligeret illud, quod vult volantes, nec
+            vo<lb ed="#P" n="78" break="no"/>luntas vellet, quod intelligeret intellectus; 
+            <lb ed="#P" n="79"/>hoc autem est absurdum, quod autem hoc se 
+            <lb ed="#P" n="80"/>quatur patet, nam totum, quod intelligit
+            in<lb ed="#P" n="81" break="no"/>tellectus, intelligit sub ratione sui obiecti, &amp;  
+            <lb ed="#P" n="82"/>quicquid vult voluntas vult sub ratione sui 
+            <lb ed="#P" n="83"/>obiecti: Videtur ergo quod haec posito non 
+            <lb ed="#P" n="84"/>possit sustineri. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1359">
+            <lb ed="#P" n="85"/>Ideo dicunt alij, quod eadem res
+            obijci<lb ed="#P" n="86" break="no"/>tur intellectui, &amp; voluntati sub eadem
+            ra<lb ed="#P" n="87" break="no"/>tione, &amp; non sub diuersis propter rationes 
+            <lb ed="#P" n="88"/>iam factas, &amp; si queratur ab eis quomodo cau 
+            <lb ed="#P" n="89"/>set diuersos actus in istis potentijs, dicunt,  
+            <lb ed="#P" n="90"/>quod non est inconueniens, quod idem agens 
+            <lb ed="#P" n="91"/>aequiuocum causet diuersos actus etiam per 
+            <lb ed="#P" n="92"/>eadem rationem in diuersis subiectis; sicut 
+            <lb ed="#P" n="93"/>patet de Sole, qui eodem calore descicat
+            lu<lb ed="#P" n="94" break="no"/>tum, &amp; liquaefacit ceram, sic obiectum fruibi 
+            <lb ed="#P" n="95"/>se per eandem rationem realem poterit
+            mo<lb ed="#P" n="96" break="no"/>uere intellectum ad intelligendum, &amp; volun 
+            <lb ed="#P" n="97"/>tatem ad sruendum.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1390">
+            <lb ed="#P" n="98"/>Contra hanc positionem arguo vnica
+            ra<lb ed="#P" n="99" break="no"/>tione. Si idem posset obijci intellectui, &amp; vo 
+            <lb ed="#P" n="100"/>luntati secundum eandem rationem,
+            seque<lb ed="#P" n="101" break="no"/>retur, quod actus vtriusque potentiae essent 
+            <lb ed="#P" n="102"/>eiusdem speciei, quod est falsum vt
+            concedi<lb ed="#P" n="103" break="no"/>tur ab omnibus, consequentia probatur, quia 
+            <lb ed="#P" n="104"/>actus specificantur ab obiectis; non enim ex 
+            <lb ed="#P" n="105"/>se ipsis sufficienter, nec a potentijs specificari 
+            <lb ed="#P" n="106"/>possunt, vt dictum est superius, vbi ergo est 
+            <lb ed="#P" n="107"/>omnino idem obiectum; ibi actus sunt
+            eius<lb ed="#P" n="108" break="no"/>dem speciei.¬ 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1416">
+            <lb ed="#P" n="109"/>Alij dicunt quod obiectum fruitionis siue 
+            <lb ed="#P" n="110"/>quodcunque aliud obiicit se intellectui, &amp;  
+            <!--127.xml-->
+            <pb ed="#P" n="102"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>voluntati sub alia, &amp; alia ratione; ita tamen 
+            <lb ed="#P" n="2"/>quod huiusmodi rationes non sunt constitu 
+            <lb ed="#P" n="3"/>tae per actum intellectus, quia sic
+            coincide<lb ed="#P" n="4" break="no"/>rent cum prima positone, sed sunt in obie 
+            <lb ed="#P" n="5"/>cto ex natura rei distinctae, non sicut duae 
+            <lb ed="#P" n="6"/>res, sed sicut vna res materialis, formaliter ta 
+            <lb ed="#P" n="7"/>men inter se distinctae, quia conceptus
+            quid<lb ed="#P" n="8" break="no"/>ditatiuus vnius rationis non includitur in con 
+            <lb ed="#P" n="9"/>ceptu quidditatiuo alterius, &amp; totum hoc est 
+            <lb ed="#P" n="10"/>ex natura rei; quia non ideo hae rationes se 
+            <lb ed="#P" n="11"/>inuicem non includunt, quia intellectus sic 
+            <lb ed="#P" n="12"/>concipiat eas, sed magis e conuerso; ideo
+            in<lb ed="#P" n="13" break="no"/>tellectus sic concipit eas distinctis concepti 
+            <lb ed="#P" n="14"/>bus, quia formaliter ex natura rei sunt distin 
+            <lb ed="#P" n="15"/>ctae: ratio enim formalis in obiecto
+            intelle<lb ed="#P" n="16" break="no"/>ctus debet praecedere actum ipsius &amp; ista est 
+            <lb ed="#P" n="17"/>meglior ratio, quae possit fieri pro hac
+            po<lb ed="#P" n="18" break="no"/>sitiorie. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1469">
+            <lb ed="#P" n="19"/>Hanc tamen positionem non approbo, &amp; 
+            <lb ed="#P" n="20"/>possent contra eam induci omnia, quae indum 
+            <lb ed="#P" n="21"/>cuntur ab aliquibus contra formalitates
+            ip<lb ed="#P" n="22" break="no"/>sius, hoc tamen non intendo facere, sed con 
+            <lb ed="#P" n="23"/>tra eam induco tertiam rationem, quae indum 
+            <lb ed="#P" n="24"/>cebatur superius contra primam, nam sicut 
+            <lb ed="#P" n="25"/>ibi sequebatur, quod aliqua ratio cognita, 
+            <lb ed="#P" n="26"/>esset non volita, &amp; aliqua volita, esset non 
+            <lb ed="#P" n="27"/>cognita; ita etiam contra hanc sequitur idem; 
+            <lb ed="#P" n="28"/>&amp; multo euidentius, quia iste ponit
+            maio<lb ed="#P" n="29" break="no"/>rem distinctionem inter has rationes, cum 
+            <lb ed="#P" n="30"/>hic ponantur distinctae ex natura rei;
+            se<lb ed="#P" n="31" break="no"/>cundum vero primam opinionem ponuntur 
+            <lb ed="#P" n="32"/>distinctae opere intellectus. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1502">
+            <lb ed="#P" n="33"/>Propter has difficultates, &amp; plures alias 
+            <lb ed="#P" n="34"/>fortiores (saluo meliori iudicio) vdetur
+            mi<lb ed="#P" n="35" break="no"/>hi aliter dicendum esse. Ad cuius
+            euiden<lb ed="#P" n="36" break="no"/>tiam est notandum, quod obiectum
+            cuius<lb ed="#P" n="37" break="no"/>cunque potentiae cognitiuae, vel appetitiuae se 
+            <lb ed="#P" n="38"/>habet ad suam potentiam in duplici
+            habitu<lb ed="#P" n="39" break="no"/>dine, scilicet in habitudine mouentis, &amp; in 
+            <lb ed="#P" n="40"/>habitudine terminantis, habet enim se
+            pri<lb ed="#P" n="41" break="no"/>mo in ratione mouentis, quia mouet
+            poten<lb ed="#P" n="42" break="no"/>tiam ad actum suum, (suppono enim, quod 
+            <lb ed="#P" n="43"/>potentiae cognitiuae, &amp; appetitiuae sint
+            passi<lb ed="#P" n="44" break="no"/>uae) habet etiam se in ratione terminantis
+            a<lb ed="#P" n="45" break="no"/>ctum potentiae, siquidem actus potentiae ha 
+            <lb ed="#P" n="46"/>bent quandam essentialem habitudinem ad 
+            <lb ed="#P" n="47"/>obiectum, a qua nequeunt absolui, nec
+            se<lb ed="#P" n="48" break="no"/>cundum rem, nec etiam forte secundum
+            in<lb ed="#P" n="49" break="no"/>tellectum, immo ita essentialis est haec habi 
+            <lb ed="#P" n="50"/>tudo actui, quod quidam dixerunt actum in 
+            <lb ed="#P" n="51"/>telligendi, siue quarumcunque aliarum poten 
+            <lb ed="#P" n="52"/>tiarum non esse aliud, quam quidam
+            respe<lb ed="#P" n="53" break="no"/>ctus, quamuis hoc non credam: de quo
+            ta<lb ed="#P" n="54" break="no"/>men nihil ad praesens.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1552">
+            <lb ed="#P" n="55"/>Hoc praemisso cum quaeritur an obiectum 
+            <lb ed="#P" n="56"/>fruitionis obijciat se voluntati, &amp;
+            intelle<lb ed="#P" n="57" break="no"/>ctui sub eadem, vel sub diuersa ratione. Re 
+            <!--127.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 102 b -->
+            <lb ed="#P" n="58"/>spondeo per duas conclusiones. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1570">
+            <lb ed="#P" n="59"/>Prima est, quod comparando obiectum 
+            <lb ed="#P" n="60"/>fruitionis ad istas duas potentias in ratione 
+            <lb ed="#P" n="61"/>mouentis, sic obijcit se eis sub alia, &amp; alia 
+            <lb ed="#P" n="62"/>ratione. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1581">
+            <lb ed="#P" n="63"/>Secunda est, quod si comparetur ad istas, 
+            <lb ed="#P" n="64"/>potentias in ratione terminantis, sic obijcit 
+            <lb ed="#P" n="65"/>se eis sub alia, &amp; alia ratione. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1590">
+            <lb ed="#P" n="66"/>Primam conclusionem probo tali ratione, 
+            <lb ed="#P" n="67"/>Quandocunque aliquod mouens mouet duo 
+            <lb ed="#P" n="68"/>mobilia, secundum quondam ordinem,
+            pu<lb ed="#P" n="69" break="no"/>ta vnum mediante altero, semper mouet
+            se<lb ed="#P" n="70" break="no"/>cundum eadem ratione qua mouet primum 
+            <lb ed="#P" n="71"/>sed obiectum fruitionis (vt supponitur
+            no<lb ed="#P" n="72" break="no"/>tum) mouet intellectum, &amp; voluntatem ad 
+            <lb ed="#P" n="73"/>suos actus, &amp; voluntatem mouet mediante 
+            <lb ed="#P" n="74"/>intellectu, vt conceditur ab omnibus; ergo 
+            <lb ed="#P" n="75"/>sub eadem ratione, sub qua mouet
+            volunta<lb ed="#P" n="76" break="no"/>tem ad actum fruitionis, prius ordine quodam 
+            <lb ed="#P" n="77"/>mouebit intellectum ad actum cognitionis; 
+            <lb ed="#P" n="78"/>Minor est nota, &amp; Maior probatur per hoc, 
+            <lb ed="#P" n="79"/>quod si aliquod mouens moueret duo mobi 
+            <lb ed="#P" n="80"/>lia, vnum mediante altero, &amp; poneretur, quod 
+            <lb ed="#P" n="81"/>per altam rationem moueret primum, &amp; per 
+            <lb ed="#P" n="82"/>aliam secundum, talis modus mouendi
+            de<lb ed="#P" n="83" break="no"/>strueret se ipsum, cum enim ponatur per alia 
+            <lb ed="#P" n="84"/>rationem mouere secundum, &amp; per aliam 
+            <lb ed="#P" n="85"/>primum, oportet dicere quod per illant
+            ra<lb ed="#P" n="86" break="no"/>tionem per quam mouet secundum, non mo 
+            <lb ed="#P" n="87"/>ueat primum, &amp; per consequens non
+            moue<lb ed="#P" n="88" break="no"/>bit secundum mediante primo. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1643">
+            <lb ed="#P" n="89"/>Secunda conclusio probatur tripliciter. 
+            <lb ed="#P" n="90"/>Primo si obiectum fruitionis terminaret 
+            <lb ed="#P" n="91"/>actum cognitionis, &amp; actum fruitionis sub 
+            <lb ed="#P" n="92"/>eadem ratione formali, sequeretur, quod prae 
+            <lb ed="#P" n="93"/>fati duo actus essent eiusdem speciei, Conse 
+            <lb ed="#P" n="94"/>quens est falsum, ergo, &amp; antecedens: Falsi 
+            <lb ed="#P" n="95"/>tas consequentis patet; quia isti actus specie 
+            <lb ed="#P" n="96"/>distinguuntur, distinctio autem inter eos non 
+            <lb ed="#P" n="97"/>potest esse sine concursu obiectorum sub 
+            <lb ed="#P" n="98"/>alia, &amp; alia ratione, Consequentia patet por 
+            <lb ed="#P" n="99"/>ta, quae dicta sunt superius, vbi ostensum es,  
+            <lb ed="#P" n="100"/>quod omnis actus recipit specie ab obiecto. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1672">
+            <lb ed="#P" n="101"/>Confirmatur, quia illud quod concurrit 
+            <lb ed="#P" n="102"/>necessario ad distinctionem pure specificam  
+            <lb ed="#P" n="103"/>in actibus, concurrit etiam necessario ad
+            di<lb ed="#P" n="104" break="no"/>stinctionem secundum genus; non enim est 
+            <lb ed="#P" n="105"/>dare genus sine specie, nec distinctio
+            generi<lb ed="#P" n="106" break="no"/>ca sine distinctione specifica, ergo, &amp;c. Non 
+            <lb ed="#P" n="107"/>sufficit ergo dicere, quod praefati actus sint 
+            <lb ed="#P" n="108"/>distincti secundum genus, quia sunt in diuer 
+            <lb ed="#P" n="109"/>sis potentijs, sed vlterius oportet ostendere 
+            <lb ed="#P" n="110"/>quomodo sint collocati in distinctis
+            specie<lb ed="#P" n="111" break="no"/>bus secundum sua genera, quod non potest 
+            <lb ed="#P" n="112"/>sieri sine obiecto, concurrit ergo ibi necessa 
+            <lb ed="#P" n="113"/>rio obiectum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1703">
+            <lb ed="#P" n="114"/>Secundo; si obiectum fruibile termina 
+            <!--128.xml-->
+            <pb ed="#P" n="103"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ret hos duos actus sub eadem ratione,
+            seque<lb ed="#P" n="2" break="no"/>retur quod duae habitudines diuersarum
+            ra<lb ed="#P" n="3" break="no"/>tionum possent habere eundem terminum 
+            <lb ed="#P" n="4"/>formaliter, consequens est falsum, ergo &amp; 
+            <lb ed="#P" n="5"/>antecedens, Consequentiam probo; nam, cum 
+            <lb ed="#P" n="6"/>isti duo actus habeant essentiaiem
+            habitudi<lb ed="#P" n="7" break="no"/>nem ad obiectum fruibile, si ipsi sunt
+            diuer<lb ed="#P" n="8" break="no"/>sarum rationum, etiam eorum essentiales ha 
+            <lb ed="#P" n="9"/>bitudines erunt diuersarum rationum.
+            Fal<lb ed="#P" n="10" break="no"/>sitatem consequentis probo, quia si habitudi 
+            <lb ed="#P" n="11"/>nes diuersarum rationum possent habere eum 
+            <lb ed="#P" n="12"/>dem terminum formaliter, tunc terminus non 
+            <lb ed="#P" n="13"/>faceret per se ad vnitatem habitudinis, &amp;  
+            <lb ed="#P" n="14"/>er consequens nec ad diuersitatem, quod 
+            <lb ed="#P" n="15"/>est falsum; nam videmus, quod, stante eoden 
+            <lb ed="#P" n="16"/>fundamento, puta albedine, plurificatur in 
+            <lb ed="#P" n="17"/>ea habitudo, &amp; relatio, propter diuersitatem 
+            <lb ed="#P" n="18"/>terminorum, alia enim est relatio
+            similitudi<lb ed="#P" n="19" break="no"/>nis, quae fundatur in albo respectu alterius 
+            <lb ed="#P" n="20"/>albi, &amp; alia est relatio dissimilitudinis, quae 
+            <lb ed="#P" n="21"/>fundatur in eodem albo, respectu
+            nigredi<lb ed="#P" n="22" break="no"/>nis. Si ergo relationes plurificantur ratione 
+            <lb ed="#P" n="23"/>terminorum, sicut &amp; fundamentorum, a
+            si<lb ed="#P" n="24" break="no"/>mili; sicut diuersae habitudines, &amp; relatione; 
+            <lb ed="#P" n="25"/>non possunt fundari in eodem fundamento, 
+            <lb ed="#P" n="26"/>sub eadem ratione formali; ita, nec etiam pos 
+            <lb ed="#P" n="27"/>sunt terminari ad eundem terminum, sub 
+            <lb ed="#P" n="28"/>eadem ratione formali. Quod autem
+            diuer<lb ed="#P" n="29" break="no"/>sae relationes non fundentur in eodem subie 
+            <lb ed="#P" n="30"/>cto sub eadem ratione formali, patet per Ar 
+            <lb ed="#P" n="31"/>stot. 3. physicorum dicentem, quod
+            poten<lb ed="#P" n="32" break="no"/>tia ad sanitatem, &amp; infirmitatem non est
+            ea<lb ed="#P" n="33" break="no"/>dem, quia tunc sanitas, &amp; infirmitas essent 
+            <lb ed="#P" n="34"/>idem, sic in proposito, si albedo sub eadem  
+            <lb ed="#P" n="35"/>ratione fundaret similitudinem, &amp;
+            dissimili<lb ed="#P" n="36" break="no"/>tudinem, tunc essent idem, &amp; esset eadem re 
+            <lb ed="#P" n="37"/>latio, quod est absurdum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1794">
+            <lb ed="#P" n="38"/>Tertio; si obiectum fruitionis terminaret 
+            <lb ed="#P" n="39"/>actum visionis, &amp; fruitionis sub eadem ratio 
+            <lb ed="#P" n="40"/>ne formali, sequeretur, quod eandem ex eis 
+            <lb ed="#P" n="41"/>denominationem acciperet, consequens est 
+            <lb ed="#P" n="42"/>falsum; ergo &amp;c. Consequentia est nota, quia 
+            <lb ed="#P" n="43"/>actus secundum rationem terminandi habet 
+            <lb ed="#P" n="44"/>essentialem habitudinem ad obiectum, igitur 
+            <lb ed="#P" n="45"/>obiectum non sortitur denominationem ex 
+            <lb ed="#P" n="46"/>actu, nisi secundum rationem terminandi; se 
+            <lb ed="#P" n="47"/>cundum enim rationem mouendi, magis
+            ha<lb ed="#P" n="48" break="no"/>bet habitudinem accidentalem, vt inferius pa 
+            <lb ed="#P" n="49"/>tebit. Falsitatem consequentis declaro; nam 
+            <lb ed="#P" n="50"/>obiectum fruibile, sicut denominatur
+            fruibi<lb ed="#P" n="51" break="no"/>le ex actu fruitionis, ita denominatur
+            visibi<lb ed="#P" n="52" break="no"/>le ex actu visionis, quod non est propter aliud,  
+            <lb ed="#P" n="53"/>nisi quia sub alia, &amp; alia ratione terminat 
+            <lb ed="#P" n="54"/>vtrumque actum, terminat enim actum
+            vi<lb ed="#P" n="55" break="no"/>sionis sub ratione assimilantis, vnde dicit D. 
+            <lb ed="#P" n="56"/>loannes in sua prima Cannonica cap. 5.
+            sci<lb ed="#P" n="57" break="no"/>mus quoniam cum apparuerit, similes ei eri¬ 
+            <!--128.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 103 b -->
+            <lb ed="#P" n="58"/>mus, quoniam videbimus eum sicuti est;
+            vi<lb ed="#P" n="59" break="no"/>sio enim est quaedam assimilatio; ldem autem 
+            <lb ed="#P" n="60"/>obiectum terminat actum fruitionis sub
+            ra<lb ed="#P" n="61" break="no"/>tione quietantis, cum fruitio sit quaedam
+            in<lb ed="#P" n="62" break="no"/>haesio, vt patuit superius, quae cum sua ratione 
+            <lb ed="#P" n="63"/>requirit terminum quietanrem, &amp; sic patent 
+            <lb ed="#P" n="64"/>ambae conclusiones. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1862">
+            <lb ed="#P" n="65"/>Contra primam conclusionem occurrit 
+            <lb ed="#P" n="66"/>dubitatio, quia dictum est, quod obiectum 
+            <lb ed="#P" n="67"/>sub alia ratione mouet potentiam ad actum, 
+            <lb ed="#P" n="68"/>&amp; sub alia terminat; Quod alicui non
+            vide<lb ed="#P" n="69" break="no"/>bitur verum, nam diceret aliquis, quod ideo 
+            <lb ed="#P" n="70"/>actus dependet ab obiecto, &amp; terminatur ad 
+            <lb ed="#P" n="71"/>ipsum, quia causatur ab ipso; sub eadem ergo 
+            <lb ed="#P" n="72"/>ratione causabit, &amp; terminabit actum, 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1882">
+            <lb ed="#P" n="73"/>Ad hoc respondeo, quod non ideo actus 
+            <lb ed="#P" n="74"/>depedet ab obiecto, &amp; terminatur ad ipsum; 
+            <lb ed="#P" n="75"/>quia causetur ab eo, sed quia obiectum
+            re<lb ed="#P" n="76" break="no"/>spectu potentiae informatae actu, se habet
+            si<lb ed="#P" n="77" break="no"/>cut finis cuius, actus autem sicut sinis quo, 
+            <lb ed="#P" n="78"/>nunc autem finis quo semper habet
+            essentia<lb ed="#P" n="79" break="no"/>nem habitudinem ad finem cuius, a qua habi 
+            <lb ed="#P" n="80"/>tudine non potest absolui nec secundum re. 
+            <lb ed="#P" n="81"/>nec fotte secundum intellectum, quia est
+            si<lb ed="#P" n="82" break="no"/>bi quasi essentialis; prima vero habitudo, qua 
+            <lb ed="#P" n="83"/>habet actus ad obiectum in ratione
+            mouen<lb ed="#P" n="84" break="no"/>tis est sibi quasi accidentalis, in tantum, quod 
+            <lb ed="#P" n="85"/>potest ab eo separari, &amp; actu separatur; Vide 
+            <lb ed="#P" n="86"/>mus enim quod actus intelligendi non phan 
+            <lb ed="#P" n="87"/>tasiatum, puta Deum, vel Angelum bene ter 
+            <lb ed="#P" n="88"/>minatur ad illud obiectum, sed non
+            causa<lb ed="#P" n="89" break="no"/>tur ab eo; quia intellectus noster non potest 
+            <lb ed="#P" n="90"/>moueri a non phantasiato, ex quo apparet,  
+            <lb ed="#P" n="91"/>quod in obiecto alia est ratio mouendi ad
+            a<lb ed="#P" n="92" break="no"/>ctum, &amp; alia ratio terminandi actum, cum 
+            <lb ed="#P" n="93"/>vna possit inueniri sine alie r a; apparet etiam  
+            <lb ed="#P" n="94"/>quod habitudo mouentis est quasi
+            acciden<lb ed="#P" n="95" break="no"/>talis; quia actus terminatur ad obiectum, a 
+            <lb ed="#P" n="96"/>quo quandoque non causatur, sed habitudo 
+            <lb ed="#P" n="97"/>terminantis est quasi essentialis; quia
+            impos<lb ed="#P" n="98" break="no"/>sibile est, quod actus non terminetur ad suum 
+            <lb ed="#P" n="99"/>proprium obiectum.
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1944">
+            <lb ed="#P" n="100"/>Secundo contra eandem conclusionem 
+            <lb ed="#P" n="101"/>dubitatur, quia dictum est, quod obiectum 
+            <lb ed="#P" n="102"/>fruibile moueat sub eadem ratione vtrumqu 
+            <lb ed="#P" n="103"/>actum, nam cum obiectum specificet actum, 
+            <lb ed="#P" n="104"/>in quantum causat ipsum: sequitur per hoc 
+            <lb ed="#P" n="105"/>quod actus fruitionis, &amp; visionis sint eiusdem 
+            <lb ed="#P" n="106"/>rationis, specifice, quod nullus diceret. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1962">
+            <lb ed="#P" n="107"/>Respondeo, quod obiectum specificat
+            a<lb ed="#P" n="108" break="no"/>ctum, non quia causet ipsum, sedquia termi 
+            <lb ed="#P" n="109"/>nat ipsum, vt patuit in exemplo superius
+            po<lb ed="#P" n="110" break="no"/>sito, actus enim quo intelligo aliquid non 
+            <lb ed="#P" n="111"/>phantasiatum, non specificatur a
+            phantasia<lb ed="#P" n="112" break="no"/>to, a quo causatur, sed a non phantasiato, ad 
+            <lb ed="#P" n="113"/>quod terminatur, actus ergo visionis, &amp; fini 
+            <lb ed="#P" n="114"/>tionis, quamuis causentur ab obiecto fruibi¬ 
+            <!--129.xml-->
+            <pb ed="#P" n="104"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>li sub eadem ratione mouentis, non termi- 
+            <lb ed="#P" n="2"/>nantur ad ipsum sub eade ratione, vt superius 
+            <lb ed="#P" n="3"/>patuit, &amp; sic possunt remanere distincti specie¬ 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e1995">
+            <lb ed="#P" n="4"/>Tertio si quaeratur a me de istis
+            rationi<lb ed="#P" n="5" break="no"/>bus terminandi an differant ex natura rei, 
+            <lb ed="#P" n="6"/>vel ratione tantum, si dicam quod differunt 
+            <lb ed="#P" n="7"/>ex natura rei, tunc contra me occurrunt quae 
+            <lb ed="#P" n="8"/>cunque occurrebant contra illam positionem 
+            <lb ed="#P" n="9"/>de formalitatibus; si autem dicam quod dif- 
+            <lb ed="#P" n="10"/>ferant ratione tantum, tunc incido in
+            pri<lb ed="#P" n="11" break="no"/>mam positionem, &amp; contra me sunt, quae
+            conm<lb ed="#P" n="12" break="no"/>tra illa erant. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2017">
+            <lb ed="#P" n="13"/>Ad hoc dico, quod differunt ex natura 
+            <lb ed="#P" n="14"/>obiecti fundamentaliter, &amp; potentialiter: sed  
+            <lb ed="#P" n="15"/>ex ipsis actibus completiue, &amp; actualiter, sic 
+            <lb ed="#P" n="16"/>intelligendo, quod ipsum obiectum habet in 
+            <lb ed="#P" n="17"/>se naturam, secundum quam potest termina 
+            <lb ed="#P" n="18"/>re istos diuersos actus alio, &amp; alio modo, ista 
+            <lb ed="#P" n="19"/>tamen differentia reducitur de potentia ad 
+            <lb ed="#P" n="20"/>actum, &amp; completur per hoc, quod isti actus 
+            <lb ed="#P" n="21"/>terminantur actualiter ad obiectum,
+            secun<lb ed="#P" n="22" break="no"/>dum quod erat in potentia ad terminandum 
+            <lb ed="#P" n="23"/>eos; Sicut ratio albedinis fundata in
+            albedi<lb ed="#P" n="24" break="no"/>ne, non existente termino opposito, dicitur 
+            <lb ed="#P" n="25"/>esse in fundamento ex natura rei solum
+            po<lb ed="#P" n="26" break="no"/>tentialiter existente vero termino op- 
+            <lb ed="#P" n="27"/>posito, incipit esse in eodem fundamento
+            a<lb ed="#P" n="28" break="no"/>ctualiter, per nullam tamen mutationem in 
+            <lb ed="#P" n="29"/>ipso factam; ita suo modo in proposito,
+            ratio<lb ed="#P" n="30" break="no"/>nes terminandi actus sunt in obiecto, non 
+            <lb ed="#P" n="31"/>existentibus praefatis actibus, potentialiter di 
+            <lb ed="#P" n="32"/>stinctae, ipsis vero actibus existentibus, sunt 
+            <lb ed="#P" n="33"/>ibi actualiter 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2065">
+            <lb ed="#P" n="34"/>Ex quo apparet, quod huiusmodi
+            ratione<lb ed="#P" n="35" break="no"/>quantum ad suum complementum
+            sequun<lb ed="#P" n="36" break="no"/>tur dictos actus, &amp; per consequens licet
+            ob<lb ed="#P" n="37" break="no"/>iectum praecedat actus in ratione mouentis,  
+            <lb ed="#P" n="38"/>sequitur tamen eos in ratione tarminantis 
+            <lb ed="#P" n="39"/>Neque hoc est contra rationem specificatio. 
+            <lb ed="#P" n="40"/>nis actuum, nam videmus, quod terminus se 
+            <lb ed="#P" n="41"/>quitur motum, &amp; tamen specificat ipsum 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2085">
+            <lb ed="#P" n="42"/>Notandum tamen, quod istae rationes
+            ter<lb ed="#P" n="43" break="no"/>minantes non sequuntur actus, sicut
+            termi<lb ed="#P" n="44" break="no"/>nus sequitur motum: quia motus non vere 
+            <lb ed="#P" n="45"/>praecedit istas rationes; non enim est dare ali 
+            <lb ed="#P" n="46"/>quod instans naturae, vel temporis, in quo 
+            <lb ed="#P" n="47"/>praefati actus sint sine rationibus
+            terminan<lb ed="#P" n="48" break="no"/>tibus eos, dicuntur ergo sequi solum
+            quan<lb ed="#P" n="49" break="no"/>tum ad nostrum modum intelligendi, puta 
+            <lb ed="#P" n="50"/>quia non cognoscimus praefatas rationes in 
+            <lb ed="#P" n="51"/>obiecto, &amp; maxime forte distinctas, nisi per 
+            <lb ed="#P" n="52"/>dictos actus, quos in potentijs experimur: &amp;  
+            <lb ed="#P" n="53"/>sic non incido in positionem de
+            formalitati<lb ed="#P" n="54" break="no"/>bus, quia ipsi ponunt rationes obiectales ita 
+            <lb ed="#P" n="55"/>differre ex natura rei, quod preueniant actus,  
+            <lb ed="#P" n="56"/>&amp; sint complete in obiecto ante aduentum 
+            <lb ed="#P" n="57"/>horum actuum in potentijs
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2123">
+            <!--129.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 104 b -->
+            <lb ed="#P" n="58"/>Quarto dubitatur, nam quaeret aliquis
+            v<lb ed="#P" n="59" break="no"/>trum istae rationes terminantes sint
+            absolu<lb ed="#P" n="60" break="no"/>tae, vel respectiuae; &amp; vtrum sint illud idem, 
+            <lb ed="#P" n="61"/>quod obiectum, in quo sunt, vel aliquid
+            alte<lb ed="#P" n="62" break="no"/>rum, quia si non detur, quod sint aliquid ho 
+            <lb ed="#P" n="63"/>rum, quae modo dicta sunt, videbitur
+            quae<lb ed="#P" n="64" break="no"/>dam fictio. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2147">
+            <lb ed="#P" n="65"/>Ad hoc dico, quod existimo de istis
+            ra<lb ed="#P" n="66" break="no"/>tionibus obiectalibus vniuersaliter, sicut
+            ar<lb ed="#P" n="67" break="no"/>bitratur Arist. &amp; Comment. 2. de anima,
+            vo<lb ed="#P" n="68" break="no"/>ens enim Arist. 2. de anima tex. 8o
+            ostende<lb ed="#P" n="69" break="no"/>re quid sit ratio formalis obiecti visus,
+            deno<lb ed="#P" n="70" break="no"/>minat eam ab actu videndi dicens, cuius scien 
+            <lb ed="#P" n="71"/>tia est uisus, hoc est visibile: Volens insuper 
+            <lb ed="#P" n="72"/>ostendere qualiter haec ratio se habeat ad
+            co<lb ed="#P" n="73" break="no"/>lorem dicit ibidem, visibile enim est colon, hoc 
+            <lb ed="#P" n="74"/>autem secundum se visibile, secundum auten 
+            <lb ed="#P" n="75"/>se, non ratione, sed quoniam in se habet
+            cau<lb ed="#P" n="76" break="no"/>sam vt sit visibile; vbi Commentator dicit quid 
+            <lb ed="#P" n="77"/>color est per se visibilis, non secundum
+            pri<lb ed="#P" n="78" break="no"/>mam intentionem, de quibus dicitur illud,  
+            <lb ed="#P" n="79"/>quod est essentialiter in primo modo
+            dicen<lb ed="#P" n="80" break="no"/>di per se, in quo praedicatum est de
+            substan<lb ed="#P" n="81" break="no"/>tia subiecti; sed secundum intentionem
+            secu<lb ed="#P" n="82" break="no"/>dam in secundo modo dicendi per se, in quo 
+            <lb ed="#P" n="83"/>subiectum est de definitione praedicati :
+            Vn<lb ed="#P" n="84" break="no"/>de si quaeratur, quomodo visibile se habeat 
+            <lb ed="#P" n="85"/>ad colorem ex Arist. &amp; Commentatore, dici  
+            <lb ed="#P" n="86"/>tur, quod se habet sicut passio ad subiectum 
+            <lb ed="#P" n="87"/>in secundo modo dicendi per se; sed si
+            vlte<lb ed="#P" n="88" break="no"/>rius quaeratur, ab eodem Com an haec ratio 
+            <lb ed="#P" n="89"/>visibilis dicat aliquam qualitatem, vel aliquam 
+            <lb ed="#P" n="90"/>aliam formam absolutam colori inhaerentem; 
+            <lb ed="#P" n="91"/>non potest responderi jn od dicat formam  
+            <lb ed="#P" n="92"/>colori inhaerentem, Tum quia contradiceres 
+            <lb ed="#P" n="93"/>sibi in Commento sequenti, vbi dicit, quod 
+            <lb ed="#P" n="94"/>color est visibilis non mediante aliqua fora 
+            <lb ed="#P" n="95"/>ma se ibi connectente; Tum quia
+            contradi<lb ed="#P" n="96" break="no"/>ceret Arist. probanti, quod color sit visibilis,  
+            <lb ed="#P" n="97"/>quia per suam naturam potest mouero
+            dia<lb ed="#P" n="98" break="no"/>phanum, &amp; per consequens visum, &amp; subdit 
+            <lb ed="#P" n="99"/>quod omnis color est motiuus secudum actum; 
+            <lb ed="#P" n="100"/>lucidi &amp; hoc est per suam naturam; Tum 
+            <lb ed="#P" n="101"/>demum quia multa alia sequerentur
+            incon<lb ed="#P" n="102" break="no"/>uenientia, vt quod daretur processus in
+            in<lb ed="#P" n="103" break="no"/>finitum, &amp; alia, quae omitto breuitatis causa 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2234">
+            <lb ed="#P" n="104"/>Ex omnibus his deduco secundum
+            men<lb ed="#P" n="105" break="no"/>tem Arist. &amp; Comment. duo; Primum, quod 
+            <lb ed="#P" n="106"/>ratio visibilis non dicat supra colorem
+            ali<lb ed="#P" n="107" break="no"/>quam formam absolutam realiter distinctam  
+            <lb ed="#P" n="108"/>a colore, secundum quod insit colori per se 
+            <lb ed="#P" n="109"/>in secudo modo quasi per modum passionis, 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2250">
+            <lb ed="#P" n="110"/>Ad saluandum ergo ista duo
+            cogimuridi<lb ed="#P" n="111" break="no"/>cere, vt mihi videtur, quod ratio visibilis sit 
+            <lb ed="#P" n="112"/>quaedam ratio praescindens colorem ab om- 
+            <lb ed="#P" n="113"/>ni eo, quod visus non potest de eo
+            comprae<lb ed="#P" n="114" break="no"/>hendere. Nam constat, quod visus non com¬ 
+            <!--130.xml-->
+            <pb ed="#P" n="105"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>praehendit de colore, quod compraehendit 
+            <lb ed="#P" n="2"/>intellectus. Sicut ergo dicebatur superius in 
+            <lb ed="#P" n="3"/>quaestione de subiecto Theologiae, quod
+            ra<lb ed="#P" n="4" break="no"/>tio glorificatoris erat quaedam praescisio
+            vir<lb ed="#P" n="5" break="no"/>tualis, secundum quam praescindebatur
+            sub<lb ed="#P" n="6" break="no"/>iectum Theologiae ab illa ratione absoluta, ad 
+            <lb ed="#P" n="7"/>quam intellectus non poterat attingere; ita 
+            <lb ed="#P" n="8"/>dico in proposito, quod ratio visibilis mihi vi 
+            <lb ed="#P" n="9"/>detur quaedam praescisio virtualis, secundum 
+            <lb ed="#P" n="10"/>quam praescinditur color ab omni non
+            com<lb ed="#P" n="11" break="no"/>praehenso per visum, &amp; sicut dicebatur ibi, 
+            <lb ed="#P" n="12"/>quod ratio glorificatoris praeexistebat in ob 
+            <lb ed="#P" n="13"/>iecto secundum potentiam, incipiebat tamen 
+            <lb ed="#P" n="14"/>esse ibi secundum actum per coexistentiam  
+            <lb ed="#P" n="15"/>actus sic exigentis; ita videtur dicendum in 
+            <lb ed="#P" n="16"/>proposito: &amp; sicut ponebatur ibi exemplum 
+            <lb ed="#P" n="17"/>de diuisione motus per animam, &amp; de tempo 
+            <lb ed="#P" n="18"/>re consequente ad illam diuisionem: ita ad 
+            <lb ed="#P" n="19"/>propositum potest induci idem exemplum 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2311">
+            <lb ed="#P" n="20"/>Ex quibus apparet quomodo possumus 
+            <lb ed="#P" n="21"/>saluare intentionem Arist. quod ratio
+            visi<lb ed="#P" n="22" break="no"/>bilis non dicat aliquam formam supra
+            colo<lb ed="#P" n="23" break="no"/>rem, quemadmodum &amp; diuisio primi motus 
+            <lb ed="#P" n="24"/>facti per animam, &amp; etiam ipsum tempus non 
+            <lb ed="#P" n="25"/>addit supra motum ab eo realiter distinctum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2327">
+            <lb ed="#P" n="26"/>Secundo possum saluare, quod non obstam 
+            <lb ed="#P" n="27"/>te identitate rationis visibilis ad colorem,
+            con<lb ed="#P" n="28" break="no"/>sequitur tamen ipsum per modum passionis,  
+            <lb ed="#P" n="29"/>ex eosquod color non habet hanc rationem 
+            <lb ed="#P" n="30"/>secundum esse actuale completum, nisi ab  
+            <lb ed="#P" n="31"/>actu visionis extrinseco, praescindente colo 
+            <lb ed="#P" n="32"/>rem ab eo, quod visus non potest de eo com 
+            <lb ed="#P" n="33"/>prehendere, sicut non obstante identitate te 
+            <lb ed="#P" n="34"/>poris cum motu, tempus tamen
+            consequi<lb ed="#P" n="35" break="no"/>tur ipsum per modum passionis, quia motus 
+            <lb ed="#P" n="36"/>non habet tempus secundum suum esse
+            com<lb ed="#P" n="37" break="no"/>pletum, nisi ab actu animae extrinsecus
+            diui<lb ed="#P" n="38" break="no"/>dentis, &amp; numerantis ipsum. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2359">
+            <lb ed="#P" n="39"/>Ita eroo videtur mihi dicendum in
+            pro<lb ed="#P" n="40" break="no"/>posito scilicet quod dictae rationes terminan 
+            <lb ed="#P" n="41"/>di, quamuis non addant aliquid realiter
+            di<lb ed="#P" n="42" break="no"/>stinctum ab obiecto, consequuntur tamen il 
+            <lb ed="#P" n="43"/>sum per modum passionum, quia non habet 
+            <lb ed="#P" n="44"/>suum essc completum nisi ab actibus
+            intel<lb ed="#P" n="45" break="no"/>lectus, &amp; voluntatis, per quos a se inuicem 
+            <lb ed="#P" n="46"/>praescinduntur secundum exigentiam dicto 
+            <lb ed="#P" n="47"/>rum actuum, nam obiectum terminat actum  
+            <lb ed="#P" n="48"/>&amp; exigentiam eius quantum ad quantitatem, 
+            <lb ed="#P" n="49"/>&amp; quantum ad modum, &amp; quia actus
+            intel<lb ed="#P" n="50" break="no"/>lectus actualiter attingit obiectum aliter quam 
+            <lb ed="#P" n="51"/>actus voluntatis; idcireo exigit in obiecto
+            a<lb ed="#P" n="52" break="no"/>liam rationem terminandi 
+            <lb ed="#P" n="53"/>Cum ergo quaeritur : vtrum istae rationes 
+            <lb ed="#P" n="54"/>ibi sint idem, quod obiectum, dicendum: quid 
+            <lb ed="#P" n="55"/>sunt idem, quatenus non addunt super ipsum 
+            <lb ed="#P" n="56"/>aliquid realiter ab eo distinctum, non auten 
+            <lb ed="#P" n="57"/>sunt idem, quatenus secundum suum esse com 
+            <!--130.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 105 b -->
+            <lb ed="#P" n="58"/>pletum consequuntur ipsum ab extrinseco 
+            <lb ed="#P" n="59"/>per modum passionum, &amp; ideo si obiectum 
+            <lb ed="#P" n="60"/>est quid absolutum, &amp; dictae rationes sunt 
+            <lb ed="#P" n="61"/>quid absolutum, &amp; haec de tota quaestione. 
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e153-Dd1e2419">
+          <head xml:id="gsX5tY-d1e153-Hd1e2421">Ad rationes principales</head>
+          <p xml:id="gsX5tY-d1e153-d1e2424">
+            <lb ed="#P" n="62"/>AD ARGVMENTA 
+            <lb ed="#P" n="63"/>principaliu.
+            <lb ed="#P" n="64"/>AD primum dicendum: quod
+            quantum<lb ed="#P" n="65" break="no"/>cunque dictae potentiae sint aeque
+            ab<lb ed="#P" n="66" break="no"/>stractae, non tamen attingunt obiectum
+            eo<lb ed="#P" n="67" break="no"/>dem modo, quia non habent actum eiusdem  
+            <lb ed="#P" n="68"/>rationis: quapropter necessario exigunt in 
+            <lb ed="#P" n="69"/>obiecto diuersas rationes terminandi¬ 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2444">
+            <lb ed="#P" n="70"/>Ad secundum, cum dicebatur quod sola 
+            <lb ed="#P" n="71"/>distinctio actuum videretur sufficiens causa 
+            <lb ed="#P" n="72"/>praefatae distinctionis, nego, quia requiritur.  
+            <lb ed="#P" n="73"/>etiam obiectum, &amp; si quaeratur, quare
+            obie<lb ed="#P" n="74" break="no"/>ctum fruibile non se possit obijcere potentijs 
+            <lb ed="#P" n="75"/>sub eadem ratione; dico quod possunt esse 
+            <lb ed="#P" n="76"/>plures rariones, quare diuersi actus
+            specifi<lb ed="#P" n="77" break="no"/>centur ab eodem obiecto, quarum
+            aliquae<lb ed="#P" n="78" break="no"/>sunt superius assignatae: cum vero
+            addeba<lb ed="#P" n="79" break="no"/>tur, quod distinctio actuum potest sufficien 
+            <lb ed="#P" n="80"/>ter reduci in potentias, nego: quia ostensumi 
+            <lb ed="#P" n="81"/>est in secudo articulo, quod distinctio actuum 
+            <lb ed="#P" n="82"/>quantum ad genus, vtique potest esse a
+            poten<lb ed="#P" n="83" break="no"/>tijs, distinctio tamen specifica eorum
+            neces<lb ed="#P" n="84" break="no"/>sario est ab obiectis. 
+          </p>
+          <p xml:id="gsX5tY-d1e153-d1e2479">
+            <lb ed="#P" n="85"/>Ad argumentum etiam, quod erat in op- 
+            <lb ed="#P" n="86"/>positum, respondeo: quod consequentia
+            pro<lb ed="#P" n="87" break="no"/>cederet, si esset idem omnino obiectum, &amp; 
+            <lb ed="#P" n="88"/>ub eadem ratione formali, quatenus mouens,  
+            <lb ed="#P" n="89"/>&amp; quatenus terminans, contrarium autem 
+            <lb ed="#P" n="90"/>ostensum est supra; &amp; ideo non concludita 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

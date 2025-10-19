@@ -1,1251 +1,1251 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="231"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e350"> <!-- l1d6q1 -->
-            <head xml:id="gsX5tY-d1e350-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e350-Hd1e112" type="question-title">Utrum pater generet filium naturali necessitate</head>
-            <p xml:id="gsX5tY-d1e350-d1e115">
-               <lb ed="#P" n="36"/>DISTINCTIONIS SEXTAE 
-      <lb ed="#P" n="37"/>QVAESTIO PRIMA 
-      <lb ed="#P" n="38"/>Vtrum pater generet filium naturali
-      ne<lb ed="#P" n="39" break="no"/>cessitate.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e126">
-               <lb ed="#P" n="40"/>ARGVITVR AD PARTEM 
-      <lb ed="#P" n="41"/>negantem. 
-      <lb ed="#P" n="42"/>1I pater generaret filium naturali neces 
-      <lb ed="#P" n="43"/>sitate, sequeretur quod actus generan 
-      <lb ed="#P" n="44"/>di in patre praecederet actum intelligendi, 
-      <lb ed="#P" n="45"/>&amp; volendi; consequens est falsum, ergo &amp;c 
-      <lb ed="#P" n="46"/>Falsitas consequentis patet, quia si genera 
-      <lb ed="#P" n="47"/>re in patre praecederet intelligere, &amp; velle; 
-      <lb ed="#P" n="48"/>tunc non generaret filium vt verbum, quod 
-      <lb ed="#P" n="49"/>est contra <ref xml:id="gsX5tY-d1e350-Rd1e149">P. Augustinum 7. de Trin. cap. i1.</ref> 
-               <lb ed="#P" n="50"/>dicentem <quote xml:id="gsX5tY-d1e350-Qd1e155" source="http://scta.info/resource/adt-l7-d1e864" synch="57-66">filius, eo est verbum, quo filius</quote>; 
-      <!--256.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 231 b -->
-               <lb ed="#P" n="51"/>verbum ergo semper supponit operationem 
-      <lb ed="#P" n="52"/>intellectus. Consequentiam probo, quia
-      si<lb ed="#P" n="53" break="no"/>cut se habet natura ad intellectum, ita actus 
-      <lb ed="#P" n="54"/>naturae ad actum intellectus, sed natura, cum 
-      <lb ed="#P" n="55"/>sit fundamentum intellectus, &amp; omnium
-      at<lb ed="#P" n="56" break="no"/>tributorum, praecedit intellectum, &amp;
-      volun<lb ed="#P" n="57" break="no"/>tatem, omniaque attributa; ergo &amp; actus
-      na<lb ed="#P" n="58" break="no"/>turae praecedit actum intellectus, &amp;
-      volun<lb ed="#P" n="59" break="no"/>tatis. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e186">
-               <lb ed="#P" n="60"/>2 Si pater generaret filium necessitate 
-      <lb ed="#P" n="61"/>naturali, hoc esset, vel propter indigentiam,  
-      <lb ed="#P" n="62"/>uta quia eo indigeret in suo esse; vel
-      pro<lb ed="#P" n="63" break="no"/>ter violentiam, quia ab alio impelleretur, nul 
-      <lb ed="#P" n="64"/>la enim alia videtur illius generationis
-      ne<lb ed="#P" n="65" break="no"/>cessitas, Constat autem quod ambo isti
-      mo<lb ed="#P" n="66" break="no"/>di necessitatis sibi repugnant, quia in Deo 
-      <lb ed="#P" n="67"/>nulla cadit indigentia, cum omnis
-      indigen<lb ed="#P" n="68" break="no"/>tia sit defectus, nec aliqua violentia, quia 
-      <lb ed="#P" n="69"/>non habet supra se aliquod principium, a quo 
-      <lb ed="#P" n="70"/>violentiam pati possit, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e212">
-               <lb ed="#P" n="71"/>ARGVITVR AD PARTEM 
-      <lb ed="#P" n="72"/>oppositam. 
-      <lb ed="#P" n="73"/>I generatio filij a patre non esset
-      neces<lb ed="#P" n="74" break="no"/>Osaria, sequeretur quod filius non esset 
-      <lb ed="#P" n="75"/>necesse esse, Consequens est falsum, quia cum 
-      <lb ed="#P" n="76"/>habeat idem esse cum patre, ergo etiam habe 
-      <lb ed="#P" n="77"/>bit idem necesse esse, sicut pater, Consequen 
-      <lb ed="#P" n="78"/>tia probatur, quia cuius generatio non est 
-      <lb ed="#P" n="79"/>necessaria, nec ipsum est necessarium. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e234">
-               <lb ed="#P" n="80"/>RESPONDEO: in ista quaestione 
-      <lb ed="#P" n="81"/>duo sunt videnda 
-      <lb ed="#P" n="82"/>1 Vrum generare in patre ita sit
-      natura<lb ed="#P" n="83" break="no"/>le; quod praecedat intelligere, &amp; velle¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e245">
-               <lb ed="#P" n="84"/>2 Vtrum in Deo inueniatur aliquis
-      mo<lb ed="#P" n="85" break="no"/>dus necessitatis respectu istius actus
-      gene<lb ed="#P" n="86" break="no"/>rationis, &amp; sic patebit, quod quaerit quaestio 
-      <lb ed="#P" n="87"/>principalis.  
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e256">
-               <lb ed="#P" n="88"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="89"/>An generare in patre praecedat intelligere, 
-      <lb ed="#P" n="90"/>&amp; velle
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e265">
-               <lb ed="#P" n="91"/>AD hoc quidam dicunt quod
-      genera<lb ed="#P" n="92" break="no"/>re non precedit intelligere, &amp; velle in 
-      <lb ed="#P" n="93"/>patre, sed magis e contra, intelligere, &amp;
-      vel<lb ed="#P" n="94" break="no"/>se praecedunt ipsum generare: quia omnia 
-      <lb ed="#P" n="95"/>essentialia communia tribus personis prius 
-      <lb ed="#P" n="96"/>origine sunt in patre, quam in alijs personis,  
-      <lb ed="#P" n="97"/>&amp; sic patet prius origine intelligit, &amp; vult, 
-      <lb ed="#P" n="98"/>quam generet filium, quia per actum
-      gene<lb ed="#P" n="99" break="no"/>randi communicat filio intelligere, &amp; velle, 
-      <lb ed="#P" n="100"/>oiaque alia essentialia, &amp; ideo nisi pater prius 
-      <lb ed="#P" n="101"/>origine haberet omnia ista, per actum
-      gene<lb ed="#P" n="102" break="no"/>randi non posset ea filio communicare. 
-      <!--257.xml-->
-      <pb ed="#P" n="232"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Rationes autem pro ista opinione possunt 
-      <lb ed="#P" n="2"/>fieri plures, potiores tamen sunt quinque¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e305">
-               <lb ed="#P" n="3"/>1 Quicquid communicatur filio per actum 
-      <lb ed="#P" n="4"/>generandi, praecedit in patre talem actum, sed  
-      <lb ed="#P" n="5"/>intelligere, &amp; velle, omniaque essentialia com 
-      <lb ed="#P" n="6"/>municatur filio per actum generandi, ergo 
-      <lb ed="#P" n="7"/>praeexistunt in patre ante generationem. Ma 
-      <lb ed="#P" n="8"/>ior est nota, quia pater per actum generandi 
-      <lb ed="#P" n="9"/>non potest communicare filio, nisi illud, quod 
-      <lb ed="#P" n="10"/>praehabet ante illum actum. Minor patet ex 
-      <lb ed="#P" n="11"/>dictis supra, vbi ostensum fuit, quod pater 
-      <lb ed="#P" n="12"/>communicat filio essentiam per actum
-      gene<lb ed="#P" n="13" break="no"/>randi, &amp; per consequens omnia essentialia.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e331">
-               <lb ed="#P" n="14"/>2 Pater inillo priori signo ante signum ori 
-      <lb ed="#P" n="15"/>ginis in quo generat filium, est perfecte
-      bea<lb ed="#P" n="16" break="no"/>tus, ergo in eodem signo, ante signum
-      origi<lb ed="#P" n="17" break="no"/>nis, habet perfecte actum intelligendi:
-      Con<lb ed="#P" n="18" break="no"/>sequentia est nota, quia perfecta beatitudo 
-      <lb ed="#P" n="19"/>non est sine actu intelligendi, &amp; volendi, er¬- 
-      <lb ed="#P" n="20"/>po in eodem signo in quo primo habet perfe 
-      <lb ed="#P" n="21"/>ctam beatitudinem, habet perfecte tales actus; 
-      <lb ed="#P" n="22"/>Antecedens probatur, quia nisi pater
-      habe<lb ed="#P" n="23" break="no"/>ret suam beatitudinem perfecte ante illud 
-      <lb ed="#P" n="24"/>signum in quo generat filium, videretur eam 
-      <lb ed="#P" n="25"/>acquirere in illo signo, &amp; per actum geneta 
-      <lb ed="#P" n="26"/>tionis acquireret suam beatitudinem a filio,  
-      <lb ed="#P" n="27"/>quemadmodum filius a patre, quod est
-      fal<lb ed="#P" n="28" break="no"/>sum, &amp; contra <ref xml:id="gsX5tY-d1e350-Rd1e365">P. Aug. 15. de Trin. cap. 10.</ref> 
-      di<lb ed="#P" n="29" break="no"/>centem quod esse, &amp; nosce ibi vnum sunt, &amp; 
-      <lb ed="#P" n="30"/>ideo sicut esse non est a filio, ita nec nosce. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e374">
-               <lb ed="#P" n="31"/>Illud suppositum, quod potest elicere, 
-      <lb ed="#P" n="32"/>&amp; elicit naturaliter duos actus, quorum vnus 
-      <lb ed="#P" n="33"/>est absolutus, , &amp; alter respectiuus, prius
-      eli<lb ed="#P" n="34" break="no"/>cit actum absolutum, quam respectiuum, sed 
-      <lb ed="#P" n="35"/>suppositum patris naturaliter elicit istos duos 
-      <lb ed="#P" n="36"/>ictus, scilicet intelligere, &amp; generare, quorum 
-      <lb ed="#P" n="37"/>intelligere est absolutus, &amp; generare respe 
-      <lb ed="#P" n="38"/>ctiuus, ergo prius elicit actum intelligendi, 
-      <lb ed="#P" n="39"/>quam generandi; Minor supponitur tanquam 
-      <lb ed="#P" n="40"/>nota, &amp; ab omnibus concessa; Maior
-      proba<lb ed="#P" n="41" break="no"/>tur, quia cum absolutum praecedat
-      respecti<lb ed="#P" n="42" break="no"/>uum, secundum totum suum genus, videtur 
-      <lb ed="#P" n="43"/>necessario quod operatio absoluta in eodem 
-      <lb ed="#P" n="44"/>supposito, praecedat operationem respectiuam 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e407">
-               <lb ed="#P" n="45"/>Quando alicui supposito competunt 
-      <lb ed="#P" n="46"/>duo actus, vnus immanens, &amp; alter
-      tran<lb ed="#P" n="47" break="no"/>siens in terminum realiter distinctum; prius 
-      <lb ed="#P" n="48"/>competit sibi actus immanens, quam
-      transi<lb ed="#P" n="49" break="no"/>ens; sed supposito patris conuenit
-      intellige<lb ed="#P" n="50" break="no"/>re, qui est actus immanes, cum non sit produm 
-      <lb ed="#P" n="51"/>ctiuus alicuius termini realiter distincti, &amp;  
-      <lb ed="#P" n="52"/>generare, qui est transiens, quia est producti 
-      <lb ed="#P" n="53"/>uus terminirealiter distincti. sfilij, ergo prius 
-      <lb ed="#P" n="54"/>competit patri intelligere, quam generare; 
-      <lb ed="#P" n="55"/>Minor supponitur tanquam concessa ab om 
-      <lb ed="#P" n="56"/>nibus; Maior probatur, quia actus immanes 
-      <lb ed="#P" n="57"/>videtur sibi esse magis intrinsecus, cum por 
-      <!--257.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 232 b -->
-               <lb ed="#P" n="58"/>psum non habeat habitudinem necessario ad 
-      <lb ed="#P" n="59"/>realiter distinctum, quod confirmatur
-      exem<lb ed="#P" n="60" break="no"/>plo de igne, in quo videmus actum immanem 
-      <lb ed="#P" n="61"/>tem, qui est calere sibi prius conuenire, quam  
-      <lb ed="#P" n="62"/>calefacere, quod est actus transiens 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e455">
-               <lb ed="#P" n="63"/>3 Si pater non haberet actum, intelligen 
-      <lb ed="#P" n="64"/>di ante actum generandi, vel hoc esset ex par 
-      <lb ed="#P" n="65"/>te patris, vel ex parte essentiae, quae est
-      obie<lb ed="#P" n="66" break="no"/>ctum, &amp; terminus istius actus: non ex parte 
-      <lb ed="#P" n="67"/>patris, quia pater nullam perfectionem sibi 
-      <lb ed="#P" n="68"/>intrinsecam acquirit, vel expectat per actum  
-      <lb ed="#P" n="69"/>generadi; nam cum nullus acquirat aliquid 
-      <lb ed="#P" n="70"/>a se ipso, oporteret dicere quod acquireret a 
-      <lb ed="#P" n="71"/>filio, cuius contrarium superius patuit per 
-      <lb ed="#P" n="72"/>P. Augustinum. Nec potest dici quod sit ex 
-      <lb ed="#P" n="73"/>parte essentiae, quae est obiectum, &amp; terminus 
-      <lb ed="#P" n="74"/>istius actus, quia cum personae nullam perfe 
-      <lb ed="#P" n="75"/>ctionem addant supra essentiam, in illo
-      pri<lb ed="#P" n="76" break="no"/>mo signo originis, quo, ipsa existit in patre est 
-      <lb ed="#P" n="77"/>perfecte intelligibilis, &amp; perfecte se potest 
-      <lb ed="#P" n="78"/>obijcere intellectui paterno, ergo in eodem  
-      <lb ed="#P" n="79"/>signo pater potest de ea habere perfectum
-      a<lb ed="#P" n="80" break="no"/>ctum intelligendi, lsta est opinio cum suis
-      mo<lb ed="#P" n="81" break="no"/>tiuis potioribus in qua concordant piures 
-      <lb ed="#P" n="82"/>&amp;, quamuis videatur satis probabilis; mihi ta 
-      <lb ed="#P" n="83"/>men non satisfacit.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e503">
-               <lb ed="#P" n="84"/>Et ideo arguo contra eam quadrupliciter, 
-      <lb ed="#P" n="85"/>Primo, si pater in aliquo signo prio in intcili 
-      <lb ed="#P" n="86"/>geret antequam generaret, sequeretur quod 
-      <lb ed="#P" n="87"/>esset suppositum constitutum ante actu
-      ge<lb ed="#P" n="88" break="no"/>nerandi; consequens est falsum, ergo &amp;c Con 
-      <lb ed="#P" n="89"/>sequentia patet, quia si in illo priori signo in 
-      <lb ed="#P" n="90"/>quo intelligit, non esset suppositum constitu 
-      <lb ed="#P" n="91"/>tum, tunc intelligeret antequam esset quod 
-      <lb ed="#P" n="92"/>est absurdum; ergo si in illo signo priori intel 
-      <lb ed="#P" n="93"/>ligit, vnlt, &amp; habet omnia essentialia. necesse 
-      <lb ed="#P" n="94"/>est dicere eum esse suppositum perfecte con 
-      <lb ed="#P" n="95"/>stirutum, antequam superueniat actus,
-      gene<lb ed="#P" n="96" break="no"/>randi; Falsitatem probo, quia quicquid in di 
-      <lb ed="#P" n="97"/>uinis praeintelligitur generationi actiuae, quae 
-      <lb ed="#P" n="98"/>est, primus actus notionalis, oporret quod sit 
-      <lb ed="#P" n="99"/>absolutum; nam vel hoc est absolutum vel 
-      <lb ed="#P" n="100"/>relatiuum, non relatiuum, quia relatio consti 
-      <lb ed="#P" n="101"/>tuens ipsum generante, est respectus sequens 
-      <lb ed="#P" n="102"/>ad ipsum actu generandi ergo erit quid abso 
-      <lb ed="#P" n="103"/>lutum; in diuinis lmmo quicquid praeintelli 
-      <lb ed="#P" n="104"/>gitur isti actui, necessario est absolutum, er- 
-      <lb ed="#P" n="105"/>go pater erit suppositum absolutum, quod est 
-      <lb ed="#P" n="106"/>absurdum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e556">
-               <lb ed="#P" n="107"/>Nec valet si dicatur prioritate non
-      tolli<lb ed="#P" n="108" break="no"/>te simultate, sicut defensores huius
-      opinio<lb ed="#P" n="109" break="no"/>nis sentiunt; dicunt enim quod non
-      inten<lb ed="#P" n="110" break="no"/>dunt dicere suppositum patris in aliqui prio 
-      <lb ed="#P" n="111"/>ri signo habere actum intelligendi, in quo non 
-      <lb ed="#P" n="112"/>habet actum generandi, quia tunc
-      procede<lb ed="#P" n="113" break="no"/>ret de potentia ad actum, &amp; fieret de non ge 
-      <lb ed="#P" n="114"/>nerante generas, sed inteduntdicere actu esse 
-      <!--258.xml-->
-      <pb ed="#P" n="233"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>tialem aliquo modo praecedere notionalem; 
-      <lb ed="#P" n="2"/>quamuis sit simul cum illo alio modo, sicut 
-      <lb ed="#P" n="3"/>etiam videmus, quod subiectum praecedit. pro 
-      <lb ed="#P" n="4"/>priam passionem ordine naturae, licet sit simul 
-      <lb ed="#P" n="5"/>cum ea ordine temporis; ita in proposito
-      a<lb ed="#P" n="6" break="no"/>ctus essentiales quamuis simul sint cum notio 
-      <lb ed="#P" n="7"/>nalibus in quolibet signo dato, quia non pot 
-      <lb ed="#P" n="8"/>dari aliquod signum, in quo non sint simul; 
-      <lb ed="#P" n="9"/>essentiales tamen praecedunt ordine nature, 
-      <lb ed="#P" n="10"/>vel saltem ordine originis, inquantum sunt 
-      <lb ed="#P" n="11"/>principium notionalium, nam quamuis
-      esse<lb ed="#P" n="12" break="no"/>tia non generet, est tamen ratio generandi 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e608">
-               <lb ed="#P" n="13"/>Haec inquam responsio non valet, immo 
-      <lb ed="#P" n="14"/>destruit opinionem, quam defendere
-      cona<lb ed="#P" n="15" break="no"/>tur; &amp; consequenter destruit se ipsam, quod 
-      <lb ed="#P" n="16"/>patet, nam peto ab istis, vtrum prius, &amp; poste 
-      <lb ed="#P" n="17"/>rius secundum originem habeant idem
-      si<lb ed="#P" n="18" break="no"/>gnum, vel aliud, &amp; aliud; si dicant quod idem, 
-      <lb ed="#P" n="19"/>destruunt opinionem praefatam asserentem 
-      <lb ed="#P" n="20"/>patrem in primo signo originis, antequam gi 
-      <lb ed="#P" n="21"/>neret, esse perfecte beatum, &amp; habere omnes 
-      <lb ed="#P" n="22"/>perfectiones essentiales ante actum generan 
-      <lb ed="#P" n="23"/>di. Constat autem quod ante, &amp; post non 
-      <lb ed="#P" n="24"/>possunt accipi in eodem signo omnino; im 
-      <lb ed="#P" n="25"/>mo est contradictio dicere in eodem signo 
-      <lb ed="#P" n="26"/>indiuisibili secundum idem genus mensura 
-      <lb ed="#P" n="27"/>iueniri ante, &amp; post, prius, &amp; posterius; &amp; ta 
-      <lb ed="#P" n="28"/>men ipsi coguntur dicere, quod aliqua sint 
-      <lb ed="#P" n="29"/>in eodem signo originis, &amp; tamen vnum sit 
-      <lb ed="#P" n="30"/>rius altero secundum originem, &amp;
-      secun<lb ed="#P" n="31" break="no"/>dum idem signum habeant simultatem, &amp; 
-      <lb ed="#P" n="32"/>non habeant simultatem,; ergo necessario
-      de<lb ed="#P" n="33" break="no"/>bent ponere diuersa signa, velint nolint,
-      ali<lb ed="#P" n="34" break="no"/>ter destruent praefatam opinionem ponenten 
-      <lb ed="#P" n="35"/>talium signorum diuersitatem: si autem
-      po<lb ed="#P" n="36" break="no"/>nant diuersa signa originis, sicut necesse
-      ha<lb ed="#P" n="37" break="no"/>bet ponere, tunc remanet prima ratio in
-      vi<lb ed="#P" n="38" break="no"/>gore suo, &amp; habemus propositum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e667">
-               <lb ed="#P" n="39"/>Secundo contra eandem conclusionem. 
-      <lb ed="#P" n="40"/>Si in patre actus essentialis praecederet actu 
-      <lb ed="#P" n="41"/>notionalem, sequeretur quod ibi esset exitus 
-      <lb ed="#P" n="42"/>de potentia ad actum, hoc autem est falsum; 
-      <lb ed="#P" n="43"/>quia in puro actu non potest esse aliquis exi 
-      <lb ed="#P" n="44"/>tus de potentia ad actum: Consequentiam  
-      <lb ed="#P" n="45"/>probo; nam vbicunque sunt plura, quorum 
-      <lb ed="#P" n="46"/>vnum praecedit, &amp; alterum succedit, ibi
-      ne<lb ed="#P" n="47" break="no"/>cessario est aliquis exitus de non esse ad esse 
-      <lb ed="#P" n="48"/>seu de potentia ad actum, quia in illo priori 
-      <lb ed="#P" n="49"/>signo, quando est precedens, non est adhuc 
-      <lb ed="#P" n="50"/>suceedens, sed expectat esse in sequenti, &amp;  
-      <lb ed="#P" n="51"/>per consequens vadit de non esse ad esse; 
-      <lb ed="#P" n="52"/>sta habent isti dicere in proposito, puta quia 
-      <lb ed="#P" n="53"/>in illo signo, in quo pater habet actum essen 
-      <lb ed="#P" n="54"/>tialem, non habet adhuc notionalem, sed ex. 
-      <lb ed="#P" n="55"/>pectat ipsum habere in subsequenti signo 
-      <lb ed="#P" n="56"/>quod est omnino absurdum 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e709">
-               <lb ed="#P" n="57"/>Confirmatur per Dama. lib. 1. ca. 8. vbi ait 
-      <!--258.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 233 b -->
-               <lb ed="#P" n="58"/>quod pater non fuit prius non generans, &amp;  
-      <lb ed="#P" n="59"/>postea factus est generans quia eadem ratio 
-      <lb ed="#P" n="60"/>est vtrobique: Nec valet si dicatur quod ipse 
-      <lb ed="#P" n="61"/>ibi intendat loqui de priori, &amp; posteriori secun 
-      <lb ed="#P" n="62"/>dum tempus, quia idem inconueniens sequi 
-      <lb ed="#P" n="63"/>tur, si pater fieret de non generante generam 
-      <lb ed="#P" n="64"/>secundum aliud, &amp; aliud instans temporis 
-      <lb ed="#P" n="65"/>quod etiam sequeretur si secundum aliud &amp;  
-      <lb ed="#P" n="66"/>aliud signum originis; nam vtrobique
-      vide<lb ed="#P" n="67" break="no"/>tur fieri processus de non esse ad esse 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e742">
-               <lb ed="#P" n="68"/>Tertio ad idem; inter actum essentialem, 
-      <lb ed="#P" n="69"/>&amp; notionalem nulla est origo; ergo non est 
-      <lb ed="#P" n="70"/>ibi prioritas originis, Consequentia est de se 
-      <lb ed="#P" n="71"/>nota. Antecedens probo, quia vbi origo, ibi 
-      <lb ed="#P" n="72"/>est realis distinctio, &amp; realis relatio, vt patuit 
-      <lb ed="#P" n="73"/>supra in 4. distinctione, hoc autem non est in 
-      <lb ed="#P" n="74"/>proposito, vt est de se notum, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e760">
-               <lb ed="#P" n="75"/>Nec valet si dicatur quod quamuis essen 
-      <lb ed="#P" n="76"/>tia non originet, tamen est principium orio 
-      <lb ed="#P" n="77"/>nandi; quia dato ita esse (quod etiam
-      mul<lb ed="#P" n="78" break="no"/>ti negant) hoc tamen est omnino verum, quod 
-      <lb ed="#P" n="79"/>essentia non est principium actus generandi 
-      <lb ed="#P" n="80"/>secundum se ipsam, vel per se ipsam, propter 
-      <lb ed="#P" n="81"/>uod nihil valet eis ad propositum, quia
-      essen<lb ed="#P" n="82" break="no"/>tialia non praecedunt notionalia, &amp; maxime 
-      <lb ed="#P" n="83"/>in eadem persona, nisi vt essentialia sunt,
-      se<lb ed="#P" n="84" break="no"/>cundum quem modum essentia non est prin 
-      <lb ed="#P" n="85"/>cipium generandi, vt dictum est, &amp; etiam pa 
-      <lb ed="#P" n="86"/>tebit in sequenti distinctione. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e790">
-               <lb ed="#P" n="87"/>Quarto sic. Quado aliqua duo concurrunt 
-      <lb ed="#P" n="88"/>ad constitutionem vnius personae, &amp; vnum 
-      <lb ed="#P" n="89"/>non est in potentia ad alterum, tunc vnum 
-      <lb ed="#P" n="90"/>eorum non est prius altero secundum
-      origi<lb ed="#P" n="91" break="no"/>nem, sed ita se habet in proposito, ergo &amp;c. 
-      <lb ed="#P" n="92"/>Maior videtur nota, quia duobus existentibus 
-      <lb ed="#P" n="93"/>in vna persona, vel supposito, illud, quod est 
-      <lb ed="#P" n="94"/>prius altero secundum originem, est in
-      poten<lb ed="#P" n="95" break="no"/>tia ad alterum, sicut patet de materia, &amp; for 
-      <lb ed="#P" n="96"/>ma in composito, nam quia materia precedit 
-      <lb ed="#P" n="97"/>formam secudum originem, idcirco est in
-      po<lb ed="#P" n="98" break="no"/>tentia ad eam: Minorem probo, quia ad
-      con<lb ed="#P" n="99" break="no"/>stitutionem cuiuscunque personae diuinae con- 
-      <lb ed="#P" n="100"/>currunt essentialia, &amp; notionalia; si ergo essuen 
-      <lb ed="#P" n="101"/>tialia sunt praeuia notionalibus secundum
-      ori<lb ed="#P" n="102" break="no"/>ginem; ergo erunt in potentia ad ea 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e827">
-               <lb ed="#P" n="103"/>Et confirmatur, quia quandocunque plu 
-      <lb ed="#P" n="104"/>ta concurrunt ad constitutionem vnius
-      sup<lb ed="#P" n="105" break="no"/>posit, illud non potest praeintelligi cum vno 
-      <lb ed="#P" n="106"/>illorum sine altero, sicut patet de materia, &amp;  
-      <lb ed="#P" n="107"/>forma respectu composit, nam quamuis
-      ma<lb ed="#P" n="108" break="no"/>teria secundum se praecedat formam via
-      ori<lb ed="#P" n="109" break="no"/>ginis, in comparatione tamen ad compositum 
-      <lb ed="#P" n="110"/>non est aliquis talis ordo inter ea, secundum 
-      <lb ed="#P" n="111"/>quem compositum possit praeintelligi cum 
-      <lb ed="#P" n="112"/>vno illorum sine altero, multo ergo magis sic 
-      <lb ed="#P" n="113"/>erit in proposito, vbi essentialia distinguuntur 
-      <lb ed="#P" n="114"/>a notionalibus secundum rationem, propter 
-      <!--259.xml-->
-      <pb ed="#P" n="234"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>quae omnia, &amp; plura alia quae adduci possent 
-      <lb ed="#P" n="2"/>non videtur praefata op. tenenda; rationes 
-      <lb ed="#P" n="3"/>autem ipsius soluam in fine¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e869">
-               <lb ed="#P" n="4"/>Et ideo est alia opinio quae videtur
-      pone<lb ed="#P" n="5" break="no"/>re totum contrarium, ponit enim actum
-      in<lb ed="#P" n="6" break="no"/>telligendi, &amp; volendi non elici ab vna perso 
-      <lb ed="#P" n="7"/>na prius quam ab alia, sed elici simul ab
-      om<lb ed="#P" n="8" break="no"/>nibus tribus personis iam constitutis per
-      a<lb ed="#P" n="9" break="no"/>ctus notionales, &amp; per consequens habent 
-      <lb ed="#P" n="10"/>dicere, quod actus notionales, per quos
-      con<lb ed="#P" n="11" break="no"/>stituuntur personae tanquam per propria,
-      pr<lb ed="#P" n="12" break="no"/>cedunt actus essentiales, quos personae adin 
-      <lb ed="#P" n="13"/>uicem habent communes, ita quod secundum 
-      <lb ed="#P" n="14"/>viam istorum in prima persona actus
-      gene<lb ed="#P" n="15" break="no"/>randi quodam ordine originis praecedit actu 
-      <lb ed="#P" n="16"/>intelligendi, &amp; volendi, at secundum istum 
-      <lb ed="#P" n="17"/>modum magis verificantur ista, patet
-      intel<lb ed="#P" n="18" break="no"/>ligit, quia generat, quam e conuerso, patet 
-      <lb ed="#P" n="19"/>generat, quia intelligit, &amp; quia ista opinio 
-      <lb ed="#P" n="20"/>innitur fundamentis satis apparentibus, ideo 
-      <lb ed="#P" n="21"/>adduco pro ea 5. rationes, quae videntur 
-      <lb ed="#P" n="22"/>posse facere fidem de eius veritate 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e913">
-               <lb ed="#P" n="23"/>1 Illi actus, per quos persone
-      constituum<lb ed="#P" n="24" break="no"/>tur in suo esse personali, praecedunt illos sal 
-      <lb ed="#P" n="25"/>tem secundum originem, qui sequuntur ad 
-      <lb ed="#P" n="26"/>esse constitutum, nunc autem ita est in
-      pro<lb ed="#P" n="27" break="no"/>posito; nam per actus notionales videntur 
-      <lb ed="#P" n="28"/>personae constitui, actus autem essentiales ma 
-      <lb ed="#P" n="29"/>gis videntur sequi ad esse constitutum, ergo 
-      <lb ed="#P" n="30"/>&amp;c. Maior est manifesta; Minorem probo 
-      <lb ed="#P" n="31"/>quantum ad eius partes; nam quod per act) 
-      <lb ed="#P" n="32"/>notionales constituantur personae patet, quia 
-      <lb ed="#P" n="33"/>actus notionales, vel sunt relationes, vel pra 
-      <lb ed="#P" n="34"/>cedunt necessario ipsas relationes, &amp; ideo si 
-      <lb ed="#P" n="35"/>personae constituuntur per relationes (vt con 
-      <lb ed="#P" n="36"/>muniter dicitur) constituuntur per actus no 
-      <lb ed="#P" n="37"/>tionales; vel ex eo quod sunt idem cum
-      rel<lb ed="#P" n="38" break="no"/>tionibus, vel ex eo quod relationes non sunt 
-      <lb ed="#P" n="39"/>in personis nisi mediantibus istis actibus: 
-      <lb ed="#P" n="40"/>probo aliam partem scilicet quod actus
-      es<lb ed="#P" n="41" break="no"/>sentiales sequantur esse constitutum, quia 
-      <lb ed="#P" n="42"/>vel tu dices quod praecedunt eas constituen 
-      <lb ed="#P" n="43"/>do, vel quod sequantur esse constitutum, 
-      <lb ed="#P" n="44"/>primum non potest dici, quia tunc non
-      es<lb ed="#P" n="45" break="no"/>sent actus eliciti ab aliqua persona, quod non 
-      <lb ed="#P" n="46"/>videtur intelligibile; nec secundum quia sunt 
-      <lb ed="#P" n="47"/>communes omnibus personis, &amp; per
-      conse<lb ed="#P" n="48" break="no"/>uens non constitutiui, ergo sequutur esse 
-      <lb ed="#P" n="49"/>constitutum, 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e974">
-               <lb ed="#P" n="50"/>2 Quando duo actus competunt eidem  
-      <lb ed="#P" n="51"/>personae diuinae, vnus proprius, &amp; alter com 
-      <lb ed="#P" n="52"/>munis, prius origine competit sibi actus pro 
-      <lb ed="#P" n="53"/>prius, quam actus communis, sed actus
-      no<lb ed="#P" n="54" break="no"/>tionales, &amp; essentiales competunt eidem per 
-      <lb ed="#P" n="55"/>sonae diuinae, puta patri competit generare, 
-      <lb ed="#P" n="56"/>&amp; intelligere, &amp; generare est proprium;
-      in<lb ed="#P" n="57" break="no"/>telligere autem est commune, ergo prius si¬ 
-      <!--259.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 234 b -->
-               <lb ed="#P" n="58"/>bi competit generare, quam intelligere,
-      Mi<lb ed="#P" n="59" break="no"/>nor est nota, Maior probatur per illud quod 
-      <lb ed="#P" n="60"/>videmus in eadem persona patris. Nam quia 
-      <lb ed="#P" n="61"/>generare est sibi proprium, spirare autem est 
-      <lb ed="#P" n="62"/>commune sibi, &amp; filio, idcirco prius origine 
-      <lb ed="#P" n="63"/>generat, quam spiret, ergo eodem modo in 
-      <lb ed="#P" n="64"/>proposito quia generare est sibi proprium, 
-      <lb ed="#P" n="65"/>intelligere autem commune, prius origine 
-      <lb ed="#P" n="66"/>generabit, quam intelligat. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1020">
-               <lb ed="#P" n="67"/>3 Vel tu dices quod pater prius generet,  
-      <lb ed="#P" n="68"/>quam intelligat, &amp; vellit, vel e conuerso; si 
-      <lb ed="#P" n="69"/>dicatur primum, habetur propositum; si
-      di<lb ed="#P" n="70" break="no"/>catur secundum, tunc in illo priori, in quo 
-      <lb ed="#P" n="71"/>pater intelligit, &amp; vult, habet vim spiratiuam, 
-      <lb ed="#P" n="72"/>poterit ergo spirare Spiritum Sanctum
-      ante<lb ed="#P" n="73" break="no"/>quam generet filium, quod est absurdum 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1039">
-               <lb ed="#P" n="74"/>4 Si pater prius intelligeret quam
-      gene<lb ed="#P" n="75" break="no"/>raret, sequeretur quod ipse solus eliceret 
-      <lb ed="#P" n="76"/>actum intelligendi, aliae vero personae
-      ma<lb ed="#P" n="77" break="no"/>gis se haberent vt suscipientes, quam vt
-      eli<lb ed="#P" n="78" break="no"/>cientes, consequens est falsum; ergo &amp;c. Fal 
-      <lb ed="#P" n="79"/>sitas patet, quia tunc pater haberet perfectio 
-      <lb ed="#P" n="80"/>ri modo istum actum, quam aliae personae. 
-      <lb ed="#P" n="81"/>probo consequentiam, quia posito quod pa 
-      <lb ed="#P" n="82"/>ter prius habeat actum intelligendi, quam 
-      <lb ed="#P" n="83"/>actum generandi oportet dicere, quod com 
-      <lb ed="#P" n="84"/>municet filio ipsum intelligere per actum
-      ge<lb ed="#P" n="85" break="no"/>nerationis; &amp; per consequens habebit se fi- 
-      <lb ed="#P" n="86"/>lius solum in ratione suscipientis actum 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1070">
-               <lb ed="#P" n="87"/>3 Si pater prius intelligeret, quam
-      gene<lb ed="#P" n="88" break="no"/>raret, sequeretur quod verbum prius
-      intel<lb ed="#P" n="89" break="no"/>ligeretur, quam produceretur, consequens 
-      <lb ed="#P" n="90"/>est falsum; ergo &amp;c. Falsitas consequentis 
-      <lb ed="#P" n="91"/>patet, quia illud quod prius intelligitur, quam 
-      <lb ed="#P" n="92"/>producatur, producitur per ideam, &amp; vadit 
-      <lb ed="#P" n="93"/>de non esse ad esse, ad modum creaturae, quod 
-      <lb ed="#P" n="94"/>absurdum est dicere, de diuino verbo,
-      Con<lb ed="#P" n="95" break="no"/>sequentia probatur, quia in illo priori in quo 
-      <lb ed="#P" n="96"/>pater ponitur intelligere, intelligit omnia 
-      <lb ed="#P" n="97"/>intelligibilia, alias eius actus non esset
-      per<lb ed="#P" n="98" break="no"/>fectus, &amp; infinitus; intelliget ergo in illo prio 
-      <lb ed="#P" n="99"/>ri etiam ipsum filium; cum ergo in illo priori 
-      <lb ed="#P" n="100"/>supponatur solum intelligere, &amp; non produm 
-      <lb ed="#P" n="101"/>cere, intelliget filium antequam eum
-      pro<lb ed="#P" n="102" break="no"/>ducat, haec est illorum sententia; cum suis 
-      <lb ed="#P" n="103"/>potioribus motiuis. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1109">
-               <lb ed="#P" n="104"/>lsta tamen opinio mihi non satisfacit, ideo 
-      <lb ed="#P" n="105"/>arguo illam propter aliqua inconuenientis 
-      <lb ed="#P" n="106"/>quae sequuntur eam, quorum primum est, 
-      <lb ed="#P" n="107"/>quiam tunc prima persona per actum
-      gene<lb ed="#P" n="108" break="no"/>randi acquireret intelligere, aliasque essentia 
-      <lb ed="#P" n="109"/>les perfectiones, cuius contrarium superius 
-      <lb ed="#P" n="110"/>est ostensum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1127">
-               <lb ed="#P" n="111"/>Secundo sequeretur quod filius non
-      ge<lb ed="#P" n="112" break="no"/>nerentur de substantia patris, quia secundum 
-      <lb ed="#P" n="113"/>istum modum, intelligere &amp; scire sequuntur 
-      <lb ed="#P" n="114"/>actum generandi; dicere autem quod filius 
-      <!--260.xml-->
-      <pb ed="#P" n="235"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>non generetur de substantia patris est
-      con<lb ed="#P" n="2" break="no"/>tra Augustinum pluribus in locis, praesertim 
-      <lb ed="#P" n="3"/>
-               <ref xml:id="gsX5tY-d1e350-Rd1e1150">vij.</ref> &amp; <ref xml:id="gsX5tY-d1e350-Rd1e1154" corresp="#gsX5tY-d1e350-Qd1e1159">xv. de Trinitate cap. xx.</ref> vbi dicit, quod 
-      <lb ed="#P" n="4"/><quote xml:id="gsX5tY-d1e350-Qd1e1159" source="http://scta.info/resource/adt-l15-d1e1848@122-130">quicquid est in ea scientia de qua est
-        geni<lb ed="#P" n="5" break="no"/>tus</quote> filius, est etiam in ipso genito 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1165">
-               <lb ed="#P" n="6"/>Tertio sequeretur, quod pater prius esset 
-      <lb ed="#P" n="7"/>pater, quam Deus: nam in illo priore
-      quan<lb ed="#P" n="8" break="no"/>do generat est pater, &amp; quia per istum actum 
-      <lb ed="#P" n="9"/>priorem non habet quod sit Deus, oportet 
-      <lb ed="#P" n="10"/>quod habeat hoc quasi per actum posterioret 
-      <lb ed="#P" n="11"/>scilicet per actum essentialem; erit ergo prius 
-      <lb ed="#P" n="12"/>pater Deus, quod est absurdum, tunc enim 
-      <lb ed="#P" n="13"/>heret de non Deo Deus, sicut arguebatur su 
-      <lb ed="#P" n="14"/>perius contra aliam opinionem, quod fieret 
-      <lb ed="#P" n="15"/>de non patre pater. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1189">
-               <lb ed="#P" n="16"/>Quarto sequeretur, quod respectiua essent 
-      <lb ed="#P" n="17"/>priora absolutis in eodem; quia notionalia 
-      <lb ed="#P" n="18"/>sunt respectiua, &amp; essentialia sunt absoluta; 
-      <lb ed="#P" n="19"/>hoc autem videtur omnino irrationabile,
-      er<lb ed="#P" n="20" break="no"/>go &amp;c. Multa alia possem inducere
-      inconue<lb ed="#P" n="21" break="no"/>nientia, quae breuitatis causa omitto. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1206">
-               <lb ed="#P" n="22"/>Saluo ergo meliori iudicio videtur mihi 
-      <lb ed="#P" n="23"/>aliter esse dicendum Quapropter, dum
-      quae<lb ed="#P" n="24" break="no"/>ritur vtrum generare sit ita naturale patri, 
-      <lb ed="#P" n="25"/>quod prius sibi competat, quam intelligere, 
-      <lb ed="#P" n="26"/>&amp; prius quocunque alio actu; dico quod
-      quam<lb ed="#P" n="27" break="no"/>ritur de ordine inter actus essentiales, &amp; non 
-      <lb ed="#P" n="28"/>tionales, qui nam eorum sint magis
-      natura<lb ed="#P" n="29" break="no"/>les; idcirco vt melius explicem difficultatem 
-      <lb ed="#P" n="30"/>huius articuli, est notandum quod actus
-      es<lb ed="#P" n="31" break="no"/>sentiales, &amp; notionales possunt comparari ad 
-      <lb ed="#P" n="32"/>inuicem duobus modis, vno modo absolute. 
-      <lb ed="#P" n="33"/>secundum eorum genus, puta quatenus
-      es<lb ed="#P" n="34" break="no"/>sentiales sunt absoluti, &amp; notionales sunt re 
-      <lb ed="#P" n="35"/>spectiui. Alio modo possunt ad inuicem com 
-      <lb ed="#P" n="36"/>parari respectu tertij, puta in quantum
-      pos<lb ed="#P" n="37" break="no"/>sunt conuenire vni, &amp; eidem diuinae persone 
-      <lb ed="#P" n="38"/>quaecunque sit illa, si ergo fiat comparatio isto 
-      <lb ed="#P" n="39"/>rum actuum adseinuicem primo modo, &amp;  
-      <lb ed="#P" n="40"/>quaeratur, qui sint priores, sic dico, quod
-      a<lb ed="#P" n="41" break="no"/>ctus essentiales sunt aliquo modo priores, &amp;  
-      <lb ed="#P" n="42"/>magis naturales, quam actus notionales;
-      di<lb ed="#P" n="43" break="no"/>co autem aliquo modo, quia vbi non est
-      rea<lb ed="#P" n="44" break="no"/>lis distinctio, non potest esse simpliciter
-      con<lb ed="#P" n="45" break="no"/>paratio secundum prius, &amp; posterius, vel ma 
-      <lb ed="#P" n="46"/>gis, &amp; minus naturale: inquantum tamen sunt 
-      <lb ed="#P" n="47"/>distincti secundum rationem, potest esse ibi 
-      <lb ed="#P" n="48"/>aliqua comparatio, &amp; isto modo videtur
-      mi<lb ed="#P" n="49" break="no"/>hi, quod actus essentiales sint priores
-      notio<lb ed="#P" n="50" break="no"/>nalibus, quod patet ex tribus 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1271">
-               <lb ed="#P" n="51"/>1 Nam actus notionales vnius personae 
-      <lb ed="#P" n="52"/>non inueniuntur in ea sine essentialibus
-      al<lb ed="#P" n="53" break="no"/>terius personae, quia essentialia sunt
-      com<lb ed="#P" n="54" break="no"/>munia omnibus, actus autem essentiales in 
-      <lb ed="#P" n="55"/>vna persona inueniuntur sine notionalibus 
-      <lb ed="#P" n="56"/>alterius personae, ergo essentiales sunt
-      prio<lb ed="#P" n="57" break="no"/>tes, quia prius est a quo non conuertitur 
-      <!--260.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 235 b -->
-               <lb ed="#P" n="58"/>consequentia. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1297">
-               <lb ed="#P" n="59"/>2 Actus essentiales sunt absoluti,
-      notio<lb ed="#P" n="60" break="no"/>nales autem sunt respectiui: absolutum aute 
-      <lb ed="#P" n="61"/>est prius respectiuo, cum possit intelligi sine 
-      <lb ed="#P" n="62"/>eo, &amp; non e conuerso, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1308">
-               <lb ed="#P" n="63"/>3 Apparet hoc idem ex eo quod ita se
-      vi<lb ed="#P" n="64" break="no"/>dentur habere actus essentiales, &amp;
-      notiona<lb ed="#P" n="65" break="no"/>les, quemadmodum essentia, &amp; notiones; nam 
-      <lb ed="#P" n="66"/>vtrobique est vniformis comparatio, Constat 
-      <lb ed="#P" n="67"/>autem quod essentia praecedit omnes
-      notio<lb ed="#P" n="68" break="no"/>nes, cum sit fundamentum omnium earum, 
-      <lb ed="#P" n="69"/>ergo &amp; actus essentiales debent praecedere 
-      <lb ed="#P" n="70"/>notionales; tanquam eorum fundamenta, &amp; 
-      <lb ed="#P" n="71"/>sic actus essentiales sunt priores isto modo 
-      <lb ed="#P" n="72"/>notionalibus.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1332">
-               <lb ed="#P" n="73"/>Si quis tamen quaerat, qualis prioritas sit 
-      <lb ed="#P" n="74"/>ista, dico quod est ex natura rei
-      fundamen<lb ed="#P" n="75" break="no"/>taliter, complectiue tamen per actum ratio. 
-      <lb ed="#P" n="76"/>nis; nam cum prius, &amp; posterius supponant 
-      <lb ed="#P" n="77"/>distinctionem, ita iudicandum est de
-      priori<lb ed="#P" n="78" break="no"/>tate vnius actus ad alterum, quemadmodum 
-      <lb ed="#P" n="79"/>de distinctione, cum ergo distinctio inter istos 
-      <lb ed="#P" n="80"/>actus sit ex natura rei fundamentaliter, &amp;  
-      <lb ed="#P" n="81"/>complectiue per actum rationis, vt suppono 
-      <lb ed="#P" n="82"/>ad pns, quia alias patebit. Relinquitur quod 
-      <lb ed="#P" n="83"/>prioritas vnius ad alium sit ex natura rei,
-      tam<lb ed="#P" n="84" break="no"/>quam ex fundamento, ex ratione vero
-      tan<lb ed="#P" n="85" break="no"/>quam ex complemento. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1363">
-               <lb ed="#P" n="86"/>Vlterius dico quod actus essentiales non  
-      <lb ed="#P" n="87"/>solum sunt priores notionalibus isto modo, 
-      <lb ed="#P" n="88"/>sed etiam sunt aliquo modo magis naturales,  
-      <lb ed="#P" n="89"/>&amp; hoc apparet immediate ex dictis, nam eo 
-      <lb ed="#P" n="90"/>ipso quod ex natura rei sunt priores, sunt et 
-      <lb ed="#P" n="91"/>magis naturales. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1380">
-               <lb ed="#P" n="92"/>Apparet etiam hoc idem secundo, ex eo, 
-      <lb ed="#P" n="93"/>quoe actus notionales sunt relatiui, essentiales 
-      <lb ed="#P" n="94"/>autem sunt absoluti, sic erunt illorum funda 
-      <lb ed="#P" n="95"/>menta, relatio autem semper trahit suam
-      rea<lb ed="#P" n="96" break="no"/>litatem &amp; etiam suam naturam ab ipso
-      fun<lb ed="#P" n="97" break="no"/>damento, saltem secundum communiorem
-      do<lb ed="#P" n="98" break="no"/>ctrinam, sicut ergo notiones habent, quod 
-      <lb ed="#P" n="99"/>sint naturales ex ipsa diuina natura supra quam 
-      <lb ed="#P" n="100"/>fundantur; ita actus notionales habebunt,  
-      <lb ed="#P" n="101"/>uod sint naturales ex essentialibus, in
-      qui<lb ed="#P" n="102" break="no"/>bus radicantur, &amp; sic patet quid sit dicendum 
-      <lb ed="#P" n="103"/>de ordine istorum actuum, quatenus compa 
-      <lb ed="#P" n="104"/>rantur inter se absolute secundum suum genus. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1411">
-               <lb ed="#P" n="105"/>Sed si quaeratur de ordine eorum
-      compa<lb ed="#P" n="106" break="no"/>do eos adinuicem secundo modo, scilicet
-      re<lb ed="#P" n="107" break="no"/>spectu tertij, puta inquantum insunt vni, &amp;  
-      <lb ed="#P" n="108"/>eidem personae, sic dico quod actus
-      essentia<lb ed="#P" n="109" break="no"/>les, &amp; notionales non habent ad inuicem ali 
-      <lb ed="#P" n="110"/>quem ordinem, ratione cuius possit dici, quod 
-      <lb ed="#P" n="111"/>actus essentiales competant personae
-      media<lb ed="#P" n="112" break="no"/>te notionali nec e conuerso, sed simul ambo 
-      <lb ed="#P" n="113"/>competunt personae, quod probo
-      tripli<lb ed="#P" n="114" break="no"/>citer.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1435">
-      <!--261.xml-->
-               <pb ed="#P" n="236"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>1 Si isti actus non competerent simul 
-      <lb ed="#P" n="2"/>cuilibet personae, sequeretur necessario; 
-      <lb ed="#P" n="3"/>quod quaelibet persona prius eliceret
-      v<lb ed="#P" n="4" break="no"/>num istorum actuum, quam alterum,
-      con<lb ed="#P" n="5" break="no"/>sequens est falsum, ergo &amp;c. Consequentia 
-      <lb ed="#P" n="6"/>est nota. Probo falsitatem, nam si persona di 
-      <lb ed="#P" n="7"/>uina prius eliceret vnum istorum actuum 
-      <lb ed="#P" n="8"/>quam alterum, ille actus primo elicitus, vel 
-      <lb ed="#P" n="9"/>esset actus essentialis, vel notionalis; non
-      no<lb ed="#P" n="10" break="no"/>tionalis, quia contra hoc vadunt omnes ratio 
-      <lb ed="#P" n="11"/>nes primae opinionis, nec essentialis, quia con 
-      <lb ed="#P" n="12"/>tra hoc sunt rationes secundae opinionis, 
-      <lb ed="#P" n="13"/>ergo nobis restat via media, vt dicamus quod 
-      <lb ed="#P" n="14"/>praefati actus simul eliciantur a persona cui 
-      <lb ed="#P" n="15"/>competunt. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1477">
-               <lb ed="#P" n="16"/>2 Sicut se habet essentia, &amp; relatio ad com 
-      <lb ed="#P" n="17"/>stituendam personam, ita actus essentialis,  
-      <lb ed="#P" n="18"/>&amp; notionalis in hoc, quod est elici a persona 
-      <lb ed="#P" n="19"/>constituta, sed essentia, &amp; relatio
-      concur<lb ed="#P" n="20" break="no"/>runt simul ad constitutionem personae, ergo 
-      <lb ed="#P" n="21"/>actus essentialis, &amp; notionalis simul eliciun 
-      <lb ed="#P" n="22"/>tur a persona constituta; Maior videtur nota, 
-      <lb ed="#P" n="23"/>quia sicut actus essentiales sunt absoluti pro 
-      <lb ed="#P" n="24"/>pter essentiam, ita notionales sunt relatiui 
-      <lb ed="#P" n="25"/>propter relationem. Minorem probo, nam
-      quam<lb ed="#P" n="26" break="no"/>uis relatio, &amp; essentia non concurrant ex
-      ae<lb ed="#P" n="27" break="no"/>quo ad constitutionem personae, necessario 
-      <lb ed="#P" n="28"/>tamen concurrunt simul, alioquin posset pro 
-      <lb ed="#P" n="29"/>sona praeintelligi cum vno illorum sine alte 
-      <lb ed="#P" n="30"/>ro, quod patet esse falsum, eodem ergo
-      mo<lb ed="#P" n="31" break="no"/>do quamuis isti actus non ex aequo
-      conue<lb ed="#P" n="32" break="no"/>niant alicui personae, necessario tamen simul 
-      <lb ed="#P" n="33"/>eliciuntur ab ea sine quocunque ordine prio 
-      <lb ed="#P" n="34"/>ris, &amp; posterioris, quia persona non potest 
-      <lb ed="#P" n="35"/>praeintelligi esse cum vno ante alterum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1523">
-               <lb ed="#P" n="36"/>3 Sicut se habet filius ad nasci, &amp;
-      intelli<lb ed="#P" n="37" break="no"/>gere, ita se habet quaelibet alia persona
-      diui<lb ed="#P" n="38" break="no"/>na ad suum actum essentialem, &amp;
-      notiona<lb ed="#P" n="39" break="no"/>dem, sed filius in diuinis simul, &amp; sine omni 
-      <lb ed="#P" n="40"/>prioritate naturae, vel rationis nascitur, &amp; in 
-      <lb ed="#P" n="41"/>telligit, ergo &amp; pari ratione sine omni
-      prio<lb ed="#P" n="42" break="no"/>ritate pater generat, &amp; intelligit, habetque 
-      <lb ed="#P" n="43"/>omnia essentialia, &amp; Spiritus Sanctus
-      simili<lb ed="#P" n="44" break="no"/>ter; Maior est nota: quia eadem ratio est de 
-      <lb ed="#P" n="45"/>omnibus diuinis personis; Minorem probo 
-      <lb ed="#P" n="46"/>per P. Augustinum super illud loannis non  
-      <lb ed="#P" n="47"/>potest filius facere quicquam, nisi quod
-      vi<lb ed="#P" n="48" break="no"/>derit patrem faciente, exponit dicens quod 
-      <lb ed="#P" n="49"/>videre filij est ipsum natum esse de patre, non 
-      <lb ed="#P" n="50"/>enim alia est visio eius, &amp; alia substantia eius,  
-      <lb ed="#P" n="51"/>totum namque quod est, de patre est. Vult 
-      <lb ed="#P" n="52"/>ergo Aug. quod videre filij idem sit quod 
-      <lb ed="#P" n="53"/>ipsum nasci, ex quo sequitur immediate quod 
-      <lb ed="#P" n="54"/>videndo, &amp; intelligendo nascitur, &amp;
-      nascen<lb ed="#P" n="55" break="no"/>do intelligit, &amp; videt, ita quod inter praefatos 
-      <lb ed="#P" n="56"/>actus nullus est ordo prioris, &amp; posterioris. 
-      <lb ed="#P" n="57"/>&amp; eodem modo est dicedum de patre sicut 
-      <!--261.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 236 b -->
-               <lb ed="#P" n="58"/>tangit ibidem August. dicens, demonstrans 
-      <lb ed="#P" n="59"/>pater filio visionem gignit, vult ergo Augi 
-      <lb ed="#P" n="60"/>quod pater demonstret gignendo, &amp; gignet 
-      <lb ed="#P" n="61"/>demonstrando. Constat autem quod non de 
-      <lb ed="#P" n="62"/>monstrat nisi intelligendo, ergo simul, &amp;
-      si<lb ed="#P" n="63" break="no"/>ne ordine prioris, &amp; posterioris intelligit, &amp;  
-      <lb ed="#P" n="64"/>gignit, &amp; e conuerso. Debemus ergo qicere 
-      <lb ed="#P" n="65"/>quod simul, eliciat vtrumque actum, ita quod 
-      <lb ed="#P" n="66"/>in eliciendo vnus non habet aliquam
-      ratio<lb ed="#P" n="67" break="no"/>nem principij ratione alterius, quia tuc
-      pos<lb ed="#P" n="68" break="no"/>set intelligi persona cum illo primo ante
-      al<lb ed="#P" n="69" break="no"/>terum, cuius contrarium est probatum, si aut 
-      <lb ed="#P" n="70"/>inter eos non potest esse ordo prioris secun 
-      <lb ed="#P" n="71"/>dum rationem, multo minus quicunque
-      a<lb ed="#P" n="72" break="no"/>lius ordo. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1612">
-               <lb ed="#P" n="73"/>Sed contra diceret aliquis, quod isti actus 
-      <lb ed="#P" n="74"/>eundem ordinem tenent comparati ad
-      ter<lb ed="#P" n="75" break="no"/>tium, quem prius habebant inter se; at inter 
-      <lb ed="#P" n="76"/>se habet ordinem prioris, &amp; posterioris, vt 
-      <lb ed="#P" n="77"/>tumet concedis, ergo comparati ad personam, 
-      <lb ed="#P" n="78"/>a qua eliciuntur, retinebunt eundem ordinem. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1629">
-               <lb ed="#P" n="79"/>Respondetur quod proposito assumpta 
-      <lb ed="#P" n="80"/>non est necessario vera, nisi vbi illa, quae
-      com<lb ed="#P" n="81" break="no"/>parantur ad tertium, eodem modo respiciant 
-      <lb ed="#P" n="82"/>tertium, sicut prius vnum eorum
-      respicie<lb ed="#P" n="83" break="no"/>bat alterum, &amp; ideo non valeret si quis ita 
-      <lb ed="#P" n="84"/>argueret, creaturae habent inter se ordinem 
-      <lb ed="#P" n="85"/>prioris, &amp; posterioris, quia alias non esset con 
-      <lb ed="#P" n="86"/>nexio in vniuerso, ergo tenent necessario eu 
-      <lb ed="#P" n="87"/>dem ordinem in comparatione ad Deum. Si 
-      <lb ed="#P" n="88"/>enim iste discursus esset bonus, sequeretur 
-      <lb ed="#P" n="89"/>quod Deus non posset producere, vel
-      con<lb ed="#P" n="90" break="no"/>leruare omnes creaturas immediate, sed vna 
-      <lb ed="#P" n="91"/>mediante alia, quod est falsum, creaturae
-      igi<lb ed="#P" n="92" break="no"/>tur alio modo respiciunt Deum, &amp; alio
-      mo<lb ed="#P" n="93" break="no"/>do vna respicit alteram, ita in proposito isti 
-      <lb ed="#P" n="94"/>actus sic se habent, quod alio modo vnus re 
-      <lb ed="#P" n="95"/>spicit alterum, &amp; alio modo ambo respiciunt 
-      <lb ed="#P" n="96"/>tertium, nam actus notionalis respicit essen 
-      <lb ed="#P" n="97"/>tialem, quasi fundamentum, in quo
-      radica<lb ed="#P" n="98" break="no"/>tur, sed ambo simul respiciunt personam, cui 
-      <lb ed="#P" n="99"/>competunt tanquam perfectum eliciens, a 
-      <lb ed="#P" n="100"/>quo eliciuntur, propter quod non oportet 
-      <lb ed="#P" n="101"/>esse eundem ordinem ad personam, &amp; eo- 
-      <lb ed="#P" n="102"/>rum inter se
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1684">
-               <lb ed="#P" n="103"/>His ergo visis, restat soluere rtones vtriusque 
-      <lb ed="#P" n="104"/>opinionis: de quibus omnibus possum mo 
-      <lb ed="#P" n="105"/>expedire vna breui solutione dicendo, quod 
-      <lb ed="#P" n="106"/>rationes vtriusque opinionis supponunt esse 
-      <lb ed="#P" n="107"/>aliquem ordinem inter actus essentiales, &amp;  
-      <lb ed="#P" n="108"/>notionales prout respiciunt personam elicien 
-      <lb ed="#P" n="109"/>tem, &amp; hoc supposito arguit prima opinio es 
-      <lb ed="#P" n="110"/>sentiales esse primo elicitos: alia vero e
-      con<lb ed="#P" n="111" break="no"/>tra puta quod notionalis sit primo elicitus,  
-      <lb ed="#P" n="112"/>sed si vera sunt superius dicta, praefata
-      sup<lb ed="#P" n="113" break="no"/>posito non est admittenda, &amp; ideo rationes 
-      <lb ed="#P" n="114"/>vtriusque opinionis deficiunt per petitionem 
-      <!--262.xml-->
-      <pb ed="#P" n="237"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>principij, quia supponunt illud, quod est ma 
-      <lb ed="#P" n="2"/>gis dubium in ila quaestione, vt tamen appa 
-      <lb ed="#P" n="3"/>reant magis eorum defectus respodeo omnibus 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1726">
-               <lb ed="#P" n="4"/>Ad primam ergo rationem primae opinio 
-      <lb ed="#P" n="5"/>nis nego maiorem, &amp; cum probatur, quia pro 
-      <lb ed="#P" n="6"/>ter non potest per actum generandi commu 
-      <lb ed="#P" n="7"/>nicate filio, nisi quod habet ante illum actum; 
-      <lb ed="#P" n="8"/>dico, quod praehabere aliquid potest
-      intelli<lb ed="#P" n="9" break="no"/>gi dupliciter, vno modo vt praehabere idem 
-      <lb ed="#P" n="10"/>sit, quod ante habere, alio modo vt idem sit,  
-      <lb ed="#P" n="11"/>quod habere non ab alio. Ad propositum 
-      <lb ed="#P" n="12"/>dico, quod pater non potest communicaro 
-      <lb ed="#P" n="13"/>filio, nisi illud, quod praehabuit ante actum  
-      <lb ed="#P" n="14"/>generandi secundo modo, idest non
-      com<lb ed="#P" n="15" break="no"/>municatum sibi per illum actum ab alio, quia 
-      <lb ed="#P" n="16"/>impossibile est, quod per illum actum, per 
-      <lb ed="#P" n="17"/>quem aliquid communicatur filio, quod con 
-      <lb ed="#P" n="18"/>municetur sibi aliquid ab eo, non tamen o- 
-      <lb ed="#P" n="19"/>portet, quod praehabeat, idest ante habeat,  
-      <lb ed="#P" n="20"/>&amp; ideo comittitur in probatione figura
-      di<lb ed="#P" n="21" break="no"/>ctionis; quia ly praehabere vt dicit modum 
-      <lb ed="#P" n="22"/>habendi non ab alio, seu non productionem, 
-      <lb ed="#P" n="23"/>importat secundum sensum, qui excludit or 
-      <lb ed="#P" n="24"/>dinem prioris, &amp; posterioris; secundum quen 
-      <lb ed="#P" n="25"/>modum dicitur post praedicamentum, 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1776">
-               <lb ed="#P" n="26"/>Ad secundam nego antecedens, quia non 
-      <lb ed="#P" n="27"/>reputo verum, quod pater in aliquo priori si 
-      <lb ed="#P" n="28"/>gno antequam generet sit beatus, non enim 
-      <lb ed="#P" n="29"/>ibi sunt plura signa sibi succedentia, nec etiam 
-      <lb ed="#P" n="30"/>aliquod signum ante illud signum, in quo 
-      <lb ed="#P" n="31"/>generat, sed simul in eodem signo generat, 
-      <lb ed="#P" n="32"/>&amp; est beatus; &amp; cum probatur, quia tunc
-      ac<lb ed="#P" n="33" break="no"/>quireret beatitudinem suam in illo signo per 
-      <lb ed="#P" n="34"/>actum generationis, haec probatio peccat per 
-      <lb ed="#P" n="35"/>fallaciam consequentis, arguendo a pluribs 
-      <lb ed="#P" n="36"/>causis Veritatis, ad vnam tantum: Nam quod 
-      <lb ed="#P" n="37"/>aliqua persona in diuinis sit beata in eodem 
-      <lb ed="#P" n="38"/>signo, in quo est actus generationis; potest 
-      <lb ed="#P" n="39"/>verificari duobus modis, vno modo quia per 
-      <lb ed="#P" n="40"/>gene ationem acquirit beatitudinem, sicut  
-      <lb ed="#P" n="41"/>filius, alio modo, quia per generationem con 
-      <lb ed="#P" n="42"/>municat eam, i cut pater, arguere ergo
-      pa<lb ed="#P" n="43" break="no"/>ter est beatus in illo signo, in quo est genera 
-      <lb ed="#P" n="44"/>tio, ergo acquirit suam beatitudinem per ge 
-      <lb ed="#P" n="45"/>nerationem, non valet, quia potest
-      verifica<lb ed="#P" n="46" break="no"/>ri alio modo, puta quia communicat eam por 
-      <lb ed="#P" n="47"/>generationem filio. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1826">
-               <lb ed="#P" n="48"/>Ad tertiam nego maiorem, quia non opor 
-      <lb ed="#P" n="49"/>tet, quod actus absolutus prius eliciatur, quam 
-      <lb ed="#P" n="50"/>actus respectiuus; nisi forte actus absolutus 
-      <lb ed="#P" n="51"/>esset ratio eliciendi actum respectiuum, quid 
-      <lb ed="#P" n="52"/>1 non est in proposito, &amp; cum probatur, quia 
-      <lb ed="#P" n="53"/>absolutum praecedit respectiuum secundum 
-      <lb ed="#P" n="54"/>totum suum genus, dico, quod ista probatio 
-      <lb ed="#P" n="55"/>eccat per fallaciam consequentis proceden 
-      <lb ed="#P" n="56"/>do ab inferiori ad superius affirmatiue, non 
-      <lb ed="#P" n="57"/>enim valet, hoc est prius illo secundum suum 
-      <!--262.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 237 b -->
-               <lb ed="#P" n="58"/>genus, ergo est prius illo vniuersaliter; quan 
-      <lb ed="#P" n="59"/>titas enim est prior qualitate secundum suum 
-      <lb ed="#P" n="60"/>genus, si tamen comparentur ad actionem: 
-      <lb ed="#P" n="61"/>qualitas est prior quantitate, quia qualitas 
-      <lb ed="#P" n="62"/>est principium actionis, &amp; quantitas
-      passio<lb ed="#P" n="63" break="no"/>nis; Item videmus, quod substantia est prior 
-      <lb ed="#P" n="64"/>accidente secundum suum genus, tamen si 
-      <lb ed="#P" n="65"/>ambo comparentur ad Deum producentem, 
-      <lb ed="#P" n="66"/>&amp; conseruantem potest esse e conuerso Nam 
-      <lb ed="#P" n="67"/>Deus potest producere, &amp; conseruare
-      acci<lb ed="#P" n="68" break="no"/>dens sine substantia, 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1881">
-               <lb ed="#P" n="69"/>Ad quartam nego maiorem, quia non
-      o<lb ed="#P" n="70" break="no"/>portet quod actus immanens prius
-      compe<lb ed="#P" n="71" break="no"/>tat supposito; quam actus transiens, nisi sit 
-      <lb ed="#P" n="72"/>principium transeuntis: nam in eodem
-      ani<lb ed="#P" n="73" break="no"/>mali generare est actus transiens, esse vero 
-      <lb ed="#P" n="74"/>album est actus imanens, quia tamen vnus 
-      <lb ed="#P" n="75"/>non habet rationem principij, vel termini re 
-      <lb ed="#P" n="76"/>spectu alterius, non oportet quod habeani 
-      <lb ed="#P" n="77"/>aliquem ordinem prioris &amp; posterioris inter 
-      <lb ed="#P" n="78"/>se Item in animali, sentire est actus
-      imma<lb ed="#P" n="79" break="no"/>nens, agere vero per calorem naturalem in 
-      <lb ed="#P" n="80"/>nutrimentum est actus transiens, &amp; tamen 
-      <lb ed="#P" n="81"/>isti duo actus non habent adinuicem ordinem 
-      <lb ed="#P" n="82"/>prioris, &amp; posterioris; quia vnus non habet 
-      <lb ed="#P" n="83"/>rationem principij, vel termini respectu
-      al<lb ed="#P" n="84" break="no"/>terius; idcirco maior non est vera, nisi vbi
-      a<lb ed="#P" n="85" break="no"/>ctus immanens est principium actus transeum 
-      <lb ed="#P" n="86"/>tis; Ad probationem vero cum dicitur, quod 
-      <lb ed="#P" n="87"/>actus imanes est magis intrinsecus, quam tram 
-      <lb ed="#P" n="88"/>siens, dico quod etiam non est simpliciter
-      ve<lb ed="#P" n="89" break="no"/>ra, nam etsi quantum ad illud, quod actus 
-      <lb ed="#P" n="90"/>transiens ponit in termino, non sit ita intrin 
-      <lb ed="#P" n="91"/>secus, sicut actus immanens: quantum tamen 
-      <lb ed="#P" n="92"/>ad illud, quod ponit in agente puta
-      relatio<lb ed="#P" n="93" break="no"/>nem, vel vim actiuam, est e conuerso; Quod  
-      <lb ed="#P" n="94"/>etiam additur de igne non est ad propositum 
-      <lb ed="#P" n="95"/>quia calor est principium calefactionis, quae 
-      <lb ed="#P" n="96"/>est actus transiens; propter quod non est 
-      <lb ed="#P" n="97"/>mirum si iste sit praeuius illi imutationi. Addo 
-      <lb ed="#P" n="98"/>uod generare in diuinis non est omnino 
-      <lb ed="#P" n="99"/>actus transiens, nam quamuis transeat in 
-      <lb ed="#P" n="100"/>aliam personam, non tamen in aliam
-      sub<lb ed="#P" n="101" break="no"/>stantiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e1956">
-               <lb ed="#P" n="102"/>Ad quintam, cum quaeritur vnde est quod 
-      <lb ed="#P" n="103"/>pater non intelligat in aliquo priori signo 
-      <lb ed="#P" n="104"/>ante generationem. Dico, quod est ex parto 
-      <lb ed="#P" n="105"/>patris, &amp; ex parte suae generationis, &amp;
-      sui<lb ed="#P" n="106" break="no"/>actus intelligendi, &amp; ex parte essentiae
-      intel<lb ed="#P" n="107" break="no"/>lectae, quia omnibus istis repugnat ordo prio 
-      <lb ed="#P" n="108"/>ris, &amp; posterioris secundum plura signa sibi 
-      <lb ed="#P" n="109"/>succedentia; &amp; cum probatur, quod ista repu 
-      <lb ed="#P" n="110"/>gnantia non sit ex parte patris, quia nullam  
-      <lb ed="#P" n="111"/>perfectionem sibi intrinsecam acquirit per 
-      <lb ed="#P" n="112"/>actum generandi. dico quod ista probatio 
-      <lb ed="#P" n="113"/>peccat per fallaciam accipiendo non causam 
-      <lb ed="#P" n="114"/>pro causa, quia non acquirere aliquam per¬ 
-      <!--263.xml-->
-      <pb ed="#P" n="238"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>fectionem per actum, non est causa quare ali 
-      <lb ed="#P" n="2"/>quid praecedat actum; nam dato quoe pater prius 
-      <lb ed="#P" n="3"/>intelligeret, quam generaret, causa tamen 
-      <lb ed="#P" n="4"/>istius prioritatis non esset, quia non acquire 
-      <lb ed="#P" n="5"/>ret aliquam perfectionem per actum, sed quia 
-      <lb ed="#P" n="6"/>iste actus esset principiumillius, vel alterius. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2006">
-               <lb ed="#P" n="7"/>Potest etiam dici, quod hic est fallacia com 
-      <lb ed="#P" n="8"/>sequentis; nam quod aliquid non acquirat 
-      <lb ed="#P" n="9"/>perfectionem per actum generandi, potest 
-      <lb ed="#P" n="10"/>verificari duobus modis, vno modo; quia pro 
-      <lb ed="#P" n="11"/>cedit generationem, &amp; genitum tepore, vel 
-      <lb ed="#P" n="12"/>natura quo ad omnes suas perfectiones, pro 
-      <lb ed="#P" n="13"/>ut verificatur in creaturis, vbi genitum est sup 
-      <lb ed="#P" n="14"/>positum absolutum habens distinctam natu 
-      <lb ed="#P" n="15"/>ram, &amp; distinctas perfectiones ab ipso
-      geni<lb ed="#P" n="16" break="no"/>to: alio modo non quia praecedat illum actum; 
-      <lb ed="#P" n="17"/>sed quia est simul cum eo, &amp; per illum
-      com<lb ed="#P" n="18" break="no"/>municat omnes suas perfectiones alteri; &amp;  
-      <lb ed="#P" n="19"/>hoc modo verificatur in diuinis, arguere er- 
-      <lb ed="#P" n="20"/>go sic, pater non acquirit aliquam perfectio 
-      <lb ed="#P" n="21"/>nem per actum generandi; ergo praecedit
-      il<lb ed="#P" n="22" break="no"/>lum actum secundum omnes perfectiones. 
-      <lb ed="#P" n="23"/>est procedere a pluribus causis Veritatis ad  
-      <lb ed="#P" n="24"/>vnam tantum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2048">
-               <lb ed="#P" n="25"/>Nec valet, quod additur, scilicet istam
-      re<lb ed="#P" n="26" break="no"/>pugnantiam non posse esse ex parte
-      essen<lb ed="#P" n="27" break="no"/>tiae: quia essentia nullam perfectionem
-      ex<lb ed="#P" n="28" break="no"/>pectat a personis. Nam dico, quod ideo non 
-      <lb ed="#P" n="29"/>expectat ab eis perfectionem, quia non est in 
-      <lb ed="#P" n="30"/>potentia ad eas; immo ex sua ratione
-      intrin<lb ed="#P" n="31" break="no"/>seca eas habet per identitatem, &amp; ideo non 
-      <lb ed="#P" n="32"/>potest perfecte intelligi ab aliquo, nisi
-      intell<lb ed="#P" n="33" break="no"/>gatur existere in illis tribus, &amp; sic apparet,  
-      <lb ed="#P" n="34"/>rationes primae opinionis non concludere. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2072">
-               <lb ed="#P" n="35"/>Ad rationes secundae opinionis. 
-      <lb ed="#P" n="36"/>Ad primam, nego min. &amp; cum probatur,  
-      <lb ed="#P" n="37"/>quia actus notionales constituunt personas, 
-      <lb ed="#P" n="38"/>vel vt sunt relationes vel vt praecedunt eas, di 
-      <lb ed="#P" n="39"/>co, quod prout sunt actus eliciti a psonis, non 
-      <lb ed="#P" n="40"/>constituunt eas, sed supponunt constitas: ad  
-      <lb ed="#P" n="41"/>cuius euidentiam est intelligendum, quod 
-      <lb ed="#P" n="42"/>actus notionales vere sunt relationes; &amp; quam 
-      <lb ed="#P" n="43"/>tum ad personas spectat possunt, comparari ad 
-      <lb ed="#P" n="44"/>eas dupliciter, primo, vt vere sunt quaedam  
-      <lb ed="#P" n="45"/>proprietates in personis existentes, &amp; sic con 
-      <lb ed="#P" n="46"/>stituunt personas; nec sunt actus eliciti ab eis 
-      <lb ed="#P" n="47"/>quia nulla res elicit suam differentiam
-      con<lb ed="#P" n="48" break="no"/>stitutiuam, secundo possunt personis compa 
-      <lb ed="#P" n="49"/>rari, prout personae per eos principiant
-      ter<lb ed="#P" n="50" break="no"/>minos realiter distinctos inter se; &amp; sic sunt 
-      <lb ed="#P" n="51"/>actus eliciti a personis, &amp; quasi supponunt 
-      <lb ed="#P" n="52"/>eas constitutas, vt exempli gratia, actus intel 
-      <lb ed="#P" n="53"/>ligendi potest comparari ad intellectum
-      du<lb ed="#P" n="54" break="no"/>pliciter, vno modo, vt proprietas eius in ipso 
-      <lb ed="#P" n="55"/>existens, &amp; sic non elicitur ab ipso; tum quia 
-      <lb ed="#P" n="56"/>nullum subiectum elicit suam proprietatem, 
-      <lb ed="#P" n="57"/>tunc enim constitueret se ipsum in tali esse¬  
-      <!--263.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 238 b -->
-               <lb ed="#P" n="58"/>tum quia actus elicitus, vt elicitus est, exigit 
-      <lb ed="#P" n="59"/>necessario terminum realiter distinctum, actui 
-      <lb ed="#P" n="60"/>autem intelligendi, vt proprietas est, accidit 
-      <lb ed="#P" n="61"/>habere terminum realiter distinctum; quia 
-      <lb ed="#P" n="62"/>isto modo non respicit essentialiter aliquid 
-      <lb ed="#P" n="63"/>praeter suum subiectum. Alio modo potest con 
-      <lb ed="#P" n="64"/>parari actus intelligendi intellectui, prout 
-      <lb ed="#P" n="65"/>est actus intellectus, per quem tendit in
-      ter<lb ed="#P" n="66" break="no"/>minum aliquem realiter distinctum, &amp; sic non 
-      <lb ed="#P" n="67"/>solum est eius proprietas, sed etiam actus eli 
-      <lb ed="#P" n="68"/>citus ab ipso: Primo modo, vt proprietas est, 
-      <lb ed="#P" n="69"/>videtur praecedere ipsum, non quidem
-      sim<lb ed="#P" n="70" break="no"/>pliciter, sed quatenus eum constituit
-      forma<lb ed="#P" n="71" break="no"/>liter: Secundo modo, vt est actus elicitus, ma 
-      <lb ed="#P" n="72"/>gis sequitur ipsum in tali esse constitutum; 
-      <lb ed="#P" n="73"/>nam si prius intellectus non esset constitutus 
-      <lb ed="#P" n="74"/>in aliquo esse formali per actum
-      intelligen<lb ed="#P" n="75" break="no"/>di, prout est quaedam qualitas in ipso existens,  
-      <lb ed="#P" n="76"/>nunquam per actum intelligendi tenderet 
-      <lb ed="#P" n="77"/>in obiectum, prout est actus elicitus ab ipso; 
-      <lb ed="#P" n="78"/>ita dico suo modo in proposito de actu gene 
-      <lb ed="#P" n="79"/>randi, &amp; sic minor illius rationis non erat 
-      <lb ed="#P" n="80"/>simpliciter vera; nam quamuis actus essentia 
-      <lb ed="#P" n="81"/>les, vt sunt eliciti, sequantur esse comstitutum, 
-      <lb ed="#P" n="82"/>in quantum tamen concurrunt ad
-      constitu<lb ed="#P" n="83" break="no"/>tionem personarum simul cum notionalibus 
-      <lb ed="#P" n="84"/>quasi eorum fundamenta, sic praecedunt
-      con<lb ed="#P" n="85" break="no"/>stitutionem personarum, quemadmodum non 
-      <lb ed="#P" n="86"/>tionales praecedebant, vt proprietates. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2194">
-               <lb ed="#P" n="87"/>Ad secundam nego maiorem: quia non  
-      <lb ed="#P" n="88"/>est vniuersaliter vera, videmus enim, quod 
-      <lb ed="#P" n="89"/>sentire e actus communis homini, &amp; bruto, 
-      <lb ed="#P" n="90"/>intelligere vero est sibi proprium, &amp; tamen 
-      <lb ed="#P" n="91"/>homo prius elicit actum sentiendi, quam
-      a<lb ed="#P" n="92" break="no"/>ctum intelligendi; Ad probationem vero cum 
-      <lb ed="#P" n="93"/>dicitur, pater prius generat, quam spiret, quid 
-      <lb ed="#P" n="94"/>estcommune sibi, &amp; filio; dico quod hoc non 
-      <lb ed="#P" n="95"/>est propter communitatem vnius actus, &amp; 
-      <lb ed="#P" n="96"/>proprietatem alterius, puta generare, sed pro 
-      <lb ed="#P" n="97"/>pter aliam causam, quaecunque sit illa, de qua 
-      <lb ed="#P" n="98"/>apparebit infra cum pertractabitur de
-      pro<lb ed="#P" n="99" break="no"/>cessione spiritus sancti, &amp; sic peccat haec
-      ra<lb ed="#P" n="100" break="no"/>tio, assignans pro causa huius ordinis illud,  
-      <lb ed="#P" n="101"/>quod non est causa 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2229">
-               <lb ed="#P" n="102"/>Ad tertiam rationem patet quid sit dicen 
-      <lb ed="#P" n="103"/>dum, quia pater non prius intelligit, quam 
-      <lb ed="#P" n="104"/>generet, nec e conuerso, sicut quaerebat
-      ra<lb ed="#P" n="105" break="no"/>tio; quapropter nihil concludit. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2241">
-               <lb ed="#P" n="106"/>Ad quartam, &amp; quintam dico quod nihil 
-      <lb ed="#P" n="107"/>concludunt, nisi supposito, patrem prius
-      intel<lb ed="#P" n="108" break="no"/>ligere, quam generare, quod est negandum. 
-      <lb ed="#P" n="109"/> Sic ergo patet, generare in patrem non
-      praece<lb ed="#P" n="110" break="no"/>dere intelligere; nec e conuerso; immo
-      vtros<lb ed="#P" n="111" break="no"/>que actus esse essentiales ipsi patri; ita quod,  
-      <lb ed="#P" n="112"/>prout sunt actus eliciti, non est inter eos
-      ali<lb ed="#P" n="113" break="no"/>quis ordo, ratione cuius vnus sit magis natu 
-      <lb ed="#P" n="114"/>ralis, quam alter.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2263">
-      <!--264.xml-->
-               <pb ed="#P" n="239"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="2"/>An in Deo sit aliquis modus necessitatis 
-      <lb ed="#P" n="3"/>respectu istius actus.
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2279">
-               <lb ed="#P" n="4"/>DRo intelligentia tituli quaestionis est
-      no<lb ed="#P" n="5" break="no"/>tandum, non esse vnum tantum modum 
-      <lb ed="#P" n="6"/>necessitatis, sed plures; sicut patet per Arist. 
-      <lb ed="#P" n="7"/>3. Metaph vbi plures ponit necessitatis
-      mo<lb ed="#P" n="8" break="no"/>dos; inter omnes autem, illum dicit esse
-      po<lb ed="#P" n="9" break="no"/>tissimum, quo aliquid dicitur necessarium. 
-      <lb ed="#P" n="10"/>quia impossibile est aliter se habere, quoc 
-      <lb ed="#P" n="11"/>probat per hoc, quia omnes illi modi
-      necess<lb ed="#P" n="12" break="no"/>rij accipiuntur per similitudinem ad istum; 
-      <lb ed="#P" n="13"/>uem subdiuidit in duos modos, vt explicat 
-      <lb ed="#P" n="14"/>ibi Comment. vno modo dicitur aliquid
-      im<lb ed="#P" n="15" break="no"/>possibile aliter se habere per se; quia nullam  
-      <lb ed="#P" n="16"/>habet causam necessitatis, &amp; hoc est
-      necessa<lb ed="#P" n="17" break="no"/>rium simpliciter, alio modo dicitur aliquid 
-      <lb ed="#P" n="18"/>impossibile aliter se habere per
-      comparatio<lb ed="#P" n="19" break="no"/>nem ad suam causam, propter quam
-      necessi<lb ed="#P" n="20" break="no"/>tatem habet, &amp; vocatur a Comment. debitum, 
-      <lb ed="#P" n="21"/>seu necessarium per aliud; &amp; hinc est, quod 
-      <lb ed="#P" n="22"/>communiter assignantur quatuor modi
-      ne<lb ed="#P" n="23" break="no"/>cessitatis per habitudinem ad quatuor cans. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2325">
-               <lb ed="#P" n="24"/>Primus modus, respectu causae materialis 
-      <lb ed="#P" n="25"/>acceptus, vocatur necessitas indigentiae; sicut 
-      <lb ed="#P" n="26"/>cum dico necesse est animal corrumpi; haec 
-      <lb ed="#P" n="27"/>enim necessitas prouenit ex materia, prout 
-      <lb ed="#P" n="28"/>est priuationi annexa, &amp; ideo ad remouendum 
-      <lb ed="#P" n="29"/>hunc defectum, &amp; istam indigentiam,
-      mate<lb ed="#P" n="30" break="no"/>ria necessitat ad generationem, vt per eam 
-      <lb ed="#P" n="31"/>acquirat aliam formam: &amp; quia generatio 
-      <lb ed="#P" n="32"/>vnius non est absque corruptione alterius; 
-      <lb ed="#P" n="33"/>idcirco necessitando ad generationem, neces 
-      <lb ed="#P" n="34"/>sitat consequenter ad corruptionem 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2351">
-               <lb ed="#P" n="35"/>Secundus necessitatis modus accipitur per 
-      <lb ed="#P" n="36"/>comparationem ad causam formalem, &amp;
-      con<lb ed="#P" n="37" break="no"/>muniter vocatur necessitas exigentiae; nam 
-      <lb ed="#P" n="38"/>quia forma dat actum determinatum, ideo 
-      <lb ed="#P" n="39"/>dando esse necessitat ad determinatum esse, 
-      <lb ed="#P" n="40"/>&amp; consequenter ad determinatum agere 
-      <lb ed="#P" n="41"/>vnde quia ignis necessario est calidus,
-      neces<lb ed="#P" n="42" break="no"/>sario etiam calefacit, &amp; ista necessitas proue 
-      <lb ed="#P" n="43"/>nit ex exigentia formae ignis, quae sic exigit, 
-      <lb ed="#P" n="44"/>cum det actum determinatum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2375">
-               <lb ed="#P" n="45"/>Tertius modus accipitur per
-      comparatio<lb ed="#P" n="46" break="no"/>nem ad causam efficientem, &amp; vocatur
-      ne<lb ed="#P" n="47" break="no"/>cessitas violentiae, sicut cum graue proiicitur 
-      <lb ed="#P" n="48"/>sursum, ascensus est necessarius propter vio 
-      <lb ed="#P" n="49"/>lentiam causae impellentis; quandoque etiam  
-      <lb ed="#P" n="50"/>est a causa efficiente secundum naturam, &amp; 
-      <lb ed="#P" n="51"/>&amp; est quando agens agit in passum, sicut
-      na<lb ed="#P" n="52" break="no"/>tum est pati, &amp; haec vocatur necessitas influen 
-      <lb ed="#P" n="53"/>tiae, tunc enim agens influit passo aliquid na 
-      <lb ed="#P" n="54"/>turale, &amp; sic respectu causae efficientis erunt,  
-      <!--264.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 239 b -->
-               <lb ed="#P" n="55"/>duo modi necessitatis. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2409">
-               <lb ed="#P" n="56"/>Quartus modus accipitur comparatiue ad 
-      <lb ed="#P" n="57"/>causam finalem, sicut si vellem ire vltra
-      ma<lb ed="#P" n="58" break="no"/>re, necessaria mihi esset nauis, &amp; haec vocatur 
-      <lb ed="#P" n="59"/>necessitas expedientiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2420">
-               <lb ed="#P" n="60"/>Ad propositum ergo, cum quaeritur vtrum 
-      <lb ed="#P" n="61"/>in Deo sit aliquis modus necessitatis
-      respe<lb ed="#P" n="62" break="no"/>ctu actus generandi. Respondetur communi 
-      <lb ed="#P" n="63"/>ter, &amp; bene non esse ibi necessitatem indigen 
-      <lb ed="#P" n="64"/>tiae, quae reducitur ad materiam, quia ibi nul 
-      <lb ed="#P" n="65"/>la est indigentia, vel defectus. Nec est ibi
-      ne<lb ed="#P" n="66" break="no"/>cessitas violentiae; quia nullam habet caus am 
-      <lb ed="#P" n="67"/>supra se, a qua possit violentari; &amp; per
-      con<lb ed="#P" n="68" break="no"/>sequens, nec est necessitas influentiae; quia 
-      <lb ed="#P" n="69"/>nullam habet causam supra se, a qua possit 
-      <lb ed="#P" n="70"/>influxum recipere Iterum non est ibi necessi 
-      <lb ed="#P" n="71"/>tas expedientiae, quae sumitur a fine, quia
-      ses<lb ed="#P" n="72" break="no"/>per, quod ordinatur ad finem, est indignius ip 
-      <lb ed="#P" n="73"/>so fine; Deus autem non habet in se
-      ali<lb ed="#P" n="74" break="no"/>quid tale 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2455">
-               <lb ed="#P" n="75"/>Conceditur tamen communiter, ibi neces 
-      <lb ed="#P" n="76"/>sitas exigentiae, quae accipitur per
-      compara<lb ed="#P" n="77" break="no"/>tionem ad formam, cuius ratio est, quia
-      ne<lb ed="#P" n="78" break="no"/>cessarium isto modo nil aliud est, quam illud, 
-      <lb ed="#P" n="79"/>quod immutabiliter prouenit ex exigentia, 
-      <lb ed="#P" n="80"/>&amp; actualitate formae, quia ergo diuina gene 
-      <lb ed="#P" n="81"/>ratio prouenit immutabiliter ab exigentia di 
-      <lb ed="#P" n="82"/>uinae naturae, &amp; eius actualitatis, vt patebit 
-      <lb ed="#P" n="83"/>in sequenti distinctione, idcirco merito
-      con<lb ed="#P" n="84" break="no"/>ceditur, quod illa ineffabilis generatio sit ne 
-      <lb ed="#P" n="85"/>cessaria isto modo: Posset etiam, &amp; breuius di 
-      <lb ed="#P" n="86"/>ci, quod necessitas ibi non est accipienda per 
-      <lb ed="#P" n="87"/>comparationem ad intrinseca, sed est ibi abso 
-      <lb ed="#P" n="88"/>soluta necessitas sine omni causa; ita quod ea 
-      <lb ed="#P" n="89"/>dem necessitate, qua Deus est Deus, eadem  
-      <lb ed="#P" n="90"/>generat, &amp; non per aliam causam, &amp; talis 
-      <lb ed="#P" n="91"/>modus necessitatis proprijssime competit 
-      <lb ed="#P" n="92"/>Deo; nam, vt superius dictum est, illud nece 
-      <lb ed="#P" n="93"/>sarium, quod non habet causam suae necessi 
-      <lb ed="#P" n="94"/>tatis, est necessarium simpliciter; in Deo
-      au<lb ed="#P" n="95" break="no"/>tem nulla est causa; &amp; quicquid est in Deo 
-      <lb ed="#P" n="96"/>est simpliciter necessarium; ideo concludo, 
-      <lb ed="#P" n="97"/>quod illa generatio est simpliciter necessaria: 
-      <lb ed="#P" n="98"/>Habemus ergo ex praecedente articulo, &amp; ex 
-      <lb ed="#P" n="99"/>isto, quod pater generat filium naturali
-      ne<lb ed="#P" n="100" break="no"/>cessitate; &amp; ita patet quod quaerebat quaestio 
-      <lb ed="#P" n="101"/>principalis; vnde concludebat Niccard e de 
-      <lb ed="#P" n="102"/>Trinitate cap 1 nihil est ibi secundum donum 
-      <lb ed="#P" n="103"/>ex gratia largientis; sed totum secundum pro 
-      <lb ed="#P" n="104"/>prietatem exigentis; &amp; sicut rei innascibili 
-      <lb ed="#P" n="105"/>naturale est non procedere ex alio, sic eidem 
-      <lb ed="#P" n="106"/>naturale est de se procedentem habere 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2527">
-               <lb ed="#P" n="107"/>ARGVMENTA 
-      <lb ed="#P" n="108"/>in principio quaestionis.
-      <lb ed="#P" n="109"/>AD primum nego consequentiam, quia 
-      <lb ed="#P" n="110"/>non oportet, quod si generare est actus 
-      <lb ed="#P" n="111"/>naturalis in patre, propter hoc precedat actu 
-      <!--265.xml-->
-      <pb ed="#P" n="240"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>intelligendi; quia pari ratione oporteret, quod 
-      <lb ed="#P" n="2"/>intelligere praecederet actum generandi, quia 
-      <lb ed="#P" n="3"/>est actus naturalis, &amp; cum probatur, quia si 
-      <lb ed="#P" n="4"/>cut se habet natura ad intellectum ita actus 
-      <lb ed="#P" n="5"/>naturae ad actum intellectus, dico verum es 
-      <lb ed="#P" n="6"/>se vbi natura, &amp; intellectus sunt duo
-      princi<lb ed="#P" n="7" break="no"/>pia distincta realiter, vel secundum rationem 
-      <lb ed="#P" n="8"/>prouenientem ex natura rei; modo natura 
-      <lb ed="#P" n="9"/>in Deo non praecedit intellectum; nec vllus 
-      <lb ed="#P" n="10"/>est ibi ordo prioris, aut posterioris secundum 
-      <lb ed="#P" n="11"/>rem, aut secundum rationem, quae proueniat 
-      <lb ed="#P" n="12"/>ex natura rei; concedo tamen quod ratio non 
-      <lb ed="#P" n="13"/>stra ponat ibi aliquem, ordinem non ex natu 
-      <lb ed="#P" n="14"/>ra rei fundamentaliter prouenientem, sed 
-      <lb ed="#P" n="15"/>ex nostro modo intelligendi, quia
-      apprehen<lb ed="#P" n="16" break="no"/>dimus naturam diuinam ad modum naturae 
-      <lb ed="#P" n="17"/>create, scilicet tanquam fundamentum, intel 
-      <lb ed="#P" n="18"/>lectum vero tanquam perfectionem in
-      fun<lb ed="#P" n="19" break="no"/>damento: Vnde talis ordo non facit ad pro 
-      <lb ed="#P" n="20"/>positum. 
-    </p>
-            <p xml:id="gsX5tY-d1e350-d1e2590">
-               <lb ed="#P" n="21"/>Ad secundum dico, patrem generare fi- 
-      <lb ed="#P" n="22"/>lium naturali necessitate, non ex indigentia, 
-      <lb ed="#P" n="23"/>vel violentia; sed ex naturae suae exigentia, 
-      <lb ed="#P" n="24"/>&amp; suae actualissimae perfectionis
-      plenitudi<lb ed="#P" n="25" break="no"/>ne, &amp; iste modus dicit perfectionem. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="231"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e350"> <!-- l1d6q1 -->
+        <head xml:id="gsX5tY-d1e350-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e350-Hd1e112" type="question-title">Utrum pater generet filium naturali necessitate</head>
+        <p xml:id="gsX5tY-d1e350-d1e115">
+          <lb ed="#P" n="36"/>DISTINCTIONIS SEXTAE 
+          <lb ed="#P" n="37"/>QVAESTIO PRIMA 
+          <lb ed="#P" n="38"/>Vtrum pater generet filium naturali
+          ne<lb ed="#P" n="39" break="no"/>cessitate.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e126">
+          <lb ed="#P" n="40"/>ARGVITVR AD PARTEM 
+          <lb ed="#P" n="41"/>negantem. 
+          <lb ed="#P" n="42"/>1I pater generaret filium naturali neces 
+          <lb ed="#P" n="43"/>sitate, sequeretur quod actus generan 
+          <lb ed="#P" n="44"/>di in patre praecederet actum intelligendi, 
+          <lb ed="#P" n="45"/>&amp; volendi; consequens est falsum, ergo &amp;c 
+          <lb ed="#P" n="46"/>Falsitas consequentis patet, quia si genera 
+          <lb ed="#P" n="47"/>re in patre praecederet intelligere, &amp; velle; 
+          <lb ed="#P" n="48"/>tunc non generaret filium vt verbum, quod 
+          <lb ed="#P" n="49"/>est contra <ref xml:id="gsX5tY-d1e350-Rd1e149">P. Augustinum 7. de Trin. cap. i1.</ref> 
+          <lb ed="#P" n="50"/>dicentem <quote xml:id="gsX5tY-d1e350-Qd1e155" source="http://scta.info/resource/adt-l7-d1e864" synch="57-66">filius, eo est verbum, quo filius</quote>; 
+          <!--256.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 231 b -->
+          <lb ed="#P" n="51"/>verbum ergo semper supponit operationem 
+          <lb ed="#P" n="52"/>intellectus. Consequentiam probo, quia
+          si<lb ed="#P" n="53" break="no"/>cut se habet natura ad intellectum, ita actus 
+          <lb ed="#P" n="54"/>naturae ad actum intellectus, sed natura, cum 
+          <lb ed="#P" n="55"/>sit fundamentum intellectus, &amp; omnium
+          at<lb ed="#P" n="56" break="no"/>tributorum, praecedit intellectum, &amp;
+          volun<lb ed="#P" n="57" break="no"/>tatem, omniaque attributa; ergo &amp; actus
+          na<lb ed="#P" n="58" break="no"/>turae praecedit actum intellectus, &amp;
+          volun<lb ed="#P" n="59" break="no"/>tatis. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e186">
+          <lb ed="#P" n="60"/>2 Si pater generaret filium necessitate 
+          <lb ed="#P" n="61"/>naturali, hoc esset, vel propter indigentiam,  
+          <lb ed="#P" n="62"/>uta quia eo indigeret in suo esse; vel
+          pro<lb ed="#P" n="63" break="no"/>ter violentiam, quia ab alio impelleretur, nul 
+          <lb ed="#P" n="64"/>la enim alia videtur illius generationis
+          ne<lb ed="#P" n="65" break="no"/>cessitas, Constat autem quod ambo isti
+          mo<lb ed="#P" n="66" break="no"/>di necessitatis sibi repugnant, quia in Deo 
+          <lb ed="#P" n="67"/>nulla cadit indigentia, cum omnis
+          indigen<lb ed="#P" n="68" break="no"/>tia sit defectus, nec aliqua violentia, quia 
+          <lb ed="#P" n="69"/>non habet supra se aliquod principium, a quo 
+          <lb ed="#P" n="70"/>violentiam pati possit, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e212">
+          <lb ed="#P" n="71"/>ARGVITVR AD PARTEM 
+          <lb ed="#P" n="72"/>oppositam. 
+          <lb ed="#P" n="73"/>I generatio filij a patre non esset
+          neces<lb ed="#P" n="74" break="no"/>Osaria, sequeretur quod filius non esset 
+          <lb ed="#P" n="75"/>necesse esse, Consequens est falsum, quia cum 
+          <lb ed="#P" n="76"/>habeat idem esse cum patre, ergo etiam habe 
+          <lb ed="#P" n="77"/>bit idem necesse esse, sicut pater, Consequen 
+          <lb ed="#P" n="78"/>tia probatur, quia cuius generatio non est 
+          <lb ed="#P" n="79"/>necessaria, nec ipsum est necessarium. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e234">
+          <lb ed="#P" n="80"/>RESPONDEO: in ista quaestione 
+          <lb ed="#P" n="81"/>duo sunt videnda 
+          <lb ed="#P" n="82"/>1 Vrum generare in patre ita sit
+          natura<lb ed="#P" n="83" break="no"/>le; quod praecedat intelligere, &amp; velle¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e245">
+          <lb ed="#P" n="84"/>2 Vtrum in Deo inueniatur aliquis
+          mo<lb ed="#P" n="85" break="no"/>dus necessitatis respectu istius actus
+          gene<lb ed="#P" n="86" break="no"/>rationis, &amp; sic patebit, quod quaerit quaestio 
+          <lb ed="#P" n="87"/>principalis.  
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e256">
+          <lb ed="#P" n="88"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="89"/>An generare in patre praecedat intelligere, 
+          <lb ed="#P" n="90"/>&amp; velle
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e265">
+          <lb ed="#P" n="91"/>AD hoc quidam dicunt quod
+          genera<lb ed="#P" n="92" break="no"/>re non precedit intelligere, &amp; velle in 
+          <lb ed="#P" n="93"/>patre, sed magis e contra, intelligere, &amp;
+          vel<lb ed="#P" n="94" break="no"/>se praecedunt ipsum generare: quia omnia 
+          <lb ed="#P" n="95"/>essentialia communia tribus personis prius 
+          <lb ed="#P" n="96"/>origine sunt in patre, quam in alijs personis,  
+          <lb ed="#P" n="97"/>&amp; sic patet prius origine intelligit, &amp; vult, 
+          <lb ed="#P" n="98"/>quam generet filium, quia per actum
+          gene<lb ed="#P" n="99" break="no"/>randi communicat filio intelligere, &amp; velle, 
+          <lb ed="#P" n="100"/>oiaque alia essentialia, &amp; ideo nisi pater prius 
+          <lb ed="#P" n="101"/>origine haberet omnia ista, per actum
+          gene<lb ed="#P" n="102" break="no"/>randi non posset ea filio communicare. 
+          <!--257.xml-->
+          <pb ed="#P" n="232"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Rationes autem pro ista opinione possunt 
+          <lb ed="#P" n="2"/>fieri plures, potiores tamen sunt quinque¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e305">
+          <lb ed="#P" n="3"/>1 Quicquid communicatur filio per actum 
+          <lb ed="#P" n="4"/>generandi, praecedit in patre talem actum, sed  
+          <lb ed="#P" n="5"/>intelligere, &amp; velle, omniaque essentialia com 
+          <lb ed="#P" n="6"/>municatur filio per actum generandi, ergo 
+          <lb ed="#P" n="7"/>praeexistunt in patre ante generationem. Ma 
+          <lb ed="#P" n="8"/>ior est nota, quia pater per actum generandi 
+          <lb ed="#P" n="9"/>non potest communicare filio, nisi illud, quod 
+          <lb ed="#P" n="10"/>praehabet ante illum actum. Minor patet ex 
+          <lb ed="#P" n="11"/>dictis supra, vbi ostensum fuit, quod pater 
+          <lb ed="#P" n="12"/>communicat filio essentiam per actum
+          gene<lb ed="#P" n="13" break="no"/>randi, &amp; per consequens omnia essentialia.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e331">
+          <lb ed="#P" n="14"/>2 Pater inillo priori signo ante signum ori 
+          <lb ed="#P" n="15"/>ginis in quo generat filium, est perfecte
+          bea<lb ed="#P" n="16" break="no"/>tus, ergo in eodem signo, ante signum
+          origi<lb ed="#P" n="17" break="no"/>nis, habet perfecte actum intelligendi:
+          Con<lb ed="#P" n="18" break="no"/>sequentia est nota, quia perfecta beatitudo 
+          <lb ed="#P" n="19"/>non est sine actu intelligendi, &amp; volendi, er¬- 
+          <lb ed="#P" n="20"/>po in eodem signo in quo primo habet perfe 
+          <lb ed="#P" n="21"/>ctam beatitudinem, habet perfecte tales actus; 
+          <lb ed="#P" n="22"/>Antecedens probatur, quia nisi pater
+          habe<lb ed="#P" n="23" break="no"/>ret suam beatitudinem perfecte ante illud 
+          <lb ed="#P" n="24"/>signum in quo generat filium, videretur eam 
+          <lb ed="#P" n="25"/>acquirere in illo signo, &amp; per actum geneta 
+          <lb ed="#P" n="26"/>tionis acquireret suam beatitudinem a filio,  
+          <lb ed="#P" n="27"/>quemadmodum filius a patre, quod est
+          fal<lb ed="#P" n="28" break="no"/>sum, &amp; contra <ref xml:id="gsX5tY-d1e350-Rd1e365">P. Aug. 15. de Trin. cap. 10.</ref> 
+          di<lb ed="#P" n="29" break="no"/>centem quod esse, &amp; nosce ibi vnum sunt, &amp; 
+          <lb ed="#P" n="30"/>ideo sicut esse non est a filio, ita nec nosce. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e374">
+          <lb ed="#P" n="31"/>Illud suppositum, quod potest elicere, 
+          <lb ed="#P" n="32"/>&amp; elicit naturaliter duos actus, quorum vnus 
+          <lb ed="#P" n="33"/>est absolutus, , &amp; alter respectiuus, prius
+          eli<lb ed="#P" n="34" break="no"/>cit actum absolutum, quam respectiuum, sed 
+          <lb ed="#P" n="35"/>suppositum patris naturaliter elicit istos duos 
+          <lb ed="#P" n="36"/>ictus, scilicet intelligere, &amp; generare, quorum 
+          <lb ed="#P" n="37"/>intelligere est absolutus, &amp; generare respe 
+          <lb ed="#P" n="38"/>ctiuus, ergo prius elicit actum intelligendi, 
+          <lb ed="#P" n="39"/>quam generandi; Minor supponitur tanquam 
+          <lb ed="#P" n="40"/>nota, &amp; ab omnibus concessa; Maior
+          proba<lb ed="#P" n="41" break="no"/>tur, quia cum absolutum praecedat
+          respecti<lb ed="#P" n="42" break="no"/>uum, secundum totum suum genus, videtur 
+          <lb ed="#P" n="43"/>necessario quod operatio absoluta in eodem 
+          <lb ed="#P" n="44"/>supposito, praecedat operationem respectiuam 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e407">
+          <lb ed="#P" n="45"/>Quando alicui supposito competunt 
+          <lb ed="#P" n="46"/>duo actus, vnus immanens, &amp; alter
+          tran<lb ed="#P" n="47" break="no"/>siens in terminum realiter distinctum; prius 
+          <lb ed="#P" n="48"/>competit sibi actus immanens, quam
+          transi<lb ed="#P" n="49" break="no"/>ens; sed supposito patris conuenit
+          intellige<lb ed="#P" n="50" break="no"/>re, qui est actus immanes, cum non sit produm 
+          <lb ed="#P" n="51"/>ctiuus alicuius termini realiter distincti, &amp;  
+          <lb ed="#P" n="52"/>generare, qui est transiens, quia est producti 
+          <lb ed="#P" n="53"/>uus terminirealiter distincti. sfilij, ergo prius 
+          <lb ed="#P" n="54"/>competit patri intelligere, quam generare; 
+          <lb ed="#P" n="55"/>Minor supponitur tanquam concessa ab om 
+          <lb ed="#P" n="56"/>nibus; Maior probatur, quia actus immanes 
+          <lb ed="#P" n="57"/>videtur sibi esse magis intrinsecus, cum por 
+          <!--257.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 232 b -->
+          <lb ed="#P" n="58"/>psum non habeat habitudinem necessario ad 
+          <lb ed="#P" n="59"/>realiter distinctum, quod confirmatur
+          exem<lb ed="#P" n="60" break="no"/>plo de igne, in quo videmus actum immanem 
+          <lb ed="#P" n="61"/>tem, qui est calere sibi prius conuenire, quam  
+          <lb ed="#P" n="62"/>calefacere, quod est actus transiens 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e455">
+          <lb ed="#P" n="63"/>3 Si pater non haberet actum, intelligen 
+          <lb ed="#P" n="64"/>di ante actum generandi, vel hoc esset ex par 
+          <lb ed="#P" n="65"/>te patris, vel ex parte essentiae, quae est
+          obie<lb ed="#P" n="66" break="no"/>ctum, &amp; terminus istius actus: non ex parte 
+          <lb ed="#P" n="67"/>patris, quia pater nullam perfectionem sibi 
+          <lb ed="#P" n="68"/>intrinsecam acquirit, vel expectat per actum  
+          <lb ed="#P" n="69"/>generadi; nam cum nullus acquirat aliquid 
+          <lb ed="#P" n="70"/>a se ipso, oporteret dicere quod acquireret a 
+          <lb ed="#P" n="71"/>filio, cuius contrarium superius patuit per 
+          <lb ed="#P" n="72"/>P. Augustinum. Nec potest dici quod sit ex 
+          <lb ed="#P" n="73"/>parte essentiae, quae est obiectum, &amp; terminus 
+          <lb ed="#P" n="74"/>istius actus, quia cum personae nullam perfe 
+          <lb ed="#P" n="75"/>ctionem addant supra essentiam, in illo
+          pri<lb ed="#P" n="76" break="no"/>mo signo originis, quo, ipsa existit in patre est 
+          <lb ed="#P" n="77"/>perfecte intelligibilis, &amp; perfecte se potest 
+          <lb ed="#P" n="78"/>obijcere intellectui paterno, ergo in eodem  
+          <lb ed="#P" n="79"/>signo pater potest de ea habere perfectum
+          a<lb ed="#P" n="80" break="no"/>ctum intelligendi, lsta est opinio cum suis
+          mo<lb ed="#P" n="81" break="no"/>tiuis potioribus in qua concordant piures 
+          <lb ed="#P" n="82"/>&amp;, quamuis videatur satis probabilis; mihi ta 
+          <lb ed="#P" n="83"/>men non satisfacit.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e503">
+          <lb ed="#P" n="84"/>Et ideo arguo contra eam quadrupliciter, 
+          <lb ed="#P" n="85"/>Primo, si pater in aliquo signo prio in intcili 
+          <lb ed="#P" n="86"/>geret antequam generaret, sequeretur quod 
+          <lb ed="#P" n="87"/>esset suppositum constitutum ante actu
+          ge<lb ed="#P" n="88" break="no"/>nerandi; consequens est falsum, ergo &amp;c Con 
+          <lb ed="#P" n="89"/>sequentia patet, quia si in illo priori signo in 
+          <lb ed="#P" n="90"/>quo intelligit, non esset suppositum constitu 
+          <lb ed="#P" n="91"/>tum, tunc intelligeret antequam esset quod 
+          <lb ed="#P" n="92"/>est absurdum; ergo si in illo signo priori intel 
+          <lb ed="#P" n="93"/>ligit, vnlt, &amp; habet omnia essentialia. necesse 
+          <lb ed="#P" n="94"/>est dicere eum esse suppositum perfecte con 
+          <lb ed="#P" n="95"/>stirutum, antequam superueniat actus,
+          gene<lb ed="#P" n="96" break="no"/>randi; Falsitatem probo, quia quicquid in di 
+          <lb ed="#P" n="97"/>uinis praeintelligitur generationi actiuae, quae 
+          <lb ed="#P" n="98"/>est, primus actus notionalis, oporret quod sit 
+          <lb ed="#P" n="99"/>absolutum; nam vel hoc est absolutum vel 
+          <lb ed="#P" n="100"/>relatiuum, non relatiuum, quia relatio consti 
+          <lb ed="#P" n="101"/>tuens ipsum generante, est respectus sequens 
+          <lb ed="#P" n="102"/>ad ipsum actu generandi ergo erit quid abso 
+          <lb ed="#P" n="103"/>lutum; in diuinis lmmo quicquid praeintelli 
+          <lb ed="#P" n="104"/>gitur isti actui, necessario est absolutum, er- 
+          <lb ed="#P" n="105"/>go pater erit suppositum absolutum, quod est 
+          <lb ed="#P" n="106"/>absurdum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e556">
+          <lb ed="#P" n="107"/>Nec valet si dicatur prioritate non
+          tolli<lb ed="#P" n="108" break="no"/>te simultate, sicut defensores huius
+          opinio<lb ed="#P" n="109" break="no"/>nis sentiunt; dicunt enim quod non
+          inten<lb ed="#P" n="110" break="no"/>dunt dicere suppositum patris in aliqui prio 
+          <lb ed="#P" n="111"/>ri signo habere actum intelligendi, in quo non 
+          <lb ed="#P" n="112"/>habet actum generandi, quia tunc
+          procede<lb ed="#P" n="113" break="no"/>ret de potentia ad actum, &amp; fieret de non ge 
+          <lb ed="#P" n="114"/>nerante generas, sed inteduntdicere actu esse 
+          <!--258.xml-->
+          <pb ed="#P" n="233"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tialem aliquo modo praecedere notionalem; 
+          <lb ed="#P" n="2"/>quamuis sit simul cum illo alio modo, sicut 
+          <lb ed="#P" n="3"/>etiam videmus, quod subiectum praecedit. pro 
+          <lb ed="#P" n="4"/>priam passionem ordine naturae, licet sit simul 
+          <lb ed="#P" n="5"/>cum ea ordine temporis; ita in proposito
+          a<lb ed="#P" n="6" break="no"/>ctus essentiales quamuis simul sint cum notio 
+          <lb ed="#P" n="7"/>nalibus in quolibet signo dato, quia non pot 
+          <lb ed="#P" n="8"/>dari aliquod signum, in quo non sint simul; 
+          <lb ed="#P" n="9"/>essentiales tamen praecedunt ordine nature, 
+          <lb ed="#P" n="10"/>vel saltem ordine originis, inquantum sunt 
+          <lb ed="#P" n="11"/>principium notionalium, nam quamuis
+          esse<lb ed="#P" n="12" break="no"/>tia non generet, est tamen ratio generandi 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e608">
+          <lb ed="#P" n="13"/>Haec inquam responsio non valet, immo 
+          <lb ed="#P" n="14"/>destruit opinionem, quam defendere
+          cona<lb ed="#P" n="15" break="no"/>tur; &amp; consequenter destruit se ipsam, quod 
+          <lb ed="#P" n="16"/>patet, nam peto ab istis, vtrum prius, &amp; poste 
+          <lb ed="#P" n="17"/>rius secundum originem habeant idem
+          si<lb ed="#P" n="18" break="no"/>gnum, vel aliud, &amp; aliud; si dicant quod idem, 
+          <lb ed="#P" n="19"/>destruunt opinionem praefatam asserentem 
+          <lb ed="#P" n="20"/>patrem in primo signo originis, antequam gi 
+          <lb ed="#P" n="21"/>neret, esse perfecte beatum, &amp; habere omnes 
+          <lb ed="#P" n="22"/>perfectiones essentiales ante actum generan 
+          <lb ed="#P" n="23"/>di. Constat autem quod ante, &amp; post non 
+          <lb ed="#P" n="24"/>possunt accipi in eodem signo omnino; im 
+          <lb ed="#P" n="25"/>mo est contradictio dicere in eodem signo 
+          <lb ed="#P" n="26"/>indiuisibili secundum idem genus mensura 
+          <lb ed="#P" n="27"/>iueniri ante, &amp; post, prius, &amp; posterius; &amp; ta 
+          <lb ed="#P" n="28"/>men ipsi coguntur dicere, quod aliqua sint 
+          <lb ed="#P" n="29"/>in eodem signo originis, &amp; tamen vnum sit 
+          <lb ed="#P" n="30"/>rius altero secundum originem, &amp;
+          secun<lb ed="#P" n="31" break="no"/>dum idem signum habeant simultatem, &amp; 
+          <lb ed="#P" n="32"/>non habeant simultatem,; ergo necessario
+          de<lb ed="#P" n="33" break="no"/>bent ponere diuersa signa, velint nolint,
+          ali<lb ed="#P" n="34" break="no"/>ter destruent praefatam opinionem ponenten 
+          <lb ed="#P" n="35"/>talium signorum diuersitatem: si autem
+          po<lb ed="#P" n="36" break="no"/>nant diuersa signa originis, sicut necesse
+          ha<lb ed="#P" n="37" break="no"/>bet ponere, tunc remanet prima ratio in
+          vi<lb ed="#P" n="38" break="no"/>gore suo, &amp; habemus propositum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e667">
+          <lb ed="#P" n="39"/>Secundo contra eandem conclusionem. 
+          <lb ed="#P" n="40"/>Si in patre actus essentialis praecederet actu 
+          <lb ed="#P" n="41"/>notionalem, sequeretur quod ibi esset exitus 
+          <lb ed="#P" n="42"/>de potentia ad actum, hoc autem est falsum; 
+          <lb ed="#P" n="43"/>quia in puro actu non potest esse aliquis exi 
+          <lb ed="#P" n="44"/>tus de potentia ad actum: Consequentiam  
+          <lb ed="#P" n="45"/>probo; nam vbicunque sunt plura, quorum 
+          <lb ed="#P" n="46"/>vnum praecedit, &amp; alterum succedit, ibi
+          ne<lb ed="#P" n="47" break="no"/>cessario est aliquis exitus de non esse ad esse 
+          <lb ed="#P" n="48"/>seu de potentia ad actum, quia in illo priori 
+          <lb ed="#P" n="49"/>signo, quando est precedens, non est adhuc 
+          <lb ed="#P" n="50"/>suceedens, sed expectat esse in sequenti, &amp;  
+          <lb ed="#P" n="51"/>per consequens vadit de non esse ad esse; 
+          <lb ed="#P" n="52"/>sta habent isti dicere in proposito, puta quia 
+          <lb ed="#P" n="53"/>in illo signo, in quo pater habet actum essen 
+          <lb ed="#P" n="54"/>tialem, non habet adhuc notionalem, sed ex. 
+          <lb ed="#P" n="55"/>pectat ipsum habere in subsequenti signo 
+          <lb ed="#P" n="56"/>quod est omnino absurdum 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e709">
+          <lb ed="#P" n="57"/>Confirmatur per Dama. lib. 1. ca. 8. vbi ait 
+          <!--258.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 233 b -->
+          <lb ed="#P" n="58"/>quod pater non fuit prius non generans, &amp;  
+          <lb ed="#P" n="59"/>postea factus est generans quia eadem ratio 
+          <lb ed="#P" n="60"/>est vtrobique: Nec valet si dicatur quod ipse 
+          <lb ed="#P" n="61"/>ibi intendat loqui de priori, &amp; posteriori secun 
+          <lb ed="#P" n="62"/>dum tempus, quia idem inconueniens sequi 
+          <lb ed="#P" n="63"/>tur, si pater fieret de non generante generam 
+          <lb ed="#P" n="64"/>secundum aliud, &amp; aliud instans temporis 
+          <lb ed="#P" n="65"/>quod etiam sequeretur si secundum aliud &amp;  
+          <lb ed="#P" n="66"/>aliud signum originis; nam vtrobique
+          vide<lb ed="#P" n="67" break="no"/>tur fieri processus de non esse ad esse 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e742">
+          <lb ed="#P" n="68"/>Tertio ad idem; inter actum essentialem, 
+          <lb ed="#P" n="69"/>&amp; notionalem nulla est origo; ergo non est 
+          <lb ed="#P" n="70"/>ibi prioritas originis, Consequentia est de se 
+          <lb ed="#P" n="71"/>nota. Antecedens probo, quia vbi origo, ibi 
+          <lb ed="#P" n="72"/>est realis distinctio, &amp; realis relatio, vt patuit 
+          <lb ed="#P" n="73"/>supra in 4. distinctione, hoc autem non est in 
+          <lb ed="#P" n="74"/>proposito, vt est de se notum, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e760">
+          <lb ed="#P" n="75"/>Nec valet si dicatur quod quamuis essen 
+          <lb ed="#P" n="76"/>tia non originet, tamen est principium orio 
+          <lb ed="#P" n="77"/>nandi; quia dato ita esse (quod etiam
+          mul<lb ed="#P" n="78" break="no"/>ti negant) hoc tamen est omnino verum, quod 
+          <lb ed="#P" n="79"/>essentia non est principium actus generandi 
+          <lb ed="#P" n="80"/>secundum se ipsam, vel per se ipsam, propter 
+          <lb ed="#P" n="81"/>uod nihil valet eis ad propositum, quia
+          essen<lb ed="#P" n="82" break="no"/>tialia non praecedunt notionalia, &amp; maxime 
+          <lb ed="#P" n="83"/>in eadem persona, nisi vt essentialia sunt,
+          se<lb ed="#P" n="84" break="no"/>cundum quem modum essentia non est prin 
+          <lb ed="#P" n="85"/>cipium generandi, vt dictum est, &amp; etiam pa 
+          <lb ed="#P" n="86"/>tebit in sequenti distinctione. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e790">
+          <lb ed="#P" n="87"/>Quarto sic. Quado aliqua duo concurrunt 
+          <lb ed="#P" n="88"/>ad constitutionem vnius personae, &amp; vnum 
+          <lb ed="#P" n="89"/>non est in potentia ad alterum, tunc vnum 
+          <lb ed="#P" n="90"/>eorum non est prius altero secundum
+          origi<lb ed="#P" n="91" break="no"/>nem, sed ita se habet in proposito, ergo &amp;c. 
+          <lb ed="#P" n="92"/>Maior videtur nota, quia duobus existentibus 
+          <lb ed="#P" n="93"/>in vna persona, vel supposito, illud, quod est 
+          <lb ed="#P" n="94"/>prius altero secundum originem, est in
+          poten<lb ed="#P" n="95" break="no"/>tia ad alterum, sicut patet de materia, &amp; for 
+          <lb ed="#P" n="96"/>ma in composito, nam quia materia precedit 
+          <lb ed="#P" n="97"/>formam secudum originem, idcirco est in
+          po<lb ed="#P" n="98" break="no"/>tentia ad eam: Minorem probo, quia ad
+          con<lb ed="#P" n="99" break="no"/>stitutionem cuiuscunque personae diuinae con- 
+          <lb ed="#P" n="100"/>currunt essentialia, &amp; notionalia; si ergo essuen 
+          <lb ed="#P" n="101"/>tialia sunt praeuia notionalibus secundum
+          ori<lb ed="#P" n="102" break="no"/>ginem; ergo erunt in potentia ad ea 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e827">
+          <lb ed="#P" n="103"/>Et confirmatur, quia quandocunque plu 
+          <lb ed="#P" n="104"/>ta concurrunt ad constitutionem vnius
+          sup<lb ed="#P" n="105" break="no"/>posit, illud non potest praeintelligi cum vno 
+          <lb ed="#P" n="106"/>illorum sine altero, sicut patet de materia, &amp;  
+          <lb ed="#P" n="107"/>forma respectu composit, nam quamuis
+          ma<lb ed="#P" n="108" break="no"/>teria secundum se praecedat formam via
+          ori<lb ed="#P" n="109" break="no"/>ginis, in comparatione tamen ad compositum 
+          <lb ed="#P" n="110"/>non est aliquis talis ordo inter ea, secundum 
+          <lb ed="#P" n="111"/>quem compositum possit praeintelligi cum 
+          <lb ed="#P" n="112"/>vno illorum sine altero, multo ergo magis sic 
+          <lb ed="#P" n="113"/>erit in proposito, vbi essentialia distinguuntur 
+          <lb ed="#P" n="114"/>a notionalibus secundum rationem, propter 
+          <!--259.xml-->
+          <pb ed="#P" n="234"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quae omnia, &amp; plura alia quae adduci possent 
+          <lb ed="#P" n="2"/>non videtur praefata op. tenenda; rationes 
+          <lb ed="#P" n="3"/>autem ipsius soluam in fine¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e869">
+          <lb ed="#P" n="4"/>Et ideo est alia opinio quae videtur
+          pone<lb ed="#P" n="5" break="no"/>re totum contrarium, ponit enim actum
+          in<lb ed="#P" n="6" break="no"/>telligendi, &amp; volendi non elici ab vna perso 
+          <lb ed="#P" n="7"/>na prius quam ab alia, sed elici simul ab
+          om<lb ed="#P" n="8" break="no"/>nibus tribus personis iam constitutis per
+          a<lb ed="#P" n="9" break="no"/>ctus notionales, &amp; per consequens habent 
+          <lb ed="#P" n="10"/>dicere, quod actus notionales, per quos
+          con<lb ed="#P" n="11" break="no"/>stituuntur personae tanquam per propria,
+          pr<lb ed="#P" n="12" break="no"/>cedunt actus essentiales, quos personae adin 
+          <lb ed="#P" n="13"/>uicem habent communes, ita quod secundum 
+          <lb ed="#P" n="14"/>viam istorum in prima persona actus
+          gene<lb ed="#P" n="15" break="no"/>randi quodam ordine originis praecedit actu 
+          <lb ed="#P" n="16"/>intelligendi, &amp; volendi, at secundum istum 
+          <lb ed="#P" n="17"/>modum magis verificantur ista, patet
+          intel<lb ed="#P" n="18" break="no"/>ligit, quia generat, quam e conuerso, patet 
+          <lb ed="#P" n="19"/>generat, quia intelligit, &amp; quia ista opinio 
+          <lb ed="#P" n="20"/>innitur fundamentis satis apparentibus, ideo 
+          <lb ed="#P" n="21"/>adduco pro ea 5. rationes, quae videntur 
+          <lb ed="#P" n="22"/>posse facere fidem de eius veritate 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e913">
+          <lb ed="#P" n="23"/>1 Illi actus, per quos persone
+          constituum<lb ed="#P" n="24" break="no"/>tur in suo esse personali, praecedunt illos sal 
+          <lb ed="#P" n="25"/>tem secundum originem, qui sequuntur ad 
+          <lb ed="#P" n="26"/>esse constitutum, nunc autem ita est in
+          pro<lb ed="#P" n="27" break="no"/>posito; nam per actus notionales videntur 
+          <lb ed="#P" n="28"/>personae constitui, actus autem essentiales ma 
+          <lb ed="#P" n="29"/>gis videntur sequi ad esse constitutum, ergo 
+          <lb ed="#P" n="30"/>&amp;c. Maior est manifesta; Minorem probo 
+          <lb ed="#P" n="31"/>quantum ad eius partes; nam quod per act) 
+          <lb ed="#P" n="32"/>notionales constituantur personae patet, quia 
+          <lb ed="#P" n="33"/>actus notionales, vel sunt relationes, vel pra 
+          <lb ed="#P" n="34"/>cedunt necessario ipsas relationes, &amp; ideo si 
+          <lb ed="#P" n="35"/>personae constituuntur per relationes (vt con 
+          <lb ed="#P" n="36"/>muniter dicitur) constituuntur per actus no 
+          <lb ed="#P" n="37"/>tionales; vel ex eo quod sunt idem cum
+          rel<lb ed="#P" n="38" break="no"/>tionibus, vel ex eo quod relationes non sunt 
+          <lb ed="#P" n="39"/>in personis nisi mediantibus istis actibus: 
+          <lb ed="#P" n="40"/>probo aliam partem scilicet quod actus
+          es<lb ed="#P" n="41" break="no"/>sentiales sequantur esse constitutum, quia 
+          <lb ed="#P" n="42"/>vel tu dices quod praecedunt eas constituen 
+          <lb ed="#P" n="43"/>do, vel quod sequantur esse constitutum, 
+          <lb ed="#P" n="44"/>primum non potest dici, quia tunc non
+          es<lb ed="#P" n="45" break="no"/>sent actus eliciti ab aliqua persona, quod non 
+          <lb ed="#P" n="46"/>videtur intelligibile; nec secundum quia sunt 
+          <lb ed="#P" n="47"/>communes omnibus personis, &amp; per
+          conse<lb ed="#P" n="48" break="no"/>uens non constitutiui, ergo sequutur esse 
+          <lb ed="#P" n="49"/>constitutum, 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e974">
+          <lb ed="#P" n="50"/>2 Quando duo actus competunt eidem  
+          <lb ed="#P" n="51"/>personae diuinae, vnus proprius, &amp; alter com 
+          <lb ed="#P" n="52"/>munis, prius origine competit sibi actus pro 
+          <lb ed="#P" n="53"/>prius, quam actus communis, sed actus
+          no<lb ed="#P" n="54" break="no"/>tionales, &amp; essentiales competunt eidem per 
+          <lb ed="#P" n="55"/>sonae diuinae, puta patri competit generare, 
+          <lb ed="#P" n="56"/>&amp; intelligere, &amp; generare est proprium;
+          in<lb ed="#P" n="57" break="no"/>telligere autem est commune, ergo prius si¬ 
+          <!--259.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 234 b -->
+          <lb ed="#P" n="58"/>bi competit generare, quam intelligere,
+          Mi<lb ed="#P" n="59" break="no"/>nor est nota, Maior probatur per illud quod 
+          <lb ed="#P" n="60"/>videmus in eadem persona patris. Nam quia 
+          <lb ed="#P" n="61"/>generare est sibi proprium, spirare autem est 
+          <lb ed="#P" n="62"/>commune sibi, &amp; filio, idcirco prius origine 
+          <lb ed="#P" n="63"/>generat, quam spiret, ergo eodem modo in 
+          <lb ed="#P" n="64"/>proposito quia generare est sibi proprium, 
+          <lb ed="#P" n="65"/>intelligere autem commune, prius origine 
+          <lb ed="#P" n="66"/>generabit, quam intelligat. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1020">
+          <lb ed="#P" n="67"/>3 Vel tu dices quod pater prius generet,  
+          <lb ed="#P" n="68"/>quam intelligat, &amp; vellit, vel e conuerso; si 
+          <lb ed="#P" n="69"/>dicatur primum, habetur propositum; si
+          di<lb ed="#P" n="70" break="no"/>catur secundum, tunc in illo priori, in quo 
+          <lb ed="#P" n="71"/>pater intelligit, &amp; vult, habet vim spiratiuam, 
+          <lb ed="#P" n="72"/>poterit ergo spirare Spiritum Sanctum
+          ante<lb ed="#P" n="73" break="no"/>quam generet filium, quod est absurdum 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1039">
+          <lb ed="#P" n="74"/>4 Si pater prius intelligeret quam
+          gene<lb ed="#P" n="75" break="no"/>raret, sequeretur quod ipse solus eliceret 
+          <lb ed="#P" n="76"/>actum intelligendi, aliae vero personae
+          ma<lb ed="#P" n="77" break="no"/>gis se haberent vt suscipientes, quam vt
+          eli<lb ed="#P" n="78" break="no"/>cientes, consequens est falsum; ergo &amp;c. Fal 
+          <lb ed="#P" n="79"/>sitas patet, quia tunc pater haberet perfectio 
+          <lb ed="#P" n="80"/>ri modo istum actum, quam aliae personae. 
+          <lb ed="#P" n="81"/>probo consequentiam, quia posito quod pa 
+          <lb ed="#P" n="82"/>ter prius habeat actum intelligendi, quam 
+          <lb ed="#P" n="83"/>actum generandi oportet dicere, quod com 
+          <lb ed="#P" n="84"/>municet filio ipsum intelligere per actum
+          ge<lb ed="#P" n="85" break="no"/>nerationis; &amp; per consequens habebit se fi- 
+          <lb ed="#P" n="86"/>lius solum in ratione suscipientis actum 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1070">
+          <lb ed="#P" n="87"/>3 Si pater prius intelligeret, quam
+          gene<lb ed="#P" n="88" break="no"/>raret, sequeretur quod verbum prius
+          intel<lb ed="#P" n="89" break="no"/>ligeretur, quam produceretur, consequens 
+          <lb ed="#P" n="90"/>est falsum; ergo &amp;c. Falsitas consequentis 
+          <lb ed="#P" n="91"/>patet, quia illud quod prius intelligitur, quam 
+          <lb ed="#P" n="92"/>producatur, producitur per ideam, &amp; vadit 
+          <lb ed="#P" n="93"/>de non esse ad esse, ad modum creaturae, quod 
+          <lb ed="#P" n="94"/>absurdum est dicere, de diuino verbo,
+          Con<lb ed="#P" n="95" break="no"/>sequentia probatur, quia in illo priori in quo 
+          <lb ed="#P" n="96"/>pater ponitur intelligere, intelligit omnia 
+          <lb ed="#P" n="97"/>intelligibilia, alias eius actus non esset
+          per<lb ed="#P" n="98" break="no"/>fectus, &amp; infinitus; intelliget ergo in illo prio 
+          <lb ed="#P" n="99"/>ri etiam ipsum filium; cum ergo in illo priori 
+          <lb ed="#P" n="100"/>supponatur solum intelligere, &amp; non produm 
+          <lb ed="#P" n="101"/>cere, intelliget filium antequam eum
+          pro<lb ed="#P" n="102" break="no"/>ducat, haec est illorum sententia; cum suis 
+          <lb ed="#P" n="103"/>potioribus motiuis. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1109">
+          <lb ed="#P" n="104"/>lsta tamen opinio mihi non satisfacit, ideo 
+          <lb ed="#P" n="105"/>arguo illam propter aliqua inconuenientis 
+          <lb ed="#P" n="106"/>quae sequuntur eam, quorum primum est, 
+          <lb ed="#P" n="107"/>quiam tunc prima persona per actum
+          gene<lb ed="#P" n="108" break="no"/>randi acquireret intelligere, aliasque essentia 
+          <lb ed="#P" n="109"/>les perfectiones, cuius contrarium superius 
+          <lb ed="#P" n="110"/>est ostensum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1127">
+          <lb ed="#P" n="111"/>Secundo sequeretur quod filius non
+          ge<lb ed="#P" n="112" break="no"/>nerentur de substantia patris, quia secundum 
+          <lb ed="#P" n="113"/>istum modum, intelligere &amp; scire sequuntur 
+          <lb ed="#P" n="114"/>actum generandi; dicere autem quod filius 
+          <!--260.xml-->
+          <pb ed="#P" n="235"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>non generetur de substantia patris est
+          con<lb ed="#P" n="2" break="no"/>tra Augustinum pluribus in locis, praesertim 
+          <lb ed="#P" n="3"/>
+          <ref xml:id="gsX5tY-d1e350-Rd1e1150">vij.</ref> &amp; <ref xml:id="gsX5tY-d1e350-Rd1e1154" corresp="#gsX5tY-d1e350-Qd1e1159">xv. de Trinitate cap. xx.</ref> vbi dicit, quod 
+          <lb ed="#P" n="4"/><quote xml:id="gsX5tY-d1e350-Qd1e1159" source="http://scta.info/resource/adt-l15-d1e1848@122-130">quicquid est in ea scientia de qua est
+            geni<lb ed="#P" n="5" break="no"/>tus</quote> filius, est etiam in ipso genito 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1165">
+          <lb ed="#P" n="6"/>Tertio sequeretur, quod pater prius esset 
+          <lb ed="#P" n="7"/>pater, quam Deus: nam in illo priore
+          quan<lb ed="#P" n="8" break="no"/>do generat est pater, &amp; quia per istum actum 
+          <lb ed="#P" n="9"/>priorem non habet quod sit Deus, oportet 
+          <lb ed="#P" n="10"/>quod habeat hoc quasi per actum posterioret 
+          <lb ed="#P" n="11"/>scilicet per actum essentialem; erit ergo prius 
+          <lb ed="#P" n="12"/>pater Deus, quod est absurdum, tunc enim 
+          <lb ed="#P" n="13"/>heret de non Deo Deus, sicut arguebatur su 
+          <lb ed="#P" n="14"/>perius contra aliam opinionem, quod fieret 
+          <lb ed="#P" n="15"/>de non patre pater. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1189">
+          <lb ed="#P" n="16"/>Quarto sequeretur, quod respectiua essent 
+          <lb ed="#P" n="17"/>priora absolutis in eodem; quia notionalia 
+          <lb ed="#P" n="18"/>sunt respectiua, &amp; essentialia sunt absoluta; 
+          <lb ed="#P" n="19"/>hoc autem videtur omnino irrationabile,
+          er<lb ed="#P" n="20" break="no"/>go &amp;c. Multa alia possem inducere
+          inconue<lb ed="#P" n="21" break="no"/>nientia, quae breuitatis causa omitto. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1206">
+          <lb ed="#P" n="22"/>Saluo ergo meliori iudicio videtur mihi 
+          <lb ed="#P" n="23"/>aliter esse dicendum Quapropter, dum
+          quae<lb ed="#P" n="24" break="no"/>ritur vtrum generare sit ita naturale patri, 
+          <lb ed="#P" n="25"/>quod prius sibi competat, quam intelligere, 
+          <lb ed="#P" n="26"/>&amp; prius quocunque alio actu; dico quod
+          quam<lb ed="#P" n="27" break="no"/>ritur de ordine inter actus essentiales, &amp; non 
+          <lb ed="#P" n="28"/>tionales, qui nam eorum sint magis
+          natura<lb ed="#P" n="29" break="no"/>les; idcirco vt melius explicem difficultatem 
+          <lb ed="#P" n="30"/>huius articuli, est notandum quod actus
+          es<lb ed="#P" n="31" break="no"/>sentiales, &amp; notionales possunt comparari ad 
+          <lb ed="#P" n="32"/>inuicem duobus modis, vno modo absolute. 
+          <lb ed="#P" n="33"/>secundum eorum genus, puta quatenus
+          es<lb ed="#P" n="34" break="no"/>sentiales sunt absoluti, &amp; notionales sunt re 
+          <lb ed="#P" n="35"/>spectiui. Alio modo possunt ad inuicem com 
+          <lb ed="#P" n="36"/>parari respectu tertij, puta in quantum
+          pos<lb ed="#P" n="37" break="no"/>sunt conuenire vni, &amp; eidem diuinae persone 
+          <lb ed="#P" n="38"/>quaecunque sit illa, si ergo fiat comparatio isto 
+          <lb ed="#P" n="39"/>rum actuum adseinuicem primo modo, &amp;  
+          <lb ed="#P" n="40"/>quaeratur, qui sint priores, sic dico, quod
+          a<lb ed="#P" n="41" break="no"/>ctus essentiales sunt aliquo modo priores, &amp;  
+          <lb ed="#P" n="42"/>magis naturales, quam actus notionales;
+          di<lb ed="#P" n="43" break="no"/>co autem aliquo modo, quia vbi non est
+          rea<lb ed="#P" n="44" break="no"/>lis distinctio, non potest esse simpliciter
+          con<lb ed="#P" n="45" break="no"/>paratio secundum prius, &amp; posterius, vel ma 
+          <lb ed="#P" n="46"/>gis, &amp; minus naturale: inquantum tamen sunt 
+          <lb ed="#P" n="47"/>distincti secundum rationem, potest esse ibi 
+          <lb ed="#P" n="48"/>aliqua comparatio, &amp; isto modo videtur
+          mi<lb ed="#P" n="49" break="no"/>hi, quod actus essentiales sint priores
+          notio<lb ed="#P" n="50" break="no"/>nalibus, quod patet ex tribus 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1271">
+          <lb ed="#P" n="51"/>1 Nam actus notionales vnius personae 
+          <lb ed="#P" n="52"/>non inueniuntur in ea sine essentialibus
+          al<lb ed="#P" n="53" break="no"/>terius personae, quia essentialia sunt
+          com<lb ed="#P" n="54" break="no"/>munia omnibus, actus autem essentiales in 
+          <lb ed="#P" n="55"/>vna persona inueniuntur sine notionalibus 
+          <lb ed="#P" n="56"/>alterius personae, ergo essentiales sunt
+          prio<lb ed="#P" n="57" break="no"/>tes, quia prius est a quo non conuertitur 
+          <!--260.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 235 b -->
+          <lb ed="#P" n="58"/>consequentia. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1297">
+          <lb ed="#P" n="59"/>2 Actus essentiales sunt absoluti,
+          notio<lb ed="#P" n="60" break="no"/>nales autem sunt respectiui: absolutum aute 
+          <lb ed="#P" n="61"/>est prius respectiuo, cum possit intelligi sine 
+          <lb ed="#P" n="62"/>eo, &amp; non e conuerso, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1308">
+          <lb ed="#P" n="63"/>3 Apparet hoc idem ex eo quod ita se
+          vi<lb ed="#P" n="64" break="no"/>dentur habere actus essentiales, &amp;
+          notiona<lb ed="#P" n="65" break="no"/>les, quemadmodum essentia, &amp; notiones; nam 
+          <lb ed="#P" n="66"/>vtrobique est vniformis comparatio, Constat 
+          <lb ed="#P" n="67"/>autem quod essentia praecedit omnes
+          notio<lb ed="#P" n="68" break="no"/>nes, cum sit fundamentum omnium earum, 
+          <lb ed="#P" n="69"/>ergo &amp; actus essentiales debent praecedere 
+          <lb ed="#P" n="70"/>notionales; tanquam eorum fundamenta, &amp; 
+          <lb ed="#P" n="71"/>sic actus essentiales sunt priores isto modo 
+          <lb ed="#P" n="72"/>notionalibus.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1332">
+          <lb ed="#P" n="73"/>Si quis tamen quaerat, qualis prioritas sit 
+          <lb ed="#P" n="74"/>ista, dico quod est ex natura rei
+          fundamen<lb ed="#P" n="75" break="no"/>taliter, complectiue tamen per actum ratio. 
+          <lb ed="#P" n="76"/>nis; nam cum prius, &amp; posterius supponant 
+          <lb ed="#P" n="77"/>distinctionem, ita iudicandum est de
+          priori<lb ed="#P" n="78" break="no"/>tate vnius actus ad alterum, quemadmodum 
+          <lb ed="#P" n="79"/>de distinctione, cum ergo distinctio inter istos 
+          <lb ed="#P" n="80"/>actus sit ex natura rei fundamentaliter, &amp;  
+          <lb ed="#P" n="81"/>complectiue per actum rationis, vt suppono 
+          <lb ed="#P" n="82"/>ad pns, quia alias patebit. Relinquitur quod 
+          <lb ed="#P" n="83"/>prioritas vnius ad alium sit ex natura rei,
+          tam<lb ed="#P" n="84" break="no"/>quam ex fundamento, ex ratione vero
+          tan<lb ed="#P" n="85" break="no"/>quam ex complemento. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1363">
+          <lb ed="#P" n="86"/>Vlterius dico quod actus essentiales non  
+          <lb ed="#P" n="87"/>solum sunt priores notionalibus isto modo, 
+          <lb ed="#P" n="88"/>sed etiam sunt aliquo modo magis naturales,  
+          <lb ed="#P" n="89"/>&amp; hoc apparet immediate ex dictis, nam eo 
+          <lb ed="#P" n="90"/>ipso quod ex natura rei sunt priores, sunt et 
+          <lb ed="#P" n="91"/>magis naturales. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1380">
+          <lb ed="#P" n="92"/>Apparet etiam hoc idem secundo, ex eo, 
+          <lb ed="#P" n="93"/>quoe actus notionales sunt relatiui, essentiales 
+          <lb ed="#P" n="94"/>autem sunt absoluti, sic erunt illorum funda 
+          <lb ed="#P" n="95"/>menta, relatio autem semper trahit suam
+          rea<lb ed="#P" n="96" break="no"/>litatem &amp; etiam suam naturam ab ipso
+          fun<lb ed="#P" n="97" break="no"/>damento, saltem secundum communiorem
+          do<lb ed="#P" n="98" break="no"/>ctrinam, sicut ergo notiones habent, quod 
+          <lb ed="#P" n="99"/>sint naturales ex ipsa diuina natura supra quam 
+          <lb ed="#P" n="100"/>fundantur; ita actus notionales habebunt,  
+          <lb ed="#P" n="101"/>uod sint naturales ex essentialibus, in
+          qui<lb ed="#P" n="102" break="no"/>bus radicantur, &amp; sic patet quid sit dicendum 
+          <lb ed="#P" n="103"/>de ordine istorum actuum, quatenus compa 
+          <lb ed="#P" n="104"/>rantur inter se absolute secundum suum genus. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1411">
+          <lb ed="#P" n="105"/>Sed si quaeratur de ordine eorum
+          compa<lb ed="#P" n="106" break="no"/>do eos adinuicem secundo modo, scilicet
+          re<lb ed="#P" n="107" break="no"/>spectu tertij, puta inquantum insunt vni, &amp;  
+          <lb ed="#P" n="108"/>eidem personae, sic dico quod actus
+          essentia<lb ed="#P" n="109" break="no"/>les, &amp; notionales non habent ad inuicem ali 
+          <lb ed="#P" n="110"/>quem ordinem, ratione cuius possit dici, quod 
+          <lb ed="#P" n="111"/>actus essentiales competant personae
+          media<lb ed="#P" n="112" break="no"/>te notionali nec e conuerso, sed simul ambo 
+          <lb ed="#P" n="113"/>competunt personae, quod probo
+          tripli<lb ed="#P" n="114" break="no"/>citer.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1435">
+          <!--261.xml-->
+          <pb ed="#P" n="236"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>1 Si isti actus non competerent simul 
+          <lb ed="#P" n="2"/>cuilibet personae, sequeretur necessario; 
+          <lb ed="#P" n="3"/>quod quaelibet persona prius eliceret
+          v<lb ed="#P" n="4" break="no"/>num istorum actuum, quam alterum,
+          con<lb ed="#P" n="5" break="no"/>sequens est falsum, ergo &amp;c. Consequentia 
+          <lb ed="#P" n="6"/>est nota. Probo falsitatem, nam si persona di 
+          <lb ed="#P" n="7"/>uina prius eliceret vnum istorum actuum 
+          <lb ed="#P" n="8"/>quam alterum, ille actus primo elicitus, vel 
+          <lb ed="#P" n="9"/>esset actus essentialis, vel notionalis; non
+          no<lb ed="#P" n="10" break="no"/>tionalis, quia contra hoc vadunt omnes ratio 
+          <lb ed="#P" n="11"/>nes primae opinionis, nec essentialis, quia con 
+          <lb ed="#P" n="12"/>tra hoc sunt rationes secundae opinionis, 
+          <lb ed="#P" n="13"/>ergo nobis restat via media, vt dicamus quod 
+          <lb ed="#P" n="14"/>praefati actus simul eliciantur a persona cui 
+          <lb ed="#P" n="15"/>competunt. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1477">
+          <lb ed="#P" n="16"/>2 Sicut se habet essentia, &amp; relatio ad com 
+          <lb ed="#P" n="17"/>stituendam personam, ita actus essentialis,  
+          <lb ed="#P" n="18"/>&amp; notionalis in hoc, quod est elici a persona 
+          <lb ed="#P" n="19"/>constituta, sed essentia, &amp; relatio
+          concur<lb ed="#P" n="20" break="no"/>runt simul ad constitutionem personae, ergo 
+          <lb ed="#P" n="21"/>actus essentialis, &amp; notionalis simul eliciun 
+          <lb ed="#P" n="22"/>tur a persona constituta; Maior videtur nota, 
+          <lb ed="#P" n="23"/>quia sicut actus essentiales sunt absoluti pro 
+          <lb ed="#P" n="24"/>pter essentiam, ita notionales sunt relatiui 
+          <lb ed="#P" n="25"/>propter relationem. Minorem probo, nam
+          quam<lb ed="#P" n="26" break="no"/>uis relatio, &amp; essentia non concurrant ex
+          ae<lb ed="#P" n="27" break="no"/>quo ad constitutionem personae, necessario 
+          <lb ed="#P" n="28"/>tamen concurrunt simul, alioquin posset pro 
+          <lb ed="#P" n="29"/>sona praeintelligi cum vno illorum sine alte 
+          <lb ed="#P" n="30"/>ro, quod patet esse falsum, eodem ergo
+          mo<lb ed="#P" n="31" break="no"/>do quamuis isti actus non ex aequo
+          conue<lb ed="#P" n="32" break="no"/>niant alicui personae, necessario tamen simul 
+          <lb ed="#P" n="33"/>eliciuntur ab ea sine quocunque ordine prio 
+          <lb ed="#P" n="34"/>ris, &amp; posterioris, quia persona non potest 
+          <lb ed="#P" n="35"/>praeintelligi esse cum vno ante alterum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1523">
+          <lb ed="#P" n="36"/>3 Sicut se habet filius ad nasci, &amp;
+          intelli<lb ed="#P" n="37" break="no"/>gere, ita se habet quaelibet alia persona
+          diui<lb ed="#P" n="38" break="no"/>na ad suum actum essentialem, &amp;
+          notiona<lb ed="#P" n="39" break="no"/>dem, sed filius in diuinis simul, &amp; sine omni 
+          <lb ed="#P" n="40"/>prioritate naturae, vel rationis nascitur, &amp; in 
+          <lb ed="#P" n="41"/>telligit, ergo &amp; pari ratione sine omni
+          prio<lb ed="#P" n="42" break="no"/>ritate pater generat, &amp; intelligit, habetque 
+          <lb ed="#P" n="43"/>omnia essentialia, &amp; Spiritus Sanctus
+          simili<lb ed="#P" n="44" break="no"/>ter; Maior est nota: quia eadem ratio est de 
+          <lb ed="#P" n="45"/>omnibus diuinis personis; Minorem probo 
+          <lb ed="#P" n="46"/>per P. Augustinum super illud loannis non  
+          <lb ed="#P" n="47"/>potest filius facere quicquam, nisi quod
+          vi<lb ed="#P" n="48" break="no"/>derit patrem faciente, exponit dicens quod 
+          <lb ed="#P" n="49"/>videre filij est ipsum natum esse de patre, non 
+          <lb ed="#P" n="50"/>enim alia est visio eius, &amp; alia substantia eius,  
+          <lb ed="#P" n="51"/>totum namque quod est, de patre est. Vult 
+          <lb ed="#P" n="52"/>ergo Aug. quod videre filij idem sit quod 
+          <lb ed="#P" n="53"/>ipsum nasci, ex quo sequitur immediate quod 
+          <lb ed="#P" n="54"/>videndo, &amp; intelligendo nascitur, &amp;
+          nascen<lb ed="#P" n="55" break="no"/>do intelligit, &amp; videt, ita quod inter praefatos 
+          <lb ed="#P" n="56"/>actus nullus est ordo prioris, &amp; posterioris. 
+          <lb ed="#P" n="57"/>&amp; eodem modo est dicedum de patre sicut 
+          <!--261.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 236 b -->
+          <lb ed="#P" n="58"/>tangit ibidem August. dicens, demonstrans 
+          <lb ed="#P" n="59"/>pater filio visionem gignit, vult ergo Augi 
+          <lb ed="#P" n="60"/>quod pater demonstret gignendo, &amp; gignet 
+          <lb ed="#P" n="61"/>demonstrando. Constat autem quod non de 
+          <lb ed="#P" n="62"/>monstrat nisi intelligendo, ergo simul, &amp;
+          si<lb ed="#P" n="63" break="no"/>ne ordine prioris, &amp; posterioris intelligit, &amp;  
+          <lb ed="#P" n="64"/>gignit, &amp; e conuerso. Debemus ergo qicere 
+          <lb ed="#P" n="65"/>quod simul, eliciat vtrumque actum, ita quod 
+          <lb ed="#P" n="66"/>in eliciendo vnus non habet aliquam
+          ratio<lb ed="#P" n="67" break="no"/>nem principij ratione alterius, quia tuc
+          pos<lb ed="#P" n="68" break="no"/>set intelligi persona cum illo primo ante
+          al<lb ed="#P" n="69" break="no"/>terum, cuius contrarium est probatum, si aut 
+          <lb ed="#P" n="70"/>inter eos non potest esse ordo prioris secun 
+          <lb ed="#P" n="71"/>dum rationem, multo minus quicunque
+          a<lb ed="#P" n="72" break="no"/>lius ordo. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1612">
+          <lb ed="#P" n="73"/>Sed contra diceret aliquis, quod isti actus 
+          <lb ed="#P" n="74"/>eundem ordinem tenent comparati ad
+          ter<lb ed="#P" n="75" break="no"/>tium, quem prius habebant inter se; at inter 
+          <lb ed="#P" n="76"/>se habet ordinem prioris, &amp; posterioris, vt 
+          <lb ed="#P" n="77"/>tumet concedis, ergo comparati ad personam, 
+          <lb ed="#P" n="78"/>a qua eliciuntur, retinebunt eundem ordinem. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1629">
+          <lb ed="#P" n="79"/>Respondetur quod proposito assumpta 
+          <lb ed="#P" n="80"/>non est necessario vera, nisi vbi illa, quae
+          com<lb ed="#P" n="81" break="no"/>parantur ad tertium, eodem modo respiciant 
+          <lb ed="#P" n="82"/>tertium, sicut prius vnum eorum
+          respicie<lb ed="#P" n="83" break="no"/>bat alterum, &amp; ideo non valeret si quis ita 
+          <lb ed="#P" n="84"/>argueret, creaturae habent inter se ordinem 
+          <lb ed="#P" n="85"/>prioris, &amp; posterioris, quia alias non esset con 
+          <lb ed="#P" n="86"/>nexio in vniuerso, ergo tenent necessario eu 
+          <lb ed="#P" n="87"/>dem ordinem in comparatione ad Deum. Si 
+          <lb ed="#P" n="88"/>enim iste discursus esset bonus, sequeretur 
+          <lb ed="#P" n="89"/>quod Deus non posset producere, vel
+          con<lb ed="#P" n="90" break="no"/>leruare omnes creaturas immediate, sed vna 
+          <lb ed="#P" n="91"/>mediante alia, quod est falsum, creaturae
+          igi<lb ed="#P" n="92" break="no"/>tur alio modo respiciunt Deum, &amp; alio
+          mo<lb ed="#P" n="93" break="no"/>do vna respicit alteram, ita in proposito isti 
+          <lb ed="#P" n="94"/>actus sic se habent, quod alio modo vnus re 
+          <lb ed="#P" n="95"/>spicit alterum, &amp; alio modo ambo respiciunt 
+          <lb ed="#P" n="96"/>tertium, nam actus notionalis respicit essen 
+          <lb ed="#P" n="97"/>tialem, quasi fundamentum, in quo
+          radica<lb ed="#P" n="98" break="no"/>tur, sed ambo simul respiciunt personam, cui 
+          <lb ed="#P" n="99"/>competunt tanquam perfectum eliciens, a 
+          <lb ed="#P" n="100"/>quo eliciuntur, propter quod non oportet 
+          <lb ed="#P" n="101"/>esse eundem ordinem ad personam, &amp; eo- 
+          <lb ed="#P" n="102"/>rum inter se
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1684">
+          <lb ed="#P" n="103"/>His ergo visis, restat soluere rtones vtriusque 
+          <lb ed="#P" n="104"/>opinionis: de quibus omnibus possum mo 
+          <lb ed="#P" n="105"/>expedire vna breui solutione dicendo, quod 
+          <lb ed="#P" n="106"/>rationes vtriusque opinionis supponunt esse 
+          <lb ed="#P" n="107"/>aliquem ordinem inter actus essentiales, &amp;  
+          <lb ed="#P" n="108"/>notionales prout respiciunt personam elicien 
+          <lb ed="#P" n="109"/>tem, &amp; hoc supposito arguit prima opinio es 
+          <lb ed="#P" n="110"/>sentiales esse primo elicitos: alia vero e
+          con<lb ed="#P" n="111" break="no"/>tra puta quod notionalis sit primo elicitus,  
+          <lb ed="#P" n="112"/>sed si vera sunt superius dicta, praefata
+          sup<lb ed="#P" n="113" break="no"/>posito non est admittenda, &amp; ideo rationes 
+          <lb ed="#P" n="114"/>vtriusque opinionis deficiunt per petitionem 
+          <!--262.xml-->
+          <pb ed="#P" n="237"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>principij, quia supponunt illud, quod est ma 
+          <lb ed="#P" n="2"/>gis dubium in ila quaestione, vt tamen appa 
+          <lb ed="#P" n="3"/>reant magis eorum defectus respodeo omnibus 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1726">
+          <lb ed="#P" n="4"/>Ad primam ergo rationem primae opinio 
+          <lb ed="#P" n="5"/>nis nego maiorem, &amp; cum probatur, quia pro 
+          <lb ed="#P" n="6"/>ter non potest per actum generandi commu 
+          <lb ed="#P" n="7"/>nicate filio, nisi quod habet ante illum actum; 
+          <lb ed="#P" n="8"/>dico, quod praehabere aliquid potest
+          intelli<lb ed="#P" n="9" break="no"/>gi dupliciter, vno modo vt praehabere idem 
+          <lb ed="#P" n="10"/>sit, quod ante habere, alio modo vt idem sit,  
+          <lb ed="#P" n="11"/>quod habere non ab alio. Ad propositum 
+          <lb ed="#P" n="12"/>dico, quod pater non potest communicaro 
+          <lb ed="#P" n="13"/>filio, nisi illud, quod praehabuit ante actum  
+          <lb ed="#P" n="14"/>generandi secundo modo, idest non
+          com<lb ed="#P" n="15" break="no"/>municatum sibi per illum actum ab alio, quia 
+          <lb ed="#P" n="16"/>impossibile est, quod per illum actum, per 
+          <lb ed="#P" n="17"/>quem aliquid communicatur filio, quod con 
+          <lb ed="#P" n="18"/>municetur sibi aliquid ab eo, non tamen o- 
+          <lb ed="#P" n="19"/>portet, quod praehabeat, idest ante habeat,  
+          <lb ed="#P" n="20"/>&amp; ideo comittitur in probatione figura
+          di<lb ed="#P" n="21" break="no"/>ctionis; quia ly praehabere vt dicit modum 
+          <lb ed="#P" n="22"/>habendi non ab alio, seu non productionem, 
+          <lb ed="#P" n="23"/>importat secundum sensum, qui excludit or 
+          <lb ed="#P" n="24"/>dinem prioris, &amp; posterioris; secundum quen 
+          <lb ed="#P" n="25"/>modum dicitur post praedicamentum, 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1776">
+          <lb ed="#P" n="26"/>Ad secundam nego antecedens, quia non 
+          <lb ed="#P" n="27"/>reputo verum, quod pater in aliquo priori si 
+          <lb ed="#P" n="28"/>gno antequam generet sit beatus, non enim 
+          <lb ed="#P" n="29"/>ibi sunt plura signa sibi succedentia, nec etiam 
+          <lb ed="#P" n="30"/>aliquod signum ante illud signum, in quo 
+          <lb ed="#P" n="31"/>generat, sed simul in eodem signo generat, 
+          <lb ed="#P" n="32"/>&amp; est beatus; &amp; cum probatur, quia tunc
+          ac<lb ed="#P" n="33" break="no"/>quireret beatitudinem suam in illo signo per 
+          <lb ed="#P" n="34"/>actum generationis, haec probatio peccat per 
+          <lb ed="#P" n="35"/>fallaciam consequentis, arguendo a pluribs 
+          <lb ed="#P" n="36"/>causis Veritatis, ad vnam tantum: Nam quod 
+          <lb ed="#P" n="37"/>aliqua persona in diuinis sit beata in eodem 
+          <lb ed="#P" n="38"/>signo, in quo est actus generationis; potest 
+          <lb ed="#P" n="39"/>verificari duobus modis, vno modo quia per 
+          <lb ed="#P" n="40"/>gene ationem acquirit beatitudinem, sicut  
+          <lb ed="#P" n="41"/>filius, alio modo, quia per generationem con 
+          <lb ed="#P" n="42"/>municat eam, i cut pater, arguere ergo
+          pa<lb ed="#P" n="43" break="no"/>ter est beatus in illo signo, in quo est genera 
+          <lb ed="#P" n="44"/>tio, ergo acquirit suam beatitudinem per ge 
+          <lb ed="#P" n="45"/>nerationem, non valet, quia potest
+          verifica<lb ed="#P" n="46" break="no"/>ri alio modo, puta quia communicat eam por 
+          <lb ed="#P" n="47"/>generationem filio. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1826">
+          <lb ed="#P" n="48"/>Ad tertiam nego maiorem, quia non opor 
+          <lb ed="#P" n="49"/>tet, quod actus absolutus prius eliciatur, quam 
+          <lb ed="#P" n="50"/>actus respectiuus; nisi forte actus absolutus 
+          <lb ed="#P" n="51"/>esset ratio eliciendi actum respectiuum, quid 
+          <lb ed="#P" n="52"/>1 non est in proposito, &amp; cum probatur, quia 
+          <lb ed="#P" n="53"/>absolutum praecedit respectiuum secundum 
+          <lb ed="#P" n="54"/>totum suum genus, dico, quod ista probatio 
+          <lb ed="#P" n="55"/>eccat per fallaciam consequentis proceden 
+          <lb ed="#P" n="56"/>do ab inferiori ad superius affirmatiue, non 
+          <lb ed="#P" n="57"/>enim valet, hoc est prius illo secundum suum 
+          <!--262.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 237 b -->
+          <lb ed="#P" n="58"/>genus, ergo est prius illo vniuersaliter; quan 
+          <lb ed="#P" n="59"/>titas enim est prior qualitate secundum suum 
+          <lb ed="#P" n="60"/>genus, si tamen comparentur ad actionem: 
+          <lb ed="#P" n="61"/>qualitas est prior quantitate, quia qualitas 
+          <lb ed="#P" n="62"/>est principium actionis, &amp; quantitas
+          passio<lb ed="#P" n="63" break="no"/>nis; Item videmus, quod substantia est prior 
+          <lb ed="#P" n="64"/>accidente secundum suum genus, tamen si 
+          <lb ed="#P" n="65"/>ambo comparentur ad Deum producentem, 
+          <lb ed="#P" n="66"/>&amp; conseruantem potest esse e conuerso Nam 
+          <lb ed="#P" n="67"/>Deus potest producere, &amp; conseruare
+          acci<lb ed="#P" n="68" break="no"/>dens sine substantia, 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1881">
+          <lb ed="#P" n="69"/>Ad quartam nego maiorem, quia non
+          o<lb ed="#P" n="70" break="no"/>portet quod actus immanens prius
+          compe<lb ed="#P" n="71" break="no"/>tat supposito; quam actus transiens, nisi sit 
+          <lb ed="#P" n="72"/>principium transeuntis: nam in eodem
+          ani<lb ed="#P" n="73" break="no"/>mali generare est actus transiens, esse vero 
+          <lb ed="#P" n="74"/>album est actus imanens, quia tamen vnus 
+          <lb ed="#P" n="75"/>non habet rationem principij, vel termini re 
+          <lb ed="#P" n="76"/>spectu alterius, non oportet quod habeani 
+          <lb ed="#P" n="77"/>aliquem ordinem prioris &amp; posterioris inter 
+          <lb ed="#P" n="78"/>se Item in animali, sentire est actus
+          imma<lb ed="#P" n="79" break="no"/>nens, agere vero per calorem naturalem in 
+          <lb ed="#P" n="80"/>nutrimentum est actus transiens, &amp; tamen 
+          <lb ed="#P" n="81"/>isti duo actus non habent adinuicem ordinem 
+          <lb ed="#P" n="82"/>prioris, &amp; posterioris; quia vnus non habet 
+          <lb ed="#P" n="83"/>rationem principij, vel termini respectu
+          al<lb ed="#P" n="84" break="no"/>terius; idcirco maior non est vera, nisi vbi
+          a<lb ed="#P" n="85" break="no"/>ctus immanens est principium actus transeum 
+          <lb ed="#P" n="86"/>tis; Ad probationem vero cum dicitur, quod 
+          <lb ed="#P" n="87"/>actus imanes est magis intrinsecus, quam tram 
+          <lb ed="#P" n="88"/>siens, dico quod etiam non est simpliciter
+          ve<lb ed="#P" n="89" break="no"/>ra, nam etsi quantum ad illud, quod actus 
+          <lb ed="#P" n="90"/>transiens ponit in termino, non sit ita intrin 
+          <lb ed="#P" n="91"/>secus, sicut actus immanens: quantum tamen 
+          <lb ed="#P" n="92"/>ad illud, quod ponit in agente puta
+          relatio<lb ed="#P" n="93" break="no"/>nem, vel vim actiuam, est e conuerso; Quod  
+          <lb ed="#P" n="94"/>etiam additur de igne non est ad propositum 
+          <lb ed="#P" n="95"/>quia calor est principium calefactionis, quae 
+          <lb ed="#P" n="96"/>est actus transiens; propter quod non est 
+          <lb ed="#P" n="97"/>mirum si iste sit praeuius illi imutationi. Addo 
+          <lb ed="#P" n="98"/>uod generare in diuinis non est omnino 
+          <lb ed="#P" n="99"/>actus transiens, nam quamuis transeat in 
+          <lb ed="#P" n="100"/>aliam personam, non tamen in aliam
+          sub<lb ed="#P" n="101" break="no"/>stantiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e1956">
+          <lb ed="#P" n="102"/>Ad quintam, cum quaeritur vnde est quod 
+          <lb ed="#P" n="103"/>pater non intelligat in aliquo priori signo 
+          <lb ed="#P" n="104"/>ante generationem. Dico, quod est ex parto 
+          <lb ed="#P" n="105"/>patris, &amp; ex parte suae generationis, &amp;
+          sui<lb ed="#P" n="106" break="no"/>actus intelligendi, &amp; ex parte essentiae
+          intel<lb ed="#P" n="107" break="no"/>lectae, quia omnibus istis repugnat ordo prio 
+          <lb ed="#P" n="108"/>ris, &amp; posterioris secundum plura signa sibi 
+          <lb ed="#P" n="109"/>succedentia; &amp; cum probatur, quod ista repu 
+          <lb ed="#P" n="110"/>gnantia non sit ex parte patris, quia nullam  
+          <lb ed="#P" n="111"/>perfectionem sibi intrinsecam acquirit per 
+          <lb ed="#P" n="112"/>actum generandi. dico quod ista probatio 
+          <lb ed="#P" n="113"/>peccat per fallaciam accipiendo non causam 
+          <lb ed="#P" n="114"/>pro causa, quia non acquirere aliquam per¬ 
+          <!--263.xml-->
+          <pb ed="#P" n="238"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>fectionem per actum, non est causa quare ali 
+          <lb ed="#P" n="2"/>quid praecedat actum; nam dato quoe pater prius 
+          <lb ed="#P" n="3"/>intelligeret, quam generaret, causa tamen 
+          <lb ed="#P" n="4"/>istius prioritatis non esset, quia non acquire 
+          <lb ed="#P" n="5"/>ret aliquam perfectionem per actum, sed quia 
+          <lb ed="#P" n="6"/>iste actus esset principiumillius, vel alterius. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2006">
+          <lb ed="#P" n="7"/>Potest etiam dici, quod hic est fallacia com 
+          <lb ed="#P" n="8"/>sequentis; nam quod aliquid non acquirat 
+          <lb ed="#P" n="9"/>perfectionem per actum generandi, potest 
+          <lb ed="#P" n="10"/>verificari duobus modis, vno modo; quia pro 
+          <lb ed="#P" n="11"/>cedit generationem, &amp; genitum tepore, vel 
+          <lb ed="#P" n="12"/>natura quo ad omnes suas perfectiones, pro 
+          <lb ed="#P" n="13"/>ut verificatur in creaturis, vbi genitum est sup 
+          <lb ed="#P" n="14"/>positum absolutum habens distinctam natu 
+          <lb ed="#P" n="15"/>ram, &amp; distinctas perfectiones ab ipso
+          geni<lb ed="#P" n="16" break="no"/>to: alio modo non quia praecedat illum actum; 
+          <lb ed="#P" n="17"/>sed quia est simul cum eo, &amp; per illum
+          com<lb ed="#P" n="18" break="no"/>municat omnes suas perfectiones alteri; &amp;  
+          <lb ed="#P" n="19"/>hoc modo verificatur in diuinis, arguere er- 
+          <lb ed="#P" n="20"/>go sic, pater non acquirit aliquam perfectio 
+          <lb ed="#P" n="21"/>nem per actum generandi; ergo praecedit
+          il<lb ed="#P" n="22" break="no"/>lum actum secundum omnes perfectiones. 
+          <lb ed="#P" n="23"/>est procedere a pluribus causis Veritatis ad  
+          <lb ed="#P" n="24"/>vnam tantum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2048">
+          <lb ed="#P" n="25"/>Nec valet, quod additur, scilicet istam
+          re<lb ed="#P" n="26" break="no"/>pugnantiam non posse esse ex parte
+          essen<lb ed="#P" n="27" break="no"/>tiae: quia essentia nullam perfectionem
+          ex<lb ed="#P" n="28" break="no"/>pectat a personis. Nam dico, quod ideo non 
+          <lb ed="#P" n="29"/>expectat ab eis perfectionem, quia non est in 
+          <lb ed="#P" n="30"/>potentia ad eas; immo ex sua ratione
+          intrin<lb ed="#P" n="31" break="no"/>seca eas habet per identitatem, &amp; ideo non 
+          <lb ed="#P" n="32"/>potest perfecte intelligi ab aliquo, nisi
+          intell<lb ed="#P" n="33" break="no"/>gatur existere in illis tribus, &amp; sic apparet,  
+          <lb ed="#P" n="34"/>rationes primae opinionis non concludere. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2072">
+          <lb ed="#P" n="35"/>Ad rationes secundae opinionis. 
+          <lb ed="#P" n="36"/>Ad primam, nego min. &amp; cum probatur,  
+          <lb ed="#P" n="37"/>quia actus notionales constituunt personas, 
+          <lb ed="#P" n="38"/>vel vt sunt relationes vel vt praecedunt eas, di 
+          <lb ed="#P" n="39"/>co, quod prout sunt actus eliciti a psonis, non 
+          <lb ed="#P" n="40"/>constituunt eas, sed supponunt constitas: ad  
+          <lb ed="#P" n="41"/>cuius euidentiam est intelligendum, quod 
+          <lb ed="#P" n="42"/>actus notionales vere sunt relationes; &amp; quam 
+          <lb ed="#P" n="43"/>tum ad personas spectat possunt, comparari ad 
+          <lb ed="#P" n="44"/>eas dupliciter, primo, vt vere sunt quaedam  
+          <lb ed="#P" n="45"/>proprietates in personis existentes, &amp; sic con 
+          <lb ed="#P" n="46"/>stituunt personas; nec sunt actus eliciti ab eis 
+          <lb ed="#P" n="47"/>quia nulla res elicit suam differentiam
+          con<lb ed="#P" n="48" break="no"/>stitutiuam, secundo possunt personis compa 
+          <lb ed="#P" n="49"/>rari, prout personae per eos principiant
+          ter<lb ed="#P" n="50" break="no"/>minos realiter distinctos inter se; &amp; sic sunt 
+          <lb ed="#P" n="51"/>actus eliciti a personis, &amp; quasi supponunt 
+          <lb ed="#P" n="52"/>eas constitutas, vt exempli gratia, actus intel 
+          <lb ed="#P" n="53"/>ligendi potest comparari ad intellectum
+          du<lb ed="#P" n="54" break="no"/>pliciter, vno modo, vt proprietas eius in ipso 
+          <lb ed="#P" n="55"/>existens, &amp; sic non elicitur ab ipso; tum quia 
+          <lb ed="#P" n="56"/>nullum subiectum elicit suam proprietatem, 
+          <lb ed="#P" n="57"/>tunc enim constitueret se ipsum in tali esse¬  
+          <!--263.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 238 b -->
+          <lb ed="#P" n="58"/>tum quia actus elicitus, vt elicitus est, exigit 
+          <lb ed="#P" n="59"/>necessario terminum realiter distinctum, actui 
+          <lb ed="#P" n="60"/>autem intelligendi, vt proprietas est, accidit 
+          <lb ed="#P" n="61"/>habere terminum realiter distinctum; quia 
+          <lb ed="#P" n="62"/>isto modo non respicit essentialiter aliquid 
+          <lb ed="#P" n="63"/>praeter suum subiectum. Alio modo potest con 
+          <lb ed="#P" n="64"/>parari actus intelligendi intellectui, prout 
+          <lb ed="#P" n="65"/>est actus intellectus, per quem tendit in
+          ter<lb ed="#P" n="66" break="no"/>minum aliquem realiter distinctum, &amp; sic non 
+          <lb ed="#P" n="67"/>solum est eius proprietas, sed etiam actus eli 
+          <lb ed="#P" n="68"/>citus ab ipso: Primo modo, vt proprietas est, 
+          <lb ed="#P" n="69"/>videtur praecedere ipsum, non quidem
+          sim<lb ed="#P" n="70" break="no"/>pliciter, sed quatenus eum constituit
+          forma<lb ed="#P" n="71" break="no"/>liter: Secundo modo, vt est actus elicitus, ma 
+          <lb ed="#P" n="72"/>gis sequitur ipsum in tali esse constitutum; 
+          <lb ed="#P" n="73"/>nam si prius intellectus non esset constitutus 
+          <lb ed="#P" n="74"/>in aliquo esse formali per actum
+          intelligen<lb ed="#P" n="75" break="no"/>di, prout est quaedam qualitas in ipso existens,  
+          <lb ed="#P" n="76"/>nunquam per actum intelligendi tenderet 
+          <lb ed="#P" n="77"/>in obiectum, prout est actus elicitus ab ipso; 
+          <lb ed="#P" n="78"/>ita dico suo modo in proposito de actu gene 
+          <lb ed="#P" n="79"/>randi, &amp; sic minor illius rationis non erat 
+          <lb ed="#P" n="80"/>simpliciter vera; nam quamuis actus essentia 
+          <lb ed="#P" n="81"/>les, vt sunt eliciti, sequantur esse comstitutum, 
+          <lb ed="#P" n="82"/>in quantum tamen concurrunt ad
+          constitu<lb ed="#P" n="83" break="no"/>tionem personarum simul cum notionalibus 
+          <lb ed="#P" n="84"/>quasi eorum fundamenta, sic praecedunt
+          con<lb ed="#P" n="85" break="no"/>stitutionem personarum, quemadmodum non 
+          <lb ed="#P" n="86"/>tionales praecedebant, vt proprietates. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2194">
+          <lb ed="#P" n="87"/>Ad secundam nego maiorem: quia non  
+          <lb ed="#P" n="88"/>est vniuersaliter vera, videmus enim, quod 
+          <lb ed="#P" n="89"/>sentire e actus communis homini, &amp; bruto, 
+          <lb ed="#P" n="90"/>intelligere vero est sibi proprium, &amp; tamen 
+          <lb ed="#P" n="91"/>homo prius elicit actum sentiendi, quam
+          a<lb ed="#P" n="92" break="no"/>ctum intelligendi; Ad probationem vero cum 
+          <lb ed="#P" n="93"/>dicitur, pater prius generat, quam spiret, quid 
+          <lb ed="#P" n="94"/>estcommune sibi, &amp; filio; dico quod hoc non 
+          <lb ed="#P" n="95"/>est propter communitatem vnius actus, &amp; 
+          <lb ed="#P" n="96"/>proprietatem alterius, puta generare, sed pro 
+          <lb ed="#P" n="97"/>pter aliam causam, quaecunque sit illa, de qua 
+          <lb ed="#P" n="98"/>apparebit infra cum pertractabitur de
+          pro<lb ed="#P" n="99" break="no"/>cessione spiritus sancti, &amp; sic peccat haec
+          ra<lb ed="#P" n="100" break="no"/>tio, assignans pro causa huius ordinis illud,  
+          <lb ed="#P" n="101"/>quod non est causa 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2229">
+          <lb ed="#P" n="102"/>Ad tertiam rationem patet quid sit dicen 
+          <lb ed="#P" n="103"/>dum, quia pater non prius intelligit, quam 
+          <lb ed="#P" n="104"/>generet, nec e conuerso, sicut quaerebat
+          ra<lb ed="#P" n="105" break="no"/>tio; quapropter nihil concludit. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2241">
+          <lb ed="#P" n="106"/>Ad quartam, &amp; quintam dico quod nihil 
+          <lb ed="#P" n="107"/>concludunt, nisi supposito, patrem prius
+          intel<lb ed="#P" n="108" break="no"/>ligere, quam generare, quod est negandum. 
+          <lb ed="#P" n="109"/> Sic ergo patet, generare in patrem non
+          praece<lb ed="#P" n="110" break="no"/>dere intelligere; nec e conuerso; immo
+          vtros<lb ed="#P" n="111" break="no"/>que actus esse essentiales ipsi patri; ita quod,  
+          <lb ed="#P" n="112"/>prout sunt actus eliciti, non est inter eos
+          ali<lb ed="#P" n="113" break="no"/>quis ordo, ratione cuius vnus sit magis natu 
+          <lb ed="#P" n="114"/>ralis, quam alter.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2263">
+          <!--264.xml-->
+          <pb ed="#P" n="239"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="2"/>An in Deo sit aliquis modus necessitatis 
+          <lb ed="#P" n="3"/>respectu istius actus.
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2279">
+          <lb ed="#P" n="4"/>DRo intelligentia tituli quaestionis est
+          no<lb ed="#P" n="5" break="no"/>tandum, non esse vnum tantum modum 
+          <lb ed="#P" n="6"/>necessitatis, sed plures; sicut patet per Arist. 
+          <lb ed="#P" n="7"/>3. Metaph vbi plures ponit necessitatis
+          mo<lb ed="#P" n="8" break="no"/>dos; inter omnes autem, illum dicit esse
+          po<lb ed="#P" n="9" break="no"/>tissimum, quo aliquid dicitur necessarium. 
+          <lb ed="#P" n="10"/>quia impossibile est aliter se habere, quoc 
+          <lb ed="#P" n="11"/>probat per hoc, quia omnes illi modi
+          necess<lb ed="#P" n="12" break="no"/>rij accipiuntur per similitudinem ad istum; 
+          <lb ed="#P" n="13"/>uem subdiuidit in duos modos, vt explicat 
+          <lb ed="#P" n="14"/>ibi Comment. vno modo dicitur aliquid
+          im<lb ed="#P" n="15" break="no"/>possibile aliter se habere per se; quia nullam  
+          <lb ed="#P" n="16"/>habet causam necessitatis, &amp; hoc est
+          necessa<lb ed="#P" n="17" break="no"/>rium simpliciter, alio modo dicitur aliquid 
+          <lb ed="#P" n="18"/>impossibile aliter se habere per
+          comparatio<lb ed="#P" n="19" break="no"/>nem ad suam causam, propter quam
+          necessi<lb ed="#P" n="20" break="no"/>tatem habet, &amp; vocatur a Comment. debitum, 
+          <lb ed="#P" n="21"/>seu necessarium per aliud; &amp; hinc est, quod 
+          <lb ed="#P" n="22"/>communiter assignantur quatuor modi
+          ne<lb ed="#P" n="23" break="no"/>cessitatis per habitudinem ad quatuor cans. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2325">
+          <lb ed="#P" n="24"/>Primus modus, respectu causae materialis 
+          <lb ed="#P" n="25"/>acceptus, vocatur necessitas indigentiae; sicut 
+          <lb ed="#P" n="26"/>cum dico necesse est animal corrumpi; haec 
+          <lb ed="#P" n="27"/>enim necessitas prouenit ex materia, prout 
+          <lb ed="#P" n="28"/>est priuationi annexa, &amp; ideo ad remouendum 
+          <lb ed="#P" n="29"/>hunc defectum, &amp; istam indigentiam,
+          mate<lb ed="#P" n="30" break="no"/>ria necessitat ad generationem, vt per eam 
+          <lb ed="#P" n="31"/>acquirat aliam formam: &amp; quia generatio 
+          <lb ed="#P" n="32"/>vnius non est absque corruptione alterius; 
+          <lb ed="#P" n="33"/>idcirco necessitando ad generationem, neces 
+          <lb ed="#P" n="34"/>sitat consequenter ad corruptionem 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2351">
+          <lb ed="#P" n="35"/>Secundus necessitatis modus accipitur per 
+          <lb ed="#P" n="36"/>comparationem ad causam formalem, &amp;
+          con<lb ed="#P" n="37" break="no"/>muniter vocatur necessitas exigentiae; nam 
+          <lb ed="#P" n="38"/>quia forma dat actum determinatum, ideo 
+          <lb ed="#P" n="39"/>dando esse necessitat ad determinatum esse, 
+          <lb ed="#P" n="40"/>&amp; consequenter ad determinatum agere 
+          <lb ed="#P" n="41"/>vnde quia ignis necessario est calidus,
+          neces<lb ed="#P" n="42" break="no"/>sario etiam calefacit, &amp; ista necessitas proue 
+          <lb ed="#P" n="43"/>nit ex exigentia formae ignis, quae sic exigit, 
+          <lb ed="#P" n="44"/>cum det actum determinatum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2375">
+          <lb ed="#P" n="45"/>Tertius modus accipitur per
+          comparatio<lb ed="#P" n="46" break="no"/>nem ad causam efficientem, &amp; vocatur
+          ne<lb ed="#P" n="47" break="no"/>cessitas violentiae, sicut cum graue proiicitur 
+          <lb ed="#P" n="48"/>sursum, ascensus est necessarius propter vio 
+          <lb ed="#P" n="49"/>lentiam causae impellentis; quandoque etiam  
+          <lb ed="#P" n="50"/>est a causa efficiente secundum naturam, &amp; 
+          <lb ed="#P" n="51"/>&amp; est quando agens agit in passum, sicut
+          na<lb ed="#P" n="52" break="no"/>tum est pati, &amp; haec vocatur necessitas influen 
+          <lb ed="#P" n="53"/>tiae, tunc enim agens influit passo aliquid na 
+          <lb ed="#P" n="54"/>turale, &amp; sic respectu causae efficientis erunt,  
+          <!--264.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 239 b -->
+          <lb ed="#P" n="55"/>duo modi necessitatis. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2409">
+          <lb ed="#P" n="56"/>Quartus modus accipitur comparatiue ad 
+          <lb ed="#P" n="57"/>causam finalem, sicut si vellem ire vltra
+          ma<lb ed="#P" n="58" break="no"/>re, necessaria mihi esset nauis, &amp; haec vocatur 
+          <lb ed="#P" n="59"/>necessitas expedientiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2420">
+          <lb ed="#P" n="60"/>Ad propositum ergo, cum quaeritur vtrum 
+          <lb ed="#P" n="61"/>in Deo sit aliquis modus necessitatis
+          respe<lb ed="#P" n="62" break="no"/>ctu actus generandi. Respondetur communi 
+          <lb ed="#P" n="63"/>ter, &amp; bene non esse ibi necessitatem indigen 
+          <lb ed="#P" n="64"/>tiae, quae reducitur ad materiam, quia ibi nul 
+          <lb ed="#P" n="65"/>la est indigentia, vel defectus. Nec est ibi
+          ne<lb ed="#P" n="66" break="no"/>cessitas violentiae; quia nullam habet caus am 
+          <lb ed="#P" n="67"/>supra se, a qua possit violentari; &amp; per
+          con<lb ed="#P" n="68" break="no"/>sequens, nec est necessitas influentiae; quia 
+          <lb ed="#P" n="69"/>nullam habet causam supra se, a qua possit 
+          <lb ed="#P" n="70"/>influxum recipere Iterum non est ibi necessi 
+          <lb ed="#P" n="71"/>tas expedientiae, quae sumitur a fine, quia
+          ses<lb ed="#P" n="72" break="no"/>per, quod ordinatur ad finem, est indignius ip 
+          <lb ed="#P" n="73"/>so fine; Deus autem non habet in se
+          ali<lb ed="#P" n="74" break="no"/>quid tale 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2455">
+          <lb ed="#P" n="75"/>Conceditur tamen communiter, ibi neces 
+          <lb ed="#P" n="76"/>sitas exigentiae, quae accipitur per
+          compara<lb ed="#P" n="77" break="no"/>tionem ad formam, cuius ratio est, quia
+          ne<lb ed="#P" n="78" break="no"/>cessarium isto modo nil aliud est, quam illud, 
+          <lb ed="#P" n="79"/>quod immutabiliter prouenit ex exigentia, 
+          <lb ed="#P" n="80"/>&amp; actualitate formae, quia ergo diuina gene 
+          <lb ed="#P" n="81"/>ratio prouenit immutabiliter ab exigentia di 
+          <lb ed="#P" n="82"/>uinae naturae, &amp; eius actualitatis, vt patebit 
+          <lb ed="#P" n="83"/>in sequenti distinctione, idcirco merito
+          con<lb ed="#P" n="84" break="no"/>ceditur, quod illa ineffabilis generatio sit ne 
+          <lb ed="#P" n="85"/>cessaria isto modo: Posset etiam, &amp; breuius di 
+          <lb ed="#P" n="86"/>ci, quod necessitas ibi non est accipienda per 
+          <lb ed="#P" n="87"/>comparationem ad intrinseca, sed est ibi abso 
+          <lb ed="#P" n="88"/>soluta necessitas sine omni causa; ita quod ea 
+          <lb ed="#P" n="89"/>dem necessitate, qua Deus est Deus, eadem  
+          <lb ed="#P" n="90"/>generat, &amp; non per aliam causam, &amp; talis 
+          <lb ed="#P" n="91"/>modus necessitatis proprijssime competit 
+          <lb ed="#P" n="92"/>Deo; nam, vt superius dictum est, illud nece 
+          <lb ed="#P" n="93"/>sarium, quod non habet causam suae necessi 
+          <lb ed="#P" n="94"/>tatis, est necessarium simpliciter; in Deo
+          au<lb ed="#P" n="95" break="no"/>tem nulla est causa; &amp; quicquid est in Deo 
+          <lb ed="#P" n="96"/>est simpliciter necessarium; ideo concludo, 
+          <lb ed="#P" n="97"/>quod illa generatio est simpliciter necessaria: 
+          <lb ed="#P" n="98"/>Habemus ergo ex praecedente articulo, &amp; ex 
+          <lb ed="#P" n="99"/>isto, quod pater generat filium naturali
+          ne<lb ed="#P" n="100" break="no"/>cessitate; &amp; ita patet quod quaerebat quaestio 
+          <lb ed="#P" n="101"/>principalis; vnde concludebat Niccard e de 
+          <lb ed="#P" n="102"/>Trinitate cap 1 nihil est ibi secundum donum 
+          <lb ed="#P" n="103"/>ex gratia largientis; sed totum secundum pro 
+          <lb ed="#P" n="104"/>prietatem exigentis; &amp; sicut rei innascibili 
+          <lb ed="#P" n="105"/>naturale est non procedere ex alio, sic eidem 
+          <lb ed="#P" n="106"/>naturale est de se procedentem habere 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2527">
+          <lb ed="#P" n="107"/>ARGVMENTA 
+          <lb ed="#P" n="108"/>in principio quaestionis.
+          <lb ed="#P" n="109"/>AD primum nego consequentiam, quia 
+          <lb ed="#P" n="110"/>non oportet, quod si generare est actus 
+          <lb ed="#P" n="111"/>naturalis in patre, propter hoc precedat actu 
+          <!--265.xml-->
+          <pb ed="#P" n="240"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>intelligendi; quia pari ratione oporteret, quod 
+          <lb ed="#P" n="2"/>intelligere praecederet actum generandi, quia 
+          <lb ed="#P" n="3"/>est actus naturalis, &amp; cum probatur, quia si 
+          <lb ed="#P" n="4"/>cut se habet natura ad intellectum ita actus 
+          <lb ed="#P" n="5"/>naturae ad actum intellectus, dico verum es 
+          <lb ed="#P" n="6"/>se vbi natura, &amp; intellectus sunt duo
+          princi<lb ed="#P" n="7" break="no"/>pia distincta realiter, vel secundum rationem 
+          <lb ed="#P" n="8"/>prouenientem ex natura rei; modo natura 
+          <lb ed="#P" n="9"/>in Deo non praecedit intellectum; nec vllus 
+          <lb ed="#P" n="10"/>est ibi ordo prioris, aut posterioris secundum 
+          <lb ed="#P" n="11"/>rem, aut secundum rationem, quae proueniat 
+          <lb ed="#P" n="12"/>ex natura rei; concedo tamen quod ratio non 
+          <lb ed="#P" n="13"/>stra ponat ibi aliquem, ordinem non ex natu 
+          <lb ed="#P" n="14"/>ra rei fundamentaliter prouenientem, sed 
+          <lb ed="#P" n="15"/>ex nostro modo intelligendi, quia
+          apprehen<lb ed="#P" n="16" break="no"/>dimus naturam diuinam ad modum naturae 
+          <lb ed="#P" n="17"/>create, scilicet tanquam fundamentum, intel 
+          <lb ed="#P" n="18"/>lectum vero tanquam perfectionem in
+          fun<lb ed="#P" n="19" break="no"/>damento: Vnde talis ordo non facit ad pro 
+          <lb ed="#P" n="20"/>positum. 
+        </p>
+        <p xml:id="gsX5tY-d1e350-d1e2590">
+          <lb ed="#P" n="21"/>Ad secundum dico, patrem generare fi- 
+          <lb ed="#P" n="22"/>lium naturali necessitate, non ex indigentia, 
+          <lb ed="#P" n="23"/>vel violentia; sed ex naturae suae exigentia, 
+          <lb ed="#P" n="24"/>&amp; suae actualissimae perfectionis
+          plenitudi<lb ed="#P" n="25" break="no"/>ne, &amp; iste modus dicit perfectionem. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,482 +1,482 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 2</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 2</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="240"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e361"> <!-- l1d6q2 -->
-            <head xml:id="gsX5tY-d1e361-Hd1e109">Quaestio 2</head>
-            <head xml:id="gsX5tY-d1e361-Hd1e112" type="question-title">Utrum pater generet filium voluntate</head>
-            <p xml:id="gsX5tY-d1e361-d1e115">
-               <lb ed="#P" n="26"/>QVAESTIO SECVNDA 
-      <lb ed="#P" n="27"/>Vtrum pater generet filium voluntate. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e122">
-               <lb ed="#P" n="28"/>ARGVITVR AD PARTEM 
-      <lb ed="#P" n="29"/>affirmantem. 
-      <lb ed="#P" n="30"/>IIpater non generaret filium voluntate, 
-      <lb ed="#P" n="31"/>Asequeretur, quod generaret eum nolens; 
-      <lb ed="#P" n="32"/>consequens est falsum ergo &amp;c. Consequen 
-      <lb ed="#P" n="33"/>tia patet, quia sicut faciens aliquid
-      volun<lb ed="#P" n="34" break="no"/>tate, facit illud volens; ita per oppositum non 
-      <lb ed="#P" n="35"/>faciens voluntate, videtur facere nolens; Fal 
-      <lb ed="#P" n="36"/>sitatem probo, per Augustinum lib. 3. contra 
-      <lb ed="#P" n="37"/>Maximinum, vbi sic arguit: si pater non
-      ge<lb ed="#P" n="38" break="no"/>nuit filium sibi aequalem, aut noluit, aut 
-      <lb ed="#P" n="39"/>non potuit, si noluit, inuidus fuit, a
-      destru<lb ed="#P" n="40" break="no"/>ctione ergo consequentis, non fuit inuidus,  
-      <lb ed="#P" n="41"/>ergo voluit, &amp; sic genuit filium voluntate 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e156">
-               <lb ed="#P" n="42"/>2 Illud generatur voluntate, cuius gene 
-      <lb ed="#P" n="43"/>rationis principium est complacentia volun 
-      <lb ed="#P" n="44"/>tatis, sed principium generationis filij ess 
-      <lb ed="#P" n="45"/>huiusmodi; ergo. Maior est nota, &amp; Minos 
-      <lb ed="#P" n="46"/>probatur, quia per D. Augustinum filius eo 
-      <lb ed="#P" n="47"/>est Verbum, quo filius, &amp; sic eadem ratio est 
-      <lb ed="#P" n="48"/>de generatione verbi, &amp; Filij, sed
-      princi<lb ed="#P" n="49" break="no"/>pium generationis Verbi est complacentia 
-      <!--265.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 240 b -->
-               <lb ed="#P" n="50"/>voluntatis secundum eundem <ref xml:id="gsX5tY-d1e361-Rd1e184">9. de Trinit. 
-        <lb ed="#P" n="51"/>cap. 8.</ref> dicentem, <quote xml:id="gsX5tY-d1e361-Qd1e189" source="http://scta.info/resource/adt-l9-d1e1078" synch="107-112">nascitur Verbum cum 
-          ex<lb ed="#P" n="52" break="no"/>cogitatum placet</quote>, si ergo complacentia non  
-      <lb ed="#P" n="53"/>adesset, Verbum non nasceretur, quod qui 
-      <lb ed="#P" n="54"/>dem dictum non haberet veritatem, nisi
-      com<lb ed="#P" n="55" break="no"/>placentia voluntatis haberet aliquam
-      ratio<lb ed="#P" n="56" break="no"/>nem principij in generatione verbi, seu filij.
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e204">
-               <lb ed="#P" n="57"/>AD OPPOSITVM ARGVITVR 
-      <lb ed="#P" n="58"/>Ater generat filium naturali
-      necessita<lb ed="#P" n="59" break="no"/>te, ergo non voluntate, antecedens
-      pa<lb ed="#P" n="60" break="no"/>tet ex praecedente quaestione; consequentiam 
-      <lb ed="#P" n="61"/>probo, quia cum voluntas, &amp; natura sint op 
-      <lb ed="#P" n="62"/>posita principia non possunt principiare 
-      <lb ed="#P" n="63"/>idem productum 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e222">
-               <lb ed="#P" n="64"/>RESPONDEO: in hac quaestione 
-      <lb ed="#P" n="65"/>duo sunt videnda, quae tangunt argumenta 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e229">
-               <lb ed="#P" n="66"/>1 An Pater generet filium volens, 
-      <lb ed="#P" n="67"/>2 An voluntas concurrat ad generationem 
-      <lb ed="#P" n="68"/>silij in ratione principij, &amp; per hoc patebit 
-      <lb ed="#P" n="69"/>an generet filium voluntate, quod principa 
-      <lb ed="#P" n="70"/>liter quaeritur. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e242">
-               <lb ed="#P" n="71"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="72"/>An Pater generet Filium volens
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e249">
-               <lb ed="#P" n="73"/>Vic articulo responderent illi, qui
-      po<lb ed="#P" n="74" break="no"/>nunt actus notionales praecedere es- 
-      <lb ed="#P" n="75"/>sentiales, quod Pater non generat filium vo 
-      <lb ed="#P" n="76"/>lens, volitione praeuia actui generationis, sed 
-      <lb ed="#P" n="77"/>volitione concomitante, nam, cum volitio 
-      <lb ed="#P" n="78"/>sit actus essentialis (secundum eos) non
-      po<lb ed="#P" n="79" break="no"/>test esse praeuia generationi. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e268">
-               <lb ed="#P" n="80"/>Haec autem opinio fuit superius improba 
-      <lb ed="#P" n="81"/>ta, cuius error nunc magis apparet, quia non 
-      <lb ed="#P" n="82"/>otest bene saluare, quod pater generet fi- 
-      <lb ed="#P" n="83"/>sium volens, &amp; intelligens; videmus enim 
-      <lb ed="#P" n="84"/>manifeste, quod si fiant in nobis, vel a nobis 
-      <lb ed="#P" n="85"/>aliqua, quae praeueniant omnem actum intel 
-      <lb ed="#P" n="86"/>ligendi, &amp; volendi, non dicimur fecisse illa  
-      <lb ed="#P" n="87"/>volentes, &amp; intelligentes; nec ea dicuntur 
-      <lb ed="#P" n="88"/>facta nobis volentibus, &amp; intelligentibus, 
-      <lb ed="#P" n="89"/>quia siue velimus, &amp; intelligamus, siue non, 
-      <lb ed="#P" n="90"/>illa facta sunt, propter quod talis locutio es 
-      <lb ed="#P" n="91"/>set omnino abusiua, oportet ergo quod cum 
-      <lb ed="#P" n="92"/>quis facit aliquid volens, &amp; intelligens, vel 
-      <lb ed="#P" n="93"/>quod velle, &amp; intelligere sint principium 
-      <lb ed="#P" n="94"/>eius, quod fit, vel saltem sint simul cum prin 
-      <lb ed="#P" n="95"/>cipio; &amp; ideo alia opinio, quae ponebat omia 
-      <lb ed="#P" n="96"/>essentialia in Patre praecedere actum
-      gene<lb ed="#P" n="97" break="no"/>randi, optime saluat istud, sed incidit in alia  
-      <lb ed="#P" n="98"/>inconuenientia, vt patuit superius, &amp; ideo vi 
-      <lb ed="#P" n="99"/>detur aliter esse dicendum. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e314">
-               <lb ed="#P" n="100"/>Respondeo ergo breuiter, quod Pater ge 
-      <!--266.xml-->
-      <pb ed="#P" n="241"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>nerat filium volens, &amp; intelligens; hoc enim 
-      <lb ed="#P" n="2"/>multae auctoritates Sanctorum, &amp; Doctorum 
-      <lb ed="#P" n="3"/>affirmant, vnde Riccardus . de Trinitate 
-      <lb ed="#P" n="4"/>cap. 8. ait, ingenitum velle de se habere con 
-      <lb ed="#P" n="5"/>formem, atque condignum, idem mihi
-      vide<lb ed="#P" n="6" break="no"/>tur, quod gignere filium, &amp; argumentum 
-      <lb ed="#P" n="7"/>Augustini superius inductum contra Maxi 
-      <lb ed="#P" n="8"/>minum hoc idem manifestat; Ideo dicendum 
-      <lb ed="#P" n="9"/>est, sicut tangit Magister in littera, quod
-      pa<lb ed="#P" n="10" break="no"/>ter generat filium volens, &amp; intelligens,
-      bo<lb ed="#P" n="11" break="no"/>nus, &amp; sapiens, &amp; cum omnibus
-      perfectioni<lb ed="#P" n="12" break="no"/>bus essentialibus existens; &amp; notanter dico 
-      <lb ed="#P" n="13"/>existens, &amp; non praeexistens propter
-      opinio<lb ed="#P" n="14" break="no"/>nem superius reiectam, non dico tamen, quod 
-      <lb ed="#P" n="15"/>generet filium volens, quasi in aliquo signo 
-      <lb ed="#P" n="16"/>priori sit sub actu intelligendi, &amp; volendi, &amp;  
-      <lb ed="#P" n="17"/>consequenter generet, sicuti imaginatur prae 
-      <lb ed="#P" n="18"/>fata opinio, sed quia simul, &amp; in eodem signo 
-      <lb ed="#P" n="19"/>vult, &amp; generat, sicut dicebatur superius quod 
-      <lb ed="#P" n="20"/>generat intelligendo, &amp; intelligit generando, 
-      <lb ed="#P" n="21"/>ita in proposito generat volendo, &amp; vult ge 
-      <lb ed="#P" n="22"/>nerando; &amp; hoc videtur intelligere
-      Riccar<lb ed="#P" n="23" break="no"/>dus in praefata auctoritate, quasi dicat Patre 
-      <lb ed="#P" n="24"/>habere filium, idem est, quod ipsum
-      genera<lb ed="#P" n="25" break="no"/>re, vnde inconueniens esset, quod pater in 
-      <lb ed="#P" n="26"/>aliquo priori signo gigneret filium, &amp;
-      conse<lb ed="#P" n="27" break="no"/>quenter vellet, &amp; placeret sibi in filio
-      gene<lb ed="#P" n="28" break="no"/>rato, vel e conuerso prius complaceret sibi
-      in<lb ed="#P" n="29" break="no"/>filio generando, &amp; idem intendebat P. Aug.¬ 
-      <lb ed="#P" n="30"/>in praecedente quaestione citatus dicens,
-      Pa<lb ed="#P" n="31" break="no"/>ter demonstrando filium genuit filium: Con 
-      <lb ed="#P" n="32"/>cludo ergo, quod pater cum omnibus perf 
-      <lb ed="#P" n="33"/>ctionibus essentialibus existens, &amp; non
-      prae<lb ed="#P" n="34" break="no"/>existens genuit filium eo modo, quo
-      decla<lb ed="#P" n="35" break="no"/>ratum est. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e401">
-               <lb ed="#P" n="36"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="37"/>Vtrum pater sic generet filium volens, 
-      <lb ed="#P" n="38"/>quod, voluntas concurrat ad
-      ge<lb ed="#P" n="39" break="no"/>nerationem ipsius in
-      ratio<lb ed="#P" n="40" break="no"/>ne principij
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e414">
-               <lb ed="#P" n="41"/>AD hunc articulum Respondeo, volun 
-      <lb ed="#P" n="42"/>tatem concurrere ad generationem 
-               fi<lb ed="#P" n="43" break="no"/>lij in ratione principij posse itelligi quatuor 
-      <lb ed="#P" n="44"/>modis; primo modo de nouo accedendo,
-      si<lb ed="#P" n="45" break="no"/>cut imaginabatur Euomius, cuius errorem 
-      <lb ed="#P" n="46"/>n recitat <ref xml:id="gsX5tY-d1e361-Rd1e429" corresp="#gsX5tY-d1e361-Qd1e434">beatus P. Aug. 15. de Trin. cap 2.</ref> vbi 
-      <lb ed="#P" n="47"/>ait, quod <quote xml:id="gsX5tY-d1e361-Qd1e434" source="http://scta.info/resource/adt-l15-d1e1915@14-61"><!-- boundaries of quote fuzzy -->cum iste non posset, nec vellet
-        in<lb ed="#P" n="48" break="no"/>telligere vnigenitum Dei verbum esse filium 
-        <lb ed="#P" n="49"/>natura, putans, quod esset filius nature, ve 
-        <lb ed="#P" n="50"/>substantiae idest essentiae, dixit esse filium vo 
-        <lb ed="#P" n="51"/>luntatis, voluntate scilicet accedente, sicut cum 
-        <lb ed="#P" n="52"/>nos aliquid volumus</quote>, quem reicit idem Aug 
-      <lb ed="#P" n="53"/>quia sicut diuinum consilium est aeternum, 
-      <!--266.xml-->
-      <cb ed="#P" n="b"/> 
-      <!-- 241 b -->
-      <lb ed="#P" n="54"/>&amp; immutabile; ita eius voluntas est aeterna, 
-      <lb ed="#P" n="55"/>&amp; immutabilis, &amp; sic non potest de nouo 
-      <lb ed="#P" n="56"/>Deo accidere. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e464">
-               <lb ed="#P" n="57"/>Secundo, potest voluntas concurrere in 
-               ra<lb ed="#P" n="58" break="no"/>tione principij contigentis, prout concurrit 
-      <lb ed="#P" n="59"/>ad productionem creaturarum, &amp; hoc modo 
-      <lb ed="#P" n="60"/>non concurrit ad generationem filij, qui
-      ge<lb ed="#P" n="61" break="no"/>neratur naturali necessitate, vt ostensum est. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e477">
-               <lb ed="#P" n="62"/>Tertio, potest intelligi, quod concurrat in 
-      <lb ed="#P" n="63"/>ratione principij distincti ab intellectu, &amp; 
-               na<lb ed="#P" n="64" break="no"/>tura, vt putant aliqui de voluntate respectu 
-      <lb ed="#P" n="65"/>Spiritus Sancti, hanc acceptionem modo non 
-      <lb ed="#P" n="66"/>pertracto, quia habebit locum infra, dum
-      a<lb ed="#P" n="67" break="no"/>gam de distinctione emanationum 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e494">
-               <lb ed="#P" n="68"/>Quarto, potest intelligi, quod voluntas con 
-      <lb ed="#P" n="69"/>currat in ratione principij applicantis vim 
-      <lb ed="#P" n="70"/>generatiuam ad actum generationis, &amp;
-      iux<lb ed="#P" n="71" break="no"/>ta hunc sensum respondent quidam oporte 
-      <lb ed="#P" n="72"/>re concedere, quod voluntas concurrat in 
-      <lb ed="#P" n="73"/>generatione filij copulando principia
-      ge<lb ed="#P" n="74" break="no"/>nerationis adinuicem, scilicet memoriam
-      pa<lb ed="#P" n="75" break="no"/>ternam cum actione intellectus, quibus
-      co<lb ed="#P" n="76" break="no"/>pulatis generatur notitia, quae est verbum; 
-      <lb ed="#P" n="77"/>imaginantur namqe isti, vim generatiuam in 
-      <lb ed="#P" n="78"/>diuinis esse ipsam memoriam paternam per 
-      <lb ed="#P" n="79"/>actualem notitiam informatam, cuius
-      infor<lb ed="#P" n="80" break="no"/>matio fit per voluntatem copulantem ipsam  
-      <lb ed="#P" n="81"/>memoriam cum actione intellectus, qua
-      for<lb ed="#P" n="82" break="no"/>mata: eadem voluntas applicat eam ad actu 
-      <lb ed="#P" n="83"/>gignendi verbum. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e531">
-               <lb ed="#P" n="84"/>Rationes pro hac opinione apparentiam  
-      <lb ed="#P" n="85"/>continentes sunt huiusmodi 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e538">
-               <lb ed="#P" n="86"/>1 Si voluntas in generatione diuini verbi 
-      <lb ed="#P" n="87"/>non haberet rationem principij copulantis,  
-      <lb ed="#P" n="88"/>&amp; applicantis sequeretur, quod in
-      genera<lb ed="#P" n="89" break="no"/>tione verbi nostri voluntas non esset pars ima 
-      <lb ed="#P" n="90"/>ginis, consequens est falsum, &amp; contra
-      Aug<lb ed="#P" n="91" break="no"/>vbicuque loquitur de imagine, semper enim 
-      <lb ed="#P" n="92"/>voluntatem ponit tertiam partem imaginis; 
-      <lb ed="#P" n="93"/>Consequentia probatur per eudem, qui sem 
-      <lb ed="#P" n="94"/>er videtur attribuere voluntati vim
-      copu<lb ed="#P" n="95" break="no"/>landi, &amp; connectendi, inquantum est pars 
-      <lb ed="#P" n="96"/>imaginis, vnde ij. de Trinit cap 8 dicit, <quote xml:id="gsX5tY-d1e361-Qd1e564" source="http://scta.info/resource/adt-l11-d1e1257" synch="298-334">tot 
-        <lb ed="#P" n="97"/>igitur sunt huius generis trinitates, quot
-        re<lb ed="#P" n="98" break="no"/>cordationes, quia nulla earum est, in qua non 
-        <lb ed="#P" n="99"/>sit haec tria, scilicet quod memoria recolitur,  
-        <lb ed="#P" n="100"/>quod fit in cogitatione, cum cernitur cogita 
-        <lb ed="#P" n="101"/>tum, &amp; voluntas vtrumque coniungens</quote>, &amp;c
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e578">
-               <lb ed="#P" n="102"/>2 Si voluntas non haberet rationem prin 
-      <lb ed="#P" n="103"/>cipij copulantis in generatione Diuini
-      ver<lb ed="#P" n="104" break="no"/>bi, sequeretur quod verbum non concipere 
-      <lb ed="#P" n="105"/>tur, nec produceretur amore, consequens est 
-      <lb ed="#P" n="106"/>falsum; ergo &amp;c Consequentia est nota, quia 
-      <lb ed="#P" n="107"/>ideo Verbum nostrun amore producitur,  
-      <lb ed="#P" n="108"/>quia voluntas concurrit ad ipsius productio 
-      <lb ed="#P" n="109"/>nem modo praedicio; ita in proposito
-      dicen<lb ed="#P" n="110" break="no"/>dum est de diuino verbo, cuius imaginem gerit 
-      <!--267.xml-->
-      <pb ed="#P" n="242"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>verbum nostrum: Falsitas consequentis
-      pro<lb ed="#P" n="2" break="no"/>batur per <ref xml:id="gsX5tY-d1e361-Rd1e610">August. 8. de Trinit. cap. 7.</ref>
-      dicen<lb ed="#P" n="3" break="no"/>tem, <quote xml:id="gsX5tY-d1e361-Qd1e615" source="http://scta.info/resource/adt-l9-d1e1074" synch="114-142">nemo aliquid volens facit, quod non in 
-        <lb ed="#P" n="4"/>corde suo prius dixerit, quod quidem
-        ver<lb ed="#P" n="5" break="no"/>bum amore concipitur, siue creaturae, siue 
-        <lb ed="#P" n="6"/>creatoris, idest siue in natura mutabili, siue 
-        <lb ed="#P" n="7"/>in immutabili</quote>; vult ergo, quod hoc sit
-      com<lb ed="#P" n="8" break="no"/>mune verbo diuino, &amp; verbo nostro. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e630">
-               <lb ed="#P" n="9"/>3 Vlterius arguitur per Com. 2.
-      physico<lb ed="#P" n="10" break="no"/>rum com. 40. vbi dicit, actiones, quae sunt pr 
-      <lb ed="#P" n="11"/>pter aliud, esse a cognitione, &amp; voluntate; 
-      <lb ed="#P" n="12"/>quo supposito arguo, generatio filij in diui 
-      <lb ed="#P" n="13"/>nis est propter aliud, alioquin esset frustra, 
-      <lb ed="#P" n="14"/>&amp; otiosa, ergo fit a cognitione, &amp; voluntate¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e646">
-               <lb ed="#P" n="15"/>Haec opinio nec alijs, nec mihi placet, &amp; 
-      <lb ed="#P" n="16"/>contra eam arguo tripliciter. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e654">
-               <lb ed="#P" n="17"/>1 Si voluntas principiaret generationem 
-      <lb ed="#P" n="18"/>verbi praedicto modo, sequeretur quod in 
-      <lb ed="#P" n="19"/>Patre actus volendi esset praeuius actui gene 
-      <lb ed="#P" n="20"/>randi, quod est falsum, quia tunc Pater prius 
-      <lb ed="#P" n="21"/>eliceret actum volendi, quam actum
-      gene<lb ed="#P" n="22" break="no"/>randi, cuius contrarium superius est
-      osten<lb ed="#P" n="23" break="no"/>sum, Consequentia patet, quia secundum eos,  
-      <lb ed="#P" n="24"/>copulatio est praeuia actui generationis; ergo 
-      <lb ed="#P" n="25"/>&amp; actus volendi est prior, per quem fit
-      ta<lb ed="#P" n="26" break="no"/>lis copulatio. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e678">
-               <lb ed="#P" n="27"/>2 Si actus gignendi verbum in diuinis 
-      <lb ed="#P" n="28"/>dependeret a voluntate copulante,
-      sequere<lb ed="#P" n="29" break="no"/>tur, quod ille actus esset liber, &amp; contingens,  
-      <lb ed="#P" n="30"/>quod est falsum, vt patet ex 2. articulo prae 
-      <lb ed="#P" n="31"/>cedentis quaestionis, consequentiam probo; 
-      <lb ed="#P" n="32"/>nam ex voluntate copulante in nobis inferunt 
-      <lb ed="#P" n="33"/>copulationem praeuenire gignitionem
-      diui<lb ed="#P" n="34" break="no"/>ni verbi, si ergo ex ista parte accipitur
-      suf<lb ed="#P" n="35" break="no"/>ficiens causa, sequitur, quod sicut in nobis
-      il<lb ed="#P" n="36" break="no"/>le actus, qui praeuenitur, &amp; causatur a
-      vo<lb ed="#P" n="37" break="no"/>luntate copulante est liber, &amp; contingens 
-      <lb ed="#P" n="38"/>ita erit in Deo, quod non est dicendum. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e707">
-               <lb ed="#P" n="39"/>3 Illud, quod in nobis prouenit ex imper 
-      <lb ed="#P" n="40"/>fectione, &amp; defectu, non est in Deo ponendum; 
-      <lb ed="#P" n="41"/>sed copulatio, &amp; applicatio facta per volun 
-      <lb ed="#P" n="42"/>tatem prouenit in nobis ex imperfectione; 
-      <lb ed="#P" n="43"/>ergo &amp;c. Maior est nota, Minor probatur, 
-      <lb ed="#P" n="44"/>nam ideo in nobis voluntas praecedit
-      appli<lb ed="#P" n="45" break="no"/>cando, &amp; copulando, quia principia actuum 
-      <lb ed="#P" n="46"/>generationis non sunt ex natura rei copula 
-      <lb ed="#P" n="47"/>ta secundum actum, sed solum secundum 
-      <lb ed="#P" n="48"/>potentiam, nam si actu essent copulata,
-      fru<lb ed="#P" n="49" break="no"/>stra poneretur ibi aliquid copulans; &amp; ita ap 
-      <lb ed="#P" n="50"/>paret, quod hoc prouenit ex eo quod nostrae 
-      <lb ed="#P" n="51"/>potentiae non sunt coniunctae ex natura sua 
-      <lb ed="#P" n="52"/>actibus proprijs; nec possunt seipsas
-      coniun<lb ed="#P" n="53" break="no"/>gere, &amp; eis se applicare, quia nihil potest se 
-      <lb ed="#P" n="54"/>ipsum reducere de potentia ad actum:
-      Qua<lb ed="#P" n="55" break="no"/>propter indigent voluntate applicante, &amp;  
-      <lb ed="#P" n="56"/>coniungente, hoc autem in nobis dicit
-      im<lb ed="#P" n="57" break="no"/>perfectionem, &amp; defectum, ergo non est in 
-      <!--267.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 242 b -->
-               <lb ed="#P" n="58"/>Deo ponendum 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e759">
-               <lb ed="#P" n="59"/>Ad rationes eorum. Ad primam dicunt 
-      <lb ed="#P" n="60"/>quidam, quod voluntas, vt est pars imaginis,  
-      <lb ed="#P" n="61"/>non solum habet vim copulandi, sed etiam 
-      <lb ed="#P" n="62"/>actum diligendi respectu eiusdem obiecti, 
-      <lb ed="#P" n="63"/>super quod cadit actus memoriae, &amp;
-      intelli<lb ed="#P" n="64" break="no"/>gentiae, quae sunt duae aliae partes; &amp; hoc est 
-      <lb ed="#P" n="65"/>ad mentem Patris <ref xml:id="gsX5tY-d1e361-Rd1e776">Augustini xx. de Trinit.  
-        <lb ed="#P" n="66"/>cap. 8.</ref> Ideo licet non sit pars imaginis quan 
-      <lb ed="#P" n="67"/>tum ad actum copulandi, est tamen quantum 
-      <lb ed="#P" n="68"/>ad actum amandi¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e786">
-               <lb ed="#P" n="69"/>Haec responsio, quamuis dicat aliquam 
-      <lb ed="#P" n="70"/>veritatem, non tamen tollit difficultatem; 
-      <lb ed="#P" n="71"/>quia saltem habetur, quod voluntas non sit 
-      <lb ed="#P" n="72"/>pars imaginis quantum ad actum copulandi, 
-      <lb ed="#P" n="73"/>quod est expresse contra Patrem Augustinum 
-      <lb ed="#P" n="74"/>iupra attribuentem actum copulandi volun 
-      <lb ed="#P" n="75"/>tati, vt est pars imaginis; Ideo aliter, dico vo 
-      <lb ed="#P" n="76"/>luntatem esse partem imaginis etiam quantum 
-      <lb ed="#P" n="77"/>id actum copulandi, non quod actus
-      copu<lb ed="#P" n="78" break="no"/>landi praeueniat verbi productionem, sed  
-      <lb ed="#P" n="79"/>quia coexistit, vel subsequitur uerbum pro 
-      <lb ed="#P" n="80"/>ductum, quia talis coniuctio non solum per 
-      <lb ed="#P" n="81"/>voluntatem efficitur, sed etiam conseruatur,  
-      <lb ed="#P" n="82"/>&amp; hoc modo coexistit productioni, &amp; subse 
-      <lb ed="#P" n="83"/>quitur conseruando praefatam copulationem, 
-      <lb ed="#P" n="84"/>quo modo maxime tenet locum tertiae
-      par<lb ed="#P" n="85" break="no"/>tis imaginis correspondentis tertiae personae, 
-      <lb ed="#P" n="86"/>scilicet Spiritui Sancto, qui quamuis sit
-      ne<lb ed="#P" n="87" break="no"/>xus patris, non tamen praeuenit productionem 
-      <lb ed="#P" n="88"/>filij, sed magis eam subsequitur, secundum 
-      <lb ed="#P" n="89"/>nostrum modum intelligendi; Ad probatio 
-      <lb ed="#P" n="90"/>nem ergo cum dicunt, quod voluntas
-      ha<lb ed="#P" n="91" break="no"/>bet copulare, &amp; per consequens habet ratio; 
-      <lb ed="#P" n="92"/>nem principij in productione verbi, dico ve 
-      <lb ed="#P" n="93"/>rum esse, si haberet copulare praeueniendo. 
-      <lb ed="#P" n="94"/>vt est pars imaginis, nunc autem accidit
-      si<lb ed="#P" n="95" break="no"/>bi, vt pars imaginis est, quod praeueniat
-      pro<lb ed="#P" n="96" break="no"/>ductionem verbi; non enim competit illi com 
-      <lb ed="#P" n="97"/>pulare ratione imaginis, sed ex defectu, qui 
-      <lb ed="#P" n="98"/>est in altera parte, puta in verbo producto; 
-      <lb ed="#P" n="99"/>vel producendo, si enim in productione non 
-      <lb ed="#P" n="100"/>transiret de non esse ad esse, sed semper
-      es<lb ed="#P" n="101" break="no"/>set coniunctum suo producenti, non
-      indige<lb ed="#P" n="102" break="no"/>ret aliquo principio praeueniente
-      copulan<lb ed="#P" n="103" break="no"/>doi, talis autem defectus non potest poni 
-      <lb ed="#P" n="104"/>in Deo. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e867">
-               <lb ed="#P" n="105"/>Posset breuius dici, quod non est
-      quae<lb ed="#P" n="106" break="no"/>renda cotrespondentia inter imaginem, quae 
-      <lb ed="#P" n="107"/>est in Deo, &amp; in nobis quantum ad
-      essen<lb ed="#P" n="108" break="no"/>tialia, sed tantum quo ad notionalia; &amp; quia 
-      <lb ed="#P" n="109"/>voluntas est quid essentiale; ideo non
-      opor<lb ed="#P" n="110" break="no"/>tet, quod respondeat voluntati nostre, vt est 
-      <lb ed="#P" n="111"/>pars imaginis. 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e886">
-               <lb ed="#P" n="112"/>Ad secundam nego consequentiam: ad 
-      <lb ed="#P" n="113"/>probationem dico, quod non ex eo verbum 
-      <lb ed="#P" n="114"/>producitur sine amore, vel cum amore, quia 
-      <!--268.xml-->
-      <pb ed="#P" n="243"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>voluntas concurrat copulando, vel non con 
-      <lb ed="#P" n="2"/>i currat, sed sufficit quod producens sit amas,  
-      <lb ed="#P" n="3"/>&amp; intelligens, habeatque omnes perfectiones 
-      <lb ed="#P" n="4"/>essentiales; &amp; sic saluatur quod diuinum ver 
-      <lb ed="#P" n="5"/>bum producatur amore, hoc enim potest duo 
-      <lb ed="#P" n="6"/>bus modis euenire; vel quia amor sit princi 
-      <lb ed="#P" n="7"/>pium suae productionis, &amp; hoc non, vel quia 
-      <lb ed="#P" n="8"/>producens sit amans, &amp; intelligens, habeatque 
-      <lb ed="#P" n="9"/>omnes perfectiones requisitas, &amp; isto modo 
-      <lb ed="#P" n="10"/>Verbum producitur amore.
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e923">
-               <lb ed="#P" n="11"/>Ad tertiam dico, Coment. loqui de
-      genera<lb ed="#P" n="12" break="no"/>tione, protit est actio de genere actionis, du 
-      <lb ed="#P" n="13"/>bium est autem apud multos theologos, an 
-      <lb ed="#P" n="14"/>generatio diuina sit actio de tali genere.
-      Ite<lb ed="#P" n="15" break="no"/>rum deficit ratio; quia videtur velle, quod 
-      <lb ed="#P" n="16"/>generatio sit propter aliquid, tanquam
-      pro<lb ed="#P" n="17" break="no"/>pter finem, cum tamen in Deo nulla sit cau 
-      <lb ed="#P" n="18"/>sa respectu eorum, quae sunt ad finem; &amp; ter 
-      <lb ed="#P" n="19"/>tio deficit, quia dato quod in Deo esset actio 
-      <lb ed="#P" n="20"/>ad intra, propter finem, non tamen esset pro 
-      <lb ed="#P" n="21"/>pter fiuem consequendum, sed
-      conseruan<lb ed="#P" n="22" break="no"/>dum : Concludo ergo pro tota quaestione, 
-      <lb ed="#P" n="23"/>quod Pater non generat filium oluntate 
-      <lb ed="#P" n="24"/>tanquam principio, quamuis generet fi- 
-      <lb ed="#P" n="25"/>lium volens 
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e958">
-               <lb ed="#P" n="26"/>AD RATIONES, QVAE IN 
-      <lb ed="#P" n="27"/>principio.
-      <lb ed="#P" n="28"/>D primam dico, quod non sequitur,  
-      <lb ed="#P" n="29"/>Patrem generare filium nolentem; nam 
-      <lb ed="#P" n="30"/>ista duo sunt simul, scilicet, quod generet eum 
-      <lb ed="#P" n="31"/>volens, &amp; tamen non generet eum
-      volunta<lb ed="#P" n="32" break="no"/>te, tanquam principio elicitiuo.  
-    </p>
-            <p xml:id="gsX5tY-d1e361-d1e976">
-               <lb ed="#P" n="33"/>Ad secundam concessa maiore nego mi- 
-      <lb ed="#P" n="34"/>norem, quia non est verum, quod
-      compla<lb ed="#P" n="35" break="no"/>centia voluntatis sit principium
-      generatio<lb ed="#P" n="36" break="no"/>nis Verbi; nam quamuis possit habere
-      veri<lb ed="#P" n="37" break="no"/>tatem in nobis, sicut insinuat verbum Au 
-      <lb ed="#P" n="38"/>gustini allegatum, non tamen valet in Deo; 
-      <lb ed="#P" n="39"/>vbi productio verbi est naturalis, &amp;
-      neces<lb ed="#P" n="40" break="no"/>saria, quamuis ibi coexistat complacentia vo 
-      <lb ed="#P" n="41"/>luntatis, non in ratione principij, sed in
-      ra<lb ed="#P" n="42" break="no"/>tione complacentis, &amp; delectantis. Haec de 
-      <lb ed="#P" n="43"/>sexta distinctione. 
-      <lb ed="#P" n="44"/>uu¬ <!-- erroneous line ? -->
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="240"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e361"> <!-- l1d6q2 -->
+        <head xml:id="gsX5tY-d1e361-Hd1e109">Quaestio 2</head>
+        <head xml:id="gsX5tY-d1e361-Hd1e112" type="question-title">Utrum pater generet filium voluntate</head>
+        <p xml:id="gsX5tY-d1e361-d1e115">
+          <lb ed="#P" n="26"/>QVAESTIO SECVNDA 
+          <lb ed="#P" n="27"/>Vtrum pater generet filium voluntate. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e122">
+          <lb ed="#P" n="28"/>ARGVITVR AD PARTEM 
+          <lb ed="#P" n="29"/>affirmantem. 
+          <lb ed="#P" n="30"/>IIpater non generaret filium voluntate, 
+          <lb ed="#P" n="31"/>Asequeretur, quod generaret eum nolens; 
+          <lb ed="#P" n="32"/>consequens est falsum ergo &amp;c. Consequen 
+          <lb ed="#P" n="33"/>tia patet, quia sicut faciens aliquid
+          volun<lb ed="#P" n="34" break="no"/>tate, facit illud volens; ita per oppositum non 
+          <lb ed="#P" n="35"/>faciens voluntate, videtur facere nolens; Fal 
+          <lb ed="#P" n="36"/>sitatem probo, per Augustinum lib. 3. contra 
+          <lb ed="#P" n="37"/>Maximinum, vbi sic arguit: si pater non
+          ge<lb ed="#P" n="38" break="no"/>nuit filium sibi aequalem, aut noluit, aut 
+          <lb ed="#P" n="39"/>non potuit, si noluit, inuidus fuit, a
+          destru<lb ed="#P" n="40" break="no"/>ctione ergo consequentis, non fuit inuidus,  
+          <lb ed="#P" n="41"/>ergo voluit, &amp; sic genuit filium voluntate 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e156">
+          <lb ed="#P" n="42"/>2 Illud generatur voluntate, cuius gene 
+          <lb ed="#P" n="43"/>rationis principium est complacentia volun 
+          <lb ed="#P" n="44"/>tatis, sed principium generationis filij ess 
+          <lb ed="#P" n="45"/>huiusmodi; ergo. Maior est nota, &amp; Minos 
+          <lb ed="#P" n="46"/>probatur, quia per D. Augustinum filius eo 
+          <lb ed="#P" n="47"/>est Verbum, quo filius, &amp; sic eadem ratio est 
+          <lb ed="#P" n="48"/>de generatione verbi, &amp; Filij, sed
+          princi<lb ed="#P" n="49" break="no"/>pium generationis Verbi est complacentia 
+          <!--265.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 240 b -->
+          <lb ed="#P" n="50"/>voluntatis secundum eundem <ref xml:id="gsX5tY-d1e361-Rd1e184">9. de Trinit. 
+            <lb ed="#P" n="51"/>cap. 8.</ref> dicentem, <quote xml:id="gsX5tY-d1e361-Qd1e189" source="http://scta.info/resource/adt-l9-d1e1078" synch="107-112">nascitur Verbum cum 
+              ex<lb ed="#P" n="52" break="no"/>cogitatum placet</quote>, si ergo complacentia non  
+          <lb ed="#P" n="53"/>adesset, Verbum non nasceretur, quod qui 
+          <lb ed="#P" n="54"/>dem dictum non haberet veritatem, nisi
+          com<lb ed="#P" n="55" break="no"/>placentia voluntatis haberet aliquam
+          ratio<lb ed="#P" n="56" break="no"/>nem principij in generatione verbi, seu filij.
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e204">
+          <lb ed="#P" n="57"/>AD OPPOSITVM ARGVITVR 
+          <lb ed="#P" n="58"/>Ater generat filium naturali
+          necessita<lb ed="#P" n="59" break="no"/>te, ergo non voluntate, antecedens
+          pa<lb ed="#P" n="60" break="no"/>tet ex praecedente quaestione; consequentiam 
+          <lb ed="#P" n="61"/>probo, quia cum voluntas, &amp; natura sint op 
+          <lb ed="#P" n="62"/>posita principia non possunt principiare 
+          <lb ed="#P" n="63"/>idem productum 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e222">
+          <lb ed="#P" n="64"/>RESPONDEO: in hac quaestione 
+          <lb ed="#P" n="65"/>duo sunt videnda, quae tangunt argumenta 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e229">
+          <lb ed="#P" n="66"/>1 An Pater generet filium volens, 
+          <lb ed="#P" n="67"/>2 An voluntas concurrat ad generationem 
+          <lb ed="#P" n="68"/>silij in ratione principij, &amp; per hoc patebit 
+          <lb ed="#P" n="69"/>an generet filium voluntate, quod principa 
+          <lb ed="#P" n="70"/>liter quaeritur. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e242">
+          <lb ed="#P" n="71"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="72"/>An Pater generet Filium volens
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e249">
+          <lb ed="#P" n="73"/>Vic articulo responderent illi, qui
+          po<lb ed="#P" n="74" break="no"/>nunt actus notionales praecedere es- 
+          <lb ed="#P" n="75"/>sentiales, quod Pater non generat filium vo 
+          <lb ed="#P" n="76"/>lens, volitione praeuia actui generationis, sed 
+          <lb ed="#P" n="77"/>volitione concomitante, nam, cum volitio 
+          <lb ed="#P" n="78"/>sit actus essentialis (secundum eos) non
+          po<lb ed="#P" n="79" break="no"/>test esse praeuia generationi. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e268">
+          <lb ed="#P" n="80"/>Haec autem opinio fuit superius improba 
+          <lb ed="#P" n="81"/>ta, cuius error nunc magis apparet, quia non 
+          <lb ed="#P" n="82"/>otest bene saluare, quod pater generet fi- 
+          <lb ed="#P" n="83"/>sium volens, &amp; intelligens; videmus enim 
+          <lb ed="#P" n="84"/>manifeste, quod si fiant in nobis, vel a nobis 
+          <lb ed="#P" n="85"/>aliqua, quae praeueniant omnem actum intel 
+          <lb ed="#P" n="86"/>ligendi, &amp; volendi, non dicimur fecisse illa  
+          <lb ed="#P" n="87"/>volentes, &amp; intelligentes; nec ea dicuntur 
+          <lb ed="#P" n="88"/>facta nobis volentibus, &amp; intelligentibus, 
+          <lb ed="#P" n="89"/>quia siue velimus, &amp; intelligamus, siue non, 
+          <lb ed="#P" n="90"/>illa facta sunt, propter quod talis locutio es 
+          <lb ed="#P" n="91"/>set omnino abusiua, oportet ergo quod cum 
+          <lb ed="#P" n="92"/>quis facit aliquid volens, &amp; intelligens, vel 
+          <lb ed="#P" n="93"/>quod velle, &amp; intelligere sint principium 
+          <lb ed="#P" n="94"/>eius, quod fit, vel saltem sint simul cum prin 
+          <lb ed="#P" n="95"/>cipio; &amp; ideo alia opinio, quae ponebat omia 
+          <lb ed="#P" n="96"/>essentialia in Patre praecedere actum
+          gene<lb ed="#P" n="97" break="no"/>randi, optime saluat istud, sed incidit in alia  
+          <lb ed="#P" n="98"/>inconuenientia, vt patuit superius, &amp; ideo vi 
+          <lb ed="#P" n="99"/>detur aliter esse dicendum. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e314">
+          <lb ed="#P" n="100"/>Respondeo ergo breuiter, quod Pater ge 
+          <!--266.xml-->
+          <pb ed="#P" n="241"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nerat filium volens, &amp; intelligens; hoc enim 
+          <lb ed="#P" n="2"/>multae auctoritates Sanctorum, &amp; Doctorum 
+          <lb ed="#P" n="3"/>affirmant, vnde Riccardus . de Trinitate 
+          <lb ed="#P" n="4"/>cap. 8. ait, ingenitum velle de se habere con 
+          <lb ed="#P" n="5"/>formem, atque condignum, idem mihi
+          vide<lb ed="#P" n="6" break="no"/>tur, quod gignere filium, &amp; argumentum 
+          <lb ed="#P" n="7"/>Augustini superius inductum contra Maxi 
+          <lb ed="#P" n="8"/>minum hoc idem manifestat; Ideo dicendum 
+          <lb ed="#P" n="9"/>est, sicut tangit Magister in littera, quod
+          pa<lb ed="#P" n="10" break="no"/>ter generat filium volens, &amp; intelligens,
+          bo<lb ed="#P" n="11" break="no"/>nus, &amp; sapiens, &amp; cum omnibus
+          perfectioni<lb ed="#P" n="12" break="no"/>bus essentialibus existens; &amp; notanter dico 
+          <lb ed="#P" n="13"/>existens, &amp; non praeexistens propter
+          opinio<lb ed="#P" n="14" break="no"/>nem superius reiectam, non dico tamen, quod 
+          <lb ed="#P" n="15"/>generet filium volens, quasi in aliquo signo 
+          <lb ed="#P" n="16"/>priori sit sub actu intelligendi, &amp; volendi, &amp;  
+          <lb ed="#P" n="17"/>consequenter generet, sicuti imaginatur prae 
+          <lb ed="#P" n="18"/>fata opinio, sed quia simul, &amp; in eodem signo 
+          <lb ed="#P" n="19"/>vult, &amp; generat, sicut dicebatur superius quod 
+          <lb ed="#P" n="20"/>generat intelligendo, &amp; intelligit generando, 
+          <lb ed="#P" n="21"/>ita in proposito generat volendo, &amp; vult ge 
+          <lb ed="#P" n="22"/>nerando; &amp; hoc videtur intelligere
+          Riccar<lb ed="#P" n="23" break="no"/>dus in praefata auctoritate, quasi dicat Patre 
+          <lb ed="#P" n="24"/>habere filium, idem est, quod ipsum
+          genera<lb ed="#P" n="25" break="no"/>re, vnde inconueniens esset, quod pater in 
+          <lb ed="#P" n="26"/>aliquo priori signo gigneret filium, &amp;
+          conse<lb ed="#P" n="27" break="no"/>quenter vellet, &amp; placeret sibi in filio
+          gene<lb ed="#P" n="28" break="no"/>rato, vel e conuerso prius complaceret sibi
+          in<lb ed="#P" n="29" break="no"/>filio generando, &amp; idem intendebat P. Aug.¬ 
+          <lb ed="#P" n="30"/>in praecedente quaestione citatus dicens,
+          Pa<lb ed="#P" n="31" break="no"/>ter demonstrando filium genuit filium: Con 
+          <lb ed="#P" n="32"/>cludo ergo, quod pater cum omnibus perf 
+          <lb ed="#P" n="33"/>ctionibus essentialibus existens, &amp; non
+          prae<lb ed="#P" n="34" break="no"/>existens genuit filium eo modo, quo
+          decla<lb ed="#P" n="35" break="no"/>ratum est. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e401">
+          <lb ed="#P" n="36"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="37"/>Vtrum pater sic generet filium volens, 
+          <lb ed="#P" n="38"/>quod, voluntas concurrat ad
+          ge<lb ed="#P" n="39" break="no"/>nerationem ipsius in
+          ratio<lb ed="#P" n="40" break="no"/>ne principij
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e414">
+          <lb ed="#P" n="41"/>AD hunc articulum Respondeo, volun 
+          <lb ed="#P" n="42"/>tatem concurrere ad generationem 
+          fi<lb ed="#P" n="43" break="no"/>lij in ratione principij posse itelligi quatuor 
+          <lb ed="#P" n="44"/>modis; primo modo de nouo accedendo,
+          si<lb ed="#P" n="45" break="no"/>cut imaginabatur Euomius, cuius errorem 
+          <lb ed="#P" n="46"/>n recitat <ref xml:id="gsX5tY-d1e361-Rd1e429" corresp="#gsX5tY-d1e361-Qd1e434">beatus P. Aug. 15. de Trin. cap 2.</ref> vbi 
+          <lb ed="#P" n="47"/>ait, quod <quote xml:id="gsX5tY-d1e361-Qd1e434" source="http://scta.info/resource/adt-l15-d1e1915@14-61"><!-- boundaries of quote fuzzy -->cum iste non posset, nec vellet
+            in<lb ed="#P" n="48" break="no"/>telligere vnigenitum Dei verbum esse filium 
+            <lb ed="#P" n="49"/>natura, putans, quod esset filius nature, ve 
+            <lb ed="#P" n="50"/>substantiae idest essentiae, dixit esse filium vo 
+            <lb ed="#P" n="51"/>luntatis, voluntate scilicet accedente, sicut cum 
+            <lb ed="#P" n="52"/>nos aliquid volumus</quote>, quem reicit idem Aug 
+          <lb ed="#P" n="53"/>quia sicut diuinum consilium est aeternum, 
+          <!--266.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 241 b -->
+          <lb ed="#P" n="54"/>&amp; immutabile; ita eius voluntas est aeterna, 
+          <lb ed="#P" n="55"/>&amp; immutabilis, &amp; sic non potest de nouo 
+          <lb ed="#P" n="56"/>Deo accidere. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e464">
+          <lb ed="#P" n="57"/>Secundo, potest voluntas concurrere in 
+          ra<lb ed="#P" n="58" break="no"/>tione principij contigentis, prout concurrit 
+          <lb ed="#P" n="59"/>ad productionem creaturarum, &amp; hoc modo 
+          <lb ed="#P" n="60"/>non concurrit ad generationem filij, qui
+          ge<lb ed="#P" n="61" break="no"/>neratur naturali necessitate, vt ostensum est. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e477">
+          <lb ed="#P" n="62"/>Tertio, potest intelligi, quod concurrat in 
+          <lb ed="#P" n="63"/>ratione principij distincti ab intellectu, &amp; 
+          na<lb ed="#P" n="64" break="no"/>tura, vt putant aliqui de voluntate respectu 
+          <lb ed="#P" n="65"/>Spiritus Sancti, hanc acceptionem modo non 
+          <lb ed="#P" n="66"/>pertracto, quia habebit locum infra, dum
+          a<lb ed="#P" n="67" break="no"/>gam de distinctione emanationum 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e494">
+          <lb ed="#P" n="68"/>Quarto, potest intelligi, quod voluntas con 
+          <lb ed="#P" n="69"/>currat in ratione principij applicantis vim 
+          <lb ed="#P" n="70"/>generatiuam ad actum generationis, &amp;
+          iux<lb ed="#P" n="71" break="no"/>ta hunc sensum respondent quidam oporte 
+          <lb ed="#P" n="72"/>re concedere, quod voluntas concurrat in 
+          <lb ed="#P" n="73"/>generatione filij copulando principia
+          ge<lb ed="#P" n="74" break="no"/>nerationis adinuicem, scilicet memoriam
+          pa<lb ed="#P" n="75" break="no"/>ternam cum actione intellectus, quibus
+          co<lb ed="#P" n="76" break="no"/>pulatis generatur notitia, quae est verbum; 
+          <lb ed="#P" n="77"/>imaginantur namqe isti, vim generatiuam in 
+          <lb ed="#P" n="78"/>diuinis esse ipsam memoriam paternam per 
+          <lb ed="#P" n="79"/>actualem notitiam informatam, cuius
+          infor<lb ed="#P" n="80" break="no"/>matio fit per voluntatem copulantem ipsam  
+          <lb ed="#P" n="81"/>memoriam cum actione intellectus, qua
+          for<lb ed="#P" n="82" break="no"/>mata: eadem voluntas applicat eam ad actu 
+          <lb ed="#P" n="83"/>gignendi verbum. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e531">
+          <lb ed="#P" n="84"/>Rationes pro hac opinione apparentiam  
+          <lb ed="#P" n="85"/>continentes sunt huiusmodi 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e538">
+          <lb ed="#P" n="86"/>1 Si voluntas in generatione diuini verbi 
+          <lb ed="#P" n="87"/>non haberet rationem principij copulantis,  
+          <lb ed="#P" n="88"/>&amp; applicantis sequeretur, quod in
+          genera<lb ed="#P" n="89" break="no"/>tione verbi nostri voluntas non esset pars ima 
+          <lb ed="#P" n="90"/>ginis, consequens est falsum, &amp; contra
+          Aug<lb ed="#P" n="91" break="no"/>vbicuque loquitur de imagine, semper enim 
+          <lb ed="#P" n="92"/>voluntatem ponit tertiam partem imaginis; 
+          <lb ed="#P" n="93"/>Consequentia probatur per eudem, qui sem 
+          <lb ed="#P" n="94"/>er videtur attribuere voluntati vim
+          copu<lb ed="#P" n="95" break="no"/>landi, &amp; connectendi, inquantum est pars 
+          <lb ed="#P" n="96"/>imaginis, vnde ij. de Trinit cap 8 dicit, <quote xml:id="gsX5tY-d1e361-Qd1e564" source="http://scta.info/resource/adt-l11-d1e1257" synch="298-334">tot 
+            <lb ed="#P" n="97"/>igitur sunt huius generis trinitates, quot
+            re<lb ed="#P" n="98" break="no"/>cordationes, quia nulla earum est, in qua non 
+            <lb ed="#P" n="99"/>sit haec tria, scilicet quod memoria recolitur,  
+            <lb ed="#P" n="100"/>quod fit in cogitatione, cum cernitur cogita 
+            <lb ed="#P" n="101"/>tum, &amp; voluntas vtrumque coniungens</quote>, &amp;c
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e578">
+          <lb ed="#P" n="102"/>2 Si voluntas non haberet rationem prin 
+          <lb ed="#P" n="103"/>cipij copulantis in generatione Diuini
+          ver<lb ed="#P" n="104" break="no"/>bi, sequeretur quod verbum non concipere 
+          <lb ed="#P" n="105"/>tur, nec produceretur amore, consequens est 
+          <lb ed="#P" n="106"/>falsum; ergo &amp;c Consequentia est nota, quia 
+          <lb ed="#P" n="107"/>ideo Verbum nostrun amore producitur,  
+          <lb ed="#P" n="108"/>quia voluntas concurrit ad ipsius productio 
+          <lb ed="#P" n="109"/>nem modo praedicio; ita in proposito
+          dicen<lb ed="#P" n="110" break="no"/>dum est de diuino verbo, cuius imaginem gerit 
+          <!--267.xml-->
+          <pb ed="#P" n="242"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>verbum nostrum: Falsitas consequentis
+          pro<lb ed="#P" n="2" break="no"/>batur per <ref xml:id="gsX5tY-d1e361-Rd1e610">August. 8. de Trinit. cap. 7.</ref>
+          dicen<lb ed="#P" n="3" break="no"/>tem, <quote xml:id="gsX5tY-d1e361-Qd1e615" source="http://scta.info/resource/adt-l9-d1e1074" synch="114-142">nemo aliquid volens facit, quod non in 
+            <lb ed="#P" n="4"/>corde suo prius dixerit, quod quidem
+            ver<lb ed="#P" n="5" break="no"/>bum amore concipitur, siue creaturae, siue 
+            <lb ed="#P" n="6"/>creatoris, idest siue in natura mutabili, siue 
+            <lb ed="#P" n="7"/>in immutabili</quote>; vult ergo, quod hoc sit
+          com<lb ed="#P" n="8" break="no"/>mune verbo diuino, &amp; verbo nostro. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e630">
+          <lb ed="#P" n="9"/>3 Vlterius arguitur per Com. 2.
+          physico<lb ed="#P" n="10" break="no"/>rum com. 40. vbi dicit, actiones, quae sunt pr 
+          <lb ed="#P" n="11"/>pter aliud, esse a cognitione, &amp; voluntate; 
+          <lb ed="#P" n="12"/>quo supposito arguo, generatio filij in diui 
+          <lb ed="#P" n="13"/>nis est propter aliud, alioquin esset frustra, 
+          <lb ed="#P" n="14"/>&amp; otiosa, ergo fit a cognitione, &amp; voluntate¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e646">
+          <lb ed="#P" n="15"/>Haec opinio nec alijs, nec mihi placet, &amp; 
+          <lb ed="#P" n="16"/>contra eam arguo tripliciter. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e654">
+          <lb ed="#P" n="17"/>1 Si voluntas principiaret generationem 
+          <lb ed="#P" n="18"/>verbi praedicto modo, sequeretur quod in 
+          <lb ed="#P" n="19"/>Patre actus volendi esset praeuius actui gene 
+          <lb ed="#P" n="20"/>randi, quod est falsum, quia tunc Pater prius 
+          <lb ed="#P" n="21"/>eliceret actum volendi, quam actum
+          gene<lb ed="#P" n="22" break="no"/>randi, cuius contrarium superius est
+          osten<lb ed="#P" n="23" break="no"/>sum, Consequentia patet, quia secundum eos,  
+          <lb ed="#P" n="24"/>copulatio est praeuia actui generationis; ergo 
+          <lb ed="#P" n="25"/>&amp; actus volendi est prior, per quem fit
+          ta<lb ed="#P" n="26" break="no"/>lis copulatio. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e678">
+          <lb ed="#P" n="27"/>2 Si actus gignendi verbum in diuinis 
+          <lb ed="#P" n="28"/>dependeret a voluntate copulante,
+          sequere<lb ed="#P" n="29" break="no"/>tur, quod ille actus esset liber, &amp; contingens,  
+          <lb ed="#P" n="30"/>quod est falsum, vt patet ex 2. articulo prae 
+          <lb ed="#P" n="31"/>cedentis quaestionis, consequentiam probo; 
+          <lb ed="#P" n="32"/>nam ex voluntate copulante in nobis inferunt 
+          <lb ed="#P" n="33"/>copulationem praeuenire gignitionem
+          diui<lb ed="#P" n="34" break="no"/>ni verbi, si ergo ex ista parte accipitur
+          suf<lb ed="#P" n="35" break="no"/>ficiens causa, sequitur, quod sicut in nobis
+          il<lb ed="#P" n="36" break="no"/>le actus, qui praeuenitur, &amp; causatur a
+          vo<lb ed="#P" n="37" break="no"/>luntate copulante est liber, &amp; contingens 
+          <lb ed="#P" n="38"/>ita erit in Deo, quod non est dicendum. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e707">
+          <lb ed="#P" n="39"/>3 Illud, quod in nobis prouenit ex imper 
+          <lb ed="#P" n="40"/>fectione, &amp; defectu, non est in Deo ponendum; 
+          <lb ed="#P" n="41"/>sed copulatio, &amp; applicatio facta per volun 
+          <lb ed="#P" n="42"/>tatem prouenit in nobis ex imperfectione; 
+          <lb ed="#P" n="43"/>ergo &amp;c. Maior est nota, Minor probatur, 
+          <lb ed="#P" n="44"/>nam ideo in nobis voluntas praecedit
+          appli<lb ed="#P" n="45" break="no"/>cando, &amp; copulando, quia principia actuum 
+          <lb ed="#P" n="46"/>generationis non sunt ex natura rei copula 
+          <lb ed="#P" n="47"/>ta secundum actum, sed solum secundum 
+          <lb ed="#P" n="48"/>potentiam, nam si actu essent copulata,
+          fru<lb ed="#P" n="49" break="no"/>stra poneretur ibi aliquid copulans; &amp; ita ap 
+          <lb ed="#P" n="50"/>paret, quod hoc prouenit ex eo quod nostrae 
+          <lb ed="#P" n="51"/>potentiae non sunt coniunctae ex natura sua 
+          <lb ed="#P" n="52"/>actibus proprijs; nec possunt seipsas
+          coniun<lb ed="#P" n="53" break="no"/>gere, &amp; eis se applicare, quia nihil potest se 
+          <lb ed="#P" n="54"/>ipsum reducere de potentia ad actum:
+          Qua<lb ed="#P" n="55" break="no"/>propter indigent voluntate applicante, &amp;  
+          <lb ed="#P" n="56"/>coniungente, hoc autem in nobis dicit
+          im<lb ed="#P" n="57" break="no"/>perfectionem, &amp; defectum, ergo non est in 
+          <!--267.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 242 b -->
+          <lb ed="#P" n="58"/>Deo ponendum 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e759">
+          <lb ed="#P" n="59"/>Ad rationes eorum. Ad primam dicunt 
+          <lb ed="#P" n="60"/>quidam, quod voluntas, vt est pars imaginis,  
+          <lb ed="#P" n="61"/>non solum habet vim copulandi, sed etiam 
+          <lb ed="#P" n="62"/>actum diligendi respectu eiusdem obiecti, 
+          <lb ed="#P" n="63"/>super quod cadit actus memoriae, &amp;
+          intelli<lb ed="#P" n="64" break="no"/>gentiae, quae sunt duae aliae partes; &amp; hoc est 
+          <lb ed="#P" n="65"/>ad mentem Patris <ref xml:id="gsX5tY-d1e361-Rd1e776">Augustini xx. de Trinit.  
+            <lb ed="#P" n="66"/>cap. 8.</ref> Ideo licet non sit pars imaginis quan 
+          <lb ed="#P" n="67"/>tum ad actum copulandi, est tamen quantum 
+          <lb ed="#P" n="68"/>ad actum amandi¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e786">
+          <lb ed="#P" n="69"/>Haec responsio, quamuis dicat aliquam 
+          <lb ed="#P" n="70"/>veritatem, non tamen tollit difficultatem; 
+          <lb ed="#P" n="71"/>quia saltem habetur, quod voluntas non sit 
+          <lb ed="#P" n="72"/>pars imaginis quantum ad actum copulandi, 
+          <lb ed="#P" n="73"/>quod est expresse contra Patrem Augustinum 
+          <lb ed="#P" n="74"/>iupra attribuentem actum copulandi volun 
+          <lb ed="#P" n="75"/>tati, vt est pars imaginis; Ideo aliter, dico vo 
+          <lb ed="#P" n="76"/>luntatem esse partem imaginis etiam quantum 
+          <lb ed="#P" n="77"/>id actum copulandi, non quod actus
+          copu<lb ed="#P" n="78" break="no"/>landi praeueniat verbi productionem, sed  
+          <lb ed="#P" n="79"/>quia coexistit, vel subsequitur uerbum pro 
+          <lb ed="#P" n="80"/>ductum, quia talis coniuctio non solum per 
+          <lb ed="#P" n="81"/>voluntatem efficitur, sed etiam conseruatur,  
+          <lb ed="#P" n="82"/>&amp; hoc modo coexistit productioni, &amp; subse 
+          <lb ed="#P" n="83"/>quitur conseruando praefatam copulationem, 
+          <lb ed="#P" n="84"/>quo modo maxime tenet locum tertiae
+          par<lb ed="#P" n="85" break="no"/>tis imaginis correspondentis tertiae personae, 
+          <lb ed="#P" n="86"/>scilicet Spiritui Sancto, qui quamuis sit
+          ne<lb ed="#P" n="87" break="no"/>xus patris, non tamen praeuenit productionem 
+          <lb ed="#P" n="88"/>filij, sed magis eam subsequitur, secundum 
+          <lb ed="#P" n="89"/>nostrum modum intelligendi; Ad probatio 
+          <lb ed="#P" n="90"/>nem ergo cum dicunt, quod voluntas
+          ha<lb ed="#P" n="91" break="no"/>bet copulare, &amp; per consequens habet ratio; 
+          <lb ed="#P" n="92"/>nem principij in productione verbi, dico ve 
+          <lb ed="#P" n="93"/>rum esse, si haberet copulare praeueniendo. 
+          <lb ed="#P" n="94"/>vt est pars imaginis, nunc autem accidit
+          si<lb ed="#P" n="95" break="no"/>bi, vt pars imaginis est, quod praeueniat
+          pro<lb ed="#P" n="96" break="no"/>ductionem verbi; non enim competit illi com 
+          <lb ed="#P" n="97"/>pulare ratione imaginis, sed ex defectu, qui 
+          <lb ed="#P" n="98"/>est in altera parte, puta in verbo producto; 
+          <lb ed="#P" n="99"/>vel producendo, si enim in productione non 
+          <lb ed="#P" n="100"/>transiret de non esse ad esse, sed semper
+          es<lb ed="#P" n="101" break="no"/>set coniunctum suo producenti, non
+          indige<lb ed="#P" n="102" break="no"/>ret aliquo principio praeueniente
+          copulan<lb ed="#P" n="103" break="no"/>doi, talis autem defectus non potest poni 
+          <lb ed="#P" n="104"/>in Deo. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e867">
+          <lb ed="#P" n="105"/>Posset breuius dici, quod non est
+          quae<lb ed="#P" n="106" break="no"/>renda cotrespondentia inter imaginem, quae 
+          <lb ed="#P" n="107"/>est in Deo, &amp; in nobis quantum ad
+          essen<lb ed="#P" n="108" break="no"/>tialia, sed tantum quo ad notionalia; &amp; quia 
+          <lb ed="#P" n="109"/>voluntas est quid essentiale; ideo non
+          opor<lb ed="#P" n="110" break="no"/>tet, quod respondeat voluntati nostre, vt est 
+          <lb ed="#P" n="111"/>pars imaginis. 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e886">
+          <lb ed="#P" n="112"/>Ad secundam nego consequentiam: ad 
+          <lb ed="#P" n="113"/>probationem dico, quod non ex eo verbum 
+          <lb ed="#P" n="114"/>producitur sine amore, vel cum amore, quia 
+          <!--268.xml-->
+          <pb ed="#P" n="243"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>voluntas concurrat copulando, vel non con 
+          <lb ed="#P" n="2"/>i currat, sed sufficit quod producens sit amas,  
+          <lb ed="#P" n="3"/>&amp; intelligens, habeatque omnes perfectiones 
+          <lb ed="#P" n="4"/>essentiales; &amp; sic saluatur quod diuinum ver 
+          <lb ed="#P" n="5"/>bum producatur amore, hoc enim potest duo 
+          <lb ed="#P" n="6"/>bus modis euenire; vel quia amor sit princi 
+          <lb ed="#P" n="7"/>pium suae productionis, &amp; hoc non, vel quia 
+          <lb ed="#P" n="8"/>producens sit amans, &amp; intelligens, habeatque 
+          <lb ed="#P" n="9"/>omnes perfectiones requisitas, &amp; isto modo 
+          <lb ed="#P" n="10"/>Verbum producitur amore.
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e923">
+          <lb ed="#P" n="11"/>Ad tertiam dico, Coment. loqui de
+          genera<lb ed="#P" n="12" break="no"/>tione, protit est actio de genere actionis, du 
+          <lb ed="#P" n="13"/>bium est autem apud multos theologos, an 
+          <lb ed="#P" n="14"/>generatio diuina sit actio de tali genere.
+          Ite<lb ed="#P" n="15" break="no"/>rum deficit ratio; quia videtur velle, quod 
+          <lb ed="#P" n="16"/>generatio sit propter aliquid, tanquam
+          pro<lb ed="#P" n="17" break="no"/>pter finem, cum tamen in Deo nulla sit cau 
+          <lb ed="#P" n="18"/>sa respectu eorum, quae sunt ad finem; &amp; ter 
+          <lb ed="#P" n="19"/>tio deficit, quia dato quod in Deo esset actio 
+          <lb ed="#P" n="20"/>ad intra, propter finem, non tamen esset pro 
+          <lb ed="#P" n="21"/>pter fiuem consequendum, sed
+          conseruan<lb ed="#P" n="22" break="no"/>dum : Concludo ergo pro tota quaestione, 
+          <lb ed="#P" n="23"/>quod Pater non generat filium oluntate 
+          <lb ed="#P" n="24"/>tanquam principio, quamuis generet fi- 
+          <lb ed="#P" n="25"/>lium volens 
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e958">
+          <lb ed="#P" n="26"/>AD RATIONES, QVAE IN 
+          <lb ed="#P" n="27"/>principio.
+          <lb ed="#P" n="28"/>D primam dico, quod non sequitur,  
+          <lb ed="#P" n="29"/>Patrem generare filium nolentem; nam 
+          <lb ed="#P" n="30"/>ista duo sunt simul, scilicet, quod generet eum 
+          <lb ed="#P" n="31"/>volens, &amp; tamen non generet eum
+          volunta<lb ed="#P" n="32" break="no"/>te, tanquam principio elicitiuo.  
+        </p>
+        <p xml:id="gsX5tY-d1e361-d1e976">
+          <lb ed="#P" n="33"/>Ad secundam concessa maiore nego mi- 
+          <lb ed="#P" n="34"/>norem, quia non est verum, quod
+          compla<lb ed="#P" n="35" break="no"/>centia voluntatis sit principium
+          generatio<lb ed="#P" n="36" break="no"/>nis Verbi; nam quamuis possit habere
+          veri<lb ed="#P" n="37" break="no"/>tatem in nobis, sicut insinuat verbum Au 
+          <lb ed="#P" n="38"/>gustini allegatum, non tamen valet in Deo; 
+          <lb ed="#P" n="39"/>vbi productio verbi est naturalis, &amp;
+          neces<lb ed="#P" n="40" break="no"/>saria, quamuis ibi coexistat complacentia vo 
+          <lb ed="#P" n="41"/>luntatis, non in ratione principij, sed in
+          ra<lb ed="#P" n="42" break="no"/>tione complacentis, &amp; delectantis. Haec de 
+          <lb ed="#P" n="43"/>sexta distinctione. 
+          <lb ed="#P" n="44"/>uu¬ <!-- erroneous line ? -->
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

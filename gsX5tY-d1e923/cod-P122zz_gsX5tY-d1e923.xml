@@ -1,641 +1,641 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 3</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 3</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="555"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e923"> <!-- l1d33q3 -->
-            <head xml:id="gsX5tY-d1e923-Hd1e109">Quaestio 3</head>
-            <head xml:id="gsX5tY-d1e923-Hd1e112" type="question-title">Utrum proprietates relativae sint idem quod origines.</head>
-            <p xml:id="gsX5tY-d1e923-d1e115">
-               <lb ed="#P" n="102"/>QVAESTIO TERTIA 
-      <lb ed="#P" n="103"/>Vtrum proprietates relatiuae fint idem 
-      <lb ed="#P" n="104"/>quod origines 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e124">
-               <lb ed="#P" n="105"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="106"/>negatiua. 
-      <lb ed="#P" n="107"/>SVm dictae proprietates sint
-      relatio<lb ed="#P" n="108" break="no"/>nes originis (vt patet ex dictis in 4. 
-      <lb ed="#P" n="109"/>dist.) necessario supponunt origines, tanquam 
-      <lb ed="#P" n="110"/>derelictae ex eis, &amp; per consequens non vi¬ 
-      <!--581.xml-->
-      <pb ed="#P" n="556"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>dentur esse idem, quod ipsae¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e149">
-               <lb ed="#P" n="2"/>2 Si essent idem quod origines, tunc non 
-      <lb ed="#P" n="3"/>constituerent personas inquantum
-      proprie<lb ed="#P" n="4" break="no"/>tates relatiuae, sed magis inquatum origines.  
-      <lb ed="#P" n="5"/>euius oppositum patet ex dictis in 20. dist. 
-      <lb ed="#P" n="6"/>Consequentiam probo, quia persona prius 
-      <lb ed="#P" n="7"/>intelligitur sub origine, &amp; per consequens si 
-      <lb ed="#P" n="8"/>eadem res importatur per originem, &amp;
-      pro<lb ed="#P" n="9" break="no"/>prietatem relatiuam, illa res prius, &amp; magis 
-      <lb ed="#P" n="10"/>constituet personam inquantum origo, quam  
-      <lb ed="#P" n="11"/>inquantum proprietas relatiua
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e173">
-               <lb ed="#P" n="12"/>3 Si hoc esset, personae possent intelligi 
-      <lb ed="#P" n="13"/>constitutae abstractis proprietatibus relatiuis 
-      <lb ed="#P" n="14"/>per intellectum, quod videtur esse falsum, eo 
-      <lb ed="#P" n="15"/>quod nulla res potest intelligi constituta sine 
-      <lb ed="#P" n="16"/>suo principio constitutiuo : Consequentiam  
-      <lb ed="#P" n="17"/>probo: Nam quia origines videntur
-      praece<lb ed="#P" n="18" break="no"/>dere proprietates relatiuas videntur etiam  
-      <lb ed="#P" n="19"/>posse intelligi illis circumscriptis per
-      intel<lb ed="#P" n="20" break="no"/>iectum : &amp; per consequens etiam quaelibet 
-      <lb ed="#P" n="21"/>persona videtur posse intelligi sub origine 
-      <lb ed="#P" n="22"/>constituta, antequam habeat proprietatem 
-      <lb ed="#P" n="23"/>rela iuam. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e202">
-               <lb ed="#P" n="24"/>ARVITVR PRO PARTE 
-      <lb ed="#P" n="25"/>affirmatiua. 
-      <lb ed="#P" n="26"/>ISIIproprietates relatiuae non essent idem 
-      <lb ed="#P" n="27"/>quod origines, non essent idem quod 
-      <lb ed="#P" n="28"/>essentia, cuius oppositum patet ex dictis;
-      su<lb ed="#P" n="29" break="no"/>prai Consequentiam probo, quia proprietas 
-      <lb ed="#P" n="30"/>rel viua, cum sequatur ad originem, non
-      vi<lb ed="#P" n="31" break="no"/>detur fundati in essentia nisi mediante
-      ori<lb ed="#P" n="32" break="no"/>gine. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e224">
-               <lb ed="#P" n="33"/>RESPONDEO: In ista quaestione tria 
-      <lb ed="#P" n="34"/>sunt vidend. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e231">
-               <lb ed="#P" n="35"/>An propri:ates relatiuae sint idem, quod 
-      <lb ed="#P" n="36"/>ipsae origines. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e238">
-               <lb ed="#P" n="37"/>2 An constituant porsonas inquantum
-      ori<lb ed="#P" n="38" break="no"/>gines, vel inquantum proprietates relatiuae. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e246">
-               <lb ed="#P" n="39"/>3 An eis abstractis por intellectum,
-      rema<lb ed="#P" n="40" break="no"/>neant personae constitutae. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e253">
-               <lb ed="#P" n="41"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="42"/>An proprietates relatiuae sint idem quod 
-      <lb ed="#P" n="43"/>ipsae origines.
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e262">
-               <lb ed="#P" n="44"/>Vic articulo respondent quidam, quod 
-      <lb ed="#P" n="45"/>non solum in diuinis, sed etiam in
-      crea<lb ed="#P" n="46" break="no"/>turis relationes de secundo modo fundatae 
-      <lb ed="#P" n="47"/>super actionem, &amp; passionem siue super
-      ori<lb ed="#P" n="48" break="no"/>ginem actiue, &amp; passiue sumptam non sunt aliud 
-      <lb ed="#P" n="49"/>realiter, quam ipsamet origo actiue, vel
-      pas<lb ed="#P" n="50" break="no"/>siue sumpta, quamuis differant secundum ra 
-      <lb ed="#P" n="51"/>tionem propter diuersum modum significan 
-      <lb ed="#P" n="52"/>di, &amp; concipiendi. Nam vna, &amp; eadem res,  
-      <lb ed="#P" n="53"/>prout significatur verbaliter per modum flu 
-      <lb ed="#P" n="54"/>xus, &amp; fieri, pertinet ad predicamentum actio¬ 
-      <!--581.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 556 b -->
-               <lb ed="#P" n="55"/>nis, vel palsionis (secundum eos) prout vero 
-      <lb ed="#P" n="56"/>significatur nominaliter per modum habitus 
-      <lb ed="#P" n="57"/>quiescentis, potest pertinere ad aliud
-      praedi<lb ed="#P" n="58" break="no"/>camentum, quodcunque sit illud. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e303">
-               <lb ed="#P" n="59"/>Addunt tamen, quod ista significatio quam 
-      <lb ed="#P" n="60"/>doque est propria, quandoque impropria; 
-      <lb ed="#P" n="61"/>Nam quando res significata est talis, quod 
-      <lb ed="#P" n="62"/>suum esse consistit in fieri, &amp; in fluxu, tunc 
-      <lb ed="#P" n="63"/>proprie significatur per verbum in modum 
-      <lb ed="#P" n="64"/>habitus fluentis; improprie vero significatur 
-      <lb ed="#P" n="65"/>per nomen, inquantum inducit modum
-      al<lb ed="#P" n="66" break="no"/>terius praedicamenti. Cum vero res
-      signifi<lb ed="#P" n="67" break="no"/>cata est talis, quod suum esse consistit in quiete, 
-      <lb ed="#P" n="68"/>tunc proprie significatur per nomen in
-      mo<lb ed="#P" n="69" break="no"/>dum habitus quiescentis, improprie vero per 
-      <lb ed="#P" n="70"/>verbum, quia non nisi inquantum induit 
-      <lb ed="#P" n="71"/>modum predicamenti actionis, vel passionis,  
-      <lb ed="#P" n="72"/>quorum esse consistit proprie in fieri, &amp; fuxu¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e336">
-               <lb ed="#P" n="73"/>Ad propositum ergo descendendo dicunt,  
-      <lb ed="#P" n="74"/>quod illa realitas, quae mediat inter
-      produ<lb ed="#P" n="75" break="no"/>cens, &amp; productum per modum cuiusdam
-      in<lb ed="#P" n="76" break="no"/>terualli, pertinet per se, &amp; directe ad
-      praedi<lb ed="#P" n="77" break="no"/>camentum actionis, &amp; passionis, tum quia per 
-      <lb ed="#P" n="78"/>eam producens attingit actiue productum 
-      <lb ed="#P" n="79"/>ipsum in esse constituendo, &amp; productum at 
-      <lb ed="#P" n="80"/>tingitur passiue a producente constitutum 
-      <lb ed="#P" n="81"/>in esse per ipsum, tum etiam, quia suum esse  
-      <lb ed="#P" n="82"/>consistit in fieri, &amp; fluxu, &amp; ideo proprie ha 
-      <lb ed="#P" n="83"/>bet significari per verbum, vel per
-      partici<lb ed="#P" n="84" break="no"/>pium in modum habitus fiuentis 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e365">
-               <lb ed="#P" n="85"/>Praeterea, ipsa eadem pertinet indirecte ad 
-      <lb ed="#P" n="86"/>praedicamentum relationis, inquantum indu 
-      <lb ed="#P" n="87"/>it quendam modum eius, eo quod potess 
-      <lb ed="#P" n="88"/>concipi, vt quaedam pura connexio
-      extre<lb ed="#P" n="89" break="no"/>morum, quia hoc est proprium praedicamen 
-      <lb ed="#P" n="90"/>ti relationis. Nam sicut de ratione actionis 
-      <lb ed="#P" n="91"/>est, quod sit quoddam interuallum inter duo 
-      <lb ed="#P" n="92"/>extrema constituens vnum per alterum, ita 
-      <lb ed="#P" n="93"/>de ratione relationis est, quod sit quoddam 
-      <lb ed="#P" n="94"/>interuallum inter duo extrema non in
-      con<lb ed="#P" n="95" break="no"/>stituendo, sed solum in connectendo. Et ideo 
-      <lb ed="#P" n="96"/>isto modo realitas actionis significatur per 
-      <lb ed="#P" n="97"/>nomen, in modum habitus quiescentis. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e397">
-               <lb ed="#P" n="98"/>Mouentur autem ad hoc dicendum, quia 
-      <lb ed="#P" n="99"/>(secundum eos) relatio producentis, &amp;
-      pro<lb ed="#P" n="100" break="no"/>ducti non est aliud, quam illud quod
-      conci<lb ed="#P" n="101" break="no"/>pitur ab intellectu per modum interualli 
-      <lb ed="#P" n="102"/>conectentis vtrunque. Hoc autem non est, 
-      <lb ed="#P" n="103"/>nisi origo actiue, &amp; passiue sumpta: quia nil 
-      <lb ed="#P" n="104"/>aliud ibi apparet, quod possit concipi vt
-      con<lb ed="#P" n="105" break="no"/>nectens, ergo (secundum eos) dicendum est, 
-      <lb ed="#P" n="106"/>quod eadem res importatur pgenerare, &amp; per 
-      <lb ed="#P" n="107"/>paternitatem in creaturis, quamuis aliter, &amp;  
-      <lb ed="#P" n="108"/>aliter. Et si hoc est in creaturis, multo magis 
-      <lb ed="#P" n="109"/>in diuinis, vbi est omnimoda simplicitas, &amp;  
-      <lb ed="#P" n="110"/>per consequens simpliciter dicendum es, quod pro 
-      <lb ed="#P" n="111"/>prietates relatiuae sunt idem, quod ipsae origines. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e430">
-      <!--582.xml-->
-               <pb ed="#P" n="557"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Haec autem opinio, licet in conclusione 
-      <lb ed="#P" n="2"/>principali sit vera (prout credo) in fundamen 
-      <lb ed="#P" n="3"/>to tamen, &amp; in modo ponendi videtur esse 
-      <lb ed="#P" n="4"/>falsa, Supponit enim pro fundamento, quod 
-      <lb ed="#P" n="5"/>relatio fundata in actione sit idem quod ipsa 
-      <lb ed="#P" n="6"/>actio, quia res de praedicamento actionis
-      in<lb ed="#P" n="7" break="no"/>duit tunc modum praedicamenti relationis 
-      <lb ed="#P" n="8"/>secundum esse conceptibile. Hoc autem vi 
-      <lb ed="#P" n="9"/>detur esse falsum propter quatuor. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e459">
-               <lb ed="#P" n="10"/>Quia sequeretur, quod relationes de secun 
-      <lb ed="#P" n="11"/>do modo non essent relationes reales, sed so 
-      <lb ed="#P" n="12"/>lum secundum rationem, &amp; secundum quen 
-      <lb ed="#P" n="13"/>dam modum significandi; quod est absurdum, 
-      <lb ed="#P" n="14"/>quia cum sint maxime oppositae, sunt
-      inco<lb ed="#P" n="15" break="no"/>possibiles in eodem supposito, si ergo ipse non 
-      <lb ed="#P" n="16"/>sint reales, nullae aliae erunt reales 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e477">
-               <lb ed="#P" n="17"/>2 Sequeretur, quod actio posset concipi 
-      <lb ed="#P" n="18"/>posterius producto, quod patet esse falsum; 
-      <lb ed="#P" n="19"/>nam cum sit prior producto, conciperetur 
-      <lb ed="#P" n="20"/>sub opposito sui ipsius, quod est
-      impossibile<lb ed="#P" n="21" break="no"/>Consequentiam probo, quia cum relatio in 
-      <lb ed="#P" n="22"/>creaturis supponat extrema, de sua
-      intrinse<lb ed="#P" n="23" break="no"/>ca ratione est, quod concipiatur posterius 
-      <lb ed="#P" n="24"/>quolibet extremorum. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e497">
-               <lb ed="#P" n="25"/>3 Sequeretur, quod actio posset concipi 
-      <lb ed="#P" n="26"/>existere in agente, tanquam in subiecto, quod 
-      <lb ed="#P" n="27"/>etiam videtur esse falsum, quia tunc sua rea 
-      <lb ed="#P" n="28"/>litas conciperetur in diuersis subiectis,
-      scili<lb ed="#P" n="29" break="no"/>cet in passo, &amp; in agente, quod videtur
-      impos<lb ed="#P" n="30" break="no"/>sibile: Consequentia apparet, quia sicut illa  
-      <lb ed="#P" n="31"/>relatio, quae sequitur passionem, fundatur in 
-      <lb ed="#P" n="32"/>producto, ita illa, quae sequitur actionem, 
-      <lb ed="#P" n="33"/>fundatur in producente. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e519">
-               <lb ed="#P" n="34"/>4 Sequeretur, quod realitas actionis pos 
-      <lb ed="#P" n="35"/>set concipi manere adepto termino, immo et 
-      <lb ed="#P" n="36"/>remaneret post adeptionem, quod videtur fa 
-      <lb ed="#P" n="37"/>sum, quia de ratione eius est quod transeat,  
-      <lb ed="#P" n="38"/>&amp; quod concipiatur transire adepto ter mi 
-      <lb ed="#P" n="39"/>no: quod etiam apparet, quia relatio manet,  
-      <lb ed="#P" n="40"/>&amp; concipitur manere transeunte actione. 
-      <lb ed="#P" n="41"/>Et confirmo rationem, quia nunquam rela  
-      <lb ed="#P" n="42"/>tio potest concipi transeunte suo fundamento. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e542">
-               <lb ed="#P" n="43"/>Vlterius etiam modus ponendi non
-      vide<lb ed="#P" n="44" break="no"/>tur rationabilis, quia imaginatur, quod
-      pro<lb ed="#P" n="45" break="no"/>ductio passiua in creaturis non sit aliud quam 
-      <lb ed="#P" n="46"/>ipsum productum constitui in esse ab ipso, 
-      <lb ed="#P" n="47"/>ducente. Quemadmodum in diuinis, quod 
-      <lb ed="#P" n="48"/>est falsum. Nam quamuis hoc verum sit in 
-      <lb ed="#P" n="49"/>creaturis, non tamen valet in diuinis, quia 
-      <lb ed="#P" n="50"/>in creaturis cum productum constituitur in 
-      <lb ed="#P" n="51"/>esse, est ibi praeuia realis mutatio cum exitu 
-      <lb ed="#P" n="52"/>de potentia ad actum, in diuinis autem non  
-      <lb ed="#P" n="53"/>est sic, idcirco non est simile, 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e568">
-               <lb ed="#P" n="54"/>Propter ista ergo inconuenientia videtur 
-      <lb ed="#P" n="55"/>mihi dicendum, quod relatio originis in crea 
-      <lb ed="#P" n="56"/>tura non sit idem quod origo. Hoc tamen 
-      <lb ed="#P" n="57"/>non obstante, dico, quod in Deo sunt idem 
-      <!--582.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 557 b -->
-               <lb ed="#P" n="58"/>proprietates relatiuae originis, &amp; ipsae origi 
-      <lb ed="#P" n="59"/>nes, eo quod nullum eorum inconuenientium 
-      <lb ed="#P" n="60"/>superius positorum impedit quin sint idem 
-      <lb ed="#P" n="61"/>in Deo. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e594">
-               <lb ed="#P" n="62"/>Primum quidem non impedit, quia illud 
-      <lb ed="#P" n="63"/>inconueniens currit solum contra illam op 
-      <lb ed="#P" n="64"/>nionem, quae ponit relationem de secundo 
-      <lb ed="#P" n="65"/>modo non esse aliud, quam originem,
-      pro<lb ed="#P" n="66" break="no"/>ut re induit quendam modum
-      praedicamen<lb ed="#P" n="67" break="no"/>ti relationis secundum esse conceptibile, non 
-      <lb ed="#P" n="68"/>solum in creatura, sed etiam in creatore, quoc 
-      <lb ed="#P" n="69"/>quidem dictum improbabitur in sequenti 
-      <lb ed="#P" n="70"/>articulo. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e616">
-               <lb ed="#P" n="71"/>Secundum etiam inconueniens non impe 
-      <lb ed="#P" n="72"/>dit, quia sicut origo aliquo modo praeintell 
-      <lb ed="#P" n="73"/>gitur ipsi producto, tanquam illud quo pro 
-      <lb ed="#P" n="74"/>ducitur, ita relatio praeintelligitur sibi
-      tan<lb ed="#P" n="75" break="no"/>quam illud, quo constituitur, &amp; hoc est
-      sin<lb ed="#P" n="76" break="no"/>gulare in diuinis, quia relatio non supponit 
-      <lb ed="#P" n="77"/>extrema constituta, sed constituit ea; &amp; ideo 
-      <lb ed="#P" n="78"/>non est mirandum si potest coincidere in idem 
-      <lb ed="#P" n="79"/>cum origine. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e638">
-               <lb ed="#P" n="80"/>Tertium etiam nullum praestat impedimen 
-      <lb ed="#P" n="81"/>tum, quia sicut relatio producentis existit 
-      <lb ed="#P" n="82"/>formaliter in ipso producente, ita etiam &amp; 
-      <lb ed="#P" n="83"/>psa origo actiue sumpta in diuinis existit 
-      <lb ed="#P" n="84"/>formaliter in eodem producente¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e651">
-               <lb ed="#P" n="85"/>Nec etiam vltimum inconueniens habet 
-      <lb ed="#P" n="86"/>ibi locum, quia sicut relatio in diuinis nunqum 
-      <lb ed="#P" n="87"/>transit, sed semper manet, ita etiam ipsa 
-      <lb ed="#P" n="88"/>origo.
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e663">
-               <lb ed="#P" n="89"/>Confirmo insuper totum istum
-      proces<lb ed="#P" n="90" break="no"/>sum, quia si relationes originis in diuinis non 
-      <lb ed="#P" n="91"/>essent idem, quod ipsae origines, sequeretur,  
-      <lb ed="#P" n="92"/>quod essent ibi aliqua praedicata, quae nec es 
-      <lb ed="#P" n="93"/>sent secundum substantiam, nec secundum 
-      <lb ed="#P" n="94"/>relationem, quod quidem videtur esse con- 
-      <lb ed="#P" n="95"/>tra intentionem Sanctorum. Propter quae 
-      <lb ed="#P" n="96"/>omnia possumus sufficienter concludere pro 
-      <lb ed="#P" n="97"/>prietates relatiuas esse idem cum ipsis
-      ori<lb ed="#P" n="98" break="no"/>ginibus 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e687">
-               <lb ed="#P" n="99"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="100"/>An proprietates constituant personas inquam 
-      <lb ed="#P" n="101"/>tum origines, vel inquantum
-      proprie<lb ed="#P" n="102" break="no"/>tates relatiuae.
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e698">
-               <lb ed="#P" n="103"/>Vic articulo respodent quidam, quod 
-      <lb ed="#P" n="104"/>nullo modo constituunt personas
-      in<lb ed="#P" n="105" break="no"/>quantum relationes, nisi forte secundum non 
-      <lb ed="#P" n="106"/>stram apprehensionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e709">
-               <lb ed="#P" n="107"/>Nam (secundum eos) impossibile est, quod 
-      <lb ed="#P" n="108"/>eadem realitas &amp; natura rei habeat modum 
-      <!--583.xml-->
-      <pb ed="#P" n="558"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>habitus, &amp; quietis. Si ergo eadem realitas, ex 
-      <lb ed="#P" n="2"/>natura rei habet modum actus, &amp; fluxus, 
-      <lb ed="#P" n="3"/>relatio vero ex natura rei habet modum
-      ha<lb ed="#P" n="4" break="no"/>bitus, &amp; quietis, &amp; si eadem realitas ex
-      na<lb ed="#P" n="5" break="no"/>tura rei esset origo, &amp; relatio, sequeretur, quod 
-      <lb ed="#P" n="6"/>eadem res haberet oppositos modos ex natu 
-      <lb ed="#P" n="7"/>ra rei; quod est impossibile 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e738">
-               <lb ed="#P" n="8"/>2 Quia impossibile est, quod eadem
-      rea<lb ed="#P" n="9" break="no"/>litas posita inter duo extrema sit positiua, &amp;  
-      <lb ed="#P" n="10"/>non positua alterius extremi, quia hoc posi 
-      <lb ed="#P" n="11"/>to, contradictoria verificarentur de eodem 
-      <lb ed="#P" n="12"/>sed realitas importata per generare, posita in 
-      <lb ed="#P" n="13"/>ter patrem, &amp; filium est positua, &amp;
-      causati<lb ed="#P" n="14" break="no"/>ua ipsius filij; paternitas vero posita inter 
-      <lb ed="#P" n="15"/>eosdem non est causatiua filij, quia de ratio 
-      <lb ed="#P" n="16"/>ne relationis non est causare, sed tantummo 
-      <lb ed="#P" n="17"/>do connectere, &amp; refferre, ergo impossibile 
-      <lb ed="#P" n="18"/>est, quod eadem realitas ex natura rei sit ori 
-      <lb ed="#P" n="19"/>go, &amp; paternitas, siue quaecunque alia relatio 
-      <lb ed="#P" n="20"/>producentis. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e769">
-               <lb ed="#P" n="21"/>Et ideo applicando ad propositum dicunt,  
-      <lb ed="#P" n="22"/>quod quia proprietates diuinarum
-      persona<lb ed="#P" n="23" break="no"/>rum ex natura rei sunt origines, cum sini 
-      <lb ed="#P" n="24"/>principiatiuae personarum productarum, non 
-      <lb ed="#P" n="25"/>poterunt esse relationes ex natura rei,
-      pos<lb ed="#P" n="26" break="no"/>sunt tamen induere quendam modum rela  
-      <lb ed="#P" n="27"/>tionum ex apprehensione nostri intellectus 
-      <lb ed="#P" n="28"/>concipientis eas, Vt habitudines connectentes. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e790">
-               <lb ed="#P" n="29"/>Quapropter vlterius dicunt, quod proprie 
-      <lb ed="#P" n="30"/>tates personales constituunt personas ex na 
-      <lb ed="#P" n="31"/>tura rei, inquantum origines, &amp; non inquam 
-      <lb ed="#P" n="32"/>tum relationes, quamuis enim secundum non 
-      <lb ed="#P" n="33"/>stram apprehensionem videantur eas consti 
-      <lb ed="#P" n="34"/>tuere per modum relationum, propter quod 
-      <lb ed="#P" n="35"/>etiam melius significantur per modum rela  
-      <lb ed="#P" n="36"/>tionum, quam per modum originum
-      secun<lb ed="#P" n="37" break="no"/>dum communem vsum loquendi¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e812">
-               <lb ed="#P" n="38"/>Haec autem opinio non potest stare
-      pro<lb ed="#P" n="39" break="no"/>pter quinque 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e819">
-               <lb ed="#P" n="40"/>Primo, quia sequeretur, quod in diuinis 
-      <lb ed="#P" n="41"/>non esset aliquod praedicatum secundum re 
-      <lb ed="#P" n="42"/>lationem, quod est contra intentionem om 
-      <lb ed="#P" n="43"/>nium Doctorum sanctorum. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e830">
-               <lb ed="#P" n="44"/>Secundo sequeretur, quod in Deo non es 
-      <lb ed="#P" n="45"/>set proprie paterimtas, &amp; filiatio, quod vide 
-      <lb ed="#P" n="46"/>tur esse contra intentionem <ref xml:id="gsX5tY-d1e923-Rd1e838">Apost. ad Ephes. 
-        <lb ed="#P" n="47"/>3</ref>. vbi dicit, <quote xml:id="gsX5tY-d1e923-Qd1e843" source="http://scta.info/resource/eph3_15" synch="1-10">ex quo omnis paternitas in caelo,  
-      <lb ed="#P" n="48"/>&amp; in terra nominatur</quote>. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e849">
-               <lb ed="#P" n="49"/>Tertio sequeretur, quod Sacra
-      Scriptu<lb ed="#P" n="50" break="no"/>ra debuisset magis exprimere diuinas
-      perso<lb ed="#P" n="51" break="no"/>nas sub nominibus originum, quam sub nomi 
-      <lb ed="#P" n="52"/>nibus relationum, quod patet esse falsum; 
-      <lb ed="#P" n="53"/>Nec valet si dicant, quod melius
-      significan<lb ed="#P" n="54" break="no"/>tur per nomina relationum, sicut dicere
-      vi<lb ed="#P" n="55" break="no"/>dentur. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e867">
-               <lb ed="#P" n="56"/>Quia vnaquaeque res melius significatur 
-      <lb ed="#P" n="57"/>sub vno modo essendi proprio, qui sibi com¬ 
-      <!--583.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 558 b -->
-               <lb ed="#P" n="58"/>petit, quam sub modo sibi extraneo ex
-      no<lb ed="#P" n="59" break="no"/>stra apprehensione, &amp; maxime si posset a non 
-      <lb ed="#P" n="60"/>bis concipi sub modo essendi proprio, sicut 
-      <lb ed="#P" n="61"/>sub modo essendi extraneo, sicut est in
-      pro<lb ed="#P" n="62" break="no"/>posito, vt patet.
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e892">
-               <lb ed="#P" n="63"/>Quarto sequeretur, quod in traditioneSa 
-      <lb ed="#P" n="64"/>cramentorum Trinitas deberet magis
-      inuo<lb ed="#P" n="65" break="no"/>cari sub nominibus originum, quam sub
-      no<lb ed="#P" n="66" break="no"/>minibus relationum, quod est falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e903">
-               <lb ed="#P" n="67"/>Quinto sequeretur, quod origines essent 
-      <lb ed="#P" n="68"/>realiter distinctae ab essentia, quod est falsum, 
-      <lb ed="#P" n="69"/>&amp; ipsimet qui ponunt hanc opinionem hoc 
-      <lb ed="#P" n="70"/>negarent; Consequentiam probo ex dictis 
-      <lb ed="#P" n="71"/>eorum. Nam ipsi dicunt, quod ideo vna, &amp;  
-      <lb ed="#P" n="72"/>eadem res non potest esse relatio, &amp; origo 
-      <lb ed="#P" n="73"/>ex natura rei, quia tunc vna &amp; eadem res 
-      <lb ed="#P" n="74"/>haberet oppositos modos ex natura rei,
-      scili<lb ed="#P" n="75" break="no"/>cet modum habitus fiuentis, &amp; modum
-      ha<lb ed="#P" n="76" break="no"/>bitus quiescentis, quod reputant
-      impossibi<lb ed="#P" n="77" break="no"/>le; Si ergo iste modus arguendi sit bonus,  
-      <lb ed="#P" n="78"/>pari ratione dicam, quod origo non potest 
-      <lb ed="#P" n="79"/>esse idem realiter, quod essentia, quia cum es 
-      <lb ed="#P" n="80"/>sentia habeat modum habitus quiescentis 
-      <lb ed="#P" n="81"/>origo vero habeat modum habitus fiuentis,  
-      <lb ed="#P" n="82"/>sequeretur, quod vna res ex natura rei habe 
-      <lb ed="#P" n="83"/>ret oppositos modos. Quapropter cogutur 
-      <lb ed="#P" n="84"/>dicere, vel quod in diuinis non sint origines 
-      <lb ed="#P" n="85"/>ex natura rei, vel quod non sunt idem cum 
-      <lb ed="#P" n="86"/>essentia; quod totum patet esse falsum, &amp; 
-      <lb ed="#P" n="87"/>ipsimet negarent vtrunque. Et ex hoc
-      appa<lb ed="#P" n="88" break="no"/>ret immediate, defectus primae rationis eorum. 
-      <lb ed="#P" n="89"/>Apparet etiam defectus secudae, quia imagi 
-      <lb ed="#P" n="90"/>nantur, quod relationes in diuinis supponat 
-      <lb ed="#P" n="91"/>extrema constituta sicut in creaturis; cuius 
-      <lb ed="#P" n="92"/>oppositum dictum est supra in 28. dist. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e962">
-               <lb ed="#P" n="93"/>Propter quae omnia videtur mihi
-      dicen<lb ed="#P" n="94" break="no"/>dum, quod quemadmodum ex natura rei 
-      <lb ed="#P" n="95"/>vna, &amp; eadem res significatur per essentiam, 
-      <lb ed="#P" n="96"/>&amp; quodlibet attributum, quamuis differant 
-      <lb ed="#P" n="97"/>in modo significandi; ita etiam vna, &amp; eade 
-      <lb ed="#P" n="98"/>res ex natura rei importatur per diuersos mo 
-      <lb ed="#P" n="99"/>dos significandi, quia hoc nomen origo,
-      im<lb ed="#P" n="100" break="no"/>portat illam rem per modum actus eliciti, 
-      <lb ed="#P" n="101"/>&amp; productiui, hoc vero nomen proprietas, pr 
-      <lb ed="#P" n="102"/>modum formae inexistentis, hoc autem
-      no<lb ed="#P" n="103" break="no"/>men relatio, per modum formae
-      connecten<lb ed="#P" n="104" break="no"/>tis, &amp; referentis, &amp; quia ista tria competunt 
-      <lb ed="#P" n="105"/>proprietati personali ex natura rei, idcirco 
-      <lb ed="#P" n="106"/>nullus istorum modorum signifiandi est ex- 
-      <lb ed="#P" n="107"/>traneus.
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e997">
-               <lb ed="#P" n="108"/>Remanet tamen dubium secudum quem 
-      <lb ed="#P" n="109"/>istorum modorum debeamus magis poni
-      pprie<lb ed="#P" n="110" break="no"/>tas principium constitutiuum. Nam quidam di 
-      <lb ed="#P" n="111"/>cunt, quod constituit inquantum origo, alij 
-      <lb ed="#P" n="112"/>vero inquantum relatio; vt aque tamen opi- 
-      <lb ed="#P" n="113"/>nio videtur irrationabilis, quia quilibet
-      isto<lb ed="#P" n="114" break="no"/>rum duorum modorum videtur supponero 
-      <!--584.xml-->
-      <pb ed="#P" n="559"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>suppositum constitutum Origo nanque
-      vi<lb ed="#P" n="2" break="no"/>detur supponere suppositum constitutum, 
-      <lb ed="#P" n="3"/>quia cum significetur per modum actus
-      eli<lb ed="#P" n="4" break="no"/>citi, &amp; actus non possit elici nisi a
-      supposi<lb ed="#P" n="5" break="no"/>to, ex ipso modo significandi videtur sequi ad  
-      <lb ed="#P" n="6"/>suppositum constitutum. Similiter &amp; ipsa
-      re<lb ed="#P" n="7" break="no"/>latio ex suo modo significandi videtur sequi 
-      <lb ed="#P" n="8"/>ad suppositum constitutum, quia cum relatio 
-      <lb ed="#P" n="9"/>innascatur ex origine, si origo supponit
-      sup<lb ed="#P" n="10" break="no"/>positum constitutum, multo magis relatio. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1043">
-               <lb ed="#P" n="11"/>Et ideo dico, quod quamuis sit vna, &amp;
-      ea<lb ed="#P" n="12" break="no"/>dem res importata per ista tria, ista tamen 
-      <lb ed="#P" n="13"/>res magis videtur constituere secundum quod 
-      <lb ed="#P" n="14"/>significatur nomine proprietatis, quam
-      secun<lb ed="#P" n="15" break="no"/>dum quod significatur nomine originis &amp; re- 
-      <lb ed="#P" n="16"/>lationis quia, proprietas habet rationem
-      for<lb ed="#P" n="17" break="no"/>mae inexistentis, &amp; non videtur supponere 
-      <lb ed="#P" n="18"/>suppositum constitutum, sicut origo, &amp; re- 
-      <lb ed="#P" n="19"/>atio. Ista autem duo videntur esse maxime 
-      <lb ed="#P" n="20"/>de ratione principij constitutiui alicuius 
-      <lb ed="#P" n="21"/>suppositi, quod scilicet inexistat ei per
-      mo<lb ed="#P" n="22" break="no"/>dum formae intrinsecae: &amp; per consequens, 
-      <lb ed="#P" n="23"/>quod non supponat ipsum constitutum in 
-      <lb ed="#P" n="24"/>suo esse 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1076">
-               <lb ed="#P" n="25"/>Intelligendum tamen, quod cum dicimus 
-      <lb ed="#P" n="26"/>relationem personalem esse constitutiuam 
-      <lb ed="#P" n="27"/>non secundum quod relatio est, sed
-      inquan<lb ed="#P" n="28" break="no"/>tum proprietas est; non debet ibi accipi illa  
-      <lb ed="#P" n="29"/>negatio, vel reduplicatio quasi circumscribens 
-      <lb ed="#P" n="30"/>rationem relationis a ratione proprietatis 
-      <lb ed="#P" n="31"/>sicut quidam imaginantur, quia impossibile 
-      <lb ed="#P" n="32"/>est separare rationem praedicamenti ab
-      ali<lb ed="#P" n="33" break="no"/>qua re, quae sit in praedicamento: Cum ergo 
-      <lb ed="#P" n="34"/>proprietas constitutiua sit de praedicamento 
-      <lb ed="#P" n="35"/>relationis, impossibile est, quod ratio
-      relatio<lb ed="#P" n="36" break="no"/>nis ab ea circumscribatur. Ideo separatur hoc 
-      <lb ed="#P" n="37"/>pacto, non quod ly inquantum sit nota circum 
-      <lb ed="#P" n="38"/>scriptionis, vel abstractionis (vt plures
-      ima<lb ed="#P" n="39" break="no"/>gi antur) sed vt sit nota appropriationis &amp;  
-      <lb ed="#P" n="40"/>secundum hoc, sit talis sensus. Relatio
-      con<lb ed="#P" n="41" break="no"/>stituit, secudum quod proprietas, &amp; non
-      se<lb ed="#P" n="42" break="no"/>cundum quod relatio, scilicet, appropriatur 
-      <lb ed="#P" n="43"/>sibi hoc, quod est constituere personam,
-      se<lb ed="#P" n="44" break="no"/>cundum quod est proprietas insistens, &amp; non 
-      <lb ed="#P" n="45"/>secundum quod est relatio referens,
-      quam<lb ed="#P" n="46" break="no"/>uis hoc ab ea non circumscribatur.
-      Quem<lb ed="#P" n="47" break="no"/>admodum si diceremus, quod rationale
-      con<lb ed="#P" n="48" break="no"/>stituit hominem, secundum quod rationale, 
-      <lb ed="#P" n="49"/>&amp; non secundum quod ens, quamuis ratio 
-      <lb ed="#P" n="50"/>entis ab eo non circumscribatur, quia tunc 
-      <lb ed="#P" n="51"/>esset non ens patet ergo quid sit dicendum 
-      <lb ed="#P" n="52"/>de isto articulo. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1140">
-               <lb ed="#P" n="53"/>ARTICVLVS TERTIVS. 
-      <lb ed="#P" n="54"/>An abstractis proprietatibus per intellectum 
-      <lb ed="#P" n="55"/>remaneant personae constitutae.
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1149">
-      <!--584.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 559 b -->
-               <lb ed="#P" n="56"/>Vic articulo breuiter respodeo, quod 
-      <lb ed="#P" n="57"/>si diuinae personae constituerentur per 
-      <lb ed="#P" n="58"/>absolutos modos (sicut posuerunt quidam 
-      <lb ed="#P" n="59"/>possent intelligi constitutae abstractis etiam  
-      <lb ed="#P" n="60"/>relationibus per intellectum, Tum quia
-      vna<lb ed="#P" n="61" break="no"/>quaeque res potest intelligi constituta in suo 
-      <lb ed="#P" n="62"/>esse, abstracto omni quod non intrat in sui 
-      <lb ed="#P" n="63"/>constitutionem: sicut facerent in proposito 
-      <lb ed="#P" n="64"/>proprietates, quae essent quasi aduentitiae.  
-      <lb ed="#P" n="65"/>Tum quia semper prius potest intelligi
-      con<lb ed="#P" n="66" break="no"/>stitutum abstracto posteriori; diuinae autem 
-      <lb ed="#P" n="67"/>personae, cum illis modis absolutis (secudum 
-      <lb ed="#P" n="68"/>viam istius opin) essent priores relationibus; 
-      <lb ed="#P" n="69"/>&amp; ideo nihil prohiberet, quin possent
-      intel<lb ed="#P" n="70" break="no"/>ligi constitutae eis abstractis. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1191">
-               <lb ed="#P" n="71"/>lsta tamen opinio fuit superius improbata 
-      <lb ed="#P" n="72"/>in 20. distinc. &amp; ideo non est respondendum 
-      <lb ed="#P" n="73"/>huic articulo secundum principia eius. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1200">
-               <lb ed="#P" n="74"/>Praeterea, si concederetur possibile esse, quid 
-      <lb ed="#P" n="75"/>ratio relationis circumscriberetur a ratione 
-      <lb ed="#P" n="76"/>proprietatis constitutiuae (sicut plures
-      ima<lb ed="#P" n="77" break="no"/>ginantur) cogeremur etiam dicere, quod
-      ab<lb ed="#P" n="78" break="no"/>stracta ratione relationis per intellectum, ad 
-      <lb ed="#P" n="79"/>huc remaneret ratio proprietatis, &amp; per con 
-      <lb ed="#P" n="80"/>sequens possent intelligi personae constitutae 
-      <lb ed="#P" n="81"/>cum proprietatibus abstractis relationibus; 
-      <lb ed="#P" n="82"/>sed haec sententia videtur omnino
-      impossibi<lb ed="#P" n="83" break="no"/>lis, sicut patuit in articulo praecedente. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1224">
-               <lb ed="#P" n="84"/>uapropter simpliciter dico, quod abstra 
-      <lb ed="#P" n="85"/>ctis proprietatibus relatiuis per intellectum, 
-      <lb ed="#P" n="86"/>vel nullo modo remanerent personae
-      consti<lb ed="#P" n="87" break="no"/>tutae, vel remanerent constitutae per modos 
-      <lb ed="#P" n="88"/>absolutos, quod probo, tali ratione. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1237">
-               <lb ed="#P" n="89"/>Nulla res potest intelligi constituta sine 
-      <lb ed="#P" n="90"/>suo principio constitutiuo, sed proprietates 
-      <lb ed="#P" n="91"/>relatiuae sunt constitutiuae diuinarum
-      perso<lb ed="#P" n="92" break="no"/>narum (vt suppono ex his quae dicta fuerunt 
-      <lb ed="#P" n="93"/>in 20. dist) ergo &amp;c. &amp; sic patet de isto
-      ar<lb ed="#P" n="94" break="no"/>ticulo, &amp; tota quaestione 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1254">
-               <lb ed="#P" n="95"/>AD RATIONES PRINCIPALES 
-      <lb ed="#P" n="96"/>D primam dicendum, quod quamuis 
-      <lb ed="#P" n="97"/>proprietates relatiuae secundum
-      no<lb ed="#P" n="98" break="no"/>strum modum concipiendi, &amp; significandi 
-      <lb ed="#P" n="99"/>supponant origines inquantum relationes,  
-      <lb ed="#P" n="100"/>praecedunt tamen eas inquantum
-      proprieta<lb ed="#P" n="101" break="no"/>tes, &amp; neutrum istorum impedit earum iden 
-      <lb ed="#P" n="102"/>titatem, quia talis ordo non est secundumrem, 
-      <lb ed="#P" n="103"/>sed solum secundum rationem, &amp; modum 
-      <lb ed="#P" n="104"/>significandi. 
-    </p>
-            <p xml:id="gsX5tY-d1e923-d1e1278">
-               <lb ed="#P" n="105"/>Ad secundam rationem iam patet solutio: 
-      <lb ed="#P" n="106"/>quia (sicut tactum est) quamuis proprietates 
-      <lb ed="#P" n="107"/>relatiuae sequantur origines, inquantum sunt 
-      <lb ed="#P" n="108"/>quaedam relationes, praecedunt tamen eas in 
-      <lb ed="#P" n="109"/>quantum quaedam proprietates, &amp; per
-      ean<lb ed="#P" n="110" break="no"/>dem viam patet solutio ad tertiam.
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="555"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e923"> <!-- l1d33q3 -->
+        <head xml:id="gsX5tY-d1e923-Hd1e109">Quaestio 3</head>
+        <head xml:id="gsX5tY-d1e923-Hd1e112" type="question-title">Utrum proprietates relativae sint idem quod origines.</head>
+        <p xml:id="gsX5tY-d1e923-d1e115">
+          <lb ed="#P" n="102"/>QVAESTIO TERTIA 
+          <lb ed="#P" n="103"/>Vtrum proprietates relatiuae fint idem 
+          <lb ed="#P" n="104"/>quod origines 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e124">
+          <lb ed="#P" n="105"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="106"/>negatiua. 
+          <lb ed="#P" n="107"/>SVm dictae proprietates sint
+          relatio<lb ed="#P" n="108" break="no"/>nes originis (vt patet ex dictis in 4. 
+          <lb ed="#P" n="109"/>dist.) necessario supponunt origines, tanquam 
+          <lb ed="#P" n="110"/>derelictae ex eis, &amp; per consequens non vi¬ 
+          <!--581.xml-->
+          <pb ed="#P" n="556"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dentur esse idem, quod ipsae¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e149">
+          <lb ed="#P" n="2"/>2 Si essent idem quod origines, tunc non 
+          <lb ed="#P" n="3"/>constituerent personas inquantum
+          proprie<lb ed="#P" n="4" break="no"/>tates relatiuae, sed magis inquatum origines.  
+          <lb ed="#P" n="5"/>euius oppositum patet ex dictis in 20. dist. 
+          <lb ed="#P" n="6"/>Consequentiam probo, quia persona prius 
+          <lb ed="#P" n="7"/>intelligitur sub origine, &amp; per consequens si 
+          <lb ed="#P" n="8"/>eadem res importatur per originem, &amp;
+          pro<lb ed="#P" n="9" break="no"/>prietatem relatiuam, illa res prius, &amp; magis 
+          <lb ed="#P" n="10"/>constituet personam inquantum origo, quam  
+          <lb ed="#P" n="11"/>inquantum proprietas relatiua
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e173">
+          <lb ed="#P" n="12"/>3 Si hoc esset, personae possent intelligi 
+          <lb ed="#P" n="13"/>constitutae abstractis proprietatibus relatiuis 
+          <lb ed="#P" n="14"/>per intellectum, quod videtur esse falsum, eo 
+          <lb ed="#P" n="15"/>quod nulla res potest intelligi constituta sine 
+          <lb ed="#P" n="16"/>suo principio constitutiuo : Consequentiam  
+          <lb ed="#P" n="17"/>probo: Nam quia origines videntur
+          praece<lb ed="#P" n="18" break="no"/>dere proprietates relatiuas videntur etiam  
+          <lb ed="#P" n="19"/>posse intelligi illis circumscriptis per
+          intel<lb ed="#P" n="20" break="no"/>iectum : &amp; per consequens etiam quaelibet 
+          <lb ed="#P" n="21"/>persona videtur posse intelligi sub origine 
+          <lb ed="#P" n="22"/>constituta, antequam habeat proprietatem 
+          <lb ed="#P" n="23"/>rela iuam. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e202">
+          <lb ed="#P" n="24"/>ARVITVR PRO PARTE 
+          <lb ed="#P" n="25"/>affirmatiua. 
+          <lb ed="#P" n="26"/>ISIIproprietates relatiuae non essent idem 
+          <lb ed="#P" n="27"/>quod origines, non essent idem quod 
+          <lb ed="#P" n="28"/>essentia, cuius oppositum patet ex dictis;
+          su<lb ed="#P" n="29" break="no"/>prai Consequentiam probo, quia proprietas 
+          <lb ed="#P" n="30"/>rel viua, cum sequatur ad originem, non
+          vi<lb ed="#P" n="31" break="no"/>detur fundati in essentia nisi mediante
+          ori<lb ed="#P" n="32" break="no"/>gine. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e224">
+          <lb ed="#P" n="33"/>RESPONDEO: In ista quaestione tria 
+          <lb ed="#P" n="34"/>sunt vidend. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e231">
+          <lb ed="#P" n="35"/>An propri:ates relatiuae sint idem, quod 
+          <lb ed="#P" n="36"/>ipsae origines. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e238">
+          <lb ed="#P" n="37"/>2 An constituant porsonas inquantum
+          ori<lb ed="#P" n="38" break="no"/>gines, vel inquantum proprietates relatiuae. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e246">
+          <lb ed="#P" n="39"/>3 An eis abstractis por intellectum,
+          rema<lb ed="#P" n="40" break="no"/>neant personae constitutae. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e253">
+          <lb ed="#P" n="41"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="42"/>An proprietates relatiuae sint idem quod 
+          <lb ed="#P" n="43"/>ipsae origines.
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e262">
+          <lb ed="#P" n="44"/>Vic articulo respondent quidam, quod 
+          <lb ed="#P" n="45"/>non solum in diuinis, sed etiam in
+          crea<lb ed="#P" n="46" break="no"/>turis relationes de secundo modo fundatae 
+          <lb ed="#P" n="47"/>super actionem, &amp; passionem siue super
+          ori<lb ed="#P" n="48" break="no"/>ginem actiue, &amp; passiue sumptam non sunt aliud 
+          <lb ed="#P" n="49"/>realiter, quam ipsamet origo actiue, vel
+          pas<lb ed="#P" n="50" break="no"/>siue sumpta, quamuis differant secundum ra 
+          <lb ed="#P" n="51"/>tionem propter diuersum modum significan 
+          <lb ed="#P" n="52"/>di, &amp; concipiendi. Nam vna, &amp; eadem res,  
+          <lb ed="#P" n="53"/>prout significatur verbaliter per modum flu 
+          <lb ed="#P" n="54"/>xus, &amp; fieri, pertinet ad predicamentum actio¬ 
+          <!--581.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 556 b -->
+          <lb ed="#P" n="55"/>nis, vel palsionis (secundum eos) prout vero 
+          <lb ed="#P" n="56"/>significatur nominaliter per modum habitus 
+          <lb ed="#P" n="57"/>quiescentis, potest pertinere ad aliud
+          praedi<lb ed="#P" n="58" break="no"/>camentum, quodcunque sit illud. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e303">
+          <lb ed="#P" n="59"/>Addunt tamen, quod ista significatio quam 
+          <lb ed="#P" n="60"/>doque est propria, quandoque impropria; 
+          <lb ed="#P" n="61"/>Nam quando res significata est talis, quod 
+          <lb ed="#P" n="62"/>suum esse consistit in fieri, &amp; in fluxu, tunc 
+          <lb ed="#P" n="63"/>proprie significatur per verbum in modum 
+          <lb ed="#P" n="64"/>habitus fluentis; improprie vero significatur 
+          <lb ed="#P" n="65"/>per nomen, inquantum inducit modum
+          al<lb ed="#P" n="66" break="no"/>terius praedicamenti. Cum vero res
+          signifi<lb ed="#P" n="67" break="no"/>cata est talis, quod suum esse consistit in quiete, 
+          <lb ed="#P" n="68"/>tunc proprie significatur per nomen in
+          mo<lb ed="#P" n="69" break="no"/>dum habitus quiescentis, improprie vero per 
+          <lb ed="#P" n="70"/>verbum, quia non nisi inquantum induit 
+          <lb ed="#P" n="71"/>modum predicamenti actionis, vel passionis,  
+          <lb ed="#P" n="72"/>quorum esse consistit proprie in fieri, &amp; fuxu¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e336">
+          <lb ed="#P" n="73"/>Ad propositum ergo descendendo dicunt,  
+          <lb ed="#P" n="74"/>quod illa realitas, quae mediat inter
+          produ<lb ed="#P" n="75" break="no"/>cens, &amp; productum per modum cuiusdam
+          in<lb ed="#P" n="76" break="no"/>terualli, pertinet per se, &amp; directe ad
+          praedi<lb ed="#P" n="77" break="no"/>camentum actionis, &amp; passionis, tum quia per 
+          <lb ed="#P" n="78"/>eam producens attingit actiue productum 
+          <lb ed="#P" n="79"/>ipsum in esse constituendo, &amp; productum at 
+          <lb ed="#P" n="80"/>tingitur passiue a producente constitutum 
+          <lb ed="#P" n="81"/>in esse per ipsum, tum etiam, quia suum esse  
+          <lb ed="#P" n="82"/>consistit in fieri, &amp; fluxu, &amp; ideo proprie ha 
+          <lb ed="#P" n="83"/>bet significari per verbum, vel per
+          partici<lb ed="#P" n="84" break="no"/>pium in modum habitus fiuentis 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e365">
+          <lb ed="#P" n="85"/>Praeterea, ipsa eadem pertinet indirecte ad 
+          <lb ed="#P" n="86"/>praedicamentum relationis, inquantum indu 
+          <lb ed="#P" n="87"/>it quendam modum eius, eo quod potess 
+          <lb ed="#P" n="88"/>concipi, vt quaedam pura connexio
+          extre<lb ed="#P" n="89" break="no"/>morum, quia hoc est proprium praedicamen 
+          <lb ed="#P" n="90"/>ti relationis. Nam sicut de ratione actionis 
+          <lb ed="#P" n="91"/>est, quod sit quoddam interuallum inter duo 
+          <lb ed="#P" n="92"/>extrema constituens vnum per alterum, ita 
+          <lb ed="#P" n="93"/>de ratione relationis est, quod sit quoddam 
+          <lb ed="#P" n="94"/>interuallum inter duo extrema non in
+          con<lb ed="#P" n="95" break="no"/>stituendo, sed solum in connectendo. Et ideo 
+          <lb ed="#P" n="96"/>isto modo realitas actionis significatur per 
+          <lb ed="#P" n="97"/>nomen, in modum habitus quiescentis. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e397">
+          <lb ed="#P" n="98"/>Mouentur autem ad hoc dicendum, quia 
+          <lb ed="#P" n="99"/>(secundum eos) relatio producentis, &amp;
+          pro<lb ed="#P" n="100" break="no"/>ducti non est aliud, quam illud quod
+          conci<lb ed="#P" n="101" break="no"/>pitur ab intellectu per modum interualli 
+          <lb ed="#P" n="102"/>conectentis vtrunque. Hoc autem non est, 
+          <lb ed="#P" n="103"/>nisi origo actiue, &amp; passiue sumpta: quia nil 
+          <lb ed="#P" n="104"/>aliud ibi apparet, quod possit concipi vt
+          con<lb ed="#P" n="105" break="no"/>nectens, ergo (secundum eos) dicendum est, 
+          <lb ed="#P" n="106"/>quod eadem res importatur pgenerare, &amp; per 
+          <lb ed="#P" n="107"/>paternitatem in creaturis, quamuis aliter, &amp;  
+          <lb ed="#P" n="108"/>aliter. Et si hoc est in creaturis, multo magis 
+          <lb ed="#P" n="109"/>in diuinis, vbi est omnimoda simplicitas, &amp;  
+          <lb ed="#P" n="110"/>per consequens simpliciter dicendum es, quod pro 
+          <lb ed="#P" n="111"/>prietates relatiuae sunt idem, quod ipsae origines. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e430">
+          <!--582.xml-->
+          <pb ed="#P" n="557"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Haec autem opinio, licet in conclusione 
+          <lb ed="#P" n="2"/>principali sit vera (prout credo) in fundamen 
+          <lb ed="#P" n="3"/>to tamen, &amp; in modo ponendi videtur esse 
+          <lb ed="#P" n="4"/>falsa, Supponit enim pro fundamento, quod 
+          <lb ed="#P" n="5"/>relatio fundata in actione sit idem quod ipsa 
+          <lb ed="#P" n="6"/>actio, quia res de praedicamento actionis
+          in<lb ed="#P" n="7" break="no"/>duit tunc modum praedicamenti relationis 
+          <lb ed="#P" n="8"/>secundum esse conceptibile. Hoc autem vi 
+          <lb ed="#P" n="9"/>detur esse falsum propter quatuor. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e459">
+          <lb ed="#P" n="10"/>Quia sequeretur, quod relationes de secun 
+          <lb ed="#P" n="11"/>do modo non essent relationes reales, sed so 
+          <lb ed="#P" n="12"/>lum secundum rationem, &amp; secundum quen 
+          <lb ed="#P" n="13"/>dam modum significandi; quod est absurdum, 
+          <lb ed="#P" n="14"/>quia cum sint maxime oppositae, sunt
+          inco<lb ed="#P" n="15" break="no"/>possibiles in eodem supposito, si ergo ipse non 
+          <lb ed="#P" n="16"/>sint reales, nullae aliae erunt reales 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e477">
+          <lb ed="#P" n="17"/>2 Sequeretur, quod actio posset concipi 
+          <lb ed="#P" n="18"/>posterius producto, quod patet esse falsum; 
+          <lb ed="#P" n="19"/>nam cum sit prior producto, conciperetur 
+          <lb ed="#P" n="20"/>sub opposito sui ipsius, quod est
+          impossibile<lb ed="#P" n="21" break="no"/>Consequentiam probo, quia cum relatio in 
+          <lb ed="#P" n="22"/>creaturis supponat extrema, de sua
+          intrinse<lb ed="#P" n="23" break="no"/>ca ratione est, quod concipiatur posterius 
+          <lb ed="#P" n="24"/>quolibet extremorum. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e497">
+          <lb ed="#P" n="25"/>3 Sequeretur, quod actio posset concipi 
+          <lb ed="#P" n="26"/>existere in agente, tanquam in subiecto, quod 
+          <lb ed="#P" n="27"/>etiam videtur esse falsum, quia tunc sua rea 
+          <lb ed="#P" n="28"/>litas conciperetur in diuersis subiectis,
+          scili<lb ed="#P" n="29" break="no"/>cet in passo, &amp; in agente, quod videtur
+          impos<lb ed="#P" n="30" break="no"/>sibile: Consequentia apparet, quia sicut illa  
+          <lb ed="#P" n="31"/>relatio, quae sequitur passionem, fundatur in 
+          <lb ed="#P" n="32"/>producto, ita illa, quae sequitur actionem, 
+          <lb ed="#P" n="33"/>fundatur in producente. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e519">
+          <lb ed="#P" n="34"/>4 Sequeretur, quod realitas actionis pos 
+          <lb ed="#P" n="35"/>set concipi manere adepto termino, immo et 
+          <lb ed="#P" n="36"/>remaneret post adeptionem, quod videtur fa 
+          <lb ed="#P" n="37"/>sum, quia de ratione eius est quod transeat,  
+          <lb ed="#P" n="38"/>&amp; quod concipiatur transire adepto ter mi 
+          <lb ed="#P" n="39"/>no: quod etiam apparet, quia relatio manet,  
+          <lb ed="#P" n="40"/>&amp; concipitur manere transeunte actione. 
+          <lb ed="#P" n="41"/>Et confirmo rationem, quia nunquam rela  
+          <lb ed="#P" n="42"/>tio potest concipi transeunte suo fundamento. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e542">
+          <lb ed="#P" n="43"/>Vlterius etiam modus ponendi non
+          vide<lb ed="#P" n="44" break="no"/>tur rationabilis, quia imaginatur, quod
+          pro<lb ed="#P" n="45" break="no"/>ductio passiua in creaturis non sit aliud quam 
+          <lb ed="#P" n="46"/>ipsum productum constitui in esse ab ipso, 
+          <lb ed="#P" n="47"/>ducente. Quemadmodum in diuinis, quod 
+          <lb ed="#P" n="48"/>est falsum. Nam quamuis hoc verum sit in 
+          <lb ed="#P" n="49"/>creaturis, non tamen valet in diuinis, quia 
+          <lb ed="#P" n="50"/>in creaturis cum productum constituitur in 
+          <lb ed="#P" n="51"/>esse, est ibi praeuia realis mutatio cum exitu 
+          <lb ed="#P" n="52"/>de potentia ad actum, in diuinis autem non  
+          <lb ed="#P" n="53"/>est sic, idcirco non est simile, 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e568">
+          <lb ed="#P" n="54"/>Propter ista ergo inconuenientia videtur 
+          <lb ed="#P" n="55"/>mihi dicendum, quod relatio originis in crea 
+          <lb ed="#P" n="56"/>tura non sit idem quod origo. Hoc tamen 
+          <lb ed="#P" n="57"/>non obstante, dico, quod in Deo sunt idem 
+          <!--582.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 557 b -->
+          <lb ed="#P" n="58"/>proprietates relatiuae originis, &amp; ipsae origi 
+          <lb ed="#P" n="59"/>nes, eo quod nullum eorum inconuenientium 
+          <lb ed="#P" n="60"/>superius positorum impedit quin sint idem 
+          <lb ed="#P" n="61"/>in Deo. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e594">
+          <lb ed="#P" n="62"/>Primum quidem non impedit, quia illud 
+          <lb ed="#P" n="63"/>inconueniens currit solum contra illam op 
+          <lb ed="#P" n="64"/>nionem, quae ponit relationem de secundo 
+          <lb ed="#P" n="65"/>modo non esse aliud, quam originem,
+          pro<lb ed="#P" n="66" break="no"/>ut re induit quendam modum
+          praedicamen<lb ed="#P" n="67" break="no"/>ti relationis secundum esse conceptibile, non 
+          <lb ed="#P" n="68"/>solum in creatura, sed etiam in creatore, quoc 
+          <lb ed="#P" n="69"/>quidem dictum improbabitur in sequenti 
+          <lb ed="#P" n="70"/>articulo. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e616">
+          <lb ed="#P" n="71"/>Secundum etiam inconueniens non impe 
+          <lb ed="#P" n="72"/>dit, quia sicut origo aliquo modo praeintell 
+          <lb ed="#P" n="73"/>gitur ipsi producto, tanquam illud quo pro 
+          <lb ed="#P" n="74"/>ducitur, ita relatio praeintelligitur sibi
+          tan<lb ed="#P" n="75" break="no"/>quam illud, quo constituitur, &amp; hoc est
+          sin<lb ed="#P" n="76" break="no"/>gulare in diuinis, quia relatio non supponit 
+          <lb ed="#P" n="77"/>extrema constituta, sed constituit ea; &amp; ideo 
+          <lb ed="#P" n="78"/>non est mirandum si potest coincidere in idem 
+          <lb ed="#P" n="79"/>cum origine. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e638">
+          <lb ed="#P" n="80"/>Tertium etiam nullum praestat impedimen 
+          <lb ed="#P" n="81"/>tum, quia sicut relatio producentis existit 
+          <lb ed="#P" n="82"/>formaliter in ipso producente, ita etiam &amp; 
+          <lb ed="#P" n="83"/>psa origo actiue sumpta in diuinis existit 
+          <lb ed="#P" n="84"/>formaliter in eodem producente¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e651">
+          <lb ed="#P" n="85"/>Nec etiam vltimum inconueniens habet 
+          <lb ed="#P" n="86"/>ibi locum, quia sicut relatio in diuinis nunqum 
+          <lb ed="#P" n="87"/>transit, sed semper manet, ita etiam ipsa 
+          <lb ed="#P" n="88"/>origo.
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e663">
+          <lb ed="#P" n="89"/>Confirmo insuper totum istum
+          proces<lb ed="#P" n="90" break="no"/>sum, quia si relationes originis in diuinis non 
+          <lb ed="#P" n="91"/>essent idem, quod ipsae origines, sequeretur,  
+          <lb ed="#P" n="92"/>quod essent ibi aliqua praedicata, quae nec es 
+          <lb ed="#P" n="93"/>sent secundum substantiam, nec secundum 
+          <lb ed="#P" n="94"/>relationem, quod quidem videtur esse con- 
+          <lb ed="#P" n="95"/>tra intentionem Sanctorum. Propter quae 
+          <lb ed="#P" n="96"/>omnia possumus sufficienter concludere pro 
+          <lb ed="#P" n="97"/>prietates relatiuas esse idem cum ipsis
+          ori<lb ed="#P" n="98" break="no"/>ginibus 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e687">
+          <lb ed="#P" n="99"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="100"/>An proprietates constituant personas inquam 
+          <lb ed="#P" n="101"/>tum origines, vel inquantum
+          proprie<lb ed="#P" n="102" break="no"/>tates relatiuae.
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e698">
+          <lb ed="#P" n="103"/>Vic articulo respodent quidam, quod 
+          <lb ed="#P" n="104"/>nullo modo constituunt personas
+          in<lb ed="#P" n="105" break="no"/>quantum relationes, nisi forte secundum non 
+          <lb ed="#P" n="106"/>stram apprehensionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e709">
+          <lb ed="#P" n="107"/>Nam (secundum eos) impossibile est, quod 
+          <lb ed="#P" n="108"/>eadem realitas &amp; natura rei habeat modum 
+          <!--583.xml-->
+          <pb ed="#P" n="558"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>habitus, &amp; quietis. Si ergo eadem realitas, ex 
+          <lb ed="#P" n="2"/>natura rei habet modum actus, &amp; fluxus, 
+          <lb ed="#P" n="3"/>relatio vero ex natura rei habet modum
+          ha<lb ed="#P" n="4" break="no"/>bitus, &amp; quietis, &amp; si eadem realitas ex
+          na<lb ed="#P" n="5" break="no"/>tura rei esset origo, &amp; relatio, sequeretur, quod 
+          <lb ed="#P" n="6"/>eadem res haberet oppositos modos ex natu 
+          <lb ed="#P" n="7"/>ra rei; quod est impossibile 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e738">
+          <lb ed="#P" n="8"/>2 Quia impossibile est, quod eadem
+          rea<lb ed="#P" n="9" break="no"/>litas posita inter duo extrema sit positiua, &amp;  
+          <lb ed="#P" n="10"/>non positua alterius extremi, quia hoc posi 
+          <lb ed="#P" n="11"/>to, contradictoria verificarentur de eodem 
+          <lb ed="#P" n="12"/>sed realitas importata per generare, posita in 
+          <lb ed="#P" n="13"/>ter patrem, &amp; filium est positua, &amp;
+          causati<lb ed="#P" n="14" break="no"/>ua ipsius filij; paternitas vero posita inter 
+          <lb ed="#P" n="15"/>eosdem non est causatiua filij, quia de ratio 
+          <lb ed="#P" n="16"/>ne relationis non est causare, sed tantummo 
+          <lb ed="#P" n="17"/>do connectere, &amp; refferre, ergo impossibile 
+          <lb ed="#P" n="18"/>est, quod eadem realitas ex natura rei sit ori 
+          <lb ed="#P" n="19"/>go, &amp; paternitas, siue quaecunque alia relatio 
+          <lb ed="#P" n="20"/>producentis. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e769">
+          <lb ed="#P" n="21"/>Et ideo applicando ad propositum dicunt,  
+          <lb ed="#P" n="22"/>quod quia proprietates diuinarum
+          persona<lb ed="#P" n="23" break="no"/>rum ex natura rei sunt origines, cum sini 
+          <lb ed="#P" n="24"/>principiatiuae personarum productarum, non 
+          <lb ed="#P" n="25"/>poterunt esse relationes ex natura rei,
+          pos<lb ed="#P" n="26" break="no"/>sunt tamen induere quendam modum rela  
+          <lb ed="#P" n="27"/>tionum ex apprehensione nostri intellectus 
+          <lb ed="#P" n="28"/>concipientis eas, Vt habitudines connectentes. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e790">
+          <lb ed="#P" n="29"/>Quapropter vlterius dicunt, quod proprie 
+          <lb ed="#P" n="30"/>tates personales constituunt personas ex na 
+          <lb ed="#P" n="31"/>tura rei, inquantum origines, &amp; non inquam 
+          <lb ed="#P" n="32"/>tum relationes, quamuis enim secundum non 
+          <lb ed="#P" n="33"/>stram apprehensionem videantur eas consti 
+          <lb ed="#P" n="34"/>tuere per modum relationum, propter quod 
+          <lb ed="#P" n="35"/>etiam melius significantur per modum rela  
+          <lb ed="#P" n="36"/>tionum, quam per modum originum
+          secun<lb ed="#P" n="37" break="no"/>dum communem vsum loquendi¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e812">
+          <lb ed="#P" n="38"/>Haec autem opinio non potest stare
+          pro<lb ed="#P" n="39" break="no"/>pter quinque 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e819">
+          <lb ed="#P" n="40"/>Primo, quia sequeretur, quod in diuinis 
+          <lb ed="#P" n="41"/>non esset aliquod praedicatum secundum re 
+          <lb ed="#P" n="42"/>lationem, quod est contra intentionem om 
+          <lb ed="#P" n="43"/>nium Doctorum sanctorum. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e830">
+          <lb ed="#P" n="44"/>Secundo sequeretur, quod in Deo non es 
+          <lb ed="#P" n="45"/>set proprie paterimtas, &amp; filiatio, quod vide 
+          <lb ed="#P" n="46"/>tur esse contra intentionem <ref xml:id="gsX5tY-d1e923-Rd1e838">Apost. ad Ephes. 
+            <lb ed="#P" n="47"/>3</ref>. vbi dicit, <quote xml:id="gsX5tY-d1e923-Qd1e843" source="http://scta.info/resource/eph3_15" synch="1-10">ex quo omnis paternitas in caelo,  
+              <lb ed="#P" n="48"/>&amp; in terra nominatur</quote>. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e849">
+          <lb ed="#P" n="49"/>Tertio sequeretur, quod Sacra
+          Scriptu<lb ed="#P" n="50" break="no"/>ra debuisset magis exprimere diuinas
+          perso<lb ed="#P" n="51" break="no"/>nas sub nominibus originum, quam sub nomi 
+          <lb ed="#P" n="52"/>nibus relationum, quod patet esse falsum; 
+          <lb ed="#P" n="53"/>Nec valet si dicant, quod melius
+          significan<lb ed="#P" n="54" break="no"/>tur per nomina relationum, sicut dicere
+          vi<lb ed="#P" n="55" break="no"/>dentur. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e867">
+          <lb ed="#P" n="56"/>Quia vnaquaeque res melius significatur 
+          <lb ed="#P" n="57"/>sub vno modo essendi proprio, qui sibi com¬ 
+          <!--583.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 558 b -->
+          <lb ed="#P" n="58"/>petit, quam sub modo sibi extraneo ex
+          no<lb ed="#P" n="59" break="no"/>stra apprehensione, &amp; maxime si posset a non 
+          <lb ed="#P" n="60"/>bis concipi sub modo essendi proprio, sicut 
+          <lb ed="#P" n="61"/>sub modo essendi extraneo, sicut est in
+          pro<lb ed="#P" n="62" break="no"/>posito, vt patet.
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e892">
+          <lb ed="#P" n="63"/>Quarto sequeretur, quod in traditioneSa 
+          <lb ed="#P" n="64"/>cramentorum Trinitas deberet magis
+          inuo<lb ed="#P" n="65" break="no"/>cari sub nominibus originum, quam sub
+          no<lb ed="#P" n="66" break="no"/>minibus relationum, quod est falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e903">
+          <lb ed="#P" n="67"/>Quinto sequeretur, quod origines essent 
+          <lb ed="#P" n="68"/>realiter distinctae ab essentia, quod est falsum, 
+          <lb ed="#P" n="69"/>&amp; ipsimet qui ponunt hanc opinionem hoc 
+          <lb ed="#P" n="70"/>negarent; Consequentiam probo ex dictis 
+          <lb ed="#P" n="71"/>eorum. Nam ipsi dicunt, quod ideo vna, &amp;  
+          <lb ed="#P" n="72"/>eadem res non potest esse relatio, &amp; origo 
+          <lb ed="#P" n="73"/>ex natura rei, quia tunc vna &amp; eadem res 
+          <lb ed="#P" n="74"/>haberet oppositos modos ex natura rei,
+          scili<lb ed="#P" n="75" break="no"/>cet modum habitus fiuentis, &amp; modum
+          ha<lb ed="#P" n="76" break="no"/>bitus quiescentis, quod reputant
+          impossibi<lb ed="#P" n="77" break="no"/>le; Si ergo iste modus arguendi sit bonus,  
+          <lb ed="#P" n="78"/>pari ratione dicam, quod origo non potest 
+          <lb ed="#P" n="79"/>esse idem realiter, quod essentia, quia cum es 
+          <lb ed="#P" n="80"/>sentia habeat modum habitus quiescentis 
+          <lb ed="#P" n="81"/>origo vero habeat modum habitus fiuentis,  
+          <lb ed="#P" n="82"/>sequeretur, quod vna res ex natura rei habe 
+          <lb ed="#P" n="83"/>ret oppositos modos. Quapropter cogutur 
+          <lb ed="#P" n="84"/>dicere, vel quod in diuinis non sint origines 
+          <lb ed="#P" n="85"/>ex natura rei, vel quod non sunt idem cum 
+          <lb ed="#P" n="86"/>essentia; quod totum patet esse falsum, &amp; 
+          <lb ed="#P" n="87"/>ipsimet negarent vtrunque. Et ex hoc
+          appa<lb ed="#P" n="88" break="no"/>ret immediate, defectus primae rationis eorum. 
+          <lb ed="#P" n="89"/>Apparet etiam defectus secudae, quia imagi 
+          <lb ed="#P" n="90"/>nantur, quod relationes in diuinis supponat 
+          <lb ed="#P" n="91"/>extrema constituta sicut in creaturis; cuius 
+          <lb ed="#P" n="92"/>oppositum dictum est supra in 28. dist. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e962">
+          <lb ed="#P" n="93"/>Propter quae omnia videtur mihi
+          dicen<lb ed="#P" n="94" break="no"/>dum, quod quemadmodum ex natura rei 
+          <lb ed="#P" n="95"/>vna, &amp; eadem res significatur per essentiam, 
+          <lb ed="#P" n="96"/>&amp; quodlibet attributum, quamuis differant 
+          <lb ed="#P" n="97"/>in modo significandi; ita etiam vna, &amp; eade 
+          <lb ed="#P" n="98"/>res ex natura rei importatur per diuersos mo 
+          <lb ed="#P" n="99"/>dos significandi, quia hoc nomen origo,
+          im<lb ed="#P" n="100" break="no"/>portat illam rem per modum actus eliciti, 
+          <lb ed="#P" n="101"/>&amp; productiui, hoc vero nomen proprietas, pr 
+          <lb ed="#P" n="102"/>modum formae inexistentis, hoc autem
+          no<lb ed="#P" n="103" break="no"/>men relatio, per modum formae
+          connecten<lb ed="#P" n="104" break="no"/>tis, &amp; referentis, &amp; quia ista tria competunt 
+          <lb ed="#P" n="105"/>proprietati personali ex natura rei, idcirco 
+          <lb ed="#P" n="106"/>nullus istorum modorum signifiandi est ex- 
+          <lb ed="#P" n="107"/>traneus.
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e997">
+          <lb ed="#P" n="108"/>Remanet tamen dubium secudum quem 
+          <lb ed="#P" n="109"/>istorum modorum debeamus magis poni
+          pprie<lb ed="#P" n="110" break="no"/>tas principium constitutiuum. Nam quidam di 
+          <lb ed="#P" n="111"/>cunt, quod constituit inquantum origo, alij 
+          <lb ed="#P" n="112"/>vero inquantum relatio; vt aque tamen opi- 
+          <lb ed="#P" n="113"/>nio videtur irrationabilis, quia quilibet
+          isto<lb ed="#P" n="114" break="no"/>rum duorum modorum videtur supponero 
+          <!--584.xml-->
+          <pb ed="#P" n="559"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>suppositum constitutum Origo nanque
+          vi<lb ed="#P" n="2" break="no"/>detur supponere suppositum constitutum, 
+          <lb ed="#P" n="3"/>quia cum significetur per modum actus
+          eli<lb ed="#P" n="4" break="no"/>citi, &amp; actus non possit elici nisi a
+          supposi<lb ed="#P" n="5" break="no"/>to, ex ipso modo significandi videtur sequi ad  
+          <lb ed="#P" n="6"/>suppositum constitutum. Similiter &amp; ipsa
+          re<lb ed="#P" n="7" break="no"/>latio ex suo modo significandi videtur sequi 
+          <lb ed="#P" n="8"/>ad suppositum constitutum, quia cum relatio 
+          <lb ed="#P" n="9"/>innascatur ex origine, si origo supponit
+          sup<lb ed="#P" n="10" break="no"/>positum constitutum, multo magis relatio. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1043">
+          <lb ed="#P" n="11"/>Et ideo dico, quod quamuis sit vna, &amp;
+          ea<lb ed="#P" n="12" break="no"/>dem res importata per ista tria, ista tamen 
+          <lb ed="#P" n="13"/>res magis videtur constituere secundum quod 
+          <lb ed="#P" n="14"/>significatur nomine proprietatis, quam
+          secun<lb ed="#P" n="15" break="no"/>dum quod significatur nomine originis &amp; re- 
+          <lb ed="#P" n="16"/>lationis quia, proprietas habet rationem
+          for<lb ed="#P" n="17" break="no"/>mae inexistentis, &amp; non videtur supponere 
+          <lb ed="#P" n="18"/>suppositum constitutum, sicut origo, &amp; re- 
+          <lb ed="#P" n="19"/>atio. Ista autem duo videntur esse maxime 
+          <lb ed="#P" n="20"/>de ratione principij constitutiui alicuius 
+          <lb ed="#P" n="21"/>suppositi, quod scilicet inexistat ei per
+          mo<lb ed="#P" n="22" break="no"/>dum formae intrinsecae: &amp; per consequens, 
+          <lb ed="#P" n="23"/>quod non supponat ipsum constitutum in 
+          <lb ed="#P" n="24"/>suo esse 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1076">
+          <lb ed="#P" n="25"/>Intelligendum tamen, quod cum dicimus 
+          <lb ed="#P" n="26"/>relationem personalem esse constitutiuam 
+          <lb ed="#P" n="27"/>non secundum quod relatio est, sed
+          inquan<lb ed="#P" n="28" break="no"/>tum proprietas est; non debet ibi accipi illa  
+          <lb ed="#P" n="29"/>negatio, vel reduplicatio quasi circumscribens 
+          <lb ed="#P" n="30"/>rationem relationis a ratione proprietatis 
+          <lb ed="#P" n="31"/>sicut quidam imaginantur, quia impossibile 
+          <lb ed="#P" n="32"/>est separare rationem praedicamenti ab
+          ali<lb ed="#P" n="33" break="no"/>qua re, quae sit in praedicamento: Cum ergo 
+          <lb ed="#P" n="34"/>proprietas constitutiua sit de praedicamento 
+          <lb ed="#P" n="35"/>relationis, impossibile est, quod ratio
+          relatio<lb ed="#P" n="36" break="no"/>nis ab ea circumscribatur. Ideo separatur hoc 
+          <lb ed="#P" n="37"/>pacto, non quod ly inquantum sit nota circum 
+          <lb ed="#P" n="38"/>scriptionis, vel abstractionis (vt plures
+          ima<lb ed="#P" n="39" break="no"/>gi antur) sed vt sit nota appropriationis &amp;  
+          <lb ed="#P" n="40"/>secundum hoc, sit talis sensus. Relatio
+          con<lb ed="#P" n="41" break="no"/>stituit, secudum quod proprietas, &amp; non
+          se<lb ed="#P" n="42" break="no"/>cundum quod relatio, scilicet, appropriatur 
+          <lb ed="#P" n="43"/>sibi hoc, quod est constituere personam,
+          se<lb ed="#P" n="44" break="no"/>cundum quod est proprietas insistens, &amp; non 
+          <lb ed="#P" n="45"/>secundum quod est relatio referens,
+          quam<lb ed="#P" n="46" break="no"/>uis hoc ab ea non circumscribatur.
+          Quem<lb ed="#P" n="47" break="no"/>admodum si diceremus, quod rationale
+          con<lb ed="#P" n="48" break="no"/>stituit hominem, secundum quod rationale, 
+          <lb ed="#P" n="49"/>&amp; non secundum quod ens, quamuis ratio 
+          <lb ed="#P" n="50"/>entis ab eo non circumscribatur, quia tunc 
+          <lb ed="#P" n="51"/>esset non ens patet ergo quid sit dicendum 
+          <lb ed="#P" n="52"/>de isto articulo. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1140">
+          <lb ed="#P" n="53"/>ARTICVLVS TERTIVS. 
+          <lb ed="#P" n="54"/>An abstractis proprietatibus per intellectum 
+          <lb ed="#P" n="55"/>remaneant personae constitutae.
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1149">
+          <!--584.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 559 b -->
+          <lb ed="#P" n="56"/>Vic articulo breuiter respodeo, quod 
+          <lb ed="#P" n="57"/>si diuinae personae constituerentur per 
+          <lb ed="#P" n="58"/>absolutos modos (sicut posuerunt quidam 
+          <lb ed="#P" n="59"/>possent intelligi constitutae abstractis etiam  
+          <lb ed="#P" n="60"/>relationibus per intellectum, Tum quia
+          vna<lb ed="#P" n="61" break="no"/>quaeque res potest intelligi constituta in suo 
+          <lb ed="#P" n="62"/>esse, abstracto omni quod non intrat in sui 
+          <lb ed="#P" n="63"/>constitutionem: sicut facerent in proposito 
+          <lb ed="#P" n="64"/>proprietates, quae essent quasi aduentitiae.  
+          <lb ed="#P" n="65"/>Tum quia semper prius potest intelligi
+          con<lb ed="#P" n="66" break="no"/>stitutum abstracto posteriori; diuinae autem 
+          <lb ed="#P" n="67"/>personae, cum illis modis absolutis (secudum 
+          <lb ed="#P" n="68"/>viam istius opin) essent priores relationibus; 
+          <lb ed="#P" n="69"/>&amp; ideo nihil prohiberet, quin possent
+          intel<lb ed="#P" n="70" break="no"/>ligi constitutae eis abstractis. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1191">
+          <lb ed="#P" n="71"/>lsta tamen opinio fuit superius improbata 
+          <lb ed="#P" n="72"/>in 20. distinc. &amp; ideo non est respondendum 
+          <lb ed="#P" n="73"/>huic articulo secundum principia eius. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1200">
+          <lb ed="#P" n="74"/>Praeterea, si concederetur possibile esse, quid 
+          <lb ed="#P" n="75"/>ratio relationis circumscriberetur a ratione 
+          <lb ed="#P" n="76"/>proprietatis constitutiuae (sicut plures
+          ima<lb ed="#P" n="77" break="no"/>ginantur) cogeremur etiam dicere, quod
+          ab<lb ed="#P" n="78" break="no"/>stracta ratione relationis per intellectum, ad 
+          <lb ed="#P" n="79"/>huc remaneret ratio proprietatis, &amp; per con 
+          <lb ed="#P" n="80"/>sequens possent intelligi personae constitutae 
+          <lb ed="#P" n="81"/>cum proprietatibus abstractis relationibus; 
+          <lb ed="#P" n="82"/>sed haec sententia videtur omnino
+          impossibi<lb ed="#P" n="83" break="no"/>lis, sicut patuit in articulo praecedente. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1224">
+          <lb ed="#P" n="84"/>uapropter simpliciter dico, quod abstra 
+          <lb ed="#P" n="85"/>ctis proprietatibus relatiuis per intellectum, 
+          <lb ed="#P" n="86"/>vel nullo modo remanerent personae
+          consti<lb ed="#P" n="87" break="no"/>tutae, vel remanerent constitutae per modos 
+          <lb ed="#P" n="88"/>absolutos, quod probo, tali ratione. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1237">
+          <lb ed="#P" n="89"/>Nulla res potest intelligi constituta sine 
+          <lb ed="#P" n="90"/>suo principio constitutiuo, sed proprietates 
+          <lb ed="#P" n="91"/>relatiuae sunt constitutiuae diuinarum
+          perso<lb ed="#P" n="92" break="no"/>narum (vt suppono ex his quae dicta fuerunt 
+          <lb ed="#P" n="93"/>in 20. dist) ergo &amp;c. &amp; sic patet de isto
+          ar<lb ed="#P" n="94" break="no"/>ticulo, &amp; tota quaestione 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1254">
+          <lb ed="#P" n="95"/>AD RATIONES PRINCIPALES 
+          <lb ed="#P" n="96"/>D primam dicendum, quod quamuis 
+          <lb ed="#P" n="97"/>proprietates relatiuae secundum
+          no<lb ed="#P" n="98" break="no"/>strum modum concipiendi, &amp; significandi 
+          <lb ed="#P" n="99"/>supponant origines inquantum relationes,  
+          <lb ed="#P" n="100"/>praecedunt tamen eas inquantum
+          proprieta<lb ed="#P" n="101" break="no"/>tes, &amp; neutrum istorum impedit earum iden 
+          <lb ed="#P" n="102"/>titatem, quia talis ordo non est secundumrem, 
+          <lb ed="#P" n="103"/>sed solum secundum rationem, &amp; modum 
+          <lb ed="#P" n="104"/>significandi. 
+        </p>
+        <p xml:id="gsX5tY-d1e923-d1e1278">
+          <lb ed="#P" n="105"/>Ad secundam rationem iam patet solutio: 
+          <lb ed="#P" n="106"/>quia (sicut tactum est) quamuis proprietates 
+          <lb ed="#P" n="107"/>relatiuae sequantur origines, inquantum sunt 
+          <lb ed="#P" n="108"/>quaedam relationes, praecedunt tamen eas in 
+          <lb ed="#P" n="109"/>quantum quaedam proprietates, &amp; per
+          ean<lb ed="#P" n="110" break="no"/>dem viam patet solutio ad tertiam.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,580 +1,580 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="567"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e977"> <!-- l1d36q1 -->
-            <head xml:id="gsX5tY-d1e977-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e977-Hd1e112" type="question-title">Utrum in Deo sint Ideae.</head>
-            <p xml:id="gsX5tY-d1e977-d1e115">
-               <lb ed="#P" n="93"/>DISTINCTIONIS XXXVI.
-      <lb ed="#P" n="94"/>QVAESTIO VNICA 
-      <lb ed="#P" n="95"/>Vtrum in Deo sint ideae
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e124">
-               <lb ed="#P" n="96"/>ARGVITVR AD PARTEM 
-      <lb ed="#P" n="97"/>negantem. 
-      <lb ed="#P" n="98"/>1 IDeae aut sunt rationes absolutae, autem  
-      <lb ed="#P" n="99"/>respectiuae, non absolutae, quia tunc non 
-      <lb ed="#P" n="100"/>importarent respectum ad ideata, quod est 
-      <lb ed="#P" n="101"/>falsum, imo sequeretur, quod non differrent 
-      <lb ed="#P" n="102"/>a rationibus attributalibus, nec respectiuae, 
-      <lb ed="#P" n="103"/>quia sunt exemplaria ideatorum, ratio autem 
-      <lb ed="#P" n="104"/>respectiua non potest habere rationem exem  
-      <lb ed="#P" n="105"/>plaris.
-      v
-      <lb ed="#P" n="106"/>2 In Deo non possunt poni plures ideae 
-      <!--593.xml-->
-      <pb ed="#P" n="568"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>sine aliqua distinctione, sed non est ibi poss 
-      <lb ed="#P" n="2"/>sibilis aliqua distinctio, ergo &amp;c. Maior
-      pa<lb ed="#P" n="3" break="no"/>tet: &amp; Minor probatur, quin non est
-      possibi<lb ed="#P" n="4" break="no"/>lis aliqua distinctio realis praeter
-      distinctio<lb ed="#P" n="5" break="no"/>nem personarum, nec etiam potest ibi esse  
-      <lb ed="#P" n="6"/>aliqua distinctio rationis, quia ideae
-      secun<lb ed="#P" n="7" break="no"/>dum illud totum quod sunt, praecedunt ipsa 
-      <lb ed="#P" n="8"/>ideata, si autem esset inter ea solum distinctio 
-      <lb ed="#P" n="9"/>rationis, oriretur exidistinctione reali
-      idea<lb ed="#P" n="10" break="no"/>torum, ac per consequens ideae non praecede 
-      <lb ed="#P" n="11"/>rent ideata, immo magis e conuerso.  
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e182">
-               <lb ed="#P" n="12"/>3 Si ideae sunt in Deo, vel deseruiunt es 
-      <lb ed="#P" n="13"/>ad cognitionem, vel ad operationem, non ad 
-      <lb ed="#P" n="14"/>cognitionem, quia sicut est ibi vna tantum 
-      <lb ed="#P" n="15"/>cognitio, ita vnum tantum principium illius 
-      <lb ed="#P" n="16"/>cognitionis, scilicet sua essentia, nec etiam ad 
-      <lb ed="#P" n="17"/>operationem, quia operatio supponit
-      cogni<lb ed="#P" n="18" break="no"/>tionem, ac per consequens videntur ibi
-      fru<lb ed="#P" n="19" break="no"/>stra poni. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e202">
-               <lb ed="#P" n="20"/>AD OPPOSITVM ARGVITVR 
-      <lb ed="#P" n="21"/>1QEcundum Patrem Augustinum in libro 
-      <lb ed="#P" n="22"/>Aoctuaginta trium quaest. quaest. 20 tanta 
-      <lb ed="#P" n="23"/>vis est in ideis, vt sine eis sapiens nemo esse  
-      <lb ed="#P" n="24"/>possit, cum ergo Deus sit summe sapiens,
-      se<lb ed="#P" n="25" break="no"/>quitur quod habeat in se ideas
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e218">
-               <lb ed="#P" n="26"/>2 Et confirmo rationem: quia videmus,  
-      <lb ed="#P" n="27"/>quod artifex creatus, ad hoc vt ordinate agat 
-      <lb ed="#P" n="28"/>ponitur praehabere ideas eorum, quae
-      pro<lb ed="#P" n="29" break="no"/>ducit, multo ergo magis artifex increatus,  
-      <lb ed="#P" n="30"/>qui ordinatissime agit. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e231">
-               <lb ed="#P" n="31"/>RESPONDEO. In ista quaestione tria 
-      <lb ed="#P" n="32"/>sunt videnda propter argumenta proposita 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e238">
-               <lb ed="#P" n="33"/>1 An ideae sint in Deo, &amp; quid sint
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e243">
-               <lb ed="#P" n="34"/>2 An inter eas sit aliqua distinctio.  
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e249">
-               <lb ed="#P" n="35"/>3 An idea sit principium cognoscendi, vel 
-      <lb ed="#P" n="36"/>operandi. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e256">
-               <lb ed="#P" n="37"/>ARTICVLVS PRIMV 
-      <lb ed="#P" n="38"/>Vtrum ideae sint in Deo, &amp; quid sint. 
-      <lb ed="#P" n="39"/>Vide Doctores supra citatos. <!-- needs to be deleted in image coords -->
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e267">
-               <lb ed="#P" n="40"/>QVantum ad hoc est intelligendum, quod 
-      <lb ed="#P" n="41"/>nomine ideae importatur aliqua
-      for<lb ed="#P" n="42" break="no"/>ma exemplaris, ad cuius imitationem agens 
-      <lb ed="#P" n="43"/>per intellectum potest aliquid producere, &amp;  
-      <lb ed="#P" n="44"/>ideo de ratione ideae videntur esse duo,
-      pri<lb ed="#P" n="45" break="no"/>mum est vt sit forma exemplaris, secundum est,  
-      <lb ed="#P" n="46"/>vt sit forma intellectualis. Et hinc est, quod 
-      <lb ed="#P" n="47"/>ideae diuinae dicuntur exemplaria
-      existen<lb ed="#P" n="48" break="no"/>tium, sicut patet per D. Dionysium quinto 
-      <lb ed="#P" n="49"/>de Diuinis nominibus, quod quidem
-      com<lb ed="#P" n="50" break="no"/>petit eis ex eo quod idea est forma
-      exempla<lb ed="#P" n="51" break="no"/>ris; vlterius dicuntur etiam rationes rerum 
-      <lb ed="#P" n="52"/>fiendarum in diuina arte contentae, sicut
-      pa<lb ed="#P" n="53" break="no"/>tet ex Augustino 85. qud quaest de ldaeis, quod 
-      <lb ed="#P" n="54"/>quidem competit eis, ex eo quod idea est for 
-      <lb ed="#P" n="55"/>ma intellectualis. Ex quibus apparet, quod 
-      <!--593.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 568 b -->
-               <lb ed="#P" n="56"/>in Deo sunt ponendae ideae, tum quia idea 
-      <lb ed="#P" n="57"/>est forma exemplaris, &amp; ipse est prima forma 
-      <lb ed="#P" n="58"/>exemplaris continens exemplaria omnium 
-      <lb ed="#P" n="59"/>entium, tum etiam quia idea est forma
-      intel<lb ed="#P" n="60" break="no"/>lectualis, per quam artifex rationabiliter, &amp;  
-      <lb ed="#P" n="61"/>ordinate agit, &amp; ipse est entium artifex
-      ra<lb ed="#P" n="62" break="no"/>tionabiliter, &amp; ordinate agens, propter quod 
-      <lb ed="#P" n="63"/>dicitur de Deo Sap. 11. quod omnia
-      consti<lb ed="#P" n="64" break="no"/>tuit in numero, pondere, &amp; mensura; Et ideo 
-      <lb ed="#P" n="65"/>possumus conuenienter concludere in Deo 
-      <lb ed="#P" n="66"/>esse ideas quod etiam apparet ex intentione 
-      <lb ed="#P" n="67"/>D. Aug. superius allegati. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e337">
-               <lb ed="#P" n="68"/>Et ideo supposito, quod in Deo sint ideae; 
-      <lb ed="#P" n="69"/>est vlterius inquirendum quid sint ipsae ideae 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e344">
-               <lb ed="#P" n="70"/>Dicunt ergo quidam, quod ideae in Deo 
-      <lb ed="#P" n="71"/>ni <!-- image coords error -->
-      <lb ed="#P" n="72"/>non sunt aliud, quam quidditates retum
-      creata<lb ed="#P" n="73" break="no"/>rum, prout sunt cognitae ab eo, taquam quae 
-      <lb ed="#P" n="74"/>dam obiecta secudaria relucentia in sua essetia. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e360">
-               <lb ed="#P" n="75"/>Probatur autem ista opinio; quia modus 
-      <lb ed="#P" n="76"/>ponendi ideas habitus ab Augustino non dis 
-      <lb ed="#P" n="77"/>fert a modo ponendi Platonis, nisi quia
-      Pla<lb ed="#P" n="78" break="no"/>to ponebat eas per se subsistentes extra
-      diui<lb ed="#P" n="79" break="no"/>num intellectum; P. Augustinus vero ponit 
-      <lb ed="#P" n="80"/>eas in diuino intellectu, sicut ergo apud
-      Pla<lb ed="#P" n="81" break="no"/>tonem ideae sunt ipsae quidditates
-      subsisten<lb ed="#P" n="82" break="no"/>tes extra diuinum intellectum; ita secundum 
-      <lb ed="#P" n="83"/>intentionem Patris Augustini videntur esse 
-      <lb ed="#P" n="84"/>pedem quidditates, prout sunt in prospectu 
-      <lb ed="#P" n="85"/>diuini intellectus, tanquam secundaria
-      obie<lb ed="#P" n="86" break="no"/>cta in sua essentia relucentia.
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e390">
-               <lb ed="#P" n="87"/>lsta tamen opinio non videtur posse stare 
-      <lb ed="#P" n="88"/>propter quatuor. 
-      <lb ed="#P" n="89"/>Primo, quia sequeretur, quod quidditates 
-      <lb ed="#P" n="90"/>rerum creatarum constituerent Deum in esse 
-      <lb ed="#P" n="91"/>sapientis; quod est absurdum, consequentia 
-      <lb ed="#P" n="92"/>apparet, quia sicut dicebatur supra per
-      Au<lb ed="#P" n="93" break="no"/>gustinum, tanta est vis in ideis, vt sine eis nul 
-      <lb ed="#P" n="94"/>lus sit sapiens 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e410">
-               <lb ed="#P" n="95"/>Secundo sequeretur, quod quidditates. 
-      <lb ed="#P" n="96"/>rerum creatarum beatificarent animam
-      ra<lb ed="#P" n="97" break="no"/>tionalem, quod est absurdum, consequentia 
-      <lb ed="#P" n="98"/>patet per P. Augustinum vbi supra dicentem, 
-      <lb ed="#P" n="99"/>quod visione idearum anima rationalis fit 
-      <lb ed="#P" n="100"/>beatissima. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e426">
-               <lb ed="#P" n="101"/>Tertio sequeretur, quod idem esset idea, 
-      <lb ed="#P" n="102"/>&amp; ideatum, quod nullus diceret, consequen 
-      <lb ed="#P" n="103"/>tia apparet, quia quicquid potest produci 
-      <lb ed="#P" n="104"/>extra Deum, est ideatum, sed dictae
-      quiddita<lb ed="#P" n="105" break="no"/>tes cognitae possunt produci, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e439">
-               <lb ed="#P" n="106"/>Quarto sequeretur, quod ideatum esses 
-      <lb ed="#P" n="107"/>potioris entitatis, quam ipsa idea, quod est 
-      <lb ed="#P" n="108"/>talde absurdum, consequentia patet, quia 
-      <lb ed="#P" n="109"/>quidditates, prout habent solum esse cogni 
-      <lb ed="#P" n="110"/>tum, habent esse diminutum, quatenus vero 
-      <lb ed="#P" n="111"/>habent esse in effectu, secundum quem mo 
-      <lb ed="#P" n="112"/>dum dicuntur ideata, habent esse reale
-      per<lb ed="#P" n="113" break="no"/>fectum. 
-      <!--594.xml-->
-      <pb ed="#P" n="569"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Nec confirmatio istius opinionis valet; 
-      <lb ed="#P" n="2"/>quia si Plato intellexit, sicut Aristot. ei im 
-      <lb ed="#P" n="3"/>ponit, non solum est differentia inter modum 
-      <lb ed="#P" n="4"/>ponendi Platonis, &amp; Aug. in eo quod dictum 
-      <lb ed="#P" n="5"/>est, sed in multis alijs 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e476">
-               <lb ed="#P" n="6"/>Et ideo alij dicunt, quod ldeae in Deo non 
-      <lb ed="#P" n="7"/>sunt ipsae res cognitae, sed ipsamet cognitio 
-      <lb ed="#P" n="8"/>diuina, qua cognoscuntur, quod probant ex 
-      <lb ed="#P" n="9"/>duobus, primo quia ldaea est forma intelle 
-      <lb ed="#P" n="10"/>ctualis, per quam Deus libere producit, nunc 
-      <lb ed="#P" n="11"/>autem nulla talis forma est in intellectu
-      di<lb ed="#P" n="12" break="no"/>uino, praeter quam sua cognitio. Nam diuina 
-      <lb ed="#P" n="13"/>essentia magis est quaedam forma naturalis 
-      <lb ed="#P" n="14"/>naturaliter principians, quam quaedam
-      for<lb ed="#P" n="15" break="no"/>ma idealis.
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e500">
-               <lb ed="#P" n="16"/>Secundo, quia de ratione ldeae est, quod 
-      <lb ed="#P" n="17"/>sit principium productiuum immediatum, 
-      <lb ed="#P" n="18"/>&amp; sua cognitio est huiusmodi, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e510">
-               <lb ed="#P" n="19"/>Sed nec ista opinio stare potest propter 
-      <lb ed="#P" n="20"/>quatuor. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e517">
-               <lb ed="#P" n="21"/>Primo, quia de ratione ldeae est, quod sit 
-      <lb ed="#P" n="22"/>primum exemplar in aliud non reducibile 
-      <lb ed="#P" n="23"/>nunc autem exemplar, quod est cognitio, re 
-      <lb ed="#P" n="24"/>ducitur in exemplar, quod est essentia; nam 
-      <lb ed="#P" n="25"/>secundum nostrum intelligendi modum esse  
-      <lb ed="#P" n="26"/>praecedit cognitionem, sicut obiectum praece 
-      <lb ed="#P" n="27"/>dit actum. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e535">
-               <lb ed="#P" n="28"/>Secundo, quia de ratione ldeae est, quod 
-      <lb ed="#P" n="29"/>sit illud ad quod artifex aspicit, dicente Se- 
-      <lb ed="#P" n="30"/>neca in quadamEpistola ad Lucillum, quod 
-      <lb ed="#P" n="31"/>Idea est exemplar, ad quod respiciens
-      arti<lb ed="#P" n="32" break="no"/>fex operatur, quicquid operatur. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e548">
-               <lb ed="#P" n="33"/>Tertio, quia ldea multiplicatur, &amp; ideo 
-      <lb ed="#P" n="34"/>conceditur, quod sint multae ldeae in Deo, 
-      <lb ed="#P" n="35"/>nullo tamen modo conceditur, quod sint in 
-      <lb ed="#P" n="36"/>eo multae cognitiones. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e559">
-               <lb ed="#P" n="37"/>Quarto, quia sequeretur, quod omnia, 
-      <lb ed="#P" n="38"/>quae essent a Deo cognita, haberent in Deo 
-      <lb ed="#P" n="39"/>ldeam, quod patet esse falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e568">
-               <lb ed="#P" n="40"/>Motiua etiam eorum non valent. Primum 
-      <lb ed="#P" n="41"/>quidem, quia sicut essentia est forma
-      natu<lb ed="#P" n="42" break="no"/>ralis, &amp; naturaliter representans, ita etiam  
-      <lb ed="#P" n="43"/>&amp; ipsa cognitio. Vlterius etiam
-      quantum<lb ed="#P" n="44" break="no"/>cunque sit forma naturalis, non tamen
-      appli<lb ed="#P" n="45" break="no"/>catur ad opus extrinsecum, nisi mediant 
-      <lb ed="#P" n="46"/>virtute. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e587">
-               <lb ed="#P" n="47"/>Non valet etiam secundum, quia si imme 
-      <lb ed="#P" n="48"/>diatio faceret ad propositum, tunc diuina vo 
-      <lb ed="#P" n="49"/>litio magis deberet poni ldea, quia immedia 
-      <lb ed="#P" n="50"/>tius principiat, quam essentia. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e598">
-               <lb ed="#P" n="51"/>Est ergo alia opinio, quae ponit, quod 
-      <lb ed="#P" n="52"/>ldeae in Deo sunt ipsamet essentia cum
-      re<lb ed="#P" n="53" break="no"/>spectu imitabilitatis; nam quia ldea est exem 
-      <lb ed="#P" n="54"/>plar, videtur quod de sua ratione sit esse imi 
-      <lb ed="#P" n="55"/>tabile, volunttamen quod iste respectus non 
-      <lb ed="#P" n="56"/>sit in diuina essentia, nisi vt intellecta. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e614">
-               <lb ed="#P" n="57"/>Arguitur tamen a pluribus contra istam  
-      <!--594.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 569 b -->
-               <lb ed="#P" n="58"/>opinionem, quia de ratione ldeae est, quod 
-      <lb ed="#P" n="59"/>sit exemplar, &amp; quod sit factiua, respectus 
-      <lb ed="#P" n="60"/>autem non est exemplar, nec est factiuus. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e632">
-               <lb ed="#P" n="61"/>Praeterea idea debet precedere ipsum idea 
-      <lb ed="#P" n="62"/>tum, talis autem respectus cum sit virtus ra 
-      <lb ed="#P" n="63"/>tionis magis sequitur ipsum, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e641">
-               <lb ed="#P" n="64"/>His tamen non obstantibus dico
-      opinio<lb ed="#P" n="65" break="no"/>nem Doctoris nostri, si bene intelligatur,
-      es<lb ed="#P" n="66" break="no"/>se caeteris magis rationabilem 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e650">
-               <lb ed="#P" n="67"/>Ad cuius euidentiam est intelligendum, 
-      <lb ed="#P" n="68"/>quod duobus modis potest intelligi diuinam 
-      <lb ed="#P" n="69"/>essentiam esse ldeam sub respectu
-      imitabili<lb ed="#P" n="70" break="no"/>tatis, vno modo ita ut intelligatur talis 
-      <lb ed="#P" n="71"/>respectus esse differentia intrinseca, &amp;
-      con<lb ed="#P" n="72" break="no"/>stitutiua ldeae, &amp; iste sensus est falsus, quia 
-      <lb ed="#P" n="73"/>tunc rationesqe imediate factae sunt contra prae 
-      <lb ed="#P" n="74"/>fatam opinionem, procederent: euidenter, alio 
-      <lb ed="#P" n="75"/>modo potest intelligi, quod essentia sub isto 
-      <lb ed="#P" n="76"/>respectu sit ldea, ita tamen, vt talis
-      respe<lb ed="#P" n="77" break="no"/>ctus non sit sua differentia intrinseca, &amp; con 
-      <lb ed="#P" n="78"/>stitutiua, sed magis quaedam passio
-      extrinse<lb ed="#P" n="79" break="no"/>ca distinctiua, &amp; talis sensus est verus; nam, 
-      <lb ed="#P" n="80"/>sicut patebit in sequenti articulo, talis respe 
-      <lb ed="#P" n="81"/>ctus est principium distinctionis inter ldeas,  
-      <lb ed="#P" n="82"/>&amp; hoc modo intelligendo, rationes in
-      con<lb ed="#P" n="83" break="no"/>trarium factae non cogunt. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e690">
-               <lb ed="#P" n="84"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="85"/>Vtrum inter ldeas sit aliqua distinctio. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e697">
-               <lb ed="#P" n="86"/> D hoc autem breuiter est dicendum, 
-      <lb ed="#P" n="87"/>quod si volumus saluare pluralitate 
-      <lb ed="#P" n="88"/>idearum, oportet ibi ponere aliquam distin 
-      <lb ed="#P" n="89"/>ctionem, quia impossibile est dare aliquam 
-      <lb ed="#P" n="90"/>pluralitatem sine distinctione: Sed si
-      quae<lb ed="#P" n="91" break="no"/>ratur vlterius, vtrum ista distinctio sit realis 
-      <lb ed="#P" n="92"/>vel rationis, dico quod est rationis, quia nul 
-      <lb ed="#P" n="93"/>la distinctio realis est in Deo praeter
-      distin<lb ed="#P" n="94" break="no"/>ctionem personarum. Si autem quaeratur 
-      <lb ed="#P" n="95"/>ulterius, vtrum talis distinctio rationis
-      pro<lb ed="#P" n="96" break="no"/>ueniat ex nostro modo intelligendi, vel ex 
-      <lb ed="#P" n="97"/>natura rei necessitantis, dico quod prouenit 
-      <lb ed="#P" n="98"/>ex natura rei necessitantis, idque patet ex 
-      <lb ed="#P" n="99"/>duobus 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e730">
-               <lb ed="#P" n="100"/>Primo, quia si talis distinctio proueniret 
-      <lb ed="#P" n="101"/>ex nostro modo intelligendi, sequeretur, quod 
-      <lb ed="#P" n="102"/>non haberet locum in patria, vbi noster
-      in<lb ed="#P" n="103" break="no"/>telligendi modus erit perfectus, quod est fal 
-      <lb ed="#P" n="104"/>sum: Consequentia est nota, Falsitas
-      appa<lb ed="#P" n="105" break="no"/>ret per D. August. superius allegatum dice 
-      <lb ed="#P" n="106"/>tem, quod anima rationalis visione ldearum 
-      <lb ed="#P" n="107"/>fit beatissima, constat autem Augustinum 
-      <!--595.xml-->
-      <pb ed="#P" n="570"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>ibi loqui de visione patrie, &amp; tamen
-      nomi<lb ed="#P" n="2" break="no"/>nat Ideas in plurali, qui quidem modus
-      lo<lb ed="#P" n="3" break="no"/>quendi omnino esset falsus, nisi distinctio 
-      <lb ed="#P" n="4"/>idearum haberet locum in patria.
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e765">
-               <lb ed="#P" n="5"/>Secundo, quia illa distinctio rationis pro 
-      <lb ed="#P" n="6"/>uenit ex natura rei necessitantis, quae quidem 
-      <lb ed="#P" n="7"/>habet pro immediato fundamento ipsam re 
-      <lb ed="#P" n="8"/>secundum suum esse conceptibile, &amp;
-      defini<lb ed="#P" n="9" break="no"/>bile; distinctio rationis inter ideas est
-      huius<lb ed="#P" n="10" break="no"/>modi, ergo &amp;c. Maior est nota, quia cum quae 
-      <lb ed="#P" n="11"/>libet res necessario habeat suum esse
-      conce<lb ed="#P" n="12" break="no"/>ptibile, &amp; definibile, quicquid prouenit im 
-      <lb ed="#P" n="13"/>mediate ex esse rei conceptibili, &amp;
-      definibi<lb ed="#P" n="14" break="no"/>li, prouenit ex natura rei necessitantis;
-      pro<lb ed="#P" n="15" break="no"/>bo minorem, quia ideae secundum suum
-      es<lb ed="#P" n="16" break="no"/>se conceptibile, &amp; definibile comnotant distin 
-      <lb ed="#P" n="17"/>ctionem realem ideatorum, &amp; ex hoc ipso 
-      <lb ed="#P" n="18"/>habent, quod necessitent intellectum ad
-      di<lb ed="#P" n="19" break="no"/>stinguendum inter eas, quia impossibile est 
-      <lb ed="#P" n="20"/>concipere eas cum suis diuersis connotatis,  
-      <lb ed="#P" n="21"/>secundum vnam, &amp; eandem rationem, &amp; sic 
-      <lb ed="#P" n="22"/>patet distinctionem rationis inter ideas esse 
-      <lb ed="#P" n="23"/>ex natura rei necessitantis.
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e809">
-               <lb ed="#P" n="24"/>Sciendum tamen, quod quamuis ista
-      di<lb ed="#P" n="25" break="no"/>stinctio sit ex natura rei necessita ntis quem 
-      <lb ed="#P" n="26"/>admodum distinctio, quae est inter relationem, 
-      <lb ed="#P" n="27"/>&amp; essentiam (vt dictum fuit supra) non
-      ta<lb ed="#P" n="28" break="no"/>men est eodem modo, quia distinctio
-      ratio<lb ed="#P" n="29" break="no"/>nis, quae est inter relationem, &amp; essentiam 
-      <lb ed="#P" n="30"/>non supponit aliquam distinctionem realem  
-      <lb ed="#P" n="31"/>extrinsecam, distinctio vero rationis inter 
-      <lb ed="#P" n="32"/>ideas supponit necessario distinctionem rea 
-      <lb ed="#P" n="33"/>lem ideatorum, hoc autem contingit, quia 
-      <lb ed="#P" n="34"/>ideae secundum suum esse conceptibile, &amp;  
-      <lb ed="#P" n="35"/>definibile connotant ipsum ideatum, quod 
-      <lb ed="#P" n="36"/>est quasi extrinsecum, diuina Vero essentia, 
-      <lb ed="#P" n="37"/>vel ipsa relatio non connotant aliquid extrin 
-      <lb ed="#P" n="38"/>secum secundum suum esse conceptibile, &amp;  
-      <lb ed="#P" n="39"/>definibile 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e846">
-               <lb ed="#P" n="40"/>Et ideo debemus dicere de distinctione 
-      <lb ed="#P" n="41"/>idecrum, quemadmodum dicebamus
-      supe<lb ed="#P" n="42" break="no"/>rius in prima distinct. de distinctione, quae 
-      <lb ed="#P" n="43"/>ponebatur inter obiectum voluntatis, &amp;
-      in<lb ed="#P" n="44" break="no"/>tellectus; nam sicut ibi dicebatur, quod vna 
-      <lb ed="#P" n="45"/>&amp; eadem res induebat diuersas rationes
-      ob<lb ed="#P" n="46" break="no"/>iectiuas, inquantum terminabat diuersos
-      a<lb ed="#P" n="47" break="no"/>ctus, sic in proposito, vna &amp; eadem res,
-      sci<lb ed="#P" n="48" break="no"/>licet diuina essentia induit diuersas rationes 
-      <lb ed="#P" n="49"/>ideales, inquantum connotat diuersa ideata, 
-      <lb ed="#P" n="50"/>&amp; sicut rationes obiectiuae non
-      distinguun<lb ed="#P" n="51" break="no"/>tur inter se, &amp; a re quae est obiectum, nisi com 
-      <lb ed="#P" n="52"/>ceptibiliter, propter quod cadunt in secudo 
-      <lb ed="#P" n="53"/>modo dicendi per se, vt ibidem dicebatur, ita 
-      <lb ed="#P" n="54"/>isto modo rationes ideales non
-      distinguun<lb ed="#P" n="55" break="no"/>tur in er se, &amp; ab essentia, nisi
-      conceptibili<lb ed="#P" n="56" break="no"/>ter, propter quod cadunt in secundo modo 
-      <lb ed="#P" n="57"/>dicendi per se respectu essentiae; ita quod si 
-      <!--595.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 570 b -->
-               <lb ed="#P" n="58"/>definiretur essentia, rationes ideales non
-      ca<lb ed="#P" n="59" break="no"/>derent in sua definitione, prout eredo. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e899">
-               <lb ed="#P" n="60"/>Praeterea est dicendum, quod sicut actus 
-      <lb ed="#P" n="61"/>intellectus, &amp; voluntatis necessitant
-      intelle<lb ed="#P" n="62" break="no"/>ctum concipientem ad praescindendum in 
-      <lb ed="#P" n="63"/>eodem obiecto diuersas rationes obiectiuas,  
-      <lb ed="#P" n="64"/>sic etiam diuersa ideata necessitant intellectum 
-      <lb ed="#P" n="65"/>ad praescindendum, vel distinguendum in 
-      <lb ed="#P" n="66"/>eadem diuina essentia diuersas rationes ideales 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e917">
-               <lb ed="#P" n="67"/>Ex quibus omnibus possumus vlterius con 
-      <lb ed="#P" n="68"/>cludere, quod distinctio rationis, quae est
-      in<lb ed="#P" n="69" break="no"/>ter ideas, aequipollet distinctioni reali, quia 
-      <lb ed="#P" n="70"/>suum fundamentum aequipollet
-      fundamen<lb ed="#P" n="71" break="no"/>to distinctionis realis; nam tantum potest 
-      <lb ed="#P" n="72"/>diuina essentia, quae realiter est vna forma 
-      <lb ed="#P" n="73"/>exemplaris simplicissima, quantum possent 
-      <lb ed="#P" n="74"/>infinitae formae exemplares realiter distinctae, 
-      <lb ed="#P" n="75"/>si esset possibile illas dare 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e939">
-               <lb ed="#P" n="76"/>ARTICVLVS TERTLVS. 
-      <lb ed="#P" n="77"/>Vtrum ldeae in Deo sint principium cogno 
-      <lb ed="#P" n="78"/>scendi, vel operandi.
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e948">
-               <lb ed="#P" n="79"/>D hoc dicunt quidam, quod idea non 
-      <lb ed="#P" n="80"/>potest esse principium cognoscendi 
-      <lb ed="#P" n="81"/>quia cum sint multae ideae in Deo, sequere 
-      <lb ed="#P" n="82"/>tur quod in eo essent multae rationes cogno 
-      <lb ed="#P" n="83"/>scendi, quod omnino repugnat simplicitati 
-      <lb ed="#P" n="84"/>diuini intellectus, potest tamen habere ratio 
-      <lb ed="#P" n="85"/>nem cogniti, quia quamuis repugnet simpli 
-      <lb ed="#P" n="86"/>citati diuini intellectus habere multas ratio 
-      <lb ed="#P" n="87"/>nes cognoscendi, non tamen repugnat ei ha 
-      <lb ed="#P" n="88"/>bere multa cognita¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e972">
-               <lb ed="#P" n="89"/>Alij vero dicunt contrarium : Volunt. n 
-      <lb ed="#P" n="90"/>quod idea aliquo modo possit dici principium 
-      <lb ed="#P" n="91"/>&amp; ratio cognoscendi, quia diuina essentia, 
-      <lb ed="#P" n="92"/>prout habet rationem ideae, est exemplar, &amp; 
-      <lb ed="#P" n="93"/>similitudo creaturarum, &amp; per consequens 
-      <lb ed="#P" n="94"/>non potest negari, quin sit ratio &amp; principium 
-      <lb ed="#P" n="95"/>cognitionis earum, inquantum habet
-      ratio<lb ed="#P" n="96" break="no"/>nem ideae; nam semper exemplar est ratio, &amp;  
-      <lb ed="#P" n="97"/>principium cognoscendi ipsum exemplatum.
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e994">
-               <lb ed="#P" n="98"/>Addunt tamen, quod ideam esse rationem 
-      <lb ed="#P" n="99"/>cognoscendi, potest intelligi dupliciter, vno 
-      <lb ed="#P" n="100"/>modo quod sit ratio cognoscendi respectu 
-      <lb ed="#P" n="101"/>diuini intellectus cognoscentis, &amp; isto modo 
-      <lb ed="#P" n="102"/>non videtur verum, quod ldea sit ratio cogno 
-      <lb ed="#P" n="103"/>scendi, quia illud, quod est ratio
-      cognoscen<lb ed="#P" n="104" break="no"/>di respectu intellectus cognoscentis, reducit 
-      <lb ed="#P" n="105"/>ipsum intellectum aliquo modo de
-      poten<lb ed="#P" n="106" break="no"/>tia ad actum tribuendo ei aliquam
-      actuali<lb ed="#P" n="107" break="no"/>tatem: Hoc autem omnino est alienum ab 
-      <lb ed="#P" n="108"/>intellectu diuino qui est purus actus: alio 
-      <lb ed="#P" n="109"/>autem modo potest intelligi, quod sit ratio 
-      <!--596.xml-->
-      <pb ed="#P" n="571"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>cognoscendi respectu creaturae cognitae, &amp; 
-      <lb ed="#P" n="2"/>iste intellectus videtur esse verus, quia licet 
-      <lb ed="#P" n="3"/>idea non attribuat aliquam actualitatem
-      eo<lb ed="#P" n="4" break="no"/>gnoscendi intellectui diuino; tribuit tamen 
-      <lb ed="#P" n="5"/>actualitatem creaturae cognitae, quia
-      creatu<lb ed="#P" n="6" break="no"/>ra non habet, essc cognoscibile, nisi prout 
-      <lb ed="#P" n="7"/>imitatur suam ideam 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1045">
-               <lb ed="#P" n="8"/>lsta autem opinio videtur mihi
-      rationa<lb ed="#P" n="9" break="no"/>bilis propter tria¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1052">
-               <lb ed="#P" n="10"/>Primo, quia diuina essentia alio modo est 
-      <lb ed="#P" n="11"/>ratio cognoscendi seipsam, &amp; alio modo crea 
-      <lb ed="#P" n="12"/>turam, est enim ratio cognoscendi seipsam. 
-      <lb ed="#P" n="13"/>vt essentia est; relinquitur ergo vt sit ratio 
-      <lb ed="#P" n="14"/>cognoscendi creaturam, vt idea est
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1065">
-               <lb ed="#P" n="15"/>Secundo, quia illud, quod est ratio cogno 
-      <lb ed="#P" n="16"/>scendi creaturam, connotat ipsam creaturam, 
-      <lb ed="#P" n="17"/>diuina essentia, vt essentia est, non connotat 
-      <lb ed="#P" n="18"/>ipsam creaturam, connotat tamen eam, vt 
-      <lb ed="#P" n="19"/>idea est, alioquin vel nullo modo est ratio co 
-      <lb ed="#P" n="20"/>gnoscendi creaturam, quod est falsum, ver 
-      <lb ed="#P" n="21"/>est ratio cognoscendi eam, vt idea est, &amp;
-      sic<lb ed="#P" n="22" break="no"/>habemus propositum. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1085">
-               <lb ed="#P" n="23"/>Tertio, quia semper primum cognitum ess 
-      <lb ed="#P" n="24"/>ratio, &amp; principium cognoscendi secundum 
-      <lb ed="#P" n="25"/>cognitum, cum ergo idea sit primum
-      cogni<lb ed="#P" n="26" break="no"/>tum respectu creaturae, sequitur, quod sit
-      prin<lb ed="#P" n="27" break="no"/>cipium cognoscendi eam. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1098">
-               <lb ed="#P" n="28"/>Teneo ergo cum secunda opinione, quod 
-      <lb ed="#P" n="29"/>ideae sint principia cognoscendi respectu crea 
-      <lb ed="#P" n="30"/>turarum cognitarum, non autem respectu di 
-      <lb ed="#P" n="31"/>uini intellectus cognoscentis. Tum quia
-      se<lb ed="#P" n="32" break="no"/>queretur, quod diuinus intellectus haberet 
-      <lb ed="#P" n="33"/>multas rationes cognoscendi, quod repugnat 
-      <lb ed="#P" n="34"/>suae simplicitati, vt dicebat opinio prima, 
-      <lb ed="#P" n="35"/>Tum etiam, quia ideae conferrent aliquam 
-      <lb ed="#P" n="36"/>actualitatem diuino intellectui, vt dicebat. 
-      <lb ed="#P" n="37"/>secunda opinio. 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1122">
-               <lb ed="#P" n="38"/>Si autem sunt principia cognoscendi,
-      se<lb ed="#P" n="39" break="no"/>quitur necessario, quod sint principia
-      ope<lb ed="#P" n="40" break="no"/>randi, quia vbi res est producibilis ab haben 
-      <lb ed="#P" n="41"/>te cognitionem, illud idem, quod est
-      princi<lb ed="#P" n="42" break="no"/>pium cognoscendi, est etiam principium ope 
-      <lb ed="#P" n="43"/>randi, sicut manifeste videmus in artifice
-      crea<lb ed="#P" n="44" break="no"/>to, cum ergo ideae sint quaedam exemplaria 
-      <lb ed="#P" n="45"/>rerum factarum, &amp; possibilium fieri
-      existen<lb ed="#P" n="46" break="no"/>tia in mente primi artificis, sunt etiam
-      prin<lb ed="#P" n="47" break="no"/>cipium cognoscendi eo modo quo dictum est. 
-      <lb ed="#P" n="48"/>Relinquitur ergo, quod sint principia
-      ope<lb ed="#P" n="49" break="no"/>randi¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e977-d1e1152">
-               <lb ed="#P" n="50"/>AD Rationes autem principales patet so 
-      <lb ed="#P" n="51"/>lutio per ea quae dicta sunt in istis tribus 
-      <lb ed="#P" n="52"/>articulis.  
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="567"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e977"> <!-- l1d36q1 -->
+        <head xml:id="gsX5tY-d1e977-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e977-Hd1e112" type="question-title">Utrum in Deo sint Ideae.</head>
+        <p xml:id="gsX5tY-d1e977-d1e115">
+          <lb ed="#P" n="93"/>DISTINCTIONIS XXXVI.
+          <lb ed="#P" n="94"/>QVAESTIO VNICA 
+          <lb ed="#P" n="95"/>Vtrum in Deo sint ideae
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e124">
+          <lb ed="#P" n="96"/>ARGVITVR AD PARTEM 
+          <lb ed="#P" n="97"/>negantem. 
+          <lb ed="#P" n="98"/>1 IDeae aut sunt rationes absolutae, autem  
+          <lb ed="#P" n="99"/>respectiuae, non absolutae, quia tunc non 
+          <lb ed="#P" n="100"/>importarent respectum ad ideata, quod est 
+          <lb ed="#P" n="101"/>falsum, imo sequeretur, quod non differrent 
+          <lb ed="#P" n="102"/>a rationibus attributalibus, nec respectiuae, 
+          <lb ed="#P" n="103"/>quia sunt exemplaria ideatorum, ratio autem 
+          <lb ed="#P" n="104"/>respectiua non potest habere rationem exem  
+          <lb ed="#P" n="105"/>plaris.
+          v
+          <lb ed="#P" n="106"/>2 In Deo non possunt poni plures ideae 
+          <!--593.xml-->
+          <pb ed="#P" n="568"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sine aliqua distinctione, sed non est ibi poss 
+          <lb ed="#P" n="2"/>sibilis aliqua distinctio, ergo &amp;c. Maior
+          pa<lb ed="#P" n="3" break="no"/>tet: &amp; Minor probatur, quin non est
+          possibi<lb ed="#P" n="4" break="no"/>lis aliqua distinctio realis praeter
+          distinctio<lb ed="#P" n="5" break="no"/>nem personarum, nec etiam potest ibi esse  
+          <lb ed="#P" n="6"/>aliqua distinctio rationis, quia ideae
+          secun<lb ed="#P" n="7" break="no"/>dum illud totum quod sunt, praecedunt ipsa 
+          <lb ed="#P" n="8"/>ideata, si autem esset inter ea solum distinctio 
+          <lb ed="#P" n="9"/>rationis, oriretur exidistinctione reali
+          idea<lb ed="#P" n="10" break="no"/>torum, ac per consequens ideae non praecede 
+          <lb ed="#P" n="11"/>rent ideata, immo magis e conuerso.  
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e182">
+          <lb ed="#P" n="12"/>3 Si ideae sunt in Deo, vel deseruiunt es 
+          <lb ed="#P" n="13"/>ad cognitionem, vel ad operationem, non ad 
+          <lb ed="#P" n="14"/>cognitionem, quia sicut est ibi vna tantum 
+          <lb ed="#P" n="15"/>cognitio, ita vnum tantum principium illius 
+          <lb ed="#P" n="16"/>cognitionis, scilicet sua essentia, nec etiam ad 
+          <lb ed="#P" n="17"/>operationem, quia operatio supponit
+          cogni<lb ed="#P" n="18" break="no"/>tionem, ac per consequens videntur ibi
+          fru<lb ed="#P" n="19" break="no"/>stra poni. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e202">
+          <lb ed="#P" n="20"/>AD OPPOSITVM ARGVITVR 
+          <lb ed="#P" n="21"/>1QEcundum Patrem Augustinum in libro 
+          <lb ed="#P" n="22"/>Aoctuaginta trium quaest. quaest. 20 tanta 
+          <lb ed="#P" n="23"/>vis est in ideis, vt sine eis sapiens nemo esse  
+          <lb ed="#P" n="24"/>possit, cum ergo Deus sit summe sapiens,
+          se<lb ed="#P" n="25" break="no"/>quitur quod habeat in se ideas
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e218">
+          <lb ed="#P" n="26"/>2 Et confirmo rationem: quia videmus,  
+          <lb ed="#P" n="27"/>quod artifex creatus, ad hoc vt ordinate agat 
+          <lb ed="#P" n="28"/>ponitur praehabere ideas eorum, quae
+          pro<lb ed="#P" n="29" break="no"/>ducit, multo ergo magis artifex increatus,  
+          <lb ed="#P" n="30"/>qui ordinatissime agit. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e231">
+          <lb ed="#P" n="31"/>RESPONDEO. In ista quaestione tria 
+          <lb ed="#P" n="32"/>sunt videnda propter argumenta proposita 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e238">
+          <lb ed="#P" n="33"/>1 An ideae sint in Deo, &amp; quid sint
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e243">
+          <lb ed="#P" n="34"/>2 An inter eas sit aliqua distinctio.  
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e249">
+          <lb ed="#P" n="35"/>3 An idea sit principium cognoscendi, vel 
+          <lb ed="#P" n="36"/>operandi. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e256">
+          <lb ed="#P" n="37"/>ARTICVLVS PRIMV 
+          <lb ed="#P" n="38"/>Vtrum ideae sint in Deo, &amp; quid sint. 
+          <lb ed="#P" n="39"/>Vide Doctores supra citatos. <!-- needs to be deleted in image coords -->
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e267">
+          <lb ed="#P" n="40"/>QVantum ad hoc est intelligendum, quod 
+          <lb ed="#P" n="41"/>nomine ideae importatur aliqua
+          for<lb ed="#P" n="42" break="no"/>ma exemplaris, ad cuius imitationem agens 
+          <lb ed="#P" n="43"/>per intellectum potest aliquid producere, &amp;  
+          <lb ed="#P" n="44"/>ideo de ratione ideae videntur esse duo,
+          pri<lb ed="#P" n="45" break="no"/>mum est vt sit forma exemplaris, secundum est,  
+          <lb ed="#P" n="46"/>vt sit forma intellectualis. Et hinc est, quod 
+          <lb ed="#P" n="47"/>ideae diuinae dicuntur exemplaria
+          existen<lb ed="#P" n="48" break="no"/>tium, sicut patet per D. Dionysium quinto 
+          <lb ed="#P" n="49"/>de Diuinis nominibus, quod quidem
+          com<lb ed="#P" n="50" break="no"/>petit eis ex eo quod idea est forma
+          exempla<lb ed="#P" n="51" break="no"/>ris; vlterius dicuntur etiam rationes rerum 
+          <lb ed="#P" n="52"/>fiendarum in diuina arte contentae, sicut
+          pa<lb ed="#P" n="53" break="no"/>tet ex Augustino 85. qud quaest de ldaeis, quod 
+          <lb ed="#P" n="54"/>quidem competit eis, ex eo quod idea est for 
+          <lb ed="#P" n="55"/>ma intellectualis. Ex quibus apparet, quod 
+          <!--593.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 568 b -->
+          <lb ed="#P" n="56"/>in Deo sunt ponendae ideae, tum quia idea 
+          <lb ed="#P" n="57"/>est forma exemplaris, &amp; ipse est prima forma 
+          <lb ed="#P" n="58"/>exemplaris continens exemplaria omnium 
+          <lb ed="#P" n="59"/>entium, tum etiam quia idea est forma
+          intel<lb ed="#P" n="60" break="no"/>lectualis, per quam artifex rationabiliter, &amp;  
+          <lb ed="#P" n="61"/>ordinate agit, &amp; ipse est entium artifex
+          ra<lb ed="#P" n="62" break="no"/>tionabiliter, &amp; ordinate agens, propter quod 
+          <lb ed="#P" n="63"/>dicitur de Deo Sap. 11. quod omnia
+          consti<lb ed="#P" n="64" break="no"/>tuit in numero, pondere, &amp; mensura; Et ideo 
+          <lb ed="#P" n="65"/>possumus conuenienter concludere in Deo 
+          <lb ed="#P" n="66"/>esse ideas quod etiam apparet ex intentione 
+          <lb ed="#P" n="67"/>D. Aug. superius allegati. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e337">
+          <lb ed="#P" n="68"/>Et ideo supposito, quod in Deo sint ideae; 
+          <lb ed="#P" n="69"/>est vlterius inquirendum quid sint ipsae ideae 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e344">
+          <lb ed="#P" n="70"/>Dicunt ergo quidam, quod ideae in Deo 
+          <lb ed="#P" n="71"/>ni <!-- image coords error -->
+          <lb ed="#P" n="72"/>non sunt aliud, quam quidditates retum
+          creata<lb ed="#P" n="73" break="no"/>rum, prout sunt cognitae ab eo, taquam quae 
+          <lb ed="#P" n="74"/>dam obiecta secudaria relucentia in sua essetia. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e360">
+          <lb ed="#P" n="75"/>Probatur autem ista opinio; quia modus 
+          <lb ed="#P" n="76"/>ponendi ideas habitus ab Augustino non dis 
+          <lb ed="#P" n="77"/>fert a modo ponendi Platonis, nisi quia
+          Pla<lb ed="#P" n="78" break="no"/>to ponebat eas per se subsistentes extra
+          diui<lb ed="#P" n="79" break="no"/>num intellectum; P. Augustinus vero ponit 
+          <lb ed="#P" n="80"/>eas in diuino intellectu, sicut ergo apud
+          Pla<lb ed="#P" n="81" break="no"/>tonem ideae sunt ipsae quidditates
+          subsisten<lb ed="#P" n="82" break="no"/>tes extra diuinum intellectum; ita secundum 
+          <lb ed="#P" n="83"/>intentionem Patris Augustini videntur esse 
+          <lb ed="#P" n="84"/>pedem quidditates, prout sunt in prospectu 
+          <lb ed="#P" n="85"/>diuini intellectus, tanquam secundaria
+          obie<lb ed="#P" n="86" break="no"/>cta in sua essentia relucentia.
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e390">
+          <lb ed="#P" n="87"/>lsta tamen opinio non videtur posse stare 
+          <lb ed="#P" n="88"/>propter quatuor. 
+          <lb ed="#P" n="89"/>Primo, quia sequeretur, quod quidditates 
+          <lb ed="#P" n="90"/>rerum creatarum constituerent Deum in esse 
+          <lb ed="#P" n="91"/>sapientis; quod est absurdum, consequentia 
+          <lb ed="#P" n="92"/>apparet, quia sicut dicebatur supra per
+          Au<lb ed="#P" n="93" break="no"/>gustinum, tanta est vis in ideis, vt sine eis nul 
+          <lb ed="#P" n="94"/>lus sit sapiens 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e410">
+          <lb ed="#P" n="95"/>Secundo sequeretur, quod quidditates. 
+          <lb ed="#P" n="96"/>rerum creatarum beatificarent animam
+          ra<lb ed="#P" n="97" break="no"/>tionalem, quod est absurdum, consequentia 
+          <lb ed="#P" n="98"/>patet per P. Augustinum vbi supra dicentem, 
+          <lb ed="#P" n="99"/>quod visione idearum anima rationalis fit 
+          <lb ed="#P" n="100"/>beatissima. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e426">
+          <lb ed="#P" n="101"/>Tertio sequeretur, quod idem esset idea, 
+          <lb ed="#P" n="102"/>&amp; ideatum, quod nullus diceret, consequen 
+          <lb ed="#P" n="103"/>tia apparet, quia quicquid potest produci 
+          <lb ed="#P" n="104"/>extra Deum, est ideatum, sed dictae
+          quiddita<lb ed="#P" n="105" break="no"/>tes cognitae possunt produci, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e439">
+          <lb ed="#P" n="106"/>Quarto sequeretur, quod ideatum esses 
+          <lb ed="#P" n="107"/>potioris entitatis, quam ipsa idea, quod est 
+          <lb ed="#P" n="108"/>talde absurdum, consequentia patet, quia 
+          <lb ed="#P" n="109"/>quidditates, prout habent solum esse cogni 
+          <lb ed="#P" n="110"/>tum, habent esse diminutum, quatenus vero 
+          <lb ed="#P" n="111"/>habent esse in effectu, secundum quem mo 
+          <lb ed="#P" n="112"/>dum dicuntur ideata, habent esse reale
+          per<lb ed="#P" n="113" break="no"/>fectum. 
+          <!--594.xml-->
+          <pb ed="#P" n="569"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Nec confirmatio istius opinionis valet; 
+          <lb ed="#P" n="2"/>quia si Plato intellexit, sicut Aristot. ei im 
+          <lb ed="#P" n="3"/>ponit, non solum est differentia inter modum 
+          <lb ed="#P" n="4"/>ponendi Platonis, &amp; Aug. in eo quod dictum 
+          <lb ed="#P" n="5"/>est, sed in multis alijs 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e476">
+          <lb ed="#P" n="6"/>Et ideo alij dicunt, quod ldeae in Deo non 
+          <lb ed="#P" n="7"/>sunt ipsae res cognitae, sed ipsamet cognitio 
+          <lb ed="#P" n="8"/>diuina, qua cognoscuntur, quod probant ex 
+          <lb ed="#P" n="9"/>duobus, primo quia ldaea est forma intelle 
+          <lb ed="#P" n="10"/>ctualis, per quam Deus libere producit, nunc 
+          <lb ed="#P" n="11"/>autem nulla talis forma est in intellectu
+          di<lb ed="#P" n="12" break="no"/>uino, praeter quam sua cognitio. Nam diuina 
+          <lb ed="#P" n="13"/>essentia magis est quaedam forma naturalis 
+          <lb ed="#P" n="14"/>naturaliter principians, quam quaedam
+          for<lb ed="#P" n="15" break="no"/>ma idealis.
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e500">
+          <lb ed="#P" n="16"/>Secundo, quia de ratione ldeae est, quod 
+          <lb ed="#P" n="17"/>sit principium productiuum immediatum, 
+          <lb ed="#P" n="18"/>&amp; sua cognitio est huiusmodi, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e510">
+          <lb ed="#P" n="19"/>Sed nec ista opinio stare potest propter 
+          <lb ed="#P" n="20"/>quatuor. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e517">
+          <lb ed="#P" n="21"/>Primo, quia de ratione ldeae est, quod sit 
+          <lb ed="#P" n="22"/>primum exemplar in aliud non reducibile 
+          <lb ed="#P" n="23"/>nunc autem exemplar, quod est cognitio, re 
+          <lb ed="#P" n="24"/>ducitur in exemplar, quod est essentia; nam 
+          <lb ed="#P" n="25"/>secundum nostrum intelligendi modum esse  
+          <lb ed="#P" n="26"/>praecedit cognitionem, sicut obiectum praece 
+          <lb ed="#P" n="27"/>dit actum. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e535">
+          <lb ed="#P" n="28"/>Secundo, quia de ratione ldeae est, quod 
+          <lb ed="#P" n="29"/>sit illud ad quod artifex aspicit, dicente Se- 
+          <lb ed="#P" n="30"/>neca in quadamEpistola ad Lucillum, quod 
+          <lb ed="#P" n="31"/>Idea est exemplar, ad quod respiciens
+          arti<lb ed="#P" n="32" break="no"/>fex operatur, quicquid operatur. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e548">
+          <lb ed="#P" n="33"/>Tertio, quia ldea multiplicatur, &amp; ideo 
+          <lb ed="#P" n="34"/>conceditur, quod sint multae ldeae in Deo, 
+          <lb ed="#P" n="35"/>nullo tamen modo conceditur, quod sint in 
+          <lb ed="#P" n="36"/>eo multae cognitiones. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e559">
+          <lb ed="#P" n="37"/>Quarto, quia sequeretur, quod omnia, 
+          <lb ed="#P" n="38"/>quae essent a Deo cognita, haberent in Deo 
+          <lb ed="#P" n="39"/>ldeam, quod patet esse falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e568">
+          <lb ed="#P" n="40"/>Motiua etiam eorum non valent. Primum 
+          <lb ed="#P" n="41"/>quidem, quia sicut essentia est forma
+          natu<lb ed="#P" n="42" break="no"/>ralis, &amp; naturaliter representans, ita etiam  
+          <lb ed="#P" n="43"/>&amp; ipsa cognitio. Vlterius etiam
+          quantum<lb ed="#P" n="44" break="no"/>cunque sit forma naturalis, non tamen
+          appli<lb ed="#P" n="45" break="no"/>catur ad opus extrinsecum, nisi mediant 
+          <lb ed="#P" n="46"/>virtute. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e587">
+          <lb ed="#P" n="47"/>Non valet etiam secundum, quia si imme 
+          <lb ed="#P" n="48"/>diatio faceret ad propositum, tunc diuina vo 
+          <lb ed="#P" n="49"/>litio magis deberet poni ldea, quia immedia 
+          <lb ed="#P" n="50"/>tius principiat, quam essentia. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e598">
+          <lb ed="#P" n="51"/>Est ergo alia opinio, quae ponit, quod 
+          <lb ed="#P" n="52"/>ldeae in Deo sunt ipsamet essentia cum
+          re<lb ed="#P" n="53" break="no"/>spectu imitabilitatis; nam quia ldea est exem 
+          <lb ed="#P" n="54"/>plar, videtur quod de sua ratione sit esse imi 
+          <lb ed="#P" n="55"/>tabile, volunttamen quod iste respectus non 
+          <lb ed="#P" n="56"/>sit in diuina essentia, nisi vt intellecta. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e614">
+          <lb ed="#P" n="57"/>Arguitur tamen a pluribus contra istam  
+          <!--594.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 569 b -->
+          <lb ed="#P" n="58"/>opinionem, quia de ratione ldeae est, quod 
+          <lb ed="#P" n="59"/>sit exemplar, &amp; quod sit factiua, respectus 
+          <lb ed="#P" n="60"/>autem non est exemplar, nec est factiuus. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e632">
+          <lb ed="#P" n="61"/>Praeterea idea debet precedere ipsum idea 
+          <lb ed="#P" n="62"/>tum, talis autem respectus cum sit virtus ra 
+          <lb ed="#P" n="63"/>tionis magis sequitur ipsum, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e641">
+          <lb ed="#P" n="64"/>His tamen non obstantibus dico
+          opinio<lb ed="#P" n="65" break="no"/>nem Doctoris nostri, si bene intelligatur,
+          es<lb ed="#P" n="66" break="no"/>se caeteris magis rationabilem 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e650">
+          <lb ed="#P" n="67"/>Ad cuius euidentiam est intelligendum, 
+          <lb ed="#P" n="68"/>quod duobus modis potest intelligi diuinam 
+          <lb ed="#P" n="69"/>essentiam esse ldeam sub respectu
+          imitabili<lb ed="#P" n="70" break="no"/>tatis, vno modo ita ut intelligatur talis 
+          <lb ed="#P" n="71"/>respectus esse differentia intrinseca, &amp;
+          con<lb ed="#P" n="72" break="no"/>stitutiua ldeae, &amp; iste sensus est falsus, quia 
+          <lb ed="#P" n="73"/>tunc rationesqe imediate factae sunt contra prae 
+          <lb ed="#P" n="74"/>fatam opinionem, procederent: euidenter, alio 
+          <lb ed="#P" n="75"/>modo potest intelligi, quod essentia sub isto 
+          <lb ed="#P" n="76"/>respectu sit ldea, ita tamen, vt talis
+          respe<lb ed="#P" n="77" break="no"/>ctus non sit sua differentia intrinseca, &amp; con 
+          <lb ed="#P" n="78"/>stitutiua, sed magis quaedam passio
+          extrinse<lb ed="#P" n="79" break="no"/>ca distinctiua, &amp; talis sensus est verus; nam, 
+          <lb ed="#P" n="80"/>sicut patebit in sequenti articulo, talis respe 
+          <lb ed="#P" n="81"/>ctus est principium distinctionis inter ldeas,  
+          <lb ed="#P" n="82"/>&amp; hoc modo intelligendo, rationes in
+          con<lb ed="#P" n="83" break="no"/>trarium factae non cogunt. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e690">
+          <lb ed="#P" n="84"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="85"/>Vtrum inter ldeas sit aliqua distinctio. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e697">
+          <lb ed="#P" n="86"/> D hoc autem breuiter est dicendum, 
+          <lb ed="#P" n="87"/>quod si volumus saluare pluralitate 
+          <lb ed="#P" n="88"/>idearum, oportet ibi ponere aliquam distin 
+          <lb ed="#P" n="89"/>ctionem, quia impossibile est dare aliquam 
+          <lb ed="#P" n="90"/>pluralitatem sine distinctione: Sed si
+          quae<lb ed="#P" n="91" break="no"/>ratur vlterius, vtrum ista distinctio sit realis 
+          <lb ed="#P" n="92"/>vel rationis, dico quod est rationis, quia nul 
+          <lb ed="#P" n="93"/>la distinctio realis est in Deo praeter
+          distin<lb ed="#P" n="94" break="no"/>ctionem personarum. Si autem quaeratur 
+          <lb ed="#P" n="95"/>ulterius, vtrum talis distinctio rationis
+          pro<lb ed="#P" n="96" break="no"/>ueniat ex nostro modo intelligendi, vel ex 
+          <lb ed="#P" n="97"/>natura rei necessitantis, dico quod prouenit 
+          <lb ed="#P" n="98"/>ex natura rei necessitantis, idque patet ex 
+          <lb ed="#P" n="99"/>duobus 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e730">
+          <lb ed="#P" n="100"/>Primo, quia si talis distinctio proueniret 
+          <lb ed="#P" n="101"/>ex nostro modo intelligendi, sequeretur, quod 
+          <lb ed="#P" n="102"/>non haberet locum in patria, vbi noster
+          in<lb ed="#P" n="103" break="no"/>telligendi modus erit perfectus, quod est fal 
+          <lb ed="#P" n="104"/>sum: Consequentia est nota, Falsitas
+          appa<lb ed="#P" n="105" break="no"/>ret per D. August. superius allegatum dice 
+          <lb ed="#P" n="106"/>tem, quod anima rationalis visione ldearum 
+          <lb ed="#P" n="107"/>fit beatissima, constat autem Augustinum 
+          <!--595.xml-->
+          <pb ed="#P" n="570"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ibi loqui de visione patrie, &amp; tamen
+          nomi<lb ed="#P" n="2" break="no"/>nat Ideas in plurali, qui quidem modus
+          lo<lb ed="#P" n="3" break="no"/>quendi omnino esset falsus, nisi distinctio 
+          <lb ed="#P" n="4"/>idearum haberet locum in patria.
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e765">
+          <lb ed="#P" n="5"/>Secundo, quia illa distinctio rationis pro 
+          <lb ed="#P" n="6"/>uenit ex natura rei necessitantis, quae quidem 
+          <lb ed="#P" n="7"/>habet pro immediato fundamento ipsam re 
+          <lb ed="#P" n="8"/>secundum suum esse conceptibile, &amp;
+          defini<lb ed="#P" n="9" break="no"/>bile; distinctio rationis inter ideas est
+          huius<lb ed="#P" n="10" break="no"/>modi, ergo &amp;c. Maior est nota, quia cum quae 
+          <lb ed="#P" n="11"/>libet res necessario habeat suum esse
+          conce<lb ed="#P" n="12" break="no"/>ptibile, &amp; definibile, quicquid prouenit im 
+          <lb ed="#P" n="13"/>mediate ex esse rei conceptibili, &amp;
+          definibi<lb ed="#P" n="14" break="no"/>li, prouenit ex natura rei necessitantis;
+          pro<lb ed="#P" n="15" break="no"/>bo minorem, quia ideae secundum suum
+          es<lb ed="#P" n="16" break="no"/>se conceptibile, &amp; definibile comnotant distin 
+          <lb ed="#P" n="17"/>ctionem realem ideatorum, &amp; ex hoc ipso 
+          <lb ed="#P" n="18"/>habent, quod necessitent intellectum ad
+          di<lb ed="#P" n="19" break="no"/>stinguendum inter eas, quia impossibile est 
+          <lb ed="#P" n="20"/>concipere eas cum suis diuersis connotatis,  
+          <lb ed="#P" n="21"/>secundum vnam, &amp; eandem rationem, &amp; sic 
+          <lb ed="#P" n="22"/>patet distinctionem rationis inter ideas esse 
+          <lb ed="#P" n="23"/>ex natura rei necessitantis.
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e809">
+          <lb ed="#P" n="24"/>Sciendum tamen, quod quamuis ista
+          di<lb ed="#P" n="25" break="no"/>stinctio sit ex natura rei necessita ntis quem 
+          <lb ed="#P" n="26"/>admodum distinctio, quae est inter relationem, 
+          <lb ed="#P" n="27"/>&amp; essentiam (vt dictum fuit supra) non
+          ta<lb ed="#P" n="28" break="no"/>men est eodem modo, quia distinctio
+          ratio<lb ed="#P" n="29" break="no"/>nis, quae est inter relationem, &amp; essentiam 
+          <lb ed="#P" n="30"/>non supponit aliquam distinctionem realem  
+          <lb ed="#P" n="31"/>extrinsecam, distinctio vero rationis inter 
+          <lb ed="#P" n="32"/>ideas supponit necessario distinctionem rea 
+          <lb ed="#P" n="33"/>lem ideatorum, hoc autem contingit, quia 
+          <lb ed="#P" n="34"/>ideae secundum suum esse conceptibile, &amp;  
+          <lb ed="#P" n="35"/>definibile connotant ipsum ideatum, quod 
+          <lb ed="#P" n="36"/>est quasi extrinsecum, diuina Vero essentia, 
+          <lb ed="#P" n="37"/>vel ipsa relatio non connotant aliquid extrin 
+          <lb ed="#P" n="38"/>secum secundum suum esse conceptibile, &amp;  
+          <lb ed="#P" n="39"/>definibile 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e846">
+          <lb ed="#P" n="40"/>Et ideo debemus dicere de distinctione 
+          <lb ed="#P" n="41"/>idecrum, quemadmodum dicebamus
+          supe<lb ed="#P" n="42" break="no"/>rius in prima distinct. de distinctione, quae 
+          <lb ed="#P" n="43"/>ponebatur inter obiectum voluntatis, &amp;
+          in<lb ed="#P" n="44" break="no"/>tellectus; nam sicut ibi dicebatur, quod vna 
+          <lb ed="#P" n="45"/>&amp; eadem res induebat diuersas rationes
+          ob<lb ed="#P" n="46" break="no"/>iectiuas, inquantum terminabat diuersos
+          a<lb ed="#P" n="47" break="no"/>ctus, sic in proposito, vna &amp; eadem res,
+          sci<lb ed="#P" n="48" break="no"/>licet diuina essentia induit diuersas rationes 
+          <lb ed="#P" n="49"/>ideales, inquantum connotat diuersa ideata, 
+          <lb ed="#P" n="50"/>&amp; sicut rationes obiectiuae non
+          distinguun<lb ed="#P" n="51" break="no"/>tur inter se, &amp; a re quae est obiectum, nisi com 
+          <lb ed="#P" n="52"/>ceptibiliter, propter quod cadunt in secudo 
+          <lb ed="#P" n="53"/>modo dicendi per se, vt ibidem dicebatur, ita 
+          <lb ed="#P" n="54"/>isto modo rationes ideales non
+          distinguun<lb ed="#P" n="55" break="no"/>tur in er se, &amp; ab essentia, nisi
+          conceptibili<lb ed="#P" n="56" break="no"/>ter, propter quod cadunt in secundo modo 
+          <lb ed="#P" n="57"/>dicendi per se respectu essentiae; ita quod si 
+          <!--595.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 570 b -->
+          <lb ed="#P" n="58"/>definiretur essentia, rationes ideales non
+          ca<lb ed="#P" n="59" break="no"/>derent in sua definitione, prout eredo. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e899">
+          <lb ed="#P" n="60"/>Praeterea est dicendum, quod sicut actus 
+          <lb ed="#P" n="61"/>intellectus, &amp; voluntatis necessitant
+          intelle<lb ed="#P" n="62" break="no"/>ctum concipientem ad praescindendum in 
+          <lb ed="#P" n="63"/>eodem obiecto diuersas rationes obiectiuas,  
+          <lb ed="#P" n="64"/>sic etiam diuersa ideata necessitant intellectum 
+          <lb ed="#P" n="65"/>ad praescindendum, vel distinguendum in 
+          <lb ed="#P" n="66"/>eadem diuina essentia diuersas rationes ideales 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e917">
+          <lb ed="#P" n="67"/>Ex quibus omnibus possumus vlterius con 
+          <lb ed="#P" n="68"/>cludere, quod distinctio rationis, quae est
+          in<lb ed="#P" n="69" break="no"/>ter ideas, aequipollet distinctioni reali, quia 
+          <lb ed="#P" n="70"/>suum fundamentum aequipollet
+          fundamen<lb ed="#P" n="71" break="no"/>to distinctionis realis; nam tantum potest 
+          <lb ed="#P" n="72"/>diuina essentia, quae realiter est vna forma 
+          <lb ed="#P" n="73"/>exemplaris simplicissima, quantum possent 
+          <lb ed="#P" n="74"/>infinitae formae exemplares realiter distinctae, 
+          <lb ed="#P" n="75"/>si esset possibile illas dare 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e939">
+          <lb ed="#P" n="76"/>ARTICVLVS TERTLVS. 
+          <lb ed="#P" n="77"/>Vtrum ldeae in Deo sint principium cogno 
+          <lb ed="#P" n="78"/>scendi, vel operandi.
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e948">
+          <lb ed="#P" n="79"/>D hoc dicunt quidam, quod idea non 
+          <lb ed="#P" n="80"/>potest esse principium cognoscendi 
+          <lb ed="#P" n="81"/>quia cum sint multae ideae in Deo, sequere 
+          <lb ed="#P" n="82"/>tur quod in eo essent multae rationes cogno 
+          <lb ed="#P" n="83"/>scendi, quod omnino repugnat simplicitati 
+          <lb ed="#P" n="84"/>diuini intellectus, potest tamen habere ratio 
+          <lb ed="#P" n="85"/>nem cogniti, quia quamuis repugnet simpli 
+          <lb ed="#P" n="86"/>citati diuini intellectus habere multas ratio 
+          <lb ed="#P" n="87"/>nes cognoscendi, non tamen repugnat ei ha 
+          <lb ed="#P" n="88"/>bere multa cognita¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e972">
+          <lb ed="#P" n="89"/>Alij vero dicunt contrarium : Volunt. n 
+          <lb ed="#P" n="90"/>quod idea aliquo modo possit dici principium 
+          <lb ed="#P" n="91"/>&amp; ratio cognoscendi, quia diuina essentia, 
+          <lb ed="#P" n="92"/>prout habet rationem ideae, est exemplar, &amp; 
+          <lb ed="#P" n="93"/>similitudo creaturarum, &amp; per consequens 
+          <lb ed="#P" n="94"/>non potest negari, quin sit ratio &amp; principium 
+          <lb ed="#P" n="95"/>cognitionis earum, inquantum habet
+          ratio<lb ed="#P" n="96" break="no"/>nem ideae; nam semper exemplar est ratio, &amp;  
+          <lb ed="#P" n="97"/>principium cognoscendi ipsum exemplatum.
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e994">
+          <lb ed="#P" n="98"/>Addunt tamen, quod ideam esse rationem 
+          <lb ed="#P" n="99"/>cognoscendi, potest intelligi dupliciter, vno 
+          <lb ed="#P" n="100"/>modo quod sit ratio cognoscendi respectu 
+          <lb ed="#P" n="101"/>diuini intellectus cognoscentis, &amp; isto modo 
+          <lb ed="#P" n="102"/>non videtur verum, quod ldea sit ratio cogno 
+          <lb ed="#P" n="103"/>scendi, quia illud, quod est ratio
+          cognoscen<lb ed="#P" n="104" break="no"/>di respectu intellectus cognoscentis, reducit 
+          <lb ed="#P" n="105"/>ipsum intellectum aliquo modo de
+          poten<lb ed="#P" n="106" break="no"/>tia ad actum tribuendo ei aliquam
+          actuali<lb ed="#P" n="107" break="no"/>tatem: Hoc autem omnino est alienum ab 
+          <lb ed="#P" n="108"/>intellectu diuino qui est purus actus: alio 
+          <lb ed="#P" n="109"/>autem modo potest intelligi, quod sit ratio 
+          <!--596.xml-->
+          <pb ed="#P" n="571"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cognoscendi respectu creaturae cognitae, &amp; 
+          <lb ed="#P" n="2"/>iste intellectus videtur esse verus, quia licet 
+          <lb ed="#P" n="3"/>idea non attribuat aliquam actualitatem
+          eo<lb ed="#P" n="4" break="no"/>gnoscendi intellectui diuino; tribuit tamen 
+          <lb ed="#P" n="5"/>actualitatem creaturae cognitae, quia
+          creatu<lb ed="#P" n="6" break="no"/>ra non habet, essc cognoscibile, nisi prout 
+          <lb ed="#P" n="7"/>imitatur suam ideam 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1045">
+          <lb ed="#P" n="8"/>lsta autem opinio videtur mihi
+          rationa<lb ed="#P" n="9" break="no"/>bilis propter tria¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1052">
+          <lb ed="#P" n="10"/>Primo, quia diuina essentia alio modo est 
+          <lb ed="#P" n="11"/>ratio cognoscendi seipsam, &amp; alio modo crea 
+          <lb ed="#P" n="12"/>turam, est enim ratio cognoscendi seipsam. 
+          <lb ed="#P" n="13"/>vt essentia est; relinquitur ergo vt sit ratio 
+          <lb ed="#P" n="14"/>cognoscendi creaturam, vt idea est
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1065">
+          <lb ed="#P" n="15"/>Secundo, quia illud, quod est ratio cogno 
+          <lb ed="#P" n="16"/>scendi creaturam, connotat ipsam creaturam, 
+          <lb ed="#P" n="17"/>diuina essentia, vt essentia est, non connotat 
+          <lb ed="#P" n="18"/>ipsam creaturam, connotat tamen eam, vt 
+          <lb ed="#P" n="19"/>idea est, alioquin vel nullo modo est ratio co 
+          <lb ed="#P" n="20"/>gnoscendi creaturam, quod est falsum, ver 
+          <lb ed="#P" n="21"/>est ratio cognoscendi eam, vt idea est, &amp;
+          sic<lb ed="#P" n="22" break="no"/>habemus propositum. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1085">
+          <lb ed="#P" n="23"/>Tertio, quia semper primum cognitum ess 
+          <lb ed="#P" n="24"/>ratio, &amp; principium cognoscendi secundum 
+          <lb ed="#P" n="25"/>cognitum, cum ergo idea sit primum
+          cogni<lb ed="#P" n="26" break="no"/>tum respectu creaturae, sequitur, quod sit
+          prin<lb ed="#P" n="27" break="no"/>cipium cognoscendi eam. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1098">
+          <lb ed="#P" n="28"/>Teneo ergo cum secunda opinione, quod 
+          <lb ed="#P" n="29"/>ideae sint principia cognoscendi respectu crea 
+          <lb ed="#P" n="30"/>turarum cognitarum, non autem respectu di 
+          <lb ed="#P" n="31"/>uini intellectus cognoscentis. Tum quia
+          se<lb ed="#P" n="32" break="no"/>queretur, quod diuinus intellectus haberet 
+          <lb ed="#P" n="33"/>multas rationes cognoscendi, quod repugnat 
+          <lb ed="#P" n="34"/>suae simplicitati, vt dicebat opinio prima, 
+          <lb ed="#P" n="35"/>Tum etiam, quia ideae conferrent aliquam 
+          <lb ed="#P" n="36"/>actualitatem diuino intellectui, vt dicebat. 
+          <lb ed="#P" n="37"/>secunda opinio. 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1122">
+          <lb ed="#P" n="38"/>Si autem sunt principia cognoscendi,
+          se<lb ed="#P" n="39" break="no"/>quitur necessario, quod sint principia
+          ope<lb ed="#P" n="40" break="no"/>randi, quia vbi res est producibilis ab haben 
+          <lb ed="#P" n="41"/>te cognitionem, illud idem, quod est
+          princi<lb ed="#P" n="42" break="no"/>pium cognoscendi, est etiam principium ope 
+          <lb ed="#P" n="43"/>randi, sicut manifeste videmus in artifice
+          crea<lb ed="#P" n="44" break="no"/>to, cum ergo ideae sint quaedam exemplaria 
+          <lb ed="#P" n="45"/>rerum factarum, &amp; possibilium fieri
+          existen<lb ed="#P" n="46" break="no"/>tia in mente primi artificis, sunt etiam
+          prin<lb ed="#P" n="47" break="no"/>cipium cognoscendi eo modo quo dictum est. 
+          <lb ed="#P" n="48"/>Relinquitur ergo, quod sint principia
+          ope<lb ed="#P" n="49" break="no"/>randi¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e977-d1e1152">
+          <lb ed="#P" n="50"/>AD Rationes autem principales patet so 
+          <lb ed="#P" n="51"/>lutio per ea quae dicta sunt in istis tribus 
+          <lb ed="#P" n="52"/>articulis.  
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

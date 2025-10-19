@@ -1,220 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="584"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e1080"> <!-- l1d42q1 -->
-            <head xml:id="gsX5tY-d1e1080-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e1080-Hd1e112" type="question-title">Utrum in Deo sit potentia.</head>
-            <p xml:id="gsX5tY-d1e1080-d1e115">
-               <lb ed="#P" n="15"/>DISTINCTIONIS XLII. 
-      <lb ed="#P" n="16"/>QV.AESTIO VNICA 
-      <lb ed="#P" n="17"/>Vtrum in Deo sit potentia
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e124">
-               <lb ed="#P" n="18"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="19"/>negatiua 
-      <lb ed="#P" n="20"/>SEcundum Com. 10. Metaphy. com. 5. 
-      <lb ed="#P" n="21"/> Deus est purus actus, cui nihil
-      admi<lb ed="#P" n="22" break="no"/>scetur de potentia, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e138">
-               <lb ed="#P" n="23"/>ARGVITVR PRO IPARTE 
-      <lb ed="#P" n="24"/>affirmatiua. 
-      <lb ed="#P" n="25"/> Inon esset in eo potentia, non esset prin 
-      <lb ed="#P" n="26"/> cipium alicuius operationis, quod est fal 
-      <lb ed="#P" n="27"/>sum, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e151">
-               <lb ed="#P" n="28"/>RESPONDEO breuiter ad istam
-      quae<lb ed="#P" n="29" break="no"/>stionem, quod de potentia possumus loqui  
-      <lb ed="#P" n="30"/>dupliciter. Vno modo prout est differentia 
-      <lb ed="#P" n="31"/>entis condiuisa contra ipsum actum, quo 
-      <lb ed="#P" n="32"/>modo loquitur Aristot. de Potentia in sexto 
-      <lb ed="#P" n="33"/>Metaphy cum diuidit ens per potentiam, &amp; 
-      <lb ed="#P" n="34"/>actum. Alio modo, prout est ratio potentiae 
-      <lb ed="#P" n="35"/>&amp; ratio principij transmutationis,
-      cuiuscun<lb ed="#P" n="36" break="no"/>quae operationis secundum quod loquitur de 
-      <lb ed="#P" n="37"/>otentia Arist. 5. Metaphy cum diuidit
-      po<lb ed="#P" n="38" break="no"/>tentiam in actiuam, &amp; passiuam. Si
-      loqua<lb ed="#P" n="39" break="no"/>mur de potentia primo modo, dicendum est 
-      <lb ed="#P" n="40"/>potentiam non esse in Deo propter tria¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e182">
-               <lb ed="#P" n="41"/>Primo, quia talis potentia est differentia 
-      <lb ed="#P" n="42"/>entis, &amp; per consequens pars entis, Deo
-      au<lb ed="#P" n="43" break="no"/>tem repugnat habere rationem partis,
-      er<lb ed="#P" n="44" break="no"/>go &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e193">
-               <lb ed="#P" n="45"/>Secundo, quia talis potentia est ens
-      in<lb ed="#P" n="46" break="no"/>completum, &amp; diminutum, immo, nec deno 
-      <lb ed="#P" n="47"/>minatur ens, nisi secundum quid, Deus
-      au<lb ed="#P" n="48" break="no"/>tem est ens perfectissimum 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e204">
-               <lb ed="#P" n="49"/>Tertio, quia talis potentia expectat com¬ 
-      <!--609.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 584 b -->
-               <lb ed="#P" n="50"/>pleri, &amp; deduci ad actum per aliquodens in 
-      <lb ed="#P" n="51"/>actu, &amp; ideo posterior est tali ente in actu; 
-      <lb ed="#P" n="52"/>per quod deducitur ad actum. Deus autem 
-      <lb ed="#P" n="53"/>simplex est, &amp; simpliciter primum ens, &amp;  
-      <lb ed="#P" n="54"/>ideo non potest expectare aliquid ab aliquo 
-      <lb ed="#P" n="55"/>alio.od 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e228">
-               <lb ed="#P" n="56"/>Si autem loquamur de potentia secundo 
-      <lb ed="#P" n="57"/>modo, prout potentia est idem, quod
-      prin<lb ed="#P" n="58" break="no"/>cipium transmutationis, uvel operationis, sic 
-      <lb ed="#P" n="59"/>est distinguendum de ea quia vel accipitur 
-      <lb ed="#P" n="60"/>potentia, prout est principium passiuum, vel 
-      <lb ed="#P" n="61"/>prout est principium actiuum. Si primo
-      mo<lb ed="#P" n="62" break="no"/>do, sic est dicendum, quod in Deo proprie 
-      <lb ed="#P" n="63"/>loquendo, non est talis potentia: quod patet 
-      <lb ed="#P" n="64"/>ex quatuor. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e251">
-               <lb ed="#P" n="65"/>1 Quia talis potentia passiua, expectat
-      re<lb ed="#P" n="66" break="no"/>cipere aliquid a potentia actiua, Deus
-      au<lb ed="#P" n="67" break="no"/>tem, cum sit infinitus, &amp; illimitatus, &amp; per 
-      <lb ed="#P" n="68"/>consequens nulio modo indigens, non
-      ex<lb ed="#P" n="69" break="no"/>pectat alicuius additionem, vel
-      receptio<lb ed="#P" n="70" break="no"/>nem.
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e267">
-               <lb ed="#P" n="71"/>2 Quia eo ipso, quod potentia passiua ex 
-      <lb ed="#P" n="72"/>pectat aliquid recipere, oportet necessario 
-      <lb ed="#P" n="73"/>concedere, vel quod sit sub priuatione illi 
-      <lb ed="#P" n="74"/>annexa, vel quod saltem non repugnet sibi 
-      <lb ed="#P" n="75"/>esse sub ea, omnis autem talis priuatio, quae 
-      <lb ed="#P" n="76"/>importat carentiam alicuius possibilis inesse 
-      <lb ed="#P" n="77"/>defectus est, &amp; per consequens non potest 
-      <lb ed="#P" n="78"/>Deus esse sub aliqua tali priuatione.
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e287">
-               <lb ed="#P" n="79"/>3 Quia eo ipso, quod talis potentia
-      passi<lb ed="#P" n="80" break="no"/>ua potest ire de priuatione ad habitum,
-      po<lb ed="#P" n="81" break="no"/>test esse subiectum mutationis, quia talis
-      pro<lb ed="#P" n="82" break="no"/>cessus non potest esse sine mutatione; Deus 
-      <lb ed="#P" n="83"/>autem nullius mutationis potest esse
-      subie<lb ed="#P" n="84" break="no"/>ctum, vt patet 8. Physic. &amp; 12. Metaph vbi 
-      <lb ed="#P" n="85"/>dicitur quod ens primum omnino est
-      im<lb ed="#P" n="86" break="no"/>mutabile 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e307">
-               <lb ed="#P" n="87"/>4 Quia eo ipso, quod potentia passiua
-      re<lb ed="#P" n="88" break="no"/>cipit ab actiua, dependet ab ea, Deo autem 
-      <lb ed="#P" n="89"/>omni no rerugnat dependere ab aliquo, cum 
-      <lb ed="#P" n="90"/>sit primum ens independens 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e318">
-               <lb ed="#P" n="91"/>Si vero accipiatur potentia secundo
-      mo<lb ed="#P" n="92" break="no"/>do, scilicet prout est principium actiuum, sic 
-      <lb ed="#P" n="93"/>dicendum est simpliciter, quod in Deo est 
-      <lb ed="#P" n="94"/>potentia, quod probatur tripliciter. 
-      <lb ed="#P" n="95"/>1 Omnis causa agens habet in se
-      poten<lb ed="#P" n="96" break="no"/>tiam actiuam, quae est principium actionis 
-      <lb ed="#P" n="97"/>Deus autem est huiusmodi, ergo Maior
-      pa<lb ed="#P" n="98" break="no"/>tet; Minorem suppono ad praesens, quia eius 
-      <lb ed="#P" n="99"/>probatio in secundo libro habebit locum. 
-      <lb ed="#P" n="100"/>2 Id quod est ratio formae exemplaris non  
-      <lb ed="#P" n="101"/>exemplatae, habet in se potentiam actiuam, 
-      <lb ed="#P" n="102"/>Deus est huiusmodi, esgo &amp;c. Maiorem
-      pro<lb ed="#P" n="103" break="no"/>bo, quia de ratione formae exemplaris, &amp;
-      ma<lb ed="#P" n="104" break="no"/>xime non exemplatae est, quod habeat
-      ratio<lb ed="#P" n="105" break="no"/>nem potentiae actiuae per modum artis; nam  
-      <lb ed="#P" n="106"/>semper ars habet rationem principij actiui. 
-      <!--610.xml-->
-      <pb ed="#P" n="585"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Minor autem apparet ex dictis in 25. &amp; 20. 
-      <lb ed="#P" n="2"/>distinctione. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e366">
-               <lb ed="#P" n="3"/>3 Illud est ponendum in Deo, quod sim 
-      <lb ed="#P" n="4"/>pliciter dicit perfectionem, ratio potentiae 
-      <lb ed="#P" n="5"/>actiuae est huiusmodi, ergo &amp;c Maior patet. 
-      <lb ed="#P" n="6"/>Minorem probo, quia ratio potentiae actiuae 
-      <lb ed="#P" n="7"/>prouenit ex actualitate, cum omne, quod
-      a<lb ed="#P" n="8" break="no"/>git, agat vt est in actu, &amp; ideo illud, quod  
-      <lb ed="#P" n="9"/>maxime est in actu, debet in se habere poten 
-      <lb ed="#P" n="10"/>tiam actiuam. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e387">
-               <lb ed="#P" n="11"/>Oecurrit tamen hic dubitatio, quia poten 
-      <lb ed="#P" n="12"/>tiae actiuae deberet respondere aliqua poten 
-      <lb ed="#P" n="13"/>tia passiua, &amp; per consequens supponeret 
-      <lb ed="#P" n="14"/>aliquid in agendo, quod est falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e398">
-               <lb ed="#P" n="15"/>Ad hoc dicendum, quod potentiam
-      acti<lb ed="#P" n="16" break="no"/>uam dici relatiue ad pasfiuam, potest intelli 
-      <lb ed="#P" n="17"/>gi dupliciter, vel ad passiuam quam
-      suppo<lb ed="#P" n="18" break="no"/>nit, siue coexigit, vel ad passiuam quam pro 
-      <lb ed="#P" n="19"/>ducit, potentia actiua in Deo dicitur relatiue 
-      <lb ed="#P" n="20"/>ad passiuam quam producit, non autem ad 
-      <lb ed="#P" n="21"/>passiuam, quam coexigit, vel supponit, patet 
-      <lb ed="#P" n="22"/>ergo quid sit dicendum de ista questione. 
-    </p>
-            <p xml:id="gsX5tY-d1e1080-d1e418">
-               <lb ed="#P" n="23"/>AD Rationem autem in contrarium dice 
-      <lb ed="#P" n="24"/>dum, quod potentia actiua non repugnat pu 
-      <lb ed="#P" n="25"/>ro actui, sed bene repugnat ei potentia
-      pas<lb ed="#P" n="26" break="no"/>siua quae est differentia entis diuisa contra 
-      <lb ed="#P" n="27"/>actum, &amp; ita intelligit Comment. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="584"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e1080"> <!-- l1d42q1 -->
+        <head xml:id="gsX5tY-d1e1080-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e1080-Hd1e112" type="question-title">Utrum in Deo sit potentia.</head>
+        <p xml:id="gsX5tY-d1e1080-d1e115">
+          <lb ed="#P" n="15"/>DISTINCTIONIS XLII. 
+          <lb ed="#P" n="16"/>QV.AESTIO VNICA 
+          <lb ed="#P" n="17"/>Vtrum in Deo sit potentia
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e124">
+          <lb ed="#P" n="18"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="19"/>negatiua 
+          <lb ed="#P" n="20"/>SEcundum Com. 10. Metaphy. com. 5. 
+          <lb ed="#P" n="21"/> Deus est purus actus, cui nihil
+          admi<lb ed="#P" n="22" break="no"/>scetur de potentia, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e138">
+          <lb ed="#P" n="23"/>ARGVITVR PRO IPARTE 
+          <lb ed="#P" n="24"/>affirmatiua. 
+          <lb ed="#P" n="25"/> Inon esset in eo potentia, non esset prin 
+          <lb ed="#P" n="26"/> cipium alicuius operationis, quod est fal 
+          <lb ed="#P" n="27"/>sum, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e151">
+          <lb ed="#P" n="28"/>RESPONDEO breuiter ad istam
+          quae<lb ed="#P" n="29" break="no"/>stionem, quod de potentia possumus loqui  
+          <lb ed="#P" n="30"/>dupliciter. Vno modo prout est differentia 
+          <lb ed="#P" n="31"/>entis condiuisa contra ipsum actum, quo 
+          <lb ed="#P" n="32"/>modo loquitur Aristot. de Potentia in sexto 
+          <lb ed="#P" n="33"/>Metaphy cum diuidit ens per potentiam, &amp; 
+          <lb ed="#P" n="34"/>actum. Alio modo, prout est ratio potentiae 
+          <lb ed="#P" n="35"/>&amp; ratio principij transmutationis,
+          cuiuscun<lb ed="#P" n="36" break="no"/>quae operationis secundum quod loquitur de 
+          <lb ed="#P" n="37"/>otentia Arist. 5. Metaphy cum diuidit
+          po<lb ed="#P" n="38" break="no"/>tentiam in actiuam, &amp; passiuam. Si
+          loqua<lb ed="#P" n="39" break="no"/>mur de potentia primo modo, dicendum est 
+          <lb ed="#P" n="40"/>potentiam non esse in Deo propter tria¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e182">
+          <lb ed="#P" n="41"/>Primo, quia talis potentia est differentia 
+          <lb ed="#P" n="42"/>entis, &amp; per consequens pars entis, Deo
+          au<lb ed="#P" n="43" break="no"/>tem repugnat habere rationem partis,
+          er<lb ed="#P" n="44" break="no"/>go &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e193">
+          <lb ed="#P" n="45"/>Secundo, quia talis potentia est ens
+          in<lb ed="#P" n="46" break="no"/>completum, &amp; diminutum, immo, nec deno 
+          <lb ed="#P" n="47"/>minatur ens, nisi secundum quid, Deus
+          au<lb ed="#P" n="48" break="no"/>tem est ens perfectissimum 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e204">
+          <lb ed="#P" n="49"/>Tertio, quia talis potentia expectat com¬ 
+          <!--609.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 584 b -->
+          <lb ed="#P" n="50"/>pleri, &amp; deduci ad actum per aliquodens in 
+          <lb ed="#P" n="51"/>actu, &amp; ideo posterior est tali ente in actu; 
+          <lb ed="#P" n="52"/>per quod deducitur ad actum. Deus autem 
+          <lb ed="#P" n="53"/>simplex est, &amp; simpliciter primum ens, &amp;  
+          <lb ed="#P" n="54"/>ideo non potest expectare aliquid ab aliquo 
+          <lb ed="#P" n="55"/>alio.od 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e228">
+          <lb ed="#P" n="56"/>Si autem loquamur de potentia secundo 
+          <lb ed="#P" n="57"/>modo, prout potentia est idem, quod
+          prin<lb ed="#P" n="58" break="no"/>cipium transmutationis, uvel operationis, sic 
+          <lb ed="#P" n="59"/>est distinguendum de ea quia vel accipitur 
+          <lb ed="#P" n="60"/>potentia, prout est principium passiuum, vel 
+          <lb ed="#P" n="61"/>prout est principium actiuum. Si primo
+          mo<lb ed="#P" n="62" break="no"/>do, sic est dicendum, quod in Deo proprie 
+          <lb ed="#P" n="63"/>loquendo, non est talis potentia: quod patet 
+          <lb ed="#P" n="64"/>ex quatuor. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e251">
+          <lb ed="#P" n="65"/>1 Quia talis potentia passiua, expectat
+          re<lb ed="#P" n="66" break="no"/>cipere aliquid a potentia actiua, Deus
+          au<lb ed="#P" n="67" break="no"/>tem, cum sit infinitus, &amp; illimitatus, &amp; per 
+          <lb ed="#P" n="68"/>consequens nulio modo indigens, non
+          ex<lb ed="#P" n="69" break="no"/>pectat alicuius additionem, vel
+          receptio<lb ed="#P" n="70" break="no"/>nem.
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e267">
+          <lb ed="#P" n="71"/>2 Quia eo ipso, quod potentia passiua ex 
+          <lb ed="#P" n="72"/>pectat aliquid recipere, oportet necessario 
+          <lb ed="#P" n="73"/>concedere, vel quod sit sub priuatione illi 
+          <lb ed="#P" n="74"/>annexa, vel quod saltem non repugnet sibi 
+          <lb ed="#P" n="75"/>esse sub ea, omnis autem talis priuatio, quae 
+          <lb ed="#P" n="76"/>importat carentiam alicuius possibilis inesse 
+          <lb ed="#P" n="77"/>defectus est, &amp; per consequens non potest 
+          <lb ed="#P" n="78"/>Deus esse sub aliqua tali priuatione.
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e287">
+          <lb ed="#P" n="79"/>3 Quia eo ipso, quod talis potentia
+          passi<lb ed="#P" n="80" break="no"/>ua potest ire de priuatione ad habitum,
+          po<lb ed="#P" n="81" break="no"/>test esse subiectum mutationis, quia talis
+          pro<lb ed="#P" n="82" break="no"/>cessus non potest esse sine mutatione; Deus 
+          <lb ed="#P" n="83"/>autem nullius mutationis potest esse
+          subie<lb ed="#P" n="84" break="no"/>ctum, vt patet 8. Physic. &amp; 12. Metaph vbi 
+          <lb ed="#P" n="85"/>dicitur quod ens primum omnino est
+          im<lb ed="#P" n="86" break="no"/>mutabile 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e307">
+          <lb ed="#P" n="87"/>4 Quia eo ipso, quod potentia passiua
+          re<lb ed="#P" n="88" break="no"/>cipit ab actiua, dependet ab ea, Deo autem 
+          <lb ed="#P" n="89"/>omni no rerugnat dependere ab aliquo, cum 
+          <lb ed="#P" n="90"/>sit primum ens independens 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e318">
+          <lb ed="#P" n="91"/>Si vero accipiatur potentia secundo
+          mo<lb ed="#P" n="92" break="no"/>do, scilicet prout est principium actiuum, sic 
+          <lb ed="#P" n="93"/>dicendum est simpliciter, quod in Deo est 
+          <lb ed="#P" n="94"/>potentia, quod probatur tripliciter. 
+          <lb ed="#P" n="95"/>1 Omnis causa agens habet in se
+          poten<lb ed="#P" n="96" break="no"/>tiam actiuam, quae est principium actionis 
+          <lb ed="#P" n="97"/>Deus autem est huiusmodi, ergo Maior
+          pa<lb ed="#P" n="98" break="no"/>tet; Minorem suppono ad praesens, quia eius 
+          <lb ed="#P" n="99"/>probatio in secundo libro habebit locum. 
+          <lb ed="#P" n="100"/>2 Id quod est ratio formae exemplaris non  
+          <lb ed="#P" n="101"/>exemplatae, habet in se potentiam actiuam, 
+          <lb ed="#P" n="102"/>Deus est huiusmodi, esgo &amp;c. Maiorem
+          pro<lb ed="#P" n="103" break="no"/>bo, quia de ratione formae exemplaris, &amp;
+          ma<lb ed="#P" n="104" break="no"/>xime non exemplatae est, quod habeat
+          ratio<lb ed="#P" n="105" break="no"/>nem potentiae actiuae per modum artis; nam  
+          <lb ed="#P" n="106"/>semper ars habet rationem principij actiui. 
+          <!--610.xml-->
+          <pb ed="#P" n="585"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Minor autem apparet ex dictis in 25. &amp; 20. 
+          <lb ed="#P" n="2"/>distinctione. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e366">
+          <lb ed="#P" n="3"/>3 Illud est ponendum in Deo, quod sim 
+          <lb ed="#P" n="4"/>pliciter dicit perfectionem, ratio potentiae 
+          <lb ed="#P" n="5"/>actiuae est huiusmodi, ergo &amp;c Maior patet. 
+          <lb ed="#P" n="6"/>Minorem probo, quia ratio potentiae actiuae 
+          <lb ed="#P" n="7"/>prouenit ex actualitate, cum omne, quod
+          a<lb ed="#P" n="8" break="no"/>git, agat vt est in actu, &amp; ideo illud, quod  
+          <lb ed="#P" n="9"/>maxime est in actu, debet in se habere poten 
+          <lb ed="#P" n="10"/>tiam actiuam. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e387">
+          <lb ed="#P" n="11"/>Oecurrit tamen hic dubitatio, quia poten 
+          <lb ed="#P" n="12"/>tiae actiuae deberet respondere aliqua poten 
+          <lb ed="#P" n="13"/>tia passiua, &amp; per consequens supponeret 
+          <lb ed="#P" n="14"/>aliquid in agendo, quod est falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e398">
+          <lb ed="#P" n="15"/>Ad hoc dicendum, quod potentiam
+          acti<lb ed="#P" n="16" break="no"/>uam dici relatiue ad pasfiuam, potest intelli 
+          <lb ed="#P" n="17"/>gi dupliciter, vel ad passiuam quam
+          suppo<lb ed="#P" n="18" break="no"/>nit, siue coexigit, vel ad passiuam quam pro 
+          <lb ed="#P" n="19"/>ducit, potentia actiua in Deo dicitur relatiue 
+          <lb ed="#P" n="20"/>ad passiuam quam producit, non autem ad 
+          <lb ed="#P" n="21"/>passiuam, quam coexigit, vel supponit, patet 
+          <lb ed="#P" n="22"/>ergo quid sit dicendum de ista questione. 
+        </p>
+        <p xml:id="gsX5tY-d1e1080-d1e418">
+          <lb ed="#P" n="23"/>AD Rationem autem in contrarium dice 
+          <lb ed="#P" n="24"/>dum, quod potentia actiua non repugnat pu 
+          <lb ed="#P" n="25"/>ro actui, sed bene repugnat ei potentia
+          pas<lb ed="#P" n="26" break="no"/>siua quae est differentia entis diuisa contra 
+          <lb ed="#P" n="27"/>actum, &amp; ita intelligit Comment. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

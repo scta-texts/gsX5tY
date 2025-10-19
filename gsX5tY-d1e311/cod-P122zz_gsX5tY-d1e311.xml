@@ -1,808 +1,808 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 2</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 2</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="213"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e311"> <!-- l1d5q2 -->
-            <head xml:id="gsX5tY-d1e311-Hd1e109">Quaestio 2</head>
-            <head xml:id="gsX5tY-d1e311-Hd1e112" type="question-title">Utrum divina essentia sit formalis terminus generationis</head>
-            <p xml:id="gsX5tY-d1e311-d1e115">
-               <lb ed="#P" n="42"/>QVAESTIO SECVNDA 
-      <lb ed="#P" n="43"/>Vtrum diuina essentia sit formalis terminus 
-      <lb ed="#P" n="44"/>generationis.
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e124">
-               <lb ed="#P" n="45"/>VIdetur quod non, primo quia termi- 
-      <lb ed="#P" n="46"/> nus generationis generatur saltem per 
-      <lb ed="#P" n="47"/>accidens, sed diuina essentia nullo modo ge 
-      <lb ed="#P" n="48"/>neratur, ergo &amp;c Maior patet, quia termi- 
-      <lb ed="#P" n="49"/>nus generationis est forma, &amp; forma genera 
-      <lb ed="#P" n="50"/>tur saltem per accidens, vt patet septimo me 
-      <lb ed="#P" n="51"/>taph. Minor etiam apparet, quia cum essen 
-      <!--238.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 213 b -->
-               <lb ed="#P" n="52"/>tia sit idem realitet quod persona generans, 
-      <lb ed="#P" n="53"/>si essentia generaretur quocunque modo,
-      se<lb ed="#P" n="54" break="no"/>queretur quod persona generans seipsam ge 
-      <lb ed="#P" n="55"/>neraret, quod est impossibile secundum
-      <ref xml:id="gsX5tY-d1e311-Rd1e156">Au<lb ed="#P" n="56" break="no"/>gustinum primo de Trinitate cap. i1.</ref> 
-            </p>
-            <p xml:id="gsX5tY-d1e311-d1e163">
-               <lb ed="#P" n="57"/>P Secundo sic: illud, quod praeexistit ge 
-      <lb ed="#P" n="58"/>nerationi, non est formalis terminus genera 
-      <lb ed="#P" n="59"/>tionis; diuina essentia e huiusmodi, ergo 
-      <lb ed="#P" n="60"/>&amp;c. Maior est vera, quia generatio semper 
-      <lb ed="#P" n="61"/>est praeuia termino: Minor etiam patet, quia 
-      <lb ed="#P" n="62"/>diuina essentia est perfecte in patre ante 
-      <lb ed="#P" n="63"/>actum generationis, cum sit perfectus Deus. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e181">
-               <lb ed="#P" n="64"/>AD OPPO arguo, quia vbi genera: 
-      <lb ed="#P" n="65"/>tio est vnitiua, vel via in naturam, formalis 
-      <lb ed="#P" n="66"/>terminus semper est illud, in quo gignens 
-      <lb ed="#P" n="67"/>&amp; genitum assimilantur, generatio in
-      diui<lb ed="#P" n="68" break="no"/>nis est vnitiua, &amp; assimilatio est solum in
-      es<lb ed="#P" n="69" break="no"/>sentia; ergo &amp;c Maior est nota per inductio 
-      <lb ed="#P" n="70"/>nem in omnibus: Minor etiam patet
-      quan<lb ed="#P" n="71" break="no"/>tum ad duas partes, nam quod illa
-      genera<lb ed="#P" n="72" break="no"/>tio sit vnitiua apparet, quia Deus venerat 
-      <lb ed="#P" n="73"/>Deum, quod etiam assimilatio sit solum in 
-      <lb ed="#P" n="74"/>essentia apparet, quia cum non sit in diuinis 
-      <lb ed="#P" n="75"/>nisi essentia &amp; relatio, &amp; penes relationem 
-      <lb ed="#P" n="76"/>sit distinctio; relinquitur, quod solum penes 
-      <lb ed="#P" n="77"/>essentiam sit assimilatio, 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e214">
-               <lb ed="#P" n="78"/>RESPONDEO: pro resolutione 
-      <lb ed="#P" n="79"/>istius quaestionis duo sunt discutienda 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e221">
-               <lb ed="#P" n="80"/>An diuina essentia generetur aliquo 
-      <lb ed="#P" n="81"/>modo siue per se, siue per accidens 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e228">
-               <lb ed="#P" n="82"/>2 An diuina essentia sit formalis
-      termi<lb ed="#P" n="83" break="no"/>nus generationis. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e235">
-               <lb ed="#P" n="84"/>ARTICVLVS PRIMVS.. 
-      <lb ed="#P" n="85"/>An diuina essentia generetur vel per se 
-      <lb ed="#P" n="86"/>vel per accidens
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e245">
-               <lb ed="#P" n="87"/>Irca hunc articulum dissensio est
-      in<lb ed="#P" n="88" break="no"/> ter Magistrum sententiarum, &amp;
-      Ab<lb ed="#P" n="89" break="no"/>batem loachim, nam Magister Sententiarum 
-      <lb ed="#P" n="90"/>dicit, quod diuina essentia non generat, nec 
-      <lb ed="#P" n="91"/>generatur, nec procedit, est tamen idem, qui 
-      <lb ed="#P" n="92"/>persona generans, persona genita, &amp;
-      perso<lb ed="#P" n="93" break="no"/>na procedens. Abbas autem loachim ait, quam 
-      <lb ed="#P" n="94"/>si sententia Magistri vera esset, sequeretur 
-      <lb ed="#P" n="95"/>quaternitatem esse in diuinis, quia scilicet 
-      <lb ed="#P" n="96"/>esset pater generans, filius genitus, Spiritus 
-      <lb ed="#P" n="97"/>Sanctus procedens, &amp; quarta res non
-      gene<lb ed="#P" n="98" break="no"/>rans, nec genita, nec procedens, scilicet
-      di<lb ed="#P" n="99" break="no"/>uina essentia. Volens autem quaternitatem. 
-      <lb ed="#P" n="100"/>in diuinis euitare, dicit, tres personas esse 
-      <lb ed="#P" n="101"/>vnam substantiam, non quidem realiter, sed  
-      <lb ed="#P" n="102"/>solum secundum quandam collectiuam si¬ 
-      <!--239.xml-->
-      <pb ed="#P" n="214"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>militudinem, quemadmodum multi
-      homi<lb ed="#P" n="2" break="no"/>nes dicuntur vnus populus, &amp; multi fideles 
-      <lb ed="#P" n="3"/>vna Ecclesia, 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e295">
-               <lb ed="#P" n="4"/>Haec autem opinio tanquam erronea fuit 
-      <lb ed="#P" n="5"/>per Sacrum Concilium reprobata, vt patet 
-      <lb ed="#P" n="6"/>in illa Decretali. Damnamus, &amp;
-      rationabili<lb ed="#P" n="7" break="no"/>ter Nam si diuina essentia esset numerata in 
-      <lb ed="#P" n="8"/>tribus personis, tunc essent plutes Dij.
-      Mo<lb ed="#P" n="9" break="no"/>tiuum autem Abbatis non valet, quia (sicut 
-      <lb ed="#P" n="10"/>superius probatum fuit) ista duo stant simul 
-      <lb ed="#P" n="11"/>scilicet diuinam essentiam esse idem realiter 
-      <lb ed="#P" n="12"/>quod persona generans, persona genita, &amp; 
-      <lb ed="#P" n="13"/>persona procedens, &amp; tamen non generare, 
-      <lb ed="#P" n="14"/>nec generari, nec procedere. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e321">
-               <lb ed="#P" n="15"/>Riccardus autem quinto de Trin cap. 22. 
-      <lb ed="#P" n="16"/>affirmat, quod essentia generat, &amp; generatur 
-      <lb ed="#P" n="17"/>necnon procedit, generat, prout est in patre; 
-      <lb ed="#P" n="18"/>generatur, prout est in filio, procedit, prout 
-      <lb ed="#P" n="19"/>est in Spiritu Sancto. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e334">
-               <lb ed="#P" n="20"/>Haec opinio falsa est. Primo quia si eadem 
-      <lb ed="#P" n="21"/>essentia tantum esset gignens, &amp; genita; idem 
-      <lb ed="#P" n="22"/>generaret seipsum, quod est impossibile; vt 
-      <lb ed="#P" n="23"/>patet per <ref xml:id="gsX5tY-d1e311-Rd1e344">P. Aug. 1. de Trin cap. 1.</ref> &amp; per
-      A<lb ed="#P" n="24" break="no"/>rist. 2 de Anima. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e351">
-               <lb ed="#P" n="25"/>Secundo, quia non posset assignari causa, 
-      <lb ed="#P" n="26"/>quare magis plurificaretur persona, quam es 
-      <lb ed="#P" n="27"/>sentia, cum dicamus, quod plurificatur perso 
-      <lb ed="#P" n="28"/>na, quia vna, &amp; eadem persona non potest 
-      <lb ed="#P" n="29"/>esse gignens, &amp; genita, &amp; procedens 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e364">
-               <lb ed="#P" n="30"/>Tertio, quia dato quod ista opinio haberet 
-      <lb ed="#P" n="31"/>aliquam apparentiam, nullo tamen modo de 
-      <lb ed="#P" n="32"/>bet teneri, cum sit contra determinationem 
-      <lb ed="#P" n="33"/>Sacri Concilij, approbantis opinionem
-      Ma<lb ed="#P" n="34" break="no"/>gistri, sicut patet in Decretali supracitata; vbi 
-      <lb ed="#P" n="35"/>ait; Nos autem (Sacro approbante Concilio)  
-      <lb ed="#P" n="36"/>credimus, &amp; confitemur cum Petro Lombar 
-      <lb ed="#P" n="37"/>do, quod in Deo est vna quaedam res
-      incom<lb ed="#P" n="38" break="no"/>prehensibilis, &amp; ineffabilis, scilicet, diuina
-      es<lb ed="#P" n="39" break="no"/>sentia; quae veraciter est Pater, &amp; Filius, &amp; 
-      <lb ed="#P" n="40"/>Spiritus Sanctus, tres simul personae, ac
-      sigi<lb ed="#P" n="41" break="no"/>latim quaelibet earum, quae est vniuersorum 
-      <lb ed="#P" n="42"/>principium, praeter quam alia inueniri non po 
-      <lb ed="#P" n="43"/>test, Ex quo apparet immediate, quomodo di 
-      <lb ed="#P" n="44"/>uina essentia non ponit in numerum cum per 
-      <lb ed="#P" n="45"/>sonis diuinis, vt quarta res, sicut imponebat. 
-      <lb ed="#P" n="46"/>Abbas loachim Magistro, &amp; post praefata 
-      <lb ed="#P" n="47"/>subdit, propter quod illa res, scilicet diuina 
-      <lb ed="#P" n="48"/>essentia non est generans, neque genita, nec 
-      <lb ed="#P" n="49"/>procedens, vt distinctiones sint in personis,  
-      <lb ed="#P" n="50"/>&amp; vnitates in essentia. Apparet ergo ex
-      de<lb ed="#P" n="51" break="no"/>terminatione vniuersalis Ecclesiae, quod isti 
-      <lb ed="#P" n="52"/>actus, notionales nullo modo sunt attribuer 
-      <lb ed="#P" n="53"/>di essentiae, nec actiue, nec passiue, sed solum 
-      <lb ed="#P" n="54"/>personis; non obstante identitate reali inter 
-      <lb ed="#P" n="55"/>personam, &amp; essentiam. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e424">
-               <lb ed="#P" n="56"/>Pro quaesiti itaque resolutione duas
-      con<lb ed="#P" n="57" break="no"/>elusiones propono. Prima est, quod diuina 
-      <!--239.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 214 b -->
-               <lb ed="#P" n="58"/>essentia non generetur per se: Secunda est,  
-      <lb ed="#P" n="59"/>quod non generatur per accidens. Primam  
-      <lb ed="#P" n="60"/>probo tripliciter, 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e444">
-               <lb ed="#P" n="61"/>1 Illud, quod est idem realiter cum
-      gene<lb ed="#P" n="62" break="no"/>rante, non generatur per se: Diuina essentia 
-      <lb ed="#P" n="63"/>est idem realiter cum persona patris, ergo nen 
-      <lb ed="#P" n="64"/>generatur per se. Maior est nota; Minor etiam 
-      <lb ed="#P" n="65"/>patet, quia diuina essentia est idem realiter 
-      <lb ed="#P" n="66"/>cum persona patris generantis. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e460">
-               <lb ed="#P" n="67"/>2 Illud, quod praeexistit actui
-      generatio<lb ed="#P" n="68" break="no"/>nis, non generatur per se: diuina essentia ess 
-      <lb ed="#P" n="69"/>huiusmodi; ergo &amp;c. Maior est nota, quia
-      il<lb ed="#P" n="70" break="no"/>ud, quod generatur per se accipit esse per 
-      <lb ed="#P" n="71"/>actum generationis; &amp; per consequens non 
-      <lb ed="#P" n="72"/>praexistit. Minor etiam clara est, quia diuina 
-      <lb ed="#P" n="73"/>essentia praeexistit in persona patris actui suae 
-      <lb ed="#P" n="74"/>generationis, alias pater per illum actum non 
-      <lb ed="#P" n="75"/>communicaret eam filio; intelligo autem ea 
-      <lb ed="#P" n="76"/>praeexistere actui non secundum rem, sed se 
-      <lb ed="#P" n="77"/>cundum nostrum modum intelligendi: &amp; 
-      <lb ed="#P" n="78"/>hoc sufficit, quod illud, quod per se
-      genera<lb ed="#P" n="79" break="no"/>tur, nullo modo actui gene ationis pexistit. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e491">
-               <lb ed="#P" n="80"/>3 Si diuina essentia generaretur per se, 
-      <lb ed="#P" n="81"/>nullo modo differet a persona filij :
-      conse<lb ed="#P" n="82" break="no"/>quens est falsum, ergo &amp; antecedens: Falsitas 
-      <lb ed="#P" n="83"/>consequentis est nota, quia saltem distinctio 
-      <lb ed="#P" n="84"/>nem secundum rationem oportet ibi salua 
-      <lb ed="#P" n="85"/>re, Probo consequentiam: Nam sicut
-      diceba<lb ed="#P" n="86" break="no"/>tur in praecedenti quaestione, quod persona 
-      <lb ed="#P" n="87"/>patris non distingueretur ab essentia, nisi
-      co<lb ed="#P" n="88" break="no"/>exigeret filium realiter distinctum, respectu 
-      <lb ed="#P" n="89"/>cuius competit sibi actus generationis
-      acti<lb ed="#P" n="90" break="no"/>uae, qui non competit essentiae; ita persona 
-      <lb ed="#P" n="91"/>filij non distingueretur ab essentia secundum 
-      <lb ed="#P" n="92"/>rationem, nisi coexigeret patre realiter a se 
-      <lb ed="#P" n="93"/>distinctum, &amp; per consequens, non respectu 
-      <lb ed="#P" n="94"/>psius competeret sibi actus generationis pas 
-      <lb ed="#P" n="95"/>iuae, qui non competit essentiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e528">
-               <lb ed="#P" n="96"/>Quantum eero ad secundam conclusionem 
-      <lb ed="#P" n="97"/>quidam dicunt, quod potest concedi essentiam 
-      <lb ed="#P" n="98"/>generari per accidens; nam sicut non obstan 
-      <lb ed="#P" n="99"/>te quod materia praeexistat generationi
-      rea<lb ed="#P" n="100" break="no"/>li, ipsa tamen generatur per accidens, vt
-      pa<lb ed="#P" n="101" break="no"/>tet 7. Metaph ita etiam non obstante quod 
-      <lb ed="#P" n="102"/>diuina essentia praeexistat generationi
-      pater<lb ed="#P" n="103" break="no"/>nae, poter it tamen generari per accidens, quod 
-      <lb ed="#P" n="104"/>probant dupliciter. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e550">
-               <lb ed="#P" n="105"/>1 Sicut in istis inferioribus, ad
-      generatio<lb ed="#P" n="106" break="no"/>nem suppositi per se, generantur per accidens 
-      <lb ed="#P" n="107"/>quaecunque sunt in supposito; ita videtur,  
-      <lb ed="#P" n="108"/>quod in diuinis ad genetationem per se
-      ip<lb ed="#P" n="109" break="no"/>sius filij, generetur saltem per accidens quic 
-      <lb ed="#P" n="110"/>quid est in filio,  
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e567">
-               <lb ed="#P" n="111"/>2 Illud quod est in alio, per generationem 
-      <lb ed="#P" n="112"/>generatur saltem per accidens, alioquin
-      ge<lb ed="#P" n="113" break="no"/>neratio nullo modo esset sibi causa essendi 
-      <lb ed="#P" n="114"/>in illo, diuina autem essentia est in filio per 
-      <!--240.xml-->
-      <pb ed="#P" n="215"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>generationem; ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e587">
-               <lb ed="#P" n="2"/>lsta opinio stare non potest propter duo; 
-      <lb ed="#P" n="3"/>Primo quia illud, quod generatur per se, &amp;  
-      <lb ed="#P" n="4"/>illud quod generatur per accidens, generan 
-      <lb ed="#P" n="5"/>tur vna, &amp; eadem generatione. Nam si quod 
-      <lb ed="#P" n="6"/>libet generaretur propria generatione,
-      vtrum<lb ed="#P" n="7" break="no"/>que generaretur per se: hoc supposito
-      argui<lb ed="#P" n="8" break="no"/>tur sic: Si diuina essentia generaretur per ac 
-      <lb ed="#P" n="9"/>cidens, sequeretur quod distingueretur
-      rea<lb ed="#P" n="10" break="no"/>liter a patre, consequens est falsum, ergo &amp; 
-      <lb ed="#P" n="11"/>antecedens Falsitas consequentis patet ex
-      de<lb ed="#P" n="12" break="no"/>terminatione ecclesiae superius habita, &amp;  
-      <lb ed="#P" n="13"/>etiam, quia hoc repugnat diuinae simplicita¬. 
-      <lb ed="#P" n="14"/>ti. Consequentiam probo: Nam si diuina Es 
-      <lb ed="#P" n="15"/>sentia generaretur per accidens, generaretur 
-      <lb ed="#P" n="16"/>radem generatione, qua filius generatur per 
-      <lb ed="#P" n="17"/>se, secundum suppositionem factam, cum ergo 
-      <lb ed="#P" n="18"/>filius per illam generationem distinguatur 
-      <lb ed="#P" n="19"/>realiter a patre, ergo &amp; essentia 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e629">
-               <lb ed="#P" n="20"/>Secundo sequeretur, quod diuina
-      essen<lb ed="#P" n="21" break="no"/>tia acquireret nouum esse: consequens est 
-      <lb ed="#P" n="22"/>falsum &amp; impossibile, ergo &amp;c.
-      Impossibili<lb ed="#P" n="23" break="no"/>tas patet, quia in eo, quod est simpliciter ne 
-      <lb ed="#P" n="24"/>cesse, non est possibilis aliqua nouitas.
-      Con<lb ed="#P" n="25" break="no"/>sequentiam probo: Illud enim, quod
-      gene<lb ed="#P" n="26" break="no"/>ratur, siue per se, siue secundum accidens, 
-      <lb ed="#P" n="27"/>acquirit aliquod esse; ergo essentia diuina 
-      <lb ed="#P" n="28"/>si generaretur, acquireret aliquod esse. vel 
-      <lb ed="#P" n="29"/>ergo acquireret idem esse necessarium, &amp; in 
-      <lb ed="#P" n="30"/>dependens; vel aliquod aliud nouum esse : 
-      <lb ed="#P" n="31"/>Non primum, quia ipsa est forma, per quam 
-      <lb ed="#P" n="32"/>quaelibet persona habet necesse, &amp; indepen 
-      <lb ed="#P" n="33"/>dens esse, &amp; per consequens non potest
-      ac<lb ed="#P" n="34" break="no"/>quirere illud esse ab aliqua persona, &amp;
-      mul<lb ed="#P" n="35" break="no"/>to minus a quocunque alio principio
-      extrin<lb ed="#P" n="36" break="no"/>seco, quia ipsa est vniuersorum principium 
-      <lb ed="#P" n="37"/>(vt superius dicebatur) non secudum, quia 
-      <lb ed="#P" n="38"/>hoc est impossibile 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e673">
-               <lb ed="#P" n="39"/>lsta ratio patitur duas instantias, quarum  
-      <lb ed="#P" n="40"/>prima est, quia diceret aliquis, quod eadem 
-      <lb ed="#P" n="41"/>ratione probaretur filium non generari, vel 
-      <lb ed="#P" n="42"/>quia acquireret necesse esse; vel aliquod
-      a<lb ed="#P" n="43" break="no"/>liud nouum esse; non potest dici quod acqui  
-      <lb ed="#P" n="44"/>rat necesse esse, quia illud est ex se
-      formali<lb ed="#P" n="45" break="no"/>ter, ergo acquirit aliud nouum esse¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e691">
-               <lb ed="#P" n="46"/>Ad hoc dicendum est, quod quamuis per 
-      <lb ed="#P" n="47"/>sona filij habeat necesse esse ex se
-      formali<lb ed="#P" n="48" break="no"/>ter, non tamen dat ipsum formaliter alteri 
-      <lb ed="#P" n="49"/>personae; idcirco non repugnat sibi accipere 
-      <lb ed="#P" n="50"/>istud esse principiatiue, &amp; originaliter ab es 
-      <lb ed="#P" n="51"/>sentia, sed bene repugnat, quod huiusmodi 
-      <lb ed="#P" n="52"/>esse recipiat ab aliqua persona: stant autem 
-      <lb ed="#P" n="53"/>ista duo simul, scilicet, quod personae
-      ha<lb ed="#P" n="54" break="no"/>beant ex se formaliter necesse esse, &amp; tamen 
-      <lb ed="#P" n="55"/>essentia, det formaliter istud esse cuilibet per 
-      <lb ed="#P" n="56"/>sonae: Nam (sicut dicebatur superius)
-      essen<lb ed="#P" n="57" break="no"/>tia est idem, quod omnes personae simul, &amp;  
-      <!--240.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 215 b -->
-               <lb ed="#P" n="58"/>quod quaelibet sigillatim, &amp; ideo illud, quod 
-      <lb ed="#P" n="59"/>competit personis ex essentia formaliter, conm 
-      <lb ed="#P" n="60"/>petit etiam eis formaliter ex se ipsis. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e733">
-               <lb ed="#P" n="61"/>Secundo diceret aliquis, quod diuina
-      es<lb ed="#P" n="62" break="no"/>sentia per actum genetationis accipit
-      neces<lb ed="#P" n="63" break="no"/>se esse, non quidem simpliciter, quia hoc ha 
-      <lb ed="#P" n="64"/>bet ex se ipsa formaliter, vt dictum fuit, sed  
-      <lb ed="#P" n="65"/>sub quodam respectu, puta sub respectu fi- 
-      <lb ed="#P" n="66"/>liationis, quem quidem respectum non
-      con<lb ed="#P" n="67" break="no"/>sequitur, nisi per actum generationis; &amp; ita 
-      <lb ed="#P" n="68"/>videbitur generari per accidens 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e754">
-               <lb ed="#P" n="69"/>Respondetur, huiusmodi instantiam pro 
-      <lb ed="#P" n="70"/>cedere per falsam imaginationem, quia
-      ima<lb ed="#P" n="71" break="no"/>ginatur quod essentia diuina per actum
-      ge<lb ed="#P" n="72" break="no"/>nerationis acquirat esse respectiuum, siue res 
-      <lb ed="#P" n="73"/>pectum filiationis, quod quidem mihi
-      vide<lb ed="#P" n="74" break="no"/>tur falsum propter tria. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e770">
-               <lb ed="#P" n="75"/>Primo, quia respectus non potest esse for 
-      <lb ed="#P" n="76"/>malis terminus generationis, alioquin
-      gene<lb ed="#P" n="77" break="no"/>ratio illa esset magis distinctiua, quam
-      assim<lb ed="#P" n="78" break="no"/>latiua, cuius contrarium probabitur infra
-      di<lb ed="#P" n="79" break="no"/>stinctione octaua. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e783">
-               <lb ed="#P" n="80"/>Secundo, quia diuina essentia acquireret 
-      <lb ed="#P" n="81"/>nouum esse, nam omne esse, quod
-      acquiri<lb ed="#P" n="82" break="no"/>tur per generationem, &amp; non praeexistit
-      ge<lb ed="#P" n="83" break="no"/>nerationi, videtur necessario quid, nouum; 
-      <lb ed="#P" n="84"/>quia semper generatio inducit nouitate, vbi 
-      <lb ed="#P" n="85"/>non terminatur ad esse praeexistens, sed
-      res<lb ed="#P" n="86" break="no"/>pectus filiasionis non praeexistit generationi, 
-      <lb ed="#P" n="87"/>ergo essentia non acqrit tale esse respectiuum 
-      <lb ed="#P" n="88"/>lmmo nec etiam persona, de qua tamen
-      ma<lb ed="#P" n="89" break="no"/>gis videtur, quia cum tale esse respectiuum 
-      <lb ed="#P" n="90"/>non praeexistat generationi, sequeretur, quod 
-      <lb ed="#P" n="91"/>essentia, vel persona in acquirendo tale esse, 
-      <lb ed="#P" n="92"/>procederet de potentia ad actum, &amp; per
-      con<lb ed="#P" n="93" break="no"/>sequens quod acquireret nouum esse:
-      Debe<lb ed="#P" n="94" break="no"/>mus ergo conuertere propositionem
-      dicen<lb ed="#P" n="95" break="no"/>do, quod persona acquirit essentiam, siue esse 
-      <lb ed="#P" n="96"/>absolutum, quod quidem esse praeexistit
-      ge<lb ed="#P" n="97" break="no"/>nerationi, ratione cuius praeexistentiae,
-      gene<lb ed="#P" n="98" break="no"/>ratio nullam nouitatem inducit: Nec tamen 
-      <lb ed="#P" n="99"/>propter hoc sequitur quod inducat nouitaten 
-      <lb ed="#P" n="100"/>in persona filij, quae non praeexistit, quia
-      ge<lb ed="#P" n="101" break="no"/>neratio non facit nouitatem in eo, quod gene 
-      <lb ed="#P" n="102"/>ratur per se, nisi propter nouitatem essentiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e835">
-               <lb ed="#P" n="103"/>Tertio, si diuina essentia per generationem 
-      <lb ed="#P" n="104"/>acquireret respectum filiationis, talis
-      respe<lb ed="#P" n="105" break="no"/>ctus se haberet ad eam per modum
-      adiacen<lb ed="#P" n="106" break="no"/>tis, &amp; per consequens denominaret eam, &amp; 
-      <lb ed="#P" n="107"/>referret eam realiter ad patrem, &amp; ideo esset 
-      <lb ed="#P" n="108"/>distinctio realis inter essentiam, &amp; patrem. 
-      <lb ed="#P" n="109"/>Concludo ergo, diuinam essentiam nullo mo 
-      <lb ed="#P" n="110"/>do generari, nec per se, nec per accidens; 
-      <lb ed="#P" n="111"/>immo videtur quod opinio praefata, quae
-      con<lb ed="#P" n="112" break="no"/>rarium dicit, contrarietur determinationi 
-      <lb ed="#P" n="113"/>Ecclesiae, quae simpliciter, &amp; sine determi- 
-      <lb ed="#P" n="114"/>natione aliqua dicit, quod essentia non ge¬ 
-      <!--241.xml-->
-      <pb ed="#P" n="216"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>nerat, nec generatur, nec procedit. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e872">
-               <lb ed="#P" n="2"/>Fundamentum autem opinionis non
-      va<lb ed="#P" n="3" break="no"/>let: Nam cum dicunt, materiam generari per 
-      <lb ed="#P" n="4"/>accidens, non obstante quod praeexistat
-      ge<lb ed="#P" n="5" break="no"/>nerationi; dico hoc verum esse, quia
-      acqui<lb ed="#P" n="6" break="no"/>rit aliquod esse sub forma, quod quidem non 
-      <lb ed="#P" n="7"/>praeexistebat generationi: diuina autem
-      es<lb ed="#P" n="8" break="no"/>sentia non acquirit aliquod esse in persona 
-      <lb ed="#P" n="9"/>filij, ratione cuius possit concedi, ipsam gene 
-      <lb ed="#P" n="10"/>rari per accidens 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e894">
-               <lb ed="#P" n="11"/>Motiua autem illius opinionis non
-      con<lb ed="#P" n="12" break="no"/>cludunt. Nam cum primo dicunt, quod in 
-      <lb ed="#P" n="13"/>istis inferioribus videmus ad generationem 
-      <lb ed="#P" n="14"/>per se ipsius suppositi generari per accidens 
-      <lb ed="#P" n="15"/>omnia, quae sunt in supposito; dicendum, 
-      <lb ed="#P" n="16"/>quod hoc ideo est, quia omnia, quae sunt in 
-      <lb ed="#P" n="17"/>eodem supposito creato, acquirunt esse in
-      il<lb ed="#P" n="18" break="no"/>lo, ideo oportet ea generari simul cum illo; 
-      <lb ed="#P" n="19"/>diuina autem essentia sic est in filio, quod 
-      <lb ed="#P" n="20"/>non acquiririt esse in illo, vnde non oportet,  
-      <lb ed="#P" n="21"/>eam simul generari cum illo. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e921">
-               <lb ed="#P" n="22"/>Ad secundam cum dicunt, illud, quod est 
-      <lb ed="#P" n="23"/>in aliquo per generationem, generatur
-      sal<lb ed="#P" n="24" break="no"/>tem per accidens, dico quod ista proposito 
-      <lb ed="#P" n="25"/>non est vera, nisi quando illud sic est in alio 
-      <lb ed="#P" n="26"/>per generationem, quod etiam acquirit esse 
-      <lb ed="#P" n="27"/>in illo, &amp; simul cum illo: hoc autem non est 
-      <lb ed="#P" n="28"/>in proposito, &amp; cum probatur, quia tunc ge 
-      <lb ed="#P" n="29"/>neratio non esset sibi causa essendi in illo; di 
-      <lb ed="#P" n="30"/>co, quod generatio est causa, quare diuina 
-      <lb ed="#P" n="31"/>essentia sit in filio, referendo generationem 
-      <lb ed="#P" n="32"/>ad silium, qui acquirit essentiam diuinam,  
-      <lb ed="#P" n="33"/>siue diuinum esse per generationem; non 
-      <lb ed="#P" n="34"/>autem referendo generationem ad essentiam, 
-      <lb ed="#P" n="35"/>quae non acquirit esse in filio, vt dictu fuit. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e954">
-               <lb ed="#P" n="36"/>Patet ergo quod diuina essentia nullo mo 
-      <lb ed="#P" n="37"/>do generatur nec per se, nec per accidens 
-      <lb ed="#P" n="38"/>Et ideo (sicut superius in praecedente
-      quae<lb ed="#P" n="39" break="no"/>stione dicebatur ) quod actus generationis 
-      <lb ed="#P" n="40"/>actiue non potest attribui essentiae per
-      acci<lb ed="#P" n="41" break="no"/>dens, propter repugnantiam, quam
-      essen<lb ed="#P" n="42" break="no"/>tia habet ad talem actum; ita est dicendum 
-      <lb ed="#P" n="43"/>in proposito, quod nec actus generationis 
-      <lb ed="#P" n="44"/>passiue potest sibi attribui per accidens,
-      pro<lb ed="#P" n="45" break="no"/>pter eandem repugnantiam, quam habet ad 
-      <lb ed="#P" n="46"/>praefatum actum, &amp; haec de primo articulo.  
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e980">
-               <lb ed="#P" n="47"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="48"/>Vtrum diuina essentia sit formalis
-      termi<lb ed="#P" n="49" break="no"/>nus generationis.
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e989">
-               <lb ed="#P" n="50"/>DRo explicatione huius quaesiti duo
-      fa<lb ed="#P" n="51" break="no"/>ciam: primo ponam conclusionem
-      affir<lb ed="#P" n="52" break="no"/>matiuam, quam probabo, secundo remouebo 
-      <lb ed="#P" n="53"/>dubitationes quasdam occurrentes contra ea.
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1000">
-      <!--241.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 216 b -->
-               <lb ed="#P" n="54"/>Quantum ad primum dico, quod
-      essen<lb ed="#P" n="55" break="no"/>tia est formalis terminus generationis &amp; hoc 
-      <lb ed="#P" n="56"/>probo dupliciter. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1016">
-               <lb ed="#P" n="57"/>1 Illud est formalis terminus
-      generatio<lb ed="#P" n="58" break="no"/>nis, quod genitum accipit a generante per 
-      <lb ed="#P" n="59"/>viam generationis: Sed filius in diuinis ac  
-      <lb ed="#P" n="60"/>cipit a patre per generationem diuinam es 
-      <lb ed="#P" n="61"/>sentiam; ergo &amp;c. Maior est nota, quia in 
-      <lb ed="#P" n="62"/>omni generatione idem est finis, &amp; terminus 
-      <lb ed="#P" n="63"/>generationis, finis autem cuiuscunque genera 
-      <lb ed="#P" n="64"/>tionis est, vt genitum accipiat a generate aliquam 
-      <lb ed="#P" n="65"/>formam, per quam habet esse: Probo minorem 
-      <lb ed="#P" n="66"/>dicit enim ipse Filius apud loan. x. Pater quod 
-      <lb ed="#P" n="67"/>dedit mihi maius est omnibus; huiusmodi 
-      <lb ed="#P" n="68"/>datum a patre, &amp; acceptum a filio, quod est 
-      <lb ed="#P" n="69"/>maius omnibus, non potest esse nisi diuina 
-      <lb ed="#P" n="70"/>Essentia, quae est simpliciter infinita : Vnde 
-      <lb ed="#P" n="71"/>&amp; ad istum sensum exponuntur praefata ver 
-      <lb ed="#P" n="72"/>ba per Pontificem in illa decretali,
-      Damna<lb ed="#P" n="73" break="no"/>mus &amp;c. lsta etiam est intentio <ref xml:id="gsX5tY-d1e311-Rd1e1055" corresp="#gsX5tY-d1e311-Qd1e1060">P.
-      Augusti<lb ed="#P" n="74" break="no"/>ni xv. de Trinitate cap. 28.</ref> dicentis, 
-      <quote xml:id="gsX5tY-d1e311-Qd1e1060" source="http://scta.info/resource/adt-l15-d1e1975@1-38">quomo<lb ed="#P" n="75" break="no"/>do ergo non absurdissime filius dicetur
-      am<lb ed="#P" n="76" break="no"/>borum, cum sicut filio praestat essentiam sine 
-      <lb ed="#P" n="77"/>initio temporis, sine naturae mutatione de pa 
-      <lb ed="#P" n="78"/>tre generatio, ita Spiritui Sancto praestat
-      es<lb ed="#P" n="79" break="no"/>sentiam sine initio temporis, sine vlla
-      muta<lb ed="#P" n="80" break="no"/>bilitate naturae de vtroque processio</quote>. Vult 
-      <lb ed="#P" n="81"/>ergo Augustinus, quod pater per generatio 
-      <lb ed="#P" n="82"/>nem prestet, idest, det essentiam ipsi filio; &amp;  
-      <lb ed="#P" n="83"/>filius accipiat eam a patre, vt per eam habeat 
-      <lb ed="#P" n="84"/>diuinum esse, &amp; diuinam vitam, quemadmo 
-      <lb ed="#P" n="85"/>dum &amp; pater: propter quod ipsemet
-      domi<lb ed="#P" n="86" break="no"/>nus apud soan cap. 10 dicebat. Sicut pater 
-      <lb ed="#P" n="87"/>habet vitam in semetipso; ita &amp; dedit filio 
-      <lb ed="#P" n="88"/>vitam habere in semetipso; ergo essentia est 
-      <lb ed="#P" n="89"/>formalis terminus generationis. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1097">
-               <lb ed="#P" n="90"/>Confirmatur per illud, quod habetur
-      se<lb ed="#P" n="91" break="no"/>cundo phys tex. 14 generatio est via in
-      na<lb ed="#P" n="92" break="no"/>turam: ergo formalis terminus per
-      genera<lb ed="#P" n="93" break="no"/>tionem communicatus, est ipsa diuina
-      na<lb ed="#P" n="94" break="no"/>tura. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1110">
-               <lb ed="#P" n="95"/>Secundo, si diuina essentia non esset
-      for<lb ed="#P" n="96" break="no"/>malis terminus generationis; ergo diuina fi- 
-      <lb ed="#P" n="97"/>liatio esset huiusmodi terminus, quod est 
-      <lb ed="#P" n="98"/>falsum: Consequentia est nota, quia in
-      per<lb ed="#P" n="99" break="no"/>sona filij generati non est aliud, quod
-      pos<lb ed="#P" n="100" break="no"/>sit esse formalis terminus generationis, nisi 
-      <lb ed="#P" n="101"/>essentia, vel relatio filiationis, 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1128">
-               <lb ed="#P" n="102"/>Falsitatem probo dupliciter. 
-      <lb ed="#P" n="103"/>Primo, quia sequeretur quod diuina gene 
-      <lb ed="#P" n="104"/>ratio esset simpliciter aequiuoca, quia
-      deno<lb ed="#P" n="105" break="no"/>minatio generationis simpliciter debet fieri 
-      <lb ed="#P" n="106"/>a formali termino, sed filiatio est alterius
-      ra<lb ed="#P" n="107" break="no"/>tionis, &amp; speciei a paternitate; ergo praefata 
-      <lb ed="#P" n="108"/>generatio simpliciter erit aequiuoca: Hoc 
-      <lb ed="#P" n="109"/>autem videtur omnino falsum. Nam si diuina 
-      <lb ed="#P" n="110"/>generatio esset simpliciter aequiuoca, tuc pa¬ 
-      <!--242.xml-->
-      <pb ed="#P" n="217"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>ter, &amp; filius non essent omnino aequales, quia 
-      <lb ed="#P" n="2"/>in generarione aequiuoca generans nobilius 
-      <lb ed="#P" n="3"/>e genito, personae autem diuinae sunt omnes 
-      <lb ed="#P" n="4"/>aequales, vt nabetur in Svmbolo Athanasij, 
-      <lb ed="#P" n="5"/>&amp; pluribus in locis Sacre sc ipture, ergo
-      vi<lb ed="#P" n="6" break="no"/>detur quod praefata generatio simpliciter 
-      <lb ed="#P" n="7"/>sit vniuoca, ac per consequens formalis
-      ter<lb ed="#P" n="8" break="no"/>minus eius non erit relatio, quae est alterius 
-      <lb ed="#P" n="9"/>rationis, &amp; speciei in patre, &amp; filio, sed erit 
-      <lb ed="#P" n="10"/>essentia, quae est vna, &amp; eiusdem rationis in 
-      <lb ed="#P" n="11"/>omnibus diuinis personis. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1180">
-               <lb ed="#P" n="12"/>Secundo probo eadem falsitatem
-      conse<lb ed="#P" n="13" break="no"/>quentis, quia si filiatio esset formalis
-      termi<lb ed="#P" n="14" break="no"/>nus generationis, sequeretur quod filiatio es 
-      <lb ed="#P" n="15"/>set communicata filio a patre generante; nam 
-      <lb ed="#P" n="16"/>semper formalis terminus est illud, quod con 
-      <lb ed="#P" n="17"/>municatur a generante: Non potest autem dici 
-      <lb ed="#P" n="18"/>quod filiatio sit communicata filio a patre; 
-      <lb ed="#P" n="19"/>Tum quia omne, quod communicatur a
-      pa<lb ed="#P" n="20" break="no"/>tre, praeexistit in patre; sicut patet de
-      Deita<lb ed="#P" n="21" break="no"/>te: filiatio autem non praeexistit in patre, alio 
-      <lb ed="#P" n="22"/>quin pater esset filius, quemadmodum ess 
-      <lb ed="#P" n="23"/>Deus. Tum quia filiatio opponitur relatiue 
-      <lb ed="#P" n="24"/>ipsi paternitati; vnum autem oppositorum non 
-      <lb ed="#P" n="25"/>communicatur ab altero; Tum etiam quia filia 
-      <lb ed="#P" n="26"/>tio innascitur vel pullulat ex natura diuinae 
-      <lb ed="#P" n="27"/>essentiae, quemadmodum &amp; paternitas; Et io 
-      <lb ed="#P" n="28"/>sicut pater habet paternitatem non ex aliquo 
-      <lb ed="#P" n="29"/>alio, quam ex natura diuinae essentiae, prout 
-      <lb ed="#P" n="30"/>existit in eo non communicata: ita filius
-      vi<lb ed="#P" n="31" break="no"/>detur habere filiationem non ex aliquo alio,  
-      <lb ed="#P" n="32"/>quam ex natura diuinae essentiae, prout
-      exi<lb ed="#P" n="33" break="no"/>stit incommunicata per generationem.
-      Re<lb ed="#P" n="34" break="no"/>latio ergo filiationis non videtur acquiri, vel 
-      <lb ed="#P" n="35"/>innasci ex ipsa generatione, sed magis ex
-      na<lb ed="#P" n="36" break="no"/>tura essentiae communicate per generationem, 
-      <lb ed="#P" n="37"/>nam diuina essentia aequalem necessitate habet 
-      <lb ed="#P" n="38"/>in fundamento ad filiationem, &amp;
-      paternita<lb ed="#P" n="39" break="no"/>tem. Et confirmatur, quia cum relatio sit
-      in<lb ed="#P" n="40" break="no"/>trinsecus adueniens, nunquam origo eius est 
-      <lb ed="#P" n="41"/>accipienda ex opposito termino, qui est quasi 
-      <lb ed="#P" n="42"/>sibi extrinsecus, sed magis ex fundamento. 
-      <lb ed="#P" n="43"/>quod sibi intrinsecum est. Concludo ergo quod 
-      <lb ed="#P" n="44"/>filiatio non potest esse formalis terminus
-      il<lb ed="#P" n="45" break="no"/>lius generationis, ergo essentia. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1256">
-               <lb ed="#P" n="46"/>RESTAT nuc vltimo remouere quasdam 
-      <lb ed="#P" n="47"/>dubitationes contra conclusionem occurrer 
-      <lb ed="#P" n="48"/>tes: Primo, vbicunque generatio habet forma 
-      <lb ed="#P" n="49"/>lem terminum, ad quem tendit, ibi oportet 
-      <lb ed="#P" n="50"/>dare terminum oppositum, a quo incipit; si 
-      <lb ed="#P" n="51"/>ergo diuina generatio terminatur ad essentiam 
-      <lb ed="#P" n="52"/>diuinam, siue ad diuinum esse, videtur quod 
-      <lb ed="#P" n="53"/>incipiat a non esse diuino, siue a priuatione 
-      <lb ed="#P" n="54"/>diuinae essentiae 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1278">
-               <lb ed="#P" n="55"/>Ad hoc est dicendum, quod vbi generatio 
-      <lb ed="#P" n="56"/>includit exitum de potentia ad actum, sicut  
-      <lb ed="#P" n="57"/>in creaturis, ibi necessario clauditur inter 
-      <!--242.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 217 b -->
-               <lb ed="#P" n="58"/>duos terminos oppositos; diuina ergo genera 
-      <lb ed="#P" n="59"/>tio talem exitum de potentia ad actum omni 
-      <lb ed="#P" n="60"/>no excludit, sicut patuit in praecedenti
-      di<lb ed="#P" n="61" break="no"/>stinctione. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1303">
-               <lb ed="#P" n="62"/>Secundo, quia si diuina essentia esset
-      for<lb ed="#P" n="63" break="no"/>malis terminus per generationem filio
-      com<lb ed="#P" n="64" break="no"/>municatus, videret quod filius esset aliquid 
-      <lb ed="#P" n="65"/>praeexistens generationi, &amp; essentiae, quia
-      il<lb ed="#P" n="66" break="no"/>lud, cui fit communicatio, videtur praesuppo 
-      <lb ed="#P" n="67"/>ni, ante communicationem. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1319">
-               <lb ed="#P" n="68"/>Respondetur, quod quando illud, cui fit 
-      <lb ed="#P" n="69"/>communicatio, non accipit esse per talem con 
-      <lb ed="#P" n="70"/>municationem, bene pexistit communicatio 
-      <lb ed="#P" n="71"/>ni, &amp; ei, quod sibi communicatur, sicut patet 
-      <lb ed="#P" n="72"/>in alteratione; Nam quia substantia non acci 
-      <lb ed="#P" n="73"/>it esse simpliciter p alterationem, praeexistit 
-      <lb ed="#P" n="74"/>alterationi, &amp; formae accidentali sibi perea com 
-      <lb ed="#P" n="75"/>municatae: In generatione vero aliter se
-      ha<lb ed="#P" n="76" break="no"/>bet, nam quia substantia composita accipit es 
-      <lb ed="#P" n="77"/>se simpliciter per generationem, idcirco non 
-      <lb ed="#P" n="78"/>praeexistit generationi, nec formae substantia 
-      <lb ed="#P" n="79"/>li sibi communicatae per eam, immo simul ha 
-      <lb ed="#P" n="80"/>bet esse cum ea, ita ergo dicendum est in pro 
-      <lb ed="#P" n="81"/>posito. Nam cum filius accipiat esse
-      simplici<lb ed="#P" n="82" break="no"/>ter per generationem, non praeexistit
-      gene<lb ed="#P" n="83" break="no"/>rarioni, vel essentiae communicatae per eam, 
-      <lb ed="#P" n="84"/>sed habet simul esse cum ea 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1358">
-               <lb ed="#P" n="85"/>Tertio, quia videtur magis verum, quod 
-      <lb ed="#P" n="86"/>filiatio acquiratur essentiae diuinae per gene 
-      <lb ed="#P" n="87"/>rationem, quam e conuerso; si quidem
-      essen<lb ed="#P" n="88" break="no"/>tia diuina est fundamentum filiationis;
-      re<lb ed="#P" n="89" break="no"/>latio autem acquiritur fundamento, &amp; non 
-      <lb ed="#P" n="90"/>e conuerso, quia fundamentum praecedit
-      re<lb ed="#P" n="91" break="no"/>lationem saltem ordine naturae: si autem ita 
-      <lb ed="#P" n="92"/>sit, filiatio erit formalis terminus
-      generatio<lb ed="#P" n="93" break="no"/>nis, &amp; non essentia. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1380">
-               <lb ed="#P" n="94"/>Respondeo, quod vbi fundamentum est 
-      <lb ed="#P" n="95"/>in potentia ad relationem, ibi bene relatio ac 
-      <lb ed="#P" n="96"/>quiritur fundamento, sed vbi fundamentum 
-      <lb ed="#P" n="97"/>non est in potentia ad relationem, sed
-      ne<lb ed="#P" n="98" break="no"/>cessitate naturali fundat eam, ibi nullo modo 
-      <lb ed="#P" n="99"/>relatio acquiritur fundamento, sed nascit ex 
-      <lb ed="#P" n="100"/>natura fundamenti existentis in alio supposi 
-      <lb ed="#P" n="101"/>to, sicut V. 0 quia scientia necessitate natura 
-      <lb ed="#P" n="102"/>li fundat relationem ad scibile, idcirco non 
-      <lb ed="#P" n="103"/>acquirit eam per aliquam generationem, sed  
-      <lb ed="#P" n="104"/>nascitur necessario ex natura ipsiusmet scien 
-      <lb ed="#P" n="105"/>tiae, prout existit in intellectu acquisito ab ip 
-      <lb ed="#P" n="106"/>so scibili, si sit scientia habita per
-      inuentio<lb ed="#P" n="107" break="no"/>nem: ita suo modo dico in proposito; nam  
-      <lb ed="#P" n="108"/>quia essentia diuina necessitate naturali fun 
-      <lb ed="#P" n="109"/>dat filiationem, idcirco non acquirit eam por 
-      <lb ed="#P" n="110"/>aliquam genetationem, sed ex natura innasci 
-      <lb ed="#P" n="111"/>tur ipsimet essentiae, prout existit in filio,  
-      <lb ed="#P" n="112"/>communicata a patre per generationem. 
-      <lb ed="#P" n="113"/>Possemus etiam breuius respondere dicendo, 
-      <lb ed="#P" n="114"/>quod nunquam relatio acquiritur fundamen¬ 
-      <!--243.xml-->
-      <pb ed="#P" n="218"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>to, sed fundamentum simul cum relatione 
-      <lb ed="#P" n="2"/>acquiritur alicui supposito; Et secundum istam 
-      <lb ed="#P" n="3"/>viam dicemus, quod diuina essentia simul 
-      <lb ed="#P" n="4"/>cum filiatione acquiritur filio per
-      generatio<lb ed="#P" n="5" break="no"/>nem, non quod filiatio sit terminus
-      acquisi<lb ed="#P" n="6" break="no"/>tus, sed innascitur necessario ex termino
-      ac<lb ed="#P" n="7" break="no"/>quisito, non tamen propter hoc filius habet 
-      <lb ed="#P" n="8"/>esse constitutum, antequam acquirat istum 
-      <lb ed="#P" n="9"/>terminum cum praefata relatione, immo per 
-      <lb ed="#P" n="10"/>hoc constituitur in esse; quia acquirit istum 
-      <lb ed="#P" n="11"/>terminum, ad quem necessario sequitur ista 
-      <lb ed="#P" n="12"/>relatio, puta filiatio, est tamen sciedum, quod 
-      <lb ed="#P" n="13"/>non sic intelligo filiationem sequi ad istum 
-      <lb ed="#P" n="14"/>terminum, quasi essentia sit terminus primo 
-      <lb ed="#P" n="15"/>acquisitus, &amp; postea sequatur filiatio, sed in 
-      <lb ed="#P" n="16"/>telligo esse istam sequelam solum secundum 
-      <lb ed="#P" n="17"/>nostrum modum intelligendi; Nam
-      secun<lb ed="#P" n="18" break="no"/>dum rei veritatem filiatio nil aliud est, quam 
-      <lb ed="#P" n="19"/>illius termini acquisitio, puta acceptio
-      diui<lb ed="#P" n="20" break="no"/>nae essentiae a patre. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1478">
-               <lb ed="#P" n="21"/>Quarto dubitatur, quia generatio, &amp; eius 
-      <lb ed="#P" n="22"/>terminus sunt in eodem genere, cum ergo 
-      <lb ed="#P" n="23"/>illa generatio sit relario, etiam terminus eius 
-      <lb ed="#P" n="24"/>debet esse relatio, &amp; non essentia, quae est quod 
-      <lb ed="#P" n="25"/>absolutum. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1491">
-               <lb ed="#P" n="26"/>Ad hoc dico, quod, sicut patet ex supe 
-      <lb ed="#P" n="27"/>rioribus; in generatione horum inferiorum 
-      <lb ed="#P" n="28"/>sunt tria, scilicet exitus de potentia ad actum, 
-      <lb ed="#P" n="29"/>acceptio esse ab alio; &amp; esse datum alteri; si 
-      <lb ed="#P" n="30"/>ergo accipiatur generatio in quantum dicit 
-      <lb ed="#P" n="31"/>exitum de potentia ad actum, sic est aliqud 
-      <lb ed="#P" n="32"/>absolutum, &amp; est in eodem genere cum
-      for<lb ed="#P" n="33" break="no"/>ma, siue cum formali termino. Si autem
-      ac<lb ed="#P" n="34" break="no"/>cipiatur in quantum dicit acceptionem esse  
-      <lb ed="#P" n="35"/>ab alio, sic dicit quandam relationem, &amp; hoc 
-      <lb ed="#P" n="36"/>modo generatio non est in eodem genere cum 
-      <lb ed="#P" n="37"/>illo esse, vel cum illa forma, quae est termi- 
-      <lb ed="#P" n="38"/>nus ipsius: Nam forma illa est quid
-      absolu<lb ed="#P" n="39" break="no"/>tum, generatio vero isto modo est quidam re 
-      <lb ed="#P" n="40"/>spectus, applicando ergo ad propositum
-      di<lb ed="#P" n="41" break="no"/>co, quod, quia generatio in diuinis est
-      quae<lb ed="#P" n="42" break="no"/>dam relatio, non oportet quod sit in eodem 
-      <lb ed="#P" n="43"/>genere cum termino suo 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1534">
-               <lb ed="#P" n="44"/>Quinto, quia videmus in istis
-      inferiori<lb ed="#P" n="45" break="no"/>bus, quod terminus generationis generatur 
-      <lb ed="#P" n="46"/>saltem per accidens; diuina autem essentia 
-      <lb ed="#P" n="47"/>nullo modo generatur, vt habitum est supra, 
-      <lb ed="#P" n="48"/>ergo non, terminus generationis. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1547">
-               <lb ed="#P" n="49"/>Respondetur, in istis inferioribus
-      termi<lb ed="#P" n="50" break="no"/>num generationis generari per accidens, quod 
-      <lb ed="#P" n="51"/>acquirit esse in supposito, quod generatur p 
-      <lb ed="#P" n="52"/>se; diuinam autem essentiam non acquirere 
-      <lb ed="#P" n="53"/>esse in supposito, quod generatur per se; 
-      <lb ed="#P" n="54"/>propter quod dubitatio non habet locum. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1563">
-               <lb ed="#P" n="55"/>Sexto, terminus generationis debet esse 
-      <lb ed="#P" n="56"/>realiter distinctus a generante, diuina
-      essen<lb ed="#P" n="57" break="no"/>tia non est distincta a patre, nisi secundum 
-      <!--243.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 218 b -->
-               <lb ed="#P" n="58"/>rationem, ergo non est formalis terminus. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1581">
-               <lb ed="#P" n="59"/>Respondetur dupliciter, vno modo disti 
-      <lb ed="#P" n="60"/>guendo de termino, nam quidam est
-      termi<lb ed="#P" n="61" break="no"/>nus formalis, qui acquiritur ipsi genito; &amp; 
-      <lb ed="#P" n="62"/>quidam obiectiuus, scilicet ipsummet
-      geni<lb ed="#P" n="63" break="no"/>tum, cum ergo dicitur, terminum
-      genera<lb ed="#P" n="64" break="no"/>tionis esse realiter distinctum a generante, 
-      <lb ed="#P" n="65"/>dico, hoc verum esse de termino obiectiuo,  
-      <lb ed="#P" n="66"/>&amp; ita est in proposito, quia filius est realiter 
-      <lb ed="#P" n="67"/>distinctus a patre. Alio modo possum dicere, 
-      <lb ed="#P" n="68"/>quod vbi terminus generationis generatur 
-      <lb ed="#P" n="69"/>er accidens, ibi oportet ipsum esse realiter 
-      <lb ed="#P" n="70"/>distinctum a generante, quia nil generat se 
-      <lb ed="#P" n="71"/>ipsum, nec per se, nec per accidens; diuina 
-      <lb ed="#P" n="72"/>autem essentia est formalis terminus, qui non 
-      <lb ed="#P" n="73"/>generatur per accidens; &amp; ideo non oportet 
-      <lb ed="#P" n="74"/>formalem terminum esse realiter distinctum 
-      <lb ed="#P" n="75"/>a generante. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1620">
-               <lb ed="#P" n="76"/>AD ARGVMENTA 
-      <lb ed="#P" n="77"/>principalia 
-      <lb ed="#P" n="78"/>AD primum patet solutio per ea, quae di 
-      <lb ed="#P" n="79"/>cta sunt in primo articulo. 
-    </p>
-            <p xml:id="gsX5tY-d1e311-d1e1631">
-               <lb ed="#P" n="80"/>Ad secundum nego maiorem, quia sua op 
-      <lb ed="#P" n="81"/>posita est vera, scilicet illud, quod praeexistit 
-      <lb ed="#P" n="82"/>generationi, potest esse finis generationis, 
-      <lb ed="#P" n="83"/>Et cum probatur contrarium, quia
-      genera<lb ed="#P" n="84" break="no"/>tio est praeuia termino, dico, non oportere, 
-      <lb ed="#P" n="85"/>quod sit ibi praeuia simpliciter, sufficit enim 
-      <lb ed="#P" n="86"/>quod sit ei praeuia, prout existit in hoc scili 
-      <lb ed="#P" n="87"/>cet in genito, vt est in proposito, quia
-      gene<lb ed="#P" n="88" break="no"/>ratio diuina est praeuia essentiae, prout existit 
-      <lb ed="#P" n="89"/>in filio.  
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="213"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e311"> <!-- l1d5q2 -->
+        <head xml:id="gsX5tY-d1e311-Hd1e109">Quaestio 2</head>
+        <head xml:id="gsX5tY-d1e311-Hd1e112" type="question-title">Utrum divina essentia sit formalis terminus generationis</head>
+        <p xml:id="gsX5tY-d1e311-d1e115">
+          <lb ed="#P" n="42"/>QVAESTIO SECVNDA 
+          <lb ed="#P" n="43"/>Vtrum diuina essentia sit formalis terminus 
+          <lb ed="#P" n="44"/>generationis.
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e124">
+          <lb ed="#P" n="45"/>VIdetur quod non, primo quia termi- 
+          <lb ed="#P" n="46"/> nus generationis generatur saltem per 
+          <lb ed="#P" n="47"/>accidens, sed diuina essentia nullo modo ge 
+          <lb ed="#P" n="48"/>neratur, ergo &amp;c Maior patet, quia termi- 
+          <lb ed="#P" n="49"/>nus generationis est forma, &amp; forma genera 
+          <lb ed="#P" n="50"/>tur saltem per accidens, vt patet septimo me 
+          <lb ed="#P" n="51"/>taph. Minor etiam apparet, quia cum essen 
+          <!--238.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 213 b -->
+          <lb ed="#P" n="52"/>tia sit idem realitet quod persona generans, 
+          <lb ed="#P" n="53"/>si essentia generaretur quocunque modo,
+          se<lb ed="#P" n="54" break="no"/>queretur quod persona generans seipsam ge 
+          <lb ed="#P" n="55"/>neraret, quod est impossibile secundum
+          <ref xml:id="gsX5tY-d1e311-Rd1e156">Au<lb ed="#P" n="56" break="no"/>gustinum primo de Trinitate cap. i1.</ref> 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e163">
+          <lb ed="#P" n="57"/>P Secundo sic: illud, quod praeexistit ge 
+          <lb ed="#P" n="58"/>nerationi, non est formalis terminus genera 
+          <lb ed="#P" n="59"/>tionis; diuina essentia e huiusmodi, ergo 
+          <lb ed="#P" n="60"/>&amp;c. Maior est vera, quia generatio semper 
+          <lb ed="#P" n="61"/>est praeuia termino: Minor etiam patet, quia 
+          <lb ed="#P" n="62"/>diuina essentia est perfecte in patre ante 
+          <lb ed="#P" n="63"/>actum generationis, cum sit perfectus Deus. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e181">
+          <lb ed="#P" n="64"/>AD OPPO arguo, quia vbi genera: 
+          <lb ed="#P" n="65"/>tio est vnitiua, vel via in naturam, formalis 
+          <lb ed="#P" n="66"/>terminus semper est illud, in quo gignens 
+          <lb ed="#P" n="67"/>&amp; genitum assimilantur, generatio in
+          diui<lb ed="#P" n="68" break="no"/>nis est vnitiua, &amp; assimilatio est solum in
+          es<lb ed="#P" n="69" break="no"/>sentia; ergo &amp;c Maior est nota per inductio 
+          <lb ed="#P" n="70"/>nem in omnibus: Minor etiam patet
+          quan<lb ed="#P" n="71" break="no"/>tum ad duas partes, nam quod illa
+          genera<lb ed="#P" n="72" break="no"/>tio sit vnitiua apparet, quia Deus venerat 
+          <lb ed="#P" n="73"/>Deum, quod etiam assimilatio sit solum in 
+          <lb ed="#P" n="74"/>essentia apparet, quia cum non sit in diuinis 
+          <lb ed="#P" n="75"/>nisi essentia &amp; relatio, &amp; penes relationem 
+          <lb ed="#P" n="76"/>sit distinctio; relinquitur, quod solum penes 
+          <lb ed="#P" n="77"/>essentiam sit assimilatio, 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e214">
+          <lb ed="#P" n="78"/>RESPONDEO: pro resolutione 
+          <lb ed="#P" n="79"/>istius quaestionis duo sunt discutienda 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e221">
+          <lb ed="#P" n="80"/>An diuina essentia generetur aliquo 
+          <lb ed="#P" n="81"/>modo siue per se, siue per accidens 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e228">
+          <lb ed="#P" n="82"/>2 An diuina essentia sit formalis
+          termi<lb ed="#P" n="83" break="no"/>nus generationis. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e235">
+          <lb ed="#P" n="84"/>ARTICVLVS PRIMVS.. 
+          <lb ed="#P" n="85"/>An diuina essentia generetur vel per se 
+          <lb ed="#P" n="86"/>vel per accidens
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e245">
+          <lb ed="#P" n="87"/>Irca hunc articulum dissensio est
+          in<lb ed="#P" n="88" break="no"/> ter Magistrum sententiarum, &amp;
+          Ab<lb ed="#P" n="89" break="no"/>batem loachim, nam Magister Sententiarum 
+          <lb ed="#P" n="90"/>dicit, quod diuina essentia non generat, nec 
+          <lb ed="#P" n="91"/>generatur, nec procedit, est tamen idem, qui 
+          <lb ed="#P" n="92"/>persona generans, persona genita, &amp;
+          perso<lb ed="#P" n="93" break="no"/>na procedens. Abbas autem loachim ait, quam 
+          <lb ed="#P" n="94"/>si sententia Magistri vera esset, sequeretur 
+          <lb ed="#P" n="95"/>quaternitatem esse in diuinis, quia scilicet 
+          <lb ed="#P" n="96"/>esset pater generans, filius genitus, Spiritus 
+          <lb ed="#P" n="97"/>Sanctus procedens, &amp; quarta res non
+          gene<lb ed="#P" n="98" break="no"/>rans, nec genita, nec procedens, scilicet
+          di<lb ed="#P" n="99" break="no"/>uina essentia. Volens autem quaternitatem. 
+          <lb ed="#P" n="100"/>in diuinis euitare, dicit, tres personas esse 
+          <lb ed="#P" n="101"/>vnam substantiam, non quidem realiter, sed  
+          <lb ed="#P" n="102"/>solum secundum quandam collectiuam si¬ 
+          <!--239.xml-->
+          <pb ed="#P" n="214"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>militudinem, quemadmodum multi
+          homi<lb ed="#P" n="2" break="no"/>nes dicuntur vnus populus, &amp; multi fideles 
+          <lb ed="#P" n="3"/>vna Ecclesia, 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e295">
+          <lb ed="#P" n="4"/>Haec autem opinio tanquam erronea fuit 
+          <lb ed="#P" n="5"/>per Sacrum Concilium reprobata, vt patet 
+          <lb ed="#P" n="6"/>in illa Decretali. Damnamus, &amp;
+          rationabili<lb ed="#P" n="7" break="no"/>ter Nam si diuina essentia esset numerata in 
+          <lb ed="#P" n="8"/>tribus personis, tunc essent plutes Dij.
+          Mo<lb ed="#P" n="9" break="no"/>tiuum autem Abbatis non valet, quia (sicut 
+          <lb ed="#P" n="10"/>superius probatum fuit) ista duo stant simul 
+          <lb ed="#P" n="11"/>scilicet diuinam essentiam esse idem realiter 
+          <lb ed="#P" n="12"/>quod persona generans, persona genita, &amp; 
+          <lb ed="#P" n="13"/>persona procedens, &amp; tamen non generare, 
+          <lb ed="#P" n="14"/>nec generari, nec procedere. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e321">
+          <lb ed="#P" n="15"/>Riccardus autem quinto de Trin cap. 22. 
+          <lb ed="#P" n="16"/>affirmat, quod essentia generat, &amp; generatur 
+          <lb ed="#P" n="17"/>necnon procedit, generat, prout est in patre; 
+          <lb ed="#P" n="18"/>generatur, prout est in filio, procedit, prout 
+          <lb ed="#P" n="19"/>est in Spiritu Sancto. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e334">
+          <lb ed="#P" n="20"/>Haec opinio falsa est. Primo quia si eadem 
+          <lb ed="#P" n="21"/>essentia tantum esset gignens, &amp; genita; idem 
+          <lb ed="#P" n="22"/>generaret seipsum, quod est impossibile; vt 
+          <lb ed="#P" n="23"/>patet per <ref xml:id="gsX5tY-d1e311-Rd1e344">P. Aug. 1. de Trin cap. 1.</ref> &amp; per
+          A<lb ed="#P" n="24" break="no"/>rist. 2 de Anima. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e351">
+          <lb ed="#P" n="25"/>Secundo, quia non posset assignari causa, 
+          <lb ed="#P" n="26"/>quare magis plurificaretur persona, quam es 
+          <lb ed="#P" n="27"/>sentia, cum dicamus, quod plurificatur perso 
+          <lb ed="#P" n="28"/>na, quia vna, &amp; eadem persona non potest 
+          <lb ed="#P" n="29"/>esse gignens, &amp; genita, &amp; procedens 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e364">
+          <lb ed="#P" n="30"/>Tertio, quia dato quod ista opinio haberet 
+          <lb ed="#P" n="31"/>aliquam apparentiam, nullo tamen modo de 
+          <lb ed="#P" n="32"/>bet teneri, cum sit contra determinationem 
+          <lb ed="#P" n="33"/>Sacri Concilij, approbantis opinionem
+          Ma<lb ed="#P" n="34" break="no"/>gistri, sicut patet in Decretali supracitata; vbi 
+          <lb ed="#P" n="35"/>ait; Nos autem (Sacro approbante Concilio)  
+          <lb ed="#P" n="36"/>credimus, &amp; confitemur cum Petro Lombar 
+          <lb ed="#P" n="37"/>do, quod in Deo est vna quaedam res
+          incom<lb ed="#P" n="38" break="no"/>prehensibilis, &amp; ineffabilis, scilicet, diuina
+          es<lb ed="#P" n="39" break="no"/>sentia; quae veraciter est Pater, &amp; Filius, &amp; 
+          <lb ed="#P" n="40"/>Spiritus Sanctus, tres simul personae, ac
+          sigi<lb ed="#P" n="41" break="no"/>latim quaelibet earum, quae est vniuersorum 
+          <lb ed="#P" n="42"/>principium, praeter quam alia inueniri non po 
+          <lb ed="#P" n="43"/>test, Ex quo apparet immediate, quomodo di 
+          <lb ed="#P" n="44"/>uina essentia non ponit in numerum cum per 
+          <lb ed="#P" n="45"/>sonis diuinis, vt quarta res, sicut imponebat. 
+          <lb ed="#P" n="46"/>Abbas loachim Magistro, &amp; post praefata 
+          <lb ed="#P" n="47"/>subdit, propter quod illa res, scilicet diuina 
+          <lb ed="#P" n="48"/>essentia non est generans, neque genita, nec 
+          <lb ed="#P" n="49"/>procedens, vt distinctiones sint in personis,  
+          <lb ed="#P" n="50"/>&amp; vnitates in essentia. Apparet ergo ex
+          de<lb ed="#P" n="51" break="no"/>terminatione vniuersalis Ecclesiae, quod isti 
+          <lb ed="#P" n="52"/>actus, notionales nullo modo sunt attribuer 
+          <lb ed="#P" n="53"/>di essentiae, nec actiue, nec passiue, sed solum 
+          <lb ed="#P" n="54"/>personis; non obstante identitate reali inter 
+          <lb ed="#P" n="55"/>personam, &amp; essentiam. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e424">
+          <lb ed="#P" n="56"/>Pro quaesiti itaque resolutione duas
+          con<lb ed="#P" n="57" break="no"/>elusiones propono. Prima est, quod diuina 
+          <!--239.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 214 b -->
+          <lb ed="#P" n="58"/>essentia non generetur per se: Secunda est,  
+          <lb ed="#P" n="59"/>quod non generatur per accidens. Primam  
+          <lb ed="#P" n="60"/>probo tripliciter, 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e444">
+          <lb ed="#P" n="61"/>1 Illud, quod est idem realiter cum
+          gene<lb ed="#P" n="62" break="no"/>rante, non generatur per se: Diuina essentia 
+          <lb ed="#P" n="63"/>est idem realiter cum persona patris, ergo nen 
+          <lb ed="#P" n="64"/>generatur per se. Maior est nota; Minor etiam 
+          <lb ed="#P" n="65"/>patet, quia diuina essentia est idem realiter 
+          <lb ed="#P" n="66"/>cum persona patris generantis. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e460">
+          <lb ed="#P" n="67"/>2 Illud, quod praeexistit actui
+          generatio<lb ed="#P" n="68" break="no"/>nis, non generatur per se: diuina essentia ess 
+          <lb ed="#P" n="69"/>huiusmodi; ergo &amp;c. Maior est nota, quia
+          il<lb ed="#P" n="70" break="no"/>ud, quod generatur per se accipit esse per 
+          <lb ed="#P" n="71"/>actum generationis; &amp; per consequens non 
+          <lb ed="#P" n="72"/>praexistit. Minor etiam clara est, quia diuina 
+          <lb ed="#P" n="73"/>essentia praeexistit in persona patris actui suae 
+          <lb ed="#P" n="74"/>generationis, alias pater per illum actum non 
+          <lb ed="#P" n="75"/>communicaret eam filio; intelligo autem ea 
+          <lb ed="#P" n="76"/>praeexistere actui non secundum rem, sed se 
+          <lb ed="#P" n="77"/>cundum nostrum modum intelligendi: &amp; 
+          <lb ed="#P" n="78"/>hoc sufficit, quod illud, quod per se
+          genera<lb ed="#P" n="79" break="no"/>tur, nullo modo actui gene ationis pexistit. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e491">
+          <lb ed="#P" n="80"/>3 Si diuina essentia generaretur per se, 
+          <lb ed="#P" n="81"/>nullo modo differet a persona filij :
+          conse<lb ed="#P" n="82" break="no"/>quens est falsum, ergo &amp; antecedens: Falsitas 
+          <lb ed="#P" n="83"/>consequentis est nota, quia saltem distinctio 
+          <lb ed="#P" n="84"/>nem secundum rationem oportet ibi salua 
+          <lb ed="#P" n="85"/>re, Probo consequentiam: Nam sicut
+          diceba<lb ed="#P" n="86" break="no"/>tur in praecedenti quaestione, quod persona 
+          <lb ed="#P" n="87"/>patris non distingueretur ab essentia, nisi
+          co<lb ed="#P" n="88" break="no"/>exigeret filium realiter distinctum, respectu 
+          <lb ed="#P" n="89"/>cuius competit sibi actus generationis
+          acti<lb ed="#P" n="90" break="no"/>uae, qui non competit essentiae; ita persona 
+          <lb ed="#P" n="91"/>filij non distingueretur ab essentia secundum 
+          <lb ed="#P" n="92"/>rationem, nisi coexigeret patre realiter a se 
+          <lb ed="#P" n="93"/>distinctum, &amp; per consequens, non respectu 
+          <lb ed="#P" n="94"/>psius competeret sibi actus generationis pas 
+          <lb ed="#P" n="95"/>iuae, qui non competit essentiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e528">
+          <lb ed="#P" n="96"/>Quantum eero ad secundam conclusionem 
+          <lb ed="#P" n="97"/>quidam dicunt, quod potest concedi essentiam 
+          <lb ed="#P" n="98"/>generari per accidens; nam sicut non obstan 
+          <lb ed="#P" n="99"/>te quod materia praeexistat generationi
+          rea<lb ed="#P" n="100" break="no"/>li, ipsa tamen generatur per accidens, vt
+          pa<lb ed="#P" n="101" break="no"/>tet 7. Metaph ita etiam non obstante quod 
+          <lb ed="#P" n="102"/>diuina essentia praeexistat generationi
+          pater<lb ed="#P" n="103" break="no"/>nae, poter it tamen generari per accidens, quod 
+          <lb ed="#P" n="104"/>probant dupliciter. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e550">
+          <lb ed="#P" n="105"/>1 Sicut in istis inferioribus, ad
+          generatio<lb ed="#P" n="106" break="no"/>nem suppositi per se, generantur per accidens 
+          <lb ed="#P" n="107"/>quaecunque sunt in supposito; ita videtur,  
+          <lb ed="#P" n="108"/>quod in diuinis ad genetationem per se
+          ip<lb ed="#P" n="109" break="no"/>sius filij, generetur saltem per accidens quic 
+          <lb ed="#P" n="110"/>quid est in filio,  
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e567">
+          <lb ed="#P" n="111"/>2 Illud quod est in alio, per generationem 
+          <lb ed="#P" n="112"/>generatur saltem per accidens, alioquin
+          ge<lb ed="#P" n="113" break="no"/>neratio nullo modo esset sibi causa essendi 
+          <lb ed="#P" n="114"/>in illo, diuina autem essentia est in filio per 
+          <!--240.xml-->
+          <pb ed="#P" n="215"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>generationem; ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e587">
+          <lb ed="#P" n="2"/>lsta opinio stare non potest propter duo; 
+          <lb ed="#P" n="3"/>Primo quia illud, quod generatur per se, &amp;  
+          <lb ed="#P" n="4"/>illud quod generatur per accidens, generan 
+          <lb ed="#P" n="5"/>tur vna, &amp; eadem generatione. Nam si quod 
+          <lb ed="#P" n="6"/>libet generaretur propria generatione,
+          vtrum<lb ed="#P" n="7" break="no"/>que generaretur per se: hoc supposito
+          argui<lb ed="#P" n="8" break="no"/>tur sic: Si diuina essentia generaretur per ac 
+          <lb ed="#P" n="9"/>cidens, sequeretur quod distingueretur
+          rea<lb ed="#P" n="10" break="no"/>liter a patre, consequens est falsum, ergo &amp; 
+          <lb ed="#P" n="11"/>antecedens Falsitas consequentis patet ex
+          de<lb ed="#P" n="12" break="no"/>terminatione ecclesiae superius habita, &amp;  
+          <lb ed="#P" n="13"/>etiam, quia hoc repugnat diuinae simplicita¬. 
+          <lb ed="#P" n="14"/>ti. Consequentiam probo: Nam si diuina Es 
+          <lb ed="#P" n="15"/>sentia generaretur per accidens, generaretur 
+          <lb ed="#P" n="16"/>radem generatione, qua filius generatur per 
+          <lb ed="#P" n="17"/>se, secundum suppositionem factam, cum ergo 
+          <lb ed="#P" n="18"/>filius per illam generationem distinguatur 
+          <lb ed="#P" n="19"/>realiter a patre, ergo &amp; essentia 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e629">
+          <lb ed="#P" n="20"/>Secundo sequeretur, quod diuina
+          essen<lb ed="#P" n="21" break="no"/>tia acquireret nouum esse: consequens est 
+          <lb ed="#P" n="22"/>falsum &amp; impossibile, ergo &amp;c.
+          Impossibili<lb ed="#P" n="23" break="no"/>tas patet, quia in eo, quod est simpliciter ne 
+          <lb ed="#P" n="24"/>cesse, non est possibilis aliqua nouitas.
+          Con<lb ed="#P" n="25" break="no"/>sequentiam probo: Illud enim, quod
+          gene<lb ed="#P" n="26" break="no"/>ratur, siue per se, siue secundum accidens, 
+          <lb ed="#P" n="27"/>acquirit aliquod esse; ergo essentia diuina 
+          <lb ed="#P" n="28"/>si generaretur, acquireret aliquod esse. vel 
+          <lb ed="#P" n="29"/>ergo acquireret idem esse necessarium, &amp; in 
+          <lb ed="#P" n="30"/>dependens; vel aliquod aliud nouum esse : 
+          <lb ed="#P" n="31"/>Non primum, quia ipsa est forma, per quam 
+          <lb ed="#P" n="32"/>quaelibet persona habet necesse, &amp; indepen 
+          <lb ed="#P" n="33"/>dens esse, &amp; per consequens non potest
+          ac<lb ed="#P" n="34" break="no"/>quirere illud esse ab aliqua persona, &amp;
+          mul<lb ed="#P" n="35" break="no"/>to minus a quocunque alio principio
+          extrin<lb ed="#P" n="36" break="no"/>seco, quia ipsa est vniuersorum principium 
+          <lb ed="#P" n="37"/>(vt superius dicebatur) non secudum, quia 
+          <lb ed="#P" n="38"/>hoc est impossibile 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e673">
+          <lb ed="#P" n="39"/>lsta ratio patitur duas instantias, quarum  
+          <lb ed="#P" n="40"/>prima est, quia diceret aliquis, quod eadem 
+          <lb ed="#P" n="41"/>ratione probaretur filium non generari, vel 
+          <lb ed="#P" n="42"/>quia acquireret necesse esse; vel aliquod
+          a<lb ed="#P" n="43" break="no"/>liud nouum esse; non potest dici quod acqui  
+          <lb ed="#P" n="44"/>rat necesse esse, quia illud est ex se
+          formali<lb ed="#P" n="45" break="no"/>ter, ergo acquirit aliud nouum esse¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e691">
+          <lb ed="#P" n="46"/>Ad hoc dicendum est, quod quamuis per 
+          <lb ed="#P" n="47"/>sona filij habeat necesse esse ex se
+          formali<lb ed="#P" n="48" break="no"/>ter, non tamen dat ipsum formaliter alteri 
+          <lb ed="#P" n="49"/>personae; idcirco non repugnat sibi accipere 
+          <lb ed="#P" n="50"/>istud esse principiatiue, &amp; originaliter ab es 
+          <lb ed="#P" n="51"/>sentia, sed bene repugnat, quod huiusmodi 
+          <lb ed="#P" n="52"/>esse recipiat ab aliqua persona: stant autem 
+          <lb ed="#P" n="53"/>ista duo simul, scilicet, quod personae
+          ha<lb ed="#P" n="54" break="no"/>beant ex se formaliter necesse esse, &amp; tamen 
+          <lb ed="#P" n="55"/>essentia, det formaliter istud esse cuilibet per 
+          <lb ed="#P" n="56"/>sonae: Nam (sicut dicebatur superius)
+          essen<lb ed="#P" n="57" break="no"/>tia est idem, quod omnes personae simul, &amp;  
+          <!--240.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 215 b -->
+          <lb ed="#P" n="58"/>quod quaelibet sigillatim, &amp; ideo illud, quod 
+          <lb ed="#P" n="59"/>competit personis ex essentia formaliter, conm 
+          <lb ed="#P" n="60"/>petit etiam eis formaliter ex se ipsis. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e733">
+          <lb ed="#P" n="61"/>Secundo diceret aliquis, quod diuina
+          es<lb ed="#P" n="62" break="no"/>sentia per actum genetationis accipit
+          neces<lb ed="#P" n="63" break="no"/>se esse, non quidem simpliciter, quia hoc ha 
+          <lb ed="#P" n="64"/>bet ex se ipsa formaliter, vt dictum fuit, sed  
+          <lb ed="#P" n="65"/>sub quodam respectu, puta sub respectu fi- 
+          <lb ed="#P" n="66"/>liationis, quem quidem respectum non
+          con<lb ed="#P" n="67" break="no"/>sequitur, nisi per actum generationis; &amp; ita 
+          <lb ed="#P" n="68"/>videbitur generari per accidens 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e754">
+          <lb ed="#P" n="69"/>Respondetur, huiusmodi instantiam pro 
+          <lb ed="#P" n="70"/>cedere per falsam imaginationem, quia
+          ima<lb ed="#P" n="71" break="no"/>ginatur quod essentia diuina per actum
+          ge<lb ed="#P" n="72" break="no"/>nerationis acquirat esse respectiuum, siue res 
+          <lb ed="#P" n="73"/>pectum filiationis, quod quidem mihi
+          vide<lb ed="#P" n="74" break="no"/>tur falsum propter tria. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e770">
+          <lb ed="#P" n="75"/>Primo, quia respectus non potest esse for 
+          <lb ed="#P" n="76"/>malis terminus generationis, alioquin
+          gene<lb ed="#P" n="77" break="no"/>ratio illa esset magis distinctiua, quam
+          assim<lb ed="#P" n="78" break="no"/>latiua, cuius contrarium probabitur infra
+          di<lb ed="#P" n="79" break="no"/>stinctione octaua. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e783">
+          <lb ed="#P" n="80"/>Secundo, quia diuina essentia acquireret 
+          <lb ed="#P" n="81"/>nouum esse, nam omne esse, quod
+          acquiri<lb ed="#P" n="82" break="no"/>tur per generationem, &amp; non praeexistit
+          ge<lb ed="#P" n="83" break="no"/>nerationi, videtur necessario quid, nouum; 
+          <lb ed="#P" n="84"/>quia semper generatio inducit nouitate, vbi 
+          <lb ed="#P" n="85"/>non terminatur ad esse praeexistens, sed
+          res<lb ed="#P" n="86" break="no"/>pectus filiasionis non praeexistit generationi, 
+          <lb ed="#P" n="87"/>ergo essentia non acqrit tale esse respectiuum 
+          <lb ed="#P" n="88"/>lmmo nec etiam persona, de qua tamen
+          ma<lb ed="#P" n="89" break="no"/>gis videtur, quia cum tale esse respectiuum 
+          <lb ed="#P" n="90"/>non praeexistat generationi, sequeretur, quod 
+          <lb ed="#P" n="91"/>essentia, vel persona in acquirendo tale esse, 
+          <lb ed="#P" n="92"/>procederet de potentia ad actum, &amp; per
+          con<lb ed="#P" n="93" break="no"/>sequens quod acquireret nouum esse:
+          Debe<lb ed="#P" n="94" break="no"/>mus ergo conuertere propositionem
+          dicen<lb ed="#P" n="95" break="no"/>do, quod persona acquirit essentiam, siue esse 
+          <lb ed="#P" n="96"/>absolutum, quod quidem esse praeexistit
+          ge<lb ed="#P" n="97" break="no"/>nerationi, ratione cuius praeexistentiae,
+          gene<lb ed="#P" n="98" break="no"/>ratio nullam nouitatem inducit: Nec tamen 
+          <lb ed="#P" n="99"/>propter hoc sequitur quod inducat nouitaten 
+          <lb ed="#P" n="100"/>in persona filij, quae non praeexistit, quia
+          ge<lb ed="#P" n="101" break="no"/>neratio non facit nouitatem in eo, quod gene 
+          <lb ed="#P" n="102"/>ratur per se, nisi propter nouitatem essentiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e835">
+          <lb ed="#P" n="103"/>Tertio, si diuina essentia per generationem 
+          <lb ed="#P" n="104"/>acquireret respectum filiationis, talis
+          respe<lb ed="#P" n="105" break="no"/>ctus se haberet ad eam per modum
+          adiacen<lb ed="#P" n="106" break="no"/>tis, &amp; per consequens denominaret eam, &amp; 
+          <lb ed="#P" n="107"/>referret eam realiter ad patrem, &amp; ideo esset 
+          <lb ed="#P" n="108"/>distinctio realis inter essentiam, &amp; patrem. 
+          <lb ed="#P" n="109"/>Concludo ergo, diuinam essentiam nullo mo 
+          <lb ed="#P" n="110"/>do generari, nec per se, nec per accidens; 
+          <lb ed="#P" n="111"/>immo videtur quod opinio praefata, quae
+          con<lb ed="#P" n="112" break="no"/>rarium dicit, contrarietur determinationi 
+          <lb ed="#P" n="113"/>Ecclesiae, quae simpliciter, &amp; sine determi- 
+          <lb ed="#P" n="114"/>natione aliqua dicit, quod essentia non ge¬ 
+          <!--241.xml-->
+          <pb ed="#P" n="216"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nerat, nec generatur, nec procedit. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e872">
+          <lb ed="#P" n="2"/>Fundamentum autem opinionis non
+          va<lb ed="#P" n="3" break="no"/>let: Nam cum dicunt, materiam generari per 
+          <lb ed="#P" n="4"/>accidens, non obstante quod praeexistat
+          ge<lb ed="#P" n="5" break="no"/>nerationi; dico hoc verum esse, quia
+          acqui<lb ed="#P" n="6" break="no"/>rit aliquod esse sub forma, quod quidem non 
+          <lb ed="#P" n="7"/>praeexistebat generationi: diuina autem
+          es<lb ed="#P" n="8" break="no"/>sentia non acquirit aliquod esse in persona 
+          <lb ed="#P" n="9"/>filij, ratione cuius possit concedi, ipsam gene 
+          <lb ed="#P" n="10"/>rari per accidens 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e894">
+          <lb ed="#P" n="11"/>Motiua autem illius opinionis non
+          con<lb ed="#P" n="12" break="no"/>cludunt. Nam cum primo dicunt, quod in 
+          <lb ed="#P" n="13"/>istis inferioribus videmus ad generationem 
+          <lb ed="#P" n="14"/>per se ipsius suppositi generari per accidens 
+          <lb ed="#P" n="15"/>omnia, quae sunt in supposito; dicendum, 
+          <lb ed="#P" n="16"/>quod hoc ideo est, quia omnia, quae sunt in 
+          <lb ed="#P" n="17"/>eodem supposito creato, acquirunt esse in
+          il<lb ed="#P" n="18" break="no"/>lo, ideo oportet ea generari simul cum illo; 
+          <lb ed="#P" n="19"/>diuina autem essentia sic est in filio, quod 
+          <lb ed="#P" n="20"/>non acquiririt esse in illo, vnde non oportet,  
+          <lb ed="#P" n="21"/>eam simul generari cum illo. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e921">
+          <lb ed="#P" n="22"/>Ad secundam cum dicunt, illud, quod est 
+          <lb ed="#P" n="23"/>in aliquo per generationem, generatur
+          sal<lb ed="#P" n="24" break="no"/>tem per accidens, dico quod ista proposito 
+          <lb ed="#P" n="25"/>non est vera, nisi quando illud sic est in alio 
+          <lb ed="#P" n="26"/>per generationem, quod etiam acquirit esse 
+          <lb ed="#P" n="27"/>in illo, &amp; simul cum illo: hoc autem non est 
+          <lb ed="#P" n="28"/>in proposito, &amp; cum probatur, quia tunc ge 
+          <lb ed="#P" n="29"/>neratio non esset sibi causa essendi in illo; di 
+          <lb ed="#P" n="30"/>co, quod generatio est causa, quare diuina 
+          <lb ed="#P" n="31"/>essentia sit in filio, referendo generationem 
+          <lb ed="#P" n="32"/>ad silium, qui acquirit essentiam diuinam,  
+          <lb ed="#P" n="33"/>siue diuinum esse per generationem; non 
+          <lb ed="#P" n="34"/>autem referendo generationem ad essentiam, 
+          <lb ed="#P" n="35"/>quae non acquirit esse in filio, vt dictu fuit. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e954">
+          <lb ed="#P" n="36"/>Patet ergo quod diuina essentia nullo mo 
+          <lb ed="#P" n="37"/>do generatur nec per se, nec per accidens 
+          <lb ed="#P" n="38"/>Et ideo (sicut superius in praecedente
+          quae<lb ed="#P" n="39" break="no"/>stione dicebatur ) quod actus generationis 
+          <lb ed="#P" n="40"/>actiue non potest attribui essentiae per
+          acci<lb ed="#P" n="41" break="no"/>dens, propter repugnantiam, quam
+          essen<lb ed="#P" n="42" break="no"/>tia habet ad talem actum; ita est dicendum 
+          <lb ed="#P" n="43"/>in proposito, quod nec actus generationis 
+          <lb ed="#P" n="44"/>passiue potest sibi attribui per accidens,
+          pro<lb ed="#P" n="45" break="no"/>pter eandem repugnantiam, quam habet ad 
+          <lb ed="#P" n="46"/>praefatum actum, &amp; haec de primo articulo.  
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e980">
+          <lb ed="#P" n="47"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="48"/>Vtrum diuina essentia sit formalis
+          termi<lb ed="#P" n="49" break="no"/>nus generationis.
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e989">
+          <lb ed="#P" n="50"/>DRo explicatione huius quaesiti duo
+          fa<lb ed="#P" n="51" break="no"/>ciam: primo ponam conclusionem
+          affir<lb ed="#P" n="52" break="no"/>matiuam, quam probabo, secundo remouebo 
+          <lb ed="#P" n="53"/>dubitationes quasdam occurrentes contra ea.
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1000">
+          <!--241.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 216 b -->
+          <lb ed="#P" n="54"/>Quantum ad primum dico, quod
+          essen<lb ed="#P" n="55" break="no"/>tia est formalis terminus generationis &amp; hoc 
+          <lb ed="#P" n="56"/>probo dupliciter. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1016">
+          <lb ed="#P" n="57"/>1 Illud est formalis terminus
+          generatio<lb ed="#P" n="58" break="no"/>nis, quod genitum accipit a generante per 
+          <lb ed="#P" n="59"/>viam generationis: Sed filius in diuinis ac  
+          <lb ed="#P" n="60"/>cipit a patre per generationem diuinam es 
+          <lb ed="#P" n="61"/>sentiam; ergo &amp;c. Maior est nota, quia in 
+          <lb ed="#P" n="62"/>omni generatione idem est finis, &amp; terminus 
+          <lb ed="#P" n="63"/>generationis, finis autem cuiuscunque genera 
+          <lb ed="#P" n="64"/>tionis est, vt genitum accipiat a generate aliquam 
+          <lb ed="#P" n="65"/>formam, per quam habet esse: Probo minorem 
+          <lb ed="#P" n="66"/>dicit enim ipse Filius apud loan. x. Pater quod 
+          <lb ed="#P" n="67"/>dedit mihi maius est omnibus; huiusmodi 
+          <lb ed="#P" n="68"/>datum a patre, &amp; acceptum a filio, quod est 
+          <lb ed="#P" n="69"/>maius omnibus, non potest esse nisi diuina 
+          <lb ed="#P" n="70"/>Essentia, quae est simpliciter infinita : Vnde 
+          <lb ed="#P" n="71"/>&amp; ad istum sensum exponuntur praefata ver 
+          <lb ed="#P" n="72"/>ba per Pontificem in illa decretali,
+          Damna<lb ed="#P" n="73" break="no"/>mus &amp;c. lsta etiam est intentio <ref xml:id="gsX5tY-d1e311-Rd1e1055" corresp="#gsX5tY-d1e311-Qd1e1060">P.
+            Augusti<lb ed="#P" n="74" break="no"/>ni xv. de Trinitate cap. 28.</ref> dicentis, 
+          <quote xml:id="gsX5tY-d1e311-Qd1e1060" source="http://scta.info/resource/adt-l15-d1e1975@1-38">quomo<lb ed="#P" n="75" break="no"/>do ergo non absurdissime filius dicetur
+            am<lb ed="#P" n="76" break="no"/>borum, cum sicut filio praestat essentiam sine 
+            <lb ed="#P" n="77"/>initio temporis, sine naturae mutatione de pa 
+            <lb ed="#P" n="78"/>tre generatio, ita Spiritui Sancto praestat
+            es<lb ed="#P" n="79" break="no"/>sentiam sine initio temporis, sine vlla
+            muta<lb ed="#P" n="80" break="no"/>bilitate naturae de vtroque processio</quote>. Vult 
+          <lb ed="#P" n="81"/>ergo Augustinus, quod pater per generatio 
+          <lb ed="#P" n="82"/>nem prestet, idest, det essentiam ipsi filio; &amp;  
+          <lb ed="#P" n="83"/>filius accipiat eam a patre, vt per eam habeat 
+          <lb ed="#P" n="84"/>diuinum esse, &amp; diuinam vitam, quemadmo 
+          <lb ed="#P" n="85"/>dum &amp; pater: propter quod ipsemet
+          domi<lb ed="#P" n="86" break="no"/>nus apud soan cap. 10 dicebat. Sicut pater 
+          <lb ed="#P" n="87"/>habet vitam in semetipso; ita &amp; dedit filio 
+          <lb ed="#P" n="88"/>vitam habere in semetipso; ergo essentia est 
+          <lb ed="#P" n="89"/>formalis terminus generationis. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1097">
+          <lb ed="#P" n="90"/>Confirmatur per illud, quod habetur
+          se<lb ed="#P" n="91" break="no"/>cundo phys tex. 14 generatio est via in
+          na<lb ed="#P" n="92" break="no"/>turam: ergo formalis terminus per
+          genera<lb ed="#P" n="93" break="no"/>tionem communicatus, est ipsa diuina
+          na<lb ed="#P" n="94" break="no"/>tura. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1110">
+          <lb ed="#P" n="95"/>Secundo, si diuina essentia non esset
+          for<lb ed="#P" n="96" break="no"/>malis terminus generationis; ergo diuina fi- 
+          <lb ed="#P" n="97"/>liatio esset huiusmodi terminus, quod est 
+          <lb ed="#P" n="98"/>falsum: Consequentia est nota, quia in
+          per<lb ed="#P" n="99" break="no"/>sona filij generati non est aliud, quod
+          pos<lb ed="#P" n="100" break="no"/>sit esse formalis terminus generationis, nisi 
+          <lb ed="#P" n="101"/>essentia, vel relatio filiationis, 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1128">
+          <lb ed="#P" n="102"/>Falsitatem probo dupliciter. 
+          <lb ed="#P" n="103"/>Primo, quia sequeretur quod diuina gene 
+          <lb ed="#P" n="104"/>ratio esset simpliciter aequiuoca, quia
+          deno<lb ed="#P" n="105" break="no"/>minatio generationis simpliciter debet fieri 
+          <lb ed="#P" n="106"/>a formali termino, sed filiatio est alterius
+          ra<lb ed="#P" n="107" break="no"/>tionis, &amp; speciei a paternitate; ergo praefata 
+          <lb ed="#P" n="108"/>generatio simpliciter erit aequiuoca: Hoc 
+          <lb ed="#P" n="109"/>autem videtur omnino falsum. Nam si diuina 
+          <lb ed="#P" n="110"/>generatio esset simpliciter aequiuoca, tuc pa¬ 
+          <!--242.xml-->
+          <pb ed="#P" n="217"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ter, &amp; filius non essent omnino aequales, quia 
+          <lb ed="#P" n="2"/>in generarione aequiuoca generans nobilius 
+          <lb ed="#P" n="3"/>e genito, personae autem diuinae sunt omnes 
+          <lb ed="#P" n="4"/>aequales, vt nabetur in Svmbolo Athanasij, 
+          <lb ed="#P" n="5"/>&amp; pluribus in locis Sacre sc ipture, ergo
+          vi<lb ed="#P" n="6" break="no"/>detur quod praefata generatio simpliciter 
+          <lb ed="#P" n="7"/>sit vniuoca, ac per consequens formalis
+          ter<lb ed="#P" n="8" break="no"/>minus eius non erit relatio, quae est alterius 
+          <lb ed="#P" n="9"/>rationis, &amp; speciei in patre, &amp; filio, sed erit 
+          <lb ed="#P" n="10"/>essentia, quae est vna, &amp; eiusdem rationis in 
+          <lb ed="#P" n="11"/>omnibus diuinis personis. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1180">
+          <lb ed="#P" n="12"/>Secundo probo eadem falsitatem
+          conse<lb ed="#P" n="13" break="no"/>quentis, quia si filiatio esset formalis
+          termi<lb ed="#P" n="14" break="no"/>nus generationis, sequeretur quod filiatio es 
+          <lb ed="#P" n="15"/>set communicata filio a patre generante; nam 
+          <lb ed="#P" n="16"/>semper formalis terminus est illud, quod con 
+          <lb ed="#P" n="17"/>municatur a generante: Non potest autem dici 
+          <lb ed="#P" n="18"/>quod filiatio sit communicata filio a patre; 
+          <lb ed="#P" n="19"/>Tum quia omne, quod communicatur a
+          pa<lb ed="#P" n="20" break="no"/>tre, praeexistit in patre; sicut patet de
+          Deita<lb ed="#P" n="21" break="no"/>te: filiatio autem non praeexistit in patre, alio 
+          <lb ed="#P" n="22"/>quin pater esset filius, quemadmodum ess 
+          <lb ed="#P" n="23"/>Deus. Tum quia filiatio opponitur relatiue 
+          <lb ed="#P" n="24"/>ipsi paternitati; vnum autem oppositorum non 
+          <lb ed="#P" n="25"/>communicatur ab altero; Tum etiam quia filia 
+          <lb ed="#P" n="26"/>tio innascitur vel pullulat ex natura diuinae 
+          <lb ed="#P" n="27"/>essentiae, quemadmodum &amp; paternitas; Et io 
+          <lb ed="#P" n="28"/>sicut pater habet paternitatem non ex aliquo 
+          <lb ed="#P" n="29"/>alio, quam ex natura diuinae essentiae, prout 
+          <lb ed="#P" n="30"/>existit in eo non communicata: ita filius
+          vi<lb ed="#P" n="31" break="no"/>detur habere filiationem non ex aliquo alio,  
+          <lb ed="#P" n="32"/>quam ex natura diuinae essentiae, prout
+          exi<lb ed="#P" n="33" break="no"/>stit incommunicata per generationem.
+          Re<lb ed="#P" n="34" break="no"/>latio ergo filiationis non videtur acquiri, vel 
+          <lb ed="#P" n="35"/>innasci ex ipsa generatione, sed magis ex
+          na<lb ed="#P" n="36" break="no"/>tura essentiae communicate per generationem, 
+          <lb ed="#P" n="37"/>nam diuina essentia aequalem necessitate habet 
+          <lb ed="#P" n="38"/>in fundamento ad filiationem, &amp;
+          paternita<lb ed="#P" n="39" break="no"/>tem. Et confirmatur, quia cum relatio sit
+          in<lb ed="#P" n="40" break="no"/>trinsecus adueniens, nunquam origo eius est 
+          <lb ed="#P" n="41"/>accipienda ex opposito termino, qui est quasi 
+          <lb ed="#P" n="42"/>sibi extrinsecus, sed magis ex fundamento. 
+          <lb ed="#P" n="43"/>quod sibi intrinsecum est. Concludo ergo quod 
+          <lb ed="#P" n="44"/>filiatio non potest esse formalis terminus
+          il<lb ed="#P" n="45" break="no"/>lius generationis, ergo essentia. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1256">
+          <lb ed="#P" n="46"/>RESTAT nuc vltimo remouere quasdam 
+          <lb ed="#P" n="47"/>dubitationes contra conclusionem occurrer 
+          <lb ed="#P" n="48"/>tes: Primo, vbicunque generatio habet forma 
+          <lb ed="#P" n="49"/>lem terminum, ad quem tendit, ibi oportet 
+          <lb ed="#P" n="50"/>dare terminum oppositum, a quo incipit; si 
+          <lb ed="#P" n="51"/>ergo diuina generatio terminatur ad essentiam 
+          <lb ed="#P" n="52"/>diuinam, siue ad diuinum esse, videtur quod 
+          <lb ed="#P" n="53"/>incipiat a non esse diuino, siue a priuatione 
+          <lb ed="#P" n="54"/>diuinae essentiae 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1278">
+          <lb ed="#P" n="55"/>Ad hoc est dicendum, quod vbi generatio 
+          <lb ed="#P" n="56"/>includit exitum de potentia ad actum, sicut  
+          <lb ed="#P" n="57"/>in creaturis, ibi necessario clauditur inter 
+          <!--242.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 217 b -->
+          <lb ed="#P" n="58"/>duos terminos oppositos; diuina ergo genera 
+          <lb ed="#P" n="59"/>tio talem exitum de potentia ad actum omni 
+          <lb ed="#P" n="60"/>no excludit, sicut patuit in praecedenti
+          di<lb ed="#P" n="61" break="no"/>stinctione. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1303">
+          <lb ed="#P" n="62"/>Secundo, quia si diuina essentia esset
+          for<lb ed="#P" n="63" break="no"/>malis terminus per generationem filio
+          com<lb ed="#P" n="64" break="no"/>municatus, videret quod filius esset aliquid 
+          <lb ed="#P" n="65"/>praeexistens generationi, &amp; essentiae, quia
+          il<lb ed="#P" n="66" break="no"/>lud, cui fit communicatio, videtur praesuppo 
+          <lb ed="#P" n="67"/>ni, ante communicationem. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1319">
+          <lb ed="#P" n="68"/>Respondetur, quod quando illud, cui fit 
+          <lb ed="#P" n="69"/>communicatio, non accipit esse per talem con 
+          <lb ed="#P" n="70"/>municationem, bene pexistit communicatio 
+          <lb ed="#P" n="71"/>ni, &amp; ei, quod sibi communicatur, sicut patet 
+          <lb ed="#P" n="72"/>in alteratione; Nam quia substantia non acci 
+          <lb ed="#P" n="73"/>it esse simpliciter p alterationem, praeexistit 
+          <lb ed="#P" n="74"/>alterationi, &amp; formae accidentali sibi perea com 
+          <lb ed="#P" n="75"/>municatae: In generatione vero aliter se
+          ha<lb ed="#P" n="76" break="no"/>bet, nam quia substantia composita accipit es 
+          <lb ed="#P" n="77"/>se simpliciter per generationem, idcirco non 
+          <lb ed="#P" n="78"/>praeexistit generationi, nec formae substantia 
+          <lb ed="#P" n="79"/>li sibi communicatae per eam, immo simul ha 
+          <lb ed="#P" n="80"/>bet esse cum ea, ita ergo dicendum est in pro 
+          <lb ed="#P" n="81"/>posito. Nam cum filius accipiat esse
+          simplici<lb ed="#P" n="82" break="no"/>ter per generationem, non praeexistit
+          gene<lb ed="#P" n="83" break="no"/>rarioni, vel essentiae communicatae per eam, 
+          <lb ed="#P" n="84"/>sed habet simul esse cum ea 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1358">
+          <lb ed="#P" n="85"/>Tertio, quia videtur magis verum, quod 
+          <lb ed="#P" n="86"/>filiatio acquiratur essentiae diuinae per gene 
+          <lb ed="#P" n="87"/>rationem, quam e conuerso; si quidem
+          essen<lb ed="#P" n="88" break="no"/>tia diuina est fundamentum filiationis;
+          re<lb ed="#P" n="89" break="no"/>latio autem acquiritur fundamento, &amp; non 
+          <lb ed="#P" n="90"/>e conuerso, quia fundamentum praecedit
+          re<lb ed="#P" n="91" break="no"/>lationem saltem ordine naturae: si autem ita 
+          <lb ed="#P" n="92"/>sit, filiatio erit formalis terminus
+          generatio<lb ed="#P" n="93" break="no"/>nis, &amp; non essentia. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1380">
+          <lb ed="#P" n="94"/>Respondeo, quod vbi fundamentum est 
+          <lb ed="#P" n="95"/>in potentia ad relationem, ibi bene relatio ac 
+          <lb ed="#P" n="96"/>quiritur fundamento, sed vbi fundamentum 
+          <lb ed="#P" n="97"/>non est in potentia ad relationem, sed
+          ne<lb ed="#P" n="98" break="no"/>cessitate naturali fundat eam, ibi nullo modo 
+          <lb ed="#P" n="99"/>relatio acquiritur fundamento, sed nascit ex 
+          <lb ed="#P" n="100"/>natura fundamenti existentis in alio supposi 
+          <lb ed="#P" n="101"/>to, sicut V. 0 quia scientia necessitate natura 
+          <lb ed="#P" n="102"/>li fundat relationem ad scibile, idcirco non 
+          <lb ed="#P" n="103"/>acquirit eam per aliquam generationem, sed  
+          <lb ed="#P" n="104"/>nascitur necessario ex natura ipsiusmet scien 
+          <lb ed="#P" n="105"/>tiae, prout existit in intellectu acquisito ab ip 
+          <lb ed="#P" n="106"/>so scibili, si sit scientia habita per
+          inuentio<lb ed="#P" n="107" break="no"/>nem: ita suo modo dico in proposito; nam  
+          <lb ed="#P" n="108"/>quia essentia diuina necessitate naturali fun 
+          <lb ed="#P" n="109"/>dat filiationem, idcirco non acquirit eam por 
+          <lb ed="#P" n="110"/>aliquam genetationem, sed ex natura innasci 
+          <lb ed="#P" n="111"/>tur ipsimet essentiae, prout existit in filio,  
+          <lb ed="#P" n="112"/>communicata a patre per generationem. 
+          <lb ed="#P" n="113"/>Possemus etiam breuius respondere dicendo, 
+          <lb ed="#P" n="114"/>quod nunquam relatio acquiritur fundamen¬ 
+          <!--243.xml-->
+          <pb ed="#P" n="218"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>to, sed fundamentum simul cum relatione 
+          <lb ed="#P" n="2"/>acquiritur alicui supposito; Et secundum istam 
+          <lb ed="#P" n="3"/>viam dicemus, quod diuina essentia simul 
+          <lb ed="#P" n="4"/>cum filiatione acquiritur filio per
+          generatio<lb ed="#P" n="5" break="no"/>nem, non quod filiatio sit terminus
+          acquisi<lb ed="#P" n="6" break="no"/>tus, sed innascitur necessario ex termino
+          ac<lb ed="#P" n="7" break="no"/>quisito, non tamen propter hoc filius habet 
+          <lb ed="#P" n="8"/>esse constitutum, antequam acquirat istum 
+          <lb ed="#P" n="9"/>terminum cum praefata relatione, immo per 
+          <lb ed="#P" n="10"/>hoc constituitur in esse; quia acquirit istum 
+          <lb ed="#P" n="11"/>terminum, ad quem necessario sequitur ista 
+          <lb ed="#P" n="12"/>relatio, puta filiatio, est tamen sciedum, quod 
+          <lb ed="#P" n="13"/>non sic intelligo filiationem sequi ad istum 
+          <lb ed="#P" n="14"/>terminum, quasi essentia sit terminus primo 
+          <lb ed="#P" n="15"/>acquisitus, &amp; postea sequatur filiatio, sed in 
+          <lb ed="#P" n="16"/>telligo esse istam sequelam solum secundum 
+          <lb ed="#P" n="17"/>nostrum modum intelligendi; Nam
+          secun<lb ed="#P" n="18" break="no"/>dum rei veritatem filiatio nil aliud est, quam 
+          <lb ed="#P" n="19"/>illius termini acquisitio, puta acceptio
+          diui<lb ed="#P" n="20" break="no"/>nae essentiae a patre. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1478">
+          <lb ed="#P" n="21"/>Quarto dubitatur, quia generatio, &amp; eius 
+          <lb ed="#P" n="22"/>terminus sunt in eodem genere, cum ergo 
+          <lb ed="#P" n="23"/>illa generatio sit relario, etiam terminus eius 
+          <lb ed="#P" n="24"/>debet esse relatio, &amp; non essentia, quae est quod 
+          <lb ed="#P" n="25"/>absolutum. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1491">
+          <lb ed="#P" n="26"/>Ad hoc dico, quod, sicut patet ex supe 
+          <lb ed="#P" n="27"/>rioribus; in generatione horum inferiorum 
+          <lb ed="#P" n="28"/>sunt tria, scilicet exitus de potentia ad actum, 
+          <lb ed="#P" n="29"/>acceptio esse ab alio; &amp; esse datum alteri; si 
+          <lb ed="#P" n="30"/>ergo accipiatur generatio in quantum dicit 
+          <lb ed="#P" n="31"/>exitum de potentia ad actum, sic est aliqud 
+          <lb ed="#P" n="32"/>absolutum, &amp; est in eodem genere cum
+          for<lb ed="#P" n="33" break="no"/>ma, siue cum formali termino. Si autem
+          ac<lb ed="#P" n="34" break="no"/>cipiatur in quantum dicit acceptionem esse  
+          <lb ed="#P" n="35"/>ab alio, sic dicit quandam relationem, &amp; hoc 
+          <lb ed="#P" n="36"/>modo generatio non est in eodem genere cum 
+          <lb ed="#P" n="37"/>illo esse, vel cum illa forma, quae est termi- 
+          <lb ed="#P" n="38"/>nus ipsius: Nam forma illa est quid
+          absolu<lb ed="#P" n="39" break="no"/>tum, generatio vero isto modo est quidam re 
+          <lb ed="#P" n="40"/>spectus, applicando ergo ad propositum
+          di<lb ed="#P" n="41" break="no"/>co, quod, quia generatio in diuinis est
+          quae<lb ed="#P" n="42" break="no"/>dam relatio, non oportet quod sit in eodem 
+          <lb ed="#P" n="43"/>genere cum termino suo 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1534">
+          <lb ed="#P" n="44"/>Quinto, quia videmus in istis
+          inferiori<lb ed="#P" n="45" break="no"/>bus, quod terminus generationis generatur 
+          <lb ed="#P" n="46"/>saltem per accidens; diuina autem essentia 
+          <lb ed="#P" n="47"/>nullo modo generatur, vt habitum est supra, 
+          <lb ed="#P" n="48"/>ergo non, terminus generationis. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1547">
+          <lb ed="#P" n="49"/>Respondetur, in istis inferioribus
+          termi<lb ed="#P" n="50" break="no"/>num generationis generari per accidens, quod 
+          <lb ed="#P" n="51"/>acquirit esse in supposito, quod generatur p 
+          <lb ed="#P" n="52"/>se; diuinam autem essentiam non acquirere 
+          <lb ed="#P" n="53"/>esse in supposito, quod generatur per se; 
+          <lb ed="#P" n="54"/>propter quod dubitatio non habet locum. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1563">
+          <lb ed="#P" n="55"/>Sexto, terminus generationis debet esse 
+          <lb ed="#P" n="56"/>realiter distinctus a generante, diuina
+          essen<lb ed="#P" n="57" break="no"/>tia non est distincta a patre, nisi secundum 
+          <!--243.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 218 b -->
+          <lb ed="#P" n="58"/>rationem, ergo non est formalis terminus. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1581">
+          <lb ed="#P" n="59"/>Respondetur dupliciter, vno modo disti 
+          <lb ed="#P" n="60"/>guendo de termino, nam quidam est
+          termi<lb ed="#P" n="61" break="no"/>nus formalis, qui acquiritur ipsi genito; &amp; 
+          <lb ed="#P" n="62"/>quidam obiectiuus, scilicet ipsummet
+          geni<lb ed="#P" n="63" break="no"/>tum, cum ergo dicitur, terminum
+          genera<lb ed="#P" n="64" break="no"/>tionis esse realiter distinctum a generante, 
+          <lb ed="#P" n="65"/>dico, hoc verum esse de termino obiectiuo,  
+          <lb ed="#P" n="66"/>&amp; ita est in proposito, quia filius est realiter 
+          <lb ed="#P" n="67"/>distinctus a patre. Alio modo possum dicere, 
+          <lb ed="#P" n="68"/>quod vbi terminus generationis generatur 
+          <lb ed="#P" n="69"/>er accidens, ibi oportet ipsum esse realiter 
+          <lb ed="#P" n="70"/>distinctum a generante, quia nil generat se 
+          <lb ed="#P" n="71"/>ipsum, nec per se, nec per accidens; diuina 
+          <lb ed="#P" n="72"/>autem essentia est formalis terminus, qui non 
+          <lb ed="#P" n="73"/>generatur per accidens; &amp; ideo non oportet 
+          <lb ed="#P" n="74"/>formalem terminum esse realiter distinctum 
+          <lb ed="#P" n="75"/>a generante. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1620">
+          <lb ed="#P" n="76"/>AD ARGVMENTA 
+          <lb ed="#P" n="77"/>principalia 
+          <lb ed="#P" n="78"/>AD primum patet solutio per ea, quae di 
+          <lb ed="#P" n="79"/>cta sunt in primo articulo. 
+        </p>
+        <p xml:id="gsX5tY-d1e311-d1e1631">
+          <lb ed="#P" n="80"/>Ad secundum nego maiorem, quia sua op 
+          <lb ed="#P" n="81"/>posita est vera, scilicet illud, quod praeexistit 
+          <lb ed="#P" n="82"/>generationi, potest esse finis generationis, 
+          <lb ed="#P" n="83"/>Et cum probatur contrarium, quia
+          genera<lb ed="#P" n="84" break="no"/>tio est praeuia termino, dico, non oportere, 
+          <lb ed="#P" n="85"/>quod sit ibi praeuia simpliciter, sufficit enim 
+          <lb ed="#P" n="86"/>quod sit ei praeuia, prout existit in hoc scili 
+          <lb ed="#P" n="87"/>cet in genito, vt est in proposito, quia
+          gene<lb ed="#P" n="88" break="no"/>ratio diuina est praeuia essentiae, prout existit 
+          <lb ed="#P" n="89"/>in filio.  
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,202 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="588"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e1149"> <!-- l1d46q1 -->
-            <head xml:id="gsX5tY-d1e1149-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e1149-Hd1e112" type="question-title">Utrum voluntas divina necessario semper impleatur.</head>
-            <p xml:id="gsX5tY-d1e1149-d1e115">
-               <lb ed="#P" n="98"/>DISTINCTIONIS NLV. 
-      <lb ed="#P" n="99"/>QVAESTIO VNICA 
-      <lb ed="#P" n="100"/>Vtrum voluntas diuina necessario semper 
-      <lb ed="#P" n="101"/>impleatur.
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e126">
-               <lb ed="#P" n="102"/>VIDETVR primo quod non, quia dici 
-      <lb ed="#P" n="103"/> tur prima ad Thimot. 2. quod Deus 
-      <!--614.xml-->
-      <pb ed="#P" n="589"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>vult omnes homines saluos fieri, sed constat 
-      <lb ed="#P" n="2"/>quod aliqui damnantur, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e145">
-               <lb ed="#P" n="3"/>AD OPPOSITVM arguo per illud quod 
-      <lb ed="#P" n="4"/>habetur Ester. 15. Domine iniditione tua cun 
-      <lb ed="#P" n="5"/>cta sunt posita, &amp; non est qui tuae possit re 
-      <lb ed="#P" n="6"/>sistere voluntati. 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e156">
-               <lb ed="#P" n="7"/>RESPONDEO quod quamuis
-      volun<lb ed="#P" n="8" break="no"/>tas diuina tespectu eorum, quae sunt extra se 
-      <lb ed="#P" n="9"/>contingenter determinetur ad alteram
-      par<lb ed="#P" n="10" break="no"/>tem contradictionis, postquam tamen in
-      in<lb ed="#P" n="11" break="no"/>stanti suae aeternitatis supponitur determina 
-      <lb ed="#P" n="12"/>ta, necessario, &amp; infallibiliter implebitur, &amp;  
-      <lb ed="#P" n="13"/>quod ita sit apparet euidenter per hanc
-      ra<lb ed="#P" n="14" break="no"/>tionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e176">
-               <lb ed="#P" n="15"/>Si voluntas Dei, quae supponitur iam  
-      <lb ed="#P" n="16"/>determinata non impleretur, hoc esset
-      alte<lb ed="#P" n="17" break="no"/>ro duorum modorum, puta, vel quia de vna 
-      <lb ed="#P" n="18"/>parte contradictionis ad alteram se mutaret,  
-      <lb ed="#P" n="19"/>vel quia aliquod impedimentum ei obuiaret, 
-      <lb ed="#P" n="20"/>Primum non potest poni, nam cum Deus sit 
-      <lb ed="#P" n="21"/>penitus immobilis, non potest cadere
-      muta<lb ed="#P" n="22" break="no"/>tio in sua voluntate. Secundum etiam non po 
-      <lb ed="#P" n="23"/>test poni, quia cum Deus ipse sit omnipotens, 
-      <lb ed="#P" n="24"/>vt supra patuit, nullum impedimentum pont 
-      <lb ed="#P" n="25"/>obuiare, quod per ipsum non possit tolli; qua 
-      <lb ed="#P" n="26"/>propter sequitur, quod sua voluntas, quae ia 
-      <lb ed="#P" n="27"/>supponitur determinata, necessario impleat 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e207">
-               <lb ed="#P" n="28"/>Intelligendum tamen, sicut dicebatur su 
-      <lb ed="#P" n="29"/>perius, quod rectitudo diuinae praedestinatio 
-      <lb ed="#P" n="30"/>nis non tollebat indeterminationem liberi 
-      <lb ed="#P" n="31"/>arbitrij, ita in proposito determinatio diuinae 
-      <lb ed="#P" n="32"/>voluntatis non tollit dictam
-      indetermina<lb ed="#P" n="33" break="no"/>tionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e223">
-               <lb ed="#P" n="34"/>Praeterea sciendum, quod illud, quod ma 
-      <lb ed="#P" n="35"/>cimum dubium facit in hac quaestione, est 
-      <lb ed="#P" n="36"/>verbum Apostoli adductum in arguendo ad 
-      <lb ed="#P" n="37"/>quaestionem. Et ideo <ref xml:id="gsX5tY-d1e1149-Rd1e233">D. P. Aug: in libro
-      en<lb ed="#P" n="38" break="no"/>chyridion</ref> circa finem conatur exponere prae 
-      <lb ed="#P" n="39"/>fatum locum, &amp; de ipso duplicem dat
-      expo<lb ed="#P" n="40" break="no"/>sitionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e244">
-               <lb ed="#P" n="41"/>Prima est, quia dicit quod ibi est distri 
-      <lb ed="#P" n="42"/>butio accommoda, ita quod istud signum di 
-      <lb ed="#P" n="43"/>stributiuum, omne, non distribuit pro omni 
-      <lb ed="#P" n="44"/>bus hominibus generaliter, sed accommoda 
-      <lb ed="#P" n="45"/>tur ad distribuendum pro solis illis, qui
-      sal<lb ed="#P" n="46" break="no"/>uantur, vt sit talis sensus, Deus vult omnes 
-      <lb ed="#P" n="47"/>homines saluos fieri, quia omnis, qui
-      salua<lb ed="#P" n="48" break="no"/>tur, saluatur eo volente, quemadmodum si 
-      <lb ed="#P" n="49"/>diceremus, Magister docet omnes pueros, non 
-      <lb ed="#P" n="50"/>quia omnes doceat, sed quia omnes qui
-      di<lb ed="#P" n="51" break="no"/>scunt, eo docente discunt 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e271">
-               <lb ed="#P" n="52"/>Secundo exponit, quod istud signum
-      distri<lb ed="#P" n="53" break="no"/>butiuum, omne, non distribuit ibi pro singu 
-      <lb ed="#P" n="54"/>lis generum, sed pro generibus singulorum, 
-      <lb ed="#P" n="55"/>vt sit sensus, Deus vult omnes homines
-      sal<lb ed="#P" n="56" break="no"/>uos fieri, quia vult ex omni genero aliquos 
-      <lb ed="#P" n="57"/>saluari.
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e287">
-      <!--614.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 589 b -->
-               <lb ed="#P" n="58"/>Exponitur etiam praedictum verbum aD. 
-      <lb ed="#P" n="59"/>Damasceno lib. 2. cap. vltimo dicente Deus 
-      <lb ed="#P" n="60"/>vult omnes homines saluos fieri voluntate 
-      <lb ed="#P" n="61"/>antecedente, non autem consequente, per vo 
-      <lb ed="#P" n="62"/>luntatem uero antecedentem, &amp; consequenten 
-      <lb ed="#P" n="63"/>non intelligit diuersas voluntates, sed vnam, 
-      <lb ed="#P" n="64"/>&amp; eandem aliter, &amp; aliter acceptam, nam vo 
-      <lb ed="#P" n="65"/>luntas Dei dicitur antecedens prout
-      respi<lb ed="#P" n="66" break="no"/>cit ea, quae sunt omnibus hominibus
-      conse<lb ed="#P" n="67" break="no"/>quentia; dicitur vero consequens prout
-      re<lb ed="#P" n="68" break="no"/>spicit ea, quae sunt isti, vel illi propria, nam 
-      <lb ed="#P" n="69"/>quia communia praecedunt propria,
-      volun<lb ed="#P" n="70" break="no"/>tas diuina prout respicit ista communia con 
-      <lb ed="#P" n="71"/>uenienter dicitur antecedens, prout vero 
-      <lb ed="#P" n="72"/>quasi secundario respicit propria conuenien 
-      <lb ed="#P" n="73"/>ter dicitur consequens Communia vero om 
-      <lb ed="#P" n="74"/>nibus hominibus sunt duo. 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e333">
-               <lb ed="#P" n="75"/>Primum quidem ipsa natura humana, quae 
-      <lb ed="#P" n="76"/>secundum totam suam speciem apta est ad 
-      <lb ed="#P" n="77"/>beatitudinem, &amp; ideo inquantum diuina vo 
-      <lb ed="#P" n="78"/>luntas respicit naturam humanam in omni- 
-      <lb ed="#P" n="79"/>bus hominibus, quae secundum totam suam 
-      <lb ed="#P" n="80"/>speciem apta est ad beatitudinem, sic vult
-      o<lb ed="#P" n="81" break="no"/>mnes hamines saluos fieri, voluntate
-      ante<lb ed="#P" n="82" break="no"/>cedente, inquantum vero respicit istud, &amp;  
-      <lb ed="#P" n="83"/>illud indiuiduum secundum propria opera, 
-      <lb ed="#P" n="84"/>in quibus differunt, sic dicitur quod
-      volun<lb ed="#P" n="85" break="no"/>tate consequente non vult omnes homines 
-      <lb ed="#P" n="86"/>saluos fieri. 
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e362">
-               <lb ed="#P" n="87"/>Secundum vero in quo omnes homines 
-      <lb ed="#P" n="88"/>communicant, sunt auxilia omnibus
-      tribu<lb ed="#P" n="89" break="no"/>ta, vt liberum arbitrium, praecepta, consilia,  
-      <lb ed="#P" n="90"/>prohibitiones, exortationes, &amp; huiusmodi, 
-      <lb ed="#P" n="91"/>uae ad salutem conferunt, inquantum vero 
-      <lb ed="#P" n="92"/>diuina voluntas respicit ista omnibus conue 
-      <lb ed="#P" n="93"/>nientia, consequenter vult omnes homines 
-      <lb ed="#P" n="94"/>saluos fieri, &amp; ista est voluntas antecedens; 
-      <lb ed="#P" n="95"/>Inquantum vero eadem voluntas respicit 
-      <lb ed="#P" n="96"/>auxilia specialia, quae non obtinentur ab om 
-      <lb ed="#P" n="97"/>nibus, eo quod nonnulli ponant obicem, sic 
-      <lb ed="#P" n="98"/>non vult omnes homines saluos fieri, &amp; ista 
-      <lb ed="#P" n="99"/>est voluntas consequens
-    </p>
-            <p xml:id="gsX5tY-d1e1149-d1e393">
-               <lb ed="#P" n="100"/>PATETitaque quid dicendum sit ad quaestio 
-      <lb ed="#P" n="101"/>nem, &amp; ad rationem principalem adductam  
-      <lb ed="#P" n="102"/>in oppositum, propter quam ista quaestio fuit 
-      <lb ed="#P" n="103"/>principaliter mota 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="588"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e1149"> <!-- l1d46q1 -->
+        <head xml:id="gsX5tY-d1e1149-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e1149-Hd1e112" type="question-title">Utrum voluntas divina necessario semper impleatur.</head>
+        <p xml:id="gsX5tY-d1e1149-d1e115">
+          <lb ed="#P" n="98"/>DISTINCTIONIS NLV. 
+          <lb ed="#P" n="99"/>QVAESTIO VNICA 
+          <lb ed="#P" n="100"/>Vtrum voluntas diuina necessario semper 
+          <lb ed="#P" n="101"/>impleatur.
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e126">
+          <lb ed="#P" n="102"/>VIDETVR primo quod non, quia dici 
+          <lb ed="#P" n="103"/> tur prima ad Thimot. 2. quod Deus 
+          <!--614.xml-->
+          <pb ed="#P" n="589"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vult omnes homines saluos fieri, sed constat 
+          <lb ed="#P" n="2"/>quod aliqui damnantur, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e145">
+          <lb ed="#P" n="3"/>AD OPPOSITVM arguo per illud quod 
+          <lb ed="#P" n="4"/>habetur Ester. 15. Domine iniditione tua cun 
+          <lb ed="#P" n="5"/>cta sunt posita, &amp; non est qui tuae possit re 
+          <lb ed="#P" n="6"/>sistere voluntati. 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e156">
+          <lb ed="#P" n="7"/>RESPONDEO quod quamuis
+          volun<lb ed="#P" n="8" break="no"/>tas diuina tespectu eorum, quae sunt extra se 
+          <lb ed="#P" n="9"/>contingenter determinetur ad alteram
+          par<lb ed="#P" n="10" break="no"/>tem contradictionis, postquam tamen in
+          in<lb ed="#P" n="11" break="no"/>stanti suae aeternitatis supponitur determina 
+          <lb ed="#P" n="12"/>ta, necessario, &amp; infallibiliter implebitur, &amp;  
+          <lb ed="#P" n="13"/>quod ita sit apparet euidenter per hanc
+          ra<lb ed="#P" n="14" break="no"/>tionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e176">
+          <lb ed="#P" n="15"/>Si voluntas Dei, quae supponitur iam  
+          <lb ed="#P" n="16"/>determinata non impleretur, hoc esset
+          alte<lb ed="#P" n="17" break="no"/>ro duorum modorum, puta, vel quia de vna 
+          <lb ed="#P" n="18"/>parte contradictionis ad alteram se mutaret,  
+          <lb ed="#P" n="19"/>vel quia aliquod impedimentum ei obuiaret, 
+          <lb ed="#P" n="20"/>Primum non potest poni, nam cum Deus sit 
+          <lb ed="#P" n="21"/>penitus immobilis, non potest cadere
+          muta<lb ed="#P" n="22" break="no"/>tio in sua voluntate. Secundum etiam non po 
+          <lb ed="#P" n="23"/>test poni, quia cum Deus ipse sit omnipotens, 
+          <lb ed="#P" n="24"/>vt supra patuit, nullum impedimentum pont 
+          <lb ed="#P" n="25"/>obuiare, quod per ipsum non possit tolli; qua 
+          <lb ed="#P" n="26"/>propter sequitur, quod sua voluntas, quae ia 
+          <lb ed="#P" n="27"/>supponitur determinata, necessario impleat 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e207">
+          <lb ed="#P" n="28"/>Intelligendum tamen, sicut dicebatur su 
+          <lb ed="#P" n="29"/>perius, quod rectitudo diuinae praedestinatio 
+          <lb ed="#P" n="30"/>nis non tollebat indeterminationem liberi 
+          <lb ed="#P" n="31"/>arbitrij, ita in proposito determinatio diuinae 
+          <lb ed="#P" n="32"/>voluntatis non tollit dictam
+          indetermina<lb ed="#P" n="33" break="no"/>tionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e223">
+          <lb ed="#P" n="34"/>Praeterea sciendum, quod illud, quod ma 
+          <lb ed="#P" n="35"/>cimum dubium facit in hac quaestione, est 
+          <lb ed="#P" n="36"/>verbum Apostoli adductum in arguendo ad 
+          <lb ed="#P" n="37"/>quaestionem. Et ideo <ref xml:id="gsX5tY-d1e1149-Rd1e233">D. P. Aug: in libro
+            en<lb ed="#P" n="38" break="no"/>chyridion</ref> circa finem conatur exponere prae 
+          <lb ed="#P" n="39"/>fatum locum, &amp; de ipso duplicem dat
+          expo<lb ed="#P" n="40" break="no"/>sitionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e244">
+          <lb ed="#P" n="41"/>Prima est, quia dicit quod ibi est distri 
+          <lb ed="#P" n="42"/>butio accommoda, ita quod istud signum di 
+          <lb ed="#P" n="43"/>stributiuum, omne, non distribuit pro omni 
+          <lb ed="#P" n="44"/>bus hominibus generaliter, sed accommoda 
+          <lb ed="#P" n="45"/>tur ad distribuendum pro solis illis, qui
+          sal<lb ed="#P" n="46" break="no"/>uantur, vt sit talis sensus, Deus vult omnes 
+          <lb ed="#P" n="47"/>homines saluos fieri, quia omnis, qui
+          salua<lb ed="#P" n="48" break="no"/>tur, saluatur eo volente, quemadmodum si 
+          <lb ed="#P" n="49"/>diceremus, Magister docet omnes pueros, non 
+          <lb ed="#P" n="50"/>quia omnes doceat, sed quia omnes qui
+          di<lb ed="#P" n="51" break="no"/>scunt, eo docente discunt 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e271">
+          <lb ed="#P" n="52"/>Secundo exponit, quod istud signum
+          distri<lb ed="#P" n="53" break="no"/>butiuum, omne, non distribuit ibi pro singu 
+          <lb ed="#P" n="54"/>lis generum, sed pro generibus singulorum, 
+          <lb ed="#P" n="55"/>vt sit sensus, Deus vult omnes homines
+          sal<lb ed="#P" n="56" break="no"/>uos fieri, quia vult ex omni genero aliquos 
+          <lb ed="#P" n="57"/>saluari.
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e287">
+          <!--614.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 589 b -->
+          <lb ed="#P" n="58"/>Exponitur etiam praedictum verbum aD. 
+          <lb ed="#P" n="59"/>Damasceno lib. 2. cap. vltimo dicente Deus 
+          <lb ed="#P" n="60"/>vult omnes homines saluos fieri voluntate 
+          <lb ed="#P" n="61"/>antecedente, non autem consequente, per vo 
+          <lb ed="#P" n="62"/>luntatem uero antecedentem, &amp; consequenten 
+          <lb ed="#P" n="63"/>non intelligit diuersas voluntates, sed vnam, 
+          <lb ed="#P" n="64"/>&amp; eandem aliter, &amp; aliter acceptam, nam vo 
+          <lb ed="#P" n="65"/>luntas Dei dicitur antecedens prout
+          respi<lb ed="#P" n="66" break="no"/>cit ea, quae sunt omnibus hominibus
+          conse<lb ed="#P" n="67" break="no"/>quentia; dicitur vero consequens prout
+          re<lb ed="#P" n="68" break="no"/>spicit ea, quae sunt isti, vel illi propria, nam 
+          <lb ed="#P" n="69"/>quia communia praecedunt propria,
+          volun<lb ed="#P" n="70" break="no"/>tas diuina prout respicit ista communia con 
+          <lb ed="#P" n="71"/>uenienter dicitur antecedens, prout vero 
+          <lb ed="#P" n="72"/>quasi secundario respicit propria conuenien 
+          <lb ed="#P" n="73"/>ter dicitur consequens Communia vero om 
+          <lb ed="#P" n="74"/>nibus hominibus sunt duo. 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e333">
+          <lb ed="#P" n="75"/>Primum quidem ipsa natura humana, quae 
+          <lb ed="#P" n="76"/>secundum totam suam speciem apta est ad 
+          <lb ed="#P" n="77"/>beatitudinem, &amp; ideo inquantum diuina vo 
+          <lb ed="#P" n="78"/>luntas respicit naturam humanam in omni- 
+          <lb ed="#P" n="79"/>bus hominibus, quae secundum totam suam 
+          <lb ed="#P" n="80"/>speciem apta est ad beatitudinem, sic vult
+          o<lb ed="#P" n="81" break="no"/>mnes hamines saluos fieri, voluntate
+          ante<lb ed="#P" n="82" break="no"/>cedente, inquantum vero respicit istud, &amp;  
+          <lb ed="#P" n="83"/>illud indiuiduum secundum propria opera, 
+          <lb ed="#P" n="84"/>in quibus differunt, sic dicitur quod
+          volun<lb ed="#P" n="85" break="no"/>tate consequente non vult omnes homines 
+          <lb ed="#P" n="86"/>saluos fieri. 
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e362">
+          <lb ed="#P" n="87"/>Secundum vero in quo omnes homines 
+          <lb ed="#P" n="88"/>communicant, sunt auxilia omnibus
+          tribu<lb ed="#P" n="89" break="no"/>ta, vt liberum arbitrium, praecepta, consilia,  
+          <lb ed="#P" n="90"/>prohibitiones, exortationes, &amp; huiusmodi, 
+          <lb ed="#P" n="91"/>uae ad salutem conferunt, inquantum vero 
+          <lb ed="#P" n="92"/>diuina voluntas respicit ista omnibus conue 
+          <lb ed="#P" n="93"/>nientia, consequenter vult omnes homines 
+          <lb ed="#P" n="94"/>saluos fieri, &amp; ista est voluntas antecedens; 
+          <lb ed="#P" n="95"/>Inquantum vero eadem voluntas respicit 
+          <lb ed="#P" n="96"/>auxilia specialia, quae non obtinentur ab om 
+          <lb ed="#P" n="97"/>nibus, eo quod nonnulli ponant obicem, sic 
+          <lb ed="#P" n="98"/>non vult omnes homines saluos fieri, &amp; ista 
+          <lb ed="#P" n="99"/>est voluntas consequens
+        </p>
+        <p xml:id="gsX5tY-d1e1149-d1e393">
+          <lb ed="#P" n="100"/>PATETitaque quid dicendum sit ad quaestio 
+          <lb ed="#P" n="101"/>nem, &amp; ad rationem principalem adductam  
+          <lb ed="#P" n="102"/>in oppositum, propter quam ista quaestio fuit 
+          <lb ed="#P" n="103"/>principaliter mota 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

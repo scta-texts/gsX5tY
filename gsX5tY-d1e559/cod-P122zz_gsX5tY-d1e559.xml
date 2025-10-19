@@ -1,527 +1,527 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="366"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e559"> <!-- l1d15q1 -->
-            <head xml:id="gsX5tY-d1e559-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e559-Hd1e112" type="question-title">Utrum missio sit communis toti Trinitati</head>
-            <p xml:id="gsX5tY-d1e559-d1e115">
-               <lb ed="#P" n="18"/>DISTINCTIONIS XV 
-      <lb ed="#P" n="19"/>QVAESTIO VNICA 
-      <lb ed="#P" n="20"/>Vtrum missio sit communis toti Trinitati 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e124">
-               <lb ed="#P" n="21"/>ARGVITVR PR PARTE 
-      <lb ed="#P" n="22"/>negatiua. 
-      <lb ed="#P" n="23"/>IILlud, quod nullo modo est ponendum in 
-      <lb ed="#P" n="24"/>diuinis, non potest dici commune toti Pri 
-      <lb ed="#P" n="25"/>nitati; missio est huiusmodi; ergo &amp;c. Maior 
-      <lb ed="#P" n="26"/>patet, Minorem probo, quia missio dicit mu 
-      <lb ed="#P" n="27"/>tationem, &amp; separationem missi a mittente, 
-      <lb ed="#P" n="28"/>quod omnino remouendum est a diuinis,  
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e145">
-               <lb ed="#P" n="29"/>2 Si missio esset communis toti
-      Trinita<lb ed="#P" n="30" break="no"/>ti, tunc esset quid essentiale, &amp; non notiona 
-      <lb ed="#P" n="31"/>le: sed hoc est falsum per P. Aug. 10 de Tri- 
-      <lb ed="#P" n="32"/>nitate cap. 20. vbi ait, quod mitti filium est 
-      <lb ed="#P" n="33"/>cognoscere ipsum ab alio esse, quod non
-      ha<lb ed="#P" n="34" break="no"/>beret veritatem, nisi missio esset quid
-      pro<lb ed="#P" n="35" break="no"/>prium, &amp; notionale. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e163">
-               <lb ed="#P" n="36"/>3 Si esset communis Trinitati
-      sequere<lb ed="#P" n="37" break="no"/>tur, quod quaelibet persona mitteret se ipsam; 
-      <lb ed="#P" n="38"/>hoc est falsum; ergo. Consequentia est nota, 
-      <lb ed="#P" n="39"/>quia actiones communes toti Trinitati videm 
-      <lb ed="#P" n="40"/>tur posse reciprocari in qualibet persona: 
-      <lb ed="#P" n="41"/>Dicimus enim, quod pater intelligit filium 
-      <lb ed="#P" n="42"/>&amp; intelligit se eodem modo; ergo poterimus 
-      <lb ed="#P" n="43"/>dicere, quod mittit filium, &amp; mittit se:
-      Falsi<lb ed="#P" n="44" break="no"/>tatem probo, per <ref xml:id="gsX5tY-d1e559-Rd1e184" corresp="#gsX5tY-d1e559-Qd1e190">Aug. 2. de Trinit. cap. 2</ref> dice 
-      <lb ed="#P" n="45"/>tem quod <quote xml:id="gsX5tY-d1e559-Qd1e190" source="http://scta.info/resource/adt-l2-d1e213@24-29">pater nunquam legitur missus</quote>
-            </p>
-            <p xml:id="gsX5tY-d1e559-d1e194">
-               <lb ed="#P" n="46"/>4 Sequeretur, quod missio filij non
-      pos<lb ed="#P" n="47" break="no"/>set separari a missione Spiritus Sancti, cuius 
-      <lb ed="#P" n="48"/>contrarium videmus, quia dona intellectus. 
-      <lb ed="#P" n="49"/>cum quibus mittitur filius, possunt conferri 
-      <!--391.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 366 b -->
-               <lb ed="#P" n="50"/>sine donis voluntatis, cum quibus mirtitur 
-      <lb ed="#P" n="51"/>Spiritus Sanctus: Fuit etiam missus filius in 
-      <lb ed="#P" n="52"/>carne, &amp; non Spiritus Sanctus; ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e218">
-               <lb ed="#P" n="53"/>ARGVITVR ADPARTEM 
-      <lb ed="#P" n="54"/>affirmantem. 
-      <lb ed="#P" n="55"/>Issio idem est, quod temporalis dona 
-      <lb ed="#P" n="56"/>LVI tio, sed haec est communis toti Trini 
-      <lb ed="#P" n="57"/>tati, quia tota Trinitas se donat, ergo. 
-      <lb ed="#P" n="58"/>2 Missio videtur idem esse, quod persone 
-      <lb ed="#P" n="59"/>missae manifestatio, hoc autem potest compe 
-      <lb ed="#P" n="60"/>tere omnibus personis; ergo &amp;c. Maior
-      po<lb ed="#P" n="61" break="no"/>test probari per <ref xml:id="gsX5tY-d1e559-Rd1e239" corresp="#gsX5tY-d1e559-Qd1e245">P. Aug. 4 de Trinit. cap. 20.</ref>  
-               <lb ed="#P" n="62"/>vbi ait quod filius mittitur, <quote xml:id="gsX5tY-d1e559-Qd1e245" source="http://scta.info/resource/adt-l4-d1e640@85-91">eo quod ex tem 
-        <lb ed="#P" n="63"/>pore cuiuscunque mente percipitur</quote>. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e251">
-               <lb ed="#P" n="64"/>RESPONDEO: In ista quaestione
-      qua<lb ed="#P" n="65" break="no"/>tuor sunt videnda, quae tanguntur in
-      argu<lb ed="#P" n="66" break="no"/>mentis propositis. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e260">
-               <lb ed="#P" n="67"/>1 Quid sit missio, &amp; quomodo
-      ponen<lb ed="#P" n="68" break="no"/>da sit in diuinis.  
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e268">
-               <lb ed="#P" n="69"/>2 Vtrum missio in diuinis sit quid
-      essen<lb ed="#P" n="70" break="no"/>tiale, vel quid notionale. 
-      <lb ed="#P" n="71"/>3 Vtrum quaelibet persona mittat se 
-      <lb ed="#P" n="72"/>ipsam. 
-      <lb ed="#P" n="73"/>4 Vtrum separetur missio filij a missione 
-      <lb ed="#P" n="74"/>Spiritus Sancti. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e284">
-               <lb ed="#P" n="75"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="76"/>Quid sit missio, &amp; quomodo est
-      ponen<lb ed="#P" n="77" break="no"/>da in diuinis.  
-      <lb ed="#P" n="78"/>Ro hoc articulo primo intelligendum 
-      <lb ed="#P" n="79"/>est, quod in missione tria sunt
-      conside<lb ed="#P" n="80" break="no"/>randa, scilicet mittens, missus, &amp; termi 
-      <lb ed="#P" n="81"/>nus ad quem mittitur: Ex parte mittentis 
-      <lb ed="#P" n="82"/>ibi est auctoritatis collatio, quia mittens dat 
-      <lb ed="#P" n="83"/>auctoritatem misso, sicut Papamittens
-      lega<lb ed="#P" n="84" break="no"/>tum dat ei suam auctoritate. Ex parte missi 
-      <lb ed="#P" n="85"/>est ibi mutatio, Tegatus n accepta
-      auctorita<lb ed="#P" n="86" break="no"/>te a Papa mouetur ad exequendum ea, quae 
-      <lb ed="#P" n="87"/>sunt sibi commissa: Ex parte vero termini ad 
-      <lb ed="#P" n="88"/>quem est missio, est ibi operis executio; nam  
-      <lb ed="#P" n="89"/>videmus, quod vbi primum Legatus puenerit 
-      <lb ed="#P" n="90"/>ad locum ad quem mittitur, mcipit exequi 
-      <lb ed="#P" n="91"/>ea, quae sibi commissa fuerunt 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e323">
-               <lb ed="#P" n="92"/>Haec autem tria ita se habent, quod solum 
-      <lb ed="#P" n="93"/>duo competunt missioni secundum se,
-      scili<lb ed="#P" n="94" break="no"/>cet auctoritatis collatio, &amp; operis executio: 
-      <lb ed="#P" n="95"/>Nam quod ibi sit mutatio, vel separatio missi 
-      <lb ed="#P" n="96"/>a mittente, hoc non prouenit ex parte missio 
-      <lb ed="#P" n="97"/>nis, sed ex imperfectione, &amp; diminutione
-      ip<lb ed="#P" n="98" break="no"/>sius missi; si enim missus ita esset perfectus,  
-      <lb ed="#P" n="99"/>&amp; illimitatus, quod vbique esset praesens, non 
-      <lb ed="#P" n="100"/>moueretur nec separaretur ab ipso mittente. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e345">
-               <lb ed="#P" n="101"/>In diuinis ergo possumus ponere:
-      missio<lb ed="#P" n="102" break="no"/>nem quantum ad ea, quae sibi competunt se 
-      <lb ed="#P" n="103"/>cundum se, remota imperfectione, quae est 
-      <!--392.xml-->
-      <pb ed="#P" n="367"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>ibi ratione missi; &amp; ideo est ibi missio quantum 
-      <lb ed="#P" n="2"/>ad auctoritatis collationem, &amp; ad operis exe 
-      <lb ed="#P" n="3"/>cutionem: Eest enim vere aucto itatis collatio 
-      <lb ed="#P" n="4"/>ratione personae mittentis; quia sicut dat esse 
-      <lb ed="#P" n="5"/>personae per originem, ita potest dare
-      aucto<lb ed="#P" n="6" break="no"/>ritatem eidem personae dum mittitur. Est etiam 
-      <lb ed="#P" n="7"/>ibi operis executio in termino ad quem est 
-      <lb ed="#P" n="8"/>missio, puta ipsa sanctificatio, quam persona 
-      <lb ed="#P" n="9"/>missa in creatura rationali, quae videtur esse 
-      <lb ed="#P" n="10"/>terminus istius missionis, operatur. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e382">
-               <lb ed="#P" n="11"/>Ex hoc apparet missionem esse idem cum 
-      <lb ed="#P" n="12"/>processione temporali quantum ad rem
-      si<lb ed="#P" n="13" break="no"/>gnificatam: Nam vtrumque istorum
-      impor<lb ed="#P" n="14" break="no"/>tat duo, scilicet originem personae a persona, 
-      <lb ed="#P" n="15"/>&amp; nouum effectum sanctificationis in
-      crea<lb ed="#P" n="16" break="no"/>tura rationali; Differunt autem in modo
-      signi<lb ed="#P" n="17" break="no"/>ficandi, quia missio significat totum hoc sub 
-      <lb ed="#P" n="18"/>vno nomine, processio autem temporalis sub 
-      <lb ed="#P" n="19"/>pluribus nominibus; &amp; ideo sicut processio 
-      <lb ed="#P" n="20"/>temporalis addit supra processionem simpli 
-      <lb ed="#P" n="21"/>citer nouum effectum sanctificationis; ita et 
-      <lb ed="#P" n="22"/>&amp; ipsa missio Apparet ergo quid sit missio, 
-      <lb ed="#P" n="23"/>&amp; quomodo ponenda sit in diuinis
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e413">
-               <lb ed="#P" n="24"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="25"/>Vtrum missio sit quid essentiale, vel 
-      <lb ed="#P" n="26"/>notionale.
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e423">
-               <lb ed="#P" n="27"/>I&amp; dictis in praecedenti articulo facile 
-      <lb ed="#P" n="28"/>responderi potest huic quaesito: Nam  
-      <lb ed="#P" n="29"/>dictum est ibi, quod missio importat
-      colla<lb ed="#P" n="30" break="no"/>tionem auctoritatis ex parte mittentis, collatio 
-      <lb ed="#P" n="31"/>vero auctoritatis ex parte mittentis est actus 
-      <lb ed="#P" n="32"/>notionalis; quia dat intelligere originem, &amp;  
-      <lb ed="#P" n="33"/>distinctionem personalem: per notionalia
-      n<lb ed="#P" n="34" break="no"/>intelligimus omnia illa, quae notificant distin 
-      <lb ed="#P" n="35"/>etionem personarum, quia notionalia a noti 
-      <lb ed="#P" n="36"/>ficando sunt dicta; essentialia vero dicuntur 
-      <lb ed="#P" n="37"/>omnia illa, quae sunt communia toti
-      Trinita<lb ed="#P" n="38" break="no"/>ti, quia essentialia dicuntur ab essentia, quae 
-      <lb ed="#P" n="39"/>est communis tribus: ldcirco cum quaeritur,  
-      <lb ed="#P" n="40"/>vtrum missio sit quid essentiale, vel notiona 
-      <lb ed="#P" n="41"/>le, patet quid sit dicendum: Nam inquantum 
-      <lb ed="#P" n="42"/>importat collationem auctoritatis ex parte 
-      <lb ed="#P" n="43"/>mittentis, sic dicit quid notionale, inquantum 
-      <lb ed="#P" n="44"/>vero importat executionem operis in
-      termi<lb ed="#P" n="45" break="no"/>no ad quem, sic dicit quid essentiale; quia 
-      <lb ed="#P" n="46"/>ista operis executio non est a sola persona 
-      <lb ed="#P" n="47"/>missa, sed a tota Trinitate, nam tota
-      Trini<lb ed="#P" n="48" break="no"/>tas sanctificat rationalem creaturam, opera 
-      <lb ed="#P" n="49"/>enim Trinitatis ad extra sunt indiuisa¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e475">
-               <lb ed="#P" n="50"/>Sed quaeret aliquis quid principalius. 
-      <lb ed="#P" n="51"/>de ratione missionis; An illud notionale, quod 
-      <lb ed="#P" n="52"/>est collatio auctoritatis, Vel illud essentiale, 
-      <!--392.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 367 b -->
-               <lb ed="#P" n="53"/>quod est executio operis. 
-      <lb ed="#P" n="54"/>Ad quod videtur dicendum, quod princi 
-      <lb ed="#P" n="55"/>palius dicat quid essentiale propter duo. 
-      <lb ed="#P" n="56"/>Primo, quia missio in suo modo
-      significam<lb ed="#P" n="57" break="no"/>di videtur importare tendentiam in aliquem  
-      <lb ed="#P" n="58"/>terminum, omnis autem tendentia denomi- 
-      <lb ed="#P" n="59"/>natur, &amp; specificatur a termino, &amp; per
-      con<lb ed="#P" n="60" break="no"/>sequens illud, quod competit missioni ex par 
-      <lb ed="#P" n="61"/>te termini, videtur sibi principalius
-      con<lb ed="#P" n="62" break="no"/>uenire. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e512">
-               <lb ed="#P" n="63"/>Secundo, quia missio, quantum ad illud 
-      <lb ed="#P" n="64"/>notionale quod dicit, est idem quod origo, 
-      <lb ed="#P" n="65"/>vel processio; differt tamen ab ea per illud es 
-      <lb ed="#P" n="66"/>sentiale, quod est operis executio: Nam dice 
-      <lb ed="#P" n="67"/>batur superius, quod missio addebat supra 
-      <lb ed="#P" n="68"/>processionem simpliciter nouum effectum  
-      <lb ed="#P" n="69"/>sanctificationis: Illud ergo, quod est in
-      mis<lb ed="#P" n="70" break="no"/>sione essentiale, se habet ad modum differen 
-      <lb ed="#P" n="71"/>tiae propriae, &amp; constitutiuae; &amp; per
-      conse<lb ed="#P" n="72" break="no"/>quens sibi principalius competit: Et haec do 
-      <lb ed="#P" n="73"/>praesenti articulo.  
-      <lb ed="#P" n="74"/>I 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e541">
-               <lb ed="#P" n="75"/>ARTICVLVS TERTIVS. 
-      <lb ed="#P" n="76"/>Vtrum quaelibet persona mittat se ipsam.
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e548">
-               <lb ed="#P" n="77"/>AD hoc est dicendum, quod si aliqua 
-      <lb ed="#P" n="78"/>persona est in diuinis, quae nullo
-      mo<lb ed="#P" n="79" break="no"/>do mittatur, etiam nullo modo mittit
-      seip<lb ed="#P" n="80" break="no"/>sam: &amp; quia persona Patris nunquam
-      legi<lb ed="#P" n="81" break="no"/>tur missa (vt superius dicebatur) idcirco
-      pa<lb ed="#P" n="82" break="no"/>ter nullo modo mittit seipsum. Remanet er- 
-      <lb ed="#P" n="83"/>go dubium de filio, &amp; Spiritu Sancto; Vtrum 
-      <lb ed="#P" n="84"/>quando mittuntur mittant seipsos: Ad quod 
-      <lb ed="#P" n="85"/>respondendum est affirmatiue; sic enim
-      Ma<lb ed="#P" n="86" break="no"/>ster in littera probat per auctoritatem D. P. 
-      <lb ed="#P" n="87"/>Aug. Sed per quem modum hoc possit salua 
-      <lb ed="#P" n="88"/>ri, indiget declaratione, neque hoc est omni 
-      <lb ed="#P" n="89"/>no leue; &amp; duo sunt quae faciunt hic diffi 
-      <lb ed="#P" n="90"/>cultatem. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e581">
-               <lb ed="#P" n="91"/>Primum est, quia dictum fuit, quod
-      mis<lb ed="#P" n="92" break="no"/>sio dicit auctoritatis collationem ex parte 
-      <lb ed="#P" n="93"/>mittentis; constat autem, quod nulla
-      perso<lb ed="#P" n="94" break="no"/>na confert esse, &amp; auctoritatem sibiipsi;
-      er<lb ed="#P" n="95" break="no"/>go nulla persona mittit seipsam. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e595">
-               <lb ed="#P" n="96"/>Secundum est, quia sicut pater ex eo quod 
-      <lb ed="#P" n="97"/>non est ab alio, ita mittit quod non mittitur, 
-      <lb ed="#P" n="98"/>sic per oppositum filius, &amp; Spiritus
-      San<lb ed="#P" n="99" break="no"/>ctus inquantum sunt ab alio; ita videntur, 
-      <lb ed="#P" n="100"/>mutti, quod nullo modo mittantur, &amp; sic neu 
-      <lb ed="#P" n="101"/>ter eorum mittit se ipsum 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e611">
-               <lb ed="#P" n="102"/>His tamen non obstantibus dicedum est, 
-      <lb ed="#P" n="103"/>sicut prius, nisi velimus contradicere P.
-      Au<lb ed="#P" n="104" break="no"/>gust. &amp; Magistro; Dimissis ergo aliorum
-      mo<lb ed="#P" n="105" break="no"/>dis dicendi, quia forte non satisfaciunt, dico 
-      <!--393.xml-->
-      <pb ed="#P" n="368"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>solum, quod mihi melius videtur in
-      pro<lb ed="#P" n="2" break="no"/>posito. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e633">
-               <lb ed="#P" n="3"/>Aduertendo prius, quod in persona
-      mit<lb ed="#P" n="4" break="no"/>tente tria sunt consideranda, scilicet
-      au<lb ed="#P" n="5" break="no"/>ctoritatis plenitudo, auctoritatis collatio, 
-      <lb ed="#P" n="6"/>&amp; collatae auctoritatis manifestatio; quae 
-      <lb ed="#P" n="7"/>facile patere possunt, nam quod in persona 
-      <lb ed="#P" n="8"/>mittente sit auctoritatis plenitudo apparet, 
-      <lb ed="#P" n="9"/>quia si eam non haberet, non posset illam  
-      <lb ed="#P" n="10"/>alteri personae conferre, &amp; per consequens 
-      <lb ed="#P" n="11"/>nec eam mittere. Quod etiam habeat vim 
-      <lb ed="#P" n="12"/>eandem auctoritatem conferendi, apparet 
-      <lb ed="#P" n="13"/>ex dictis supra: similiter quod manifestetur 
-      <lb ed="#P" n="14"/>ex missione haec auctoritatis collatio
-      decla<lb ed="#P" n="15" break="no"/>ratur per <ref xml:id="gsX5tY-d1e559-Rd1e663" corresp="#gsX5tY-d1e559-Qd1e668">P. August. 4. de Trinit. cap. 20.</ref> 
-               <lb ed="#P" n="16"/>dicentem, quod <quote xml:id="gsX5tY-d1e559-Qd1e668" source="http://scta.info/resource/adt-l4-d1e643@52-69">sicut natum esse est filio a 
-        Pa<lb ed="#P" n="17" break="no"/>tre esse; ita mitti est filio cognosci, quod ab  
-        <lb ed="#P" n="18"/>illo sit</quote>: ex quibus apparet, quod missio
-      ma<lb ed="#P" n="19" break="no"/>nifestat personam missam originari a mitten 
-      <lb ed="#P" n="20"/>te; &amp; per consequens trahere ab eadem esse, 
-      <lb ed="#P" n="21"/>&amp; auctoritatem: Talis autem manifestatio 
-      <lb ed="#P" n="22"/>non fit nisi per nouum effectum in natura ra 
-      <lb ed="#P" n="23"/>tionali tantum, &amp; quia talem effectum cau 
-      <lb ed="#P" n="24"/>sat non solum persona missa, sed etiam perso 
-      <lb ed="#P" n="25"/>na mittens, cum sit toti Trinitati communis; 
-      <lb ed="#P" n="26"/>idcirco per manifestationem originis
-      perso<lb ed="#P" n="27" break="no"/>nae missae a persona mittente, &amp; per
-      manife<lb ed="#P" n="28" break="no"/>stationem collatae auctoritatis per eam vtraque 
-      <lb ed="#P" n="29"/>persona, scilicet nittens, &amp; missa idem 
-      ope<lb ed="#P" n="30" break="no"/>ratur, eo quod vtraque persona facit illum 
-      ef<lb ed="#P" n="31" break="no"/>fectum, per quem est talis manifestatio.
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e704">
-               <lb ed="#P" n="32"/>Ad propositum ergo dico, quod si consi 
-      <lb ed="#P" n="33"/>deremus pienitudinem auctoritatis, quae est 
-      <lb ed="#P" n="34"/>in persona mittente, cum eadem plenitudo 
-      <lb ed="#P" n="35"/>sit in persona missa, potest verisicari perso 
-      <lb ed="#P" n="36"/>nam mittere seipsam: &amp; ideo filius, &amp;
-      Spiri<lb ed="#P" n="37" break="no"/>tus Sanctus non mittuntur ad modum 
-      ser<lb ed="#P" n="38" break="no"/>uorum, qui in actu missionis magis aguntur,  
-      <lb ed="#P" n="39"/>quam agant, sed mittuntur ad modum Tega 
-      <lb ed="#P" n="40"/>torum, qui sunt ex latere obtinentes plenam  
-      <lb ed="#P" n="41"/>auctoritatem. a principe mittente; propter 
-      <lb ed="#P" n="42"/>quod omnes actiones suas agunt sicut
-      prin<lb ed="#P" n="43" break="no"/>cipalis mittens: Vnde &amp; de talibus Legatis 
-      <lb ed="#P" n="44"/>potest dici, quod mittant seipsos ex eo quod 
-      <lb ed="#P" n="45"/>non agunt suas actiones, sicut serui, vel sicut  
-      <lb ed="#P" n="46"/>instrumenta; sed agunt auctoritatiue, sicut  
-      <lb ed="#P" n="47"/>ille qui mittit: &amp; si hoc potest concedi de hu 
-      <lb ed="#P" n="48"/>iusmodi Legatis, multo magis de filio, &amp; Spi 
-      <lb ed="#P" n="49"/>ritu Sancto, qui per omnia aequales sunt in 
-      <lb ed="#P" n="50"/>auctoritate ipsi Patri mittenti. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e748">
-               <lb ed="#P" n="51"/>VIterius si consideramus in mittente
-      ma<lb ed="#P" n="52" break="no"/>nifestationem auctoritatis collatae, sic etiam  
-      <lb ed="#P" n="53"/>apparet, quod persona missa mittit seipsam: 
-      <lb ed="#P" n="54"/>nam cum talis manifestatio fiat per nouum 
-      <lb ed="#P" n="55"/>effectum sanctificationis a tota Trinitate,
-      quam<lb ed="#P" n="56" break="no"/>uis sit appropriatus personae missae; idcirco 
-      <lb ed="#P" n="57"/>si ex tmonifestatione facta por talem effectum 
-      <!--393.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 368 b -->
-               <lb ed="#P" n="58"/>aliqua persona dicitur mittens, pari ratione 
-      <lb ed="#P" n="59"/>tota Trinitas dicetur mittens, &amp; per
-      conse<lb ed="#P" n="60" break="no"/>quens quaecunque persona in Trinitate erit 
-      <lb ed="#P" n="61"/>etiam mittens seipsam: hinc est quod filius 
-      <lb ed="#P" n="62"/>potest mitti a Spiritu Sancto; nam quamuis 
-      <lb ed="#P" n="63"/>non trahat originem ab eo, facit tamen illum 
-      <lb ed="#P" n="64"/>eundem effectum, quem facit pater, &amp; filius,  
-      <lb ed="#P" n="65"/>per quem manifestatur, quod filius traxerit 
-      <lb ed="#P" n="66"/>priginem, &amp; auctoritatem a patre, &amp; haec est 
-      <lb ed="#P" n="67"/>intentio <ref xml:id="gsX5tY-d1e559-Rd1e793" corresp="#gsX5tY-d1e559-Qd1e798">August. primo de Trinit cap. 5</ref>. vbi 
-      <lb ed="#P" n="68"/>ait, quod <quote xml:id="gsX5tY-d1e559-Qd1e798" source="http://scta.info/resource/adt-l2-d1e213@126-152">mitti a patre filius sine Spiritu
-      Sa<lb ed="#P" n="69" break="no"/>cto non potuit, quia cum intelligitur Patre 
-      <lb ed="#P" n="70"/>eum misisse, quia ex femina eum fecit, non 
-      <lb ed="#P" n="71"/>vtique sine Spiritu Sancto fecisse dicitur</quote>; qua 
-      <lb ed="#P" n="72"/>si dicat, quod ideo pater dicitur misisse filiu 
-      <lb ed="#P" n="73"/>in carnem, quia fecit effectum incarnationis, 
-      <lb ed="#P" n="74"/>per quem manifestatum fuit Mundo filium 
-      <lb ed="#P" n="75"/>traxisse originem a Patre, &amp; quia istum effe 
-      <lb ed="#P" n="76"/>ctum non fecit pater sine Spiritu Sancto; id 
-      <lb ed="#P" n="77"/>circo dicit August. quod si pater non fecit 
-      <lb ed="#P" n="78"/>istum effectum sine Spititu Sancto; ita nec 
-      <lb ed="#P" n="79"/>etiam misit eum sine Spiritu Sancto; Patet 
-      <lb ed="#P" n="80"/>ergo quo persona aliqua mittat seipsam 
-      <lb ed="#P" n="81"/>quantum ad istas duas conditiones.
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e830">
-               <lb ed="#P" n="82"/>Si autem consideramus illam conditionem 
-      <lb ed="#P" n="83"/>persone mittentis, scilicet quod det
-      auctori<lb ed="#P" n="84" break="no"/>tatem personae missae, sic persona non mittit 
-      <lb ed="#P" n="85"/>seipsam, quia non confert sibi ipsi
-      auctori<lb ed="#P" n="86" break="no"/>tatem, &amp; ideo dicebat Saluator lo 8. 2 me 
-      <lb ed="#P" n="87"/>ipso non veni: ex quibus concludo, quod mis 
-      <lb ed="#P" n="88"/>sio actiue sumpta conuenit toti Trinitati, non 
-      <lb ed="#P" n="89"/>tamen aeque proprie, quia Spiritus Sanctus,  
-      <lb ed="#P" n="90"/>cum non conferat auctoritatem alteri perso 
-      <lb ed="#P" n="91"/>nae, non ita proprie dicicur mittens, sicut pa 
-      <lb ed="#P" n="92"/>ter, &amp; filius.  
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e857">
-               <lb ed="#P" n="93"/>His visis soluuntur illa duo dubia superi 
-      <lb ed="#P" n="94"/>posita; Ad primum concedo quod nulla e 
-      <lb ed="#P" n="95"/>sona sic mittat seipsam, quod sibi ipsi confe 
-      <lb ed="#P" n="96"/>rat auctoritatem. Ad secundum dico quod 
-      <lb ed="#P" n="97"/>non est simile de missione sumpta actiue, &amp;  
-      <lb ed="#P" n="98"/>passiue, quia ad hoc vt aliqua persona
-      mit<lb ed="#P" n="99" break="no"/>tatur passiue, requiritur necessario quod ac 
-      <lb ed="#P" n="100"/>cipiat esse, &amp; auctoritate ab alia, sed ad hot,  
-      <lb ed="#P" n="101"/>quod mittat actiue sufficit, quod agat acti 
-      <lb ed="#P" n="102"/>ue, sicut persona, quae principaliter dicitur 
-      <lb ed="#P" n="103"/>mittens, &amp; quod vlterius manifestat per
-      ef<lb ed="#P" n="104" break="no"/>fectum se habere originem, &amp; auctoritatem  
-      <lb ed="#P" n="105"/>ab alia persona, &amp; sic saluamus aliquam per 
-      <lb ed="#P" n="106"/>sonam mittere seipsam. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e890">
-               <lb ed="#P" n="107"/>ARTICVLVS QV.ARTVS. 
-      <lb ed="#P" n="108"/>Vtrum missio filij separetur a missione 
-      <lb ed="#P" n="109"/>Spiritus. Sancti.
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e899">
-               <lb ed="#P" n="110"/>D hoc est breuiter dicendum, quod si 
-      <lb ed="#P" n="111"/>quaeratur vtrum missio filij separetur 
-      <!--394.xml-->
-      <pb ed="#P" n="369"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>a missione Spiritus Sancti per distinctionem 
-      <lb ed="#P" n="2"/>rationis concedo, quod sic: Quod patet ex 
-      <lb ed="#P" n="3"/>duobus: Primo, quia missio includit
-      proces<lb ed="#P" n="4" break="no"/>sionem personae missae: Cum ergo sit alia pr 
-      <lb ed="#P" n="5"/>cessio personae filij, &amp; alia personae Spiritus 
-      <lb ed="#P" n="6"/>Sancti, sequitur, quod alia sit missio vnius,  
-      <lb ed="#P" n="7"/>&amp; alia alterius. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e928">
-               <lb ed="#P" n="8"/>Secundo, quia missio dicit nouum effectu 
-      <lb ed="#P" n="9"/>sanctificationis; hic autem effectus sanctifica 
-      <lb ed="#P" n="10"/>tionis oportet, quod fiat quantum ad
-      intel<lb ed="#P" n="11" break="no"/>lectum, &amp; voluntatem, quia secundum istas 
-      <lb ed="#P" n="12"/>duas potentias Deo coniungimur, propter 
-      <lb ed="#P" n="13"/>quod indigemus alio dono quantum ad
-      in<lb ed="#P" n="14" break="no"/>tellectum, &amp; alio quantum ad voluntatem; 
-      <lb ed="#P" n="15"/>&amp; quia donum intellectus appropriatur
-      fi<lb ed="#P" n="16" break="no"/>lio, &amp; habetur per missionem eius; donum 
-      <lb ed="#P" n="17"/>vero voluntatis habetur per missionem Spi- 
-      <lb ed="#P" n="18"/>ritus Sancti, &amp; est illi appropriatus: Idcirco 
-      <lb ed="#P" n="19"/>sequitur, quod missio filij sit distincta a
-      mis<lb ed="#P" n="20" break="no"/>sione Spiritus Sancti, non solum, prout
-      mis<lb ed="#P" n="21" break="no"/>sio dicit processionem, sed etiam, vt dicit ope 
-      <lb ed="#P" n="22"/>ris executionem, scilicet nouum effectum in 
-      <lb ed="#P" n="23"/>creatura productum 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e965">
-               <lb ed="#P" n="24"/>Sed si quaeratur vtrum missio filij
-      separe<lb ed="#P" n="25" break="no"/>tur a missione Spiritus Sancti, quantum ad 
-      <lb ed="#P" n="26"/>veram distinctionem, ita quod vna possit fic 
-      <lb ed="#P" n="27"/>ri sine alia; sic dicendum est, quod non, &amp; fa 
-      <lb ed="#P" n="28"/>cile declaratur: Constat enim, quod per mis 
-      <lb ed="#P" n="29"/>sionem personae diuinae fit santificatio
-      crea<lb ed="#P" n="30" break="no"/>turae rationalis, quae quidem sanctificatio non 
-      <lb ed="#P" n="31"/>potest fieri per solum donum intellectus, vel 
-      <lb ed="#P" n="32"/>voluntatis, sed exigit vtrunque donum, &amp; 
-      <lb ed="#P" n="33"/>per consequens concurrit ibi necessario mis 
-      <lb ed="#P" n="34"/>sio vtriusque personae. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e991">
-               <lb ed="#P" n="35"/>Et confirmatur, quia si creatura rationalis 
-      <lb ed="#P" n="36"/>posset sanctificari per solam missionem filij, 
-      <lb ed="#P" n="37"/>sequeretur, quod posset amari a silio, &amp; non 
-      <lb ed="#P" n="38"/>amaretur a Spiritu Sancto; &amp; per consequens 
-      <lb ed="#P" n="39"/>eodem modo posset amare filium non
-      amam<lb ed="#P" n="40" break="no"/>do Spiritum Sanctum, quod est impossibile: 
-      <lb ed="#P" n="41"/>Consequentiam probo; Nam sicut filius amat 
-      <lb ed="#P" n="42"/>creaturam rationalem, &amp; amatur ab ea amo 
-      <lb ed="#P" n="43"/>re gratuito, cum eam sanctificat per suam
-      mis<lb ed="#P" n="44" break="no"/>sionem, ita &amp; Spiritus Sanctus: si ergo filius 
-      <lb ed="#P" n="45"/>posset ad eam mitti, eamque sanctificare sine 
-      <lb ed="#P" n="46"/>Spiritu Sancto, sequeretur necessario, quod 
-      <lb ed="#P" n="47"/>posset eam amare, &amp; ab ea amari sine Spiri- 
-      <lb ed="#P" n="48"/>tu Sancto. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e1025">
-               <lb ed="#P" n="49"/>AD ARGVMENTA 
-      <lb ed="#P" n="50"/>principalia.  
-      <lb ed="#P" n="51"/>AD primum dico, quod sunt in diuinis 
-      <lb ed="#P" n="52"/>est missio sine motu locali, quia ille 
-      <lb ed="#P" n="53"/>motus dicit imperfectionem, quae non est po 
-      <lb ed="#P" n="54"/>nenda in diuinis, &amp; sic non quantum ad om 
-      <lb ed="#P" n="55"/>nes conditiones est ibi collocanda 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e1043">
-               <lb ed="#P" n="56"/>Ad secundum dico, quod missio potest du 
-      <lb ed="#P" n="57"/>pliciter considerari, vel utum ad collationem 
-      <!--394.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 369 b -->
-               <lb ed="#P" n="58"/>auctoritatis, vel quantum ad executionem 
-      <lb ed="#P" n="59"/>operis : Primo modo non est communis toti 
-      <lb ed="#P" n="60"/>Trinitati, sed secundo modo. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e1063">
-               <lb ed="#P" n="61"/>Ad tertium dico, quod si consideretur ple 
-      <lb ed="#P" n="62"/>nitudo, &amp; manifestatio auctoritatis tunc 
-      <lb ed="#P" n="63"/>personae, quae mittuntur possunt
-      mitte<lb ed="#P" n="64" break="no"/>re seipsas: Si vero consideretur missio quan 
-      <lb ed="#P" n="65"/>tum ad collationem auctoritatis, sic vna
-      mit<lb ed="#P" n="66" break="no"/>titur, &amp; alia mittit. 
-    </p>
-            <p xml:id="gsX5tY-d1e559-d1e1079">
-               <lb ed="#P" n="67"/>Ad quartum dico, quod missio filij
-      sepa<lb ed="#P" n="68" break="no"/>ratur a missione Spiritus Sancti quantum 
-      <lb ed="#P" n="69"/>ad effectum sanctificationis, secundum ratio 
-      <lb ed="#P" n="70"/>nem non autem vere, &amp; proprie, ita vt vna 
-      <lb ed="#P" n="71"/>possit fieri sine alterarone sactificationis tamen 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="366"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e559"> <!-- l1d15q1 -->
+        <head xml:id="gsX5tY-d1e559-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e559-Hd1e112" type="question-title">Utrum missio sit communis toti Trinitati</head>
+        <p xml:id="gsX5tY-d1e559-d1e115">
+          <lb ed="#P" n="18"/>DISTINCTIONIS XV 
+          <lb ed="#P" n="19"/>QVAESTIO VNICA 
+          <lb ed="#P" n="20"/>Vtrum missio sit communis toti Trinitati 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e124">
+          <lb ed="#P" n="21"/>ARGVITVR PR PARTE 
+          <lb ed="#P" n="22"/>negatiua. 
+          <lb ed="#P" n="23"/>IILlud, quod nullo modo est ponendum in 
+          <lb ed="#P" n="24"/>diuinis, non potest dici commune toti Pri 
+          <lb ed="#P" n="25"/>nitati; missio est huiusmodi; ergo &amp;c. Maior 
+          <lb ed="#P" n="26"/>patet, Minorem probo, quia missio dicit mu 
+          <lb ed="#P" n="27"/>tationem, &amp; separationem missi a mittente, 
+          <lb ed="#P" n="28"/>quod omnino remouendum est a diuinis,  
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e145">
+          <lb ed="#P" n="29"/>2 Si missio esset communis toti
+          Trinita<lb ed="#P" n="30" break="no"/>ti, tunc esset quid essentiale, &amp; non notiona 
+          <lb ed="#P" n="31"/>le: sed hoc est falsum per P. Aug. 10 de Tri- 
+          <lb ed="#P" n="32"/>nitate cap. 20. vbi ait, quod mitti filium est 
+          <lb ed="#P" n="33"/>cognoscere ipsum ab alio esse, quod non
+          ha<lb ed="#P" n="34" break="no"/>beret veritatem, nisi missio esset quid
+          pro<lb ed="#P" n="35" break="no"/>prium, &amp; notionale. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e163">
+          <lb ed="#P" n="36"/>3 Si esset communis Trinitati
+          sequere<lb ed="#P" n="37" break="no"/>tur, quod quaelibet persona mitteret se ipsam; 
+          <lb ed="#P" n="38"/>hoc est falsum; ergo. Consequentia est nota, 
+          <lb ed="#P" n="39"/>quia actiones communes toti Trinitati videm 
+          <lb ed="#P" n="40"/>tur posse reciprocari in qualibet persona: 
+          <lb ed="#P" n="41"/>Dicimus enim, quod pater intelligit filium 
+          <lb ed="#P" n="42"/>&amp; intelligit se eodem modo; ergo poterimus 
+          <lb ed="#P" n="43"/>dicere, quod mittit filium, &amp; mittit se:
+          Falsi<lb ed="#P" n="44" break="no"/>tatem probo, per <ref xml:id="gsX5tY-d1e559-Rd1e184" corresp="#gsX5tY-d1e559-Qd1e190">Aug. 2. de Trinit. cap. 2</ref> dice 
+          <lb ed="#P" n="45"/>tem quod <quote xml:id="gsX5tY-d1e559-Qd1e190" source="http://scta.info/resource/adt-l2-d1e213@24-29">pater nunquam legitur missus</quote>
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e194">
+          <lb ed="#P" n="46"/>4 Sequeretur, quod missio filij non
+          pos<lb ed="#P" n="47" break="no"/>set separari a missione Spiritus Sancti, cuius 
+          <lb ed="#P" n="48"/>contrarium videmus, quia dona intellectus. 
+          <lb ed="#P" n="49"/>cum quibus mittitur filius, possunt conferri 
+          <!--391.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 366 b -->
+          <lb ed="#P" n="50"/>sine donis voluntatis, cum quibus mirtitur 
+          <lb ed="#P" n="51"/>Spiritus Sanctus: Fuit etiam missus filius in 
+          <lb ed="#P" n="52"/>carne, &amp; non Spiritus Sanctus; ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e218">
+          <lb ed="#P" n="53"/>ARGVITVR ADPARTEM 
+          <lb ed="#P" n="54"/>affirmantem. 
+          <lb ed="#P" n="55"/>Issio idem est, quod temporalis dona 
+          <lb ed="#P" n="56"/>LVI tio, sed haec est communis toti Trini 
+          <lb ed="#P" n="57"/>tati, quia tota Trinitas se donat, ergo. 
+          <lb ed="#P" n="58"/>2 Missio videtur idem esse, quod persone 
+          <lb ed="#P" n="59"/>missae manifestatio, hoc autem potest compe 
+          <lb ed="#P" n="60"/>tere omnibus personis; ergo &amp;c. Maior
+          po<lb ed="#P" n="61" break="no"/>test probari per <ref xml:id="gsX5tY-d1e559-Rd1e239" corresp="#gsX5tY-d1e559-Qd1e245">P. Aug. 4 de Trinit. cap. 20.</ref>  
+          <lb ed="#P" n="62"/>vbi ait quod filius mittitur, <quote xml:id="gsX5tY-d1e559-Qd1e245" source="http://scta.info/resource/adt-l4-d1e640@85-91">eo quod ex tem 
+            <lb ed="#P" n="63"/>pore cuiuscunque mente percipitur</quote>. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e251">
+          <lb ed="#P" n="64"/>RESPONDEO: In ista quaestione
+          qua<lb ed="#P" n="65" break="no"/>tuor sunt videnda, quae tanguntur in
+          argu<lb ed="#P" n="66" break="no"/>mentis propositis. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e260">
+          <lb ed="#P" n="67"/>1 Quid sit missio, &amp; quomodo
+          ponen<lb ed="#P" n="68" break="no"/>da sit in diuinis.  
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e268">
+          <lb ed="#P" n="69"/>2 Vtrum missio in diuinis sit quid
+          essen<lb ed="#P" n="70" break="no"/>tiale, vel quid notionale. 
+          <lb ed="#P" n="71"/>3 Vtrum quaelibet persona mittat se 
+          <lb ed="#P" n="72"/>ipsam. 
+          <lb ed="#P" n="73"/>4 Vtrum separetur missio filij a missione 
+          <lb ed="#P" n="74"/>Spiritus Sancti. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e284">
+          <lb ed="#P" n="75"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="76"/>Quid sit missio, &amp; quomodo est
+          ponen<lb ed="#P" n="77" break="no"/>da in diuinis.  
+          <lb ed="#P" n="78"/>Ro hoc articulo primo intelligendum 
+          <lb ed="#P" n="79"/>est, quod in missione tria sunt
+          conside<lb ed="#P" n="80" break="no"/>randa, scilicet mittens, missus, &amp; termi 
+          <lb ed="#P" n="81"/>nus ad quem mittitur: Ex parte mittentis 
+          <lb ed="#P" n="82"/>ibi est auctoritatis collatio, quia mittens dat 
+          <lb ed="#P" n="83"/>auctoritatem misso, sicut Papamittens
+          lega<lb ed="#P" n="84" break="no"/>tum dat ei suam auctoritate. Ex parte missi 
+          <lb ed="#P" n="85"/>est ibi mutatio, Tegatus n accepta
+          auctorita<lb ed="#P" n="86" break="no"/>te a Papa mouetur ad exequendum ea, quae 
+          <lb ed="#P" n="87"/>sunt sibi commissa: Ex parte vero termini ad 
+          <lb ed="#P" n="88"/>quem est missio, est ibi operis executio; nam  
+          <lb ed="#P" n="89"/>videmus, quod vbi primum Legatus puenerit 
+          <lb ed="#P" n="90"/>ad locum ad quem mittitur, mcipit exequi 
+          <lb ed="#P" n="91"/>ea, quae sibi commissa fuerunt 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e323">
+          <lb ed="#P" n="92"/>Haec autem tria ita se habent, quod solum 
+          <lb ed="#P" n="93"/>duo competunt missioni secundum se,
+          scili<lb ed="#P" n="94" break="no"/>cet auctoritatis collatio, &amp; operis executio: 
+          <lb ed="#P" n="95"/>Nam quod ibi sit mutatio, vel separatio missi 
+          <lb ed="#P" n="96"/>a mittente, hoc non prouenit ex parte missio 
+          <lb ed="#P" n="97"/>nis, sed ex imperfectione, &amp; diminutione
+          ip<lb ed="#P" n="98" break="no"/>sius missi; si enim missus ita esset perfectus,  
+          <lb ed="#P" n="99"/>&amp; illimitatus, quod vbique esset praesens, non 
+          <lb ed="#P" n="100"/>moueretur nec separaretur ab ipso mittente. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e345">
+          <lb ed="#P" n="101"/>In diuinis ergo possumus ponere:
+          missio<lb ed="#P" n="102" break="no"/>nem quantum ad ea, quae sibi competunt se 
+          <lb ed="#P" n="103"/>cundum se, remota imperfectione, quae est 
+          <!--392.xml-->
+          <pb ed="#P" n="367"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ibi ratione missi; &amp; ideo est ibi missio quantum 
+          <lb ed="#P" n="2"/>ad auctoritatis collationem, &amp; ad operis exe 
+          <lb ed="#P" n="3"/>cutionem: Eest enim vere aucto itatis collatio 
+          <lb ed="#P" n="4"/>ratione personae mittentis; quia sicut dat esse 
+          <lb ed="#P" n="5"/>personae per originem, ita potest dare
+          aucto<lb ed="#P" n="6" break="no"/>ritatem eidem personae dum mittitur. Est etiam 
+          <lb ed="#P" n="7"/>ibi operis executio in termino ad quem est 
+          <lb ed="#P" n="8"/>missio, puta ipsa sanctificatio, quam persona 
+          <lb ed="#P" n="9"/>missa in creatura rationali, quae videtur esse 
+          <lb ed="#P" n="10"/>terminus istius missionis, operatur. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e382">
+          <lb ed="#P" n="11"/>Ex hoc apparet missionem esse idem cum 
+          <lb ed="#P" n="12"/>processione temporali quantum ad rem
+          si<lb ed="#P" n="13" break="no"/>gnificatam: Nam vtrumque istorum
+          impor<lb ed="#P" n="14" break="no"/>tat duo, scilicet originem personae a persona, 
+          <lb ed="#P" n="15"/>&amp; nouum effectum sanctificationis in
+          crea<lb ed="#P" n="16" break="no"/>tura rationali; Differunt autem in modo
+          signi<lb ed="#P" n="17" break="no"/>ficandi, quia missio significat totum hoc sub 
+          <lb ed="#P" n="18"/>vno nomine, processio autem temporalis sub 
+          <lb ed="#P" n="19"/>pluribus nominibus; &amp; ideo sicut processio 
+          <lb ed="#P" n="20"/>temporalis addit supra processionem simpli 
+          <lb ed="#P" n="21"/>citer nouum effectum sanctificationis; ita et 
+          <lb ed="#P" n="22"/>&amp; ipsa missio Apparet ergo quid sit missio, 
+          <lb ed="#P" n="23"/>&amp; quomodo ponenda sit in diuinis
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e413">
+          <lb ed="#P" n="24"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="25"/>Vtrum missio sit quid essentiale, vel 
+          <lb ed="#P" n="26"/>notionale.
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e423">
+          <lb ed="#P" n="27"/>I&amp; dictis in praecedenti articulo facile 
+          <lb ed="#P" n="28"/>responderi potest huic quaesito: Nam  
+          <lb ed="#P" n="29"/>dictum est ibi, quod missio importat
+          colla<lb ed="#P" n="30" break="no"/>tionem auctoritatis ex parte mittentis, collatio 
+          <lb ed="#P" n="31"/>vero auctoritatis ex parte mittentis est actus 
+          <lb ed="#P" n="32"/>notionalis; quia dat intelligere originem, &amp;  
+          <lb ed="#P" n="33"/>distinctionem personalem: per notionalia
+          n<lb ed="#P" n="34" break="no"/>intelligimus omnia illa, quae notificant distin 
+          <lb ed="#P" n="35"/>etionem personarum, quia notionalia a noti 
+          <lb ed="#P" n="36"/>ficando sunt dicta; essentialia vero dicuntur 
+          <lb ed="#P" n="37"/>omnia illa, quae sunt communia toti
+          Trinita<lb ed="#P" n="38" break="no"/>ti, quia essentialia dicuntur ab essentia, quae 
+          <lb ed="#P" n="39"/>est communis tribus: ldcirco cum quaeritur,  
+          <lb ed="#P" n="40"/>vtrum missio sit quid essentiale, vel notiona 
+          <lb ed="#P" n="41"/>le, patet quid sit dicendum: Nam inquantum 
+          <lb ed="#P" n="42"/>importat collationem auctoritatis ex parte 
+          <lb ed="#P" n="43"/>mittentis, sic dicit quid notionale, inquantum 
+          <lb ed="#P" n="44"/>vero importat executionem operis in
+          termi<lb ed="#P" n="45" break="no"/>no ad quem, sic dicit quid essentiale; quia 
+          <lb ed="#P" n="46"/>ista operis executio non est a sola persona 
+          <lb ed="#P" n="47"/>missa, sed a tota Trinitate, nam tota
+          Trini<lb ed="#P" n="48" break="no"/>tas sanctificat rationalem creaturam, opera 
+          <lb ed="#P" n="49"/>enim Trinitatis ad extra sunt indiuisa¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e475">
+          <lb ed="#P" n="50"/>Sed quaeret aliquis quid principalius. 
+          <lb ed="#P" n="51"/>de ratione missionis; An illud notionale, quod 
+          <lb ed="#P" n="52"/>est collatio auctoritatis, Vel illud essentiale, 
+          <!--392.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 367 b -->
+          <lb ed="#P" n="53"/>quod est executio operis. 
+          <lb ed="#P" n="54"/>Ad quod videtur dicendum, quod princi 
+          <lb ed="#P" n="55"/>palius dicat quid essentiale propter duo. 
+          <lb ed="#P" n="56"/>Primo, quia missio in suo modo
+          significam<lb ed="#P" n="57" break="no"/>di videtur importare tendentiam in aliquem  
+          <lb ed="#P" n="58"/>terminum, omnis autem tendentia denomi- 
+          <lb ed="#P" n="59"/>natur, &amp; specificatur a termino, &amp; per
+          con<lb ed="#P" n="60" break="no"/>sequens illud, quod competit missioni ex par 
+          <lb ed="#P" n="61"/>te termini, videtur sibi principalius
+          con<lb ed="#P" n="62" break="no"/>uenire. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e512">
+          <lb ed="#P" n="63"/>Secundo, quia missio, quantum ad illud 
+          <lb ed="#P" n="64"/>notionale quod dicit, est idem quod origo, 
+          <lb ed="#P" n="65"/>vel processio; differt tamen ab ea per illud es 
+          <lb ed="#P" n="66"/>sentiale, quod est operis executio: Nam dice 
+          <lb ed="#P" n="67"/>batur superius, quod missio addebat supra 
+          <lb ed="#P" n="68"/>processionem simpliciter nouum effectum  
+          <lb ed="#P" n="69"/>sanctificationis: Illud ergo, quod est in
+          mis<lb ed="#P" n="70" break="no"/>sione essentiale, se habet ad modum differen 
+          <lb ed="#P" n="71"/>tiae propriae, &amp; constitutiuae; &amp; per
+          conse<lb ed="#P" n="72" break="no"/>quens sibi principalius competit: Et haec do 
+          <lb ed="#P" n="73"/>praesenti articulo.  
+          <lb ed="#P" n="74"/>I 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e541">
+          <lb ed="#P" n="75"/>ARTICVLVS TERTIVS. 
+          <lb ed="#P" n="76"/>Vtrum quaelibet persona mittat se ipsam.
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e548">
+          <lb ed="#P" n="77"/>AD hoc est dicendum, quod si aliqua 
+          <lb ed="#P" n="78"/>persona est in diuinis, quae nullo
+          mo<lb ed="#P" n="79" break="no"/>do mittatur, etiam nullo modo mittit
+          seip<lb ed="#P" n="80" break="no"/>sam: &amp; quia persona Patris nunquam
+          legi<lb ed="#P" n="81" break="no"/>tur missa (vt superius dicebatur) idcirco
+          pa<lb ed="#P" n="82" break="no"/>ter nullo modo mittit seipsum. Remanet er- 
+          <lb ed="#P" n="83"/>go dubium de filio, &amp; Spiritu Sancto; Vtrum 
+          <lb ed="#P" n="84"/>quando mittuntur mittant seipsos: Ad quod 
+          <lb ed="#P" n="85"/>respondendum est affirmatiue; sic enim
+          Ma<lb ed="#P" n="86" break="no"/>ster in littera probat per auctoritatem D. P. 
+          <lb ed="#P" n="87"/>Aug. Sed per quem modum hoc possit salua 
+          <lb ed="#P" n="88"/>ri, indiget declaratione, neque hoc est omni 
+          <lb ed="#P" n="89"/>no leue; &amp; duo sunt quae faciunt hic diffi 
+          <lb ed="#P" n="90"/>cultatem. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e581">
+          <lb ed="#P" n="91"/>Primum est, quia dictum fuit, quod
+          mis<lb ed="#P" n="92" break="no"/>sio dicit auctoritatis collationem ex parte 
+          <lb ed="#P" n="93"/>mittentis; constat autem, quod nulla
+          perso<lb ed="#P" n="94" break="no"/>na confert esse, &amp; auctoritatem sibiipsi;
+          er<lb ed="#P" n="95" break="no"/>go nulla persona mittit seipsam. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e595">
+          <lb ed="#P" n="96"/>Secundum est, quia sicut pater ex eo quod 
+          <lb ed="#P" n="97"/>non est ab alio, ita mittit quod non mittitur, 
+          <lb ed="#P" n="98"/>sic per oppositum filius, &amp; Spiritus
+          San<lb ed="#P" n="99" break="no"/>ctus inquantum sunt ab alio; ita videntur, 
+          <lb ed="#P" n="100"/>mutti, quod nullo modo mittantur, &amp; sic neu 
+          <lb ed="#P" n="101"/>ter eorum mittit se ipsum 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e611">
+          <lb ed="#P" n="102"/>His tamen non obstantibus dicedum est, 
+          <lb ed="#P" n="103"/>sicut prius, nisi velimus contradicere P.
+          Au<lb ed="#P" n="104" break="no"/>gust. &amp; Magistro; Dimissis ergo aliorum
+          mo<lb ed="#P" n="105" break="no"/>dis dicendi, quia forte non satisfaciunt, dico 
+          <!--393.xml-->
+          <pb ed="#P" n="368"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>solum, quod mihi melius videtur in
+          pro<lb ed="#P" n="2" break="no"/>posito. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e633">
+          <lb ed="#P" n="3"/>Aduertendo prius, quod in persona
+          mit<lb ed="#P" n="4" break="no"/>tente tria sunt consideranda, scilicet
+          au<lb ed="#P" n="5" break="no"/>ctoritatis plenitudo, auctoritatis collatio, 
+          <lb ed="#P" n="6"/>&amp; collatae auctoritatis manifestatio; quae 
+          <lb ed="#P" n="7"/>facile patere possunt, nam quod in persona 
+          <lb ed="#P" n="8"/>mittente sit auctoritatis plenitudo apparet, 
+          <lb ed="#P" n="9"/>quia si eam non haberet, non posset illam  
+          <lb ed="#P" n="10"/>alteri personae conferre, &amp; per consequens 
+          <lb ed="#P" n="11"/>nec eam mittere. Quod etiam habeat vim 
+          <lb ed="#P" n="12"/>eandem auctoritatem conferendi, apparet 
+          <lb ed="#P" n="13"/>ex dictis supra: similiter quod manifestetur 
+          <lb ed="#P" n="14"/>ex missione haec auctoritatis collatio
+          decla<lb ed="#P" n="15" break="no"/>ratur per <ref xml:id="gsX5tY-d1e559-Rd1e663" corresp="#gsX5tY-d1e559-Qd1e668">P. August. 4. de Trinit. cap. 20.</ref> 
+          <lb ed="#P" n="16"/>dicentem, quod <quote xml:id="gsX5tY-d1e559-Qd1e668" source="http://scta.info/resource/adt-l4-d1e643@52-69">sicut natum esse est filio a 
+            Pa<lb ed="#P" n="17" break="no"/>tre esse; ita mitti est filio cognosci, quod ab  
+            <lb ed="#P" n="18"/>illo sit</quote>: ex quibus apparet, quod missio
+          ma<lb ed="#P" n="19" break="no"/>nifestat personam missam originari a mitten 
+          <lb ed="#P" n="20"/>te; &amp; per consequens trahere ab eadem esse, 
+          <lb ed="#P" n="21"/>&amp; auctoritatem: Talis autem manifestatio 
+          <lb ed="#P" n="22"/>non fit nisi per nouum effectum in natura ra 
+          <lb ed="#P" n="23"/>tionali tantum, &amp; quia talem effectum cau 
+          <lb ed="#P" n="24"/>sat non solum persona missa, sed etiam perso 
+          <lb ed="#P" n="25"/>na mittens, cum sit toti Trinitati communis; 
+          <lb ed="#P" n="26"/>idcirco per manifestationem originis
+          perso<lb ed="#P" n="27" break="no"/>nae missae a persona mittente, &amp; per
+          manife<lb ed="#P" n="28" break="no"/>stationem collatae auctoritatis per eam vtraque 
+          <lb ed="#P" n="29"/>persona, scilicet nittens, &amp; missa idem 
+          ope<lb ed="#P" n="30" break="no"/>ratur, eo quod vtraque persona facit illum 
+          ef<lb ed="#P" n="31" break="no"/>fectum, per quem est talis manifestatio.
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e704">
+          <lb ed="#P" n="32"/>Ad propositum ergo dico, quod si consi 
+          <lb ed="#P" n="33"/>deremus pienitudinem auctoritatis, quae est 
+          <lb ed="#P" n="34"/>in persona mittente, cum eadem plenitudo 
+          <lb ed="#P" n="35"/>sit in persona missa, potest verisicari perso 
+          <lb ed="#P" n="36"/>nam mittere seipsam: &amp; ideo filius, &amp;
+          Spiri<lb ed="#P" n="37" break="no"/>tus Sanctus non mittuntur ad modum 
+          ser<lb ed="#P" n="38" break="no"/>uorum, qui in actu missionis magis aguntur,  
+          <lb ed="#P" n="39"/>quam agant, sed mittuntur ad modum Tega 
+          <lb ed="#P" n="40"/>torum, qui sunt ex latere obtinentes plenam  
+          <lb ed="#P" n="41"/>auctoritatem. a principe mittente; propter 
+          <lb ed="#P" n="42"/>quod omnes actiones suas agunt sicut
+          prin<lb ed="#P" n="43" break="no"/>cipalis mittens: Vnde &amp; de talibus Legatis 
+          <lb ed="#P" n="44"/>potest dici, quod mittant seipsos ex eo quod 
+          <lb ed="#P" n="45"/>non agunt suas actiones, sicut serui, vel sicut  
+          <lb ed="#P" n="46"/>instrumenta; sed agunt auctoritatiue, sicut  
+          <lb ed="#P" n="47"/>ille qui mittit: &amp; si hoc potest concedi de hu 
+          <lb ed="#P" n="48"/>iusmodi Legatis, multo magis de filio, &amp; Spi 
+          <lb ed="#P" n="49"/>ritu Sancto, qui per omnia aequales sunt in 
+          <lb ed="#P" n="50"/>auctoritate ipsi Patri mittenti. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e748">
+          <lb ed="#P" n="51"/>VIterius si consideramus in mittente
+          ma<lb ed="#P" n="52" break="no"/>nifestationem auctoritatis collatae, sic etiam  
+          <lb ed="#P" n="53"/>apparet, quod persona missa mittit seipsam: 
+          <lb ed="#P" n="54"/>nam cum talis manifestatio fiat per nouum 
+          <lb ed="#P" n="55"/>effectum sanctificationis a tota Trinitate,
+          quam<lb ed="#P" n="56" break="no"/>uis sit appropriatus personae missae; idcirco 
+          <lb ed="#P" n="57"/>si ex tmonifestatione facta por talem effectum 
+          <!--393.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 368 b -->
+          <lb ed="#P" n="58"/>aliqua persona dicitur mittens, pari ratione 
+          <lb ed="#P" n="59"/>tota Trinitas dicetur mittens, &amp; per
+          conse<lb ed="#P" n="60" break="no"/>quens quaecunque persona in Trinitate erit 
+          <lb ed="#P" n="61"/>etiam mittens seipsam: hinc est quod filius 
+          <lb ed="#P" n="62"/>potest mitti a Spiritu Sancto; nam quamuis 
+          <lb ed="#P" n="63"/>non trahat originem ab eo, facit tamen illum 
+          <lb ed="#P" n="64"/>eundem effectum, quem facit pater, &amp; filius,  
+          <lb ed="#P" n="65"/>per quem manifestatur, quod filius traxerit 
+          <lb ed="#P" n="66"/>priginem, &amp; auctoritatem a patre, &amp; haec est 
+          <lb ed="#P" n="67"/>intentio <ref xml:id="gsX5tY-d1e559-Rd1e793" corresp="#gsX5tY-d1e559-Qd1e798">August. primo de Trinit cap. 5</ref>. vbi 
+          <lb ed="#P" n="68"/>ait, quod <quote xml:id="gsX5tY-d1e559-Qd1e798" source="http://scta.info/resource/adt-l2-d1e213@126-152">mitti a patre filius sine Spiritu
+            Sa<lb ed="#P" n="69" break="no"/>cto non potuit, quia cum intelligitur Patre 
+            <lb ed="#P" n="70"/>eum misisse, quia ex femina eum fecit, non 
+            <lb ed="#P" n="71"/>vtique sine Spiritu Sancto fecisse dicitur</quote>; qua 
+          <lb ed="#P" n="72"/>si dicat, quod ideo pater dicitur misisse filiu 
+          <lb ed="#P" n="73"/>in carnem, quia fecit effectum incarnationis, 
+          <lb ed="#P" n="74"/>per quem manifestatum fuit Mundo filium 
+          <lb ed="#P" n="75"/>traxisse originem a Patre, &amp; quia istum effe 
+          <lb ed="#P" n="76"/>ctum non fecit pater sine Spiritu Sancto; id 
+          <lb ed="#P" n="77"/>circo dicit August. quod si pater non fecit 
+          <lb ed="#P" n="78"/>istum effectum sine Spititu Sancto; ita nec 
+          <lb ed="#P" n="79"/>etiam misit eum sine Spiritu Sancto; Patet 
+          <lb ed="#P" n="80"/>ergo quo persona aliqua mittat seipsam 
+          <lb ed="#P" n="81"/>quantum ad istas duas conditiones.
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e830">
+          <lb ed="#P" n="82"/>Si autem consideramus illam conditionem 
+          <lb ed="#P" n="83"/>persone mittentis, scilicet quod det
+          auctori<lb ed="#P" n="84" break="no"/>tatem personae missae, sic persona non mittit 
+          <lb ed="#P" n="85"/>seipsam, quia non confert sibi ipsi
+          auctori<lb ed="#P" n="86" break="no"/>tatem, &amp; ideo dicebat Saluator lo 8. 2 me 
+          <lb ed="#P" n="87"/>ipso non veni: ex quibus concludo, quod mis 
+          <lb ed="#P" n="88"/>sio actiue sumpta conuenit toti Trinitati, non 
+          <lb ed="#P" n="89"/>tamen aeque proprie, quia Spiritus Sanctus,  
+          <lb ed="#P" n="90"/>cum non conferat auctoritatem alteri perso 
+          <lb ed="#P" n="91"/>nae, non ita proprie dicicur mittens, sicut pa 
+          <lb ed="#P" n="92"/>ter, &amp; filius.  
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e857">
+          <lb ed="#P" n="93"/>His visis soluuntur illa duo dubia superi 
+          <lb ed="#P" n="94"/>posita; Ad primum concedo quod nulla e 
+          <lb ed="#P" n="95"/>sona sic mittat seipsam, quod sibi ipsi confe 
+          <lb ed="#P" n="96"/>rat auctoritatem. Ad secundum dico quod 
+          <lb ed="#P" n="97"/>non est simile de missione sumpta actiue, &amp;  
+          <lb ed="#P" n="98"/>passiue, quia ad hoc vt aliqua persona
+          mit<lb ed="#P" n="99" break="no"/>tatur passiue, requiritur necessario quod ac 
+          <lb ed="#P" n="100"/>cipiat esse, &amp; auctoritate ab alia, sed ad hot,  
+          <lb ed="#P" n="101"/>quod mittat actiue sufficit, quod agat acti 
+          <lb ed="#P" n="102"/>ue, sicut persona, quae principaliter dicitur 
+          <lb ed="#P" n="103"/>mittens, &amp; quod vlterius manifestat per
+          ef<lb ed="#P" n="104" break="no"/>fectum se habere originem, &amp; auctoritatem  
+          <lb ed="#P" n="105"/>ab alia persona, &amp; sic saluamus aliquam per 
+          <lb ed="#P" n="106"/>sonam mittere seipsam. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e890">
+          <lb ed="#P" n="107"/>ARTICVLVS QV.ARTVS. 
+          <lb ed="#P" n="108"/>Vtrum missio filij separetur a missione 
+          <lb ed="#P" n="109"/>Spiritus. Sancti.
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e899">
+          <lb ed="#P" n="110"/>D hoc est breuiter dicendum, quod si 
+          <lb ed="#P" n="111"/>quaeratur vtrum missio filij separetur 
+          <!--394.xml-->
+          <pb ed="#P" n="369"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>a missione Spiritus Sancti per distinctionem 
+          <lb ed="#P" n="2"/>rationis concedo, quod sic: Quod patet ex 
+          <lb ed="#P" n="3"/>duobus: Primo, quia missio includit
+          proces<lb ed="#P" n="4" break="no"/>sionem personae missae: Cum ergo sit alia pr 
+          <lb ed="#P" n="5"/>cessio personae filij, &amp; alia personae Spiritus 
+          <lb ed="#P" n="6"/>Sancti, sequitur, quod alia sit missio vnius,  
+          <lb ed="#P" n="7"/>&amp; alia alterius. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e928">
+          <lb ed="#P" n="8"/>Secundo, quia missio dicit nouum effectu 
+          <lb ed="#P" n="9"/>sanctificationis; hic autem effectus sanctifica 
+          <lb ed="#P" n="10"/>tionis oportet, quod fiat quantum ad
+          intel<lb ed="#P" n="11" break="no"/>lectum, &amp; voluntatem, quia secundum istas 
+          <lb ed="#P" n="12"/>duas potentias Deo coniungimur, propter 
+          <lb ed="#P" n="13"/>quod indigemus alio dono quantum ad
+          in<lb ed="#P" n="14" break="no"/>tellectum, &amp; alio quantum ad voluntatem; 
+          <lb ed="#P" n="15"/>&amp; quia donum intellectus appropriatur
+          fi<lb ed="#P" n="16" break="no"/>lio, &amp; habetur per missionem eius; donum 
+          <lb ed="#P" n="17"/>vero voluntatis habetur per missionem Spi- 
+          <lb ed="#P" n="18"/>ritus Sancti, &amp; est illi appropriatus: Idcirco 
+          <lb ed="#P" n="19"/>sequitur, quod missio filij sit distincta a
+          mis<lb ed="#P" n="20" break="no"/>sione Spiritus Sancti, non solum, prout
+          mis<lb ed="#P" n="21" break="no"/>sio dicit processionem, sed etiam, vt dicit ope 
+          <lb ed="#P" n="22"/>ris executionem, scilicet nouum effectum in 
+          <lb ed="#P" n="23"/>creatura productum 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e965">
+          <lb ed="#P" n="24"/>Sed si quaeratur vtrum missio filij
+          separe<lb ed="#P" n="25" break="no"/>tur a missione Spiritus Sancti, quantum ad 
+          <lb ed="#P" n="26"/>veram distinctionem, ita quod vna possit fic 
+          <lb ed="#P" n="27"/>ri sine alia; sic dicendum est, quod non, &amp; fa 
+          <lb ed="#P" n="28"/>cile declaratur: Constat enim, quod per mis 
+          <lb ed="#P" n="29"/>sionem personae diuinae fit santificatio
+          crea<lb ed="#P" n="30" break="no"/>turae rationalis, quae quidem sanctificatio non 
+          <lb ed="#P" n="31"/>potest fieri per solum donum intellectus, vel 
+          <lb ed="#P" n="32"/>voluntatis, sed exigit vtrunque donum, &amp; 
+          <lb ed="#P" n="33"/>per consequens concurrit ibi necessario mis 
+          <lb ed="#P" n="34"/>sio vtriusque personae. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e991">
+          <lb ed="#P" n="35"/>Et confirmatur, quia si creatura rationalis 
+          <lb ed="#P" n="36"/>posset sanctificari per solam missionem filij, 
+          <lb ed="#P" n="37"/>sequeretur, quod posset amari a silio, &amp; non 
+          <lb ed="#P" n="38"/>amaretur a Spiritu Sancto; &amp; per consequens 
+          <lb ed="#P" n="39"/>eodem modo posset amare filium non
+          amam<lb ed="#P" n="40" break="no"/>do Spiritum Sanctum, quod est impossibile: 
+          <lb ed="#P" n="41"/>Consequentiam probo; Nam sicut filius amat 
+          <lb ed="#P" n="42"/>creaturam rationalem, &amp; amatur ab ea amo 
+          <lb ed="#P" n="43"/>re gratuito, cum eam sanctificat per suam
+          mis<lb ed="#P" n="44" break="no"/>sionem, ita &amp; Spiritus Sanctus: si ergo filius 
+          <lb ed="#P" n="45"/>posset ad eam mitti, eamque sanctificare sine 
+          <lb ed="#P" n="46"/>Spiritu Sancto, sequeretur necessario, quod 
+          <lb ed="#P" n="47"/>posset eam amare, &amp; ab ea amari sine Spiri- 
+          <lb ed="#P" n="48"/>tu Sancto. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e1025">
+          <lb ed="#P" n="49"/>AD ARGVMENTA 
+          <lb ed="#P" n="50"/>principalia.  
+          <lb ed="#P" n="51"/>AD primum dico, quod sunt in diuinis 
+          <lb ed="#P" n="52"/>est missio sine motu locali, quia ille 
+          <lb ed="#P" n="53"/>motus dicit imperfectionem, quae non est po 
+          <lb ed="#P" n="54"/>nenda in diuinis, &amp; sic non quantum ad om 
+          <lb ed="#P" n="55"/>nes conditiones est ibi collocanda 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e1043">
+          <lb ed="#P" n="56"/>Ad secundum dico, quod missio potest du 
+          <lb ed="#P" n="57"/>pliciter considerari, vel utum ad collationem 
+          <!--394.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 369 b -->
+          <lb ed="#P" n="58"/>auctoritatis, vel quantum ad executionem 
+          <lb ed="#P" n="59"/>operis : Primo modo non est communis toti 
+          <lb ed="#P" n="60"/>Trinitati, sed secundo modo. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e1063">
+          <lb ed="#P" n="61"/>Ad tertium dico, quod si consideretur ple 
+          <lb ed="#P" n="62"/>nitudo, &amp; manifestatio auctoritatis tunc 
+          <lb ed="#P" n="63"/>personae, quae mittuntur possunt
+          mitte<lb ed="#P" n="64" break="no"/>re seipsas: Si vero consideretur missio quan 
+          <lb ed="#P" n="65"/>tum ad collationem auctoritatis, sic vna
+          mit<lb ed="#P" n="66" break="no"/>titur, &amp; alia mittit. 
+        </p>
+        <p xml:id="gsX5tY-d1e559-d1e1079">
+          <lb ed="#P" n="67"/>Ad quartum dico, quod missio filij
+          sepa<lb ed="#P" n="68" break="no"/>ratur a missione Spiritus Sancti quantum 
+          <lb ed="#P" n="69"/>ad effectum sanctificationis, secundum ratio 
+          <lb ed="#P" n="70"/>nem non autem vere, &amp; proprie, ita vt vna 
+          <lb ed="#P" n="71"/>possit fieri sine alterarone sactificationis tamen 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

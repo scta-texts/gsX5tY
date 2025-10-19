@@ -1,970 +1,970 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 2</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 2</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="300"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e445"> <!-- l1d9q2 -->
-            <head xml:id="gsX5tY-d1e445-Hd1e109">Quaestio 2</head>
-            <head xml:id="gsX5tY-d1e445-Hd1e112" type="question-title">Utrum sit aliquis ordo in divinis inter patrem, et filium</head>
-            <p xml:id="gsX5tY-d1e445-d1e115">
-               <lb ed="#P" n="12"/>QVESTIO SECVNDA. 
-      <lb ed="#P" n="13"/>Vtrum sit aliquis ordo in diuinis inter
-      pa<lb ed="#P" n="14" break="no"/>trem &amp; filium.
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e124">
-               <lb ed="#P" n="15"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="16"/>negante.
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e132">
-               <lb ed="#P" n="17"/>IMV bi nulla est disparitas, ibi nullus
-      po<lb ed="#P" n="18" break="no"/>test esse ordo, sed inter patrem, &amp; fi- 
-      <lb ed="#P" n="19"/>lium in diuinis nulla est disparitas, immo
-      o<lb ed="#P" n="20" break="no"/>mnimoda paritas, &amp; similitudo, ergo &amp;c.
-      Mi<lb ed="#P" n="21" break="no"/>nor est nota ex dictis in praecedenti quaestio 
-      <lb ed="#P" n="22"/>ne: Maiorem probo, per <ref xml:id="gsX5tY-d1e445-Rd1e147">August. 10. de Ciui 
-      <lb ed="#P" n="23"/>tate Dei, cap. 15</ref>. vbi definiens ordinem
-      di<lb ed="#P" n="24" break="no"/>cit, quod <quote xml:id="gsX5tY-d1e445-Qd1e154" source="http://scta.info/resource/adcd-l19-d1e3124" synch="81-90">ordo est parium, dispariumque rerum, 
-      <lb ed="#P" n="25"/>osua cuique tribuens loca disposito</quote>: Ex quibus 
-      <lb ed="#P" n="26"/>verbis patet, quod vbi non est disparitas, ibi 
-      <lb ed="#P" n="27"/>non potest esse ordo. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e164">
-               <lb ed="#P" n="28"/>2 Si inter patrem, &amp; filium esset aliquis 
-      <lb ed="#P" n="29"/>ordo, sequeretur, quod ibi esset prius, &amp; po 
-      <lb ed="#P" n="30"/>sterius : Consequens est falsum; ergo &amp;c. 
-      <lb ed="#P" n="31"/>Falsitas patet per illud quod habetur in svm 
-      <lb ed="#P" n="32"/>bolo Athanasu, scilicet, quod in illa Trinita 
-      <lb ed="#P" n="33"/>te nihil prius, aut posterius : Consequentiam 
-      <lb ed="#P" n="34"/>probo, nam vbi est aliquis ordo, ibi
-      necessa<lb ed="#P" n="35" break="no"/>rio est dare primum, &amp; secundum, &amp; per con 
-      <lb ed="#P" n="36"/>sequens prius, &amp; posterius, quia sicuti potest 
-      <lb ed="#P" n="37"/>patere per definitionem ab August traditam 
-      <lb ed="#P" n="38"/>Ordo dicit determinatam dispositionem
-      or<lb ed="#P" n="39" break="no"/>dinatorum ad se inuicem; vbi autem non es 
-      <lb ed="#P" n="40"/>dare primum, &amp; secundum, ibi nulla potest 
-      <lb ed="#P" n="41"/>esse determinata disposito, sed potius est ibi 
-      <lb ed="#P" n="42"/>disposito indeterminata 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e199">
-               <lb ed="#P" n="43"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="44"/>affirmante¬. 
-      <lb ed="#P" n="45"/>Vbi inter aliqua plura non est ordo 
-      <lb ed="#P" n="46"/> neque determinata coaptatio, ibi vide 
-      <lb ed="#P" n="47"/>tur esse confusio, quae omnino remouenda 
-      <lb ed="#P" n="48"/>est a Deo, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e215">
-               <lb ed="#P" n="49"/>RESPONDEO: in ista quaestioni 
-      <lb ed="#P" n="50"/>duo sunt videnda 
-      <!--325.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 300 b -->
-               <lb ed="#P" n="51"/>1 An inter patrem, &amp; filium, sit alique ordo. 
-      <lb ed="#P" n="52"/>2 An sit in diuinis prius, &amp; posterius.
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e233">
-               <lb ed="#P" n="53"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="54"/>An inter patrem, &amp; filium sit aliquis ordo, 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e240">
-               <lb ed="#P" n="55"/>QVantum ad primum est intelligendum 
-      <lb ed="#P" n="56"/>quod ordo potest accipi duobus
-      mo<lb ed="#P" n="57" break="no"/>e dis; Vno modo communiter, &amp; isto 
-      <lb ed="#P" n="58"/>modo dicit relationem secudum totum
-      am<lb ed="#P" n="59" break="no"/>bitum sui generis; &amp; sic accipiendo ordinem, 
-      <lb ed="#P" n="60"/>semper est cum relatione: Alio modo potest 
-      <lb ed="#P" n="61"/>accipr ordo magis stricte, &amp; proprie, prout 
-      <lb ed="#P" n="62"/>videtur importare non quancunque
-      habi<lb ed="#P" n="63" break="no"/>tudinem, &amp; relationem, Sed habitudinem 
-      <lb ed="#P" n="64"/>alicuius, vel aliquorum terminatam ad
-      ali<lb ed="#P" n="65" break="no"/>quid, quod habet rationem principij, vel
-      ra<lb ed="#P" n="66" break="no"/>tionem primi, &amp; ideo vbi terminus
-      immedia<lb ed="#P" n="67" break="no"/>te vnus saltem principalis, &amp; vltimatus
-      ali<lb ed="#P" n="68" break="no"/>cuius habitudinis non habet rationem prin 
-      <lb ed="#P" n="69"/>cipij, vel aliquam rationem primitatis, respe 
-      <lb ed="#P" n="70"/>ctu habentis talem habitudinem, ibi talis ha 
-      <lb ed="#P" n="71"/>bitudo non potest dici ordo, stricte
-      accipi<lb ed="#P" n="72" break="no"/>endo ordinem: &amp; haec videtur intentio Com: 
-      <lb ed="#P" n="73"/>3. Metaph:, c. de priori, &amp; posteriori, vbi lo 
-      <lb ed="#P" n="74"/>quens de ordine dicit, Ordo autem non fit 
-      <lb ed="#P" n="75"/>nisi respectu primi alicuius praepositi, vel in 
-      <lb ed="#P" n="76"/>tellecti. Vult ergo, quod nulla habitudo sit 
-      <lb ed="#P" n="77"/>ordo pprie dictus, nisi terminetur ad aliud,  
-      <lb ed="#P" n="78"/>quod habeat rationem principij, uel rationem 
-      <lb ed="#P" n="79"/>primi; dico autem rationem ptincipij, vel ra 
-      <lb ed="#P" n="80"/>tionem primi; quia fortasse aliquis faciet dif 
-      <lb ed="#P" n="81"/>ferentiam inter principium, &amp; primum, cum 
-      <lb ed="#P" n="82"/>ratio principij videatur restringere rationi 
-      <lb ed="#P" n="83"/>primi, eo quod importet quandam causalita 
-      <lb ed="#P" n="84"/>tem, quam non importat primum de suo mo 
-      <lb ed="#P" n="85"/>do significandi; verum est tamen quod Ari 
-      <lb ed="#P" n="86"/>stoteles videtur accipere vtrunque pro
-      eo<lb ed="#P" n="87" break="no"/>dem, vnde &amp; primo Posteriorum ait, idem 
-      <lb ed="#P" n="88"/>dico primum, &amp; principium, quicquid tamen 
-      <lb ed="#P" n="89"/>sit de eorum differentia, nihil refert ad
-      pro<lb ed="#P" n="90" break="no"/>positum, quia sufficit scire quod ordo stricte 
-      <lb ed="#P" n="91"/>aceptus importat habitudinem terminatam  
-      <lb ed="#P" n="92"/>ad aliud, quod habet rationem primi, vel
-      prin<lb ed="#P" n="93" break="no"/>cipij respectu habentium talem habitudinem, 
-      <lb ed="#P" n="94"/>&amp; hinc est, quod inter eaquae sunt omnino 
-      <lb ed="#P" n="95"/>similia, non potest esse ordo proprie, quia 
-      <lb ed="#P" n="96"/>vnum eorum non potest habere rationem 
-      <lb ed="#P" n="97"/>principij respectu alterius, magis quam e 
-      <lb ed="#P" n="98"/>conuerso, propter quod requiritur, quod 
-      <lb ed="#P" n="99"/>aliquo modo sint dissimilia.  
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e341">
-               <lb ed="#P" n="100"/>Verum est tamen, quod ad eorum dissimi 
-      <lb ed="#P" n="101"/>litudinem sequitur necessario similitudo ci 
-      <lb ed="#P" n="102"/>iusdam proportionis, quia ipse ordo non v 
-      <!--326.xml-->
-      <pb ed="#P" n="301"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>detur esse aliud, quam quaedam dissimilium 
-      <lb ed="#P" n="2"/>proportio; &amp; ideo conuenionter Deatus Au 
-      <lb ed="#P" n="3"/>gust. accipit in definitione ordinis
-      parita<lb ed="#P" n="4" break="no"/>tem, &amp; disparitatem, sicut patet in
-      auctorita<lb ed="#P" n="5" break="no"/>te superius allegata. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e367">
-               <lb ed="#P" n="6"/>Ex quibus omnibus possumus colligere, 
-      <lb ed="#P" n="7"/>quod tria requiruntur ad hoc, quod inter
-      a<lb ed="#P" n="8" break="no"/>liqua sit ordo; Primo, quod sint distincta, 
-      <lb ed="#P" n="9"/>quia nihil proprie loquendo habet ordinem 
-      <lb ed="#P" n="10"/>ad se ipsum; Secundo, quod sint dissimilia,  
-      <lb ed="#P" n="11"/>quia ea, quae sunt omnino similia, non potest 
-      <lb ed="#P" n="12"/>dici quod vnum eorum habeat rationem prin 
-      <lb ed="#P" n="13"/>cipij alterius, magis quam e conuerso:
-      Ter<lb ed="#P" n="14" break="no"/>tio, quod inter ea sit habitudo terminata ac 
-      <lb ed="#P" n="15"/>aliquid, quod habeat rationem principij, vel 
-      <lb ed="#P" n="16"/>primi. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e393">
-               <lb ed="#P" n="17"/>Cum ergo quaeritur, vtrum inter patrem  
-      <lb ed="#P" n="18"/>&amp; filium in diuinis sit aliquis ordo, dico,  
-      <lb ed="#P" n="19"/>quod ibi est ordo communiter dictus, quia 
-      <lb ed="#P" n="20"/>est ibi mutua relatio, est etiam ibi ordo
-      pro<lb ed="#P" n="21" break="no"/>prie dictus, quia habitudo filiationis, quae est 
-      <lb ed="#P" n="22"/>in filio, terminatur per ipsum patiem, qui 
-      <lb ed="#P" n="23"/>est principium filij, sicut patet per
-      <ref xml:id="gsX5tY-d1e445-Rd1e410">Augusti<lb ed="#P" n="24" break="no"/>num 5. de Trinitate cap 20</ref>. vbi ait, quod 
-      <quote xml:id="gsX5tY-d1e445-Qd1e415" source="http://scta.info/resource/adt-l6-d1e785" synch="25-33">gi<lb ed="#P" n="25" break="no"/>gnens ad illud, quod gignitur principium 
-        <lb ed="#P" n="26"/>est</quote>, &amp; haec de primo articulo. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e423">
-               <lb ed="#P" n="27"/>ARTICVLVS SECVNDVS. 
-      <lb ed="#P" n="28"/>Vtrum concesso tali ordine, necessario sit 
-      <lb ed="#P" n="29"/>concedendum, Patrem esse priorem 
-      <lb ed="#P" n="30"/>Filio.
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e434">
-               <lb ed="#P" n="31"/>AD hoc dicunt aliqui, quod sic; ldque 
-      <lb ed="#P" n="32"/>probant quadrupliciter. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e441">
-               <lb ed="#P" n="33"/>Primo sic. Vbicunque est ordo, ibi necessa 
-      <lb ed="#P" n="34"/>rio est prius est posterius; Sed inter patrem. 
-      <lb ed="#P" n="35"/>&amp; filium est ordo, ergo prius, &amp; posterius; 
-      <lb ed="#P" n="36"/>non est autem dicendum, quod pater sit po 
-      <lb ed="#P" n="37"/>sterior filio, ergo prior, &amp; per consequens 
-      <lb ed="#P" n="38"/>fillus posterior: Minor conceditur; Maior 
-      <lb ed="#P" n="39"/>probatur, quia semper ordo accipitur per com 
-      <lb ed="#P" n="40"/>parationem ad aliquod pr incipium, sicut et 
-      <lb ed="#P" n="41"/>patet ex articulo praecedente, vbi autem non 
-      <lb ed="#P" n="42"/>inuenitur ratio prioris, &amp; posterioris, sed omia 
-      <lb ed="#P" n="43"/>sunt penitus simul, ibi non est aliquid, quod 
-      <lb ed="#P" n="44"/>possit habere rationem principij respectu al 
-      <lb ed="#P" n="45"/>terius, magis quam e conuerso. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e473">
-               <lb ed="#P" n="46"/>Secundo, vbi est originans, &amp; originatum,  
-      <lb ed="#P" n="47"/>ibi prius &amp; posterius, sed pater in diuinis est 
-      <lb ed="#P" n="48"/>vere originans, &amp; filius vere originatus, ergo 
-      <lb ed="#P" n="49"/>pater est prior, &amp; filius posterior: Minor con 
-      <lb ed="#P" n="50"/>ceditur; Maior probatur: quia sicut in ijs,  
-      <lb ed="#P" n="51"/>quae distinguuntur secundum naturam,
-      ori<lb ed="#P" n="52" break="no"/>ginans est prius originato naturaliter, ita 
-      <lb ed="#P" n="53"/>in ijs, quae distinguuntur sola origine, orig 
-      <!--326.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 301 b -->
-               <lb ed="#P" n="54"/>nans debet esse prius originato originaliter 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e502">
-               <lb ed="#P" n="55"/>Confirmatur, quia videmus, quod prius,  
-      <lb ed="#P" n="56"/>&amp; posterius secundum naturam possunt sta 
-      <lb ed="#P" n="57"/>re cum simultate durationis, nam subiectum 
-      <lb ed="#P" n="58"/>cum sit prius natura propria passione, quis 
-      <lb ed="#P" n="59"/>est ab ea independens, est simul cum ea
-      du<lb ed="#P" n="60" break="no"/>ratione, ergo eodem modo potest stare prius 
-      <lb ed="#P" n="61"/>&amp; posterius secundum originem cum simul 
-      <lb ed="#P" n="62"/>tate durationis, &amp; naturae, &amp; per consequens 
-      <lb ed="#P" n="63"/>non obstante, quod pater, &amp; filius sint simul 
-      <lb ed="#P" n="64"/>secundum durationem, quia habent vnam
-      du<lb ed="#P" n="65" break="no"/>rationis aeternitatem, &amp; etiam quod sint
-      si<lb ed="#P" n="66" break="no"/>mul secundum naturam, quia habent vnam 
-      <lb ed="#P" n="67"/>naturam, poterit vnus esse prior alio
-      secun<lb ed="#P" n="68" break="no"/>dum originem. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e535">
-               <lb ed="#P" n="69"/>Tertio, si aliqua causa obstaret, quare
-      pa<lb ed="#P" n="70" break="no"/>ter non esset prior filio in diuinis, esset simul 
-      <lb ed="#P" n="71"/>tas relatiuorum, quia non solum sunt simul 
-      <lb ed="#P" n="72"/>secundum naturam, sed etiam secundum
-      ra<lb ed="#P" n="73" break="no"/>tionem, cum vnum non poscit intelligi sine 
-      <lb ed="#P" n="74"/>altero, sed ista causa non obstat, ergo nulla 
-      <lb ed="#P" n="75"/>alia. Maior est nota, quia ista assignatur pro 
-      <lb ed="#P" n="76"/>potissima causa a tenentibus contrarium:
-      Mi<lb ed="#P" n="77" break="no"/>nor probatur, quia prius, &amp; posterius sunt re 
-      <lb ed="#P" n="78"/>latiua, &amp; tamen hoc non oostante, prius est 
-      <lb ed="#P" n="79"/>prius per continentiam, &amp; etiam causa, &amp;  
-      <lb ed="#P" n="80"/>effectus sunt relatiua, &amp; tamen causa est pri 
-      <lb ed="#P" n="81"/>or effectu, cum sit ab eo independens 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e566">
-               <lb ed="#P" n="82"/>Quarto, vbi est dare primum, &amp; secundum 
-      <lb ed="#P" n="83"/>ratione originis, ibi est dare prius, &amp;
-      poste<lb ed="#P" n="84" break="no"/>rius, sed hoc est in proposito, ergo &amp;c
-      Ma<lb ed="#P" n="85" break="no"/>por est nota, quia sicut secundum sequitur 
-      <lb ed="#P" n="86"/>ad primum, ita posterius sequitur ad prius,  
-      <lb ed="#P" n="87"/>&amp; sic primum dicitur relatiue ad posterius. 
-      <lb ed="#P" n="88"/>Minor probatur, quia sicuti patet ex eo quod 
-      <lb ed="#P" n="89"/>principium filij habet rationem primi, quia 
-      <lb ed="#P" n="90"/>ibidem est principium, &amp; primum, vt
-      supe<lb ed="#P" n="91" break="no"/>rius dicebatur, ita pari ratione filius ex eo 
-      <lb ed="#P" n="92"/>quod principiatum, habet rationem secundi. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e592">
-               <lb ed="#P" n="93"/>Ista opinio potest confirmari per
-      Riccar<lb ed="#P" n="94" break="no"/>dum, qui vult, quod in illa Trinitate,
-      quam<lb ed="#P" n="95" break="no"/>uis non sit prius, &amp; posterius temporaliter, 
-      <lb ed="#P" n="96"/>potest tamen ibi esse aliquo modo
-      causali<lb ed="#P" n="97" break="no"/>ter, &amp; per consequens naturaliter; vnde
-      in<lb ed="#P" n="98" break="no"/>fert <ref xml:id="gsX5tY-d1e445-Rd1e607">5. de Trinitate cap. 7</ref>. quod in Trinitate 
-      <lb ed="#P" n="99"/>nihil prius, aut posterius temporaliter
-      repe<lb ed="#P" n="100" break="no"/>riri potest, sed quod non potest esse prius
-      te<lb ed="#P" n="101" break="no"/>poraliter, potest esse prius causaliter, &amp; ex 
-      <lb ed="#P" n="102"/>hoc naturaliter, &amp; origine, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e619">
-               <lb ed="#P" n="103"/>Contra istum modum dicendi est opinio 
-      <lb ed="#P" n="104"/>communis, quae simpliciter negat prius, &amp;  
-      <lb ed="#P" n="105"/>posterius a diuinis personis: totale autem
-      fun<lb ed="#P" n="106" break="no"/>damentum, cui innititur est, quia si ibi esset 
-      <lb ed="#P" n="107"/>prius, &amp; posterius, vel hoc esset quantum ad 
-      <lb ed="#P" n="108"/>absoluta, &amp; hoc non, quia omnia sunt ibi
-      v<lb ed="#P" n="109" break="no"/>num, vel quantum ad relatiua, &amp; hoc non, 
-      <lb ed="#P" n="110"/>quia relatiua sunt simul, non solum secundum 
-      <!--327.xml-->
-      <pb ed="#P" n="302"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>naturam, sed etiam secundum rationem: nul 
-      <lb ed="#P" n="2"/>lo ergo modo potest ibi inueniri ratio
-      prio<lb ed="#P" n="3" break="no"/>ris, &amp; posterioris. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e653">
-               <lb ed="#P" n="4"/>Hanc opinionem credo veriorem
-      pro<lb ed="#P" n="5" break="no"/>pter tria 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e660">
-               <lb ed="#P" n="6"/>Primo, quia magis conformis est fidei vni 
-      <lb ed="#P" n="7"/>uersalis Ecclesiae, quam in Svmbolo
-      Atha<lb ed="#P" n="8" break="no"/>nasij profitemur, in quo simpliciter, &amp; sine 
-      <lb ed="#P" n="9"/>aliqua determinatione negatur prius, &amp;
-      po<lb ed="#P" n="10" break="no"/>sterius a diuinis personis. Secundo, quia fun 
-      <lb ed="#P" n="11"/>damentum, cui innititur, ita videtur efficax, 
-      <lb ed="#P" n="12"/>quod nullo modo potest tolli. Tertio, quia 
-      <lb ed="#P" n="13"/>Doctores plures, &amp; antiquiores in ea
-      concor<lb ed="#P" n="14" break="no"/>dant, verum quia rationes alterius opinionis 
-      <lb ed="#P" n="15"/>videntur aliqualiter cogere, idcirco in isto 
-      <lb ed="#P" n="16"/>articulo sic procedam. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e686">
-               <lb ed="#P" n="17"/>Primo distinguam de priori, &amp; posteriori. 
-      <lb ed="#P" n="18"/>Secundo ostendam, quod prius, &amp;
-      poste<lb ed="#P" n="19" break="no"/>rius proprie accepta omnino sunt neganda 
-      <lb ed="#P" n="20"/>a diuinis personis. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e697">
-               <lb ed="#P" n="21"/>Tertio ostendam, quod si extendatur ad 
-      <lb ed="#P" n="22"/>personas diu, natura prioris, &amp; posterioris,  
-      <lb ed="#P" n="23"/>hoc est valde large, &amp; per hoc soluam ratio 
-      <lb ed="#P" n="24"/>nes alterius opinionis.
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e708">
-               <lb ed="#P" n="25"/>Propter primum est intelligendum, quod 
-      <lb ed="#P" n="26"/>prius, &amp; posterius videntur primo inuenta es 
-      <lb ed="#P" n="27"/>se in tempore, quod patet, quia ponuntur in 
-      <lb ed="#P" n="28"/>definitione ipsius, tanquam suae differentiae 
-      <lb ed="#P" n="29"/>propriae, sicut patet 4. phy. vnde &amp; Com.
-      di<lb ed="#P" n="30" break="no"/>cit ibi Com ij. quod numerus ponuntur in de 
-      <lb ed="#P" n="31"/>finitione temporis, tanquam genus, &amp;
-      poste<lb ed="#P" n="32" break="no"/>rius tanquam differentia: constat aute, quod 
-      <lb ed="#P" n="33"/>prius, &amp; posterius inueniuntur in tempore, 
-      <lb ed="#P" n="34"/>ratione suceessionis. Et ideo ratio prioris non 
-      <lb ed="#P" n="35"/>videtur posse transferri proprie, nisi ad ea 
-      <lb ed="#P" n="36"/>in quibus inuenitur aliquis modus suceessio 
-      <lb ed="#P" n="37"/>nis, &amp; hinc est, quod omnes modi, prioris, &amp;  
-      <lb ed="#P" n="38"/>posterioris, quos ponit Arist. 5. Metaph videm 
-      <lb ed="#P" n="39"/>tur esse accepti penes diuersos modos succes 
-      <lb ed="#P" n="40"/>sionis, si quis bene consideret, quae ibi
-      di<lb ed="#P" n="41" break="no"/>cuntur. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e747">
-               <lb ed="#P" n="42"/>Ad cuius maiorem euidentiam est
-      aduer<lb ed="#P" n="43" break="no"/>tendum, quod omnis suceessio, vel est sucees 
-      <lb ed="#P" n="44"/>sio durationis, vel cuiusdam subordinationis: 
-      <lb ed="#P" n="45"/>hae autem duae suceessiones in hoc
-      conue<lb ed="#P" n="46" break="no"/>niunt, quod quaelibet attenditur secundum 
-      <lb ed="#P" n="47"/>diuersa signa, quae habet mensurare illas res 
-      <lb ed="#P" n="48"/>in quibus est talis successio durationis;
-      diffe<lb ed="#P" n="49" break="no"/>runt tamen in alio, quia signa illa secundum 
-      <lb ed="#P" n="50"/>quae attenditur suceessio durationis, penes 
-      <lb ed="#P" n="51"/>duo instantia temporis, nullo modo possunt 
-      <lb ed="#P" n="52"/>esse simul 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e774">
-               <lb ed="#P" n="53"/>Et ideo suceessio prioris, &amp; posterioris in 
-      <lb ed="#P" n="54"/>duratione omnino excludit simultatem; illa 
-      <lb ed="#P" n="55"/>vero signa, secundum quae attenditur
-      suc<lb ed="#P" n="56" break="no"/>cessio subordinationis, puta duo instantia na 
-      <lb ed="#P" n="57"/>turae, possunt esse, &amp; sunt simul, vt inferius 
-      <!--327.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 302 b -->
-               <lb ed="#P" n="58"/>patebit, propter quod suceessio prioris, &amp; po 
-      <lb ed="#P" n="59"/>sterioris in subordinatione non excludit
-      si<lb ed="#P" n="60" break="no"/>multatem, immo eam includit. Videmus
-      nam<lb ed="#P" n="61" break="no"/>que, quod subiectum, &amp; propria passio nul 
-      <lb ed="#P" n="62"/>lam habent suceessionem in duratione, quia 
-      <lb ed="#P" n="63"/>sunt in eodem signo durationis, secundum 
-      <lb ed="#P" n="64"/>quandam mensuram, habent tamen
-      sucees<lb ed="#P" n="65" break="no"/>sionem subordinationis, &amp; dependentiae
-      se<lb ed="#P" n="66" break="no"/>cundum suas naturas, quia passio, naturaliter 
-      <lb ed="#P" n="67"/>dependet a subiecto, &amp; non e conuerso; ideo 
-      <lb ed="#P" n="68"/>est subordinata naturae subiecti, &amp; non e con 
-      <lb ed="#P" n="69"/>uerso, &amp; per consequens, non est simul cum 
-      <lb ed="#P" n="70"/>subiecto, sed posterius eo secundum naturam, 
-      <lb ed="#P" n="71"/>&amp; quia suceessio prioris, &amp; posterioris non po 
-      <lb ed="#P" n="72"/>test esse secundum idem signum; idcirco aliud 
-      <lb ed="#P" n="73"/>est signum quod respondet subiecto, &amp; est 
-      <lb ed="#P" n="74"/>mensura suae naturae, &amp; aliud signum quod 
-      <lb ed="#P" n="75"/>respondet suae passioni; quamuis ergo passio 
-      <lb ed="#P" n="76"/>non sit posterior subiecto, nec ibi succedat 
-      <lb ed="#P" n="77"/>secundum durationem, succedit tamen sibi 
-      <lb ed="#P" n="78"/>secundum naturam, &amp; per consequens
-      ha<lb ed="#P" n="79" break="no"/>bent aliud, &amp; aliud signum naturae, quia
-      su<lb ed="#P" n="80" break="no"/>biectum est independens a passione, passio 
-      <lb ed="#P" n="81"/>vero dependet ab eo, propter quod ibi est 
-      <lb ed="#P" n="82"/>suceessio cuiusdam dependentiae, &amp;
-      subor<lb ed="#P" n="83" break="no"/>dinationis,  
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e850">
-               <lb ed="#P" n="84"/>Redeundo ergo ad propositum dico, quod 
-      <lb ed="#P" n="85"/>prius, &amp; posterius cum importent quandam 
-      <lb ed="#P" n="86"/>suceessionem inueniuntur in tempore, quod 
-      <lb ed="#P" n="87"/>est mensura omnium suceessiuorum:
-      conse<lb ed="#P" n="88" break="no"/>quenter vero possunt transferri ad quaecun 
-      <lb ed="#P" n="89"/>quae alia, in quibus inuenitur aliquis modus 
-      <lb ed="#P" n="90"/>suceessiuus, vt patere potest per Arist. 5. Me 
-      <lb ed="#P" n="91"/>taph vbi enumerat omnes modos prioritatis 
-      <lb ed="#P" n="92"/>Concludo ergo quod cum omnis suceessio 
-      <lb ed="#P" n="93"/>sit, vel durationis, vel subordinationis, sola  
-      <lb ed="#P" n="94"/>suceessio durationis est proprijssime dicta, &amp; 
-      <lb ed="#P" n="95"/>inuenitur in solo tempore, &amp; motu, penes 
-      <lb ed="#P" n="96"/>quam suceessionem sumitur primus modus 
-      <lb ed="#P" n="97"/>prioris, &amp; posterioris secundum tempus, qui 
-      <lb ed="#P" n="98"/>est proprijssimus, &amp; primus, ab Aristotele in 
-      <lb ed="#P" n="99"/>litera positus. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e887">
-               <lb ed="#P" n="100"/>Omnes vero alij modi videntur sumi
-      pe<lb ed="#P" n="101" break="no"/>nes suceessionem subordinationis, &amp; quia 
-      <lb ed="#P" n="102"/>sex modis potest aliquid subordinari alteri; 
-      <lb ed="#P" n="103"/>ideo ex Arist. possunt haberi sex alij modi 
-      <lb ed="#P" n="104"/>Nam vno modo potest aliquid subordinat 
-      <lb ed="#P" n="105"/>alteri secundum locum, vt dicatur prius, vel 
-      <lb ed="#P" n="106"/>posterius localiter. Alio modo secundum mo 
-      <lb ed="#P" n="107"/>tum. Tertio secundum potentiam. Quarto 
-      <lb ed="#P" n="108"/>secundum gradum dignitatis alicuius, &amp;
-      e<lb ed="#P" n="109" break="no"/>minentiae, in quo ab ipso exceditur. Quinto 
-      <lb ed="#P" n="110"/>secundum cognitionem. Sexto secundum na 
-      <lb ed="#P" n="111"/>turam, siue illa ordinatio proueniat ex
-      prio<lb ed="#P" n="112" break="no"/>ritate originis, sicut forma subordinatur ma 
-      <lb ed="#P" n="113"/>teriae, quia est posterior ea via originis, siue 
-      <lb ed="#P" n="114"/>proueniat: ex prioritate perfectionis, sicut e 
-      <!--328.xml-->
-      <pb ed="#P" n="303"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>conuerso materia subordinatur formae via
-      pro<lb ed="#P" n="2" break="no"/>fectionis, quia est posterior ea secundum per 
-      <lb ed="#P" n="3"/>fectionem, &amp; penes istam vltimam
-      subordina<lb ed="#P" n="4" break="no"/>tionem accipitur vltimus modus prioris, &amp;  
-      <lb ed="#P" n="5"/>posterioris, ex quibus, quantum in praesenti 
-      <lb ed="#P" n="6"/>sufficit, habemus, quod prius, &amp; posterius de 
-      <lb ed="#P" n="7"/>suo modo significandi, prout traditur
-      no<lb ed="#P" n="8" break="no"/>bis ab Aristotele, semper important quandam 
-      <lb ed="#P" n="9"/>suceessionem, vel durationis, vel
-      subordi<lb ed="#P" n="10" break="no"/>nationis. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e950">
-               <lb ed="#P" n="11"/>Si vero prius, &amp; posterius accipiantur
-      com<lb ed="#P" n="12" break="no"/>muniter, &amp; large, prout abstrahunt ab omni 
-      <lb ed="#P" n="13"/>suceessione, &amp; important simplicem, &amp; debi 
-      <lb ed="#P" n="14"/>tam coordinationem aliquorum distinctorum, 
-      <lb ed="#P" n="15"/>habentium aliquam similitudinem cum prio 
-      <lb ed="#P" n="16"/>ri, &amp; posteriori proprie dicti secundum suc. 
-      <lb ed="#P" n="17"/>cessionem, hoc modo non potest inueniri
-      eo<lb ed="#P" n="18" break="no"/>rum ratio in aliqua creatura, cuius ratio est,  
-      <lb ed="#P" n="19"/>quia in creaturis non possunt inueniri duo 
-      <lb ed="#P" n="20"/>esse ad inuicem ordinata, ita aequalia, quin 
-      <lb ed="#P" n="21"/>vel vnum subordinetur alteri, vel ambo
-      cui<lb ed="#P" n="22" break="no"/>dam tertio, &amp; per consequens, semper serua 
-      <lb ed="#P" n="23"/>bunt veram suceessionem posterioris ad prius,  
-      <lb ed="#P" n="24"/>siue per subordinationem vnius sub altero, 
-      <lb ed="#P" n="25"/>siue per subordinationem amborum sub ter 
-      <lb ed="#P" n="26"/>tio. Et ideo prius, &amp; posterius sic accepta vi 
-      <lb ed="#P" n="27"/>dentur valde extranea a modo significandi, 
-      <lb ed="#P" n="28"/>a quo dicta nomina sunt imposita, propter 
-      <lb ed="#P" n="29"/>quod nec etiam ab Aristotele sunt
-      conside<lb ed="#P" n="30" break="no"/>rata: patet ergo, quod erat primo
-      explican<lb ed="#P" n="31" break="no"/>dum circa hunc articulum.  
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e998">
-               <lb ed="#P" n="32"/>Quantum ad secundum dico, quod prius,  
-      <lb ed="#P" n="33"/>&amp; posterius accepta proprie secundum
-      mo<lb ed="#P" n="34" break="no"/>dum significandi, a quo dicta nomina sunt 
-      <lb ed="#P" n="35"/>imposita, &amp; ab Arist. tradita, omnino sunt ne 
-      <lb ed="#P" n="36"/>ganda a diuinis personis. Quae conclusio con 
-      <lb ed="#P" n="37"/>cessa est ab omnibus quantum ad prioritaten 
-      <lb ed="#P" n="38"/>temporis, vel naturae, &amp; ideo solum restat mi 
-      <lb ed="#P" n="39"/>hi eam probare quantum ad prioritatem ori 
-      <lb ed="#P" n="40"/>ginis, quod ibi non reperiatur, vt dicit opin 
-      <lb ed="#P" n="41"/>superius recitata, contra quam, praeter
-      ratio<lb ed="#P" n="42" break="no"/>nem adductam, quae optima mihi videtur,  
-      <lb ed="#P" n="43"/>adduco tres alias rationes. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1027">
-               <lb ed="#P" n="44"/>Prima, Si pater in diuinis esset prior silio 
-      <lb ed="#P" n="45"/>secundum originem, sequeretur, quod ibi 
-      <lb ed="#P" n="46"/>esset aliquis modus suceessionis, ita quod fi- 
-      <lb ed="#P" n="47"/>lius succederet ipsi patri secundum originem: 
-      <lb ed="#P" n="48"/>Consequens est falsum, ergo &amp;c.
-      Conse<lb ed="#P" n="49" break="no"/>quentia patet ex dictis superius, vbi ostensum 
-      <lb ed="#P" n="50"/>est, quod prius, &amp; posterius accepta proprie 
-      <lb ed="#P" n="51"/>secundum modum signisicandi, a quo dicta 
-      <lb ed="#P" n="52"/>nomina imponuntur, semper important
-      ali<lb ed="#P" n="53" break="no"/>quam suceessionem, sicut patet ex modo, quo 
-      <lb ed="#P" n="54"/>vtitur eis Aristoteles, distinguens modos 
-      <lb ed="#P" n="55"/>prioris, &amp; posterioris. Falsitatem probo, quia 
-      <lb ed="#P" n="56"/>vbicunque est aliqua suceessio, ibi est aliquis 
-      <lb ed="#P" n="57"/>exitus de potentia ad actum, cum hoc videa 
-      <!--328.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 303 b -->
-               <lb ed="#P" n="58"/>tur esse de ratione omnis suceessionis, exitus. 
-      <lb ed="#P" n="59"/>autem de potentia ad actum quocunque
-      mo<lb ed="#P" n="60" break="no"/>do omnino repugnat diuinis personis, ergo 
-      <lb ed="#P" n="61"/>nullo modo est ibi ratio prioris, &amp;
-      poste<lb ed="#P" n="62" break="no"/>rioris proprie accepti. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1078">
-               <lb ed="#P" n="63"/>Et confirmatur per Riccardum (cui
-      opi<lb ed="#P" n="64" break="no"/>nio contraria maxime innititur) dicentem ter 
-      <lb ed="#P" n="65"/>tio de Trinitate, cap. 8. oportuit aeternam per 
-      <lb ed="#P" n="66"/>sonam alteram coaeternam habere, nec
-      po<lb ed="#P" n="67" break="no"/>tuit vna alteram praecedere, nec vna alteri 
-      <lb ed="#P" n="68"/>succedere, 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1094">
-               <lb ed="#P" n="69"/>Neque valet si dicatur, quod intelligit de; 
-      <lb ed="#P" n="70"/>processione, &amp; suceessione secundum aeterni 
-      <lb ed="#P" n="71"/>tatem durationis, non autem de processione, 
-      <lb ed="#P" n="72"/>&amp; suceessione secundumoriginem, quo
-      mo<lb ed="#P" n="73" break="no"/>do potest concedi in diuinis personis: Nam e 
-      <lb ed="#P" n="74"/>quaero, vtrum processio, &amp; suceessio
-      secun<lb ed="#P" n="75" break="no"/>dum originem mensurentur eodem signo in 
-      <lb ed="#P" n="76"/>diuisibili, vel alio, &amp; alio: non eodem, quia 
-      <lb ed="#P" n="77"/>nulla esset proportio mensurae ad
-      mensura<lb ed="#P" n="78" break="no"/>tum, ergo alio, &amp; alio signo, ea autem, quae 
-      <lb ed="#P" n="79"/>habent diuersa signa, quorum vnum alteri 
-      <lb ed="#P" n="80"/>succedit, quamuis habeant eandem
-      duratio<lb ed="#P" n="81" break="no"/>nem, impossibile est tamen, quod se habeant. 
-      <lb ed="#P" n="82"/>ad illam durationem eodem modo, quia non  
-      <lb ed="#P" n="83"/>coaptantur illi durationi, nisi mediantibus 
-      <lb ed="#P" n="84"/>illis signis, sicut videmus de subiecto, &amp;
-      pas<lb ed="#P" n="85" break="no"/>sione. Nam dato, quod aliquod subiectum, 
-      <lb ed="#P" n="86"/>&amp; sua passio essent aeterna, quantumcunqu 
-      <lb ed="#P" n="87"/>haberent idem instas aeternitatis, &amp; durationis,  
-      <lb ed="#P" n="88"/>mediantibus diuersis instantibus naturae, quo 
-      <lb ed="#P" n="89"/>rum vnum alteri succederet, impossibile
-      es<lb ed="#P" n="90" break="no"/>set, quod se haberent ad illud instans
-      aeter<lb ed="#P" n="91" break="no"/>nitatis eodem modo. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1146">
-               <lb ed="#P" n="92"/>Et ideo adhuc esset verum dicere, quod 
-      <lb ed="#P" n="93"/>subiectum haberet aeternitatem per prius, &amp;  
-      <lb ed="#P" n="94"/>passio per posterius; Nam quamuis non
-      es<lb ed="#P" n="95" break="no"/>set suceessio prioris &amp; posterioris in ipso in 
-      <lb ed="#P" n="96"/>nstanti aeternitatis, esset tamen in
-      habenti<lb ed="#P" n="97" break="no"/>bus aeternitatem, &amp; in modo habendi illam: 
-      <lb ed="#P" n="98"/>mmo istum modum dicendi omnes
-      conce<lb ed="#P" n="99" break="no"/>dunt, siquidem omnes dicunt, quod si aliqua 
-      <lb ed="#P" n="100"/>creatura esset coaeterna Deo, adhuc tamen 
-      <lb ed="#P" n="101"/>esset verum dicere, Deum prius habere aeter. 
-      <lb ed="#P" n="102"/>nitatem, quam illa creatura, in cuius signum 
-      <lb ed="#P" n="103"/>quemadmodnm dicimus de futuris, quod  
-      <lb ed="#P" n="104"/>Deus regnabit in aeternum, &amp; vltra, quia 
-      <lb ed="#P" n="105"/>habet creaturam coaeternam ex parte post. 
-      <lb ed="#P" n="106"/>ita diceremus de praeterito, quod Deus
-      re<lb ed="#P" n="107" break="no"/>gnauit in aeternum, &amp; vltra, quia haberet 
-      <lb ed="#P" n="108"/>creaturam coeternam ex parte ante, quod 
-      <lb ed="#P" n="109"/>non esset propter aliud, nisi quia instans
-      na<lb ed="#P" n="110" break="no"/>turae diuinae, mediante quo coaptaretur aeter 
-      <lb ed="#P" n="111"/>nitati, esset prius instanti naturae illius
-      crea<lb ed="#P" n="112" break="no"/>turae, ita quod quis non esset suceessio prioris, &amp;  
-      <lb ed="#P" n="113"/>posterioris in ipsa aeternitate, esset tamen in Deo, 
-      <lb ed="#P" n="114"/>&amp; creatura habentibs aeternitate, &amp; i mo ha¬ 
-      <!--329.xml-->
-      <pb ed="#P" n="304"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>bedi illam, verum esset dicere, quod creaturae 
-      <lb ed="#P" n="2"/>saccederent Deo in aeternitate, &amp; per
-      con<lb ed="#P" n="3" break="no"/>sequens, quod Deus eam praecederet. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1211">
-               <lb ed="#P" n="4"/>Applicando ergo hoc ad propositum,
-      di<lb ed="#P" n="5" break="no"/>eo similiter, quod si pater esset prior filio se 
-      <lb ed="#P" n="6"/>cundum originem, itaquod esset aliud signum 
-      <lb ed="#P" n="7"/>originis actiuae ipsius patris, &amp; aliud signum 
-      <lb ed="#P" n="8"/>originis passiuae filij, &amp; vnum succederet
-      al<lb ed="#P" n="9" break="no"/>teri, sicut oportet dicere secundum istam viam 
-      <lb ed="#P" n="10"/>coceremur dicere vlterius, quod pater prius 
-      <lb ed="#P" n="11"/>haberet aeternitatem, quam filius, &amp; quod 
-      <lb ed="#P" n="12"/>filius in aeternitate succederet ipsi patri, 
-      <lb ed="#P" n="13"/>quia pater mensuraretur aeternitate
-      mediam<lb ed="#P" n="14" break="no"/>te suo proprio signo, &amp; filius mediante suo, 
-      <lb ed="#P" n="15"/>&amp; per consequens quamuis non esset
-      suc<lb ed="#P" n="16" break="no"/>cessio in aeternitate communi vtrique, esset 
-      <lb ed="#P" n="17"/>tamen praecessio, &amp; suceessio in patre, &amp; filio 
-      <lb ed="#P" n="18"/>habentibus aeternitatem, &amp; in signis median 
-      <lb ed="#P" n="19"/>tibus quibus attingerent illam: &amp; quia ista 
-      <lb ed="#P" n="20"/>videntur valde inconuenientia, cogimur
-      di<lb ed="#P" n="21" break="no"/>cere, quod Riccardus per illam auctoritate 
-      <lb ed="#P" n="22"/>superius allegatam velit negare omnium suc 
-      <lb ed="#P" n="23"/>cessionem a diuinis personis, &amp; ita remanet 
-      <lb ed="#P" n="24"/>prima ratio cum sua confirmatione in
-      ro<lb ed="#P" n="25" break="no"/>bore. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1261">
-               <lb ed="#P" n="26"/>Secundo ad idem, si pater esset prior secu 
-      <lb ed="#P" n="27"/>dum originem, sequeretur, quod filius esset 
-      <lb ed="#P" n="28"/>subordinatus patri, consequens est falsum, er 
-      <lb ed="#P" n="29"/>go &amp;c. Consequentia est nota ex dictis, nam  
-      <lb ed="#P" n="30"/>ostensum est supra, quod posterioris ad prius 
-      <lb ed="#P" n="31"/>vel est suceessio durationis, vel est
-      sucees<lb ed="#P" n="32" break="no"/>sio subordinationis; cum ergo non sit ibi suc 
-      <lb ed="#P" n="33"/>cessio durationis (vt concedunt ponentes 
-      <lb ed="#P" n="34"/>contrariam opinionem) ergo saltem est ibi 
-      <lb ed="#P" n="35"/>suceessio subordinationis; Falsitatem probo; 
-      <lb ed="#P" n="36"/>nam si filius ratione originis subordinaretur 
-      <lb ed="#P" n="37"/>patri, illa origo non faceret eum aequalem, 
-      <lb ed="#P" n="38"/>sed minorem patre, quia ita videmus in om- 
-      <lb ed="#P" n="39"/>nibus modis prioris, &amp; posterioris, quod sem 
-      <lb ed="#P" n="40"/>per posterius inquantum subordinatur prio 
-      <lb ed="#P" n="41"/>ri, est sibi inaequale, &amp; eo indignius, quod er- 
-      <lb ed="#P" n="42"/>roneum est ponere in diuinis personis.  
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1300">
-               <lb ed="#P" n="43"/>Tertio. Si pater esset prior filio secudum 
-      <lb ed="#P" n="44"/>originem, sequeretur, quod posset intelligi 
-      <lb ed="#P" n="45"/>in suo esse personali constitutus non intelle 
-      <lb ed="#P" n="46"/>cto filio, hoc autem est falsum, quia tunc pa 
-      <lb ed="#P" n="47"/>ter esset suppositum absolutum: Consequen 
-      <lb ed="#P" n="48"/>tiam probo, quia quamuis prius, inquantum 
-      <lb ed="#P" n="49"/>dicitur relatiue ad posterius, non possit
-      in<lb ed="#P" n="50" break="no"/>telligi non intellecto posteriori, id tamen quod 
-      <lb ed="#P" n="51"/>est prius, &amp; cui competit praefata relatio, eo 
-      <lb ed="#P" n="52"/>ipso quod in aliquo signo praecedit ipsum 
-      <lb ed="#P" n="53"/>posterius, potest intelligi illo non intellecto 
-      <lb ed="#P" n="54"/>quia in tali signo non est simul cum priori. 
-      <lb ed="#P" n="55"/>&amp; per consequens non est quid relatiuum, 
-      <lb ed="#P" n="56"/>poterit ergo intelligi illo non intellecto, &amp; 
-      <lb ed="#P" n="57"/>ita erit quid absolutum, &amp; sicpatet, quod 
-      <!--329.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 304 b -->
-               <lb ed="#P" n="58"/>proprie loquendo prius, &amp; posterius non re 
-      <lb ed="#P" n="59"/>periuntur in diuinis  
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1347">
-               <lb ed="#P" n="60"/>Et nunc tertio ostendo, quod nomen prio 
-      <lb ed="#P" n="61"/>ris, &amp; posterioris si extendatur ad diuinas pro 
-      <lb ed="#P" n="62"/>sonas, hoc est valde large: Vbi est intelligen 
-      <lb ed="#P" n="63"/>dum, quod de ratione prioris, &amp; posterioris,  
-      <lb ed="#P" n="64"/>proprie accepti videntur esse tria, quantum 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1360">
-               <lb ed="#P" n="65"/>Primum est distinctio, quia vnum, &amp; idem 
-      <lb ed="#P" n="66"/>ad praesens spectat. 
-      <lb ed="#P" n="67"/>non potest esse prius, &amp; posterius se ipso
-      Se<lb ed="#P" n="68" break="no"/>cundum est ordo, nam sicut patuit superius,  
-      <lb ed="#P" n="69"/>ordo oritur ex habitudine ad aliquod primum 
-      <lb ed="#P" n="70"/>vel principium. Et ideo, vbi inuenitur ratio 
-      <lb ed="#P" n="71"/>primi, vel principij ibi necessario ex
-      habitu<lb ed="#P" n="72" break="no"/>dine alterius, vel aliorum ad ipsum oritur ali 
-      <lb ed="#P" n="73"/>quis ordo, vbicunque autem est prius, &amp; po 
-      <lb ed="#P" n="74"/>sterius, ibi est aliquid, quod habet rationem 
-      <lb ed="#P" n="75"/>do. Tertium quod requiritur est ipsa
-      sucees<lb ed="#P" n="76" break="no"/>primi, vel principij, ergo necessario ibi est or 
-      <lb ed="#P" n="77"/>sio, sicut fuit superius declaratum, &amp; in hoc 
-      <lb ed="#P" n="78"/>videtur complete consistere ratio prioris, &amp;  
-      <lb ed="#P" n="79"/>posterioris proprie acceptorum.  
-      <lb ed="#P" n="80"/>prioris, &amp; posterioris transfertur ad diuinas 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1397">
-               <lb ed="#P" n="81"/>Ad propositum ergo dico quod nomen 
-      <lb ed="#P" n="82"/>personas ratione ordinis, &amp; distinctionis, quia 
-      <lb ed="#P" n="83"/>ibi est vera distinctio, &amp; verus ordo, cum sit 
-      <lb ed="#P" n="84"/>ibi vera ratio principij, &amp; principiati ex habi 
-      <lb ed="#P" n="85"/>tudine autem ad principium semper oritur 
-      <lb ed="#P" n="86"/>ordo, vt superius dicebatur. Haec autem
-      no<lb ed="#P" n="87" break="no"/>de large; vnde vel non debent concedi de di 
-      <lb ed="#P" n="88"/>mina nequeunt transferri ad diuinas
-      perso<lb ed="#P" n="89" break="no"/>uinis personis, uel debent concedi cum
-      tem<lb ed="#P" n="90" break="no"/>nas quantum ad illud quod important ratio 
-      <lb ed="#P" n="91"/>ne suceessionis, vt est superius declaratum; 
-      <lb ed="#P" n="92"/>ram rationem principij, siue praecessionis, &amp; 
-      <lb ed="#P" n="93"/>&amp; ideo eorum translatio ad personas fit
-      val<lb ed="#P" n="94" break="no"/>peramento, vt intelligamus ibi per prius ve 
-      <lb ed="#P" n="95"/>per posterius veram rationem principiati,
-      si<lb ed="#P" n="96" break="no"/>ue processionis, quibus declaratis facile
-      re<lb ed="#P" n="97" break="no"/>sponderi potest ad rationes alterius opi- 
-      <lb ed="#P" n="98"/>nionis 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1439">
-               <lb ed="#P" n="99"/>Ad primam ergo cum dicitur, quod
-      vbi<lb ed="#P" n="100" break="no"/>cunque est ordo, ibi est prius, &amp; posterius; 
-      <lb ed="#P" n="101"/>nego, &amp; cum probatur, quia semper ordo ac 
-      <lb ed="#P" n="102"/>cipitur per comparationem ad aliud princi 
-      <lb ed="#P" n="103"/>pium, concedo, non tamen propter hoc opot. 
-      <lb ed="#P" n="104"/>tet, quod tale principium habeat rationem 
-      <lb ed="#P" n="105"/>prioris, quia ita dicitur ibi principium a prin 
-      <lb ed="#P" n="106"/>cipiando, quod non a praecedendo Cum
-      ve<lb ed="#P" n="107" break="no"/>ro probatur contrarium, quia ea quae sunt 
-      <lb ed="#P" n="108"/>omnino simul, vnum non potest habere
-      ra<lb ed="#P" n="109" break="no"/>tionem principij magis quam e conuerso. 
-      <lb ed="#P" n="110"/>Dico, quod falsum est, nam sicut simultas non 
-      <lb ed="#P" n="111"/>tollit eorum distinctionem, ita etiam, nec tol 
-      <lb ed="#P" n="112"/>lit eorum proprietates, et conditiones; et ideo 
-      <lb ed="#P" n="113"/>si proprietas vnius est principiare, et, proprie 
-      <lb ed="#P" n="114"/>tas alterius principiari, retinebunt sibi prae¬ 
-      <!--330.xml-->
-      <pb ed="#P" n="305"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>fatas proprietates, stante eorum simultate, si 
-      <lb ed="#P" n="2"/>euti retinent suam distinctionem, &amp;
-      maxi<lb ed="#P" n="3" break="no"/>me vbi non habent distinctionem, nisi per di 
-      <lb ed="#P" n="4"/>ctas proprietates, sicut est in proposito. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1491">
-               <lb ed="#P" n="5"/>Peceat ergo dicta ratio per fallaciam
-      con<lb ed="#P" n="6" break="no"/>sequentis, quia arguit a pluribus causis Veri 
-      <lb ed="#P" n="7"/>tatis ad vnam tantum, nam quod sit ordo 
-      <lb ed="#P" n="8"/>inter aliqua, potest prouenire ex duabus cau 
-      <lb ed="#P" n="9"/>sis, puta, vel quia in eis est posterioris ad prius 
-      <lb ed="#P" n="10"/>suceessio, &amp; subordinatio, vel quia in eis est 
-      <lb ed="#P" n="11"/>principiati ad principium vrera coexigentia, 
-      <lb ed="#P" n="12"/>&amp; connexio, &amp; per consequens coordinatio,  
-      <lb ed="#P" n="13"/>&amp; secundum istum modum est ordo inter 
-      <lb ed="#P" n="14"/>diuinas personas 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1515">
-               <lb ed="#P" n="15"/>Ad secundam nego maiorem. Ad
-      proba<lb ed="#P" n="16" break="no"/>tionem cum dicitur, quod sicut in ijs, quae 
-      <lb ed="#P" n="17"/>distinguuntur natura, originans est prius
-      o<lb ed="#P" n="18" break="no"/>riginato naturaliter, ita in ijs, quae distinguum 
-      <lb ed="#P" n="19"/>tur sola origine, originans est prius
-      origina<lb ed="#P" n="20" break="no"/>to originaliter; dico, quod non est simile, quia 
-      <lb ed="#P" n="21"/>in ijs, quae distinguuntur secundum naturam, 
-      <lb ed="#P" n="22"/>originans est prius originato naturaliter, non 
-      <lb ed="#P" n="23"/>propter ipsam otiginem, sed propter
-      distin<lb ed="#P" n="24" break="no"/>ctionem naturae; ratione cuius sunt ibi diuer 
-      <lb ed="#P" n="25"/>sa signa naturae, quorum vnum respondet
-      o<lb ed="#P" n="26" break="no"/>riginanti, &amp; alterum originato, &amp; per conse 
-      <lb ed="#P" n="27"/>quens potest ibi esse suceessio, &amp; ratio prio 
-      <lb ed="#P" n="28"/>ris, &amp; posterioris; origo ergo ipsa non est cau 
-      <lb ed="#P" n="29"/>sa quare inter originans, &amp; originatum sit 
-      <lb ed="#P" n="30"/>ordo, &amp; suceessio prioris, &amp; posterioris, pot 
-      <lb ed="#P" n="31"/>tamen esse causa principij ordinis, quia
-      vbi<lb ed="#P" n="32" break="no"/>cunque est ordo, ibi est principium, &amp; per 
-      <lb ed="#P" n="33"/>consequens necessario est ibi ordo; in ijs
-      er<lb ed="#P" n="34" break="no"/>go, quae distinguuntur sola origine, sicuti pa 
-      <lb ed="#P" n="35"/>ter, &amp; filius in diuinis, origo ipsa ita est cau 
-      <lb ed="#P" n="36"/>sa simplicis originis, quod tamen non est cau 
-      <lb ed="#P" n="37"/>sa alicuius suceessionis secundum prius, &amp;  
-      <lb ed="#P" n="38"/>posterius.
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1571">
-               <lb ed="#P" n="39"/>Peccat ergo ista ratio per fallaciam
-      acci<lb ed="#P" n="40" break="no"/>piendo non causam pro causa, quia illam
-      suc<lb ed="#P" n="41" break="no"/>cessionem, vel subordinationem, quae est
-      po<lb ed="#P" n="42" break="no"/>sterioris originati sub priori originante in 
-      <lb ed="#P" n="43"/>ereaturis, reducit tanquam in causam in
-      ip<lb ed="#P" n="44" break="no"/>sam originem, cum tamen origo non sit cau 
-      <lb ed="#P" n="45"/>sa, sed distinctio naturae, ita quod si per
-      im<lb ed="#P" n="46" break="no"/>possibile natura esset vna in originante, &amp;  
-      <lb ed="#P" n="47"/>originato in creaturis, ita esset ibi ordo, quod 
-      <lb ed="#P" n="48"/>nuila suceessio, &amp; subordinatio reperiretur,  
-      <lb ed="#P" n="49"/>&amp; per consequens neque ratio prioris, &amp; po 
-      <lb ed="#P" n="50"/>sterioris. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1600">
-               <lb ed="#P" n="51"/>Ad confirmationem vero cum additur,  
-      <lb ed="#P" n="52"/>quod sicut prioritas naturae stat cum simulta 
-      <lb ed="#P" n="53"/>te durationis, &amp;c nego &amp; dico, quod haec con 
-      <lb ed="#P" n="54"/>firmatio dupliciter peccat, hoc n. pot duplici 
-      <lb ed="#P" n="55"/>ter intelligi. Vno modo, quod prius, &amp;
-      po<lb ed="#P" n="56" break="no"/>sterius secundum naturam sint simul
-      dura<lb ed="#P" n="57" break="no"/>tione, ita quod in ea nmulla sit suceessio, &amp;  
-      <!--330.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 305 b -->
-               <lb ed="#P" n="58"/>hoc modo concedo, quod stent simul. Alio 
-      <lb ed="#P" n="59"/>modo, quod prius, &amp; posterius secundum
-      na<lb ed="#P" n="60" break="no"/>turam sint simul duratione, &amp; in eodem
-      si<lb ed="#P" n="61" break="no"/>gno habeant suam durationem, &amp; hoc nego, 
-      <lb ed="#P" n="62"/>quia duratio non potest communicari alteri 
-      <lb ed="#P" n="63"/>rei ante suum signum naturae, &amp; ideo illud,  
-      <lb ed="#P" n="64"/>quod est prius secundum naturam, habet du 
-      <lb ed="#P" n="65"/>rationem in priori signo naturae, &amp; illud, quod 
-      <lb ed="#P" n="66"/>est posterius, in posteriori, quamuis illa dura 
-      <lb ed="#P" n="67"/>tio sit tota simul in vtroque. Simultas ergo 
-      <lb ed="#P" n="68"/>non est referenda ad ea, quae habent
-      dura<lb ed="#P" n="69" break="no"/>tionem, sed ad ipsam solam durationem, &amp;  
-      <lb ed="#P" n="70"/>sic non est omniquaque verum, prioritatem 
-      <lb ed="#P" n="71"/>naturae stare cum simultate durationis, &amp; da 
-      <lb ed="#P" n="72"/>to etiam quod esset verum simpliciter, non 
-      <lb ed="#P" n="73"/>propter hoc sequitur, quod eodem modo pro 
-      <lb ed="#P" n="74"/>prietas originis stet cum simultate naturae, 
-      <lb ed="#P" n="75"/>&amp; durationis; idcirco quamuis simultas
-      du<lb ed="#P" n="76" break="no"/>rationis non excludat omnem suceessionem, 
-      <lb ed="#P" n="77"/>simultas tamen naturae videtur omnem
-      suc<lb ed="#P" n="78" break="no"/>cessionem excludere, &amp; maxime suceessionem 
-      <lb ed="#P" n="79"/>originis, de qua est modo sermo, quod patet,  
-      <lb ed="#P" n="80"/>quia principium originis est natura, &amp;
-      ter<lb ed="#P" n="81" break="no"/>minus eiusdem est natura, si ergo originans, &amp;  
-      <lb ed="#P" n="82"/>originatum nullam habent suceessionem sm 
-      <lb ed="#P" n="83"/>naturam, ergo multo minus ea hnt sm originem. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1681">
-               <lb ed="#P" n="84"/>Ad tertiam rationem dico, quod prius po 
-      <lb ed="#P" n="85"/>test dupliciter accipi, vno modo inquantum 
-      <lb ed="#P" n="86"/>dicitur relatiue ad posterius, &amp; isto modo 
-      <lb ed="#P" n="87"/>ita est simul cum posteriori, quod non
-      prae<lb ed="#P" n="88" break="no"/>cedit ipsum in aliquo signo; nam si ipsum
-      p<lb ed="#P" n="89" break="no"/>cederet, tolleretur simultas relatiuorum;
-      Al<lb ed="#P" n="90" break="no"/>tero modo potest accipi ipsum prius
-      secun<lb ed="#P" n="91" break="no"/>dum illud, quod est prius, excepto eo, quod 
-      <lb ed="#P" n="92"/>relatiue dicitur, &amp; sic est aliquid absolutum, 
-      <lb ed="#P" n="93"/>&amp; praecedit ipsum posterius in aliquo signo 
-      <lb ed="#P" n="94"/>durationis, vel naturae. Et ideo ratio non est 
-      <lb ed="#P" n="95"/>ad propositum, quia si pater in diuinis hoc 
-      <lb ed="#P" n="96"/>modo praecederet filium in aliquo signo,
-      se<lb ed="#P" n="97" break="no"/>queretur, quod esset suppositum absolutum, 
-      <lb ed="#P" n="98"/>quod patet esse falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1716">
-               <lb ed="#P" n="99"/>Ad quartam rationem cum dicitur, vbi 
-      <lb ed="#P" n="100"/>est dare primum, &amp; secundum ratione
-      ori<lb ed="#P" n="101" break="no"/>ginis, ibi est dare prius, &amp; posterius; potest di 
-      <lb ed="#P" n="102"/>ci dupliciter; vno modo, quod sicut nomina 
-      <lb ed="#P" n="103"/>prioris, &amp; posterioris transferuntur ad
-      diui<lb ed="#P" n="104" break="no"/>nas personas valde large, quia non ratione 
-      <lb ed="#P" n="105"/>suceessionis, quam important principaliter,  
-      <lb ed="#P" n="106"/>sed ratione originis, quam non important, ita 
-      <lb ed="#P" n="107"/>principaliter; ita etiam eodem modo nomina 
-      <lb ed="#P" n="108"/>primi, &amp; secundi transferuntur ad eas valde 
-      <lb ed="#P" n="109"/>large, quia non ratione suceessionis, sed
-      ra<lb ed="#P" n="110" break="no"/>tione ordinis, dummodo ita sit, quod per ea 
-      <lb ed="#P" n="111"/>importetur suceessio, sicut importatur per 
-      <lb ed="#P" n="112"/>nomina prioris, &amp; posterioris; &amp; sic ratio non 
-      <lb ed="#P" n="113"/>est contra nos 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1751">
-               <lb ed="#P" n="114"/>Alio modo potest dici, quod non est simi¬ 
-      <!--331.xml-->
-      <pb ed="#P" n="306"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>le de nominibus primi, &amp; secundi, &amp; de non 
-      <lb ed="#P" n="2"/>minibus prioris, &amp; posterioris, quia nomina 
-      <lb ed="#P" n="3"/>primi, &amp; secundi sunt imposita ad significam 
-      <lb ed="#P" n="4"/>dum principaliter ipsum ordinem, propter 
-      <lb ed="#P" n="5"/>quod possunt transferri ad diuinas
-      perso<lb ed="#P" n="6" break="no"/>nas, fortasse etiam poprie. Nomina vero prio 
-      <lb ed="#P" n="7"/>ris, &amp; posterioris non sic, vt superius patuit. 
-      <lb ed="#P" n="8"/>Cum ergo dicitur, quod simile est de vtrisqu 
-      <lb ed="#P" n="9"/>nego, &amp; cum probatur, quia sicut secundum 
-      <lb ed="#P" n="10"/>sequitur ad primum, ita posterius ad prius. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1784">
-               <lb ed="#P" n="11"/>Dico quod ista sequela non est eodem
-      mo<lb ed="#P" n="12" break="no"/>do, quia sequela secundi ad primum dicit 
-      <lb ed="#P" n="13"/>simplicem ordinem sine successione.
-      Seque<lb ed="#P" n="14" break="no"/>ia vero posterius ad prius dicit ordinem cum 
-      <lb ed="#P" n="15"/>suceessione, &amp; eodem modo dicendum est 
-      <lb ed="#P" n="16"/>ad aliam probationem. Nam secundum ita 
-      <lb ed="#P" n="17"/>dicitur relatiue. ad primum quod tamen nul 
-      <lb ed="#P" n="18"/>la suceessio neccessario ibi supponitur, sed 
-      <lb ed="#P" n="19"/>posterius ita dicitut relatiue ad prius, quod  
-      <lb ed="#P" n="20"/>tamen necessario supponitur ibi suceessio si 
-      <lb ed="#P" n="21"/>proprie accipiantur. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1811">
-               <lb ed="#P" n="22"/>Ad auctoritatem vero Riccardi dicentis,  
-      <lb ed="#P" n="23"/>quod in Trinitate potest esse aliquid prius 
-      <lb ed="#P" n="24"/>alio causaliter, quamuis non temporaliter, di 
-      <lb ed="#P" n="25"/>co, quod Riccardus intelligit de priori
-      val<lb ed="#P" n="26" break="no"/>de large, secundum quem modum prius idem 
-      <lb ed="#P" n="27"/>est, quod principium; &amp; dicitur secundum 
-      <lb ed="#P" n="28"/>hoc ibi esse prius, vel principium, non a prae 
-      <lb ed="#P" n="29"/>cedendo, sed a principiando. Quod autem 
-      <lb ed="#P" n="30"/>ista sit eius intentio, potest haberi ex his, 
-      <lb ed="#P" n="31"/>quae dicit ix. cap. eiusdem libri de Trinitate, 
-      <lb ed="#P" n="32"/>vnde praefata auctoritas est dessumpta, vbi 
-      <lb ed="#P" n="33"/>ait, quod quaelibet persona posset accipere 
-      <lb ed="#P" n="34"/>ab alia quacunque persona pienum sapere, 
-      <lb ed="#P" n="35"/>&amp; per consequens plenum esse, si ipsum non 
-      <lb ed="#P" n="36"/>haberet aliunde. Et ideo (secundum viam 
-      <lb ed="#P" n="37"/>eius) si pater non haberet esse diuinum a se 
-      <lb ed="#P" n="38"/>posset ipsum accipere a filio, quemadmodum 
-      <lb ed="#P" n="39"/>lilius accipit ipsum a patre, quod nullo
-      mo<lb ed="#P" n="40" break="no"/>do haberet veritatem, si pater esset prior
-      fi<lb ed="#P" n="41" break="no"/>lio secundum originem, sicut imaginatur
-      o<lb ed="#P" n="42" break="no"/>pinio quae eius auctoritati innititur. Nam  
-      <lb ed="#P" n="43"/>dato per impossibile, quod pater non
-      habe<lb ed="#P" n="44" break="no"/>ret esse diuinum a se, si tamen esset prior
-      fi<lb ed="#P" n="45" break="no"/>lio secundum originem, nullo modo posset 
-      <lb ed="#P" n="46"/>accipere diuinum esse a filio, quia nunquam  
-      <lb ed="#P" n="47"/>prius, in quantum prius, accipit esse a
-      poste<lb ed="#P" n="48" break="no"/>riori. Et ideo oporteret, quod reciperet esse 
-      <lb ed="#P" n="49"/>ab aliqua alia persona priori. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1874">
-               <lb ed="#P" n="50"/>Cuius tamen contrarium expresse vvli 
-      <lb ed="#P" n="51"/>Riccardus, sicut patet in loco supradicto, 
-      <lb ed="#P" n="52"/>dicit nanque in principio illius cap. quod in 
-      <lb ed="#P" n="53"/>Deo idem est esse, &amp; sapere, &amp; per consequens 
-      <lb ed="#P" n="54"/>illa persona, quae ex aspectu alterius accipit 
-      <lb ed="#P" n="55"/>sapere, accipit etiam ab ea esse, &amp; statim
-      du<lb ed="#P" n="56" break="no"/>bitat contra se dicens; sicut persona procedens 
-      <lb ed="#P" n="57"/>videt producentem, ita persona producens 
-      <!--331.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 306 b -->
-               <lb ed="#P" n="58"/>videt productam, cur ergo non eadem ratione 
-      <lb ed="#P" n="59"/>conuincitur illam esse ab ista: sicut probatur,  
-      <lb ed="#P" n="60"/>&amp; conuincitur istam esse ab illa: quasi
-      di<lb ed="#P" n="61" break="no"/>cat, si persona producta puta Filius ex eo 
-      <lb ed="#P" n="62"/>quod aspicit personam producentem, scilicet 
-      <lb ed="#P" n="63"/>patrem accipit ab eo sapere, &amp; esse; qua de 
-      <lb ed="#P" n="64"/>causa persona producens scilicet pater, cum 
-      <lb ed="#P" n="65"/>aspiciat personam filij, sapere &amp; esse non
-      ac<lb ed="#P" n="66" break="no"/>cipit ab ea : &amp; respondet dicens, quod quae 
-      <lb ed="#P" n="67"/>libet persona ex aspectu alterius accipit
-      ple<lb ed="#P" n="68" break="no"/>num sapere, &amp; diuinum esse, nisi habeat
-      ali<lb ed="#P" n="69" break="no"/>unde, &amp; subdit, necesse enim est vt inde ha 
-      <lb ed="#P" n="70"/>beat si aliunde non habet, sed si habet ex se 
-      <lb ed="#P" n="71"/>non necesse est inde habere. Ex quibus colli 
-      <lb ed="#P" n="72"/>gitur, quod si pater non haberet diuinum es 
-      <lb ed="#P" n="73"/>se a se, ab alio acciperet illud, puta ab
-      ipso<lb ed="#P" n="74" break="no"/>met filio, &amp; per consequens esset ibi mutua 
-      <lb ed="#P" n="75"/>habitudo in acceptione diuini esse; haec
-      ta<lb ed="#P" n="76" break="no"/>men conuersio non posset saluari, quia inclu 
-      <lb ed="#P" n="77"/>deret incomposibilia si patet esset prior filio 
-      <lb ed="#P" n="78"/>secundum originem, vt ponit opinio
-      supe<lb ed="#P" n="79" break="no"/>rius recitata, Patet ergo quod Riccardus non 
-      <lb ed="#P" n="80"/>imaginatur inter patrem, &amp; filium ordinem 
-      <lb ed="#P" n="81"/>prioris, sicuti quidam ab eo assumunt, sed,  
-      <lb ed="#P" n="82"/>quod ibi sit prius, &amp; posterius valde large 
-      <lb ed="#P" n="83"/>modo quo superius declaratum fuit, &amp; ideo 
-      <lb ed="#P" n="84"/>profert ipsum non simpliciter, sed cum deter 
-      <lb ed="#P" n="85"/>minatione dicens, quod est ibi prius
-      causali<lb ed="#P" n="86" break="no"/>ter, quasi dicat, quod illud prius est idem 
-      <lb ed="#P" n="87"/>quod principium, &amp; posterius idem quod 
-      <lb ed="#P" n="88"/>principiatum, &amp; haec de tota quaestione. 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e1968">
-               <lb ed="#P" n="89"/>ADRATIONES PRINCIPALES 
-      <lb ed="#P" n="90"/>AD primam dico, quod si per
-      disparita<lb ed="#P" n="91" break="no"/>tem intelligamus quandam distinctio 
-      <lb ed="#P" n="92"/>nem, tunc Maior est vera, si vero
-      intelliga<lb ed="#P" n="93" break="no"/>mus inaequalitatem, tunc simpliciter est
-      fal<lb ed="#P" n="94" break="no"/>sa in diuinis, &amp; ad probationem ex Augusti 
-      <lb ed="#P" n="95"/>no dico, quod ibi Augustinus describit
-      ordi<lb ed="#P" n="96" break="no"/>nem prout includit successionem,
-      quomo<lb ed="#P" n="97" break="no"/>do reperitur in creaturis; illa tamen descriptio 
-      <lb ed="#P" n="98"/>non tangi: ordinis essentiam quantum ad to 
-      <lb ed="#P" n="99"/>tum, quapropter in diuinis ponitur ordo pro 
-      <lb ed="#P" n="100"/>ut abstrahit a disparitate, &amp; vt includit prae 
-      <lb ed="#P" n="101"/>tessionem, vel quasi suceessionem secundum 
-      <lb ed="#P" n="102"/>dependentiam 
-    </p>
-            <p xml:id="gsX5tY-d1e445-d1e2001">
-               <lb ed="#P" n="103"/>Ad secundam dico consequentiam non va 
-      <lb ed="#P" n="104"/>lere, quia pot ibi esse ordo sine priori, &amp;
-      po<lb ed="#P" n="105" break="no"/>steriori naturae. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="300"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e445"> <!-- l1d9q2 -->
+        <head xml:id="gsX5tY-d1e445-Hd1e109">Quaestio 2</head>
+        <head xml:id="gsX5tY-d1e445-Hd1e112" type="question-title">Utrum sit aliquis ordo in divinis inter patrem, et filium</head>
+        <p xml:id="gsX5tY-d1e445-d1e115">
+          <lb ed="#P" n="12"/>QVESTIO SECVNDA. 
+          <lb ed="#P" n="13"/>Vtrum sit aliquis ordo in diuinis inter
+          pa<lb ed="#P" n="14" break="no"/>trem &amp; filium.
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e124">
+          <lb ed="#P" n="15"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="16"/>negante.
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e132">
+          <lb ed="#P" n="17"/>IMV bi nulla est disparitas, ibi nullus
+          po<lb ed="#P" n="18" break="no"/>test esse ordo, sed inter patrem, &amp; fi- 
+          <lb ed="#P" n="19"/>lium in diuinis nulla est disparitas, immo
+          o<lb ed="#P" n="20" break="no"/>mnimoda paritas, &amp; similitudo, ergo &amp;c.
+          Mi<lb ed="#P" n="21" break="no"/>nor est nota ex dictis in praecedenti quaestio 
+          <lb ed="#P" n="22"/>ne: Maiorem probo, per <ref xml:id="gsX5tY-d1e445-Rd1e147">August. 10. de Ciui 
+            <lb ed="#P" n="23"/>tate Dei, cap. 15</ref>. vbi definiens ordinem
+          di<lb ed="#P" n="24" break="no"/>cit, quod <quote xml:id="gsX5tY-d1e445-Qd1e154" source="http://scta.info/resource/adcd-l19-d1e3124" synch="81-90">ordo est parium, dispariumque rerum, 
+            <lb ed="#P" n="25"/>osua cuique tribuens loca disposito</quote>: Ex quibus 
+          <lb ed="#P" n="26"/>verbis patet, quod vbi non est disparitas, ibi 
+          <lb ed="#P" n="27"/>non potest esse ordo. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e164">
+          <lb ed="#P" n="28"/>2 Si inter patrem, &amp; filium esset aliquis 
+          <lb ed="#P" n="29"/>ordo, sequeretur, quod ibi esset prius, &amp; po 
+          <lb ed="#P" n="30"/>sterius : Consequens est falsum; ergo &amp;c. 
+          <lb ed="#P" n="31"/>Falsitas patet per illud quod habetur in svm 
+          <lb ed="#P" n="32"/>bolo Athanasu, scilicet, quod in illa Trinita 
+          <lb ed="#P" n="33"/>te nihil prius, aut posterius : Consequentiam 
+          <lb ed="#P" n="34"/>probo, nam vbi est aliquis ordo, ibi
+          necessa<lb ed="#P" n="35" break="no"/>rio est dare primum, &amp; secundum, &amp; per con 
+          <lb ed="#P" n="36"/>sequens prius, &amp; posterius, quia sicuti potest 
+          <lb ed="#P" n="37"/>patere per definitionem ab August traditam 
+          <lb ed="#P" n="38"/>Ordo dicit determinatam dispositionem
+          or<lb ed="#P" n="39" break="no"/>dinatorum ad se inuicem; vbi autem non es 
+          <lb ed="#P" n="40"/>dare primum, &amp; secundum, ibi nulla potest 
+          <lb ed="#P" n="41"/>esse determinata disposito, sed potius est ibi 
+          <lb ed="#P" n="42"/>disposito indeterminata 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e199">
+          <lb ed="#P" n="43"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="44"/>affirmante¬. 
+          <lb ed="#P" n="45"/>Vbi inter aliqua plura non est ordo 
+          <lb ed="#P" n="46"/> neque determinata coaptatio, ibi vide 
+          <lb ed="#P" n="47"/>tur esse confusio, quae omnino remouenda 
+          <lb ed="#P" n="48"/>est a Deo, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e215">
+          <lb ed="#P" n="49"/>RESPONDEO: in ista quaestioni 
+          <lb ed="#P" n="50"/>duo sunt videnda 
+          <!--325.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 300 b -->
+          <lb ed="#P" n="51"/>1 An inter patrem, &amp; filium, sit alique ordo. 
+          <lb ed="#P" n="52"/>2 An sit in diuinis prius, &amp; posterius.
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e233">
+          <lb ed="#P" n="53"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="54"/>An inter patrem, &amp; filium sit aliquis ordo, 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e240">
+          <lb ed="#P" n="55"/>QVantum ad primum est intelligendum 
+          <lb ed="#P" n="56"/>quod ordo potest accipi duobus
+          mo<lb ed="#P" n="57" break="no"/>e dis; Vno modo communiter, &amp; isto 
+          <lb ed="#P" n="58"/>modo dicit relationem secudum totum
+          am<lb ed="#P" n="59" break="no"/>bitum sui generis; &amp; sic accipiendo ordinem, 
+          <lb ed="#P" n="60"/>semper est cum relatione: Alio modo potest 
+          <lb ed="#P" n="61"/>accipr ordo magis stricte, &amp; proprie, prout 
+          <lb ed="#P" n="62"/>videtur importare non quancunque
+          habi<lb ed="#P" n="63" break="no"/>tudinem, &amp; relationem, Sed habitudinem 
+          <lb ed="#P" n="64"/>alicuius, vel aliquorum terminatam ad
+          ali<lb ed="#P" n="65" break="no"/>quid, quod habet rationem principij, vel
+          ra<lb ed="#P" n="66" break="no"/>tionem primi, &amp; ideo vbi terminus
+          immedia<lb ed="#P" n="67" break="no"/>te vnus saltem principalis, &amp; vltimatus
+          ali<lb ed="#P" n="68" break="no"/>cuius habitudinis non habet rationem prin 
+          <lb ed="#P" n="69"/>cipij, vel aliquam rationem primitatis, respe 
+          <lb ed="#P" n="70"/>ctu habentis talem habitudinem, ibi talis ha 
+          <lb ed="#P" n="71"/>bitudo non potest dici ordo, stricte
+          accipi<lb ed="#P" n="72" break="no"/>endo ordinem: &amp; haec videtur intentio Com: 
+          <lb ed="#P" n="73"/>3. Metaph:, c. de priori, &amp; posteriori, vbi lo 
+          <lb ed="#P" n="74"/>quens de ordine dicit, Ordo autem non fit 
+          <lb ed="#P" n="75"/>nisi respectu primi alicuius praepositi, vel in 
+          <lb ed="#P" n="76"/>tellecti. Vult ergo, quod nulla habitudo sit 
+          <lb ed="#P" n="77"/>ordo pprie dictus, nisi terminetur ad aliud,  
+          <lb ed="#P" n="78"/>quod habeat rationem principij, uel rationem 
+          <lb ed="#P" n="79"/>primi; dico autem rationem ptincipij, vel ra 
+          <lb ed="#P" n="80"/>tionem primi; quia fortasse aliquis faciet dif 
+          <lb ed="#P" n="81"/>ferentiam inter principium, &amp; primum, cum 
+          <lb ed="#P" n="82"/>ratio principij videatur restringere rationi 
+          <lb ed="#P" n="83"/>primi, eo quod importet quandam causalita 
+          <lb ed="#P" n="84"/>tem, quam non importat primum de suo mo 
+          <lb ed="#P" n="85"/>do significandi; verum est tamen quod Ari 
+          <lb ed="#P" n="86"/>stoteles videtur accipere vtrunque pro
+          eo<lb ed="#P" n="87" break="no"/>dem, vnde &amp; primo Posteriorum ait, idem 
+          <lb ed="#P" n="88"/>dico primum, &amp; principium, quicquid tamen 
+          <lb ed="#P" n="89"/>sit de eorum differentia, nihil refert ad
+          pro<lb ed="#P" n="90" break="no"/>positum, quia sufficit scire quod ordo stricte 
+          <lb ed="#P" n="91"/>aceptus importat habitudinem terminatam  
+          <lb ed="#P" n="92"/>ad aliud, quod habet rationem primi, vel
+          prin<lb ed="#P" n="93" break="no"/>cipij respectu habentium talem habitudinem, 
+          <lb ed="#P" n="94"/>&amp; hinc est, quod inter eaquae sunt omnino 
+          <lb ed="#P" n="95"/>similia, non potest esse ordo proprie, quia 
+          <lb ed="#P" n="96"/>vnum eorum non potest habere rationem 
+          <lb ed="#P" n="97"/>principij respectu alterius, magis quam e 
+          <lb ed="#P" n="98"/>conuerso, propter quod requiritur, quod 
+          <lb ed="#P" n="99"/>aliquo modo sint dissimilia.  
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e341">
+          <lb ed="#P" n="100"/>Verum est tamen, quod ad eorum dissimi 
+          <lb ed="#P" n="101"/>litudinem sequitur necessario similitudo ci 
+          <lb ed="#P" n="102"/>iusdam proportionis, quia ipse ordo non v 
+          <!--326.xml-->
+          <pb ed="#P" n="301"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>detur esse aliud, quam quaedam dissimilium 
+          <lb ed="#P" n="2"/>proportio; &amp; ideo conuenionter Deatus Au 
+          <lb ed="#P" n="3"/>gust. accipit in definitione ordinis
+          parita<lb ed="#P" n="4" break="no"/>tem, &amp; disparitatem, sicut patet in
+          auctorita<lb ed="#P" n="5" break="no"/>te superius allegata. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e367">
+          <lb ed="#P" n="6"/>Ex quibus omnibus possumus colligere, 
+          <lb ed="#P" n="7"/>quod tria requiruntur ad hoc, quod inter
+          a<lb ed="#P" n="8" break="no"/>liqua sit ordo; Primo, quod sint distincta, 
+          <lb ed="#P" n="9"/>quia nihil proprie loquendo habet ordinem 
+          <lb ed="#P" n="10"/>ad se ipsum; Secundo, quod sint dissimilia,  
+          <lb ed="#P" n="11"/>quia ea, quae sunt omnino similia, non potest 
+          <lb ed="#P" n="12"/>dici quod vnum eorum habeat rationem prin 
+          <lb ed="#P" n="13"/>cipij alterius, magis quam e conuerso:
+          Ter<lb ed="#P" n="14" break="no"/>tio, quod inter ea sit habitudo terminata ac 
+          <lb ed="#P" n="15"/>aliquid, quod habeat rationem principij, vel 
+          <lb ed="#P" n="16"/>primi. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e393">
+          <lb ed="#P" n="17"/>Cum ergo quaeritur, vtrum inter patrem  
+          <lb ed="#P" n="18"/>&amp; filium in diuinis sit aliquis ordo, dico,  
+          <lb ed="#P" n="19"/>quod ibi est ordo communiter dictus, quia 
+          <lb ed="#P" n="20"/>est ibi mutua relatio, est etiam ibi ordo
+          pro<lb ed="#P" n="21" break="no"/>prie dictus, quia habitudo filiationis, quae est 
+          <lb ed="#P" n="22"/>in filio, terminatur per ipsum patiem, qui 
+          <lb ed="#P" n="23"/>est principium filij, sicut patet per
+          <ref xml:id="gsX5tY-d1e445-Rd1e410">Augusti<lb ed="#P" n="24" break="no"/>num 5. de Trinitate cap 20</ref>. vbi ait, quod 
+          <quote xml:id="gsX5tY-d1e445-Qd1e415" source="http://scta.info/resource/adt-l6-d1e785" synch="25-33">gi<lb ed="#P" n="25" break="no"/>gnens ad illud, quod gignitur principium 
+            <lb ed="#P" n="26"/>est</quote>, &amp; haec de primo articulo. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e423">
+          <lb ed="#P" n="27"/>ARTICVLVS SECVNDVS. 
+          <lb ed="#P" n="28"/>Vtrum concesso tali ordine, necessario sit 
+          <lb ed="#P" n="29"/>concedendum, Patrem esse priorem 
+          <lb ed="#P" n="30"/>Filio.
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e434">
+          <lb ed="#P" n="31"/>AD hoc dicunt aliqui, quod sic; ldque 
+          <lb ed="#P" n="32"/>probant quadrupliciter. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e441">
+          <lb ed="#P" n="33"/>Primo sic. Vbicunque est ordo, ibi necessa 
+          <lb ed="#P" n="34"/>rio est prius est posterius; Sed inter patrem. 
+          <lb ed="#P" n="35"/>&amp; filium est ordo, ergo prius, &amp; posterius; 
+          <lb ed="#P" n="36"/>non est autem dicendum, quod pater sit po 
+          <lb ed="#P" n="37"/>sterior filio, ergo prior, &amp; per consequens 
+          <lb ed="#P" n="38"/>fillus posterior: Minor conceditur; Maior 
+          <lb ed="#P" n="39"/>probatur, quia semper ordo accipitur per com 
+          <lb ed="#P" n="40"/>parationem ad aliquod pr incipium, sicut et 
+          <lb ed="#P" n="41"/>patet ex articulo praecedente, vbi autem non 
+          <lb ed="#P" n="42"/>inuenitur ratio prioris, &amp; posterioris, sed omia 
+          <lb ed="#P" n="43"/>sunt penitus simul, ibi non est aliquid, quod 
+          <lb ed="#P" n="44"/>possit habere rationem principij respectu al 
+          <lb ed="#P" n="45"/>terius, magis quam e conuerso. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e473">
+          <lb ed="#P" n="46"/>Secundo, vbi est originans, &amp; originatum,  
+          <lb ed="#P" n="47"/>ibi prius &amp; posterius, sed pater in diuinis est 
+          <lb ed="#P" n="48"/>vere originans, &amp; filius vere originatus, ergo 
+          <lb ed="#P" n="49"/>pater est prior, &amp; filius posterior: Minor con 
+          <lb ed="#P" n="50"/>ceditur; Maior probatur: quia sicut in ijs,  
+          <lb ed="#P" n="51"/>quae distinguuntur secundum naturam,
+          ori<lb ed="#P" n="52" break="no"/>ginans est prius originato naturaliter, ita 
+          <lb ed="#P" n="53"/>in ijs, quae distinguuntur sola origine, orig 
+          <!--326.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 301 b -->
+          <lb ed="#P" n="54"/>nans debet esse prius originato originaliter 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e502">
+          <lb ed="#P" n="55"/>Confirmatur, quia videmus, quod prius,  
+          <lb ed="#P" n="56"/>&amp; posterius secundum naturam possunt sta 
+          <lb ed="#P" n="57"/>re cum simultate durationis, nam subiectum 
+          <lb ed="#P" n="58"/>cum sit prius natura propria passione, quis 
+          <lb ed="#P" n="59"/>est ab ea independens, est simul cum ea
+          du<lb ed="#P" n="60" break="no"/>ratione, ergo eodem modo potest stare prius 
+          <lb ed="#P" n="61"/>&amp; posterius secundum originem cum simul 
+          <lb ed="#P" n="62"/>tate durationis, &amp; naturae, &amp; per consequens 
+          <lb ed="#P" n="63"/>non obstante, quod pater, &amp; filius sint simul 
+          <lb ed="#P" n="64"/>secundum durationem, quia habent vnam
+          du<lb ed="#P" n="65" break="no"/>rationis aeternitatem, &amp; etiam quod sint
+          si<lb ed="#P" n="66" break="no"/>mul secundum naturam, quia habent vnam 
+          <lb ed="#P" n="67"/>naturam, poterit vnus esse prior alio
+          secun<lb ed="#P" n="68" break="no"/>dum originem. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e535">
+          <lb ed="#P" n="69"/>Tertio, si aliqua causa obstaret, quare
+          pa<lb ed="#P" n="70" break="no"/>ter non esset prior filio in diuinis, esset simul 
+          <lb ed="#P" n="71"/>tas relatiuorum, quia non solum sunt simul 
+          <lb ed="#P" n="72"/>secundum naturam, sed etiam secundum
+          ra<lb ed="#P" n="73" break="no"/>tionem, cum vnum non poscit intelligi sine 
+          <lb ed="#P" n="74"/>altero, sed ista causa non obstat, ergo nulla 
+          <lb ed="#P" n="75"/>alia. Maior est nota, quia ista assignatur pro 
+          <lb ed="#P" n="76"/>potissima causa a tenentibus contrarium:
+          Mi<lb ed="#P" n="77" break="no"/>nor probatur, quia prius, &amp; posterius sunt re 
+          <lb ed="#P" n="78"/>latiua, &amp; tamen hoc non oostante, prius est 
+          <lb ed="#P" n="79"/>prius per continentiam, &amp; etiam causa, &amp;  
+          <lb ed="#P" n="80"/>effectus sunt relatiua, &amp; tamen causa est pri 
+          <lb ed="#P" n="81"/>or effectu, cum sit ab eo independens 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e566">
+          <lb ed="#P" n="82"/>Quarto, vbi est dare primum, &amp; secundum 
+          <lb ed="#P" n="83"/>ratione originis, ibi est dare prius, &amp;
+          poste<lb ed="#P" n="84" break="no"/>rius, sed hoc est in proposito, ergo &amp;c
+          Ma<lb ed="#P" n="85" break="no"/>por est nota, quia sicut secundum sequitur 
+          <lb ed="#P" n="86"/>ad primum, ita posterius sequitur ad prius,  
+          <lb ed="#P" n="87"/>&amp; sic primum dicitur relatiue ad posterius. 
+          <lb ed="#P" n="88"/>Minor probatur, quia sicuti patet ex eo quod 
+          <lb ed="#P" n="89"/>principium filij habet rationem primi, quia 
+          <lb ed="#P" n="90"/>ibidem est principium, &amp; primum, vt
+          supe<lb ed="#P" n="91" break="no"/>rius dicebatur, ita pari ratione filius ex eo 
+          <lb ed="#P" n="92"/>quod principiatum, habet rationem secundi. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e592">
+          <lb ed="#P" n="93"/>Ista opinio potest confirmari per
+          Riccar<lb ed="#P" n="94" break="no"/>dum, qui vult, quod in illa Trinitate,
+          quam<lb ed="#P" n="95" break="no"/>uis non sit prius, &amp; posterius temporaliter, 
+          <lb ed="#P" n="96"/>potest tamen ibi esse aliquo modo
+          causali<lb ed="#P" n="97" break="no"/>ter, &amp; per consequens naturaliter; vnde
+          in<lb ed="#P" n="98" break="no"/>fert <ref xml:id="gsX5tY-d1e445-Rd1e607">5. de Trinitate cap. 7</ref>. quod in Trinitate 
+          <lb ed="#P" n="99"/>nihil prius, aut posterius temporaliter
+          repe<lb ed="#P" n="100" break="no"/>riri potest, sed quod non potest esse prius
+          te<lb ed="#P" n="101" break="no"/>poraliter, potest esse prius causaliter, &amp; ex 
+          <lb ed="#P" n="102"/>hoc naturaliter, &amp; origine, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e619">
+          <lb ed="#P" n="103"/>Contra istum modum dicendi est opinio 
+          <lb ed="#P" n="104"/>communis, quae simpliciter negat prius, &amp;  
+          <lb ed="#P" n="105"/>posterius a diuinis personis: totale autem
+          fun<lb ed="#P" n="106" break="no"/>damentum, cui innititur est, quia si ibi esset 
+          <lb ed="#P" n="107"/>prius, &amp; posterius, vel hoc esset quantum ad 
+          <lb ed="#P" n="108"/>absoluta, &amp; hoc non, quia omnia sunt ibi
+          v<lb ed="#P" n="109" break="no"/>num, vel quantum ad relatiua, &amp; hoc non, 
+          <lb ed="#P" n="110"/>quia relatiua sunt simul, non solum secundum 
+          <!--327.xml-->
+          <pb ed="#P" n="302"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>naturam, sed etiam secundum rationem: nul 
+          <lb ed="#P" n="2"/>lo ergo modo potest ibi inueniri ratio
+          prio<lb ed="#P" n="3" break="no"/>ris, &amp; posterioris. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e653">
+          <lb ed="#P" n="4"/>Hanc opinionem credo veriorem
+          pro<lb ed="#P" n="5" break="no"/>pter tria 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e660">
+          <lb ed="#P" n="6"/>Primo, quia magis conformis est fidei vni 
+          <lb ed="#P" n="7"/>uersalis Ecclesiae, quam in Svmbolo
+          Atha<lb ed="#P" n="8" break="no"/>nasij profitemur, in quo simpliciter, &amp; sine 
+          <lb ed="#P" n="9"/>aliqua determinatione negatur prius, &amp;
+          po<lb ed="#P" n="10" break="no"/>sterius a diuinis personis. Secundo, quia fun 
+          <lb ed="#P" n="11"/>damentum, cui innititur, ita videtur efficax, 
+          <lb ed="#P" n="12"/>quod nullo modo potest tolli. Tertio, quia 
+          <lb ed="#P" n="13"/>Doctores plures, &amp; antiquiores in ea
+          concor<lb ed="#P" n="14" break="no"/>dant, verum quia rationes alterius opinionis 
+          <lb ed="#P" n="15"/>videntur aliqualiter cogere, idcirco in isto 
+          <lb ed="#P" n="16"/>articulo sic procedam. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e686">
+          <lb ed="#P" n="17"/>Primo distinguam de priori, &amp; posteriori. 
+          <lb ed="#P" n="18"/>Secundo ostendam, quod prius, &amp;
+          poste<lb ed="#P" n="19" break="no"/>rius proprie accepta omnino sunt neganda 
+          <lb ed="#P" n="20"/>a diuinis personis. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e697">
+          <lb ed="#P" n="21"/>Tertio ostendam, quod si extendatur ad 
+          <lb ed="#P" n="22"/>personas diu, natura prioris, &amp; posterioris,  
+          <lb ed="#P" n="23"/>hoc est valde large, &amp; per hoc soluam ratio 
+          <lb ed="#P" n="24"/>nes alterius opinionis.
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e708">
+          <lb ed="#P" n="25"/>Propter primum est intelligendum, quod 
+          <lb ed="#P" n="26"/>prius, &amp; posterius videntur primo inuenta es 
+          <lb ed="#P" n="27"/>se in tempore, quod patet, quia ponuntur in 
+          <lb ed="#P" n="28"/>definitione ipsius, tanquam suae differentiae 
+          <lb ed="#P" n="29"/>propriae, sicut patet 4. phy. vnde &amp; Com.
+          di<lb ed="#P" n="30" break="no"/>cit ibi Com ij. quod numerus ponuntur in de 
+          <lb ed="#P" n="31"/>finitione temporis, tanquam genus, &amp;
+          poste<lb ed="#P" n="32" break="no"/>rius tanquam differentia: constat aute, quod 
+          <lb ed="#P" n="33"/>prius, &amp; posterius inueniuntur in tempore, 
+          <lb ed="#P" n="34"/>ratione suceessionis. Et ideo ratio prioris non 
+          <lb ed="#P" n="35"/>videtur posse transferri proprie, nisi ad ea 
+          <lb ed="#P" n="36"/>in quibus inuenitur aliquis modus suceessio 
+          <lb ed="#P" n="37"/>nis, &amp; hinc est, quod omnes modi, prioris, &amp;  
+          <lb ed="#P" n="38"/>posterioris, quos ponit Arist. 5. Metaph videm 
+          <lb ed="#P" n="39"/>tur esse accepti penes diuersos modos succes 
+          <lb ed="#P" n="40"/>sionis, si quis bene consideret, quae ibi
+          di<lb ed="#P" n="41" break="no"/>cuntur. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e747">
+          <lb ed="#P" n="42"/>Ad cuius maiorem euidentiam est
+          aduer<lb ed="#P" n="43" break="no"/>tendum, quod omnis suceessio, vel est sucees 
+          <lb ed="#P" n="44"/>sio durationis, vel cuiusdam subordinationis: 
+          <lb ed="#P" n="45"/>hae autem duae suceessiones in hoc
+          conue<lb ed="#P" n="46" break="no"/>niunt, quod quaelibet attenditur secundum 
+          <lb ed="#P" n="47"/>diuersa signa, quae habet mensurare illas res 
+          <lb ed="#P" n="48"/>in quibus est talis successio durationis;
+          diffe<lb ed="#P" n="49" break="no"/>runt tamen in alio, quia signa illa secundum 
+          <lb ed="#P" n="50"/>quae attenditur suceessio durationis, penes 
+          <lb ed="#P" n="51"/>duo instantia temporis, nullo modo possunt 
+          <lb ed="#P" n="52"/>esse simul 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e774">
+          <lb ed="#P" n="53"/>Et ideo suceessio prioris, &amp; posterioris in 
+          <lb ed="#P" n="54"/>duratione omnino excludit simultatem; illa 
+          <lb ed="#P" n="55"/>vero signa, secundum quae attenditur
+          suc<lb ed="#P" n="56" break="no"/>cessio subordinationis, puta duo instantia na 
+          <lb ed="#P" n="57"/>turae, possunt esse, &amp; sunt simul, vt inferius 
+          <!--327.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 302 b -->
+          <lb ed="#P" n="58"/>patebit, propter quod suceessio prioris, &amp; po 
+          <lb ed="#P" n="59"/>sterioris in subordinatione non excludit
+          si<lb ed="#P" n="60" break="no"/>multatem, immo eam includit. Videmus
+          nam<lb ed="#P" n="61" break="no"/>que, quod subiectum, &amp; propria passio nul 
+          <lb ed="#P" n="62"/>lam habent suceessionem in duratione, quia 
+          <lb ed="#P" n="63"/>sunt in eodem signo durationis, secundum 
+          <lb ed="#P" n="64"/>quandam mensuram, habent tamen
+          sucees<lb ed="#P" n="65" break="no"/>sionem subordinationis, &amp; dependentiae
+          se<lb ed="#P" n="66" break="no"/>cundum suas naturas, quia passio, naturaliter 
+          <lb ed="#P" n="67"/>dependet a subiecto, &amp; non e conuerso; ideo 
+          <lb ed="#P" n="68"/>est subordinata naturae subiecti, &amp; non e con 
+          <lb ed="#P" n="69"/>uerso, &amp; per consequens, non est simul cum 
+          <lb ed="#P" n="70"/>subiecto, sed posterius eo secundum naturam, 
+          <lb ed="#P" n="71"/>&amp; quia suceessio prioris, &amp; posterioris non po 
+          <lb ed="#P" n="72"/>test esse secundum idem signum; idcirco aliud 
+          <lb ed="#P" n="73"/>est signum quod respondet subiecto, &amp; est 
+          <lb ed="#P" n="74"/>mensura suae naturae, &amp; aliud signum quod 
+          <lb ed="#P" n="75"/>respondet suae passioni; quamuis ergo passio 
+          <lb ed="#P" n="76"/>non sit posterior subiecto, nec ibi succedat 
+          <lb ed="#P" n="77"/>secundum durationem, succedit tamen sibi 
+          <lb ed="#P" n="78"/>secundum naturam, &amp; per consequens
+          ha<lb ed="#P" n="79" break="no"/>bent aliud, &amp; aliud signum naturae, quia
+          su<lb ed="#P" n="80" break="no"/>biectum est independens a passione, passio 
+          <lb ed="#P" n="81"/>vero dependet ab eo, propter quod ibi est 
+          <lb ed="#P" n="82"/>suceessio cuiusdam dependentiae, &amp;
+          subor<lb ed="#P" n="83" break="no"/>dinationis,  
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e850">
+          <lb ed="#P" n="84"/>Redeundo ergo ad propositum dico, quod 
+          <lb ed="#P" n="85"/>prius, &amp; posterius cum importent quandam 
+          <lb ed="#P" n="86"/>suceessionem inueniuntur in tempore, quod 
+          <lb ed="#P" n="87"/>est mensura omnium suceessiuorum:
+          conse<lb ed="#P" n="88" break="no"/>quenter vero possunt transferri ad quaecun 
+          <lb ed="#P" n="89"/>quae alia, in quibus inuenitur aliquis modus 
+          <lb ed="#P" n="90"/>suceessiuus, vt patere potest per Arist. 5. Me 
+          <lb ed="#P" n="91"/>taph vbi enumerat omnes modos prioritatis 
+          <lb ed="#P" n="92"/>Concludo ergo quod cum omnis suceessio 
+          <lb ed="#P" n="93"/>sit, vel durationis, vel subordinationis, sola  
+          <lb ed="#P" n="94"/>suceessio durationis est proprijssime dicta, &amp; 
+          <lb ed="#P" n="95"/>inuenitur in solo tempore, &amp; motu, penes 
+          <lb ed="#P" n="96"/>quam suceessionem sumitur primus modus 
+          <lb ed="#P" n="97"/>prioris, &amp; posterioris secundum tempus, qui 
+          <lb ed="#P" n="98"/>est proprijssimus, &amp; primus, ab Aristotele in 
+          <lb ed="#P" n="99"/>litera positus. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e887">
+          <lb ed="#P" n="100"/>Omnes vero alij modi videntur sumi
+          pe<lb ed="#P" n="101" break="no"/>nes suceessionem subordinationis, &amp; quia 
+          <lb ed="#P" n="102"/>sex modis potest aliquid subordinari alteri; 
+          <lb ed="#P" n="103"/>ideo ex Arist. possunt haberi sex alij modi 
+          <lb ed="#P" n="104"/>Nam vno modo potest aliquid subordinat 
+          <lb ed="#P" n="105"/>alteri secundum locum, vt dicatur prius, vel 
+          <lb ed="#P" n="106"/>posterius localiter. Alio modo secundum mo 
+          <lb ed="#P" n="107"/>tum. Tertio secundum potentiam. Quarto 
+          <lb ed="#P" n="108"/>secundum gradum dignitatis alicuius, &amp;
+          e<lb ed="#P" n="109" break="no"/>minentiae, in quo ab ipso exceditur. Quinto 
+          <lb ed="#P" n="110"/>secundum cognitionem. Sexto secundum na 
+          <lb ed="#P" n="111"/>turam, siue illa ordinatio proueniat ex
+          prio<lb ed="#P" n="112" break="no"/>ritate originis, sicut forma subordinatur ma 
+          <lb ed="#P" n="113"/>teriae, quia est posterior ea via originis, siue 
+          <lb ed="#P" n="114"/>proueniat: ex prioritate perfectionis, sicut e 
+          <!--328.xml-->
+          <pb ed="#P" n="303"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>conuerso materia subordinatur formae via
+          pro<lb ed="#P" n="2" break="no"/>fectionis, quia est posterior ea secundum per 
+          <lb ed="#P" n="3"/>fectionem, &amp; penes istam vltimam
+          subordina<lb ed="#P" n="4" break="no"/>tionem accipitur vltimus modus prioris, &amp;  
+          <lb ed="#P" n="5"/>posterioris, ex quibus, quantum in praesenti 
+          <lb ed="#P" n="6"/>sufficit, habemus, quod prius, &amp; posterius de 
+          <lb ed="#P" n="7"/>suo modo significandi, prout traditur
+          no<lb ed="#P" n="8" break="no"/>bis ab Aristotele, semper important quandam 
+          <lb ed="#P" n="9"/>suceessionem, vel durationis, vel
+          subordi<lb ed="#P" n="10" break="no"/>nationis. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e950">
+          <lb ed="#P" n="11"/>Si vero prius, &amp; posterius accipiantur
+          com<lb ed="#P" n="12" break="no"/>muniter, &amp; large, prout abstrahunt ab omni 
+          <lb ed="#P" n="13"/>suceessione, &amp; important simplicem, &amp; debi 
+          <lb ed="#P" n="14"/>tam coordinationem aliquorum distinctorum, 
+          <lb ed="#P" n="15"/>habentium aliquam similitudinem cum prio 
+          <lb ed="#P" n="16"/>ri, &amp; posteriori proprie dicti secundum suc. 
+          <lb ed="#P" n="17"/>cessionem, hoc modo non potest inueniri
+          eo<lb ed="#P" n="18" break="no"/>rum ratio in aliqua creatura, cuius ratio est,  
+          <lb ed="#P" n="19"/>quia in creaturis non possunt inueniri duo 
+          <lb ed="#P" n="20"/>esse ad inuicem ordinata, ita aequalia, quin 
+          <lb ed="#P" n="21"/>vel vnum subordinetur alteri, vel ambo
+          cui<lb ed="#P" n="22" break="no"/>dam tertio, &amp; per consequens, semper serua 
+          <lb ed="#P" n="23"/>bunt veram suceessionem posterioris ad prius,  
+          <lb ed="#P" n="24"/>siue per subordinationem vnius sub altero, 
+          <lb ed="#P" n="25"/>siue per subordinationem amborum sub ter 
+          <lb ed="#P" n="26"/>tio. Et ideo prius, &amp; posterius sic accepta vi 
+          <lb ed="#P" n="27"/>dentur valde extranea a modo significandi, 
+          <lb ed="#P" n="28"/>a quo dicta nomina sunt imposita, propter 
+          <lb ed="#P" n="29"/>quod nec etiam ab Aristotele sunt
+          conside<lb ed="#P" n="30" break="no"/>rata: patet ergo, quod erat primo
+          explican<lb ed="#P" n="31" break="no"/>dum circa hunc articulum.  
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e998">
+          <lb ed="#P" n="32"/>Quantum ad secundum dico, quod prius,  
+          <lb ed="#P" n="33"/>&amp; posterius accepta proprie secundum
+          mo<lb ed="#P" n="34" break="no"/>dum significandi, a quo dicta nomina sunt 
+          <lb ed="#P" n="35"/>imposita, &amp; ab Arist. tradita, omnino sunt ne 
+          <lb ed="#P" n="36"/>ganda a diuinis personis. Quae conclusio con 
+          <lb ed="#P" n="37"/>cessa est ab omnibus quantum ad prioritaten 
+          <lb ed="#P" n="38"/>temporis, vel naturae, &amp; ideo solum restat mi 
+          <lb ed="#P" n="39"/>hi eam probare quantum ad prioritatem ori 
+          <lb ed="#P" n="40"/>ginis, quod ibi non reperiatur, vt dicit opin 
+          <lb ed="#P" n="41"/>superius recitata, contra quam, praeter
+          ratio<lb ed="#P" n="42" break="no"/>nem adductam, quae optima mihi videtur,  
+          <lb ed="#P" n="43"/>adduco tres alias rationes. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1027">
+          <lb ed="#P" n="44"/>Prima, Si pater in diuinis esset prior silio 
+          <lb ed="#P" n="45"/>secundum originem, sequeretur, quod ibi 
+          <lb ed="#P" n="46"/>esset aliquis modus suceessionis, ita quod fi- 
+          <lb ed="#P" n="47"/>lius succederet ipsi patri secundum originem: 
+          <lb ed="#P" n="48"/>Consequens est falsum, ergo &amp;c.
+          Conse<lb ed="#P" n="49" break="no"/>quentia patet ex dictis superius, vbi ostensum 
+          <lb ed="#P" n="50"/>est, quod prius, &amp; posterius accepta proprie 
+          <lb ed="#P" n="51"/>secundum modum signisicandi, a quo dicta 
+          <lb ed="#P" n="52"/>nomina imponuntur, semper important
+          ali<lb ed="#P" n="53" break="no"/>quam suceessionem, sicut patet ex modo, quo 
+          <lb ed="#P" n="54"/>vtitur eis Aristoteles, distinguens modos 
+          <lb ed="#P" n="55"/>prioris, &amp; posterioris. Falsitatem probo, quia 
+          <lb ed="#P" n="56"/>vbicunque est aliqua suceessio, ibi est aliquis 
+          <lb ed="#P" n="57"/>exitus de potentia ad actum, cum hoc videa 
+          <!--328.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 303 b -->
+          <lb ed="#P" n="58"/>tur esse de ratione omnis suceessionis, exitus. 
+          <lb ed="#P" n="59"/>autem de potentia ad actum quocunque
+          mo<lb ed="#P" n="60" break="no"/>do omnino repugnat diuinis personis, ergo 
+          <lb ed="#P" n="61"/>nullo modo est ibi ratio prioris, &amp;
+          poste<lb ed="#P" n="62" break="no"/>rioris proprie accepti. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1078">
+          <lb ed="#P" n="63"/>Et confirmatur per Riccardum (cui
+          opi<lb ed="#P" n="64" break="no"/>nio contraria maxime innititur) dicentem ter 
+          <lb ed="#P" n="65"/>tio de Trinitate, cap. 8. oportuit aeternam per 
+          <lb ed="#P" n="66"/>sonam alteram coaeternam habere, nec
+          po<lb ed="#P" n="67" break="no"/>tuit vna alteram praecedere, nec vna alteri 
+          <lb ed="#P" n="68"/>succedere, 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1094">
+          <lb ed="#P" n="69"/>Neque valet si dicatur, quod intelligit de; 
+          <lb ed="#P" n="70"/>processione, &amp; suceessione secundum aeterni 
+          <lb ed="#P" n="71"/>tatem durationis, non autem de processione, 
+          <lb ed="#P" n="72"/>&amp; suceessione secundumoriginem, quo
+          mo<lb ed="#P" n="73" break="no"/>do potest concedi in diuinis personis: Nam e 
+          <lb ed="#P" n="74"/>quaero, vtrum processio, &amp; suceessio
+          secun<lb ed="#P" n="75" break="no"/>dum originem mensurentur eodem signo in 
+          <lb ed="#P" n="76"/>diuisibili, vel alio, &amp; alio: non eodem, quia 
+          <lb ed="#P" n="77"/>nulla esset proportio mensurae ad
+          mensura<lb ed="#P" n="78" break="no"/>tum, ergo alio, &amp; alio signo, ea autem, quae 
+          <lb ed="#P" n="79"/>habent diuersa signa, quorum vnum alteri 
+          <lb ed="#P" n="80"/>succedit, quamuis habeant eandem
+          duratio<lb ed="#P" n="81" break="no"/>nem, impossibile est tamen, quod se habeant. 
+          <lb ed="#P" n="82"/>ad illam durationem eodem modo, quia non  
+          <lb ed="#P" n="83"/>coaptantur illi durationi, nisi mediantibus 
+          <lb ed="#P" n="84"/>illis signis, sicut videmus de subiecto, &amp;
+          pas<lb ed="#P" n="85" break="no"/>sione. Nam dato, quod aliquod subiectum, 
+          <lb ed="#P" n="86"/>&amp; sua passio essent aeterna, quantumcunqu 
+          <lb ed="#P" n="87"/>haberent idem instas aeternitatis, &amp; durationis,  
+          <lb ed="#P" n="88"/>mediantibus diuersis instantibus naturae, quo 
+          <lb ed="#P" n="89"/>rum vnum alteri succederet, impossibile
+          es<lb ed="#P" n="90" break="no"/>set, quod se haberent ad illud instans
+          aeter<lb ed="#P" n="91" break="no"/>nitatis eodem modo. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1146">
+          <lb ed="#P" n="92"/>Et ideo adhuc esset verum dicere, quod 
+          <lb ed="#P" n="93"/>subiectum haberet aeternitatem per prius, &amp;  
+          <lb ed="#P" n="94"/>passio per posterius; Nam quamuis non
+          es<lb ed="#P" n="95" break="no"/>set suceessio prioris &amp; posterioris in ipso in 
+          <lb ed="#P" n="96"/>nstanti aeternitatis, esset tamen in
+          habenti<lb ed="#P" n="97" break="no"/>bus aeternitatem, &amp; in modo habendi illam: 
+          <lb ed="#P" n="98"/>mmo istum modum dicendi omnes
+          conce<lb ed="#P" n="99" break="no"/>dunt, siquidem omnes dicunt, quod si aliqua 
+          <lb ed="#P" n="100"/>creatura esset coaeterna Deo, adhuc tamen 
+          <lb ed="#P" n="101"/>esset verum dicere, Deum prius habere aeter. 
+          <lb ed="#P" n="102"/>nitatem, quam illa creatura, in cuius signum 
+          <lb ed="#P" n="103"/>quemadmodnm dicimus de futuris, quod  
+          <lb ed="#P" n="104"/>Deus regnabit in aeternum, &amp; vltra, quia 
+          <lb ed="#P" n="105"/>habet creaturam coaeternam ex parte post. 
+          <lb ed="#P" n="106"/>ita diceremus de praeterito, quod Deus
+          re<lb ed="#P" n="107" break="no"/>gnauit in aeternum, &amp; vltra, quia haberet 
+          <lb ed="#P" n="108"/>creaturam coeternam ex parte ante, quod 
+          <lb ed="#P" n="109"/>non esset propter aliud, nisi quia instans
+          na<lb ed="#P" n="110" break="no"/>turae diuinae, mediante quo coaptaretur aeter 
+          <lb ed="#P" n="111"/>nitati, esset prius instanti naturae illius
+          crea<lb ed="#P" n="112" break="no"/>turae, ita quod quis non esset suceessio prioris, &amp;  
+          <lb ed="#P" n="113"/>posterioris in ipsa aeternitate, esset tamen in Deo, 
+          <lb ed="#P" n="114"/>&amp; creatura habentibs aeternitate, &amp; i mo ha¬ 
+          <!--329.xml-->
+          <pb ed="#P" n="304"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bedi illam, verum esset dicere, quod creaturae 
+          <lb ed="#P" n="2"/>saccederent Deo in aeternitate, &amp; per
+          con<lb ed="#P" n="3" break="no"/>sequens, quod Deus eam praecederet. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1211">
+          <lb ed="#P" n="4"/>Applicando ergo hoc ad propositum,
+          di<lb ed="#P" n="5" break="no"/>eo similiter, quod si pater esset prior filio se 
+          <lb ed="#P" n="6"/>cundum originem, itaquod esset aliud signum 
+          <lb ed="#P" n="7"/>originis actiuae ipsius patris, &amp; aliud signum 
+          <lb ed="#P" n="8"/>originis passiuae filij, &amp; vnum succederet
+          al<lb ed="#P" n="9" break="no"/>teri, sicut oportet dicere secundum istam viam 
+          <lb ed="#P" n="10"/>coceremur dicere vlterius, quod pater prius 
+          <lb ed="#P" n="11"/>haberet aeternitatem, quam filius, &amp; quod 
+          <lb ed="#P" n="12"/>filius in aeternitate succederet ipsi patri, 
+          <lb ed="#P" n="13"/>quia pater mensuraretur aeternitate
+          mediam<lb ed="#P" n="14" break="no"/>te suo proprio signo, &amp; filius mediante suo, 
+          <lb ed="#P" n="15"/>&amp; per consequens quamuis non esset
+          suc<lb ed="#P" n="16" break="no"/>cessio in aeternitate communi vtrique, esset 
+          <lb ed="#P" n="17"/>tamen praecessio, &amp; suceessio in patre, &amp; filio 
+          <lb ed="#P" n="18"/>habentibus aeternitatem, &amp; in signis median 
+          <lb ed="#P" n="19"/>tibus quibus attingerent illam: &amp; quia ista 
+          <lb ed="#P" n="20"/>videntur valde inconuenientia, cogimur
+          di<lb ed="#P" n="21" break="no"/>cere, quod Riccardus per illam auctoritate 
+          <lb ed="#P" n="22"/>superius allegatam velit negare omnium suc 
+          <lb ed="#P" n="23"/>cessionem a diuinis personis, &amp; ita remanet 
+          <lb ed="#P" n="24"/>prima ratio cum sua confirmatione in
+          ro<lb ed="#P" n="25" break="no"/>bore. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1261">
+          <lb ed="#P" n="26"/>Secundo ad idem, si pater esset prior secu 
+          <lb ed="#P" n="27"/>dum originem, sequeretur, quod filius esset 
+          <lb ed="#P" n="28"/>subordinatus patri, consequens est falsum, er 
+          <lb ed="#P" n="29"/>go &amp;c. Consequentia est nota ex dictis, nam  
+          <lb ed="#P" n="30"/>ostensum est supra, quod posterioris ad prius 
+          <lb ed="#P" n="31"/>vel est suceessio durationis, vel est
+          sucees<lb ed="#P" n="32" break="no"/>sio subordinationis; cum ergo non sit ibi suc 
+          <lb ed="#P" n="33"/>cessio durationis (vt concedunt ponentes 
+          <lb ed="#P" n="34"/>contrariam opinionem) ergo saltem est ibi 
+          <lb ed="#P" n="35"/>suceessio subordinationis; Falsitatem probo; 
+          <lb ed="#P" n="36"/>nam si filius ratione originis subordinaretur 
+          <lb ed="#P" n="37"/>patri, illa origo non faceret eum aequalem, 
+          <lb ed="#P" n="38"/>sed minorem patre, quia ita videmus in om- 
+          <lb ed="#P" n="39"/>nibus modis prioris, &amp; posterioris, quod sem 
+          <lb ed="#P" n="40"/>per posterius inquantum subordinatur prio 
+          <lb ed="#P" n="41"/>ri, est sibi inaequale, &amp; eo indignius, quod er- 
+          <lb ed="#P" n="42"/>roneum est ponere in diuinis personis.  
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1300">
+          <lb ed="#P" n="43"/>Tertio. Si pater esset prior filio secudum 
+          <lb ed="#P" n="44"/>originem, sequeretur, quod posset intelligi 
+          <lb ed="#P" n="45"/>in suo esse personali constitutus non intelle 
+          <lb ed="#P" n="46"/>cto filio, hoc autem est falsum, quia tunc pa 
+          <lb ed="#P" n="47"/>ter esset suppositum absolutum: Consequen 
+          <lb ed="#P" n="48"/>tiam probo, quia quamuis prius, inquantum 
+          <lb ed="#P" n="49"/>dicitur relatiue ad posterius, non possit
+          in<lb ed="#P" n="50" break="no"/>telligi non intellecto posteriori, id tamen quod 
+          <lb ed="#P" n="51"/>est prius, &amp; cui competit praefata relatio, eo 
+          <lb ed="#P" n="52"/>ipso quod in aliquo signo praecedit ipsum 
+          <lb ed="#P" n="53"/>posterius, potest intelligi illo non intellecto 
+          <lb ed="#P" n="54"/>quia in tali signo non est simul cum priori. 
+          <lb ed="#P" n="55"/>&amp; per consequens non est quid relatiuum, 
+          <lb ed="#P" n="56"/>poterit ergo intelligi illo non intellecto, &amp; 
+          <lb ed="#P" n="57"/>ita erit quid absolutum, &amp; sicpatet, quod 
+          <!--329.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 304 b -->
+          <lb ed="#P" n="58"/>proprie loquendo prius, &amp; posterius non re 
+          <lb ed="#P" n="59"/>periuntur in diuinis  
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1347">
+          <lb ed="#P" n="60"/>Et nunc tertio ostendo, quod nomen prio 
+          <lb ed="#P" n="61"/>ris, &amp; posterioris si extendatur ad diuinas pro 
+          <lb ed="#P" n="62"/>sonas, hoc est valde large: Vbi est intelligen 
+          <lb ed="#P" n="63"/>dum, quod de ratione prioris, &amp; posterioris,  
+          <lb ed="#P" n="64"/>proprie accepti videntur esse tria, quantum 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1360">
+          <lb ed="#P" n="65"/>Primum est distinctio, quia vnum, &amp; idem 
+          <lb ed="#P" n="66"/>ad praesens spectat. 
+          <lb ed="#P" n="67"/>non potest esse prius, &amp; posterius se ipso
+          Se<lb ed="#P" n="68" break="no"/>cundum est ordo, nam sicut patuit superius,  
+          <lb ed="#P" n="69"/>ordo oritur ex habitudine ad aliquod primum 
+          <lb ed="#P" n="70"/>vel principium. Et ideo, vbi inuenitur ratio 
+          <lb ed="#P" n="71"/>primi, vel principij ibi necessario ex
+          habitu<lb ed="#P" n="72" break="no"/>dine alterius, vel aliorum ad ipsum oritur ali 
+          <lb ed="#P" n="73"/>quis ordo, vbicunque autem est prius, &amp; po 
+          <lb ed="#P" n="74"/>sterius, ibi est aliquid, quod habet rationem 
+          <lb ed="#P" n="75"/>do. Tertium quod requiritur est ipsa
+          sucees<lb ed="#P" n="76" break="no"/>primi, vel principij, ergo necessario ibi est or 
+          <lb ed="#P" n="77"/>sio, sicut fuit superius declaratum, &amp; in hoc 
+          <lb ed="#P" n="78"/>videtur complete consistere ratio prioris, &amp;  
+          <lb ed="#P" n="79"/>posterioris proprie acceptorum.  
+          <lb ed="#P" n="80"/>prioris, &amp; posterioris transfertur ad diuinas 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1397">
+          <lb ed="#P" n="81"/>Ad propositum ergo dico quod nomen 
+          <lb ed="#P" n="82"/>personas ratione ordinis, &amp; distinctionis, quia 
+          <lb ed="#P" n="83"/>ibi est vera distinctio, &amp; verus ordo, cum sit 
+          <lb ed="#P" n="84"/>ibi vera ratio principij, &amp; principiati ex habi 
+          <lb ed="#P" n="85"/>tudine autem ad principium semper oritur 
+          <lb ed="#P" n="86"/>ordo, vt superius dicebatur. Haec autem
+          no<lb ed="#P" n="87" break="no"/>de large; vnde vel non debent concedi de di 
+          <lb ed="#P" n="88"/>mina nequeunt transferri ad diuinas
+          perso<lb ed="#P" n="89" break="no"/>uinis personis, uel debent concedi cum
+          tem<lb ed="#P" n="90" break="no"/>nas quantum ad illud quod important ratio 
+          <lb ed="#P" n="91"/>ne suceessionis, vt est superius declaratum; 
+          <lb ed="#P" n="92"/>ram rationem principij, siue praecessionis, &amp; 
+          <lb ed="#P" n="93"/>&amp; ideo eorum translatio ad personas fit
+          val<lb ed="#P" n="94" break="no"/>peramento, vt intelligamus ibi per prius ve 
+          <lb ed="#P" n="95"/>per posterius veram rationem principiati,
+          si<lb ed="#P" n="96" break="no"/>ue processionis, quibus declaratis facile
+          re<lb ed="#P" n="97" break="no"/>sponderi potest ad rationes alterius opi- 
+          <lb ed="#P" n="98"/>nionis 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1439">
+          <lb ed="#P" n="99"/>Ad primam ergo cum dicitur, quod
+          vbi<lb ed="#P" n="100" break="no"/>cunque est ordo, ibi est prius, &amp; posterius; 
+          <lb ed="#P" n="101"/>nego, &amp; cum probatur, quia semper ordo ac 
+          <lb ed="#P" n="102"/>cipitur per comparationem ad aliud princi 
+          <lb ed="#P" n="103"/>pium, concedo, non tamen propter hoc opot. 
+          <lb ed="#P" n="104"/>tet, quod tale principium habeat rationem 
+          <lb ed="#P" n="105"/>prioris, quia ita dicitur ibi principium a prin 
+          <lb ed="#P" n="106"/>cipiando, quod non a praecedendo Cum
+          ve<lb ed="#P" n="107" break="no"/>ro probatur contrarium, quia ea quae sunt 
+          <lb ed="#P" n="108"/>omnino simul, vnum non potest habere
+          ra<lb ed="#P" n="109" break="no"/>tionem principij magis quam e conuerso. 
+          <lb ed="#P" n="110"/>Dico, quod falsum est, nam sicut simultas non 
+          <lb ed="#P" n="111"/>tollit eorum distinctionem, ita etiam, nec tol 
+          <lb ed="#P" n="112"/>lit eorum proprietates, et conditiones; et ideo 
+          <lb ed="#P" n="113"/>si proprietas vnius est principiare, et, proprie 
+          <lb ed="#P" n="114"/>tas alterius principiari, retinebunt sibi prae¬ 
+          <!--330.xml-->
+          <pb ed="#P" n="305"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>fatas proprietates, stante eorum simultate, si 
+          <lb ed="#P" n="2"/>euti retinent suam distinctionem, &amp;
+          maxi<lb ed="#P" n="3" break="no"/>me vbi non habent distinctionem, nisi per di 
+          <lb ed="#P" n="4"/>ctas proprietates, sicut est in proposito. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1491">
+          <lb ed="#P" n="5"/>Peceat ergo dicta ratio per fallaciam
+          con<lb ed="#P" n="6" break="no"/>sequentis, quia arguit a pluribus causis Veri 
+          <lb ed="#P" n="7"/>tatis ad vnam tantum, nam quod sit ordo 
+          <lb ed="#P" n="8"/>inter aliqua, potest prouenire ex duabus cau 
+          <lb ed="#P" n="9"/>sis, puta, vel quia in eis est posterioris ad prius 
+          <lb ed="#P" n="10"/>suceessio, &amp; subordinatio, vel quia in eis est 
+          <lb ed="#P" n="11"/>principiati ad principium vrera coexigentia, 
+          <lb ed="#P" n="12"/>&amp; connexio, &amp; per consequens coordinatio,  
+          <lb ed="#P" n="13"/>&amp; secundum istum modum est ordo inter 
+          <lb ed="#P" n="14"/>diuinas personas 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1515">
+          <lb ed="#P" n="15"/>Ad secundam nego maiorem. Ad
+          proba<lb ed="#P" n="16" break="no"/>tionem cum dicitur, quod sicut in ijs, quae 
+          <lb ed="#P" n="17"/>distinguuntur natura, originans est prius
+          o<lb ed="#P" n="18" break="no"/>riginato naturaliter, ita in ijs, quae distinguum 
+          <lb ed="#P" n="19"/>tur sola origine, originans est prius
+          origina<lb ed="#P" n="20" break="no"/>to originaliter; dico, quod non est simile, quia 
+          <lb ed="#P" n="21"/>in ijs, quae distinguuntur secundum naturam, 
+          <lb ed="#P" n="22"/>originans est prius originato naturaliter, non 
+          <lb ed="#P" n="23"/>propter ipsam otiginem, sed propter
+          distin<lb ed="#P" n="24" break="no"/>ctionem naturae; ratione cuius sunt ibi diuer 
+          <lb ed="#P" n="25"/>sa signa naturae, quorum vnum respondet
+          o<lb ed="#P" n="26" break="no"/>riginanti, &amp; alterum originato, &amp; per conse 
+          <lb ed="#P" n="27"/>quens potest ibi esse suceessio, &amp; ratio prio 
+          <lb ed="#P" n="28"/>ris, &amp; posterioris; origo ergo ipsa non est cau 
+          <lb ed="#P" n="29"/>sa quare inter originans, &amp; originatum sit 
+          <lb ed="#P" n="30"/>ordo, &amp; suceessio prioris, &amp; posterioris, pot 
+          <lb ed="#P" n="31"/>tamen esse causa principij ordinis, quia
+          vbi<lb ed="#P" n="32" break="no"/>cunque est ordo, ibi est principium, &amp; per 
+          <lb ed="#P" n="33"/>consequens necessario est ibi ordo; in ijs
+          er<lb ed="#P" n="34" break="no"/>go, quae distinguuntur sola origine, sicuti pa 
+          <lb ed="#P" n="35"/>ter, &amp; filius in diuinis, origo ipsa ita est cau 
+          <lb ed="#P" n="36"/>sa simplicis originis, quod tamen non est cau 
+          <lb ed="#P" n="37"/>sa alicuius suceessionis secundum prius, &amp;  
+          <lb ed="#P" n="38"/>posterius.
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1571">
+          <lb ed="#P" n="39"/>Peccat ergo ista ratio per fallaciam
+          acci<lb ed="#P" n="40" break="no"/>piendo non causam pro causa, quia illam
+          suc<lb ed="#P" n="41" break="no"/>cessionem, vel subordinationem, quae est
+          po<lb ed="#P" n="42" break="no"/>sterioris originati sub priori originante in 
+          <lb ed="#P" n="43"/>ereaturis, reducit tanquam in causam in
+          ip<lb ed="#P" n="44" break="no"/>sam originem, cum tamen origo non sit cau 
+          <lb ed="#P" n="45"/>sa, sed distinctio naturae, ita quod si per
+          im<lb ed="#P" n="46" break="no"/>possibile natura esset vna in originante, &amp;  
+          <lb ed="#P" n="47"/>originato in creaturis, ita esset ibi ordo, quod 
+          <lb ed="#P" n="48"/>nuila suceessio, &amp; subordinatio reperiretur,  
+          <lb ed="#P" n="49"/>&amp; per consequens neque ratio prioris, &amp; po 
+          <lb ed="#P" n="50"/>sterioris. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1600">
+          <lb ed="#P" n="51"/>Ad confirmationem vero cum additur,  
+          <lb ed="#P" n="52"/>quod sicut prioritas naturae stat cum simulta 
+          <lb ed="#P" n="53"/>te durationis, &amp;c nego &amp; dico, quod haec con 
+          <lb ed="#P" n="54"/>firmatio dupliciter peccat, hoc n. pot duplici 
+          <lb ed="#P" n="55"/>ter intelligi. Vno modo, quod prius, &amp;
+          po<lb ed="#P" n="56" break="no"/>sterius secundum naturam sint simul
+          dura<lb ed="#P" n="57" break="no"/>tione, ita quod in ea nmulla sit suceessio, &amp;  
+          <!--330.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 305 b -->
+          <lb ed="#P" n="58"/>hoc modo concedo, quod stent simul. Alio 
+          <lb ed="#P" n="59"/>modo, quod prius, &amp; posterius secundum
+          na<lb ed="#P" n="60" break="no"/>turam sint simul duratione, &amp; in eodem
+          si<lb ed="#P" n="61" break="no"/>gno habeant suam durationem, &amp; hoc nego, 
+          <lb ed="#P" n="62"/>quia duratio non potest communicari alteri 
+          <lb ed="#P" n="63"/>rei ante suum signum naturae, &amp; ideo illud,  
+          <lb ed="#P" n="64"/>quod est prius secundum naturam, habet du 
+          <lb ed="#P" n="65"/>rationem in priori signo naturae, &amp; illud, quod 
+          <lb ed="#P" n="66"/>est posterius, in posteriori, quamuis illa dura 
+          <lb ed="#P" n="67"/>tio sit tota simul in vtroque. Simultas ergo 
+          <lb ed="#P" n="68"/>non est referenda ad ea, quae habent
+          dura<lb ed="#P" n="69" break="no"/>tionem, sed ad ipsam solam durationem, &amp;  
+          <lb ed="#P" n="70"/>sic non est omniquaque verum, prioritatem 
+          <lb ed="#P" n="71"/>naturae stare cum simultate durationis, &amp; da 
+          <lb ed="#P" n="72"/>to etiam quod esset verum simpliciter, non 
+          <lb ed="#P" n="73"/>propter hoc sequitur, quod eodem modo pro 
+          <lb ed="#P" n="74"/>prietas originis stet cum simultate naturae, 
+          <lb ed="#P" n="75"/>&amp; durationis; idcirco quamuis simultas
+          du<lb ed="#P" n="76" break="no"/>rationis non excludat omnem suceessionem, 
+          <lb ed="#P" n="77"/>simultas tamen naturae videtur omnem
+          suc<lb ed="#P" n="78" break="no"/>cessionem excludere, &amp; maxime suceessionem 
+          <lb ed="#P" n="79"/>originis, de qua est modo sermo, quod patet,  
+          <lb ed="#P" n="80"/>quia principium originis est natura, &amp;
+          ter<lb ed="#P" n="81" break="no"/>minus eiusdem est natura, si ergo originans, &amp;  
+          <lb ed="#P" n="82"/>originatum nullam habent suceessionem sm 
+          <lb ed="#P" n="83"/>naturam, ergo multo minus ea hnt sm originem. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1681">
+          <lb ed="#P" n="84"/>Ad tertiam rationem dico, quod prius po 
+          <lb ed="#P" n="85"/>test dupliciter accipi, vno modo inquantum 
+          <lb ed="#P" n="86"/>dicitur relatiue ad posterius, &amp; isto modo 
+          <lb ed="#P" n="87"/>ita est simul cum posteriori, quod non
+          prae<lb ed="#P" n="88" break="no"/>cedit ipsum in aliquo signo; nam si ipsum
+          p<lb ed="#P" n="89" break="no"/>cederet, tolleretur simultas relatiuorum;
+          Al<lb ed="#P" n="90" break="no"/>tero modo potest accipi ipsum prius
+          secun<lb ed="#P" n="91" break="no"/>dum illud, quod est prius, excepto eo, quod 
+          <lb ed="#P" n="92"/>relatiue dicitur, &amp; sic est aliquid absolutum, 
+          <lb ed="#P" n="93"/>&amp; praecedit ipsum posterius in aliquo signo 
+          <lb ed="#P" n="94"/>durationis, vel naturae. Et ideo ratio non est 
+          <lb ed="#P" n="95"/>ad propositum, quia si pater in diuinis hoc 
+          <lb ed="#P" n="96"/>modo praecederet filium in aliquo signo,
+          se<lb ed="#P" n="97" break="no"/>queretur, quod esset suppositum absolutum, 
+          <lb ed="#P" n="98"/>quod patet esse falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1716">
+          <lb ed="#P" n="99"/>Ad quartam rationem cum dicitur, vbi 
+          <lb ed="#P" n="100"/>est dare primum, &amp; secundum ratione
+          ori<lb ed="#P" n="101" break="no"/>ginis, ibi est dare prius, &amp; posterius; potest di 
+          <lb ed="#P" n="102"/>ci dupliciter; vno modo, quod sicut nomina 
+          <lb ed="#P" n="103"/>prioris, &amp; posterioris transferuntur ad
+          diui<lb ed="#P" n="104" break="no"/>nas personas valde large, quia non ratione 
+          <lb ed="#P" n="105"/>suceessionis, quam important principaliter,  
+          <lb ed="#P" n="106"/>sed ratione originis, quam non important, ita 
+          <lb ed="#P" n="107"/>principaliter; ita etiam eodem modo nomina 
+          <lb ed="#P" n="108"/>primi, &amp; secundi transferuntur ad eas valde 
+          <lb ed="#P" n="109"/>large, quia non ratione suceessionis, sed
+          ra<lb ed="#P" n="110" break="no"/>tione ordinis, dummodo ita sit, quod per ea 
+          <lb ed="#P" n="111"/>importetur suceessio, sicut importatur per 
+          <lb ed="#P" n="112"/>nomina prioris, &amp; posterioris; &amp; sic ratio non 
+          <lb ed="#P" n="113"/>est contra nos 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1751">
+          <lb ed="#P" n="114"/>Alio modo potest dici, quod non est simi¬ 
+          <!--331.xml-->
+          <pb ed="#P" n="306"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>le de nominibus primi, &amp; secundi, &amp; de non 
+          <lb ed="#P" n="2"/>minibus prioris, &amp; posterioris, quia nomina 
+          <lb ed="#P" n="3"/>primi, &amp; secundi sunt imposita ad significam 
+          <lb ed="#P" n="4"/>dum principaliter ipsum ordinem, propter 
+          <lb ed="#P" n="5"/>quod possunt transferri ad diuinas
+          perso<lb ed="#P" n="6" break="no"/>nas, fortasse etiam poprie. Nomina vero prio 
+          <lb ed="#P" n="7"/>ris, &amp; posterioris non sic, vt superius patuit. 
+          <lb ed="#P" n="8"/>Cum ergo dicitur, quod simile est de vtrisqu 
+          <lb ed="#P" n="9"/>nego, &amp; cum probatur, quia sicut secundum 
+          <lb ed="#P" n="10"/>sequitur ad primum, ita posterius ad prius. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1784">
+          <lb ed="#P" n="11"/>Dico quod ista sequela non est eodem
+          mo<lb ed="#P" n="12" break="no"/>do, quia sequela secundi ad primum dicit 
+          <lb ed="#P" n="13"/>simplicem ordinem sine successione.
+          Seque<lb ed="#P" n="14" break="no"/>ia vero posterius ad prius dicit ordinem cum 
+          <lb ed="#P" n="15"/>suceessione, &amp; eodem modo dicendum est 
+          <lb ed="#P" n="16"/>ad aliam probationem. Nam secundum ita 
+          <lb ed="#P" n="17"/>dicitur relatiue. ad primum quod tamen nul 
+          <lb ed="#P" n="18"/>la suceessio neccessario ibi supponitur, sed 
+          <lb ed="#P" n="19"/>posterius ita dicitut relatiue ad prius, quod  
+          <lb ed="#P" n="20"/>tamen necessario supponitur ibi suceessio si 
+          <lb ed="#P" n="21"/>proprie accipiantur. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1811">
+          <lb ed="#P" n="22"/>Ad auctoritatem vero Riccardi dicentis,  
+          <lb ed="#P" n="23"/>quod in Trinitate potest esse aliquid prius 
+          <lb ed="#P" n="24"/>alio causaliter, quamuis non temporaliter, di 
+          <lb ed="#P" n="25"/>co, quod Riccardus intelligit de priori
+          val<lb ed="#P" n="26" break="no"/>de large, secundum quem modum prius idem 
+          <lb ed="#P" n="27"/>est, quod principium; &amp; dicitur secundum 
+          <lb ed="#P" n="28"/>hoc ibi esse prius, vel principium, non a prae 
+          <lb ed="#P" n="29"/>cedendo, sed a principiando. Quod autem 
+          <lb ed="#P" n="30"/>ista sit eius intentio, potest haberi ex his, 
+          <lb ed="#P" n="31"/>quae dicit ix. cap. eiusdem libri de Trinitate, 
+          <lb ed="#P" n="32"/>vnde praefata auctoritas est dessumpta, vbi 
+          <lb ed="#P" n="33"/>ait, quod quaelibet persona posset accipere 
+          <lb ed="#P" n="34"/>ab alia quacunque persona pienum sapere, 
+          <lb ed="#P" n="35"/>&amp; per consequens plenum esse, si ipsum non 
+          <lb ed="#P" n="36"/>haberet aliunde. Et ideo (secundum viam 
+          <lb ed="#P" n="37"/>eius) si pater non haberet esse diuinum a se 
+          <lb ed="#P" n="38"/>posset ipsum accipere a filio, quemadmodum 
+          <lb ed="#P" n="39"/>lilius accipit ipsum a patre, quod nullo
+          mo<lb ed="#P" n="40" break="no"/>do haberet veritatem, si pater esset prior
+          fi<lb ed="#P" n="41" break="no"/>lio secundum originem, sicut imaginatur
+          o<lb ed="#P" n="42" break="no"/>pinio quae eius auctoritati innititur. Nam  
+          <lb ed="#P" n="43"/>dato per impossibile, quod pater non
+          habe<lb ed="#P" n="44" break="no"/>ret esse diuinum a se, si tamen esset prior
+          fi<lb ed="#P" n="45" break="no"/>lio secundum originem, nullo modo posset 
+          <lb ed="#P" n="46"/>accipere diuinum esse a filio, quia nunquam  
+          <lb ed="#P" n="47"/>prius, in quantum prius, accipit esse a
+          poste<lb ed="#P" n="48" break="no"/>riori. Et ideo oporteret, quod reciperet esse 
+          <lb ed="#P" n="49"/>ab aliqua alia persona priori. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1874">
+          <lb ed="#P" n="50"/>Cuius tamen contrarium expresse vvli 
+          <lb ed="#P" n="51"/>Riccardus, sicut patet in loco supradicto, 
+          <lb ed="#P" n="52"/>dicit nanque in principio illius cap. quod in 
+          <lb ed="#P" n="53"/>Deo idem est esse, &amp; sapere, &amp; per consequens 
+          <lb ed="#P" n="54"/>illa persona, quae ex aspectu alterius accipit 
+          <lb ed="#P" n="55"/>sapere, accipit etiam ab ea esse, &amp; statim
+          du<lb ed="#P" n="56" break="no"/>bitat contra se dicens; sicut persona procedens 
+          <lb ed="#P" n="57"/>videt producentem, ita persona producens 
+          <!--331.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 306 b -->
+          <lb ed="#P" n="58"/>videt productam, cur ergo non eadem ratione 
+          <lb ed="#P" n="59"/>conuincitur illam esse ab ista: sicut probatur,  
+          <lb ed="#P" n="60"/>&amp; conuincitur istam esse ab illa: quasi
+          di<lb ed="#P" n="61" break="no"/>cat, si persona producta puta Filius ex eo 
+          <lb ed="#P" n="62"/>quod aspicit personam producentem, scilicet 
+          <lb ed="#P" n="63"/>patrem accipit ab eo sapere, &amp; esse; qua de 
+          <lb ed="#P" n="64"/>causa persona producens scilicet pater, cum 
+          <lb ed="#P" n="65"/>aspiciat personam filij, sapere &amp; esse non
+          ac<lb ed="#P" n="66" break="no"/>cipit ab ea : &amp; respondet dicens, quod quae 
+          <lb ed="#P" n="67"/>libet persona ex aspectu alterius accipit
+          ple<lb ed="#P" n="68" break="no"/>num sapere, &amp; diuinum esse, nisi habeat
+          ali<lb ed="#P" n="69" break="no"/>unde, &amp; subdit, necesse enim est vt inde ha 
+          <lb ed="#P" n="70"/>beat si aliunde non habet, sed si habet ex se 
+          <lb ed="#P" n="71"/>non necesse est inde habere. Ex quibus colli 
+          <lb ed="#P" n="72"/>gitur, quod si pater non haberet diuinum es 
+          <lb ed="#P" n="73"/>se a se, ab alio acciperet illud, puta ab
+          ipso<lb ed="#P" n="74" break="no"/>met filio, &amp; per consequens esset ibi mutua 
+          <lb ed="#P" n="75"/>habitudo in acceptione diuini esse; haec
+          ta<lb ed="#P" n="76" break="no"/>men conuersio non posset saluari, quia inclu 
+          <lb ed="#P" n="77"/>deret incomposibilia si patet esset prior filio 
+          <lb ed="#P" n="78"/>secundum originem, vt ponit opinio
+          supe<lb ed="#P" n="79" break="no"/>rius recitata, Patet ergo quod Riccardus non 
+          <lb ed="#P" n="80"/>imaginatur inter patrem, &amp; filium ordinem 
+          <lb ed="#P" n="81"/>prioris, sicuti quidam ab eo assumunt, sed,  
+          <lb ed="#P" n="82"/>quod ibi sit prius, &amp; posterius valde large 
+          <lb ed="#P" n="83"/>modo quo superius declaratum fuit, &amp; ideo 
+          <lb ed="#P" n="84"/>profert ipsum non simpliciter, sed cum deter 
+          <lb ed="#P" n="85"/>minatione dicens, quod est ibi prius
+          causali<lb ed="#P" n="86" break="no"/>ter, quasi dicat, quod illud prius est idem 
+          <lb ed="#P" n="87"/>quod principium, &amp; posterius idem quod 
+          <lb ed="#P" n="88"/>principiatum, &amp; haec de tota quaestione. 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e1968">
+          <lb ed="#P" n="89"/>ADRATIONES PRINCIPALES 
+          <lb ed="#P" n="90"/>AD primam dico, quod si per
+          disparita<lb ed="#P" n="91" break="no"/>tem intelligamus quandam distinctio 
+          <lb ed="#P" n="92"/>nem, tunc Maior est vera, si vero
+          intelliga<lb ed="#P" n="93" break="no"/>mus inaequalitatem, tunc simpliciter est
+          fal<lb ed="#P" n="94" break="no"/>sa in diuinis, &amp; ad probationem ex Augusti 
+          <lb ed="#P" n="95"/>no dico, quod ibi Augustinus describit
+          ordi<lb ed="#P" n="96" break="no"/>nem prout includit successionem,
+          quomo<lb ed="#P" n="97" break="no"/>do reperitur in creaturis; illa tamen descriptio 
+          <lb ed="#P" n="98"/>non tangi: ordinis essentiam quantum ad to 
+          <lb ed="#P" n="99"/>tum, quapropter in diuinis ponitur ordo pro 
+          <lb ed="#P" n="100"/>ut abstrahit a disparitate, &amp; vt includit prae 
+          <lb ed="#P" n="101"/>tessionem, vel quasi suceessionem secundum 
+          <lb ed="#P" n="102"/>dependentiam 
+        </p>
+        <p xml:id="gsX5tY-d1e445-d1e2001">
+          <lb ed="#P" n="103"/>Ad secundam dico consequentiam non va 
+          <lb ed="#P" n="104"/>lere, quia pot ibi esse ordo sine priori, &amp;
+          po<lb ed="#P" n="105" break="no"/>steriori naturae. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

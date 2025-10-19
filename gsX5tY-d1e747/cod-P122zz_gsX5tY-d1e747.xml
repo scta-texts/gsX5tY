@@ -1,354 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 2</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 2</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="480"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e747"> <!-- l1d24q2 -->
-            <head xml:id="gsX5tY-d1e747-Hd1e109">Quaestio 2</head>
-            <head xml:id="gsX5tY-d1e747-Hd1e112" type="question-title">Utrum in Deo sit aliquis numerus</head>
-            <p xml:id="gsX5tY-d1e747-d1e115">
-      <!--505.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 480 b -->
-               <lb ed="#P" n="58"/>DISTINCTIONIS NxIV. 
-      <lb ed="#P" n="59"/>QVAESTIO SECVNDA 
-      <lb ed="#P" n="60"/>Vtrum in Deo sit aliquis numerus. 
-      <lb ed="#P" n="61"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="62"/>negatiua.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e135">
-               <lb ed="#P" n="63"/>Nquit Boetius in libro de Trinit. Illud e 
-      <lb ed="#P" n="64"/>vere vnum, in quo nullus numerus est; 
-      <lb ed="#P" n="65"/>sed Deus est summe vnus, vt patuit supra, 
-      <lb ed="#P" n="66"/>ergo &amp;c. Confirmatur, quia Magister in
-      prae<lb ed="#P" n="67" break="no"/>cedenti distinctione videtur velle, quod vsus 
-      <lb ed="#P" n="68"/>terminorum numeralium in Deo sit
-      intro<lb ed="#P" n="69" break="no"/>ductus potius ad remouendum, quam ad po 
-      <lb ed="#P" n="70"/>nendum, vbi autem est numerus, ibi videtur 
-      <lb ed="#P" n="71"/>aliquid ponere; Remanet ergo quod in Deo 
-      <lb ed="#P" n="72"/>non sit aliquis numerus.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e160">
-               <lb ed="#P" n="73"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="74"/>affirmatiue.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e167">
-               <lb ed="#P" n="75"/>Vbi est Trinitas, ibi est aliqua species 
-      <lb ed="#P" n="76"/>numeri, &amp; per consequens numerus; 
-      <lb ed="#P" n="77"/>In Deo est Trinitas personarum, ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e176">
-               <lb ed="#P" n="78"/>RESPONDEO: In ista quaestione 
-      <lb ed="#P" n="79"/>est aliquod certum, &amp; aliquod dubium Cer 
-      <lb ed="#P" n="80"/>tum est enim quod in Deo non est aliquis 
-      <lb ed="#P" n="81"/>numerus, quod sit de genere quantitatis,  
-      <lb ed="#P" n="82"/>quia in eo nullum est accidens; Sed est
-      du<lb ed="#P" n="83" break="no"/>bium de numero, quod est idem, quod mul 
-      <lb ed="#P" n="84"/>titudo transcendens ideo quaero. An talis nu 
-      <lb ed="#P" n="85"/>merus possit in Deo inueniri sine
-      repugnan<lb ed="#P" n="86" break="no"/>tia, &amp; dato, quod inueniatur; An ponat ibi 
-      <lb ed="#P" n="87"/>aliquid, vel folum remoueat sicut videtur 
-      <lb ed="#P" n="88"/>dicere Magister in litera, 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e202">
-               <lb ed="#P" n="89"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="90"/>An in Deo sit numerus transcendens impor 
-      <lb ed="#P" n="91"/>tans quid positiuum.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e211">
-               <lb ed="#P" n="92"/>D quod respondent quidam dicentes,  
-      <lb ed="#P" n="93"/>quod in Deo est aliquis numerus, non 
-      <lb ed="#P" n="94"/>tamen ponit in eo aliquid, sed solum
-      remo<lb ed="#P" n="95" break="no"/>uet, quia (secundum eos) ratio talis numeri, 
-      <lb ed="#P" n="96"/>vel multitudinis est priuatiua,
-      quemadmo<lb ed="#P" n="97" break="no"/>dum ratio vnius. Nam sicut ratio vnius, quod 
-      <lb ed="#P" n="98"/>cum ente conuertitur, non addit supra ens, 
-      <lb ed="#P" n="99"/>nisi negationem diuisionis; ita etiam ratio ta 
-      <lb ed="#P" n="100"/>lis numeri, vel multitudinis non addit aliqud 
-      <lb ed="#P" n="101"/>supra res, de quibus dicitur, nisi solam
-      nega<lb ed="#P" n="102" break="no"/>tionem diuisionis circa vnanquanque earum, 
-      <lb ed="#P" n="103"/>quia de ratione multitudinis est, quod
-      con<lb ed="#P" n="104" break="no"/>stituatur ex vnitatibus, quarum vna non  
-      <!--506.xml-->
-      <pb ed="#P" n="481"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>vt alia, &amp; ideo pluralitas personarum in
-      di<lb ed="#P" n="2" break="no"/>uinis (secundum eos) non significat aliud, 
-      <lb ed="#P" n="3"/>quam indiuisionem circa vnamquamque eas 
-      <lb ed="#P" n="4"/>rum: Et istam dicunt fuisse intentionem Ma 
-      <lb ed="#P" n="5"/>gistri in ista dist. qui voluiti; quod, termini 
-      <lb ed="#P" n="6"/>numerales in diuinis non ponerent aliquid,  
-      <lb ed="#P" n="7"/>sed solum remouerent. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e263">
-               <lb ed="#P" n="8"/>Haec tamen opinio non videtur
-      rationa<lb ed="#P" n="9" break="no"/>bilis propter quatuor. Primo, quia
-      absolu<lb ed="#P" n="10" break="no"/>te concedit, quod in Deo sit numerus, qui 
-      <lb ed="#P" n="11"/>est multitudo transcendens; quod videtur 
-      <lb ed="#P" n="12"/>esse contra intentione in Doetij superius allega 
-      <lb ed="#P" n="13"/>ri; &amp; inferius probabitur, quod simpliciter,  
-      <lb ed="#P" n="14"/>&amp; absolute non potest hoc concedi. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e282">
-               <lb ed="#P" n="15"/>Secundo, quia supponitt, quod multituo 
-      <lb ed="#P" n="16"/>do non addat supra res, de quibus dicitur, 
-      <lb ed="#P" n="17"/>nisi solam negationem diuisionis circa
-      vnam<lb ed="#P" n="18" break="no"/>quamque earum, hoc autem videtur falsum,. 
-      <lb ed="#P" n="19"/>quia constat, quod multitudo in suo
-      signifi<lb ed="#P" n="20" break="no"/>cato videtur impo tate distinctionem illarum 
-      <lb ed="#P" n="21"/>rerum, de quibus dicitur, distinctio autem 
-      <lb ed="#P" n="22"/>non est negatio, immo est aliquid positiuum. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e302">
-               <lb ed="#P" n="23"/>Tertio, quia supponit, quod ita se habeat 
-      <lb ed="#P" n="24"/>ratio multitudinis ad res, de quibus dicitur,  
-      <lb ed="#P" n="25"/>sicut ratio vnius adens, cum quo
-      conuerti<lb ed="#P" n="26" break="no"/>tur, quod videtur esse falsum; Tum quia 
-      <lb ed="#P" n="27"/>vnum, &amp; multa non opponerentur
-      priuati<lb ed="#P" n="28" break="no"/>ue, cuius contfarium patet in x. Metaph Tum 
-      <lb ed="#P" n="29"/>quia sequeretur, quod nonplus cognoscer. 
-      <lb ed="#P" n="30"/>mus de rebus illis, de quibus dicitur
-      multi<lb ed="#P" n="31" break="no"/>tudo per rationem multitudinis, quam por 
-      <lb ed="#P" n="32"/>rationem vnius) 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e326">
-               <lb ed="#P" n="33"/>Quarto, non videtur quod haec opinio 
-      <lb ed="#P" n="34"/>sit secundum intentionem Magistri, quia si 
-      <lb ed="#P" n="35"/>ratio multitudiais non esset negatiua, non 
-      <lb ed="#P" n="36"/>solum in diuinis, sed etiam in c eaturis (vt. 
-      <lb ed="#P" n="37"/>ista opinio asserit) tunc non esset magis
-      du<lb ed="#P" n="38" break="no"/>bitandum de suo significato in Deo, quam 
-      <lb ed="#P" n="39"/>in creaturis, &amp; per consequens idem esset mo 
-      <lb ed="#P" n="40"/>dus vtendi terminis numeralibus transcendem 
-      <lb ed="#P" n="41"/>rium in Deo, &amp; in creaturis, quod omnino 
-      <lb ed="#P" n="42"/>videtur esse contra intentionem Magistri. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e350">
-               <lb ed="#P" n="43"/>Et ideo adhuc est alia via quorundam, 
-      <lb ed="#P" n="44"/>qui quamuis concordent cum
-      praecedenti<lb ed="#P" n="45" break="no"/>bus, quod in Deo sit numerus, qui est multi 
-      <lb ed="#P" n="46"/>tudo transcendens; dicunt tamen, quod
-      ta<lb ed="#P" n="47" break="no"/>hs numerus significat quid positiuum, tam 
-      <lb ed="#P" n="48"/>in Deo, quam etiam in creaturis, quod
-      qui<lb ed="#P" n="49" break="no"/>dem positiuum non addit aliquid super res,  
-      <lb ed="#P" n="50"/>de quibus dicitur multitudo, &amp; ista est cau 
-      <lb ed="#P" n="51"/>sa (secundum eos) quare Magister in ista dist. 
-      <lb ed="#P" n="52"/>voluit, quod termini numerales in Deo
-      es<lb ed="#P" n="53" break="no"/>sent remotiui, &amp; non positui; quia scilicet 
-      <lb ed="#P" n="54"/>nihil addunt super res,, de quibus
-      di<lb ed="#P" n="55" break="no"/>cuntur, 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e381">
-               <lb ed="#P" n="56"/>Videtur tamen que ista opinio sit irrationabi 
-      <lb ed="#P" n="57"/>lis, tum quia absolute concedit, quod in Deo 
-      <!--506.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 481 b -->
-               <lb ed="#P" n="58"/>sit numerus, qui est multirudo rranscendens; 
-      <lb ed="#P" n="59"/>tum etiam, quia magis expresse vadit contra 
-      <lb ed="#P" n="60"/>intentionem Magistri, quam opinio
-      praece<lb ed="#P" n="61" break="no"/>dens: nam dicere, quod termini numerales 
-      <lb ed="#P" n="62"/>in diuinis sint remotiui (sicut ponit
-      Magi<lb ed="#P" n="63" break="no"/>ster) &amp; dicere, quod multitudo significet ali 
-      <lb ed="#P" n="64"/>quid positiuum (sicut ponit dicta opividen 
-      <lb ed="#P" n="65"/>tur omnino contradicere, quantumcunquedi 
-      <lb ed="#P" n="66"/>ctum posituum non addat aliquid supra tes 
-      <lb ed="#P" n="67"/>de quibus dicitur, Coguntur insuper dicere, 
-      <lb ed="#P" n="68"/>quod sit idem modus vtendi isto termino, 
-      <lb ed="#P" n="69"/>qui est multitudo transcendens in Deo, &amp;  
-      <lb ed="#P" n="70"/>creaturis.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e423">
-               <lb ed="#P" n="71"/>Propter quae omnia videtur, quod
-      mo<lb ed="#P" n="72" break="no"/>dus Fratris Aegidij sit rationabilior, dicit enim 
-      <lb ed="#P" n="73"/>quod, de ratione numeri sunt quatuor. 
-      <lb ed="#P" n="74"/>Vnum est, quia fundatur in continuo, &amp; ex 
-      <lb ed="#P" n="75"/>diuisione eius causatur, vt patet 3. Physi.
-      Se<lb ed="#P" n="76" break="no"/>cundum est, quia excedit quamlibet vnitatem, 
-      <lb ed="#P" n="77"/>quemadmodum totum continuum, ex cuius 
-      <lb ed="#P" n="78"/>diuisione causatur, excedit qualibet sui
-      par<lb ed="#P" n="79" break="no"/>tem. Tertium est, quia partes numeri, cum 
-      <lb ed="#P" n="80"/>non sint aliud, quam partes continui decisi, 
-      <lb ed="#P" n="81"/>differunt essentialiter Quartum est, quia pre 
-      <lb ed="#P" n="82"/>fat ae partes numeri non solum differunt
-      es<lb ed="#P" n="83" break="no"/>sentialiter, sed etiam realiter suppositaliter,  
-      <lb ed="#P" n="84"/>quia vel sunt supposita realiter distincta, vel 
-      <lb ed="#P" n="85"/>sunt in suppositis realiter distinctis. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e459">
-               <lb ed="#P" n="86"/>Et ideo cum quaeritur, Vtrum in Deo sit 
-      <lb ed="#P" n="87"/>aliquis numerus secundum tres primas con 
-      <lb ed="#P" n="88"/>ditiones; dico quod deficit ibi prima conditio,  
-      <lb ed="#P" n="89"/>quia in Deo nulla est quantitas continua; 
-      <lb ed="#P" n="90"/>deficit etiam ibi secunda, quia ibi omnes tres 
-      <lb ed="#P" n="91"/>personae simul sumptae non excedunt aliquam 
-      <lb ed="#P" n="92"/>carum sumptam per se, &amp; sigillatim, deficit 
-      <lb ed="#P" n="93"/>quoque ibi tertia conditio, quia cum tres
-      per<lb ed="#P" n="94" break="no"/>sonae diuinae sint idem in essentia, nullo
-      mo<lb ed="#P" n="95" break="no"/>do est dicendum, quod differant
-      essentiali<lb ed="#P" n="96" break="no"/>ter. Quarta tamen conditio ve e habet ibi 
-      <lb ed="#P" n="97"/>locum, quia vere est ibi distinctio realis, &amp;  
-      <lb ed="#P" n="98"/>suppositalis; &amp; ideo concedendum est, quod 
-      <lb ed="#P" n="99"/>ibi sit numerus secundum, quartam
-      condi<lb ed="#P" n="100" break="no"/>tionem.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e494">
-               <lb ed="#P" n="101"/>Haec autem opinio videtur rationabilis. 
-      <lb ed="#P" n="102"/>propter tria.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e501">
-               <lb ed="#P" n="103"/>Primo, quia in Deo non debet poni
-      hu<lb ed="#P" n="104" break="no"/>merus secundum aliquam conditionem pro 
-      <lb ed="#P" n="105"/>uenientem ex imperfectione; &amp; per eandem  
-      <lb ed="#P" n="106"/>rationem non debet negari a Deo
-      secun<lb ed="#P" n="107" break="no"/>dum illam rationem, secundum quam saluat. 
-      <lb ed="#P" n="108"/>distinctionem personarum, &amp; non dicit ali¬¬ 
-      <lb ed="#P" n="109"/>quam imperfectionem: &amp; quia primae tres 
-      <lb ed="#P" n="110"/>conditiones in numero proueniunt ex
-      ima<lb ed="#P" n="111" break="no"/>perfectione, quarta vero non dicit aliquam im 
-      <lb ed="#P" n="112"/>perfectionem, &amp; saluat distinctionem
-      perso<lb ed="#P" n="113" break="no"/>narum: idcirco praefata opine conuenienter. 
-      <lb ed="#P" n="114"/>negat numerum a Deo secudum tres primas: 
-      <!--507.xml-->
-      <pb ed="#P" n="482"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>conditiones, &amp; concedit secundum quartam 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e538">
-               <lb ed="#P" n="2"/>Secundo, quia in Deo non potest poni 
-      <lb ed="#P" n="3"/>multitudo transcendens secundum suam pro 
-      <lb ed="#P" n="4"/>priam rationem, qua distinguitur a numero; 
-      <lb ed="#P" n="5"/>nam de ratione multitudinis transcendentis, 
-      <lb ed="#P" n="6"/>secundum quod distinguitur a numero, est, 
-      <lb ed="#P" n="7"/>quod vna pars multitudinis sit perfectior
-      a<lb ed="#P" n="8" break="no"/>lia, quia talis multitudo semper requirit
-      di<lb ed="#P" n="9" break="no"/>uersitatem secundum genus, vel secundum 
-      <lb ed="#P" n="10"/>speciem: Impossibile autem est diuersa gene 
-      <lb ed="#P" n="11"/>ra, vel diuersas species esse aeque perfectas. 
-      <lb ed="#P" n="12"/>in numero autem omnes partes sunt aequo 
-      <lb ed="#P" n="13"/>perfecte, &amp; ideo vbi est pluralitas aeque per 
-      <lb ed="#P" n="14"/>fectorum, non potest simpliciter negari ratio 
-      <lb ed="#P" n="15"/>numeri, quamuis oossit ibi negari ratio mul 
-      <lb ed="#P" n="16"/>titudinis, prout est distincta a numero, cum 
-      <lb ed="#P" n="17"/>ergo in diuinis sit pluralitas personarum
-      ae<lb ed="#P" n="18" break="no"/>que perfectarum, rationabiliter potest
-      con<lb ed="#P" n="19" break="no"/>cedi, quod sit ibi aliqua ratio numeri, sicut  
-      <lb ed="#P" n="20"/>concedit praefata opinio. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e582">
-               <lb ed="#P" n="21"/>Tertio videtur, quod iste modus sit de in 
-      <lb ed="#P" n="22"/>tentione Damasc. lib. 3. c. 8. vbi ait, quod
-      nu<lb ed="#P" n="23" break="no"/>merus est eorum, quae differunt, &amp; ibidem  
-      <lb ed="#P" n="24"/>subiungit, secundum autem illud, quod dif 
-      <lb ed="#P" n="25"/>ferunt, secundum hoc &amp; numerantur, ex 
-      <lb ed="#P" n="26"/>quibus verbis possumus statim inferre, quod 
-      <lb ed="#P" n="27"/>cum diuinae personae differant secundum suas 
-      <lb ed="#P" n="28"/>proprietates personales relatiuas, sequitur 
-      <lb ed="#P" n="29"/>necessario, quod aliquo modo possint nume 
-      <lb ed="#P" n="30"/>tari secundum eas, &amp; per consequens erit ibi 
-      <lb ed="#P" n="31"/>numerus, saltem secundum quartam
-      condi<lb ed="#P" n="32" break="no"/>tionem, quamuis non secundum tres primas 
-      <lb ed="#P" n="33"/>superius memoratas. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e613">
-               <lb ed="#P" n="34"/>Oecurrit tamen contra dicta vna
-      dubita<lb ed="#P" n="35" break="no"/>tio, quomodo possit salari dictum Magistri 
-      <lb ed="#P" n="36"/>sent. in ista dist. qui vult, quod termini
-      nu<lb ed="#P" n="37" break="no"/>merales in diuinis non sint positiui, sed
-      ne<lb ed="#P" n="38" break="no"/>gatiui, &amp; remotiui; &amp; quamuis non sit
-      du<lb ed="#P" n="39" break="no"/>bium de vno, magnum tamen videtur esse 
-      <lb ed="#P" n="40"/>dubium de numero, maxime ponendo ibi 
-      <lb ed="#P" n="41"/>numerum eo modo, quo dictum est.
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e634">
-               <lb ed="#P" n="42"/>Sciendum ergo, quod ratio numeri ex ea 
-      <lb ed="#P" n="43"/>parte, qua importat distinctionem, magis est 
-      <lb ed="#P" n="44"/>negatiua, quam positiua, quia semper prima 
-      <lb ed="#P" n="45"/>radix distinctionis est affirmatio, &amp; negatio, 
-      <lb ed="#P" n="46"/>&amp; ideo ratio numeri in creaturis dicitur po 
-      <lb ed="#P" n="47"/>sitiua, non quia importet distinctionem, sed  
-      <lb ed="#P" n="48"/>quia simul cum distinctione importat partes 
-      <lb ed="#P" n="49"/>distinctas, &amp; numeratas: Nam
-      quantum<lb ed="#P" n="50" break="no"/>cunque distinctio sit positua formaliter, quia 
-      <lb ed="#P" n="51"/>causa, &amp; prima radis distinctionis est
-      opposi<lb ed="#P" n="52" break="no"/>tio negationis ad affirmationem, debet dici 
-      <lb ed="#P" n="53"/>negatiua radicaliter; quapropter
-      relinqui<lb ed="#P" n="54" break="no"/>tur, quod vbi numerus importat solam
-      di<lb ed="#P" n="55" break="no"/>stinctionem, &amp; nullo modo partes
-      numera<lb ed="#P" n="56" break="no"/>easita sua ratio magis sit negatiua, quam po 
-      <lb ed="#P" n="57"/>fitiuai &amp; quia sic est in diuinis (vt superius 
-      <!--507.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 482 b -->
-               <lb ed="#P" n="58"/>fuit ostensum) relinquitur insuper, quod, di 
-      <lb ed="#P" n="59"/>ctum Magistri possit conuenienter saluari 
-      <lb ed="#P" n="60"/>iuxta viam istam, scilicet, quod termini
-      nu<lb ed="#P" n="61" break="no"/>merales in diuinis sint negatiui, &amp; sic patet 
-      <lb ed="#P" n="62"/>de ista quaestione. 
-    </p>
-            <p xml:id="gsX5tY-d1e747-d1e689">
-               <lb ed="#P" n="63"/>AD RATIONES PRINCIPALES 
-      <lb ed="#P" n="64"/>AD rationem vero in oppositum potest 
-      <lb ed="#P" n="65"/>patere per iam dicta quid sit dicendum; 
-      <lb ed="#P" n="66"/>Nam Boetius ita videtur loqui de numero 
-      <lb ed="#P" n="67"/>secundum primas tres conditiones, secundum 
-      <lb ed="#P" n="68"/>quem modum non posset poni in Deo
-      stan<lb ed="#P" n="69" break="no"/>te sua vnitate, &amp; simplicitate: sed in nullo 
-      <lb ed="#P" n="70"/>repugnat suae vnitati, &amp; simplicitati, quod po 
-      <lb ed="#P" n="71"/>natur ibi secundum quartam conditionem, 
-      <lb ed="#P" n="72"/>Patent igitur, quae quaeruntur circa hanc to 
-      <lb ed="#P" n="73"/>tam distinctionem. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="480"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e747"> <!-- l1d24q2 -->
+        <head xml:id="gsX5tY-d1e747-Hd1e109">Quaestio 2</head>
+        <head xml:id="gsX5tY-d1e747-Hd1e112" type="question-title">Utrum in Deo sit aliquis numerus</head>
+        <p xml:id="gsX5tY-d1e747-d1e115">
+          <!--505.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 480 b -->
+          <lb ed="#P" n="58"/>DISTINCTIONIS NxIV. 
+          <lb ed="#P" n="59"/>QVAESTIO SECVNDA 
+          <lb ed="#P" n="60"/>Vtrum in Deo sit aliquis numerus. 
+          <lb ed="#P" n="61"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="62"/>negatiua.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e135">
+          <lb ed="#P" n="63"/>Nquit Boetius in libro de Trinit. Illud e 
+          <lb ed="#P" n="64"/>vere vnum, in quo nullus numerus est; 
+          <lb ed="#P" n="65"/>sed Deus est summe vnus, vt patuit supra, 
+          <lb ed="#P" n="66"/>ergo &amp;c. Confirmatur, quia Magister in
+          prae<lb ed="#P" n="67" break="no"/>cedenti distinctione videtur velle, quod vsus 
+          <lb ed="#P" n="68"/>terminorum numeralium in Deo sit
+          intro<lb ed="#P" n="69" break="no"/>ductus potius ad remouendum, quam ad po 
+          <lb ed="#P" n="70"/>nendum, vbi autem est numerus, ibi videtur 
+          <lb ed="#P" n="71"/>aliquid ponere; Remanet ergo quod in Deo 
+          <lb ed="#P" n="72"/>non sit aliquis numerus.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e160">
+          <lb ed="#P" n="73"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="74"/>affirmatiue.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e167">
+          <lb ed="#P" n="75"/>Vbi est Trinitas, ibi est aliqua species 
+          <lb ed="#P" n="76"/>numeri, &amp; per consequens numerus; 
+          <lb ed="#P" n="77"/>In Deo est Trinitas personarum, ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e176">
+          <lb ed="#P" n="78"/>RESPONDEO: In ista quaestione 
+          <lb ed="#P" n="79"/>est aliquod certum, &amp; aliquod dubium Cer 
+          <lb ed="#P" n="80"/>tum est enim quod in Deo non est aliquis 
+          <lb ed="#P" n="81"/>numerus, quod sit de genere quantitatis,  
+          <lb ed="#P" n="82"/>quia in eo nullum est accidens; Sed est
+          du<lb ed="#P" n="83" break="no"/>bium de numero, quod est idem, quod mul 
+          <lb ed="#P" n="84"/>titudo transcendens ideo quaero. An talis nu 
+          <lb ed="#P" n="85"/>merus possit in Deo inueniri sine
+          repugnan<lb ed="#P" n="86" break="no"/>tia, &amp; dato, quod inueniatur; An ponat ibi 
+          <lb ed="#P" n="87"/>aliquid, vel folum remoueat sicut videtur 
+          <lb ed="#P" n="88"/>dicere Magister in litera, 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e202">
+          <lb ed="#P" n="89"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="90"/>An in Deo sit numerus transcendens impor 
+          <lb ed="#P" n="91"/>tans quid positiuum.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e211">
+          <lb ed="#P" n="92"/>D quod respondent quidam dicentes,  
+          <lb ed="#P" n="93"/>quod in Deo est aliquis numerus, non 
+          <lb ed="#P" n="94"/>tamen ponit in eo aliquid, sed solum
+          remo<lb ed="#P" n="95" break="no"/>uet, quia (secundum eos) ratio talis numeri, 
+          <lb ed="#P" n="96"/>vel multitudinis est priuatiua,
+          quemadmo<lb ed="#P" n="97" break="no"/>dum ratio vnius. Nam sicut ratio vnius, quod 
+          <lb ed="#P" n="98"/>cum ente conuertitur, non addit supra ens, 
+          <lb ed="#P" n="99"/>nisi negationem diuisionis; ita etiam ratio ta 
+          <lb ed="#P" n="100"/>lis numeri, vel multitudinis non addit aliqud 
+          <lb ed="#P" n="101"/>supra res, de quibus dicitur, nisi solam
+          nega<lb ed="#P" n="102" break="no"/>tionem diuisionis circa vnanquanque earum, 
+          <lb ed="#P" n="103"/>quia de ratione multitudinis est, quod
+          con<lb ed="#P" n="104" break="no"/>stituatur ex vnitatibus, quarum vna non  
+          <!--506.xml-->
+          <pb ed="#P" n="481"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>vt alia, &amp; ideo pluralitas personarum in
+          di<lb ed="#P" n="2" break="no"/>uinis (secundum eos) non significat aliud, 
+          <lb ed="#P" n="3"/>quam indiuisionem circa vnamquamque eas 
+          <lb ed="#P" n="4"/>rum: Et istam dicunt fuisse intentionem Ma 
+          <lb ed="#P" n="5"/>gistri in ista dist. qui voluiti; quod, termini 
+          <lb ed="#P" n="6"/>numerales in diuinis non ponerent aliquid,  
+          <lb ed="#P" n="7"/>sed solum remouerent. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e263">
+          <lb ed="#P" n="8"/>Haec tamen opinio non videtur
+          rationa<lb ed="#P" n="9" break="no"/>bilis propter quatuor. Primo, quia
+          absolu<lb ed="#P" n="10" break="no"/>te concedit, quod in Deo sit numerus, qui 
+          <lb ed="#P" n="11"/>est multitudo transcendens; quod videtur 
+          <lb ed="#P" n="12"/>esse contra intentione in Doetij superius allega 
+          <lb ed="#P" n="13"/>ri; &amp; inferius probabitur, quod simpliciter,  
+          <lb ed="#P" n="14"/>&amp; absolute non potest hoc concedi. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e282">
+          <lb ed="#P" n="15"/>Secundo, quia supponitt, quod multituo 
+          <lb ed="#P" n="16"/>do non addat supra res, de quibus dicitur, 
+          <lb ed="#P" n="17"/>nisi solam negationem diuisionis circa
+          vnam<lb ed="#P" n="18" break="no"/>quamque earum, hoc autem videtur falsum,. 
+          <lb ed="#P" n="19"/>quia constat, quod multitudo in suo
+          signifi<lb ed="#P" n="20" break="no"/>cato videtur impo tate distinctionem illarum 
+          <lb ed="#P" n="21"/>rerum, de quibus dicitur, distinctio autem 
+          <lb ed="#P" n="22"/>non est negatio, immo est aliquid positiuum. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e302">
+          <lb ed="#P" n="23"/>Tertio, quia supponit, quod ita se habeat 
+          <lb ed="#P" n="24"/>ratio multitudinis ad res, de quibus dicitur,  
+          <lb ed="#P" n="25"/>sicut ratio vnius adens, cum quo
+          conuerti<lb ed="#P" n="26" break="no"/>tur, quod videtur esse falsum; Tum quia 
+          <lb ed="#P" n="27"/>vnum, &amp; multa non opponerentur
+          priuati<lb ed="#P" n="28" break="no"/>ue, cuius contfarium patet in x. Metaph Tum 
+          <lb ed="#P" n="29"/>quia sequeretur, quod nonplus cognoscer. 
+          <lb ed="#P" n="30"/>mus de rebus illis, de quibus dicitur
+          multi<lb ed="#P" n="31" break="no"/>tudo per rationem multitudinis, quam por 
+          <lb ed="#P" n="32"/>rationem vnius) 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e326">
+          <lb ed="#P" n="33"/>Quarto, non videtur quod haec opinio 
+          <lb ed="#P" n="34"/>sit secundum intentionem Magistri, quia si 
+          <lb ed="#P" n="35"/>ratio multitudiais non esset negatiua, non 
+          <lb ed="#P" n="36"/>solum in diuinis, sed etiam in c eaturis (vt. 
+          <lb ed="#P" n="37"/>ista opinio asserit) tunc non esset magis
+          du<lb ed="#P" n="38" break="no"/>bitandum de suo significato in Deo, quam 
+          <lb ed="#P" n="39"/>in creaturis, &amp; per consequens idem esset mo 
+          <lb ed="#P" n="40"/>dus vtendi terminis numeralibus transcendem 
+          <lb ed="#P" n="41"/>rium in Deo, &amp; in creaturis, quod omnino 
+          <lb ed="#P" n="42"/>videtur esse contra intentionem Magistri. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e350">
+          <lb ed="#P" n="43"/>Et ideo adhuc est alia via quorundam, 
+          <lb ed="#P" n="44"/>qui quamuis concordent cum
+          praecedenti<lb ed="#P" n="45" break="no"/>bus, quod in Deo sit numerus, qui est multi 
+          <lb ed="#P" n="46"/>tudo transcendens; dicunt tamen, quod
+          ta<lb ed="#P" n="47" break="no"/>hs numerus significat quid positiuum, tam 
+          <lb ed="#P" n="48"/>in Deo, quam etiam in creaturis, quod
+          qui<lb ed="#P" n="49" break="no"/>dem positiuum non addit aliquid super res,  
+          <lb ed="#P" n="50"/>de quibus dicitur multitudo, &amp; ista est cau 
+          <lb ed="#P" n="51"/>sa (secundum eos) quare Magister in ista dist. 
+          <lb ed="#P" n="52"/>voluit, quod termini numerales in Deo
+          es<lb ed="#P" n="53" break="no"/>sent remotiui, &amp; non positui; quia scilicet 
+          <lb ed="#P" n="54"/>nihil addunt super res,, de quibus
+          di<lb ed="#P" n="55" break="no"/>cuntur, 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e381">
+          <lb ed="#P" n="56"/>Videtur tamen que ista opinio sit irrationabi 
+          <lb ed="#P" n="57"/>lis, tum quia absolute concedit, quod in Deo 
+          <!--506.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 481 b -->
+          <lb ed="#P" n="58"/>sit numerus, qui est multirudo rranscendens; 
+          <lb ed="#P" n="59"/>tum etiam, quia magis expresse vadit contra 
+          <lb ed="#P" n="60"/>intentionem Magistri, quam opinio
+          praece<lb ed="#P" n="61" break="no"/>dens: nam dicere, quod termini numerales 
+          <lb ed="#P" n="62"/>in diuinis sint remotiui (sicut ponit
+          Magi<lb ed="#P" n="63" break="no"/>ster) &amp; dicere, quod multitudo significet ali 
+          <lb ed="#P" n="64"/>quid positiuum (sicut ponit dicta opividen 
+          <lb ed="#P" n="65"/>tur omnino contradicere, quantumcunquedi 
+          <lb ed="#P" n="66"/>ctum posituum non addat aliquid supra tes 
+          <lb ed="#P" n="67"/>de quibus dicitur, Coguntur insuper dicere, 
+          <lb ed="#P" n="68"/>quod sit idem modus vtendi isto termino, 
+          <lb ed="#P" n="69"/>qui est multitudo transcendens in Deo, &amp;  
+          <lb ed="#P" n="70"/>creaturis.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e423">
+          <lb ed="#P" n="71"/>Propter quae omnia videtur, quod
+          mo<lb ed="#P" n="72" break="no"/>dus Fratris Aegidij sit rationabilior, dicit enim 
+          <lb ed="#P" n="73"/>quod, de ratione numeri sunt quatuor. 
+          <lb ed="#P" n="74"/>Vnum est, quia fundatur in continuo, &amp; ex 
+          <lb ed="#P" n="75"/>diuisione eius causatur, vt patet 3. Physi.
+          Se<lb ed="#P" n="76" break="no"/>cundum est, quia excedit quamlibet vnitatem, 
+          <lb ed="#P" n="77"/>quemadmodum totum continuum, ex cuius 
+          <lb ed="#P" n="78"/>diuisione causatur, excedit qualibet sui
+          par<lb ed="#P" n="79" break="no"/>tem. Tertium est, quia partes numeri, cum 
+          <lb ed="#P" n="80"/>non sint aliud, quam partes continui decisi, 
+          <lb ed="#P" n="81"/>differunt essentialiter Quartum est, quia pre 
+          <lb ed="#P" n="82"/>fat ae partes numeri non solum differunt
+          es<lb ed="#P" n="83" break="no"/>sentialiter, sed etiam realiter suppositaliter,  
+          <lb ed="#P" n="84"/>quia vel sunt supposita realiter distincta, vel 
+          <lb ed="#P" n="85"/>sunt in suppositis realiter distinctis. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e459">
+          <lb ed="#P" n="86"/>Et ideo cum quaeritur, Vtrum in Deo sit 
+          <lb ed="#P" n="87"/>aliquis numerus secundum tres primas con 
+          <lb ed="#P" n="88"/>ditiones; dico quod deficit ibi prima conditio,  
+          <lb ed="#P" n="89"/>quia in Deo nulla est quantitas continua; 
+          <lb ed="#P" n="90"/>deficit etiam ibi secunda, quia ibi omnes tres 
+          <lb ed="#P" n="91"/>personae simul sumptae non excedunt aliquam 
+          <lb ed="#P" n="92"/>carum sumptam per se, &amp; sigillatim, deficit 
+          <lb ed="#P" n="93"/>quoque ibi tertia conditio, quia cum tres
+          per<lb ed="#P" n="94" break="no"/>sonae diuinae sint idem in essentia, nullo
+          mo<lb ed="#P" n="95" break="no"/>do est dicendum, quod differant
+          essentiali<lb ed="#P" n="96" break="no"/>ter. Quarta tamen conditio ve e habet ibi 
+          <lb ed="#P" n="97"/>locum, quia vere est ibi distinctio realis, &amp;  
+          <lb ed="#P" n="98"/>suppositalis; &amp; ideo concedendum est, quod 
+          <lb ed="#P" n="99"/>ibi sit numerus secundum, quartam
+          condi<lb ed="#P" n="100" break="no"/>tionem.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e494">
+          <lb ed="#P" n="101"/>Haec autem opinio videtur rationabilis. 
+          <lb ed="#P" n="102"/>propter tria.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e501">
+          <lb ed="#P" n="103"/>Primo, quia in Deo non debet poni
+          hu<lb ed="#P" n="104" break="no"/>merus secundum aliquam conditionem pro 
+          <lb ed="#P" n="105"/>uenientem ex imperfectione; &amp; per eandem  
+          <lb ed="#P" n="106"/>rationem non debet negari a Deo
+          secun<lb ed="#P" n="107" break="no"/>dum illam rationem, secundum quam saluat. 
+          <lb ed="#P" n="108"/>distinctionem personarum, &amp; non dicit ali¬¬ 
+          <lb ed="#P" n="109"/>quam imperfectionem: &amp; quia primae tres 
+          <lb ed="#P" n="110"/>conditiones in numero proueniunt ex
+          ima<lb ed="#P" n="111" break="no"/>perfectione, quarta vero non dicit aliquam im 
+          <lb ed="#P" n="112"/>perfectionem, &amp; saluat distinctionem
+          perso<lb ed="#P" n="113" break="no"/>narum: idcirco praefata opine conuenienter. 
+          <lb ed="#P" n="114"/>negat numerum a Deo secudum tres primas: 
+          <!--507.xml-->
+          <pb ed="#P" n="482"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>conditiones, &amp; concedit secundum quartam 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e538">
+          <lb ed="#P" n="2"/>Secundo, quia in Deo non potest poni 
+          <lb ed="#P" n="3"/>multitudo transcendens secundum suam pro 
+          <lb ed="#P" n="4"/>priam rationem, qua distinguitur a numero; 
+          <lb ed="#P" n="5"/>nam de ratione multitudinis transcendentis, 
+          <lb ed="#P" n="6"/>secundum quod distinguitur a numero, est, 
+          <lb ed="#P" n="7"/>quod vna pars multitudinis sit perfectior
+          a<lb ed="#P" n="8" break="no"/>lia, quia talis multitudo semper requirit
+          di<lb ed="#P" n="9" break="no"/>uersitatem secundum genus, vel secundum 
+          <lb ed="#P" n="10"/>speciem: Impossibile autem est diuersa gene 
+          <lb ed="#P" n="11"/>ra, vel diuersas species esse aeque perfectas. 
+          <lb ed="#P" n="12"/>in numero autem omnes partes sunt aequo 
+          <lb ed="#P" n="13"/>perfecte, &amp; ideo vbi est pluralitas aeque per 
+          <lb ed="#P" n="14"/>fectorum, non potest simpliciter negari ratio 
+          <lb ed="#P" n="15"/>numeri, quamuis oossit ibi negari ratio mul 
+          <lb ed="#P" n="16"/>titudinis, prout est distincta a numero, cum 
+          <lb ed="#P" n="17"/>ergo in diuinis sit pluralitas personarum
+          ae<lb ed="#P" n="18" break="no"/>que perfectarum, rationabiliter potest
+          con<lb ed="#P" n="19" break="no"/>cedi, quod sit ibi aliqua ratio numeri, sicut  
+          <lb ed="#P" n="20"/>concedit praefata opinio. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e582">
+          <lb ed="#P" n="21"/>Tertio videtur, quod iste modus sit de in 
+          <lb ed="#P" n="22"/>tentione Damasc. lib. 3. c. 8. vbi ait, quod
+          nu<lb ed="#P" n="23" break="no"/>merus est eorum, quae differunt, &amp; ibidem  
+          <lb ed="#P" n="24"/>subiungit, secundum autem illud, quod dif 
+          <lb ed="#P" n="25"/>ferunt, secundum hoc &amp; numerantur, ex 
+          <lb ed="#P" n="26"/>quibus verbis possumus statim inferre, quod 
+          <lb ed="#P" n="27"/>cum diuinae personae differant secundum suas 
+          <lb ed="#P" n="28"/>proprietates personales relatiuas, sequitur 
+          <lb ed="#P" n="29"/>necessario, quod aliquo modo possint nume 
+          <lb ed="#P" n="30"/>tari secundum eas, &amp; per consequens erit ibi 
+          <lb ed="#P" n="31"/>numerus, saltem secundum quartam
+          condi<lb ed="#P" n="32" break="no"/>tionem, quamuis non secundum tres primas 
+          <lb ed="#P" n="33"/>superius memoratas. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e613">
+          <lb ed="#P" n="34"/>Oecurrit tamen contra dicta vna
+          dubita<lb ed="#P" n="35" break="no"/>tio, quomodo possit salari dictum Magistri 
+          <lb ed="#P" n="36"/>sent. in ista dist. qui vult, quod termini
+          nu<lb ed="#P" n="37" break="no"/>merales in diuinis non sint positiui, sed
+          ne<lb ed="#P" n="38" break="no"/>gatiui, &amp; remotiui; &amp; quamuis non sit
+          du<lb ed="#P" n="39" break="no"/>bium de vno, magnum tamen videtur esse 
+          <lb ed="#P" n="40"/>dubium de numero, maxime ponendo ibi 
+          <lb ed="#P" n="41"/>numerum eo modo, quo dictum est.
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e634">
+          <lb ed="#P" n="42"/>Sciendum ergo, quod ratio numeri ex ea 
+          <lb ed="#P" n="43"/>parte, qua importat distinctionem, magis est 
+          <lb ed="#P" n="44"/>negatiua, quam positiua, quia semper prima 
+          <lb ed="#P" n="45"/>radix distinctionis est affirmatio, &amp; negatio, 
+          <lb ed="#P" n="46"/>&amp; ideo ratio numeri in creaturis dicitur po 
+          <lb ed="#P" n="47"/>sitiua, non quia importet distinctionem, sed  
+          <lb ed="#P" n="48"/>quia simul cum distinctione importat partes 
+          <lb ed="#P" n="49"/>distinctas, &amp; numeratas: Nam
+          quantum<lb ed="#P" n="50" break="no"/>cunque distinctio sit positua formaliter, quia 
+          <lb ed="#P" n="51"/>causa, &amp; prima radis distinctionis est
+          opposi<lb ed="#P" n="52" break="no"/>tio negationis ad affirmationem, debet dici 
+          <lb ed="#P" n="53"/>negatiua radicaliter; quapropter
+          relinqui<lb ed="#P" n="54" break="no"/>tur, quod vbi numerus importat solam
+          di<lb ed="#P" n="55" break="no"/>stinctionem, &amp; nullo modo partes
+          numera<lb ed="#P" n="56" break="no"/>easita sua ratio magis sit negatiua, quam po 
+          <lb ed="#P" n="57"/>fitiuai &amp; quia sic est in diuinis (vt superius 
+          <!--507.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 482 b -->
+          <lb ed="#P" n="58"/>fuit ostensum) relinquitur insuper, quod, di 
+          <lb ed="#P" n="59"/>ctum Magistri possit conuenienter saluari 
+          <lb ed="#P" n="60"/>iuxta viam istam, scilicet, quod termini
+          nu<lb ed="#P" n="61" break="no"/>merales in diuinis sint negatiui, &amp; sic patet 
+          <lb ed="#P" n="62"/>de ista quaestione. 
+        </p>
+        <p xml:id="gsX5tY-d1e747-d1e689">
+          <lb ed="#P" n="63"/>AD RATIONES PRINCIPALES 
+          <lb ed="#P" n="64"/>AD rationem vero in oppositum potest 
+          <lb ed="#P" n="65"/>patere per iam dicta quid sit dicendum; 
+          <lb ed="#P" n="66"/>Nam Boetius ita videtur loqui de numero 
+          <lb ed="#P" n="67"/>secundum primas tres conditiones, secundum 
+          <lb ed="#P" n="68"/>quem modum non posset poni in Deo
+          stan<lb ed="#P" n="69" break="no"/>te sua vnitate, &amp; simplicitate: sed in nullo 
+          <lb ed="#P" n="70"/>repugnat suae vnitati, &amp; simplicitati, quod po 
+          <lb ed="#P" n="71"/>natur ibi secundum quartam conditionem, 
+          <lb ed="#P" n="72"/>Patent igitur, quae quaeruntur circa hanc to 
+          <lb ed="#P" n="73"/>tam distinctionem. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,1135 +1,1135 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="205"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e300"> <!-- l1d5q1 -->
-            <head xml:id="gsX5tY-d1e300-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e300-Hd1e112" type="question-title">Utrum divina essentia sit generans</head>
-            <p xml:id="gsX5tY-d1e300-d1e115">
-               <lb ed="#P" n="35"/>DISTINCTIONIS QVINTAE. 
-      <lb ed="#P" n="36"/>QVAESTIO PRIMA 
-      <lb ed="#P" n="37"/>Vtrum diuina essentia sit generans 
-      <lb ed="#P" n="38"/>ARGVITVR AD PARTEM 
-      <lb ed="#P" n="39"/>affirmantem.
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e128">
-               <lb ed="#P" n="40"/>Mnis actus, qui attribuitur
-      supposi<lb ed="#P" n="41" break="no"/>to, potest attribui formae, sed genera 
-      <lb ed="#P" n="42"/>re attribuitur supposito, patris; ergo potels 
-      <lb ed="#P" n="43"/>attribui essentiae, quae se habet ad modum for 
-      <lb ed="#P" n="44"/>mae; Minor est nota, Probo maiorem, nam
-      a<lb ed="#P" n="45" break="no"/>ctus non attribuitur supposito, nisi per
-      for<lb ed="#P" n="46" break="no"/>mam, quia non agit, nisi secundum quod est 
-      <lb ed="#P" n="47"/>in actu, est autem in actu per formam: ergo 
-      <!--230.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 205 b -->
-               <lb ed="#P" n="48"/>agit per eam, omnis ergo actus prius
-      attribui<lb ed="#P" n="49" break="no"/>tur formae, quam supposito; 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e160">
-               <lb ed="#P" n="50"/>2 Quando aliqua duo sunt idem, quicquid 
-      <lb ed="#P" n="51"/>attribuitur vni, necessario etiam attribuitur 
-      <lb ed="#P" n="52"/>alteri; sed diuina essentia, &amp; pater sunt idem; 
-      <lb ed="#P" n="53"/>ergo actus generationis qui attribuitur
-      pa<lb ed="#P" n="54" break="no"/>tri, necessario etiam attribuitur essentiae; Ma 
-      <lb ed="#P" n="55"/>ior videtur nota; Minor probatur, quia si pa 
-      <lb ed="#P" n="56"/>ter, &amp; essentia non essent idem, facerent in 
-      <lb ed="#P" n="57"/>Deo compositonem. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e180">
-               <lb ed="#P" n="58"/>ARGVITVR AD PARTEM 
-      <lb ed="#P" n="59"/>negantem. 
-      <lb ed="#P" n="60"/>N Contrarium est determinatio
-      Magi<lb ed="#P" n="61" break="no"/>stri per Sacrum Concilium approbata 
-      <lb ed="#P" n="62"/>in illa decretali Damnamus, &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e193">
-               <lb ed="#P" n="63"/>RESPONDEO: in ista quaestione tria 
-      <lb ed="#P" n="64"/>sunt videnda 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e200">
-               <lb ed="#P" n="65"/>1 An actus qui debetur supposito, possit 
-      <lb ed="#P" n="66"/>attribui formae, per quam est in actu, &amp; an 
-      <lb ed="#P" n="67"/>primo formae, quam supposito in creaturis,  
-      <lb ed="#P" n="68"/>sit attribuendus 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e211">
-               <lb ed="#P" n="69"/>2 An duobus existentibus idem inter se, 
-      <lb ed="#P" n="70"/>possit quidam actus ita vni attribui, vt non 
-      <lb ed="#P" n="71"/>attribuatur alteri. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e220">
-               <lb ed="#P" n="72"/>3 An actus generationis, diuinae naturae 
-      <lb ed="#P" n="73"/>ita sit attribuendus, vt possit dici generans. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e228">
-               <lb ed="#P" n="74"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="75"/>Vtrum actus, qui debetur supposito in
-      crea<lb ed="#P" n="76" break="no"/>turis, possit attribui formae, per quam 
-      <lb ed="#P" n="77"/>suppositum est in actu 
-      <lb ed="#P" n="78"/>Ro huius articuli dilucidatione est
-      no<lb ed="#P" n="79" break="no"/>tandum, quod non loquor in praesenti 
-      <lb ed="#P" n="80"/>de supposito secundum esse abstractum, &amp; 
-      <lb ed="#P" n="81"/>vniue sale, quod potest habere, quia hoc mo 
-      <lb ed="#P" n="82"/>do non debetur ei aliquis actus, nec aliqua 
-      <lb ed="#P" n="83"/>operatio; Nam cum omnis actus, &amp; operatio 
-      <lb ed="#P" n="84"/>sit singularium per Aristo. In prologo Meta 
-      <lb ed="#P" n="85"/>Vniuersalia sicut abstrahuntur ab omni
-      mo<lb ed="#P" n="86" break="no"/>tu, ita etiam ab omni operatione seiunguntur; 
-      <lb ed="#P" n="87"/>ed loquor in praesenti de supposito signato, 
-      <lb ed="#P" n="88"/>&amp; particulari, &amp; secudum hoc dico, quod non 
-      <lb ed="#P" n="89"/>dum actus generationis, per quem
-      introdum<lb ed="#P" n="90" break="no"/>cta est quaestio, sed omnis etiam alius actus 
-      <lb ed="#P" n="91"/>huic supposito debetur per se: formae autem 
-      <lb ed="#P" n="92"/>no potest attribui, nisi forte per accidens, 
-      <lb ed="#P" n="93"/>quod patet ex tribus conditionibus, quas ha 
-      <lb ed="#P" n="94"/>bet suppofitum hoc modo acceptum, quae for 
-      <lb ed="#P" n="95"/>mae haud conuenire possunt 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e278">
-               <lb ed="#P" n="96"/>Prima quidem est, quod suppositum per Tres
-      con<lb ed="#P" n="97" break="no"/>se generatur, forma autem non uisi per acci 
-      <lb ed="#P" n="98"/>dens per Arist. 5. Metaph¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e287">
-               <lb ed="#P" n="99"/>Secunda, quia suppositum est ens per 
-      <!--231.xml-->
-      <pb ed="#P" n="206"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>se, in actu, forma vero non est in actu, nisi 
-      <lb ed="#P" n="2"/>per ipsum: haec conditio patet, quia si forma 
-      <lb ed="#P" n="3"/>non generatur per se, sed per accidens ad ge 
-      <lb ed="#P" n="4"/>nerationem suppositi; ergo nec per se existit 
-      <lb ed="#P" n="5"/>in actu, sed per suppositum: Nam generatio 
-      <lb ed="#P" n="6"/>est via in esse; ideo sicut aliquid se habet ad 
-      <lb ed="#P" n="7"/>generari, ita se habet ad esse 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e313">
-               <lb ed="#P" n="8"/>Tertia conditio est, quod suppositum
-      in<lb ed="#P" n="9" break="no"/>cludit, vel saltem connotat omnia necessario 
-      <lb ed="#P" n="10"/>requisica ad actum generationis, &amp; ad
-      quen<lb ed="#P" n="11" break="no"/>cunque alium actum; quae quidem non
-      con<lb ed="#P" n="12" break="no"/>notat forma: sicut his tribus rationibus 
-      <lb ed="#P" n="13"/>probabo. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e329">
-               <lb ed="#P" n="14"/>1 Sicut se habet aliquid ad generari
-      pas<lb ed="#P" n="15" break="no"/>siue, ita se habet ad generare actiue, sed il 
-      <lb ed="#P" n="16"/>lud, quod generatur passiue, &amp; per se in istis 
-      <lb ed="#P" n="17"/>naturalibus, est aliquod suppositum, forma 
-      <lb ed="#P" n="18"/>vero solum per accidens; ergo, &amp; illud, quod 
-      <lb ed="#P" n="19"/>generat actiue, erit ipsum suppositum, &amp;  
-      <lb ed="#P" n="20"/>non forma, nisi per accidens: Maior est
-      no<lb ed="#P" n="21" break="no"/>ta, quia quae sunt eiusdem rationis, eodem mo 
-      <lb ed="#P" n="22"/>do generantur: Sicut ergo aliud generatur 
-      <lb ed="#P" n="23"/>ab alio supposito, ita alterum debet
-      genera<lb ed="#P" n="24" break="no"/>re suppositum eiusdem rationis; Minor
-      pa<lb ed="#P" n="25" break="no"/>tet per Arist. 5. metaph vbi expresse vult, 
-      <lb ed="#P" n="26"/>quod forma non generetur per se, &amp; Com 
-      <lb ed="#P" n="27"/>3. Metaph com. 25. dicit, illud, quod
-      gene<lb ed="#P" n="28" break="no"/>ratur, est hoc indiuiduum demonstratum 
-      <lb ed="#P" n="29"/>in actu 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e366">
-               <lb ed="#P" n="30"/>2 Sicut se habet aliquid ad esse in actu, 
-      <lb ed="#P" n="31"/>ita &amp; ad generare, sed forma non est in actu, 
-      <lb ed="#P" n="32"/>nisi per ipsum suppositum; ergo &amp; ipsum 
-      <lb ed="#P" n="33"/>tantum habebit per se agere, &amp; generare, for 
-      <lb ed="#P" n="34"/>ma autem per accidens, Maior patet ex 5. 
-      <lb ed="#P" n="35"/>physicorum, vbi vult Arist. quod mouens, 
-      <lb ed="#P" n="36"/>&amp; agens sit aliqua species, idest aliquid in 
-      <lb ed="#P" n="37"/>actu; Minor ex superius dictis apparet; 
-      <lb ed="#P" n="38"/>quia cum generatio sit via in esse actu, si 
-      <lb ed="#P" n="39"/>cut aliquid se habet ad generare, ita se
-      ha<lb ed="#P" n="40" break="no"/>bet ad esse actu. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e393">
-               <lb ed="#P" n="41"/>3 Quod includit, vel connotat omnia, quam 
-      <lb ed="#P" n="42"/>sunt necessario requisita ad actionem, &amp; ge 
-      <lb ed="#P" n="43"/>nerationem, illud tantum per se agere, &amp; g 
-      <lb ed="#P" n="44"/>nerare potest, sed hoc est suppositum, &amp; non 
-      <lb ed="#P" n="45"/>forma: ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e406">
-               <lb ed="#P" n="46"/>Maior est nota; Minorem probo; nam ad 
-      <lb ed="#P" n="47"/>actionem, &amp; generationem concurrunt
-      ali<lb ed="#P" n="48" break="no"/>qua, quae sunt extra rationem formae substam 
-      <lb ed="#P" n="49"/>tialis, non tamen extra rationem suppositi si 
-      <lb ed="#P" n="50"/>gnati, puta esse quantum, esse quale, &amp; tan 
-      <lb ed="#P" n="51"/>dem debitus ordo inter actiuum, &amp; passiuum, 
-      <lb ed="#P" n="52"/>quae tria sunt extra rationem formae, quia ni 
-      <lb ed="#P" n="53"/>hil talium ponitur in definitione ipsius, non  
-      <lb ed="#P" n="54"/>tamen sunt extra rationem suppositi signati. 
-      <lb ed="#P" n="55"/>quia si definiretur, haec caderent in
-      defini<lb ed="#P" n="56" break="no"/>tione eius, non quod talia sint in eius quidi 
-      <lb ed="#P" n="57"/>ditate inclusa, sed magis connotata, propter 
-      <!--231.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 206 b -->
-               <lb ed="#P" n="58"/>quod non sequitur, quod suppositum sit ens 
-      <lb ed="#P" n="59"/>per accidens; nam videmus, quod etiam sub 
-      <lb ed="#P" n="60"/>stantia cadit in definitione accidentis; &amp;
-      ta<lb ed="#P" n="61" break="no"/>men non ingreditur eius quidditatem. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e450">
-               <lb ed="#P" n="62"/>Concludo ergo, quod actus generationis 
-      <lb ed="#P" n="63"/>in his infe ioribus supposito est per se
-      attri<lb ed="#P" n="64" break="no"/>bnendus, formae autem non nisi per accidens,  
-      <lb ed="#P" n="65"/>&amp; quod nulla forma materialis per se solam  
-      <lb ed="#P" n="66"/>sine aliquo addito possit esse principium
-      ali<lb ed="#P" n="67" break="no"/>cuius actus, sed omnis actus debet attribui 
-      <lb ed="#P" n="68"/>supposito, quod est principium totale, omnia 
-      <lb ed="#P" n="69"/>includens necessario requisita ad actionem;, 
-      <lb ed="#P" n="70"/>&amp; sic est principium in ratione causae efficien 
-      <lb ed="#P" n="71"/>tis omnium operationum. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e474">
-               <lb ed="#P" n="72"/>Hinc motus Arist. in primo de anima di 
-      <lb ed="#P" n="73"/>cebat, quod nullus actus, nec etiam
-      intelli<lb ed="#P" n="74" break="no"/>gendi, de quo magis videbatur, potest per 
-      <lb ed="#P" n="75"/>se attribui animae intellectiuae quia ad huius 
-      <lb ed="#P" n="76"/>modi actum non concurrit ipsa tantum, sed 
-      <lb ed="#P" n="77"/>etiam aliqua virtus corporalis, puta
-      phan<lb ed="#P" n="78" break="no"/>tasia; ideo dicebat intelligere vel est
-      phan<lb ed="#P" n="79" break="no"/>tasia, vel non sine phantasia, &amp; inferius in 
-      <lb ed="#P" n="80"/>eodem primo de anima dicebat, melius est di 
-      <lb ed="#P" n="81"/>cere, animam non misereri, nec addiscere, 
-      <lb ed="#P" n="82"/>aut intelligere, sed hominem per animam 
-      <lb ed="#P" n="83"/>per hominem vero intelligebat suppositum 
-      <lb ed="#P" n="84"/>includens animam, &amp; omnia alia quae con- 
-      <lb ed="#P" n="85"/>currunt necessario ad actus; sic ergo patet 
-      <lb ed="#P" n="86"/>quid dicendum sit ad istum articulum 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e509">
-               <lb ed="#P" n="87"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="88"/>An duobus idem inter se existentibus possit 
-      <lb ed="#P" n="89"/>aliquis actus vni attribui, &amp; non alteri. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e518">
-               <lb ed="#P" n="90"/>AD hoc dicunt quidam, quod aliquid 
-      <lb ed="#P" n="91"/>attribui vni illorum duorum, quae po 
-      <lb ed="#P" n="92"/>nuntur esse idem, potest intelligi
-      duplici<lb ed="#P" n="93" break="no"/>ter; vno modo quod istud attributum
-      com<lb ed="#P" n="94" break="no"/>petat sibi, secundum quod est idem cum
-      alte<lb ed="#P" n="95" break="no"/>ro, alio modo secundum quod est diuersum 
-      <lb ed="#P" n="96"/>ab eo: si ista attributio fiat primo modo; sic 
-      <lb ed="#P" n="97"/>dicunt, quod quicquid attribuitur vni,
-      ne<lb ed="#P" n="98" break="no"/>cessario attribuitur etiam alteri; sed si fiat se 
-      <lb ed="#P" n="99"/>cundo modo, scilicet prout sunt distincta
-      in<lb ed="#P" n="100" break="no"/>ter se, sic potest aliquid vni illorum attribui,  
-      <lb ed="#P" n="101"/>quod non attribuatur alteri; &amp; applicando 
-      <lb ed="#P" n="102"/>ad propositum, dicunt, quod actus essentia 
-      <lb ed="#P" n="103"/>les in diuinis, puta creare, gubernare &amp;c. 
-      <lb ed="#P" n="104"/>quia comperunt personae secundum quod est 
-      <lb ed="#P" n="105"/>idem cum essentia; idcirco vni, &amp; alteri
-      ne<lb ed="#P" n="106" break="no"/>cessario attribuuntur, actus vero notiales,
-      pu<lb ed="#P" n="107" break="no"/>ta generare, &amp; spitare, quia competunt
-      per<lb ed="#P" n="108" break="no"/>sonis, secundum quod distinguuntur ab esse 
-      <lb ed="#P" n="109"/>tia; ideo sic attribuuntur personis, quod  
-      <!--232.xml-->
-      <pb ed="#P" n="207"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>non possunt attribui essentiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e574">
-               <lb ed="#P" n="2"/>Sed iste modus dicendi a quibusdam
-      im<lb ed="#P" n="3" break="no"/>probatur: nam videmus (dicunt) quod actus 
-      <lb ed="#P" n="4"/>aedificandi competit aedificatori, secundum 
-      <lb ed="#P" n="5"/>quod est distinctus a musico, &amp; tamen si ars 
-      <lb ed="#P" n="6"/>aedificandi, &amp; musica coniungantur in eodem 
-      <lb ed="#P" n="7"/>supposito, non est dubium, quod actus
-      aedi<lb ed="#P" n="8" break="no"/>ficandi potest attribui etiam musico, saltem  
-      <lb ed="#P" n="9"/>per accidens 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e594">
-               <lb ed="#P" n="10"/>Propterea frater Aegidius Doct. noster,  
-      <lb ed="#P" n="11"/>qui improbat praemissum modum, aliter
-      re<lb ed="#P" n="12" break="no"/>pondet dicens, quod si aliqua duo ita se
-      ha<lb ed="#P" n="13" break="no"/>beant, quod vnum eorum possit praedicari 
-      <lb ed="#P" n="14"/>de altero per essentiam, &amp; per identitatem; 
-      <lb ed="#P" n="15"/>ita tamen, quod sit praedicatio propria,
-      sem<lb ed="#P" n="16" break="no"/>per illa erunt distincta secundum rationem 
-      <lb ed="#P" n="17"/>&amp; ideo omnia praedicata, quae dicunt quid 
-      <lb ed="#P" n="18"/>rationis, &amp; competunt vni eorum, prout
-      di<lb ed="#P" n="19" break="no"/>stinguitur ab alio secundum rationem, ita con 
-      <lb ed="#P" n="20"/>perunt vni, quod non possunt attribui alti 
-      <lb ed="#P" n="21"/>ri, cuius ratio est (secundum eum) quia licet 
-      <lb ed="#P" n="22"/>sit praedicatio essentialis, &amp; identica, semper 
-      <lb ed="#P" n="23"/>tamen remanet inter illa distinctio secundum 
-      <lb ed="#P" n="24"/>rationem, quae est praecisa ratio attributionis 
-      <lb ed="#P" n="25"/>talium predicatorum : Videmus namque, quod 
-      <lb ed="#P" n="26"/>animal praedicatur de homine identice, &amp; es 
-      <lb ed="#P" n="27"/>sentialiter, &amp; quia ista identitas non tollit di 
-      <lb ed="#P" n="28"/>stinctionem, quae est inter ea secundum
-      ra<lb ed="#P" n="29" break="no"/>tionem: idcirco illa praedicata, quae dicunt 
-      <lb ed="#P" n="30"/>quid rationis, competunt vni, &amp; non alteri. 
-      <lb ed="#P" n="31"/>Vnde quia esse speciem est quid rationis, &amp;  
-      <lb ed="#P" n="32"/>competit homini, vt est distinctus ab
-      anima<lb ed="#P" n="33" break="no"/>li, nullo modo potest attribui animali;
-      simi<lb ed="#P" n="34" break="no"/>liter, &amp; genus competit animali, vt est distin 
-      <lb ed="#P" n="35"/>ctum ab homine, nullo modo potest atttibui 
-      <lb ed="#P" n="36"/>homini, quia de homine dicitur species, &amp;  
-      <lb ed="#P" n="37"/>de animali praedicatur genus 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e657">
-               <lb ed="#P" n="38"/>Sed contra haec dicta occurrit vna dubita 
-      <lb ed="#P" n="39"/>tio; nam (sicut superius dicebatur) actus edi 
-      <lb ed="#P" n="40"/>ficandi potest non solum aedisicatori, sed etiam 
-      <lb ed="#P" n="41"/>musico conuenire, saltem per accidens; ergo 
-      <lb ed="#P" n="42"/>a simili intentio generis, licet animali
-      com<lb ed="#P" n="43" break="no"/>petat per se, prout distinguitur ab homine, 
-      <lb ed="#P" n="44"/>poterit tamen homini etiam conuenire per 
-      <lb ed="#P" n="45"/>accidens, prout idem est cum animali. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e677">
-               <lb ed="#P" n="46"/>Respondetur, quod similitudo non
-      va<lb ed="#P" n="47" break="no"/>let, quia actus aedificandi non solum
-      aedifi<lb ed="#P" n="48" break="no"/>catori attribuitur, quatenus est distinctus a 
-      <lb ed="#P" n="49"/>musico per artem aedisicandi, sed etiam
-      ra<lb ed="#P" n="50" break="no"/>tione, qua conuenit cum musico in vnitate 
-      <lb ed="#P" n="51"/>supposit agentis, &amp; ideo quamuis non
-      pos<lb ed="#P" n="52" break="no"/>sit attribui musicoper se, sicut aedificatori, 
-      <lb ed="#P" n="53"/>propter diuersitatem principij formalis
-      hu<lb ed="#P" n="54" break="no"/>ius actionis, poterit tamen illi attribui per 
-      <lb ed="#P" n="55"/>accidens propter vnitatem supposit
-      agen<lb ed="#P" n="56" break="no"/>tis: Intentio vero generis ita attribuitur ani 
-      <lb ed="#P" n="57"/>mali secundum rationem, qua distinguitur 
-      <!--232.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 207 b -->
-               <lb ed="#P" n="58"/>ab homine, quod nullo modo secundum idem 
-      <lb ed="#P" n="59"/>titatem suppositi potest illi conuenire; Pro 
-      <lb ed="#P" n="60"/>pter quod nullo modo potest homini attri 
-      <lb ed="#P" n="61"/>bui, quia nec per se; cum distinctio sit causa 
-      <lb ed="#P" n="62"/>quare animali competat, &amp; non homini; nec 
-      <lb ed="#P" n="63"/>etiam per accidens, quia identitas talis non  
-      <lb ed="#P" n="64"/>reperitur inter hominem, &amp; animal, quoc 
-      <lb ed="#P" n="65"/>intentio generis praedicetur de homine, vel 
-      <lb ed="#P" n="66"/>intentio speciei praedicetur de animali.
-      vi<lb ed="#P" n="67" break="no"/>detur ergo irrationabilis, prima aliorum
-      ex<lb ed="#P" n="68" break="no"/>plicatio 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e736">
-               <lb ed="#P" n="69"/>Modus vero dicendi Doctoris nostri
-      mi<lb ed="#P" n="70" break="no"/>hi videtur rationabilis; ideo vt responsio ac 
-      <lb ed="#P" n="71"/>liunc articulum fiat magis nota, &amp; vniuersa 
-      <lb ed="#P" n="72"/>liter intelligatur de omni actu, sicut quaerit 
-      <lb ed="#P" n="73"/>articulus; Respondeo quaesito clarius, cum 
-      <lb ed="#P" n="74"/>ergo quaeritur, an duobus idem inter se
-      exi<lb ed="#P" n="75" break="no"/>stentibus possit aliquid attribui vni, &amp; non 
-      <lb ed="#P" n="76"/>alteri; dico, quod si haec duo sint idem secun 
-      <lb ed="#P" n="77"/>dum rem, &amp; secundum rationem, quod
-      at<lb ed="#P" n="78" break="no"/>tribuitur vni debet &amp; alteri attribui, &amp; hoc 
-      <lb ed="#P" n="79"/>est de se notum, si vero sint idem secundum 
-      <lb ed="#P" n="80"/>rem, &amp; distinguantur modaliter, vel
-      forma<lb ed="#P" n="81" break="no"/>liter; si tales modi, &amp; formalitates concedan 
-      <lb ed="#P" n="82"/>tur, non est, dubium, quod aliquid potest 
-      <lb ed="#P" n="83"/>vni competere, &amp; nullo modo alteri.
-      Vide<lb ed="#P" n="84" break="no"/>mus enim, quod quamuis materia extensa, 
-      <lb ed="#P" n="85"/>&amp; non extensa sit vna res, quia tamen vt
-      ex<lb ed="#P" n="86" break="no"/>tensa habet aliquem modum realem, quem  
-      <lb ed="#P" n="87"/>non habet vt non extensa, competit sibi
-      su<lb ed="#P" n="88" break="no"/>scipere actionem agentis naturalis, quod non 
-      <lb ed="#P" n="89"/>competit materiae non extensae, quam non at 
-      <lb ed="#P" n="90"/>tingit agens naturale in agendo. Similiter 
-      <lb ed="#P" n="91"/>verum, &amp; bonum licet sint idem, quia tamen 
-      <lb ed="#P" n="92"/>differunt formaliter, vt quidam ponunt,
-      bo<lb ed="#P" n="93" break="no"/>no competit mouere voluntatem sub
-      ratio<lb ed="#P" n="94" break="no"/>ne boni, quod non competit illi sub
-      ratio<lb ed="#P" n="95" break="no"/>ne veri. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e797">
-               <lb ed="#P" n="96"/>Quando vero sunt aliqua duo idem secun 
-      <lb ed="#P" n="97"/>dum rem, quae distinguantur tantum secun 
-      <lb ed="#P" n="98"/>dum rationem, tunc maior est difficultas; 
-      <lb ed="#P" n="99"/>sed iuxta hac viam AEgidij dico primo, quod 
-      <lb ed="#P" n="100"/>duobus idem existentibus realiter, distinctis 
-      <lb ed="#P" n="101"/>tamen sola ratione, tunc potest aliquid
-      rea<lb ed="#P" n="102" break="no"/>le competere vni, &amp; non alteri; secundo
-      di<lb ed="#P" n="103" break="no"/>co, quod aliquid commune vtrisque potest de 
-      <lb ed="#P" n="104"/>nominare vnum illorum formaliter non
-      de<lb ed="#P" n="105" break="no"/>nominando alterum.
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e822">
-               <lb ed="#P" n="106"/>Primum dictum declaratur sic: Videmus 
-      <lb ed="#P" n="107"/>namque, quod vna, &amp; eadem forma est fini 
-      <lb ed="#P" n="108"/>motus praecedentis, &amp; principim subsequer 
-      <lb ed="#P" n="109"/>tis; est tamen ibi distinctio secundum rationem 
-      <lb ed="#P" n="110"/>respectu cuius distinctionis potest aliquid re 
-      <lb ed="#P" n="111"/>aliter conuenire isti formae, secundum quod 
-      <lb ed="#P" n="112"/>habet rationem finis, qui quidem non potess 
-      <lb ed="#P" n="113"/>sibi attribui, prout habet rationem
-      principij<lb ed="#P" n="114" break="no"/>puta specificare motum competit ei realiter,  
-      <!--233.xml-->
-      <pb ed="#P" n="208"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>prout habet rationem finis, qui nullo
-      mo<lb ed="#P" n="2" break="no"/>do potest attribui sibi, secundum quod habet 
-      <lb ed="#P" n="3"/>rationem principij: similiter videmus, quod 
-      <lb ed="#P" n="4"/>vna, &amp; eadem anima humana est sensitiua, &amp;  
-      <lb ed="#P" n="5"/>intellectiua, nec etiam est ibi distinctio, nisi 
-      <lb ed="#P" n="6"/>secundum rationem: &amp; tamen quatenus sen 
-      <lb ed="#P" n="7"/>sitiua est, habet realem similitudinem cum ani 
-      <lb ed="#P" n="8"/>ma bruti, quatenus vero intellectiua est, ista 
-      <lb ed="#P" n="9"/>similitudine caret, competit ergo sensitiueho 
-      <lb ed="#P" n="10"/>minis aliquid reale, quod non competit
-      in<lb ed="#P" n="11" break="no"/>tellectiuae, non obstante, quod sint idem
-      se<lb ed="#P" n="12" break="no"/>cundum rem (vt communiter conceditur) &amp;  
-      <lb ed="#P" n="13"/>quod detur haec similitudo realis inter sensi 
-      <lb ed="#P" n="14"/>tiuam hominis, &amp; bruti patet, quia si non da 
-      <lb ed="#P" n="15"/>retur inter eas haec similitudo, non posset ha 
-      <lb ed="#P" n="16"/>bere communem conceptum cum anima bru 
-      <lb ed="#P" n="17"/>ti, quod est falsum, quia simili modo mouent 
-      <lb ed="#P" n="18"/>intellectum, quae autem simili modo mouent,  
-      <lb ed="#P" n="19"/>similitudinem habent inter se realem; Sed  
-      <lb ed="#P" n="20"/>quod ista similitudo non possit attribui
-      in<lb ed="#P" n="21" break="no"/>tellectiuae patet, quia tunc de anima
-      huma<lb ed="#P" n="22" break="no"/>na non posset haberi aliquis conceptus. pra 
-      <lb ed="#P" n="23"/>ter illum, quem habet communem cum
-      ani<lb ed="#P" n="24" break="no"/>ma bruti, quod est falsum : Concludo ergo, 
-      <lb ed="#P" n="25"/>quod aliquid reale competit sensitiuae homi 
-      <lb ed="#P" n="26"/>nis, quod non potest attribui suae
-      intellecti<lb ed="#P" n="27" break="no"/>uae, non obstante quod sint idem
-      secun<lb ed="#P" n="28" break="no"/>dum rem. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e911">
-               <lb ed="#P" n="29"/>Oecurrunt tamen contra ista dicta duo 
-      <lb ed="#P" n="30"/>uia. <!-- erroneous line coord ?? -->
-      <lb ed="#P" n="31"/>dubia, primum est quia si sensitiuae hominis 
-      <lb ed="#P" n="32"/>competit aliquid reale, quod non possit attri 
-      <lb ed="#P" n="33"/>bui suae intellectiuae videtur, quod
-      circum<lb ed="#P" n="34" break="no"/>scripto omni actu intellectus sit aliqua disti 
-      <lb ed="#P" n="35"/>ctio ex natura rei inter sensitiuam hominis, 
-      <lb ed="#P" n="36"/>&amp; intellectiuam, &amp; per consequens non erit 
-      <lb ed="#P" n="37"/>illa distinctio tantum secundum rationem, 
-      <lb ed="#P" n="38"/>vt supponebatur, &amp; vt communiter
-      con<lb ed="#P" n="39" break="no"/>ceditur, 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e940">
-               <lb ed="#P" n="40"/>Huic dubitationi respodetur, quod distin 
-      <lb ed="#P" n="41"/>ctio secundum rationem semper habet suam 
-      <lb ed="#P" n="42"/>originem, &amp; fundamentum in re ipsa intelle 
-      <lb ed="#P" n="43"/>cta: &amp; ideo dixi superius in 2. dist. quaest. de 
-      <lb ed="#P" n="44"/>attributis, quod omnis distinctio secundum 
-      <lb ed="#P" n="45"/>rationem oritur ex natura rei, altero duorum 
-      <lb ed="#P" n="46"/>modorum: puta vel quia res intellecta
-      neces<lb ed="#P" n="47" break="no"/>sitat intellectum ad distinguendum, vel quia 
-      <lb ed="#P" n="48"/>supposito nostro modo intelligendi; rei intel 
-      <lb ed="#P" n="49"/>lectae non repugnat ab intellectu nostro, sic 
-      <lb ed="#P" n="50"/>accepta distingui secundum hoc; ergo non 
-      <lb ed="#P" n="51"/>habeo pro inconuenienti, quod omnis distin 
-      <lb ed="#P" n="52"/>ctio secundum rationem praeexistat in re an 
-      <lb ed="#P" n="53"/>te omnem actum intellectus, non quidem
-      a<lb ed="#P" n="54" break="no"/>ctualiter, &amp; complete, sed potentialiter, &amp;  
-      <lb ed="#P" n="55"/>incomplete, quae per ipsum intellectum com 
-      <lb ed="#P" n="56"/>pletur, &amp; de potentia ad actum reducitur; 
-      <lb ed="#P" n="57"/>Hinc est quod haec distinctio, licet
-      praeexi<lb ed="#P" n="58" break="no"/>stat in re, non denominatur realis, quia de¬ 
-      <!--233.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 208 b -->
-               <lb ed="#P" n="59"/>nominatio non fit ab eo, quod est in
-      poten<lb ed="#P" n="60" break="no"/>tia, &amp; incompletum, sed ab esse actu, &amp; com 
-      <lb ed="#P" n="61"/>ileto: Cum igitur haec distinctio actualitatem, 
-      <lb ed="#P" n="62"/>&amp; complenientum recipiat per actum
-      intel<lb ed="#P" n="63" break="no"/>lectus, debet dici rationis. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1001">
-               <lb ed="#P" n="64"/>Quod vt melius intelligatur, notandum est 
-      <lb ed="#P" n="65"/>tunc aliquam distinctionem esse actualem, 
-      <lb ed="#P" n="66"/>&amp; completam, quando ad eam sequitur ne 
-      <lb ed="#P" n="67"/>cessario vera pluralitas, per quam illa, quae 
-      <lb ed="#P" n="68"/>sunt tali distinctione distincta, necessario fa 
-      <lb ed="#P" n="69"/>ciunt aliquam multitudinem, &amp; ad se
-      inui<lb ed="#P" n="70" break="no"/>cem ponunt in numerum; Distinctio vero 
-      <lb ed="#P" n="71"/>potentialis, &amp; incompleta illa dicitur, in qua 
-      <lb ed="#P" n="72"/>non est vera pluralitas, nisi secundum poten 
-      <lb ed="#P" n="73"/>tiam: Vnde, quae sunt tali distinctione distin 
-      <lb ed="#P" n="74"/>cta non ponunt in numerum, nec faciunt ali 
-      <lb ed="#P" n="75"/>quam multitudinem 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1030">
-               <lb ed="#P" n="76"/>Hoc modo dico, quod sensitiua hominis, 
-      <lb ed="#P" n="77"/>&amp; intellectiua eiusdem ante actum
-      intelle<lb ed="#P" n="78" break="no"/>ctus sunt distincta potentialiter, &amp; incomple 
-      <lb ed="#P" n="79"/>te, nec ponunt in numerum ad se inuicem, 
-      <lb ed="#P" n="80"/>cum sit vna simplex forma, &amp; si dicuntur di 
-      <lb ed="#P" n="81"/>stincta, hoc est ex natura rei, &amp; potentialiter 
-      <lb ed="#P" n="82"/>cum vero praefata distinctio per antellectum 
-      <lb ed="#P" n="83"/>huiusmodi formas tanquam plures
-      intelli<lb ed="#P" n="84" break="no"/>gentem completur, tunc incipit ibi esse
-      ali<lb ed="#P" n="85" break="no"/>qua pluralitas, &amp; multitudo, quia intellectus 
-      <lb ed="#P" n="86"/>accipit sensitiuam, &amp; intellectiuam, eas
-      in<lb ed="#P" n="87" break="no"/>ter se distinguendo, ac si vera, &amp; realiter
-      es<lb ed="#P" n="88" break="no"/>sent, plura 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1061">
-               <lb ed="#P" n="89"/>Nec tamen in tali distinctione est aliqua 
-      <lb ed="#P" n="90"/>fictio, vel mendacium, tum quia res ipsa sic 
-      <lb ed="#P" n="91"/>est distinguibilis; tum quia intellectus non di 
-      <lb ed="#P" n="92"/>stinguit sensitiuam hominis ab intellectiua 
-      <lb ed="#P" n="93"/>absolute eam accipiendo, quia isto modo
-      de<lb ed="#P" n="94" break="no"/>ciperetur, sed accipit sensitiuam, simul cum 
-      <lb ed="#P" n="95"/>anima bruti, cum qua habet similitudinem; 
-      <lb ed="#P" n="96"/>&amp; quia non potest eam simul accipere cum 
-      <lb ed="#P" n="97"/>anima bruri, in quantum intellectiua est;
-      id<lb ed="#P" n="98" break="no"/>circo cogitur distinguere, &amp; distincte
-      intelli<lb ed="#P" n="99" break="no"/>gere sensitiuam ab intellectiua, &amp; ideo bene 
-      <lb ed="#P" n="100"/>dicebatur superius in 2. distinct quod omnis 
-      <lb ed="#P" n="101"/>distinctio secundum rationem accipitur ab 
-      <lb ed="#P" n="102"/>aliqua distinctione reali: Nam nisi intellectus 
-      <lb ed="#P" n="103"/>inueniret, sensitiuum in anima bruti realiter 
-      <lb ed="#P" n="104"/>distinctum esse ab intellectiuo in anima
-      hu<lb ed="#P" n="105" break="no"/>mana, nunquam cogeretur distinguere sensi 
-      <lb ed="#P" n="106"/>tiuum ab intellectiuo in eadem anima
-      hu<lb ed="#P" n="107" break="no"/>mana. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1106">
-               <lb ed="#P" n="108"/>Intelligendum vlterius, quod dum dico,  
-      <lb ed="#P" n="109"/>intellectum cogi ad distinguendum
-      sensiti<lb ed="#P" n="110" break="no"/>uum ab intellectiuo in eadem anima
-      huma<lb ed="#P" n="111" break="no"/>ne, non sic intelligo, ipsum cogi, quasi quoc 
-      <lb ed="#P" n="112"/>necessitetur a re ipsa intellectu, quia tunc
-      se<lb ed="#P" n="113" break="no"/>ueretur, quod anima humana non posset 
-      <lb ed="#P" n="114"/>alio modo intelligi a quocunque intellectu. 
-      <lb ed="#P" n="115"/>quod est, falsum, sed intelligo, ipsum cogi, pro 
-      <!--234.xml-->
-      <pb ed="#P" n="209"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>pter suum modum cognoscendi, quia non po 
-      <lb ed="#P" n="2"/>test venire in perfectam cognitionem anim; 
-      <lb ed="#P" n="3"/>humane, siue ipsius hominis, nisi procedendo 
-      <lb ed="#P" n="4"/>per diuersos gradus cognitionis, &amp; compa 
-      <lb ed="#P" n="5"/>rando eum ad ea, cum quibus habet similitu 
-      <lb ed="#P" n="6"/>dinem, sicut patuit superius: &amp; hoc ideo di- 
-      <lb ed="#P" n="7"/>xi; ne videar contradicere ijs, quae dixi in 
-      <lb ed="#P" n="8"/>questione de attributis; &amp; quia hoc maxime 
-      <lb ed="#P" n="9"/>est ad propositum, quo etiam fortasse alias 
-      <lb ed="#P" n="10"/>vtar; idcirco est vlterius intelligendum 
-      <lb ed="#P" n="11"/>quod sensitiuum, &amp; intellectiuum
-      quando<lb ed="#P" n="12" break="no"/>que nominant mihi diuersos conceptus quid 
-      <lb ed="#P" n="13"/>ditatiuos constituentes duo vniuersalia,
-      scili<lb ed="#P" n="14" break="no"/>cet genus, &amp; differentiam, &amp; isto modo
-      ne<lb ed="#P" n="15" break="no"/>cessitatur intellectus ab ipsa re intellecta ad 
-      <lb ed="#P" n="16"/>eorum distinctionem, quia nullo modo vide 
-      <lb ed="#P" n="17"/>tur possibile, quod genus &amp; differentia
-      ha<lb ed="#P" n="18" break="no"/>beant vnum conceptum quidditatiuum apud 
-      <lb ed="#P" n="19"/>aliquem intellectum creatum, quandoque
-      ve<lb ed="#P" n="20" break="no"/>ro sensitiuum, &amp; intellectiuum nominant di 
-      <lb ed="#P" n="21"/>uersos gradus cognitionis, per quos procedit 
-      <lb ed="#P" n="22"/>intellectus ad cognoscendum animam huma 
-      <lb ed="#P" n="23"/>nam, &amp; isto modo necessitatur ad eorum
-      di<lb ed="#P" n="24" break="no"/>stinctionem non a re ipsa, sed magis a suo im 
-      <lb ed="#P" n="25"/>perfecto modo cognocendi: Nam vbi
-      habe<lb ed="#P" n="26" break="no"/>ret ita perfectum modum cognoscendi, sicut  
-      <lb ed="#P" n="27"/>Angelus, nunquam ad cognoscendum
-      ali<lb ed="#P" n="28" break="no"/>quam formam per tales diuersos gradus
-      co<lb ed="#P" n="29" break="no"/>gnitionis procederet, &amp; ideo isto secudo mo 
-      <lb ed="#P" n="30"/>do vsus fui praefato exemplo in quaestio, de 
-      <lb ed="#P" n="31"/>attributis.
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1200">
-               <lb ed="#P" n="32"/>Ex quibus omnibus apparet, quid
-      dicen<lb ed="#P" n="33" break="no"/>dum sit ad primum dubium, videlicet quodi 
-      <lb ed="#P" n="34"/>circumscripto omni actu intellectus, est
-      ali<lb ed="#P" n="35" break="no"/>qua distinctio inter sensitiuam hominis, &amp;  
-      <lb ed="#P" n="36"/>intellectiuam, non quidem complete, &amp; actua 
-      <lb ed="#P" n="37"/>liter, quia tunc essent duae res distinctae, &amp; 
-      <lb ed="#P" n="38"/>ponerent ad se inuicem in numerum, quod 
-      <lb ed="#P" n="39"/>est falsum, sed est quaedam distinctio
-      incom<lb ed="#P" n="40" break="no"/>pleta, &amp; possibilis eo modo, quo dictum fuit. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1222">
-               <lb ed="#P" n="41"/>Secundum dubium, quod occurrit contra di 
-      <lb ed="#P" n="42"/>cta, est, quia quaeret aliquis de isto reali, quod 
-      <lb ed="#P" n="43"/>competit sensitiuae hominis, &amp; non potest at 
-      <lb ed="#P" n="44"/>tribui suae intellectiuae: Vtrum sit aliquid rea 
-      <lb ed="#P" n="45"/>liter distinctum ab ipsa sensitiua, vel idem 
-      <lb ed="#P" n="46"/>eum ea: si dicatur, quod sit aliud realiter
-      di<lb ed="#P" n="47" break="no"/>stinctum ab ea, tunc facit compositonem cum 
-      <lb ed="#P" n="48"/>ea, &amp; quia sensitiua in homine est idem reali 
-      <lb ed="#P" n="49"/>ter, quod intellectiua, quicquid facit compo 
-      <lb ed="#P" n="50"/>sitionem realem cum vna necessario compo 
-      <lb ed="#P" n="51"/>nitur cum altera, si autem dicatur, quod sit 
-      <lb ed="#P" n="52"/>idem cum ea, tunc etiam necessario erit idem 
-      <lb ed="#P" n="53"/>cum intellectiua, &amp; per consequens etiam isto 
-      <lb ed="#P" n="54"/>modo non poterit competere vni, cum
-      com<lb ed="#P" n="55" break="no"/>petat alteri. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1257">
-               <lb ed="#P" n="56"/>Ad hoc ergo est dicendum, quod illa
-      rea<lb ed="#P" n="57" break="no"/>ls similitudo, quae ponitur conuenire sensi¬ 
-      <!--234.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 209 b -->
-               <lb ed="#P" n="58"/>tiuae hominis, non addit aliquam rem supra ea 
-      <lb ed="#P" n="59"/>intrinsece; addit tamen ab extra exigentiam 
-      <lb ed="#P" n="60"/>extrinseci termini, ad quem est illa
-      similitu<lb ed="#P" n="61" break="no"/>do: Cum ergo arguitur, quod si ista
-      similitu<lb ed="#P" n="62" break="no"/>do esset idem cum sensitiua, sequeretur, quod 
-      <lb ed="#P" n="63"/>etiam esset idem cum intellectiua; possem re 
-      <lb ed="#P" n="64"/>pondere dupliciter, vno modo dicedo, quod 
-      <lb ed="#P" n="65"/>verum est, si prefata similitudo esset omnino 
-      <lb ed="#P" n="66"/>idem cum sensitiua, nunc autem quamuis sit 
-      <lb ed="#P" n="67"/>idem, quantum ad illud, quod intrinsece
-      di<lb ed="#P" n="68" break="no"/>cit, non est tamen idem quantum ad id, quod 
-      <lb ed="#P" n="69"/>extrinsece coexigit. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1296">
-               <lb ed="#P" n="70"/>Alio modo possum dicere, &amp; melius, quod 
-      <lb ed="#P" n="71"/>si sensitiua, &amp; intellectiua in homine essent 
-      <lb ed="#P" n="72"/>omnino idem, &amp; secundum actum, &amp;
-      secun<lb ed="#P" n="73" break="no"/>dum potentiam, tunc non competeret aliud 
-      <lb ed="#P" n="74"/>sensitiuae, quod non posset attribui ipsi intel 
-      <lb ed="#P" n="75"/>lectiuae, &amp; maxime si ex illo reali attributo 
-      <lb ed="#P" n="76"/>sumatur illa distinguibilitas, sicut est in pro 
-      <lb ed="#P" n="77"/>posito; nam ideo sensitiua est distinguibilis 
-      <lb ed="#P" n="78"/>ab intellectiua in eadem anima humana; quia 
-      <lb ed="#P" n="79"/>habet realem similitudinem ad animam bru 
-      <lb ed="#P" n="80"/>ti, cum qua non habet similitudinem ipsa in 
-      <lb ed="#P" n="81"/>tellectiua: Patet ergo quid sit dicendum ad 
-      <lb ed="#P" n="82"/>secundum dubium Apparet etiam ex omni 
-      <lb ed="#P" n="83"/>bus, quae dicta sunt, illud, quod primo
-      pro<lb ed="#P" n="84" break="no"/>ponebam declarare circa istum articulum
-      s<lb ed="#P" n="85" break="no"/>uod duobus existentibus idem secundum 
-      <lb ed="#P" n="86"/>rem, distinctis tamen secundum rationem, 
-      <lb ed="#P" n="87"/>possit aliud competere vni, quod non
-      com<lb ed="#P" n="88" break="no"/>petat alteri. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1340">
-               <lb ed="#P" n="89"/>Potest etiam ex istis haberi, quod illi, qui 
-      <lb ed="#P" n="90"/>ponunt formalitates, incidunt in opinionem 
-      <lb ed="#P" n="91"/>communem, velint, nolint: Nam cum illa
-      di<lb ed="#P" n="92" break="no"/>stinctio formalis non constituat veram plura 
-      <lb ed="#P" n="93"/>litatem realem in re, in qua est, vt ipsimet con 
-      <lb ed="#P" n="94"/>cedunt, cogimur dicere necessario, quod
-      ta<lb ed="#P" n="95" break="no"/>is distinctio sit incompleta, &amp; possibilis, &amp;  
-      <lb ed="#P" n="96"/>per consequens si compleatur, &amp; de potentia 
-      <lb ed="#P" n="97"/>ad actum reducatur, vel hoc fiet per realem 
-      <lb ed="#P" n="98"/>diuisionem, sicut quando diuiduntur partes 
-      <lb ed="#P" n="99"/>continui, vel per diuisionem rationis; sicut i 
-      <lb ed="#P" n="100"/>proposito, quando diuiditur sensitiuum ab 
-      <lb ed="#P" n="101"/>intellectiuo in eadem anima humana, quia 
-      <lb ed="#P" n="102"/>ibi non est possibilis esse realis diuisio; ergo 
-      <lb ed="#P" n="103"/>omnis distinctio vel est realis, vel rationis, &amp;  
-      <lb ed="#P" n="104"/>sic redimus ad opinionem communem. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1378">
-               <lb ed="#P" n="105"/>NVNC vlterius restat secundo loco
-      de<lb ed="#P" n="106" break="no"/>clarare, quod duobus existentibus idem
-      se<lb ed="#P" n="107" break="no"/>cundum rem, distinctis tamen secundum
-      ra<lb ed="#P" n="108" break="no"/>tionem, potest aliud reale, &amp; essentiale
-      com<lb ed="#P" n="109" break="no"/>mune vtrique, formaliter denominet vnum, 
-      <lb ed="#P" n="110"/>&amp; non denominando alterum, hoc autem est 
-      <lb ed="#P" n="111"/>facile intelligere. Videmus namque, quod
-      al<lb ed="#P" n="112" break="no"/>pum, &amp; albedo in quantum ad principale
-      si<lb ed="#P" n="113" break="no"/>gnificatum sunt idem realiter, &amp; idem
-      prae<lb ed="#P" n="114" break="no"/>dicamentum essentiale competit vtriqu puta 
-      <!--235.xml-->
-      <pb ed="#P" n="210"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>qualitas, hoc non obstante, ipsa qualitas de 
-      <lb ed="#P" n="2"/>nominat formaliter ipsum album, nam
-      con<lb ed="#P" n="3" break="no"/>cedimus, quod album sit quale, non tamen 
-      <lb ed="#P" n="4"/>denominat formaliter ipsam albedinem; quia 
-      <lb ed="#P" n="5"/>non conceditur, quod albedo sit qualis; suf 
-      <lb ed="#P" n="6"/>ficit ergo hic distinctio rationis inter album, 
-      <lb ed="#P" n="7"/>&amp; albedinem ad hoc, vt qualitas possit
-      for<lb ed="#P" n="8" break="no"/>maliter denominare album, non denominan 
-      <lb ed="#P" n="9"/>do albedinem : Verum est tamen, quod et 
-      <lb ed="#P" n="10"/>ista distinctio rationis supponit aliquam
-      di<lb ed="#P" n="11" break="no"/>stinctionem realem: Nam si album non
-      con<lb ed="#P" n="12" break="no"/>notaret aliquid realiter distinctum ab albed 
-      <lb ed="#P" n="13"/>ne, puta subiectum, non fieret abstractio per 
-      <lb ed="#P" n="14"/>intellectum albedinis ab albo, nec etiam ibi 
-      <lb ed="#P" n="15"/>aliqua distinctio esset secundum rationem, 
-      <lb ed="#P" n="16"/>&amp; per consequens non esset ibi possibilis
-      ali<lb ed="#P" n="17" break="no"/>qua denominatio ex parte albi magis, quam 
-      <lb ed="#P" n="18"/>ex parte albedinis: sic ergo patet totum, quod 
-      <lb ed="#P" n="19"/>proponebatur declarandum circa istum
-      se<lb ed="#P" n="20" break="no"/>cundum articulum, 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1452">
-               <lb ed="#P" n="21"/>ARTICVLVS TERTIVS. 
-      <lb ed="#P" n="22"/>An actus generationis possit attribui
-      essen<lb ed="#P" n="23" break="no"/>tiae diuinae, eam denominando
-      formali<lb ed="#P" n="24" break="no"/>ter generans
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1463">
-               <lb ed="#P" n="25"/>Llud, quod videtur maxime facere diffi- 
-      <lb ed="#P" n="26"/>cultatem in propositol, est argumentum, 
-      <lb ed="#P" n="27"/>quod fuit inductum in principio quaestionis,  
-      <lb ed="#P" n="28"/>icilicet, quia pater, cui praefatus actus tri 
-      <lb ed="#P" n="29"/>buitur, est idem quod diuina essentia; osten 
-      <lb ed="#P" n="30"/>sum est tamen in praecedenti articulo, quod 
-      <lb ed="#P" n="31"/>non obstante, quod aliqua duo sint idem se 
-      <lb ed="#P" n="32"/>cundum rem, dummodo sint distincta, &amp; di 
-      <lb ed="#P" n="33"/>stinguibilia secundum rationem, potest
-      ali<lb ed="#P" n="34" break="no"/>quid realiter attribui vni, &amp; formaliter ipsum 
-      <lb ed="#P" n="35"/>denominare, non denominando alterum, &amp; 
-      <lb ed="#P" n="36"/>ideo ex ista parte non debet oriri dubitatio 
-      <lb ed="#P" n="37"/>Dicendum est ergo quod essentia non gene 
-      <lb ed="#P" n="38"/>rat, &amp; iste actus sibi non potest attribui, eam 
-      <lb ed="#P" n="39"/>formaliter denominando. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1498">
-               <lb ed="#P" n="40"/>Duo ergo faciam : Primo probabo istam 
-      <lb ed="#P" n="41"/>conclu onem: secundo remouebo quasdam  
-      <lb ed="#P" n="42"/>dubitationes : Conclusionem probo
-      dupli<lb ed="#P" n="43" break="no"/>citer : primo sic. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1509">
-               <lb ed="#P" n="44"/>llli, cui non competunt ea, quae sunt 
-      <lb ed="#P" n="45"/>necessario requisita ad actum generationis,  
-      <lb ed="#P" n="46"/>non potest per se attribui talis actus:
-      diui<lb ed="#P" n="47" break="no"/>na essentia est huiusmodi; ergo &amp;c. Maior  
-      <lb ed="#P" n="48"/>est nota ex primo articulo, vbi dicebatur, quo 
-      <lb ed="#P" n="49"/>ideo forma non per se agit, quia non habet 
-      <lb ed="#P" n="50"/>per se ea, quae sunt requisita ad actum
-      gene<lb ed="#P" n="51" break="no"/>rationis. Probo Minorem, nam ad actum 
-      <lb ed="#P" n="52"/>generationis necessario requiritur realis
-      di<lb ed="#P" n="53" break="no"/>stinctio, &amp; realis relatio inter gignens, &amp; ge 
-      <!--235.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 210 b -->
-               <lb ed="#P" n="54"/>nitum, vt probatum fuit superius, haec oia 
-      <lb ed="#P" n="55"/>personae competunt, &amp; non essentiae; ergo 
-      <lb ed="#P" n="56"/>actus generationis per se attribuitur
-      perso<lb ed="#P" n="57" break="no"/>nae, &amp; non essentiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1548">
-               <lb ed="#P" n="58"/>2 Si diuina essentia generaret,
-      sequere<lb ed="#P" n="59" break="no"/>tur quod nullo modo distingueretur a
-      per<lb ed="#P" n="60" break="no"/>sona patris; consequens est falsum, ergo &amp; 
-      <lb ed="#P" n="61"/>antecedens: Falsitas consequentis ab omni 
-      <lb ed="#P" n="62"/>bus est concessa, nam omnes volunt saluare 
-      <lb ed="#P" n="63"/>aliquam distinctionem inter personam &amp; es 
-      <lb ed="#P" n="64"/>sentiam, saltem rationis. Probo
-      consequen<lb ed="#P" n="65" break="no"/>tiam: Dictum est enim in articulo secundo, 
-      <lb ed="#P" n="66"/>quod ideo aliqua distinguuntur secundum 
-      <lb ed="#P" n="67"/>rationem, quia vel ambo connotant aliqua 
-      <lb ed="#P" n="68"/>realiter distincta, respectu quorum
-      compe<lb ed="#P" n="69" break="no"/>tunt eis diuersa: vel saltem vnum eorum
-      con<lb ed="#P" n="70" break="no"/>notat aliquid realiter distinctum, respectu 
-      <lb ed="#P" n="71"/>cuius competit sibi aliquid, quod non
-      com<lb ed="#P" n="72" break="no"/>petit alteri; vt exemplo de sensitiua, respectu 
-      <lb ed="#P" n="73"/>intellectiuae, declaratu fuit: Sicut ergo sensi 
-      <lb ed="#P" n="74"/>tiua in homine non distingueretur secundum 
-      <lb ed="#P" n="75"/>rationem ab intellectiua, nisi esset aliquod 
-      <lb ed="#P" n="76"/>realiter distinctum, respectu cuius haberet 
-      <lb ed="#P" n="77"/>similitudinem realem, quam non habet
-      in<lb ed="#P" n="78" break="no"/>tellectiua: ita etiam suo modo, si persona pa 
-      <lb ed="#P" n="79"/>tris non haberet terminum realiter distinctum, 
-      <lb ed="#P" n="80"/>scilicet filium, respectu cuius habet aliquem  
-      <lb ed="#P" n="81"/>actum, quem non habet essentia; non esset 
-      <lb ed="#P" n="82"/>ab ea distinguibilis secundum rationem: ergo 
-      <lb ed="#P" n="83"/>persona patris est distinguibilis ab essentia se 
-      <lb ed="#P" n="84"/>cundum rationem, quia habet aliquem
-      ter<lb ed="#P" n="85" break="no"/>minum, realiter distinctum, quem non habet 
-      <lb ed="#P" n="86"/>essentia; &amp; per consequens respectu illius 
-      <lb ed="#P" n="87"/>termini necessario competit sibi aliquid, quod 
-      <lb ed="#P" n="88"/>non competit essentiae, hoc autem non pot 
-      <lb ed="#P" n="89"/>esse nisi vel actus generationis, vel realis
-      re<lb ed="#P" n="90" break="no"/>latio, quae est idem, quod ille actus; ergo ille 
-      <lb ed="#P" n="91"/>actus generonis ita denominabit formaliter 
-      <lb ed="#P" n="92"/>personam Patris, quod nullo modo denomi 
-      <lb ed="#P" n="93"/>nabit essentiam, quamuis sit idem realiter 
-      <lb ed="#P" n="94"/>cum ea 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1632">
-               <lb ed="#P" n="95"/>Oecurrunt tamen contra huiusmodi
-      di<lb ed="#P" n="96" break="no"/>cta nonnullae difficultates: prima est, quia li 
-      <lb ed="#P" n="97"/>cet actus non attribuatur essentiae per se, ui 
-      <lb ed="#P" n="98"/>detur tamen quod, possit sibi attribui per ac 
-      <lb ed="#P" n="99"/>cidens, propter realem identitatem, quam 
-      <lb ed="#P" n="100"/>habet cum persona patris, cui comperit por 
-      <lb ed="#P" n="101"/>se; sicut quamuis actus aedificandi non com 
-      <lb ed="#P" n="102"/>petat musico per se, potest tamen sibi
-      attri<lb ed="#P" n="103" break="no"/>pui per accidens, propter vnitatem
-      suppo<lb ed="#P" n="104" break="no"/>siti, quam habet cum aedificatore, 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1656">
-               <lb ed="#P" n="105"/>Ad hoc respondetur, quod essentia est no 
-      <lb ed="#P" n="106"/>men abstractum: Haec est autem differentia 
-      <lb ed="#P" n="107"/>inter abstractum &amp; concretum, nam cum 
-      <lb ed="#P" n="108"/>abstractum abstrahat ab omni eo, quod est ex 
-      <lb ed="#P" n="109"/>tra rationem quidditatiuam, idcirco non
-      re<lb ed="#P" n="110" break="no"/>cipit denominationem, nisi illorum praedica¬ 
-      <!--236.xml-->
-      <pb ed="#P" n="211"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>torum, quae praedicatur de eo per se primo 
-      <lb ed="#P" n="2"/>modo, &amp; per consequens praedicatum
-      nul<lb ed="#P" n="3" break="no"/>lum per accidens potest eum denominare. 
-      <lb ed="#P" n="4"/>Concretum vero quia concernit aliquid, quod 
-      <lb ed="#P" n="5"/>est preter suam rationem quidditatiuam, ideo 
-      <lb ed="#P" n="6"/>non solum recipit denominationem illorum 
-      <lb ed="#P" n="7"/>praedicatorum, quae praedicantur de eo per 
-      <lb ed="#P" n="8"/>se, in primo modo, sed etiam illorum, quae pro 
-      <lb ed="#P" n="9"/>dicantur deleo per accidens quia ergo essen 
-      <lb ed="#P" n="10"/>tia est nomen abstractum, non potest
-      recipe<lb ed="#P" n="11" break="no"/>re denominationem alicuius actus, nisi ille 
-      <lb ed="#P" n="12"/>actus competat sibi per se in primo modo; &amp;  
-      <lb ed="#P" n="13"/>quia generare non comperit per se essentiae, 
-      <lb ed="#P" n="14"/>sed personae, vt visum est; relinquitur, quod 
-      <lb ed="#P" n="15"/>nullo modo possit sibi attribui, vel eam deno 
-      <lb ed="#P" n="16"/>minare, etiam per accidens 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1713">
-               <lb ed="#P" n="17"/>Haec responsio quamuis sit satis
-      commu<lb ed="#P" n="18" break="no"/>nis mihi tamen non satisfacit propter tria 
-      <lb ed="#P" n="19"/>1 Quia videmus in istis inferioribs, quod non 
-      <lb ed="#P" n="20"/>obstante, quod forma sit nomen abstractum  
-      <lb ed="#P" n="21"/>ille tamen actus, qui competit supposito per 
-      <lb ed="#P" n="22"/>se, potest attribui formae per accidens,
-      secun<lb ed="#P" n="23" break="no"/>dum Aristot. &amp; Com. quod non est propter 
-      <lb ed="#P" n="24"/>aliud, nisi quia forma est aliquid composit 
-      <lb ed="#P" n="25"/>ergo a simili, non obstante quod diuina essem 
-      <lb ed="#P" n="26"/>tia sit nomen abstractum, quia est aliquid ip 
-      <lb ed="#P" n="27"/>sius suppositi paterni, immo (vt melius loqua 
-      <lb ed="#P" n="28"/>mur) est ipsum suppositum paternum, cuii 
-      <lb ed="#P" n="29"/>se competit actus generandi; videtur, quod 
-      <lb ed="#P" n="30"/>praefatus actus posse sibi attribui per accidens. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1746">
-               <lb ed="#P" n="31"/>2 Praeterea sicut abstractio essentiae non 
-      <lb ed="#P" n="32"/>impedit eam praedicari de supposito paterno 
-      <lb ed="#P" n="33"/>pari ratione videtur, quod non debeat impe 
-      <lb ed="#P" n="34"/>dire eam a denominatione eorum, quae per 
-      <lb ed="#P" n="35"/>sc competunt tali supposito. Nam ideo abstra 
-      <lb ed="#P" n="36"/>ctum in istis inferioribus non recipit
-      demo<lb ed="#P" n="37" break="no"/>strationem alicuius praedicati per accidens 
-      <lb ed="#P" n="38"/>quia propter suam abstractionem impeditur 
-      <lb ed="#P" n="39"/>praedicari de supposito, &amp; per consequens
-      im<lb ed="#P" n="40" break="no"/>peditur recipere aliquam extraneam
-      deno<lb ed="#P" n="41" break="no"/>minationem ratione suppositi, in diuinis
-      au<lb ed="#P" n="42" break="no"/>tem ista ratio non habet locum, vt de se
-      pa<lb ed="#P" n="43" break="no"/>tet, ergo &amp;caet. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1777">
-               <lb ed="#P" n="44"/>3 Quia maior est vnitas, quam habet
-      es<lb ed="#P" n="45" break="no"/>sentia diuina in abstracto significata cum
-      per<lb ed="#P" n="46" break="no"/>sona patris, quam vnitas, quam habet
-      musi<lb ed="#P" n="47" break="no"/>cum in concreto cum aedificatore, quia hic est 
-      <lb ed="#P" n="48"/>realis distinctio, ibi vero non: si ergo propter 
-      <lb ed="#P" n="49"/>vnitatem supposit quam habet musicum in 
-      <lb ed="#P" n="50"/>concreto cum ipso aedificatore, potest sibi
-      at<lb ed="#P" n="51" break="no"/>tribui per accidens actus aedificandi, qui
-      com<lb ed="#P" n="52" break="no"/>perit aedificatori per se; videtur multo magis 
-      <lb ed="#P" n="53"/>quod propter vnitatem realem, quam habet 
-      <lb ed="#P" n="54"/>essentia cum persona patris, actus generandi 
-      <lb ed="#P" n="55"/>possit sibi attribui saltem per accidens, cum 
-      <lb ed="#P" n="56"/>competat patri per se; &amp; ideo propter ominia 
-      <lb ed="#P" n="57"/>hec, videtur mihi (saluo meliore iudicio) ali¬ 
-      <!--236.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 211 b -->
-               <lb ed="#P" n="58"/>ter esse dicendum 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1819">
-               <lb ed="#P" n="59"/>Dico ergo, quod actus generandi ideo non 
-      <lb ed="#P" n="60"/>potest attribui essentiae, etiam per accidens, 
-      <lb ed="#P" n="61"/>quia inuenit contrariam, &amp; repugnantem
-      dis<lb ed="#P" n="62" break="no"/>positionem in essentia, cum qua se non
-      com<lb ed="#P" n="63" break="no"/>patitur, quod patet, quia actus generandi re 
-      <lb ed="#P" n="64"/>quirit necessario realem distinctionem inter 
-      <lb ed="#P" n="65"/>gignens, &amp; genitum; siue illud sit gignens 
-      <lb ed="#P" n="66"/>vel genitum per se; siue sit gignens, vel gen 
-      <lb ed="#P" n="67"/>tum per accidens; quia nihil potest gignere 
-      <lb ed="#P" n="68"/>se ipsum, nec per se, nec per accidens: &amp; quia 
-      <lb ed="#P" n="69"/>essentia habet realem identitatem cum geni 
-      <lb ed="#P" n="70"/>to, ideo nullo modo potest sibi attribui actus 
-      <lb ed="#P" n="71"/>generandi. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1851">
-               <lb ed="#P" n="72"/>Possemus etiam nos breuius expedire
-      di<lb ed="#P" n="73" break="no"/>cendo, quod cum in diuinis nullum sit
-      acci<lb ed="#P" n="74" break="no"/>dens, idcirco nulla attributio potest ibi esse 
-      <lb ed="#P" n="75"/>per accidens, &amp; ideo cui non potest per se at 
-      <lb ed="#P" n="76"/>tribui actus generandi, nullo modo potest ei 
-      <lb ed="#P" n="77"/>dem attribui, nec etiam per accidens 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1867">
-               <lb ed="#P" n="78"/>Secundo videtur quod essentiae possit
-      at<lb ed="#P" n="79" break="no"/>tribui actus generandi: Nam de quocunque 
-      <lb ed="#P" n="80"/>praedicatur subiectum, etiam &amp; sua passio pro 
-      <lb ed="#P" n="81"/>dicatur, sed pater praedicatur de essentia,
-      er<lb ed="#P" n="82" break="no"/>go &amp; actus generandi, qui est sua proprietas. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1880">
-               <lb ed="#P" n="83"/>Ad hoc respondent quidam dicentes, 
-      <lb ed="#P" n="84"/>quod de quocunque praedicatur
-      subie<lb ed="#P" n="85" break="no"/>ctum, praedicatur &amp; passio, si passio
-      po<lb ed="#P" n="86" break="no"/>test praedicari praedicatione eiusdem
-      ratio<lb ed="#P" n="87" break="no"/>nis cum subiecto, non autem est ita in
-      pro<lb ed="#P" n="88" break="no"/>posito: Nam pater praedicatur de essentia per 
-      <lb ed="#P" n="89"/>identitatem: generare autem, cum sit
-      adiecti<lb ed="#P" n="90" break="no"/>uum, non potest praedicari nisi formaliter, &amp;  
-      <lb ed="#P" n="91"/>per modum adiacentis. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1902">
-               <lb ed="#P" n="92"/>Haec responsio videtur perere principium 
-      <lb ed="#P" n="93"/>immo videtur augere difficultatem: Nam si 
-      <lb ed="#P" n="94"/>tater praedicatur de essentia per identitatem 
-      <lb ed="#P" n="95"/>videtur omnino, quod illud, quod denomi- 
-      <lb ed="#P" n="96"/>nat formaliter ipsum patrem, denominet for 
-      <lb ed="#P" n="97"/>maliter etiam ipsam essentiam, quod si
-      con<lb ed="#P" n="98" break="no"/>tingat contrarium, sicut modo in proposito, 
-      <lb ed="#P" n="99"/>quaeritur huius reicausa, quae tamen non
-      as<lb ed="#P" n="100" break="no"/>signatur per istam responsionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1924">
-               <lb ed="#P" n="101"/>Respondeo, ergo que cum dicitur, de quocum 
-      <lb ed="#P" n="102"/>ue praedicatur subiectum, praedicatur, ex
-      pas<lb ed="#P" n="103" break="no"/>no, hoc verum esse, vbi passio non inuenit
-      repu<lb ed="#P" n="104" break="no"/>gnantem dispositionem, sed vbi inuenit, non opor 
-      <lb ed="#P" n="105"/>tet, sicut exempli gratia, videmus quod
-      ter<lb ed="#P" n="106" break="no"/>mini vniuersalis habent quaedam attributa, 
-      <lb ed="#P" n="107"/>er modum passionum, sicut iste terminus 
-      <lb ed="#P" n="108"/>homo habet istud attributum, quod est
-      spe<lb ed="#P" n="109" break="no"/>cies, &amp; tamen homo praedicatur de Sorte, &amp;  
-      <lb ed="#P" n="110"/>species non potest de eo praedicari, quod non 
-      <lb ed="#P" n="111"/>est propter aliud, nisi quia Sortes habet repu 
-      <lb ed="#P" n="112"/>gnantem dispositionem ad istud attributum. 
-      <lb ed="#P" n="113"/>puta vniuersalitatem speciei: aliqua tamen 
-      <lb ed="#P" n="114"/>passio hominis, quae non inuenit in Sorte re¬ 
-      <!--237.xml-->
-      <pb ed="#P" n="212"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>pugnantem dispositionem, bene potest sibi 
-      <lb ed="#P" n="2"/>attribui, eum formaliter denominando, sicut 
-      <lb ed="#P" n="3"/>patet de risibilitate: ita suo modo dico in pro 
-      <lb ed="#P" n="4"/>posito, quod illud, quod per modum
-      pashio<lb ed="#P" n="5" break="no"/>nis competit patri, bene posse attribui
-      essen<lb ed="#P" n="6" break="no"/>tiae si essentia nou haberet repugnantem dis 
-      <lb ed="#P" n="7"/>positionem ad tale attributum: Nunc autem 
-      <lb ed="#P" n="8"/>visum est quod tale attributum sibi repugnat 
-      <lb ed="#P" n="9"/>omnino, nec tamen est mirandum, quomodo 
-      <lb ed="#P" n="10"/>repugnantia talis inueniatur in essentia, &amp;  
-      <lb ed="#P" n="11"/>non in persona, cum tamen sint idem: quia 
-      <lb ed="#P" n="12"/>vt potest patere per ea, quae dicta sunt
-      supe<lb ed="#P" n="13" break="no"/>rius, sola distinctio rationis sufficit ad hoc, vt 
-      <lb ed="#P" n="14"/>aliquid possit attribui vni, quod tamen repu 
-      <lb ed="#P" n="15"/>gnat alteri. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e1996">
-               <lb ed="#P" n="16"/>Tertium dubium quod occurrit contra 
-      <lb ed="#P" n="17"/>eandem conclusionem est, quia si fiat talis 
-      <lb ed="#P" n="18"/>discursus, pater generat, essentia est pater, er 
-      <lb ed="#P" n="19"/>go essentia generat, videbitur necessario
-      con<lb ed="#P" n="20" break="no"/>cludi oppositum propositi, quia praefata ratio 
-      <lb ed="#P" n="21"/>non videtur peccare nec in materia, nec 
-      <lb ed="#P" n="22"/>in forma. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2015">
-               <lb ed="#P" n="23"/>Adhoc communiter respodetur, quod ista 
-      <lb ed="#P" n="24"/>ratio deficit in forma, peccat enim per
-      falla<lb ed="#P" n="25" break="no"/>ciam antecedentis, quia accidit patri, prout 
-      <lb ed="#P" n="26"/>stat sub isto attributo quod est generare,
-      pre<lb ed="#P" n="27" break="no"/>dicari de essentia, quod vtique videtur verum, 
-      <lb ed="#P" n="28"/>nam predicatur de essentia per hoc, quod est 
-      <lb ed="#P" n="29"/>idem cum ea, cum actus generandi sibi attri 
-      <lb ed="#P" n="30"/>buatur, vt distinguitur ab ea, sicut
-      supe<lb ed="#P" n="31" break="no"/>rius patuit. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2037">
-               <lb ed="#P" n="32"/>Quartum dubium occurrit, quia potest fie 
-      <lb ed="#P" n="33"/>ri alius discursus, qui videbitur necessario con 
-      <lb ed="#P" n="34"/>cludere contra istam conclusionem si
-      dica<lb ed="#P" n="35" break="no"/>tur, pater filij generat, essentia est pater filij 
-      <lb ed="#P" n="36"/>ergo essentia generet; Minor probatur, nam  
-      <lb ed="#P" n="37"/>ab omnibus conceditur quod essentia est pa 
-      <lb ed="#P" n="38"/>ter, vel ergo est pater nullius, vel alicuius, non 
-      <lb ed="#P" n="39"/>est dicendum quod nullius, ergo alicuius,  
-      <lb ed="#P" n="40"/>non potest esse alicuius nisi filij, ergo est
-      pa<lb ed="#P" n="41" break="no"/>ter filij, tota uis istius rationis stat in minore 
-      <lb ed="#P" n="42"/>propositone, &amp; ideo ad eam est dicendum. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2063">
-               <lb ed="#P" n="43"/>Quidam ergo eam simpliciter negant,
-      di<lb ed="#P" n="44" break="no"/>centes quod nomina quae imponuntur a po 
-      <lb ed="#P" n="45"/>tentia actiua, vel passiua, sicut pater, &amp; filius 
-      <lb ed="#P" n="46"/>&amp; similia semper significant per modum
-      adia<lb ed="#P" n="47" break="no"/>centis, eo quod important habitudinem ad 
-      <lb ed="#P" n="48"/>terminum quem respicit illa potentia; &amp; ion 
-      <lb ed="#P" n="49"/>quando talis habitudo omnino exprimitur,  
-      <lb ed="#P" n="50"/>sicut modo in proposito, cum dicitur
-      essen<lb ed="#P" n="51" break="no"/>tia est pater filij, omnino significat per
-      mo<lb ed="#P" n="52" break="no"/>dum adiacentis, &amp; est sensus, quod illa
-      pro<lb ed="#P" n="53" break="no"/>prietas, scilicet paternitas adiaceat, &amp; insit 
-      <lb ed="#P" n="54"/>ipsi essentiae, &amp; per consequens quod
-      essen<lb ed="#P" n="55" break="no"/>tia referatur realiter ad silium, &amp;
-      distingua<lb ed="#P" n="56" break="no"/>tur ab eo, quod vtique est falsum; popoeo quod
-      sim<lb ed="#P" n="57" break="no"/>pliciter negant praefatam propositionem. 
-      <!--237.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 212 b -->
-               <lb ed="#P" n="58"/>Sed si ista responsio esset bona, tunc etm vi 
-      <lb ed="#P" n="59"/>detur necessarium esse negare istam aliam pro 
-      <lb ed="#P" n="60"/>positionem, scilicet essentia est pater, nam cum 
-      <lb ed="#P" n="61"/>pater semper importet habitudinem ad filium,  
-      <lb ed="#P" n="62"/>ad istam propositionem, essentia est pater,
-      vi<lb ed="#P" n="63" break="no"/>detur necessario sequi, essentia est pater filij,  
-      <lb ed="#P" n="64"/>cum ergo ipsi concedant primam, videtur ne 
-      <lb ed="#P" n="65"/>cessario quod debeant concedere secundam 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2122">
-               <lb ed="#P" n="66"/>Et ideo alij ex ratione ista moti
-      simplici<lb ed="#P" n="67" break="no"/>ter concedunt praefatam propositionem,
-      si<lb ed="#P" n="68" break="no"/>cut patet de Praeposituo, qui probat eam es 
-      <lb ed="#P" n="69"/>se simpliciter veram, per conuersionem sim 
-      <lb ed="#P" n="70"/>plicem, semper enim in tali conuersione si 
-      <lb ed="#P" n="71"/>conuertens est vera, &amp; conuersa est vera, 
-      <lb ed="#P" n="72"/>nunc autem ista est vera, pater filij est essen 
-      <lb ed="#P" n="73"/>tia, &amp; sua conuersa erit vera, scilicet essentia 
-      <lb ed="#P" n="74"/>est Pater Filij. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2144">
-               <lb ed="#P" n="75"/>Videtur tamen quod etiam istud dictum 
-      <lb ed="#P" n="76"/>deficiat, Nam si illa maior proposito simpli 
-      <lb ed="#P" n="77"/>citer consideretur, non possumus effugere, 
-      <lb ed="#P" n="78"/>quin essentia generet, &amp; maxime concessa 
-      <lb ed="#P" n="79"/>maiori, sicut videtur concedenda. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2157">
-               <lb ed="#P" n="80"/>Et ideo melius videtur dicendum, quod 
-      <lb ed="#P" n="81"/>praefata proposito vno modo est
-      concedan<lb ed="#P" n="82" break="no"/>da, &amp; alio modo est neganda, secundum duos 
-      <lb ed="#P" n="83"/>sensus, quos potest habere: Nam cum dico 
-      <lb ed="#P" n="84"/>essentia est pater, ly pater, potest intelligi
-      pro<lb ed="#P" n="85" break="no"/>dicari subiunctiue, &amp; adiectiue: si
-      praediea<lb ed="#P" n="86" break="no"/>tur substantiue, tunc est sensus quod
-      essen<lb ed="#P" n="87" break="no"/>tia est illa persona, quae habet istam proprie 
-      <lb ed="#P" n="88"/>tatem, per quam refertur ad filium, &amp; distin 
-      <lb ed="#P" n="89"/>guitur ab eo; &amp; isto modo proposito debet 
-      <lb ed="#P" n="90"/>eoncedi, quia nec ad eam sequitur, quod, es 
-      <lb ed="#P" n="91"/>sentia generet, scilicet quod sit illa persona, 
-      <lb ed="#P" n="92"/>quae generatm Alio modo potest. praedicari 
-      <lb ed="#P" n="93"/>adiectiue, &amp; tunc est sensus, quod essentia 
-      <lb ed="#P" n="94"/>habeat paternitatem per modum adiacentis,  
-      <lb ed="#P" n="95"/>per quam refertur ad filium, secundum quen 
-      <lb ed="#P" n="96"/>modum debet negari praefata proposito, sci 
-      <lb ed="#P" n="97"/>licet quod essentia sit pater filij, quia
-      secun<lb ed="#P" n="98" break="no"/>dum istum sensum, ad eam immediate
-      se<lb ed="#P" n="99" break="no"/>queretur quod essentia generaret, sic ergo 
-      <lb ed="#P" n="100"/>patet quid sit dicendum de tota quaestione. 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2206">
-               <lb ed="#P" n="101"/>AD ARGV MENTA 
-      <lb ed="#P" n="102"/>principalia. 
-      <lb ed="#P" n="103"/>AD primum dico, actum attributum 
-      <lb ed="#P" n="104"/>supposito posse attribui formae, vno 
-      <lb ed="#P" n="105"/>modo est verum, &amp; alio modo esse falsum: 
-      <lb ed="#P" n="106"/>Nam si intelligatur quod possit attribui for 
-      <lb ed="#P" n="107"/>mae tanquam principio partiali, &amp;
-      principa<lb ed="#P" n="108" break="no"/>li inter principia partialia, sic est verum: 
-      <lb ed="#P" n="109"/>Nam quamuis ex parte supposit agentis sint 
-      <lb ed="#P" n="110"/>requisita plura, vt patuit in primo articulo;  
-      <lb ed="#P" n="111"/>forma tamen substantialis semper habet
-      ra<lb ed="#P" n="112" break="no"/>tionem principalis principij inter illa. Vnde 
-      <lb ed="#P" n="113"/>isto modo bene concedo, quod in illis
-      indfe<lb ed="#P" n="114" break="no"/>rioribus forma est agens, &amp; hoc videtur etiam 
-      <!--238.xml-->
-      <pb ed="#P" n="213"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>de intentione Com. secundo de
-      generatio<lb ed="#P" n="2" break="no"/>ne, vbi dicit quod non resistit Platoni dicen 
-      <lb ed="#P" n="3"/>ti, quod forma est causa agens simpliciter; 
-      <lb ed="#P" n="4"/>distat autem a Platone in modo essendi
-      for<lb ed="#P" n="5" break="no"/>marum, &amp; in modo actionis earum, tamen di 
-      <lb ed="#P" n="6"/>cit Com, constat autem quod Plato pone 
-      <lb ed="#P" n="7"/>bat formas natutales abstractas a materia
-      se<lb ed="#P" n="8" break="no"/>cundum esse, &amp; per consequens secundum 
-      <lb ed="#P" n="9"/>agere; Aristoteles autem sicut non ponit cau 
-      <lb ed="#P" n="10"/>sas abstractas secundum esse; ita etiam nec 
-      <lb ed="#P" n="11"/>secundum agere, secundum hoc ergo, si
-      in<lb ed="#P" n="12" break="no"/>telligatur quod actus suppositi attribuatur 
-      <lb ed="#P" n="13"/>formae tanquam principio agenti totali, sic 
-      <lb ed="#P" n="14"/>nego eam: Nam sicut forma non est per se 
-      <lb ed="#P" n="15"/>plam sufficiens ad esse, sine alio principio.  
-      <lb ed="#P" n="16"/>ita etiam nec ad agere, &amp; ideo omnis actio 
-      <lb ed="#P" n="17"/>attribuitur supposito tanquam principio per 
-      <lb ed="#P" n="18"/>fecto, &amp; totali; quia continet omnia, quae re 
-      <lb ed="#P" n="19"/>quisita sunt tam ad esse, quam ad agere, for 
-      <lb ed="#P" n="20"/>mae autem vt est pars ipsius suppositi, &amp; ideo est 
-      <lb ed="#P" n="21"/>quasi per accidens nec tamen ex hoc potest 
-      <lb ed="#P" n="22"/>inferri, quod actus generandi attribuatur es 
-      <lb ed="#P" n="23"/>sentiae diuinae per accidens, nam ideo actio 
-      <lb ed="#P" n="24"/>attribuitur formae, quia non inuenitur in ea 
-      <lb ed="#P" n="25"/>repugnantia ad talem actionem
-      principian<lb ed="#P" n="26" break="no"/>dum: In diuina autem essentia inuenitur re 
-      <lb ed="#P" n="27"/>pugnantia. ad principiandum actum generam 
-      <lb ed="#P" n="28"/>di, eo modo, quo superius fuit visum 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2306">
-               <lb ed="#P" n="29"/>Cum vero vlterius probatur, quod actio 
-      <lb ed="#P" n="30"/>suppositi primo debetur formae, quia
-      suppo<lb ed="#P" n="31" break="no"/>situm est in actu per formam, dico, quod quam 
-      <lb ed="#P" n="32"/>uis suppofitum sit in actu per formam,
-      quam<lb ed="#P" n="33" break="no"/>tum ad esse intelligibile, &amp; definibile, secun 
-      <lb ed="#P" n="34"/>dum quem modum sibi non debetur actio: 
-      <lb ed="#P" n="35"/>quantum tamen ad hoc esse singulare
-      subsi<lb ed="#P" n="36" break="no"/>stens, secundum quem modum sibi debetur 
-      <lb ed="#P" n="37"/>actio, est e conuerso; quia forma est in actu 
-      <lb ed="#P" n="38"/>per suppositum 
-    </p>
-            <p xml:id="gsX5tY-d1e300-d1e2330">
-               <lb ed="#P" n="39"/>Ad secundum dicitur, quod sufficit sola  
-      <lb ed="#P" n="40"/>distinctio rationis ad hoc, vt aliquid
-      compe<lb ed="#P" n="41" break="no"/>tat vni, quod repugnet alteri. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="205"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e300"> <!-- l1d5q1 -->
+        <head xml:id="gsX5tY-d1e300-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e300-Hd1e112" type="question-title">Utrum divina essentia sit generans</head>
+        <p xml:id="gsX5tY-d1e300-d1e115">
+          <lb ed="#P" n="35"/>DISTINCTIONIS QVINTAE. 
+          <lb ed="#P" n="36"/>QVAESTIO PRIMA 
+          <lb ed="#P" n="37"/>Vtrum diuina essentia sit generans 
+          <lb ed="#P" n="38"/>ARGVITVR AD PARTEM 
+          <lb ed="#P" n="39"/>affirmantem.
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e128">
+          <lb ed="#P" n="40"/>Mnis actus, qui attribuitur
+          supposi<lb ed="#P" n="41" break="no"/>to, potest attribui formae, sed genera 
+          <lb ed="#P" n="42"/>re attribuitur supposito, patris; ergo potels 
+          <lb ed="#P" n="43"/>attribui essentiae, quae se habet ad modum for 
+          <lb ed="#P" n="44"/>mae; Minor est nota, Probo maiorem, nam
+          a<lb ed="#P" n="45" break="no"/>ctus non attribuitur supposito, nisi per
+          for<lb ed="#P" n="46" break="no"/>mam, quia non agit, nisi secundum quod est 
+          <lb ed="#P" n="47"/>in actu, est autem in actu per formam: ergo 
+          <!--230.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 205 b -->
+          <lb ed="#P" n="48"/>agit per eam, omnis ergo actus prius
+          attribui<lb ed="#P" n="49" break="no"/>tur formae, quam supposito; 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e160">
+          <lb ed="#P" n="50"/>2 Quando aliqua duo sunt idem, quicquid 
+          <lb ed="#P" n="51"/>attribuitur vni, necessario etiam attribuitur 
+          <lb ed="#P" n="52"/>alteri; sed diuina essentia, &amp; pater sunt idem; 
+          <lb ed="#P" n="53"/>ergo actus generationis qui attribuitur
+          pa<lb ed="#P" n="54" break="no"/>tri, necessario etiam attribuitur essentiae; Ma 
+          <lb ed="#P" n="55"/>ior videtur nota; Minor probatur, quia si pa 
+          <lb ed="#P" n="56"/>ter, &amp; essentia non essent idem, facerent in 
+          <lb ed="#P" n="57"/>Deo compositonem. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e180">
+          <lb ed="#P" n="58"/>ARGVITVR AD PARTEM 
+          <lb ed="#P" n="59"/>negantem. 
+          <lb ed="#P" n="60"/>N Contrarium est determinatio
+          Magi<lb ed="#P" n="61" break="no"/>stri per Sacrum Concilium approbata 
+          <lb ed="#P" n="62"/>in illa decretali Damnamus, &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e193">
+          <lb ed="#P" n="63"/>RESPONDEO: in ista quaestione tria 
+          <lb ed="#P" n="64"/>sunt videnda 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e200">
+          <lb ed="#P" n="65"/>1 An actus qui debetur supposito, possit 
+          <lb ed="#P" n="66"/>attribui formae, per quam est in actu, &amp; an 
+          <lb ed="#P" n="67"/>primo formae, quam supposito in creaturis,  
+          <lb ed="#P" n="68"/>sit attribuendus 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e211">
+          <lb ed="#P" n="69"/>2 An duobus existentibus idem inter se, 
+          <lb ed="#P" n="70"/>possit quidam actus ita vni attribui, vt non 
+          <lb ed="#P" n="71"/>attribuatur alteri. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e220">
+          <lb ed="#P" n="72"/>3 An actus generationis, diuinae naturae 
+          <lb ed="#P" n="73"/>ita sit attribuendus, vt possit dici generans. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e228">
+          <lb ed="#P" n="74"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="75"/>Vtrum actus, qui debetur supposito in
+          crea<lb ed="#P" n="76" break="no"/>turis, possit attribui formae, per quam 
+          <lb ed="#P" n="77"/>suppositum est in actu 
+          <lb ed="#P" n="78"/>Ro huius articuli dilucidatione est
+          no<lb ed="#P" n="79" break="no"/>tandum, quod non loquor in praesenti 
+          <lb ed="#P" n="80"/>de supposito secundum esse abstractum, &amp; 
+          <lb ed="#P" n="81"/>vniue sale, quod potest habere, quia hoc mo 
+          <lb ed="#P" n="82"/>do non debetur ei aliquis actus, nec aliqua 
+          <lb ed="#P" n="83"/>operatio; Nam cum omnis actus, &amp; operatio 
+          <lb ed="#P" n="84"/>sit singularium per Aristo. In prologo Meta 
+          <lb ed="#P" n="85"/>Vniuersalia sicut abstrahuntur ab omni
+          mo<lb ed="#P" n="86" break="no"/>tu, ita etiam ab omni operatione seiunguntur; 
+          <lb ed="#P" n="87"/>ed loquor in praesenti de supposito signato, 
+          <lb ed="#P" n="88"/>&amp; particulari, &amp; secudum hoc dico, quod non 
+          <lb ed="#P" n="89"/>dum actus generationis, per quem
+          introdum<lb ed="#P" n="90" break="no"/>cta est quaestio, sed omnis etiam alius actus 
+          <lb ed="#P" n="91"/>huic supposito debetur per se: formae autem 
+          <lb ed="#P" n="92"/>no potest attribui, nisi forte per accidens, 
+          <lb ed="#P" n="93"/>quod patet ex tribus conditionibus, quas ha 
+          <lb ed="#P" n="94"/>bet suppofitum hoc modo acceptum, quae for 
+          <lb ed="#P" n="95"/>mae haud conuenire possunt 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e278">
+          <lb ed="#P" n="96"/>Prima quidem est, quod suppositum per Tres
+          con<lb ed="#P" n="97" break="no"/>se generatur, forma autem non uisi per acci 
+          <lb ed="#P" n="98"/>dens per Arist. 5. Metaph¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e287">
+          <lb ed="#P" n="99"/>Secunda, quia suppositum est ens per 
+          <!--231.xml-->
+          <pb ed="#P" n="206"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>se, in actu, forma vero non est in actu, nisi 
+          <lb ed="#P" n="2"/>per ipsum: haec conditio patet, quia si forma 
+          <lb ed="#P" n="3"/>non generatur per se, sed per accidens ad ge 
+          <lb ed="#P" n="4"/>nerationem suppositi; ergo nec per se existit 
+          <lb ed="#P" n="5"/>in actu, sed per suppositum: Nam generatio 
+          <lb ed="#P" n="6"/>est via in esse; ideo sicut aliquid se habet ad 
+          <lb ed="#P" n="7"/>generari, ita se habet ad esse 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e313">
+          <lb ed="#P" n="8"/>Tertia conditio est, quod suppositum
+          in<lb ed="#P" n="9" break="no"/>cludit, vel saltem connotat omnia necessario 
+          <lb ed="#P" n="10"/>requisica ad actum generationis, &amp; ad
+          quen<lb ed="#P" n="11" break="no"/>cunque alium actum; quae quidem non
+          con<lb ed="#P" n="12" break="no"/>notat forma: sicut his tribus rationibus 
+          <lb ed="#P" n="13"/>probabo. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e329">
+          <lb ed="#P" n="14"/>1 Sicut se habet aliquid ad generari
+          pas<lb ed="#P" n="15" break="no"/>siue, ita se habet ad generare actiue, sed il 
+          <lb ed="#P" n="16"/>lud, quod generatur passiue, &amp; per se in istis 
+          <lb ed="#P" n="17"/>naturalibus, est aliquod suppositum, forma 
+          <lb ed="#P" n="18"/>vero solum per accidens; ergo, &amp; illud, quod 
+          <lb ed="#P" n="19"/>generat actiue, erit ipsum suppositum, &amp;  
+          <lb ed="#P" n="20"/>non forma, nisi per accidens: Maior est
+          no<lb ed="#P" n="21" break="no"/>ta, quia quae sunt eiusdem rationis, eodem mo 
+          <lb ed="#P" n="22"/>do generantur: Sicut ergo aliud generatur 
+          <lb ed="#P" n="23"/>ab alio supposito, ita alterum debet
+          genera<lb ed="#P" n="24" break="no"/>re suppositum eiusdem rationis; Minor
+          pa<lb ed="#P" n="25" break="no"/>tet per Arist. 5. metaph vbi expresse vult, 
+          <lb ed="#P" n="26"/>quod forma non generetur per se, &amp; Com 
+          <lb ed="#P" n="27"/>3. Metaph com. 25. dicit, illud, quod
+          gene<lb ed="#P" n="28" break="no"/>ratur, est hoc indiuiduum demonstratum 
+          <lb ed="#P" n="29"/>in actu 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e366">
+          <lb ed="#P" n="30"/>2 Sicut se habet aliquid ad esse in actu, 
+          <lb ed="#P" n="31"/>ita &amp; ad generare, sed forma non est in actu, 
+          <lb ed="#P" n="32"/>nisi per ipsum suppositum; ergo &amp; ipsum 
+          <lb ed="#P" n="33"/>tantum habebit per se agere, &amp; generare, for 
+          <lb ed="#P" n="34"/>ma autem per accidens, Maior patet ex 5. 
+          <lb ed="#P" n="35"/>physicorum, vbi vult Arist. quod mouens, 
+          <lb ed="#P" n="36"/>&amp; agens sit aliqua species, idest aliquid in 
+          <lb ed="#P" n="37"/>actu; Minor ex superius dictis apparet; 
+          <lb ed="#P" n="38"/>quia cum generatio sit via in esse actu, si 
+          <lb ed="#P" n="39"/>cut aliquid se habet ad generare, ita se
+          ha<lb ed="#P" n="40" break="no"/>bet ad esse actu. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e393">
+          <lb ed="#P" n="41"/>3 Quod includit, vel connotat omnia, quam 
+          <lb ed="#P" n="42"/>sunt necessario requisita ad actionem, &amp; ge 
+          <lb ed="#P" n="43"/>nerationem, illud tantum per se agere, &amp; g 
+          <lb ed="#P" n="44"/>nerare potest, sed hoc est suppositum, &amp; non 
+          <lb ed="#P" n="45"/>forma: ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e406">
+          <lb ed="#P" n="46"/>Maior est nota; Minorem probo; nam ad 
+          <lb ed="#P" n="47"/>actionem, &amp; generationem concurrunt
+          ali<lb ed="#P" n="48" break="no"/>qua, quae sunt extra rationem formae substam 
+          <lb ed="#P" n="49"/>tialis, non tamen extra rationem suppositi si 
+          <lb ed="#P" n="50"/>gnati, puta esse quantum, esse quale, &amp; tan 
+          <lb ed="#P" n="51"/>dem debitus ordo inter actiuum, &amp; passiuum, 
+          <lb ed="#P" n="52"/>quae tria sunt extra rationem formae, quia ni 
+          <lb ed="#P" n="53"/>hil talium ponitur in definitione ipsius, non  
+          <lb ed="#P" n="54"/>tamen sunt extra rationem suppositi signati. 
+          <lb ed="#P" n="55"/>quia si definiretur, haec caderent in
+          defini<lb ed="#P" n="56" break="no"/>tione eius, non quod talia sint in eius quidi 
+          <lb ed="#P" n="57"/>ditate inclusa, sed magis connotata, propter 
+          <!--231.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 206 b -->
+          <lb ed="#P" n="58"/>quod non sequitur, quod suppositum sit ens 
+          <lb ed="#P" n="59"/>per accidens; nam videmus, quod etiam sub 
+          <lb ed="#P" n="60"/>stantia cadit in definitione accidentis; &amp;
+          ta<lb ed="#P" n="61" break="no"/>men non ingreditur eius quidditatem. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e450">
+          <lb ed="#P" n="62"/>Concludo ergo, quod actus generationis 
+          <lb ed="#P" n="63"/>in his infe ioribus supposito est per se
+          attri<lb ed="#P" n="64" break="no"/>bnendus, formae autem non nisi per accidens,  
+          <lb ed="#P" n="65"/>&amp; quod nulla forma materialis per se solam  
+          <lb ed="#P" n="66"/>sine aliquo addito possit esse principium
+          ali<lb ed="#P" n="67" break="no"/>cuius actus, sed omnis actus debet attribui 
+          <lb ed="#P" n="68"/>supposito, quod est principium totale, omnia 
+          <lb ed="#P" n="69"/>includens necessario requisita ad actionem;, 
+          <lb ed="#P" n="70"/>&amp; sic est principium in ratione causae efficien 
+          <lb ed="#P" n="71"/>tis omnium operationum. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e474">
+          <lb ed="#P" n="72"/>Hinc motus Arist. in primo de anima di 
+          <lb ed="#P" n="73"/>cebat, quod nullus actus, nec etiam
+          intelli<lb ed="#P" n="74" break="no"/>gendi, de quo magis videbatur, potest per 
+          <lb ed="#P" n="75"/>se attribui animae intellectiuae quia ad huius 
+          <lb ed="#P" n="76"/>modi actum non concurrit ipsa tantum, sed 
+          <lb ed="#P" n="77"/>etiam aliqua virtus corporalis, puta
+          phan<lb ed="#P" n="78" break="no"/>tasia; ideo dicebat intelligere vel est
+          phan<lb ed="#P" n="79" break="no"/>tasia, vel non sine phantasia, &amp; inferius in 
+          <lb ed="#P" n="80"/>eodem primo de anima dicebat, melius est di 
+          <lb ed="#P" n="81"/>cere, animam non misereri, nec addiscere, 
+          <lb ed="#P" n="82"/>aut intelligere, sed hominem per animam 
+          <lb ed="#P" n="83"/>per hominem vero intelligebat suppositum 
+          <lb ed="#P" n="84"/>includens animam, &amp; omnia alia quae con- 
+          <lb ed="#P" n="85"/>currunt necessario ad actus; sic ergo patet 
+          <lb ed="#P" n="86"/>quid dicendum sit ad istum articulum 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e509">
+          <lb ed="#P" n="87"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="88"/>An duobus idem inter se existentibus possit 
+          <lb ed="#P" n="89"/>aliquis actus vni attribui, &amp; non alteri. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e518">
+          <lb ed="#P" n="90"/>AD hoc dicunt quidam, quod aliquid 
+          <lb ed="#P" n="91"/>attribui vni illorum duorum, quae po 
+          <lb ed="#P" n="92"/>nuntur esse idem, potest intelligi
+          duplici<lb ed="#P" n="93" break="no"/>ter; vno modo quod istud attributum
+          com<lb ed="#P" n="94" break="no"/>petat sibi, secundum quod est idem cum
+          alte<lb ed="#P" n="95" break="no"/>ro, alio modo secundum quod est diuersum 
+          <lb ed="#P" n="96"/>ab eo: si ista attributio fiat primo modo; sic 
+          <lb ed="#P" n="97"/>dicunt, quod quicquid attribuitur vni,
+          ne<lb ed="#P" n="98" break="no"/>cessario attribuitur etiam alteri; sed si fiat se 
+          <lb ed="#P" n="99"/>cundo modo, scilicet prout sunt distincta
+          in<lb ed="#P" n="100" break="no"/>ter se, sic potest aliquid vni illorum attribui,  
+          <lb ed="#P" n="101"/>quod non attribuatur alteri; &amp; applicando 
+          <lb ed="#P" n="102"/>ad propositum, dicunt, quod actus essentia 
+          <lb ed="#P" n="103"/>les in diuinis, puta creare, gubernare &amp;c. 
+          <lb ed="#P" n="104"/>quia comperunt personae secundum quod est 
+          <lb ed="#P" n="105"/>idem cum essentia; idcirco vni, &amp; alteri
+          ne<lb ed="#P" n="106" break="no"/>cessario attribuuntur, actus vero notiales,
+          pu<lb ed="#P" n="107" break="no"/>ta generare, &amp; spitare, quia competunt
+          per<lb ed="#P" n="108" break="no"/>sonis, secundum quod distinguuntur ab esse 
+          <lb ed="#P" n="109"/>tia; ideo sic attribuuntur personis, quod  
+          <!--232.xml-->
+          <pb ed="#P" n="207"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>non possunt attribui essentiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e574">
+          <lb ed="#P" n="2"/>Sed iste modus dicendi a quibusdam
+          im<lb ed="#P" n="3" break="no"/>probatur: nam videmus (dicunt) quod actus 
+          <lb ed="#P" n="4"/>aedificandi competit aedificatori, secundum 
+          <lb ed="#P" n="5"/>quod est distinctus a musico, &amp; tamen si ars 
+          <lb ed="#P" n="6"/>aedificandi, &amp; musica coniungantur in eodem 
+          <lb ed="#P" n="7"/>supposito, non est dubium, quod actus
+          aedi<lb ed="#P" n="8" break="no"/>ficandi potest attribui etiam musico, saltem  
+          <lb ed="#P" n="9"/>per accidens 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e594">
+          <lb ed="#P" n="10"/>Propterea frater Aegidius Doct. noster,  
+          <lb ed="#P" n="11"/>qui improbat praemissum modum, aliter
+          re<lb ed="#P" n="12" break="no"/>pondet dicens, quod si aliqua duo ita se
+          ha<lb ed="#P" n="13" break="no"/>beant, quod vnum eorum possit praedicari 
+          <lb ed="#P" n="14"/>de altero per essentiam, &amp; per identitatem; 
+          <lb ed="#P" n="15"/>ita tamen, quod sit praedicatio propria,
+          sem<lb ed="#P" n="16" break="no"/>per illa erunt distincta secundum rationem 
+          <lb ed="#P" n="17"/>&amp; ideo omnia praedicata, quae dicunt quid 
+          <lb ed="#P" n="18"/>rationis, &amp; competunt vni eorum, prout
+          di<lb ed="#P" n="19" break="no"/>stinguitur ab alio secundum rationem, ita con 
+          <lb ed="#P" n="20"/>perunt vni, quod non possunt attribui alti 
+          <lb ed="#P" n="21"/>ri, cuius ratio est (secundum eum) quia licet 
+          <lb ed="#P" n="22"/>sit praedicatio essentialis, &amp; identica, semper 
+          <lb ed="#P" n="23"/>tamen remanet inter illa distinctio secundum 
+          <lb ed="#P" n="24"/>rationem, quae est praecisa ratio attributionis 
+          <lb ed="#P" n="25"/>talium predicatorum : Videmus namque, quod 
+          <lb ed="#P" n="26"/>animal praedicatur de homine identice, &amp; es 
+          <lb ed="#P" n="27"/>sentialiter, &amp; quia ista identitas non tollit di 
+          <lb ed="#P" n="28"/>stinctionem, quae est inter ea secundum
+          ra<lb ed="#P" n="29" break="no"/>tionem: idcirco illa praedicata, quae dicunt 
+          <lb ed="#P" n="30"/>quid rationis, competunt vni, &amp; non alteri. 
+          <lb ed="#P" n="31"/>Vnde quia esse speciem est quid rationis, &amp;  
+          <lb ed="#P" n="32"/>competit homini, vt est distinctus ab
+          anima<lb ed="#P" n="33" break="no"/>li, nullo modo potest attribui animali;
+          simi<lb ed="#P" n="34" break="no"/>liter, &amp; genus competit animali, vt est distin 
+          <lb ed="#P" n="35"/>ctum ab homine, nullo modo potest atttibui 
+          <lb ed="#P" n="36"/>homini, quia de homine dicitur species, &amp;  
+          <lb ed="#P" n="37"/>de animali praedicatur genus 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e657">
+          <lb ed="#P" n="38"/>Sed contra haec dicta occurrit vna dubita 
+          <lb ed="#P" n="39"/>tio; nam (sicut superius dicebatur) actus edi 
+          <lb ed="#P" n="40"/>ficandi potest non solum aedisicatori, sed etiam 
+          <lb ed="#P" n="41"/>musico conuenire, saltem per accidens; ergo 
+          <lb ed="#P" n="42"/>a simili intentio generis, licet animali
+          com<lb ed="#P" n="43" break="no"/>petat per se, prout distinguitur ab homine, 
+          <lb ed="#P" n="44"/>poterit tamen homini etiam conuenire per 
+          <lb ed="#P" n="45"/>accidens, prout idem est cum animali. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e677">
+          <lb ed="#P" n="46"/>Respondetur, quod similitudo non
+          va<lb ed="#P" n="47" break="no"/>let, quia actus aedificandi non solum
+          aedifi<lb ed="#P" n="48" break="no"/>catori attribuitur, quatenus est distinctus a 
+          <lb ed="#P" n="49"/>musico per artem aedisicandi, sed etiam
+          ra<lb ed="#P" n="50" break="no"/>tione, qua conuenit cum musico in vnitate 
+          <lb ed="#P" n="51"/>supposit agentis, &amp; ideo quamuis non
+          pos<lb ed="#P" n="52" break="no"/>sit attribui musicoper se, sicut aedificatori, 
+          <lb ed="#P" n="53"/>propter diuersitatem principij formalis
+          hu<lb ed="#P" n="54" break="no"/>ius actionis, poterit tamen illi attribui per 
+          <lb ed="#P" n="55"/>accidens propter vnitatem supposit
+          agen<lb ed="#P" n="56" break="no"/>tis: Intentio vero generis ita attribuitur ani 
+          <lb ed="#P" n="57"/>mali secundum rationem, qua distinguitur 
+          <!--232.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 207 b -->
+          <lb ed="#P" n="58"/>ab homine, quod nullo modo secundum idem 
+          <lb ed="#P" n="59"/>titatem suppositi potest illi conuenire; Pro 
+          <lb ed="#P" n="60"/>pter quod nullo modo potest homini attri 
+          <lb ed="#P" n="61"/>bui, quia nec per se; cum distinctio sit causa 
+          <lb ed="#P" n="62"/>quare animali competat, &amp; non homini; nec 
+          <lb ed="#P" n="63"/>etiam per accidens, quia identitas talis non  
+          <lb ed="#P" n="64"/>reperitur inter hominem, &amp; animal, quoc 
+          <lb ed="#P" n="65"/>intentio generis praedicetur de homine, vel 
+          <lb ed="#P" n="66"/>intentio speciei praedicetur de animali.
+          vi<lb ed="#P" n="67" break="no"/>detur ergo irrationabilis, prima aliorum
+          ex<lb ed="#P" n="68" break="no"/>plicatio 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e736">
+          <lb ed="#P" n="69"/>Modus vero dicendi Doctoris nostri
+          mi<lb ed="#P" n="70" break="no"/>hi videtur rationabilis; ideo vt responsio ac 
+          <lb ed="#P" n="71"/>liunc articulum fiat magis nota, &amp; vniuersa 
+          <lb ed="#P" n="72"/>liter intelligatur de omni actu, sicut quaerit 
+          <lb ed="#P" n="73"/>articulus; Respondeo quaesito clarius, cum 
+          <lb ed="#P" n="74"/>ergo quaeritur, an duobus idem inter se
+          exi<lb ed="#P" n="75" break="no"/>stentibus possit aliquid attribui vni, &amp; non 
+          <lb ed="#P" n="76"/>alteri; dico, quod si haec duo sint idem secun 
+          <lb ed="#P" n="77"/>dum rem, &amp; secundum rationem, quod
+          at<lb ed="#P" n="78" break="no"/>tribuitur vni debet &amp; alteri attribui, &amp; hoc 
+          <lb ed="#P" n="79"/>est de se notum, si vero sint idem secundum 
+          <lb ed="#P" n="80"/>rem, &amp; distinguantur modaliter, vel
+          forma<lb ed="#P" n="81" break="no"/>liter; si tales modi, &amp; formalitates concedan 
+          <lb ed="#P" n="82"/>tur, non est, dubium, quod aliquid potest 
+          <lb ed="#P" n="83"/>vni competere, &amp; nullo modo alteri.
+          Vide<lb ed="#P" n="84" break="no"/>mus enim, quod quamuis materia extensa, 
+          <lb ed="#P" n="85"/>&amp; non extensa sit vna res, quia tamen vt
+          ex<lb ed="#P" n="86" break="no"/>tensa habet aliquem modum realem, quem  
+          <lb ed="#P" n="87"/>non habet vt non extensa, competit sibi
+          su<lb ed="#P" n="88" break="no"/>scipere actionem agentis naturalis, quod non 
+          <lb ed="#P" n="89"/>competit materiae non extensae, quam non at 
+          <lb ed="#P" n="90"/>tingit agens naturale in agendo. Similiter 
+          <lb ed="#P" n="91"/>verum, &amp; bonum licet sint idem, quia tamen 
+          <lb ed="#P" n="92"/>differunt formaliter, vt quidam ponunt,
+          bo<lb ed="#P" n="93" break="no"/>no competit mouere voluntatem sub
+          ratio<lb ed="#P" n="94" break="no"/>ne boni, quod non competit illi sub
+          ratio<lb ed="#P" n="95" break="no"/>ne veri. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e797">
+          <lb ed="#P" n="96"/>Quando vero sunt aliqua duo idem secun 
+          <lb ed="#P" n="97"/>dum rem, quae distinguantur tantum secun 
+          <lb ed="#P" n="98"/>dum rationem, tunc maior est difficultas; 
+          <lb ed="#P" n="99"/>sed iuxta hac viam AEgidij dico primo, quod 
+          <lb ed="#P" n="100"/>duobus idem existentibus realiter, distinctis 
+          <lb ed="#P" n="101"/>tamen sola ratione, tunc potest aliquid
+          rea<lb ed="#P" n="102" break="no"/>le competere vni, &amp; non alteri; secundo
+          di<lb ed="#P" n="103" break="no"/>co, quod aliquid commune vtrisque potest de 
+          <lb ed="#P" n="104"/>nominare vnum illorum formaliter non
+          de<lb ed="#P" n="105" break="no"/>nominando alterum.
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e822">
+          <lb ed="#P" n="106"/>Primum dictum declaratur sic: Videmus 
+          <lb ed="#P" n="107"/>namque, quod vna, &amp; eadem forma est fini 
+          <lb ed="#P" n="108"/>motus praecedentis, &amp; principim subsequer 
+          <lb ed="#P" n="109"/>tis; est tamen ibi distinctio secundum rationem 
+          <lb ed="#P" n="110"/>respectu cuius distinctionis potest aliquid re 
+          <lb ed="#P" n="111"/>aliter conuenire isti formae, secundum quod 
+          <lb ed="#P" n="112"/>habet rationem finis, qui quidem non potess 
+          <lb ed="#P" n="113"/>sibi attribui, prout habet rationem
+          principij<lb ed="#P" n="114" break="no"/>puta specificare motum competit ei realiter,  
+          <!--233.xml-->
+          <pb ed="#P" n="208"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>prout habet rationem finis, qui nullo
+          mo<lb ed="#P" n="2" break="no"/>do potest attribui sibi, secundum quod habet 
+          <lb ed="#P" n="3"/>rationem principij: similiter videmus, quod 
+          <lb ed="#P" n="4"/>vna, &amp; eadem anima humana est sensitiua, &amp;  
+          <lb ed="#P" n="5"/>intellectiua, nec etiam est ibi distinctio, nisi 
+          <lb ed="#P" n="6"/>secundum rationem: &amp; tamen quatenus sen 
+          <lb ed="#P" n="7"/>sitiua est, habet realem similitudinem cum ani 
+          <lb ed="#P" n="8"/>ma bruti, quatenus vero intellectiua est, ista 
+          <lb ed="#P" n="9"/>similitudine caret, competit ergo sensitiueho 
+          <lb ed="#P" n="10"/>minis aliquid reale, quod non competit
+          in<lb ed="#P" n="11" break="no"/>tellectiuae, non obstante, quod sint idem
+          se<lb ed="#P" n="12" break="no"/>cundum rem (vt communiter conceditur) &amp;  
+          <lb ed="#P" n="13"/>quod detur haec similitudo realis inter sensi 
+          <lb ed="#P" n="14"/>tiuam hominis, &amp; bruti patet, quia si non da 
+          <lb ed="#P" n="15"/>retur inter eas haec similitudo, non posset ha 
+          <lb ed="#P" n="16"/>bere communem conceptum cum anima bru 
+          <lb ed="#P" n="17"/>ti, quod est falsum, quia simili modo mouent 
+          <lb ed="#P" n="18"/>intellectum, quae autem simili modo mouent,  
+          <lb ed="#P" n="19"/>similitudinem habent inter se realem; Sed  
+          <lb ed="#P" n="20"/>quod ista similitudo non possit attribui
+          in<lb ed="#P" n="21" break="no"/>tellectiuae patet, quia tunc de anima
+          huma<lb ed="#P" n="22" break="no"/>na non posset haberi aliquis conceptus. pra 
+          <lb ed="#P" n="23"/>ter illum, quem habet communem cum
+          ani<lb ed="#P" n="24" break="no"/>ma bruti, quod est falsum : Concludo ergo, 
+          <lb ed="#P" n="25"/>quod aliquid reale competit sensitiuae homi 
+          <lb ed="#P" n="26"/>nis, quod non potest attribui suae
+          intellecti<lb ed="#P" n="27" break="no"/>uae, non obstante quod sint idem
+          secun<lb ed="#P" n="28" break="no"/>dum rem. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e911">
+          <lb ed="#P" n="29"/>Oecurrunt tamen contra ista dicta duo 
+          <lb ed="#P" n="30"/>uia. <!-- erroneous line coord ?? -->
+          <lb ed="#P" n="31"/>dubia, primum est quia si sensitiuae hominis 
+          <lb ed="#P" n="32"/>competit aliquid reale, quod non possit attri 
+          <lb ed="#P" n="33"/>bui suae intellectiuae videtur, quod
+          circum<lb ed="#P" n="34" break="no"/>scripto omni actu intellectus sit aliqua disti 
+          <lb ed="#P" n="35"/>ctio ex natura rei inter sensitiuam hominis, 
+          <lb ed="#P" n="36"/>&amp; intellectiuam, &amp; per consequens non erit 
+          <lb ed="#P" n="37"/>illa distinctio tantum secundum rationem, 
+          <lb ed="#P" n="38"/>vt supponebatur, &amp; vt communiter
+          con<lb ed="#P" n="39" break="no"/>ceditur, 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e940">
+          <lb ed="#P" n="40"/>Huic dubitationi respodetur, quod distin 
+          <lb ed="#P" n="41"/>ctio secundum rationem semper habet suam 
+          <lb ed="#P" n="42"/>originem, &amp; fundamentum in re ipsa intelle 
+          <lb ed="#P" n="43"/>cta: &amp; ideo dixi superius in 2. dist. quaest. de 
+          <lb ed="#P" n="44"/>attributis, quod omnis distinctio secundum 
+          <lb ed="#P" n="45"/>rationem oritur ex natura rei, altero duorum 
+          <lb ed="#P" n="46"/>modorum: puta vel quia res intellecta
+          neces<lb ed="#P" n="47" break="no"/>sitat intellectum ad distinguendum, vel quia 
+          <lb ed="#P" n="48"/>supposito nostro modo intelligendi; rei intel 
+          <lb ed="#P" n="49"/>lectae non repugnat ab intellectu nostro, sic 
+          <lb ed="#P" n="50"/>accepta distingui secundum hoc; ergo non 
+          <lb ed="#P" n="51"/>habeo pro inconuenienti, quod omnis distin 
+          <lb ed="#P" n="52"/>ctio secundum rationem praeexistat in re an 
+          <lb ed="#P" n="53"/>te omnem actum intellectus, non quidem
+          a<lb ed="#P" n="54" break="no"/>ctualiter, &amp; complete, sed potentialiter, &amp;  
+          <lb ed="#P" n="55"/>incomplete, quae per ipsum intellectum com 
+          <lb ed="#P" n="56"/>pletur, &amp; de potentia ad actum reducitur; 
+          <lb ed="#P" n="57"/>Hinc est quod haec distinctio, licet
+          praeexi<lb ed="#P" n="58" break="no"/>stat in re, non denominatur realis, quia de¬ 
+          <!--233.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 208 b -->
+          <lb ed="#P" n="59"/>nominatio non fit ab eo, quod est in
+          poten<lb ed="#P" n="60" break="no"/>tia, &amp; incompletum, sed ab esse actu, &amp; com 
+          <lb ed="#P" n="61"/>ileto: Cum igitur haec distinctio actualitatem, 
+          <lb ed="#P" n="62"/>&amp; complenientum recipiat per actum
+          intel<lb ed="#P" n="63" break="no"/>lectus, debet dici rationis. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1001">
+          <lb ed="#P" n="64"/>Quod vt melius intelligatur, notandum est 
+          <lb ed="#P" n="65"/>tunc aliquam distinctionem esse actualem, 
+          <lb ed="#P" n="66"/>&amp; completam, quando ad eam sequitur ne 
+          <lb ed="#P" n="67"/>cessario vera pluralitas, per quam illa, quae 
+          <lb ed="#P" n="68"/>sunt tali distinctione distincta, necessario fa 
+          <lb ed="#P" n="69"/>ciunt aliquam multitudinem, &amp; ad se
+          inui<lb ed="#P" n="70" break="no"/>cem ponunt in numerum; Distinctio vero 
+          <lb ed="#P" n="71"/>potentialis, &amp; incompleta illa dicitur, in qua 
+          <lb ed="#P" n="72"/>non est vera pluralitas, nisi secundum poten 
+          <lb ed="#P" n="73"/>tiam: Vnde, quae sunt tali distinctione distin 
+          <lb ed="#P" n="74"/>cta non ponunt in numerum, nec faciunt ali 
+          <lb ed="#P" n="75"/>quam multitudinem 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1030">
+          <lb ed="#P" n="76"/>Hoc modo dico, quod sensitiua hominis, 
+          <lb ed="#P" n="77"/>&amp; intellectiua eiusdem ante actum
+          intelle<lb ed="#P" n="78" break="no"/>ctus sunt distincta potentialiter, &amp; incomple 
+          <lb ed="#P" n="79"/>te, nec ponunt in numerum ad se inuicem, 
+          <lb ed="#P" n="80"/>cum sit vna simplex forma, &amp; si dicuntur di 
+          <lb ed="#P" n="81"/>stincta, hoc est ex natura rei, &amp; potentialiter 
+          <lb ed="#P" n="82"/>cum vero praefata distinctio per antellectum 
+          <lb ed="#P" n="83"/>huiusmodi formas tanquam plures
+          intelli<lb ed="#P" n="84" break="no"/>gentem completur, tunc incipit ibi esse
+          ali<lb ed="#P" n="85" break="no"/>qua pluralitas, &amp; multitudo, quia intellectus 
+          <lb ed="#P" n="86"/>accipit sensitiuam, &amp; intellectiuam, eas
+          in<lb ed="#P" n="87" break="no"/>ter se distinguendo, ac si vera, &amp; realiter
+          es<lb ed="#P" n="88" break="no"/>sent, plura 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1061">
+          <lb ed="#P" n="89"/>Nec tamen in tali distinctione est aliqua 
+          <lb ed="#P" n="90"/>fictio, vel mendacium, tum quia res ipsa sic 
+          <lb ed="#P" n="91"/>est distinguibilis; tum quia intellectus non di 
+          <lb ed="#P" n="92"/>stinguit sensitiuam hominis ab intellectiua 
+          <lb ed="#P" n="93"/>absolute eam accipiendo, quia isto modo
+          de<lb ed="#P" n="94" break="no"/>ciperetur, sed accipit sensitiuam, simul cum 
+          <lb ed="#P" n="95"/>anima bruti, cum qua habet similitudinem; 
+          <lb ed="#P" n="96"/>&amp; quia non potest eam simul accipere cum 
+          <lb ed="#P" n="97"/>anima bruri, in quantum intellectiua est;
+          id<lb ed="#P" n="98" break="no"/>circo cogitur distinguere, &amp; distincte
+          intelli<lb ed="#P" n="99" break="no"/>gere sensitiuam ab intellectiua, &amp; ideo bene 
+          <lb ed="#P" n="100"/>dicebatur superius in 2. distinct quod omnis 
+          <lb ed="#P" n="101"/>distinctio secundum rationem accipitur ab 
+          <lb ed="#P" n="102"/>aliqua distinctione reali: Nam nisi intellectus 
+          <lb ed="#P" n="103"/>inueniret, sensitiuum in anima bruti realiter 
+          <lb ed="#P" n="104"/>distinctum esse ab intellectiuo in anima
+          hu<lb ed="#P" n="105" break="no"/>mana, nunquam cogeretur distinguere sensi 
+          <lb ed="#P" n="106"/>tiuum ab intellectiuo in eadem anima
+          hu<lb ed="#P" n="107" break="no"/>mana. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1106">
+          <lb ed="#P" n="108"/>Intelligendum vlterius, quod dum dico,  
+          <lb ed="#P" n="109"/>intellectum cogi ad distinguendum
+          sensiti<lb ed="#P" n="110" break="no"/>uum ab intellectiuo in eadem anima
+          huma<lb ed="#P" n="111" break="no"/>ne, non sic intelligo, ipsum cogi, quasi quoc 
+          <lb ed="#P" n="112"/>necessitetur a re ipsa intellectu, quia tunc
+          se<lb ed="#P" n="113" break="no"/>ueretur, quod anima humana non posset 
+          <lb ed="#P" n="114"/>alio modo intelligi a quocunque intellectu. 
+          <lb ed="#P" n="115"/>quod est, falsum, sed intelligo, ipsum cogi, pro 
+          <!--234.xml-->
+          <pb ed="#P" n="209"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pter suum modum cognoscendi, quia non po 
+          <lb ed="#P" n="2"/>test venire in perfectam cognitionem anim; 
+          <lb ed="#P" n="3"/>humane, siue ipsius hominis, nisi procedendo 
+          <lb ed="#P" n="4"/>per diuersos gradus cognitionis, &amp; compa 
+          <lb ed="#P" n="5"/>rando eum ad ea, cum quibus habet similitu 
+          <lb ed="#P" n="6"/>dinem, sicut patuit superius: &amp; hoc ideo di- 
+          <lb ed="#P" n="7"/>xi; ne videar contradicere ijs, quae dixi in 
+          <lb ed="#P" n="8"/>questione de attributis; &amp; quia hoc maxime 
+          <lb ed="#P" n="9"/>est ad propositum, quo etiam fortasse alias 
+          <lb ed="#P" n="10"/>vtar; idcirco est vlterius intelligendum 
+          <lb ed="#P" n="11"/>quod sensitiuum, &amp; intellectiuum
+          quando<lb ed="#P" n="12" break="no"/>que nominant mihi diuersos conceptus quid 
+          <lb ed="#P" n="13"/>ditatiuos constituentes duo vniuersalia,
+          scili<lb ed="#P" n="14" break="no"/>cet genus, &amp; differentiam, &amp; isto modo
+          ne<lb ed="#P" n="15" break="no"/>cessitatur intellectus ab ipsa re intellecta ad 
+          <lb ed="#P" n="16"/>eorum distinctionem, quia nullo modo vide 
+          <lb ed="#P" n="17"/>tur possibile, quod genus &amp; differentia
+          ha<lb ed="#P" n="18" break="no"/>beant vnum conceptum quidditatiuum apud 
+          <lb ed="#P" n="19"/>aliquem intellectum creatum, quandoque
+          ve<lb ed="#P" n="20" break="no"/>ro sensitiuum, &amp; intellectiuum nominant di 
+          <lb ed="#P" n="21"/>uersos gradus cognitionis, per quos procedit 
+          <lb ed="#P" n="22"/>intellectus ad cognoscendum animam huma 
+          <lb ed="#P" n="23"/>nam, &amp; isto modo necessitatur ad eorum
+          di<lb ed="#P" n="24" break="no"/>stinctionem non a re ipsa, sed magis a suo im 
+          <lb ed="#P" n="25"/>perfecto modo cognocendi: Nam vbi
+          habe<lb ed="#P" n="26" break="no"/>ret ita perfectum modum cognoscendi, sicut  
+          <lb ed="#P" n="27"/>Angelus, nunquam ad cognoscendum
+          ali<lb ed="#P" n="28" break="no"/>quam formam per tales diuersos gradus
+          co<lb ed="#P" n="29" break="no"/>gnitionis procederet, &amp; ideo isto secudo mo 
+          <lb ed="#P" n="30"/>do vsus fui praefato exemplo in quaestio, de 
+          <lb ed="#P" n="31"/>attributis.
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1200">
+          <lb ed="#P" n="32"/>Ex quibus omnibus apparet, quid
+          dicen<lb ed="#P" n="33" break="no"/>dum sit ad primum dubium, videlicet quodi 
+          <lb ed="#P" n="34"/>circumscripto omni actu intellectus, est
+          ali<lb ed="#P" n="35" break="no"/>qua distinctio inter sensitiuam hominis, &amp;  
+          <lb ed="#P" n="36"/>intellectiuam, non quidem complete, &amp; actua 
+          <lb ed="#P" n="37"/>liter, quia tunc essent duae res distinctae, &amp; 
+          <lb ed="#P" n="38"/>ponerent ad se inuicem in numerum, quod 
+          <lb ed="#P" n="39"/>est falsum, sed est quaedam distinctio
+          incom<lb ed="#P" n="40" break="no"/>pleta, &amp; possibilis eo modo, quo dictum fuit. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1222">
+          <lb ed="#P" n="41"/>Secundum dubium, quod occurrit contra di 
+          <lb ed="#P" n="42"/>cta, est, quia quaeret aliquis de isto reali, quod 
+          <lb ed="#P" n="43"/>competit sensitiuae hominis, &amp; non potest at 
+          <lb ed="#P" n="44"/>tribui suae intellectiuae: Vtrum sit aliquid rea 
+          <lb ed="#P" n="45"/>liter distinctum ab ipsa sensitiua, vel idem 
+          <lb ed="#P" n="46"/>eum ea: si dicatur, quod sit aliud realiter
+          di<lb ed="#P" n="47" break="no"/>stinctum ab ea, tunc facit compositonem cum 
+          <lb ed="#P" n="48"/>ea, &amp; quia sensitiua in homine est idem reali 
+          <lb ed="#P" n="49"/>ter, quod intellectiua, quicquid facit compo 
+          <lb ed="#P" n="50"/>sitionem realem cum vna necessario compo 
+          <lb ed="#P" n="51"/>nitur cum altera, si autem dicatur, quod sit 
+          <lb ed="#P" n="52"/>idem cum ea, tunc etiam necessario erit idem 
+          <lb ed="#P" n="53"/>cum intellectiua, &amp; per consequens etiam isto 
+          <lb ed="#P" n="54"/>modo non poterit competere vni, cum
+          com<lb ed="#P" n="55" break="no"/>petat alteri. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1257">
+          <lb ed="#P" n="56"/>Ad hoc ergo est dicendum, quod illa
+          rea<lb ed="#P" n="57" break="no"/>ls similitudo, quae ponitur conuenire sensi¬ 
+          <!--234.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 209 b -->
+          <lb ed="#P" n="58"/>tiuae hominis, non addit aliquam rem supra ea 
+          <lb ed="#P" n="59"/>intrinsece; addit tamen ab extra exigentiam 
+          <lb ed="#P" n="60"/>extrinseci termini, ad quem est illa
+          similitu<lb ed="#P" n="61" break="no"/>do: Cum ergo arguitur, quod si ista
+          similitu<lb ed="#P" n="62" break="no"/>do esset idem cum sensitiua, sequeretur, quod 
+          <lb ed="#P" n="63"/>etiam esset idem cum intellectiua; possem re 
+          <lb ed="#P" n="64"/>pondere dupliciter, vno modo dicedo, quod 
+          <lb ed="#P" n="65"/>verum est, si prefata similitudo esset omnino 
+          <lb ed="#P" n="66"/>idem cum sensitiua, nunc autem quamuis sit 
+          <lb ed="#P" n="67"/>idem, quantum ad illud, quod intrinsece
+          di<lb ed="#P" n="68" break="no"/>cit, non est tamen idem quantum ad id, quod 
+          <lb ed="#P" n="69"/>extrinsece coexigit. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1296">
+          <lb ed="#P" n="70"/>Alio modo possum dicere, &amp; melius, quod 
+          <lb ed="#P" n="71"/>si sensitiua, &amp; intellectiua in homine essent 
+          <lb ed="#P" n="72"/>omnino idem, &amp; secundum actum, &amp;
+          secun<lb ed="#P" n="73" break="no"/>dum potentiam, tunc non competeret aliud 
+          <lb ed="#P" n="74"/>sensitiuae, quod non posset attribui ipsi intel 
+          <lb ed="#P" n="75"/>lectiuae, &amp; maxime si ex illo reali attributo 
+          <lb ed="#P" n="76"/>sumatur illa distinguibilitas, sicut est in pro 
+          <lb ed="#P" n="77"/>posito; nam ideo sensitiua est distinguibilis 
+          <lb ed="#P" n="78"/>ab intellectiua in eadem anima humana; quia 
+          <lb ed="#P" n="79"/>habet realem similitudinem ad animam bru 
+          <lb ed="#P" n="80"/>ti, cum qua non habet similitudinem ipsa in 
+          <lb ed="#P" n="81"/>tellectiua: Patet ergo quid sit dicendum ad 
+          <lb ed="#P" n="82"/>secundum dubium Apparet etiam ex omni 
+          <lb ed="#P" n="83"/>bus, quae dicta sunt, illud, quod primo
+          pro<lb ed="#P" n="84" break="no"/>ponebam declarare circa istum articulum
+          s<lb ed="#P" n="85" break="no"/>uod duobus existentibus idem secundum 
+          <lb ed="#P" n="86"/>rem, distinctis tamen secundum rationem, 
+          <lb ed="#P" n="87"/>possit aliud competere vni, quod non
+          com<lb ed="#P" n="88" break="no"/>petat alteri. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1340">
+          <lb ed="#P" n="89"/>Potest etiam ex istis haberi, quod illi, qui 
+          <lb ed="#P" n="90"/>ponunt formalitates, incidunt in opinionem 
+          <lb ed="#P" n="91"/>communem, velint, nolint: Nam cum illa
+          di<lb ed="#P" n="92" break="no"/>stinctio formalis non constituat veram plura 
+          <lb ed="#P" n="93"/>litatem realem in re, in qua est, vt ipsimet con 
+          <lb ed="#P" n="94"/>cedunt, cogimur dicere necessario, quod
+          ta<lb ed="#P" n="95" break="no"/>is distinctio sit incompleta, &amp; possibilis, &amp;  
+          <lb ed="#P" n="96"/>per consequens si compleatur, &amp; de potentia 
+          <lb ed="#P" n="97"/>ad actum reducatur, vel hoc fiet per realem 
+          <lb ed="#P" n="98"/>diuisionem, sicut quando diuiduntur partes 
+          <lb ed="#P" n="99"/>continui, vel per diuisionem rationis; sicut i 
+          <lb ed="#P" n="100"/>proposito, quando diuiditur sensitiuum ab 
+          <lb ed="#P" n="101"/>intellectiuo in eadem anima humana, quia 
+          <lb ed="#P" n="102"/>ibi non est possibilis esse realis diuisio; ergo 
+          <lb ed="#P" n="103"/>omnis distinctio vel est realis, vel rationis, &amp;  
+          <lb ed="#P" n="104"/>sic redimus ad opinionem communem. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1378">
+          <lb ed="#P" n="105"/>NVNC vlterius restat secundo loco
+          de<lb ed="#P" n="106" break="no"/>clarare, quod duobus existentibus idem
+          se<lb ed="#P" n="107" break="no"/>cundum rem, distinctis tamen secundum
+          ra<lb ed="#P" n="108" break="no"/>tionem, potest aliud reale, &amp; essentiale
+          com<lb ed="#P" n="109" break="no"/>mune vtrique, formaliter denominet vnum, 
+          <lb ed="#P" n="110"/>&amp; non denominando alterum, hoc autem est 
+          <lb ed="#P" n="111"/>facile intelligere. Videmus namque, quod
+          al<lb ed="#P" n="112" break="no"/>pum, &amp; albedo in quantum ad principale
+          si<lb ed="#P" n="113" break="no"/>gnificatum sunt idem realiter, &amp; idem
+          prae<lb ed="#P" n="114" break="no"/>dicamentum essentiale competit vtriqu puta 
+          <!--235.xml-->
+          <pb ed="#P" n="210"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>qualitas, hoc non obstante, ipsa qualitas de 
+          <lb ed="#P" n="2"/>nominat formaliter ipsum album, nam
+          con<lb ed="#P" n="3" break="no"/>cedimus, quod album sit quale, non tamen 
+          <lb ed="#P" n="4"/>denominat formaliter ipsam albedinem; quia 
+          <lb ed="#P" n="5"/>non conceditur, quod albedo sit qualis; suf 
+          <lb ed="#P" n="6"/>ficit ergo hic distinctio rationis inter album, 
+          <lb ed="#P" n="7"/>&amp; albedinem ad hoc, vt qualitas possit
+          for<lb ed="#P" n="8" break="no"/>maliter denominare album, non denominan 
+          <lb ed="#P" n="9"/>do albedinem : Verum est tamen, quod et 
+          <lb ed="#P" n="10"/>ista distinctio rationis supponit aliquam
+          di<lb ed="#P" n="11" break="no"/>stinctionem realem: Nam si album non
+          con<lb ed="#P" n="12" break="no"/>notaret aliquid realiter distinctum ab albed 
+          <lb ed="#P" n="13"/>ne, puta subiectum, non fieret abstractio per 
+          <lb ed="#P" n="14"/>intellectum albedinis ab albo, nec etiam ibi 
+          <lb ed="#P" n="15"/>aliqua distinctio esset secundum rationem, 
+          <lb ed="#P" n="16"/>&amp; per consequens non esset ibi possibilis
+          ali<lb ed="#P" n="17" break="no"/>qua denominatio ex parte albi magis, quam 
+          <lb ed="#P" n="18"/>ex parte albedinis: sic ergo patet totum, quod 
+          <lb ed="#P" n="19"/>proponebatur declarandum circa istum
+          se<lb ed="#P" n="20" break="no"/>cundum articulum, 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1452">
+          <lb ed="#P" n="21"/>ARTICVLVS TERTIVS. 
+          <lb ed="#P" n="22"/>An actus generationis possit attribui
+          essen<lb ed="#P" n="23" break="no"/>tiae diuinae, eam denominando
+          formali<lb ed="#P" n="24" break="no"/>ter generans
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1463">
+          <lb ed="#P" n="25"/>Llud, quod videtur maxime facere diffi- 
+          <lb ed="#P" n="26"/>cultatem in propositol, est argumentum, 
+          <lb ed="#P" n="27"/>quod fuit inductum in principio quaestionis,  
+          <lb ed="#P" n="28"/>icilicet, quia pater, cui praefatus actus tri 
+          <lb ed="#P" n="29"/>buitur, est idem quod diuina essentia; osten 
+          <lb ed="#P" n="30"/>sum est tamen in praecedenti articulo, quod 
+          <lb ed="#P" n="31"/>non obstante, quod aliqua duo sint idem se 
+          <lb ed="#P" n="32"/>cundum rem, dummodo sint distincta, &amp; di 
+          <lb ed="#P" n="33"/>stinguibilia secundum rationem, potest
+          ali<lb ed="#P" n="34" break="no"/>quid realiter attribui vni, &amp; formaliter ipsum 
+          <lb ed="#P" n="35"/>denominare, non denominando alterum, &amp; 
+          <lb ed="#P" n="36"/>ideo ex ista parte non debet oriri dubitatio 
+          <lb ed="#P" n="37"/>Dicendum est ergo quod essentia non gene 
+          <lb ed="#P" n="38"/>rat, &amp; iste actus sibi non potest attribui, eam 
+          <lb ed="#P" n="39"/>formaliter denominando. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1498">
+          <lb ed="#P" n="40"/>Duo ergo faciam : Primo probabo istam 
+          <lb ed="#P" n="41"/>conclu onem: secundo remouebo quasdam  
+          <lb ed="#P" n="42"/>dubitationes : Conclusionem probo
+          dupli<lb ed="#P" n="43" break="no"/>citer : primo sic. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1509">
+          <lb ed="#P" n="44"/>llli, cui non competunt ea, quae sunt 
+          <lb ed="#P" n="45"/>necessario requisita ad actum generationis,  
+          <lb ed="#P" n="46"/>non potest per se attribui talis actus:
+          diui<lb ed="#P" n="47" break="no"/>na essentia est huiusmodi; ergo &amp;c. Maior  
+          <lb ed="#P" n="48"/>est nota ex primo articulo, vbi dicebatur, quo 
+          <lb ed="#P" n="49"/>ideo forma non per se agit, quia non habet 
+          <lb ed="#P" n="50"/>per se ea, quae sunt requisita ad actum
+          gene<lb ed="#P" n="51" break="no"/>rationis. Probo Minorem, nam ad actum 
+          <lb ed="#P" n="52"/>generationis necessario requiritur realis
+          di<lb ed="#P" n="53" break="no"/>stinctio, &amp; realis relatio inter gignens, &amp; ge 
+          <!--235.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 210 b -->
+          <lb ed="#P" n="54"/>nitum, vt probatum fuit superius, haec oia 
+          <lb ed="#P" n="55"/>personae competunt, &amp; non essentiae; ergo 
+          <lb ed="#P" n="56"/>actus generationis per se attribuitur
+          perso<lb ed="#P" n="57" break="no"/>nae, &amp; non essentiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1548">
+          <lb ed="#P" n="58"/>2 Si diuina essentia generaret,
+          sequere<lb ed="#P" n="59" break="no"/>tur quod nullo modo distingueretur a
+          per<lb ed="#P" n="60" break="no"/>sona patris; consequens est falsum, ergo &amp; 
+          <lb ed="#P" n="61"/>antecedens: Falsitas consequentis ab omni 
+          <lb ed="#P" n="62"/>bus est concessa, nam omnes volunt saluare 
+          <lb ed="#P" n="63"/>aliquam distinctionem inter personam &amp; es 
+          <lb ed="#P" n="64"/>sentiam, saltem rationis. Probo
+          consequen<lb ed="#P" n="65" break="no"/>tiam: Dictum est enim in articulo secundo, 
+          <lb ed="#P" n="66"/>quod ideo aliqua distinguuntur secundum 
+          <lb ed="#P" n="67"/>rationem, quia vel ambo connotant aliqua 
+          <lb ed="#P" n="68"/>realiter distincta, respectu quorum
+          compe<lb ed="#P" n="69" break="no"/>tunt eis diuersa: vel saltem vnum eorum
+          con<lb ed="#P" n="70" break="no"/>notat aliquid realiter distinctum, respectu 
+          <lb ed="#P" n="71"/>cuius competit sibi aliquid, quod non
+          com<lb ed="#P" n="72" break="no"/>petit alteri; vt exemplo de sensitiua, respectu 
+          <lb ed="#P" n="73"/>intellectiuae, declaratu fuit: Sicut ergo sensi 
+          <lb ed="#P" n="74"/>tiua in homine non distingueretur secundum 
+          <lb ed="#P" n="75"/>rationem ab intellectiua, nisi esset aliquod 
+          <lb ed="#P" n="76"/>realiter distinctum, respectu cuius haberet 
+          <lb ed="#P" n="77"/>similitudinem realem, quam non habet
+          in<lb ed="#P" n="78" break="no"/>tellectiua: ita etiam suo modo, si persona pa 
+          <lb ed="#P" n="79"/>tris non haberet terminum realiter distinctum, 
+          <lb ed="#P" n="80"/>scilicet filium, respectu cuius habet aliquem  
+          <lb ed="#P" n="81"/>actum, quem non habet essentia; non esset 
+          <lb ed="#P" n="82"/>ab ea distinguibilis secundum rationem: ergo 
+          <lb ed="#P" n="83"/>persona patris est distinguibilis ab essentia se 
+          <lb ed="#P" n="84"/>cundum rationem, quia habet aliquem
+          ter<lb ed="#P" n="85" break="no"/>minum, realiter distinctum, quem non habet 
+          <lb ed="#P" n="86"/>essentia; &amp; per consequens respectu illius 
+          <lb ed="#P" n="87"/>termini necessario competit sibi aliquid, quod 
+          <lb ed="#P" n="88"/>non competit essentiae, hoc autem non pot 
+          <lb ed="#P" n="89"/>esse nisi vel actus generationis, vel realis
+          re<lb ed="#P" n="90" break="no"/>latio, quae est idem, quod ille actus; ergo ille 
+          <lb ed="#P" n="91"/>actus generonis ita denominabit formaliter 
+          <lb ed="#P" n="92"/>personam Patris, quod nullo modo denomi 
+          <lb ed="#P" n="93"/>nabit essentiam, quamuis sit idem realiter 
+          <lb ed="#P" n="94"/>cum ea 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1632">
+          <lb ed="#P" n="95"/>Oecurrunt tamen contra huiusmodi
+          di<lb ed="#P" n="96" break="no"/>cta nonnullae difficultates: prima est, quia li 
+          <lb ed="#P" n="97"/>cet actus non attribuatur essentiae per se, ui 
+          <lb ed="#P" n="98"/>detur tamen quod, possit sibi attribui per ac 
+          <lb ed="#P" n="99"/>cidens, propter realem identitatem, quam 
+          <lb ed="#P" n="100"/>habet cum persona patris, cui comperit por 
+          <lb ed="#P" n="101"/>se; sicut quamuis actus aedificandi non com 
+          <lb ed="#P" n="102"/>petat musico per se, potest tamen sibi
+          attri<lb ed="#P" n="103" break="no"/>pui per accidens, propter vnitatem
+          suppo<lb ed="#P" n="104" break="no"/>siti, quam habet cum aedificatore, 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1656">
+          <lb ed="#P" n="105"/>Ad hoc respondetur, quod essentia est no 
+          <lb ed="#P" n="106"/>men abstractum: Haec est autem differentia 
+          <lb ed="#P" n="107"/>inter abstractum &amp; concretum, nam cum 
+          <lb ed="#P" n="108"/>abstractum abstrahat ab omni eo, quod est ex 
+          <lb ed="#P" n="109"/>tra rationem quidditatiuam, idcirco non
+          re<lb ed="#P" n="110" break="no"/>cipit denominationem, nisi illorum praedica¬ 
+          <!--236.xml-->
+          <pb ed="#P" n="211"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>torum, quae praedicatur de eo per se primo 
+          <lb ed="#P" n="2"/>modo, &amp; per consequens praedicatum
+          nul<lb ed="#P" n="3" break="no"/>lum per accidens potest eum denominare. 
+          <lb ed="#P" n="4"/>Concretum vero quia concernit aliquid, quod 
+          <lb ed="#P" n="5"/>est preter suam rationem quidditatiuam, ideo 
+          <lb ed="#P" n="6"/>non solum recipit denominationem illorum 
+          <lb ed="#P" n="7"/>praedicatorum, quae praedicantur de eo per 
+          <lb ed="#P" n="8"/>se, in primo modo, sed etiam illorum, quae pro 
+          <lb ed="#P" n="9"/>dicantur deleo per accidens quia ergo essen 
+          <lb ed="#P" n="10"/>tia est nomen abstractum, non potest
+          recipe<lb ed="#P" n="11" break="no"/>re denominationem alicuius actus, nisi ille 
+          <lb ed="#P" n="12"/>actus competat sibi per se in primo modo; &amp;  
+          <lb ed="#P" n="13"/>quia generare non comperit per se essentiae, 
+          <lb ed="#P" n="14"/>sed personae, vt visum est; relinquitur, quod 
+          <lb ed="#P" n="15"/>nullo modo possit sibi attribui, vel eam deno 
+          <lb ed="#P" n="16"/>minare, etiam per accidens 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1713">
+          <lb ed="#P" n="17"/>Haec responsio quamuis sit satis
+          commu<lb ed="#P" n="18" break="no"/>nis mihi tamen non satisfacit propter tria 
+          <lb ed="#P" n="19"/>1 Quia videmus in istis inferioribs, quod non 
+          <lb ed="#P" n="20"/>obstante, quod forma sit nomen abstractum  
+          <lb ed="#P" n="21"/>ille tamen actus, qui competit supposito per 
+          <lb ed="#P" n="22"/>se, potest attribui formae per accidens,
+          secun<lb ed="#P" n="23" break="no"/>dum Aristot. &amp; Com. quod non est propter 
+          <lb ed="#P" n="24"/>aliud, nisi quia forma est aliquid composit 
+          <lb ed="#P" n="25"/>ergo a simili, non obstante quod diuina essem 
+          <lb ed="#P" n="26"/>tia sit nomen abstractum, quia est aliquid ip 
+          <lb ed="#P" n="27"/>sius suppositi paterni, immo (vt melius loqua 
+          <lb ed="#P" n="28"/>mur) est ipsum suppositum paternum, cuii 
+          <lb ed="#P" n="29"/>se competit actus generandi; videtur, quod 
+          <lb ed="#P" n="30"/>praefatus actus posse sibi attribui per accidens. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1746">
+          <lb ed="#P" n="31"/>2 Praeterea sicut abstractio essentiae non 
+          <lb ed="#P" n="32"/>impedit eam praedicari de supposito paterno 
+          <lb ed="#P" n="33"/>pari ratione videtur, quod non debeat impe 
+          <lb ed="#P" n="34"/>dire eam a denominatione eorum, quae per 
+          <lb ed="#P" n="35"/>sc competunt tali supposito. Nam ideo abstra 
+          <lb ed="#P" n="36"/>ctum in istis inferioribus non recipit
+          demo<lb ed="#P" n="37" break="no"/>strationem alicuius praedicati per accidens 
+          <lb ed="#P" n="38"/>quia propter suam abstractionem impeditur 
+          <lb ed="#P" n="39"/>praedicari de supposito, &amp; per consequens
+          im<lb ed="#P" n="40" break="no"/>peditur recipere aliquam extraneam
+          deno<lb ed="#P" n="41" break="no"/>minationem ratione suppositi, in diuinis
+          au<lb ed="#P" n="42" break="no"/>tem ista ratio non habet locum, vt de se
+          pa<lb ed="#P" n="43" break="no"/>tet, ergo &amp;caet. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1777">
+          <lb ed="#P" n="44"/>3 Quia maior est vnitas, quam habet
+          es<lb ed="#P" n="45" break="no"/>sentia diuina in abstracto significata cum
+          per<lb ed="#P" n="46" break="no"/>sona patris, quam vnitas, quam habet
+          musi<lb ed="#P" n="47" break="no"/>cum in concreto cum aedificatore, quia hic est 
+          <lb ed="#P" n="48"/>realis distinctio, ibi vero non: si ergo propter 
+          <lb ed="#P" n="49"/>vnitatem supposit quam habet musicum in 
+          <lb ed="#P" n="50"/>concreto cum ipso aedificatore, potest sibi
+          at<lb ed="#P" n="51" break="no"/>tribui per accidens actus aedificandi, qui
+          com<lb ed="#P" n="52" break="no"/>perit aedificatori per se; videtur multo magis 
+          <lb ed="#P" n="53"/>quod propter vnitatem realem, quam habet 
+          <lb ed="#P" n="54"/>essentia cum persona patris, actus generandi 
+          <lb ed="#P" n="55"/>possit sibi attribui saltem per accidens, cum 
+          <lb ed="#P" n="56"/>competat patri per se; &amp; ideo propter ominia 
+          <lb ed="#P" n="57"/>hec, videtur mihi (saluo meliore iudicio) ali¬ 
+          <!--236.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 211 b -->
+          <lb ed="#P" n="58"/>ter esse dicendum 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1819">
+          <lb ed="#P" n="59"/>Dico ergo, quod actus generandi ideo non 
+          <lb ed="#P" n="60"/>potest attribui essentiae, etiam per accidens, 
+          <lb ed="#P" n="61"/>quia inuenit contrariam, &amp; repugnantem
+          dis<lb ed="#P" n="62" break="no"/>positionem in essentia, cum qua se non
+          com<lb ed="#P" n="63" break="no"/>patitur, quod patet, quia actus generandi re 
+          <lb ed="#P" n="64"/>quirit necessario realem distinctionem inter 
+          <lb ed="#P" n="65"/>gignens, &amp; genitum; siue illud sit gignens 
+          <lb ed="#P" n="66"/>vel genitum per se; siue sit gignens, vel gen 
+          <lb ed="#P" n="67"/>tum per accidens; quia nihil potest gignere 
+          <lb ed="#P" n="68"/>se ipsum, nec per se, nec per accidens: &amp; quia 
+          <lb ed="#P" n="69"/>essentia habet realem identitatem cum geni 
+          <lb ed="#P" n="70"/>to, ideo nullo modo potest sibi attribui actus 
+          <lb ed="#P" n="71"/>generandi. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1851">
+          <lb ed="#P" n="72"/>Possemus etiam nos breuius expedire
+          di<lb ed="#P" n="73" break="no"/>cendo, quod cum in diuinis nullum sit
+          acci<lb ed="#P" n="74" break="no"/>dens, idcirco nulla attributio potest ibi esse 
+          <lb ed="#P" n="75"/>per accidens, &amp; ideo cui non potest per se at 
+          <lb ed="#P" n="76"/>tribui actus generandi, nullo modo potest ei 
+          <lb ed="#P" n="77"/>dem attribui, nec etiam per accidens 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1867">
+          <lb ed="#P" n="78"/>Secundo videtur quod essentiae possit
+          at<lb ed="#P" n="79" break="no"/>tribui actus generandi: Nam de quocunque 
+          <lb ed="#P" n="80"/>praedicatur subiectum, etiam &amp; sua passio pro 
+          <lb ed="#P" n="81"/>dicatur, sed pater praedicatur de essentia,
+          er<lb ed="#P" n="82" break="no"/>go &amp; actus generandi, qui est sua proprietas. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1880">
+          <lb ed="#P" n="83"/>Ad hoc respondent quidam dicentes, 
+          <lb ed="#P" n="84"/>quod de quocunque praedicatur
+          subie<lb ed="#P" n="85" break="no"/>ctum, praedicatur &amp; passio, si passio
+          po<lb ed="#P" n="86" break="no"/>test praedicari praedicatione eiusdem
+          ratio<lb ed="#P" n="87" break="no"/>nis cum subiecto, non autem est ita in
+          pro<lb ed="#P" n="88" break="no"/>posito: Nam pater praedicatur de essentia per 
+          <lb ed="#P" n="89"/>identitatem: generare autem, cum sit
+          adiecti<lb ed="#P" n="90" break="no"/>uum, non potest praedicari nisi formaliter, &amp;  
+          <lb ed="#P" n="91"/>per modum adiacentis. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1902">
+          <lb ed="#P" n="92"/>Haec responsio videtur perere principium 
+          <lb ed="#P" n="93"/>immo videtur augere difficultatem: Nam si 
+          <lb ed="#P" n="94"/>tater praedicatur de essentia per identitatem 
+          <lb ed="#P" n="95"/>videtur omnino, quod illud, quod denomi- 
+          <lb ed="#P" n="96"/>nat formaliter ipsum patrem, denominet for 
+          <lb ed="#P" n="97"/>maliter etiam ipsam essentiam, quod si
+          con<lb ed="#P" n="98" break="no"/>tingat contrarium, sicut modo in proposito, 
+          <lb ed="#P" n="99"/>quaeritur huius reicausa, quae tamen non
+          as<lb ed="#P" n="100" break="no"/>signatur per istam responsionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1924">
+          <lb ed="#P" n="101"/>Respondeo, ergo que cum dicitur, de quocum 
+          <lb ed="#P" n="102"/>ue praedicatur subiectum, praedicatur, ex
+          pas<lb ed="#P" n="103" break="no"/>no, hoc verum esse, vbi passio non inuenit
+          repu<lb ed="#P" n="104" break="no"/>gnantem dispositionem, sed vbi inuenit, non opor 
+          <lb ed="#P" n="105"/>tet, sicut exempli gratia, videmus quod
+          ter<lb ed="#P" n="106" break="no"/>mini vniuersalis habent quaedam attributa, 
+          <lb ed="#P" n="107"/>er modum passionum, sicut iste terminus 
+          <lb ed="#P" n="108"/>homo habet istud attributum, quod est
+          spe<lb ed="#P" n="109" break="no"/>cies, &amp; tamen homo praedicatur de Sorte, &amp;  
+          <lb ed="#P" n="110"/>species non potest de eo praedicari, quod non 
+          <lb ed="#P" n="111"/>est propter aliud, nisi quia Sortes habet repu 
+          <lb ed="#P" n="112"/>gnantem dispositionem ad istud attributum. 
+          <lb ed="#P" n="113"/>puta vniuersalitatem speciei: aliqua tamen 
+          <lb ed="#P" n="114"/>passio hominis, quae non inuenit in Sorte re¬ 
+          <!--237.xml-->
+          <pb ed="#P" n="212"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>pugnantem dispositionem, bene potest sibi 
+          <lb ed="#P" n="2"/>attribui, eum formaliter denominando, sicut 
+          <lb ed="#P" n="3"/>patet de risibilitate: ita suo modo dico in pro 
+          <lb ed="#P" n="4"/>posito, quod illud, quod per modum
+          pashio<lb ed="#P" n="5" break="no"/>nis competit patri, bene posse attribui
+          essen<lb ed="#P" n="6" break="no"/>tiae si essentia nou haberet repugnantem dis 
+          <lb ed="#P" n="7"/>positionem ad tale attributum: Nunc autem 
+          <lb ed="#P" n="8"/>visum est quod tale attributum sibi repugnat 
+          <lb ed="#P" n="9"/>omnino, nec tamen est mirandum, quomodo 
+          <lb ed="#P" n="10"/>repugnantia talis inueniatur in essentia, &amp;  
+          <lb ed="#P" n="11"/>non in persona, cum tamen sint idem: quia 
+          <lb ed="#P" n="12"/>vt potest patere per ea, quae dicta sunt
+          supe<lb ed="#P" n="13" break="no"/>rius, sola distinctio rationis sufficit ad hoc, vt 
+          <lb ed="#P" n="14"/>aliquid possit attribui vni, quod tamen repu 
+          <lb ed="#P" n="15"/>gnat alteri. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e1996">
+          <lb ed="#P" n="16"/>Tertium dubium quod occurrit contra 
+          <lb ed="#P" n="17"/>eandem conclusionem est, quia si fiat talis 
+          <lb ed="#P" n="18"/>discursus, pater generat, essentia est pater, er 
+          <lb ed="#P" n="19"/>go essentia generat, videbitur necessario
+          con<lb ed="#P" n="20" break="no"/>cludi oppositum propositi, quia praefata ratio 
+          <lb ed="#P" n="21"/>non videtur peccare nec in materia, nec 
+          <lb ed="#P" n="22"/>in forma. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2015">
+          <lb ed="#P" n="23"/>Adhoc communiter respodetur, quod ista 
+          <lb ed="#P" n="24"/>ratio deficit in forma, peccat enim per
+          falla<lb ed="#P" n="25" break="no"/>ciam antecedentis, quia accidit patri, prout 
+          <lb ed="#P" n="26"/>stat sub isto attributo quod est generare,
+          pre<lb ed="#P" n="27" break="no"/>dicari de essentia, quod vtique videtur verum, 
+          <lb ed="#P" n="28"/>nam predicatur de essentia per hoc, quod est 
+          <lb ed="#P" n="29"/>idem cum ea, cum actus generandi sibi attri 
+          <lb ed="#P" n="30"/>buatur, vt distinguitur ab ea, sicut
+          supe<lb ed="#P" n="31" break="no"/>rius patuit. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2037">
+          <lb ed="#P" n="32"/>Quartum dubium occurrit, quia potest fie 
+          <lb ed="#P" n="33"/>ri alius discursus, qui videbitur necessario con 
+          <lb ed="#P" n="34"/>cludere contra istam conclusionem si
+          dica<lb ed="#P" n="35" break="no"/>tur, pater filij generat, essentia est pater filij 
+          <lb ed="#P" n="36"/>ergo essentia generet; Minor probatur, nam  
+          <lb ed="#P" n="37"/>ab omnibus conceditur quod essentia est pa 
+          <lb ed="#P" n="38"/>ter, vel ergo est pater nullius, vel alicuius, non 
+          <lb ed="#P" n="39"/>est dicendum quod nullius, ergo alicuius,  
+          <lb ed="#P" n="40"/>non potest esse alicuius nisi filij, ergo est
+          pa<lb ed="#P" n="41" break="no"/>ter filij, tota uis istius rationis stat in minore 
+          <lb ed="#P" n="42"/>propositone, &amp; ideo ad eam est dicendum. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2063">
+          <lb ed="#P" n="43"/>Quidam ergo eam simpliciter negant,
+          di<lb ed="#P" n="44" break="no"/>centes quod nomina quae imponuntur a po 
+          <lb ed="#P" n="45"/>tentia actiua, vel passiua, sicut pater, &amp; filius 
+          <lb ed="#P" n="46"/>&amp; similia semper significant per modum
+          adia<lb ed="#P" n="47" break="no"/>centis, eo quod important habitudinem ad 
+          <lb ed="#P" n="48"/>terminum quem respicit illa potentia; &amp; ion 
+          <lb ed="#P" n="49"/>quando talis habitudo omnino exprimitur,  
+          <lb ed="#P" n="50"/>sicut modo in proposito, cum dicitur
+          essen<lb ed="#P" n="51" break="no"/>tia est pater filij, omnino significat per
+          mo<lb ed="#P" n="52" break="no"/>dum adiacentis, &amp; est sensus, quod illa
+          pro<lb ed="#P" n="53" break="no"/>prietas, scilicet paternitas adiaceat, &amp; insit 
+          <lb ed="#P" n="54"/>ipsi essentiae, &amp; per consequens quod
+          essen<lb ed="#P" n="55" break="no"/>tia referatur realiter ad silium, &amp;
+          distingua<lb ed="#P" n="56" break="no"/>tur ab eo, quod vtique est falsum; popoeo quod
+          sim<lb ed="#P" n="57" break="no"/>pliciter negant praefatam propositionem. 
+          <!--237.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 212 b -->
+          <lb ed="#P" n="58"/>Sed si ista responsio esset bona, tunc etm vi 
+          <lb ed="#P" n="59"/>detur necessarium esse negare istam aliam pro 
+          <lb ed="#P" n="60"/>positionem, scilicet essentia est pater, nam cum 
+          <lb ed="#P" n="61"/>pater semper importet habitudinem ad filium,  
+          <lb ed="#P" n="62"/>ad istam propositionem, essentia est pater,
+          vi<lb ed="#P" n="63" break="no"/>detur necessario sequi, essentia est pater filij,  
+          <lb ed="#P" n="64"/>cum ergo ipsi concedant primam, videtur ne 
+          <lb ed="#P" n="65"/>cessario quod debeant concedere secundam 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2122">
+          <lb ed="#P" n="66"/>Et ideo alij ex ratione ista moti
+          simplici<lb ed="#P" n="67" break="no"/>ter concedunt praefatam propositionem,
+          si<lb ed="#P" n="68" break="no"/>cut patet de Praeposituo, qui probat eam es 
+          <lb ed="#P" n="69"/>se simpliciter veram, per conuersionem sim 
+          <lb ed="#P" n="70"/>plicem, semper enim in tali conuersione si 
+          <lb ed="#P" n="71"/>conuertens est vera, &amp; conuersa est vera, 
+          <lb ed="#P" n="72"/>nunc autem ista est vera, pater filij est essen 
+          <lb ed="#P" n="73"/>tia, &amp; sua conuersa erit vera, scilicet essentia 
+          <lb ed="#P" n="74"/>est Pater Filij. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2144">
+          <lb ed="#P" n="75"/>Videtur tamen quod etiam istud dictum 
+          <lb ed="#P" n="76"/>deficiat, Nam si illa maior proposito simpli 
+          <lb ed="#P" n="77"/>citer consideretur, non possumus effugere, 
+          <lb ed="#P" n="78"/>quin essentia generet, &amp; maxime concessa 
+          <lb ed="#P" n="79"/>maiori, sicut videtur concedenda. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2157">
+          <lb ed="#P" n="80"/>Et ideo melius videtur dicendum, quod 
+          <lb ed="#P" n="81"/>praefata proposito vno modo est
+          concedan<lb ed="#P" n="82" break="no"/>da, &amp; alio modo est neganda, secundum duos 
+          <lb ed="#P" n="83"/>sensus, quos potest habere: Nam cum dico 
+          <lb ed="#P" n="84"/>essentia est pater, ly pater, potest intelligi
+          pro<lb ed="#P" n="85" break="no"/>dicari subiunctiue, &amp; adiectiue: si
+          praediea<lb ed="#P" n="86" break="no"/>tur substantiue, tunc est sensus quod
+          essen<lb ed="#P" n="87" break="no"/>tia est illa persona, quae habet istam proprie 
+          <lb ed="#P" n="88"/>tatem, per quam refertur ad filium, &amp; distin 
+          <lb ed="#P" n="89"/>guitur ab eo; &amp; isto modo proposito debet 
+          <lb ed="#P" n="90"/>eoncedi, quia nec ad eam sequitur, quod, es 
+          <lb ed="#P" n="91"/>sentia generet, scilicet quod sit illa persona, 
+          <lb ed="#P" n="92"/>quae generatm Alio modo potest. praedicari 
+          <lb ed="#P" n="93"/>adiectiue, &amp; tunc est sensus, quod essentia 
+          <lb ed="#P" n="94"/>habeat paternitatem per modum adiacentis,  
+          <lb ed="#P" n="95"/>per quam refertur ad filium, secundum quen 
+          <lb ed="#P" n="96"/>modum debet negari praefata proposito, sci 
+          <lb ed="#P" n="97"/>licet quod essentia sit pater filij, quia
+          secun<lb ed="#P" n="98" break="no"/>dum istum sensum, ad eam immediate
+          se<lb ed="#P" n="99" break="no"/>queretur quod essentia generaret, sic ergo 
+          <lb ed="#P" n="100"/>patet quid sit dicendum de tota quaestione. 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2206">
+          <lb ed="#P" n="101"/>AD ARGV MENTA 
+          <lb ed="#P" n="102"/>principalia. 
+          <lb ed="#P" n="103"/>AD primum dico, actum attributum 
+          <lb ed="#P" n="104"/>supposito posse attribui formae, vno 
+          <lb ed="#P" n="105"/>modo est verum, &amp; alio modo esse falsum: 
+          <lb ed="#P" n="106"/>Nam si intelligatur quod possit attribui for 
+          <lb ed="#P" n="107"/>mae tanquam principio partiali, &amp;
+          principa<lb ed="#P" n="108" break="no"/>li inter principia partialia, sic est verum: 
+          <lb ed="#P" n="109"/>Nam quamuis ex parte supposit agentis sint 
+          <lb ed="#P" n="110"/>requisita plura, vt patuit in primo articulo;  
+          <lb ed="#P" n="111"/>forma tamen substantialis semper habet
+          ra<lb ed="#P" n="112" break="no"/>tionem principalis principij inter illa. Vnde 
+          <lb ed="#P" n="113"/>isto modo bene concedo, quod in illis
+          indfe<lb ed="#P" n="114" break="no"/>rioribus forma est agens, &amp; hoc videtur etiam 
+          <!--238.xml-->
+          <pb ed="#P" n="213"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>de intentione Com. secundo de
+          generatio<lb ed="#P" n="2" break="no"/>ne, vbi dicit quod non resistit Platoni dicen 
+          <lb ed="#P" n="3"/>ti, quod forma est causa agens simpliciter; 
+          <lb ed="#P" n="4"/>distat autem a Platone in modo essendi
+          for<lb ed="#P" n="5" break="no"/>marum, &amp; in modo actionis earum, tamen di 
+          <lb ed="#P" n="6"/>cit Com, constat autem quod Plato pone 
+          <lb ed="#P" n="7"/>bat formas natutales abstractas a materia
+          se<lb ed="#P" n="8" break="no"/>cundum esse, &amp; per consequens secundum 
+          <lb ed="#P" n="9"/>agere; Aristoteles autem sicut non ponit cau 
+          <lb ed="#P" n="10"/>sas abstractas secundum esse; ita etiam nec 
+          <lb ed="#P" n="11"/>secundum agere, secundum hoc ergo, si
+          in<lb ed="#P" n="12" break="no"/>telligatur quod actus suppositi attribuatur 
+          <lb ed="#P" n="13"/>formae tanquam principio agenti totali, sic 
+          <lb ed="#P" n="14"/>nego eam: Nam sicut forma non est per se 
+          <lb ed="#P" n="15"/>plam sufficiens ad esse, sine alio principio.  
+          <lb ed="#P" n="16"/>ita etiam nec ad agere, &amp; ideo omnis actio 
+          <lb ed="#P" n="17"/>attribuitur supposito tanquam principio per 
+          <lb ed="#P" n="18"/>fecto, &amp; totali; quia continet omnia, quae re 
+          <lb ed="#P" n="19"/>quisita sunt tam ad esse, quam ad agere, for 
+          <lb ed="#P" n="20"/>mae autem vt est pars ipsius suppositi, &amp; ideo est 
+          <lb ed="#P" n="21"/>quasi per accidens nec tamen ex hoc potest 
+          <lb ed="#P" n="22"/>inferri, quod actus generandi attribuatur es 
+          <lb ed="#P" n="23"/>sentiae diuinae per accidens, nam ideo actio 
+          <lb ed="#P" n="24"/>attribuitur formae, quia non inuenitur in ea 
+          <lb ed="#P" n="25"/>repugnantia ad talem actionem
+          principian<lb ed="#P" n="26" break="no"/>dum: In diuina autem essentia inuenitur re 
+          <lb ed="#P" n="27"/>pugnantia. ad principiandum actum generam 
+          <lb ed="#P" n="28"/>di, eo modo, quo superius fuit visum 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2306">
+          <lb ed="#P" n="29"/>Cum vero vlterius probatur, quod actio 
+          <lb ed="#P" n="30"/>suppositi primo debetur formae, quia
+          suppo<lb ed="#P" n="31" break="no"/>situm est in actu per formam, dico, quod quam 
+          <lb ed="#P" n="32"/>uis suppofitum sit in actu per formam,
+          quam<lb ed="#P" n="33" break="no"/>tum ad esse intelligibile, &amp; definibile, secun 
+          <lb ed="#P" n="34"/>dum quem modum sibi non debetur actio: 
+          <lb ed="#P" n="35"/>quantum tamen ad hoc esse singulare
+          subsi<lb ed="#P" n="36" break="no"/>stens, secundum quem modum sibi debetur 
+          <lb ed="#P" n="37"/>actio, est e conuerso; quia forma est in actu 
+          <lb ed="#P" n="38"/>per suppositum 
+        </p>
+        <p xml:id="gsX5tY-d1e300-d1e2330">
+          <lb ed="#P" n="39"/>Ad secundum dicitur, quod sufficit sola  
+          <lb ed="#P" n="40"/>distinctio rationis ad hoc, vt aliquid
+          compe<lb ed="#P" n="41" break="no"/>tat vni, quod repugnet alteri. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

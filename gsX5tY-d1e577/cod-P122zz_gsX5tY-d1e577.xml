@@ -1,381 +1,381 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="369"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e577"> <!-- l1d16q1 -->
-            <head xml:id="gsX5tY-d1e577-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e577-Hd1e112" type="question-title">Utrum in divinis sit missio visibilis</head>
-            <p xml:id="gsX5tY-d1e577-d1e115">
-               <lb ed="#P" n="72"/>DISTINCTIONIS XVI. 
-      <lb ed="#P" n="73"/>QVAESTIO VNICA 
-      <lb ed="#P" n="74"/>An in diuinis sit missio visibilis.
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e124">
-               <lb ed="#P" n="75"/>Espondeo huic quaestioni sine
-      argu<lb ed="#P" n="76" break="no"/>mentis; Pro cuius explicatione tria 
-      <lb ed="#P" n="77"/>sunt consideranda 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e134">
-               <lb ed="#P" n="78"/>Quid sit missio visibilis, &amp; quomodo 
-      <lb ed="#P" n="79"/>differat a missione Spiritus Sancti. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e141">
-               <lb ed="#P" n="80"/>Quibus personis, &amp; quo tempore fieri 
-      <lb ed="#P" n="81"/>debuit missio visibilis Spiritus Sancti. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e148">
-               <lb ed="#P" n="82"/>An speties illae, in quibus Spiritus San 
-      <lb ed="#P" n="83"/>ctus inuisibiliter apparuit, fuerint verae res 
-      <lb ed="#P" n="84"/>sicut apparebant. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e157">
-               <lb ed="#P" n="85"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="86"/>Quid sit missio visibilis, &amp; quomodo differat 
-      <lb ed="#P" n="87"/>a missione Spiritu Sancti.
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e166">
-               <lb ed="#P" n="88"/>QVantum ad hoc est intelligendum, quod 
-      <lb ed="#P" n="89"/>missio visibilis supponit, &amp; includit 
-      <lb ed="#P" n="90"/>missionem simpliciter, de qua
-      supe<lb ed="#P" n="91" break="no"/>rius est determinatum, &amp; ideo totum, quoc 
-      <lb ed="#P" n="92"/>est de ratione missionis simpliciter, est etiam 
-      <lb ed="#P" n="93"/>de ratione missionis visibilis, quia tamen
-      mis<lb ed="#P" n="94" break="no"/>sio visibilis, se habet ad missionem simplici 
-      <lb ed="#P" n="95"/>ter, quae fit modo inuisibili, sicut speciale ad  
-      <lb ed="#P" n="96"/>commune: ldcirco differt ab illa in duobus, 
-      <lb ed="#P" n="97"/>in quibus se habet per additionem ad eam. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e190">
-               <lb ed="#P" n="98"/>Primo differt quantum ad modum sancti 
-      <lb ed="#P" n="99"/>ficationis: nam quamuis per vtranque
-      mis<lb ed="#P" n="100" break="no"/>sionem contineatur sanctificatio, in alio
-      ta<lb ed="#P" n="101" break="no"/>men gradu obtinetur per missionem inuisibi 
-      <lb ed="#P" n="102"/>em, &amp; in alio gradu per visibilem: quod
-      pa<lb ed="#P" n="103" break="no"/>tet, nam per missionem simpliciter inuisibilem 
-      <lb ed="#P" n="104"/>obtinetur gratia sanctificans in gradum
-      suffi<lb ed="#P" n="105" break="no"/>ciente, solum quantum ad illam personam 
-      <!--395.xml-->
-      <pb ed="#P" n="370"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>cui fit talis missio, per missionem vero visibi 
-      <lb ed="#P" n="2"/>lem obtinetur gratia sanctificans in gradum su 
-      <lb ed="#P" n="3"/>pereffluenti, ita vt non solum sufficiat quam 
-      <lb ed="#P" n="4"/>tum ad illum cui fit talis missio, sed etiam su 
-      <lb ed="#P" n="5"/>perabundet, ex eoqe in alios redeundet. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e228">
-               <lb ed="#P" n="6"/>Secundo differunt, quia missio visibilis su 
-      <lb ed="#P" n="7"/>per missionem simpliciter addit aliquam spe 
-      <lb ed="#P" n="8"/>ciem visibilem exterius demonstratam, quae 
-      <lb ed="#P" n="9"/>quidem species significat, &amp; representat mis 
-      <lb ed="#P" n="10"/>sionem inuisibilem diuinae personae interius 
-      <lb ed="#P" n="11"/>asistentis, &amp; causantis gratiam sanctificantem. 
-      <lb ed="#P" n="12"/>&amp; hinc est, quod diuina persona quando mit 
-      <lb ed="#P" n="13"/>titur hoc modo, dicitur in tali specle
-      visibili<lb ed="#P" n="14" break="no"/>ter apparere, quemadmodum dictum est de 
-      <lb ed="#P" n="15"/>Spiritu Sancto, quod apparuit super
-      Chri<lb ed="#P" n="16" break="no"/>stum haptixatum in specie columbae, &amp;
-      su<lb ed="#P" n="17" break="no"/>per Apostolos in linguis igneis. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e257">
-               <lb ed="#P" n="18"/>Et ideo si quaeratur, quot modis differat 
-      <lb ed="#P" n="19"/>missio visibilis filij a missione visibili
-      Spiri<lb ed="#P" n="20" break="no"/>tus Sancti, potest dici, quod quatuor modis 
-      <lb ed="#P" n="21"/>differunt.
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e268">
-               <lb ed="#P" n="22"/>Primo, quia natura humana, in qua
-      ap<lb ed="#P" n="23" break="no"/>paruit filius, fuit vera natura, &amp; eiusdem spe 
-      <lb ed="#P" n="24"/>ciei cum nostra in qua apparuit: natura aut 
-      <lb ed="#P" n="25"/>visibilis, in qua apparuit Spiritus Sactus, non 
-      <lb ed="#P" n="26"/>est necesse dicere, quod fuerit vera natura, 
-      <lb ed="#P" n="27"/>sicut apparuit, nam saltem de linguis igneis 
-      <lb ed="#P" n="28"/>tenetur magis communiter, quod non
-      fue<lb ed="#P" n="29" break="no"/>rint verae res extra imaginationem, sicut
-      ap<lb ed="#P" n="30" break="no"/>paruerunt, sed solum species imaginariae: Ra 
-      <lb ed="#P" n="31"/>tio autem huius differentiae ex hoc desumi 
-      <lb ed="#P" n="32"/>potest, quod tales species solum erant ad
-      s<lb ed="#P" n="33" break="no"/>onificandum, quae quidem significatio pot 
-      <lb ed="#P" n="34"/>haberi per solas species imaginarias; sed
-      il<lb ed="#P" n="35" break="no"/>la humana natura in qua apparuit filius, fuit 
-      <lb ed="#P" n="36"/>ordinata ad faciendum opus nostrae
-      redem<lb ed="#P" n="37" break="no"/>ptionis, quod non potuit congrue fieri nisi 
-      <lb ed="#P" n="38"/>per verum hominem 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e307">
-               <lb ed="#P" n="39"/>Secundo differunt, quia natura, in qua fi 
-      <lb ed="#P" n="40"/>lius apparuit, fuit rationalis; illa vero in 
-      <lb ed="#P" n="41"/>qua apparuit Spiritus Sanctus, fuit
-      irra<lb ed="#P" n="42" break="no"/>tionalis: Ratio autem huius potest assignari 
-      <lb ed="#P" n="43"/>eadem, quae nunc supra dicta est, &amp; etiam 
-      <lb ed="#P" n="44"/>multae aliae, de quibus non curo ad praesens 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e323">
-               <lb ed="#P" n="45"/>Tertio differunt, quia natura in qua
-      ap<lb ed="#P" n="46" break="no"/>paruit filius fuit assumpta ad personalitatem 
-      <lb ed="#P" n="47"/>ipsius, natura autem a Spiritu Sancto assum 
-      <lb ed="#P" n="48"/>pta, minime, Cuius ro est, quia Dei filius de 
-      <lb ed="#P" n="49"/>buit esse mediator Dei, &amp; hominum, propter 
-      <lb ed="#P" n="50"/>quod decuit, quod in vna, &amp; eadem persona 
-      <lb ed="#P" n="51"/>esset verus Deus, &amp; verus homo, alioquin  
-      <lb ed="#P" n="52"/>non participasset cum extremis; &amp; per con 
-      <lb ed="#P" n="53"/>sequens non fuisset verus mediator: opor. 
-      <lb ed="#P" n="54"/>tuit ergo, quod illa natura assumeretur ad 
-      <lb ed="#P" n="55"/>eius personalitatem, quod non habet locum 
-      <lb ed="#P" n="56"/>in apparitione Spiritus Sancti. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e352">
-               <lb ed="#P" n="57"/>Quarto differunt, quia filius solum semel 
-      <!--395.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 370 b -->
-               <lb ed="#P" n="58"/>apparuit visibilis in natura passibili; Spiritus 
-      <lb ed="#P" n="59"/>autem Sanctus apparumt pluribus vicibus vi: 
-      <lb ed="#P" n="60"/>sibiliter: nam super Christum baptixatum 
-      <lb ed="#P" n="61"/>apparuit in specie eolumbae, in specie nubis 
-      <lb ed="#P" n="62"/>lucidae super eundem in transfiguratione; su 
-      <lb ed="#P" n="63"/>per Apostolos vero in linguis igneis: Ratio 
-      <lb ed="#P" n="64"/>autem huius differentiae ex hoc sumi potest: 
-      <lb ed="#P" n="65"/>Quod opus nostrae redemptionis, ad quod 
-      <lb ed="#P" n="66"/>fuit ordinata apparitio Christi in carne,
-      suf<lb ed="#P" n="67" break="no"/>ficienter fuit expleta per illam vnicam
-      appa<lb ed="#P" n="68" break="no"/>ritionem sicut &amp; per vnicam ipsius passionem; 
-      <lb ed="#P" n="69"/>sanctificatio vero, ad quam fuit ordinata ap 
-      <lb ed="#P" n="70"/>paritio Spiritus Sancti, non fuit vna tantum; 
-      <lb ed="#P" n="71"/>Propter quod nec etiam potuit ita sufficien 
-      <lb ed="#P" n="72"/>ter fieri per vnam tantum apparitionem: &amp; 
-      <lb ed="#P" n="73"/>ideo decuit, quod appareret pluribus
-      vici<lb ed="#P" n="74" break="no"/>bus; &amp; haec dicta sufficiant.
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e401">
-               <lb ed="#P" n="75"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="76"/>Vtrum missio visibilis Spiritus Sancti debue 
-      <lb ed="#P" n="77"/>rit fieri quolibet tempore, &amp;
-      quibus<lb ed="#P" n="78" break="no"/>cunque personis.
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e412">
-               <lb ed="#P" n="79"/>AD hoc est dicendum, quod non debuit 
-      <lb ed="#P" n="80"/>fieri quocunque tempore, &amp;
-      quibus<lb ed="#P" n="81" break="no"/>cunque personis :; non enim ante Christi adue 
-      <lb ed="#P" n="82"/>tum debuit fieri; quia vt dictum est, talis 
-      <lb ed="#P" n="83"/>missio visibilis significat in eo cui fit plenitu 
-      <lb ed="#P" n="84"/>dinem gratiae potentis in alios redundare; 
-      <lb ed="#P" n="85"/>haec autem plenitudo non potuit obtineri ante 
-      <lb ed="#P" n="86"/>Christi aduentum: quia tempus
-      plenitudi<lb ed="#P" n="87" break="no"/>nis incaepit post Christi aduentum, secundum 
-      <lb ed="#P" n="88"/>illud <ref xml:id="gsX5tY-d1e577-Rd1e435" target="http://scta.info/resource/eph4_4@4-5">Apost. ad Galat. 4.</ref> At vbi venit pleni 
-      <lb ed="#P" n="89"/>tudo temporis: &amp; ideo debuit fieri solum
-      ten<lb ed="#P" n="90" break="no"/>pore Christi, &amp; Apostolorum: quia tunc 
-      <lb ed="#P" n="91"/>temporis indigebat Ecclesia fundari, &amp; 
-      mul<lb ed="#P" n="92" break="no"/>tiplicari in fide Christi; cuius multiplicatio, 
-      <lb ed="#P" n="93"/>&amp; fundatio multum ex talibus missionibus 
-      <lb ed="#P" n="94"/>visibilibus dependebat, maxime cum tales 
-      <lb ed="#P" n="95"/>missiones fierent propter populum astantem 
-      <lb ed="#P" n="96"/>vt facilius conuerteretur per doctrinam, &amp; 
-      <lb ed="#P" n="97"/>praedicationem illorum, quibus tales
-      missio<lb ed="#P" n="98" break="no"/>nes fiebant, &amp; ista videtur esse intentio
-      <ref xml:id="gsX5tY-d1e577-Rd1e460" corresp="#gsX5tY-d1e577-Qd1e468">Au<lb ed="#P" n="99" break="no"/>gust. 2. de Trin cap. ij.</ref> vbi dicit, quod tales 
-      <lb ed="#P" n="100"/>missiones visibiles fuerunt, <quote xml:id="gsX5tY-d1e577-Qd1e468" source="http://scta.info/resource/adt-l2-d1e226" synch="128-143">vt exterioribus 
-      <lb ed="#P" n="101"/>visis, hominum corda commota a
-      tempora<lb ed="#P" n="102" break="no"/>li manifestatione venientis, ad ocultam
-      aeter<lb ed="#P" n="103" break="no"/>nitatis semper praesentis conuerterentur</quote>: ex 
-      <lb ed="#P" n="104"/>quo immediate apparet, quod tales
-      missio<lb ed="#P" n="105" break="no"/>nes non debent fieri modo, quia ecclesia 
-      <lb ed="#P" n="106"/>fuit sufficienter fundata per doctrinam Chri 
-      <lb ed="#P" n="107"/>sti, &amp; Apostolorum, quorum doctrina fuit 
-      <lb ed="#P" n="108"/>per signa euidentia probata, propter quod 
-      <lb ed="#P" n="109"/>non debemus quaerere vlteriorem
-      probatio<lb ed="#P" n="110" break="no"/>nem nostrae fidei; nec vlterius indigemus, 
-      <!--396.xml-->
-      <pb ed="#P" n="371"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>quod fiant tales missiones visibiles: Patet 
-      <lb ed="#P" n="2"/>ergo quod missio visibilis non debuit fieri 
-      <lb ed="#P" n="3"/>quocunque tempore 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e506">
-               <lb ed="#P" n="4"/>Vlterius dico, quod non debuit fieri qui 
-      <lb ed="#P" n="5"/>buscunque personis; &amp; hoc satis habetur ex 
-      <lb ed="#P" n="6"/>dictis: nam dictum est supra, quod talis mis 
-      <lb ed="#P" n="7"/>sio fit ad significandum tantam esse plenitu 
-      <lb ed="#P" n="8"/>dinem gratiae in eo cui fit, vt posset ex eo in 
-      <lb ed="#P" n="9"/>alios redundare: Propterea simpliciter
-      de<lb ed="#P" n="10" break="no"/>buit fieri Christo tanquam fundamento, 
-      <lb ed="#P" n="11"/>capiti Ecclesiae, a quo debebat gratia in om- 
-      <lb ed="#P" n="12"/>nes alios deriuare: Deinde debuit fieri ipsis 
-      <lb ed="#P" n="13"/>Apostolis, ad quos spectabat Ecclesiam con 
-      <lb ed="#P" n="14"/>struere super summo angulari lapide
-      Chri<lb ed="#P" n="15" break="no"/>sto lesu, &amp; ideo decuit vt eorum doctrina, 
-      <lb ed="#P" n="16"/>&amp; praedicatio per tales missiones visibiles
-      re<lb ed="#P" n="17" break="no"/>ciperet firmitatem, siquidem per eorum
-      do<lb ed="#P" n="18" break="no"/>ctrinam, &amp; praedicationem debebat fides Chri 
-      <lb ed="#P" n="19"/>sti confirmari, &amp; multiplicari, &amp; per conse 
-      <lb ed="#P" n="20"/>quens eis mediantibus debebat gratia aChri 
-      <lb ed="#P" n="21"/>sto capite in omnes alios descendere. Post 
-      <lb ed="#P" n="22"/>Apostolos vero non decuit, tales missiones 
-      <lb ed="#P" n="23"/>visibiles fieri alicui alteri; quia per doctrinam 
-      <lb ed="#P" n="24"/>Apostolorum fides Christi sufficienter fuit 
-      <lb ed="#P" n="25"/>approbata, &amp; confirmata, &amp; super eandem  
-      <lb ed="#P" n="26"/>fidem Ecclesia firmiter stabilita. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e558">
-               <lb ed="#P" n="27"/>Quapropter si obiicietur, quod talis
-      mis<lb ed="#P" n="28" break="no"/>sio visibilis debuerit fieri etiam beatae virgi 
-      <lb ed="#P" n="29"/>ni, quia in ea fuit gratiae plenitudo. Dicitur 
-      <lb ed="#P" n="30"/>communiter, quod quamuis in ea esset
-      gra<lb ed="#P" n="31" break="no"/>tiae plenitudo, quia tamen non erat in statu 
-      <lb ed="#P" n="32"/>docentis, &amp; Sacramenta exhibentis, ita vt p 
-      <lb ed="#P" n="33"/>doctrinam, &amp; Sacramentorum exhibitionem 
-      <lb ed="#P" n="34"/>posset gratiam in alios transfundere; lccirco 
-      <lb ed="#P" n="35"/>non debuit sibi talis missio fieri; ex speciali 
-      <lb ed="#P" n="36"/>tamen priuilegio creditur, quod in die
-      San<lb ed="#P" n="37" break="no"/>cto Pentecostes receperit Spiritum Sanctum 
-      <lb ed="#P" n="38"/>in signo visibili, sicut omnes Apostoli. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e587">
-               <lb ed="#P" n="39"/>Si autem vlterius obiiciatur, quod talis 
-      <lb ed="#P" n="40"/>t missio fuerit facta Patribus veteris
-      testamen<lb ed="#P" n="41" break="no"/>ri; quia de multis legitur, Deum eis
-      appa<lb ed="#P" n="42" break="no"/>ruisse etiam in signo visibili, vt patet de Mov 
-      <lb ed="#P" n="43"/>se, de quo legitur Exodi 30. quod Deus ei 
-      <lb ed="#P" n="44"/>locutus est de medio rubi; Dicendum est de 
-      <lb ed="#P" n="45"/>omnibus talibus apparitionibus, quod Deus 
-      <lb ed="#P" n="46"/>eis apparuit, &amp; locutus est per subiectam crea 
-      <lb ed="#P" n="47"/>turam scilicet per Angelos, sicut patet per 
-      <lb ed="#P" n="48"/>
-               <ref xml:id="gsX5tY-d1e577-Rd1e610">P. Aug. 3. de Trinit. cap. vltimo</ref>, &amp; de 2. haec 
-      <lb ed="#P" n="49"/>sufficiant. 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e617">
-               <lb ed="#P" n="50"/>ARTICVLVS TERTIVS. 
-      <lb ed="#P" n="51"/>Vtrum illae species in quibus apparuit Spi- 
-      <lb ed="#P" n="52"/>ritus S. fuerint verae res
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e627">
-      <!--396.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 371 b -->
-               <lb ed="#P" n="53"/>D hoc est dicendum, quod aliquam
-      ta<lb ed="#P" n="54" break="no"/>lem speciem esse veram rem, potest in 
-      <lb ed="#P" n="55"/>telligi dupliciter; vno modo, quia non est 
-      <lb ed="#P" n="56"/>tantum secundum imaginationem, alio
-      mo<lb ed="#P" n="57" break="no"/>do quia non solum est vera res corporalis, sed  
-      <lb ed="#P" n="58"/>etiam est illius naturae, &amp; illius speciei, cuius 
-      <lb ed="#P" n="59"/>apparet: si primo modo intelligatur, sic
-      di<lb ed="#P" n="60" break="no"/>co, quod de aliqua specie non est dubium 
-      <lb ed="#P" n="61"/>quod fuerit vera res corporalis extra
-      imagi<lb ed="#P" n="62" break="no"/>nationem, sicut patet de illa columba, quae 
-      <lb ed="#P" n="63"/>apparuit super Christum baptixatum: nam  
-      <lb ed="#P" n="64"/>textus Euangelij expresse dicit quod descen 
-      <lb ed="#P" n="65"/>dit corporali specie, sicut columba: De illis 
-      <lb ed="#P" n="66"/>tamen linguis igneis dubium est, vtrum fuc 
-      <lb ed="#P" n="67"/>rit res corporales, vel species imaginariae; At 
-      <lb ed="#P" n="68"/>de hoc dubitat <ref xml:id="gsX5tY-d1e577-Rd1e670">August. 2. de Trinit. cap. 8. de 
-      <lb ed="#P" n="69"/>Magis</ref>, &amp; mouet quaestionem super hoc, quam 
-      <lb ed="#P" n="70"/>dimittit insolutam: Videtur tamen magis sen 
-      <lb ed="#P" n="71"/>tire, quod fuerint solum species imaginariae,  
-      <lb ed="#P" n="72"/>quod probat ex modo loquendi Scripturae: 
-      <lb ed="#P" n="73"/>Dicit enim <ref xml:id="gsX5tY-d1e577-Rd1e684">textus Sacri Canonis</ref>, sicut
-      pa<lb ed="#P" n="74" break="no"/>tet <ref xml:id="gsX5tY-d1e577-Rd1e689">actuum 3</ref>. quod <quote xml:id="gsX5tY-d1e577-Qd1e692" source="http://scta.info/resource/act2_3" synch="2-7">apparuerunt illis 
-      disper<lb ed="#P" n="75" break="no"/>titae linguae tanquam ignis</quote>; de quo apparet,  
-      <lb ed="#P" n="76"/>quod est vera res extra imaginationem; &amp; con 
-      <lb ed="#P" n="77"/>stat sic esse; nam consueuimus dicere, quod 
-      <lb ed="#P" n="78"/>illud, quod sic apparet, sic est. Et quamuis 
-      <lb ed="#P" n="79"/>de facto sit dubium, vtrum sic, vel sic fuerit,  
-      <lb ed="#P" n="80"/>de possibili tamen nullum est dubium, quod 
-      <lb ed="#P" n="81"/>vtroque modo potuerit esse; potuit namque es- 
-      <lb ed="#P" n="82"/>se, quod fuerint verae res corporales; &amp; po 
-      <lb ed="#P" n="83"/>tuit esse, quod fuerint solum secundum ima 
-      <lb ed="#P" n="84"/>ginationem: &amp; ita patet quid sit dicendum 
-      <lb ed="#P" n="85"/>quantum ad primam intellectionem
-      quae<lb ed="#P" n="86" break="no"/>siti 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e722">
-               <lb ed="#P" n="87"/>Si autem intelligatur secundo modo, vtrum 
-      <lb ed="#P" n="88"/>fuerint illius naturae, &amp; illius speciei, cuius 
-      <lb ed="#P" n="89"/>apparebant, Dicendum est, quod iste intelle 
-      <lb ed="#P" n="90"/>ctus non habet locum, nisi quantum ad illas 
-      <lb ed="#P" n="91"/>species, quae fuerant verae res corporales ex 
-      <lb ed="#P" n="92"/>tra imaginationem, &amp; ideo dubium est de 
-      <lb ed="#P" n="93"/>illa columba, quae apparuit super Christum; 
-      <lb ed="#P" n="94"/>vtrum fuerit illius naturae, &amp; speciei cuius 
-      <lb ed="#P" n="95"/>apparebat, &amp; quibusdam videtur, quod sic 
-      <lb ed="#P" n="96"/>quibusdam vero quod non, propter duo: Pri 
-      <lb ed="#P" n="97"/>mo, quia sic dicendo exhibemus illi
-      appari<lb ed="#P" n="98" break="no"/>tioni maiorem reuerentiam: nam valde
-      in<lb ed="#P" n="99" break="no"/>decens videretur, quod illa columba semp 
-      <lb ed="#P" n="100"/>vixisset, vel mortua fuisset more aliorum ani 
-      <lb ed="#P" n="101"/>malium, sicut oporteret dicere, si vera colum 
-      <lb ed="#P" n="102"/>ba fuisset 
-    </p>
-            <p xml:id="gsX5tY-d1e577-d1e759">
-               <lb ed="#P" n="103"/>Secundo, quia si dicamus, quod non fuit 
-      <lb ed="#P" n="104"/>vera res, sed similitudo eius ostensa in
-      alie<lb ed="#P" n="105" break="no"/>na materia; congruentiori modo saluamus 
-      <lb ed="#P" n="106"/>suam significationem, quod patet, quia tunc 
-      <lb ed="#P" n="107"/>magis miraculosa fuit talis apparitio: Ideo si 
-      <lb ed="#P" n="108"/>fuisset vera columba, non apparuisset ita mi 
-      <lb ed="#P" n="109"/>raculum, sed forsitan creditum fuisset, quod 
-      <!--397.xml-->
-      <pb ed="#P" n="372"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>a casu sic aduenisset, &amp; a casu recessisset, &amp; 
-      <lb ed="#P" n="2"/>ideo melius est dicere, quod fuerit materia 
-      <lb ed="#P" n="3"/>alterius corporis affectata figura, &amp; acciden 
-      <lb ed="#P" n="4"/>tibus verae columbae: &amp; haec pro praesenti di 
-      <lb ed="#P" n="5"/>stinctione. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="369"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e577"> <!-- l1d16q1 -->
+        <head xml:id="gsX5tY-d1e577-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e577-Hd1e112" type="question-title">Utrum in divinis sit missio visibilis</head>
+        <p xml:id="gsX5tY-d1e577-d1e115">
+          <lb ed="#P" n="72"/>DISTINCTIONIS XVI. 
+          <lb ed="#P" n="73"/>QVAESTIO VNICA 
+          <lb ed="#P" n="74"/>An in diuinis sit missio visibilis.
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e124">
+          <lb ed="#P" n="75"/>Espondeo huic quaestioni sine
+          argu<lb ed="#P" n="76" break="no"/>mentis; Pro cuius explicatione tria 
+          <lb ed="#P" n="77"/>sunt consideranda 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e134">
+          <lb ed="#P" n="78"/>Quid sit missio visibilis, &amp; quomodo 
+          <lb ed="#P" n="79"/>differat a missione Spiritus Sancti. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e141">
+          <lb ed="#P" n="80"/>Quibus personis, &amp; quo tempore fieri 
+          <lb ed="#P" n="81"/>debuit missio visibilis Spiritus Sancti. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e148">
+          <lb ed="#P" n="82"/>An speties illae, in quibus Spiritus San 
+          <lb ed="#P" n="83"/>ctus inuisibiliter apparuit, fuerint verae res 
+          <lb ed="#P" n="84"/>sicut apparebant. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e157">
+          <lb ed="#P" n="85"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="86"/>Quid sit missio visibilis, &amp; quomodo differat 
+          <lb ed="#P" n="87"/>a missione Spiritu Sancti.
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e166">
+          <lb ed="#P" n="88"/>QVantum ad hoc est intelligendum, quod 
+          <lb ed="#P" n="89"/>missio visibilis supponit, &amp; includit 
+          <lb ed="#P" n="90"/>missionem simpliciter, de qua
+          supe<lb ed="#P" n="91" break="no"/>rius est determinatum, &amp; ideo totum, quoc 
+          <lb ed="#P" n="92"/>est de ratione missionis simpliciter, est etiam 
+          <lb ed="#P" n="93"/>de ratione missionis visibilis, quia tamen
+          mis<lb ed="#P" n="94" break="no"/>sio visibilis, se habet ad missionem simplici 
+          <lb ed="#P" n="95"/>ter, quae fit modo inuisibili, sicut speciale ad  
+          <lb ed="#P" n="96"/>commune: ldcirco differt ab illa in duobus, 
+          <lb ed="#P" n="97"/>in quibus se habet per additionem ad eam. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e190">
+          <lb ed="#P" n="98"/>Primo differt quantum ad modum sancti 
+          <lb ed="#P" n="99"/>ficationis: nam quamuis per vtranque
+          mis<lb ed="#P" n="100" break="no"/>sionem contineatur sanctificatio, in alio
+          ta<lb ed="#P" n="101" break="no"/>men gradu obtinetur per missionem inuisibi 
+          <lb ed="#P" n="102"/>em, &amp; in alio gradu per visibilem: quod
+          pa<lb ed="#P" n="103" break="no"/>tet, nam per missionem simpliciter inuisibilem 
+          <lb ed="#P" n="104"/>obtinetur gratia sanctificans in gradum
+          suffi<lb ed="#P" n="105" break="no"/>ciente, solum quantum ad illam personam 
+          <!--395.xml-->
+          <pb ed="#P" n="370"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>cui fit talis missio, per missionem vero visibi 
+          <lb ed="#P" n="2"/>lem obtinetur gratia sanctificans in gradum su 
+          <lb ed="#P" n="3"/>pereffluenti, ita vt non solum sufficiat quam 
+          <lb ed="#P" n="4"/>tum ad illum cui fit talis missio, sed etiam su 
+          <lb ed="#P" n="5"/>perabundet, ex eoqe in alios redeundet. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e228">
+          <lb ed="#P" n="6"/>Secundo differunt, quia missio visibilis su 
+          <lb ed="#P" n="7"/>per missionem simpliciter addit aliquam spe 
+          <lb ed="#P" n="8"/>ciem visibilem exterius demonstratam, quae 
+          <lb ed="#P" n="9"/>quidem species significat, &amp; representat mis 
+          <lb ed="#P" n="10"/>sionem inuisibilem diuinae personae interius 
+          <lb ed="#P" n="11"/>asistentis, &amp; causantis gratiam sanctificantem. 
+          <lb ed="#P" n="12"/>&amp; hinc est, quod diuina persona quando mit 
+          <lb ed="#P" n="13"/>titur hoc modo, dicitur in tali specle
+          visibili<lb ed="#P" n="14" break="no"/>ter apparere, quemadmodum dictum est de 
+          <lb ed="#P" n="15"/>Spiritu Sancto, quod apparuit super
+          Chri<lb ed="#P" n="16" break="no"/>stum haptixatum in specie columbae, &amp;
+          su<lb ed="#P" n="17" break="no"/>per Apostolos in linguis igneis. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e257">
+          <lb ed="#P" n="18"/>Et ideo si quaeratur, quot modis differat 
+          <lb ed="#P" n="19"/>missio visibilis filij a missione visibili
+          Spiri<lb ed="#P" n="20" break="no"/>tus Sancti, potest dici, quod quatuor modis 
+          <lb ed="#P" n="21"/>differunt.
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e268">
+          <lb ed="#P" n="22"/>Primo, quia natura humana, in qua
+          ap<lb ed="#P" n="23" break="no"/>paruit filius, fuit vera natura, &amp; eiusdem spe 
+          <lb ed="#P" n="24"/>ciei cum nostra in qua apparuit: natura aut 
+          <lb ed="#P" n="25"/>visibilis, in qua apparuit Spiritus Sactus, non 
+          <lb ed="#P" n="26"/>est necesse dicere, quod fuerit vera natura, 
+          <lb ed="#P" n="27"/>sicut apparuit, nam saltem de linguis igneis 
+          <lb ed="#P" n="28"/>tenetur magis communiter, quod non
+          fue<lb ed="#P" n="29" break="no"/>rint verae res extra imaginationem, sicut
+          ap<lb ed="#P" n="30" break="no"/>paruerunt, sed solum species imaginariae: Ra 
+          <lb ed="#P" n="31"/>tio autem huius differentiae ex hoc desumi 
+          <lb ed="#P" n="32"/>potest, quod tales species solum erant ad
+          s<lb ed="#P" n="33" break="no"/>onificandum, quae quidem significatio pot 
+          <lb ed="#P" n="34"/>haberi per solas species imaginarias; sed
+          il<lb ed="#P" n="35" break="no"/>la humana natura in qua apparuit filius, fuit 
+          <lb ed="#P" n="36"/>ordinata ad faciendum opus nostrae
+          redem<lb ed="#P" n="37" break="no"/>ptionis, quod non potuit congrue fieri nisi 
+          <lb ed="#P" n="38"/>per verum hominem 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e307">
+          <lb ed="#P" n="39"/>Secundo differunt, quia natura, in qua fi 
+          <lb ed="#P" n="40"/>lius apparuit, fuit rationalis; illa vero in 
+          <lb ed="#P" n="41"/>qua apparuit Spiritus Sanctus, fuit
+          irra<lb ed="#P" n="42" break="no"/>tionalis: Ratio autem huius potest assignari 
+          <lb ed="#P" n="43"/>eadem, quae nunc supra dicta est, &amp; etiam 
+          <lb ed="#P" n="44"/>multae aliae, de quibus non curo ad praesens 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e323">
+          <lb ed="#P" n="45"/>Tertio differunt, quia natura in qua
+          ap<lb ed="#P" n="46" break="no"/>paruit filius fuit assumpta ad personalitatem 
+          <lb ed="#P" n="47"/>ipsius, natura autem a Spiritu Sancto assum 
+          <lb ed="#P" n="48"/>pta, minime, Cuius ro est, quia Dei filius de 
+          <lb ed="#P" n="49"/>buit esse mediator Dei, &amp; hominum, propter 
+          <lb ed="#P" n="50"/>quod decuit, quod in vna, &amp; eadem persona 
+          <lb ed="#P" n="51"/>esset verus Deus, &amp; verus homo, alioquin  
+          <lb ed="#P" n="52"/>non participasset cum extremis; &amp; per con 
+          <lb ed="#P" n="53"/>sequens non fuisset verus mediator: opor. 
+          <lb ed="#P" n="54"/>tuit ergo, quod illa natura assumeretur ad 
+          <lb ed="#P" n="55"/>eius personalitatem, quod non habet locum 
+          <lb ed="#P" n="56"/>in apparitione Spiritus Sancti. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e352">
+          <lb ed="#P" n="57"/>Quarto differunt, quia filius solum semel 
+          <!--395.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 370 b -->
+          <lb ed="#P" n="58"/>apparuit visibilis in natura passibili; Spiritus 
+          <lb ed="#P" n="59"/>autem Sanctus apparumt pluribus vicibus vi: 
+          <lb ed="#P" n="60"/>sibiliter: nam super Christum baptixatum 
+          <lb ed="#P" n="61"/>apparuit in specie eolumbae, in specie nubis 
+          <lb ed="#P" n="62"/>lucidae super eundem in transfiguratione; su 
+          <lb ed="#P" n="63"/>per Apostolos vero in linguis igneis: Ratio 
+          <lb ed="#P" n="64"/>autem huius differentiae ex hoc sumi potest: 
+          <lb ed="#P" n="65"/>Quod opus nostrae redemptionis, ad quod 
+          <lb ed="#P" n="66"/>fuit ordinata apparitio Christi in carne,
+          suf<lb ed="#P" n="67" break="no"/>ficienter fuit expleta per illam vnicam
+          appa<lb ed="#P" n="68" break="no"/>ritionem sicut &amp; per vnicam ipsius passionem; 
+          <lb ed="#P" n="69"/>sanctificatio vero, ad quam fuit ordinata ap 
+          <lb ed="#P" n="70"/>paritio Spiritus Sancti, non fuit vna tantum; 
+          <lb ed="#P" n="71"/>Propter quod nec etiam potuit ita sufficien 
+          <lb ed="#P" n="72"/>ter fieri per vnam tantum apparitionem: &amp; 
+          <lb ed="#P" n="73"/>ideo decuit, quod appareret pluribus
+          vici<lb ed="#P" n="74" break="no"/>bus; &amp; haec dicta sufficiant.
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e401">
+          <lb ed="#P" n="75"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="76"/>Vtrum missio visibilis Spiritus Sancti debue 
+          <lb ed="#P" n="77"/>rit fieri quolibet tempore, &amp;
+          quibus<lb ed="#P" n="78" break="no"/>cunque personis.
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e412">
+          <lb ed="#P" n="79"/>AD hoc est dicendum, quod non debuit 
+          <lb ed="#P" n="80"/>fieri quocunque tempore, &amp;
+          quibus<lb ed="#P" n="81" break="no"/>cunque personis :; non enim ante Christi adue 
+          <lb ed="#P" n="82"/>tum debuit fieri; quia vt dictum est, talis 
+          <lb ed="#P" n="83"/>missio visibilis significat in eo cui fit plenitu 
+          <lb ed="#P" n="84"/>dinem gratiae potentis in alios redundare; 
+          <lb ed="#P" n="85"/>haec autem plenitudo non potuit obtineri ante 
+          <lb ed="#P" n="86"/>Christi aduentum: quia tempus
+          plenitudi<lb ed="#P" n="87" break="no"/>nis incaepit post Christi aduentum, secundum 
+          <lb ed="#P" n="88"/>illud <ref xml:id="gsX5tY-d1e577-Rd1e435" target="http://scta.info/resource/eph4_4@4-5">Apost. ad Galat. 4.</ref> At vbi venit pleni 
+          <lb ed="#P" n="89"/>tudo temporis: &amp; ideo debuit fieri solum
+          ten<lb ed="#P" n="90" break="no"/>pore Christi, &amp; Apostolorum: quia tunc 
+          <lb ed="#P" n="91"/>temporis indigebat Ecclesia fundari, &amp; 
+          mul<lb ed="#P" n="92" break="no"/>tiplicari in fide Christi; cuius multiplicatio, 
+          <lb ed="#P" n="93"/>&amp; fundatio multum ex talibus missionibus 
+          <lb ed="#P" n="94"/>visibilibus dependebat, maxime cum tales 
+          <lb ed="#P" n="95"/>missiones fierent propter populum astantem 
+          <lb ed="#P" n="96"/>vt facilius conuerteretur per doctrinam, &amp; 
+          <lb ed="#P" n="97"/>praedicationem illorum, quibus tales
+          missio<lb ed="#P" n="98" break="no"/>nes fiebant, &amp; ista videtur esse intentio
+          <ref xml:id="gsX5tY-d1e577-Rd1e460" corresp="#gsX5tY-d1e577-Qd1e468">Au<lb ed="#P" n="99" break="no"/>gust. 2. de Trin cap. ij.</ref> vbi dicit, quod tales 
+          <lb ed="#P" n="100"/>missiones visibiles fuerunt, <quote xml:id="gsX5tY-d1e577-Qd1e468" source="http://scta.info/resource/adt-l2-d1e226" synch="128-143">vt exterioribus 
+            <lb ed="#P" n="101"/>visis, hominum corda commota a
+            tempora<lb ed="#P" n="102" break="no"/>li manifestatione venientis, ad ocultam
+            aeter<lb ed="#P" n="103" break="no"/>nitatis semper praesentis conuerterentur</quote>: ex 
+          <lb ed="#P" n="104"/>quo immediate apparet, quod tales
+          missio<lb ed="#P" n="105" break="no"/>nes non debent fieri modo, quia ecclesia 
+          <lb ed="#P" n="106"/>fuit sufficienter fundata per doctrinam Chri 
+          <lb ed="#P" n="107"/>sti, &amp; Apostolorum, quorum doctrina fuit 
+          <lb ed="#P" n="108"/>per signa euidentia probata, propter quod 
+          <lb ed="#P" n="109"/>non debemus quaerere vlteriorem
+          probatio<lb ed="#P" n="110" break="no"/>nem nostrae fidei; nec vlterius indigemus, 
+          <!--396.xml-->
+          <pb ed="#P" n="371"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quod fiant tales missiones visibiles: Patet 
+          <lb ed="#P" n="2"/>ergo quod missio visibilis non debuit fieri 
+          <lb ed="#P" n="3"/>quocunque tempore 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e506">
+          <lb ed="#P" n="4"/>Vlterius dico, quod non debuit fieri qui 
+          <lb ed="#P" n="5"/>buscunque personis; &amp; hoc satis habetur ex 
+          <lb ed="#P" n="6"/>dictis: nam dictum est supra, quod talis mis 
+          <lb ed="#P" n="7"/>sio fit ad significandum tantam esse plenitu 
+          <lb ed="#P" n="8"/>dinem gratiae in eo cui fit, vt posset ex eo in 
+          <lb ed="#P" n="9"/>alios redundare: Propterea simpliciter
+          de<lb ed="#P" n="10" break="no"/>buit fieri Christo tanquam fundamento, 
+          <lb ed="#P" n="11"/>capiti Ecclesiae, a quo debebat gratia in om- 
+          <lb ed="#P" n="12"/>nes alios deriuare: Deinde debuit fieri ipsis 
+          <lb ed="#P" n="13"/>Apostolis, ad quos spectabat Ecclesiam con 
+          <lb ed="#P" n="14"/>struere super summo angulari lapide
+          Chri<lb ed="#P" n="15" break="no"/>sto lesu, &amp; ideo decuit vt eorum doctrina, 
+          <lb ed="#P" n="16"/>&amp; praedicatio per tales missiones visibiles
+          re<lb ed="#P" n="17" break="no"/>ciperet firmitatem, siquidem per eorum
+          do<lb ed="#P" n="18" break="no"/>ctrinam, &amp; praedicationem debebat fides Chri 
+          <lb ed="#P" n="19"/>sti confirmari, &amp; multiplicari, &amp; per conse 
+          <lb ed="#P" n="20"/>quens eis mediantibus debebat gratia aChri 
+          <lb ed="#P" n="21"/>sto capite in omnes alios descendere. Post 
+          <lb ed="#P" n="22"/>Apostolos vero non decuit, tales missiones 
+          <lb ed="#P" n="23"/>visibiles fieri alicui alteri; quia per doctrinam 
+          <lb ed="#P" n="24"/>Apostolorum fides Christi sufficienter fuit 
+          <lb ed="#P" n="25"/>approbata, &amp; confirmata, &amp; super eandem  
+          <lb ed="#P" n="26"/>fidem Ecclesia firmiter stabilita. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e558">
+          <lb ed="#P" n="27"/>Quapropter si obiicietur, quod talis
+          mis<lb ed="#P" n="28" break="no"/>sio visibilis debuerit fieri etiam beatae virgi 
+          <lb ed="#P" n="29"/>ni, quia in ea fuit gratiae plenitudo. Dicitur 
+          <lb ed="#P" n="30"/>communiter, quod quamuis in ea esset
+          gra<lb ed="#P" n="31" break="no"/>tiae plenitudo, quia tamen non erat in statu 
+          <lb ed="#P" n="32"/>docentis, &amp; Sacramenta exhibentis, ita vt p 
+          <lb ed="#P" n="33"/>doctrinam, &amp; Sacramentorum exhibitionem 
+          <lb ed="#P" n="34"/>posset gratiam in alios transfundere; lccirco 
+          <lb ed="#P" n="35"/>non debuit sibi talis missio fieri; ex speciali 
+          <lb ed="#P" n="36"/>tamen priuilegio creditur, quod in die
+          San<lb ed="#P" n="37" break="no"/>cto Pentecostes receperit Spiritum Sanctum 
+          <lb ed="#P" n="38"/>in signo visibili, sicut omnes Apostoli. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e587">
+          <lb ed="#P" n="39"/>Si autem vlterius obiiciatur, quod talis 
+          <lb ed="#P" n="40"/>t missio fuerit facta Patribus veteris
+          testamen<lb ed="#P" n="41" break="no"/>ri; quia de multis legitur, Deum eis
+          appa<lb ed="#P" n="42" break="no"/>ruisse etiam in signo visibili, vt patet de Mov 
+          <lb ed="#P" n="43"/>se, de quo legitur Exodi 30. quod Deus ei 
+          <lb ed="#P" n="44"/>locutus est de medio rubi; Dicendum est de 
+          <lb ed="#P" n="45"/>omnibus talibus apparitionibus, quod Deus 
+          <lb ed="#P" n="46"/>eis apparuit, &amp; locutus est per subiectam crea 
+          <lb ed="#P" n="47"/>turam scilicet per Angelos, sicut patet per 
+          <lb ed="#P" n="48"/>
+          <ref xml:id="gsX5tY-d1e577-Rd1e610">P. Aug. 3. de Trinit. cap. vltimo</ref>, &amp; de 2. haec 
+          <lb ed="#P" n="49"/>sufficiant. 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e617">
+          <lb ed="#P" n="50"/>ARTICVLVS TERTIVS. 
+          <lb ed="#P" n="51"/>Vtrum illae species in quibus apparuit Spi- 
+          <lb ed="#P" n="52"/>ritus S. fuerint verae res
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e627">
+          <!--396.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 371 b -->
+          <lb ed="#P" n="53"/>D hoc est dicendum, quod aliquam
+          ta<lb ed="#P" n="54" break="no"/>lem speciem esse veram rem, potest in 
+          <lb ed="#P" n="55"/>telligi dupliciter; vno modo, quia non est 
+          <lb ed="#P" n="56"/>tantum secundum imaginationem, alio
+          mo<lb ed="#P" n="57" break="no"/>do quia non solum est vera res corporalis, sed  
+          <lb ed="#P" n="58"/>etiam est illius naturae, &amp; illius speciei, cuius 
+          <lb ed="#P" n="59"/>apparet: si primo modo intelligatur, sic
+          di<lb ed="#P" n="60" break="no"/>co, quod de aliqua specie non est dubium 
+          <lb ed="#P" n="61"/>quod fuerit vera res corporalis extra
+          imagi<lb ed="#P" n="62" break="no"/>nationem, sicut patet de illa columba, quae 
+          <lb ed="#P" n="63"/>apparuit super Christum baptixatum: nam  
+          <lb ed="#P" n="64"/>textus Euangelij expresse dicit quod descen 
+          <lb ed="#P" n="65"/>dit corporali specie, sicut columba: De illis 
+          <lb ed="#P" n="66"/>tamen linguis igneis dubium est, vtrum fuc 
+          <lb ed="#P" n="67"/>rit res corporales, vel species imaginariae; At 
+          <lb ed="#P" n="68"/>de hoc dubitat <ref xml:id="gsX5tY-d1e577-Rd1e670">August. 2. de Trinit. cap. 8. de 
+            <lb ed="#P" n="69"/>Magis</ref>, &amp; mouet quaestionem super hoc, quam 
+          <lb ed="#P" n="70"/>dimittit insolutam: Videtur tamen magis sen 
+          <lb ed="#P" n="71"/>tire, quod fuerint solum species imaginariae,  
+          <lb ed="#P" n="72"/>quod probat ex modo loquendi Scripturae: 
+          <lb ed="#P" n="73"/>Dicit enim <ref xml:id="gsX5tY-d1e577-Rd1e684">textus Sacri Canonis</ref>, sicut
+          pa<lb ed="#P" n="74" break="no"/>tet <ref xml:id="gsX5tY-d1e577-Rd1e689">actuum 3</ref>. quod <quote xml:id="gsX5tY-d1e577-Qd1e692" source="http://scta.info/resource/act2_3" synch="2-7">apparuerunt illis 
+            disper<lb ed="#P" n="75" break="no"/>titae linguae tanquam ignis</quote>; de quo apparet,  
+          <lb ed="#P" n="76"/>quod est vera res extra imaginationem; &amp; con 
+          <lb ed="#P" n="77"/>stat sic esse; nam consueuimus dicere, quod 
+          <lb ed="#P" n="78"/>illud, quod sic apparet, sic est. Et quamuis 
+          <lb ed="#P" n="79"/>de facto sit dubium, vtrum sic, vel sic fuerit,  
+          <lb ed="#P" n="80"/>de possibili tamen nullum est dubium, quod 
+          <lb ed="#P" n="81"/>vtroque modo potuerit esse; potuit namque es- 
+          <lb ed="#P" n="82"/>se, quod fuerint verae res corporales; &amp; po 
+          <lb ed="#P" n="83"/>tuit esse, quod fuerint solum secundum ima 
+          <lb ed="#P" n="84"/>ginationem: &amp; ita patet quid sit dicendum 
+          <lb ed="#P" n="85"/>quantum ad primam intellectionem
+          quae<lb ed="#P" n="86" break="no"/>siti 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e722">
+          <lb ed="#P" n="87"/>Si autem intelligatur secundo modo, vtrum 
+          <lb ed="#P" n="88"/>fuerint illius naturae, &amp; illius speciei, cuius 
+          <lb ed="#P" n="89"/>apparebant, Dicendum est, quod iste intelle 
+          <lb ed="#P" n="90"/>ctus non habet locum, nisi quantum ad illas 
+          <lb ed="#P" n="91"/>species, quae fuerant verae res corporales ex 
+          <lb ed="#P" n="92"/>tra imaginationem, &amp; ideo dubium est de 
+          <lb ed="#P" n="93"/>illa columba, quae apparuit super Christum; 
+          <lb ed="#P" n="94"/>vtrum fuerit illius naturae, &amp; speciei cuius 
+          <lb ed="#P" n="95"/>apparebat, &amp; quibusdam videtur, quod sic 
+          <lb ed="#P" n="96"/>quibusdam vero quod non, propter duo: Pri 
+          <lb ed="#P" n="97"/>mo, quia sic dicendo exhibemus illi
+          appari<lb ed="#P" n="98" break="no"/>tioni maiorem reuerentiam: nam valde
+          in<lb ed="#P" n="99" break="no"/>decens videretur, quod illa columba semp 
+          <lb ed="#P" n="100"/>vixisset, vel mortua fuisset more aliorum ani 
+          <lb ed="#P" n="101"/>malium, sicut oporteret dicere, si vera colum 
+          <lb ed="#P" n="102"/>ba fuisset 
+        </p>
+        <p xml:id="gsX5tY-d1e577-d1e759">
+          <lb ed="#P" n="103"/>Secundo, quia si dicamus, quod non fuit 
+          <lb ed="#P" n="104"/>vera res, sed similitudo eius ostensa in
+          alie<lb ed="#P" n="105" break="no"/>na materia; congruentiori modo saluamus 
+          <lb ed="#P" n="106"/>suam significationem, quod patet, quia tunc 
+          <lb ed="#P" n="107"/>magis miraculosa fuit talis apparitio: Ideo si 
+          <lb ed="#P" n="108"/>fuisset vera columba, non apparuisset ita mi 
+          <lb ed="#P" n="109"/>raculum, sed forsitan creditum fuisset, quod 
+          <!--397.xml-->
+          <pb ed="#P" n="372"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>a casu sic aduenisset, &amp; a casu recessisset, &amp; 
+          <lb ed="#P" n="2"/>ideo melius est dicere, quod fuerit materia 
+          <lb ed="#P" n="3"/>alterius corporis affectata figura, &amp; acciden 
+          <lb ed="#P" n="4"/>tibus verae columbae: &amp; haec pro praesenti di 
+          <lb ed="#P" n="5"/>stinctione. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

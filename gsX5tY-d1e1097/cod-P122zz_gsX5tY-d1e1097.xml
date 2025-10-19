@@ -1,335 +1,335 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="585"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e1097"> <!-- l1d43q1 -->
-            <head xml:id="gsX5tY-d1e1097-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e1097-Hd1e112" type="question-title">Utrum Deus sit omnipotens.</head>
-            <p xml:id="gsX5tY-d1e1097-d1e115">
-               <lb ed="#P" n="28"/>DISTINCTIONIS SLII. 
-      <lb ed="#P" n="29"/>QUAESTIO VNICA 
-      <lb ed="#P" n="30"/>Vtrum Deus sit omnipotens 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e124">
-               <lb ed="#P" n="31"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="32"/>negatiua 
-      <lb ed="#P" n="33"/>SI Deus esset omnipotens haberet
-      po<lb ed="#P" n="34" break="no"/>tentiam infinitam, sed non videtur pos 
-      <lb ed="#P" n="35"/>sibile dari infinitam potentiam in Deo, quia 
-      <lb ed="#P" n="36"/>ista esset potentia actiua &amp; per consequens 
-      <lb ed="#P" n="37"/>oporteret dare passiuam sibi cor: espondente. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e143">
-               <lb ed="#P" n="38"/>2 Illud, quod agit ex necessitate naturae, 
-      <lb ed="#P" n="39"/>non habet rationem infinitam, Deus est
-      hu<lb ed="#P" n="40" break="no"/>iusmodi, ergo, &amp;c Maior videtur nota, quia 
-      <lb ed="#P" n="41"/>si agens ex necessitate naturae haberet poter 
-      <lb ed="#P" n="42"/>tiam infinitam ageret necessario effectum in 
-      <lb ed="#P" n="43"/>finitum. Minorem probo, quia quicquid con 
-      <lb ed="#P" n="44"/>petit Deo per suam naturam, competit ei ex 
-      <lb ed="#P" n="45"/>necessitate naturae, sed Deo combetit agere 
-      <lb ed="#P" n="46"/>per suam naturam, &amp; non per aliquod
-      ad<lb ed="#P" n="47" break="no"/>ditum, quia tunc illud faceret in eo
-      compo<lb ed="#P" n="48" break="no"/>sitionem, ergo. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e169">
-               <lb ed="#P" n="49"/>3 Illud, quod agit ex necessitate iustitiae. 
-      <!--610.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 585 b -->
-               <lb ed="#P" n="50"/>non videtur esse omnipotens, nec habere 
-      <lb ed="#P" n="51"/>potentiam infinitam, Deus est
-      huius<lb ed="#P" n="52" break="no"/>modi, ergo &amp;c. Maior videtur nota, quia de 
-      <lb ed="#P" n="53"/>ratione omnipotentiae est, quod nec
-      arcte<lb ed="#P" n="54" break="no"/>tur ad agendum, nec ad determinatum
-      mo<lb ed="#P" n="55" break="no"/>dum agendi; Minorem probo per illud 2 ad 
-      <lb ed="#P" n="56"/>Thimo. 2. vbi dicit Apostolus, quod Deus
-      se<lb ed="#P" n="57" break="no"/>ipsum negare non potest, negaret autem se 
-      <lb ed="#P" n="58"/>psum, si non ageret secundum iustitiam, cum 
-      <lb ed="#P" n="59"/>ipse sit sua iustitia; ergo agit ex necessitate 
-      <lb ed="#P" n="60"/>iustitiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e204">
-               <lb ed="#P" n="61"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="62"/>affirmatiua. 
-      <lb ed="#P" n="63"/>I1 IAbetur in svmbolo, Credo Patrem
-      o<lb ed="#P" n="64" break="no"/>mnipotentem, ergo est omnipotens.
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e215">
-               <lb ed="#P" n="65"/>2 D. Augustinus in de fide ad Petrum 
-      <lb ed="#P" n="66"/>dicit firmissime tene, &amp; nullatenus
-      dubi<lb ed="#P" n="67" break="no"/>tes Deum immensum esse virtute, non mole¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e224">
-               <lb ed="#P" n="68"/>RESPONDEO: In ista quaestione tria 
-      <lb ed="#P" n="69"/>sunt videnda 
-      <lb ed="#P" n="70"/>1 An Deus sit Omnipotens 
-      <lb ed="#P" n="71"/>2 An Deus agat ex necessitate naturae. 
-      <lb ed="#P" n="72"/>3 An agat ex necessitate lustitiae. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e237">
-               <lb ed="#P" n="73"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="74"/>Vtrum Deus sit omnipotens 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e245">
-               <lb ed="#P" n="75"/>D hunc articulum dico, quod eius di 
-      <lb ed="#P" n="76"/>se ssio magis pertinet ad secundum
-      li<lb ed="#P" n="77" break="no"/>brum, quam ad primum, &amp; ideo ad illum dif 
-      <lb ed="#P" n="78"/>feratur, qua propter praetermisso, vtrum ex 
-      <lb ed="#P" n="79"/>arte creationis possit demonstrari ipsum es 
-      <lb ed="#P" n="80"/>se infinitae virtutis in vigore, &amp; vtrum
-      de<lb ed="#P" n="81" break="no"/>monstratio Arist. in 8. phys: hoc concludat 
-      <lb ed="#P" n="82"/>necessario, ad praesens breuiter probo, quod 
-      <lb ed="#P" n="83"/>Deus habeat virtutem infinitam, &amp; per con 
-      <lb ed="#P" n="84"/>sequens, quod sit omnipotens, hoc autem 
-      <lb ed="#P" n="85"/>probo deducendo ad tria inconuenientia. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e271">
-               <lb ed="#P" n="86"/>Primum est quia sua virtus erit limitata 
-      <lb ed="#P" n="87"/>ad aliquod genus, quod est falsum, quia tune 
-      <lb ed="#P" n="88"/>Deus esset in genere, cuius oppositum fuit 
-      <lb ed="#P" n="89"/>ostensum in 8. dist. huius libri. Consequena 
-      <lb ed="#P" n="90"/>tiam probo, nam quodlibet genus, vel predi 
-      <lb ed="#P" n="91"/>camentum, non est aliud, quam quidam
-      gra<lb ed="#P" n="92" break="no"/>dus limitatus in natura entis: omne ergo, quod 
-      <lb ed="#P" n="93"/>importat aliquem gradum limitatum in natu 
-      <lb ed="#P" n="94"/>ra entis, necessario est in allquo genere, &amp;  
-      <lb ed="#P" n="95"/>prae dicamento. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e295">
-               <lb ed="#P" n="96"/>Secundum inconueniens est, quia posito 
-      <lb ed="#P" n="97"/>diuinam virtutem esse finitam, sequitur, quod 
-      <lb ed="#P" n="98"/>possit recipere additionem, saltem secundum 
-      <lb ed="#P" n="99"/>nostrum intellectum, Consequentia est
-      no<lb ed="#P" n="100" break="no"/>ta; Falsitas autem probatur, quia ibi non est 
-      <lb ed="#P" n="101"/>possibilis additio secundum nostrum intelle 
-      <lb ed="#P" n="102"/>ctum, vbi intellectus non potest attribuere 
-      <!--611.xml-->
-      <pb ed="#P" n="586"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>aliquem gradum potentialitatis in eo cui fit,  
-      <lb ed="#P" n="2"/>nunc autem intellectus noster non potest at 
-      <lb ed="#P" n="3"/>tribuere aliquem gradum potentialitatis
-      si<lb ed="#P" n="4" break="no"/>ne repugnantia, cum inueniat ipsum purum 
-      <lb ed="#P" n="5"/>actum, ergo non potest ei aliquid addere. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e330">
-               <lb ed="#P" n="6"/>Tertium inconueniens est, quia si virtui 
-      <lb ed="#P" n="7"/>esset motor appropriatus alicui orbi, cuius 
-      <lb ed="#P" n="8"/>diuina esset finita, non repugnaret ei, quod 
-      <lb ed="#P" n="9"/>oppositum fuit probatum superius in 8. dist. 
-      <lb ed="#P" n="10"/>&amp; est contra Com. 12. Metaph. c. 15. Conse 
-      <lb ed="#P" n="11"/>quentia etiam apparet, quia omni virtuti
-      fi<lb ed="#P" n="12" break="no"/>nitae, eo ipso quod finita est, non repugnat 
-      <lb ed="#P" n="13"/>habere proportionem determinatam ad
-      ali<lb ed="#P" n="14" break="no"/>quem orbeni, &amp; ex hoc poterit ei appropria 
-      <lb ed="#P" n="15"/>ri. Et ita concludo, quod si volumus vitare 
-      <lb ed="#P" n="16"/>ista inconuenientia, oportet nos concedere 
-      <lb ed="#P" n="17"/>Deum habere virtutem infinitam, &amp; per con 
-      <lb ed="#P" n="18"/>sequens esset omnipotentem, &amp; haec de praesen 
-      <lb ed="#P" n="19"/>ti articulo. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e363">
-               <lb ed="#P" n="20"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="21"/>Vtrum Deus agat ex necessitate naturae.
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e370">
-               <lb ed="#P" n="22"/>AD hoc simpliciter respondeo, quod 
-      <lb ed="#P" n="23"/>non, nam si ageret aliquid extra se ex 
-      <lb ed="#P" n="24"/>necessitate naturae, vel hoc esset quia ageret 
-      <lb ed="#P" n="25"/>ad modum agentis naturalis non praeuia ali 
-      <lb ed="#P" n="26"/>qua cognitione, &amp; volitione, vel hoc esset, 
-      <lb ed="#P" n="27"/>quia ageret ad modum agentis intellectualis 
-      <lb ed="#P" n="28"/>intelligentis, &amp; volentis necessario aliquid 
-      <lb ed="#P" n="29"/>extra se, sed neuter istorum modorum ess 
-      <lb ed="#P" n="30"/>possibilis poni, ergo. Maior videtur esse
-      no<lb ed="#P" n="31" break="no"/>ta, quia non potest intelligi, quod agat ex 
-      <lb ed="#P" n="32"/>necessitate naturae, nisi, vel illa necessitas 
-      <lb ed="#P" n="33"/>proueniat ex parte naturae diuinae, vt natu 
-      <lb ed="#P" n="34"/>ra est non praeuia aliqua cognitione, &amp; voli 
-      <lb ed="#P" n="35"/>tione, &amp; sic est primus modus, vel quia illa  
-      <lb ed="#P" n="36"/>necessitas prouenit ex parte diuinae volunta 
-      <lb ed="#P" n="37"/>tis necessario volentis aliquid extra se, &amp; sic 
-      <lb ed="#P" n="38"/>st secundus modus 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e410">
-               <lb ed="#P" n="39"/>Probo minorem quantum ad ambas
-      par<lb ed="#P" n="40" break="no"/>tes, &amp; primo quod non agat ex necessitate 
-      <lb ed="#P" n="41"/>naturae suae, vt natura est ad modum agentis 
-      <lb ed="#P" n="42"/>naturalis non praeuia aliqua cognitione, &amp;  
-      <lb ed="#P" n="43"/>volitione nam si ageret isto modo, sequeren 
-      <lb ed="#P" n="44"/>tur duo inconuenientia. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e426">
-               <lb ed="#P" n="45"/>Primum est, quia non contineret omnia 
-      <lb ed="#P" n="46"/>entia per modum artis, quod non solum ess 
-      <lb ed="#P" n="47"/>contra Sacram Scripturam, sed etiam
-      con<lb ed="#P" n="48" break="no"/>tra intentionem Philolophorum, &amp; maxime 
-      <lb ed="#P" n="49"/>Auer. qui voluit, quod Deus esset prima 
-      <lb ed="#P" n="50"/>forma exemplaris continens omnia entia per 
-      <lb ed="#P" n="51"/>modum artis, &amp; ideo dicit in 12.
-      Metaph<lb ed="#P" n="52" break="no"/>quod omnes formae, quae, sunt potentia in pri 
-      <!--611.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 586 b -->
-               <lb ed="#P" n="53"/>ma materia, sunt actu in primo motore, &amp;  
-      <lb ed="#P" n="54"/>assimilatur esse eius aliquo modo ei, quod est 
-      <lb ed="#P" n="55"/>in animo attificis. Consequentia apparet,  
-      <lb ed="#P" n="56"/>quia artifex nunquam producit aliquid, nisi 
-      <lb ed="#P" n="57"/>praeuia cognitione, &amp; volitione. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e463">
-               <lb ed="#P" n="58"/>Secundum inconueniens est, quia Deus 
-      <lb ed="#P" n="59"/>non esset primum agens, quod est falsum. 
-      <lb ed="#P" n="60"/>Probo consequentiam, quia semper agens 
-      <lb ed="#P" n="61"/>per naturam non praeuia cognitione,, &amp;
-      vo<lb ed="#P" n="62" break="no"/>litione reducitur ad agens per intellectum, 
-      <lb ed="#P" n="63"/>alioquin non ageret ordinate, nisi a casu, &amp;  
-      <lb ed="#P" n="64"/>sic patet Deum non agere ex necessitate
-      na<lb ed="#P" n="65" break="no"/>turae, non praeuia cognitione, &amp; volitione. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e483">
-               <lb ed="#P" n="66"/>Vlterius dico, quod non agit ex necessita 
-      <lb ed="#P" n="67"/>te naturae proueniente ex parte diuinae volum 
-      <lb ed="#P" n="68"/>tatis necessario volentis aliquid extta se, quia 
-      <lb ed="#P" n="69"/>tunc bonitas diuina non esset sufficiens sine 
-      <lb ed="#P" n="70"/>creaturis, quod non solum est contra Sacram 
-      <lb ed="#P" n="71"/>Scripturam, sed etiam contra philosophiam, 
-      <lb ed="#P" n="72"/>nam in primo Celi, &amp; mundi vult Aristo. quod 
-      <lb ed="#P" n="73"/>vita primae causae sit sufficientissima, &amp; nullo 
-      <lb ed="#P" n="74"/>indigens: Et haec satis. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e505">
-               <lb ed="#P" n="75"/>ARTICVLVS TERTIVS 
-      <lb ed="#P" n="76"/>Vtrum Deus agat ex necessitate iustitiae.  
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e512">
-               <lb ed="#P" n="77"/>ggsiti sien.  fr,i 
-      <lb ed="#P" n="78"/>test accipi dupliciter: Vquan 
-      <lb ed="#P" n="79"/>tum ad illud, quod ponit in Dec.modo 
-      <lb ed="#P" n="80"/>quantum ad illud, quod, ponit in ipia creatu 
-      <lb ed="#P" n="81"/>ra. Si loquamur de iustitia primo modo, non 
-      <lb ed="#P" n="82"/>est, dubium, quod ipsa est quid necessarium 
-      <lb ed="#P" n="83"/>quia totum, quod est in Deo, est necessarium, 
-      <lb ed="#P" n="84"/>&amp; ideo isto modo verum est dicere Deum 
-      <lb ed="#P" n="85"/>agere ex necessitate iustitiae, quia agir
-      secun<lb ed="#P" n="86" break="no"/>dum suam iustitiam, quae est quid necessarium, 
-      <lb ed="#P" n="87"/>Si vero loquamur de iustitia, quantum ad il 
-      <lb ed="#P" n="88"/>lud, quod ponit in creatura, sic ipsa non est 
-      <lb ed="#P" n="89"/>quid necessarium quia totum, quod in
-      erea<lb ed="#P" n="90" break="no"/>tura est, est quid contingens. Quapropter 
-      <lb ed="#P" n="91"/>nihil est in creatura ita iustum, quod necessi 
-      <lb ed="#P" n="92"/>tet eum ita ad hoc agendum, quin non
-      pos<lb ed="#P" n="93" break="no"/>sit : gere oppositum, nam totum, quod est in 
-      <lb ed="#P" n="94"/>crtatura ideo emt iustum, quia a Deo volitum, 
-      <lb ed="#P" n="95"/>&amp; non e ocuerso; si. n ideo aliquid esset a Deo 
-      <lb ed="#P" n="96"/>volitum qua emt iustu, tunc rectitudo diuinae vo 
-      <lb ed="#P" n="97"/>luntatis dependeret ab ipsa creatura, quod est 
-      <lb ed="#P" n="98"/>absurdum, &amp; ideo sicut faciendo id, quod 
-      <lb ed="#P" n="99"/>modo facit iuste; ita etiam, si aliud faceret, &amp; 
-      <lb ed="#P" n="100"/>isturi omitteret, faceret etiam iuste. Quapro 
-      <lb ed="#P" n="101"/>pter apparet immediate, quod non arctatur. 
-      <lb ed="#P" n="102"/>ex necessitate iustitiae ad faciendum hoc, ita 
-      <lb ed="#P" n="103"/>vt non possit facere aliud. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e574">
-               <lb ed="#P" n="104"/>Ex quibus omnibus apparet, quod tribus 
-      <!--612.xml-->
-      <pb ed="#P" n="587"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>modis potest intelligi Deum agere ex
-      neces<lb ed="#P" n="2" break="no"/>sitate iustitiae. Quorum duo videntur esse 
-      <lb ed="#P" n="3"/>veri, &amp; tertius falsus. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e592">
-               <lb ed="#P" n="4"/>Nam vno modo potest intelligi, quod Deus 
-      <lb ed="#P" n="5"/>agat ex necessitate iustitiae, quia agit
-      secun<lb ed="#P" n="6" break="no"/>dum suam iustitiam, quae est quid
-      necessa<lb ed="#P" n="7" break="no"/>rium, &amp; iste sensus est verus: alio modo vt 
-      <lb ed="#P" n="8"/>agat ex necessitate iustitiae, quia omne quod 
-      <lb ed="#P" n="9"/>agit, eo modo quo ipsum agit, necessario est 
-      <lb ed="#P" n="10"/>iustum, &amp; iste sensus etiam est verus, quia 
-      <lb ed="#P" n="11"/>non potest racere aliquid, quod non sit
-      iu<lb ed="#P" n="12" break="no"/>stum, eo ipso, quod ab eo est factum; Tertio 
-      <lb ed="#P" n="13"/>modo potest intelligi, quod agat ex
-      necessi<lb ed="#P" n="14" break="no"/>tate iustitiae, quia necessitatur sic ad hoc agen 
-      <lb ed="#P" n="15"/>dum, vt non possit agere aliud, nec alio
-      mo<lb ed="#P" n="16" break="no"/>do, &amp; iste sensus est falsus (vt patuit) &amp; sic 
-      <lb ed="#P" n="17"/>patet de isto articiilo, &amp; tota quaestione. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e625">
-               <lb ed="#P" n="18"/>AD RATIONES PRINCIPALES. 
-      <lb ed="#P" n="19"/>AD primam dicendum, quod non oportet 
-      <lb ed="#P" n="20"/>dare aliquam potentiam talem
-      passi<lb ed="#P" n="21" break="no"/>uam correspondentem, quia potentia actiua 
-      <lb ed="#P" n="22"/>Dei nullam talem potentiam praesupponit, 
-      <lb ed="#P" n="23"/>vt patet in praecedenti distinctione. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e641">
-               <lb ed="#P" n="24"/>Ad secundam dicendum, quod quamuis 
-      <lb ed="#P" n="25"/>voluntas sit idem, quod ipsa natura in Deo, 
-      <lb ed="#P" n="26"/>tamen differt ab ea secundum rationem, quae 
-      <lb ed="#P" n="27"/>quidem distinctio rationis aequipollet
-      distin<lb ed="#P" n="28" break="no"/>ctioni reali, quia non est similis ratio de
-      in<lb ed="#P" n="29" break="no"/>tellectu, &amp; volututate, &amp; alijs attributis (vt 
-      <lb ed="#P" n="30"/>patuit in 1s dist. huius libri. 
-    </p>
-            <p xml:id="gsX5tY-d1e1097-d1e659">
-               <lb ed="#P" n="31"/>Ad tertiam vero patet quid sit dicendum 
-      <lb ed="#P" n="32"/>per illud, quod no o dictum est in hoc
-      ar<lb ed="#P" n="33" break="no"/>ticulo. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="585"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e1097"> <!-- l1d43q1 -->
+        <head xml:id="gsX5tY-d1e1097-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e1097-Hd1e112" type="question-title">Utrum Deus sit omnipotens.</head>
+        <p xml:id="gsX5tY-d1e1097-d1e115">
+          <lb ed="#P" n="28"/>DISTINCTIONIS SLII. 
+          <lb ed="#P" n="29"/>QUAESTIO VNICA 
+          <lb ed="#P" n="30"/>Vtrum Deus sit omnipotens 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e124">
+          <lb ed="#P" n="31"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="32"/>negatiua 
+          <lb ed="#P" n="33"/>SI Deus esset omnipotens haberet
+          po<lb ed="#P" n="34" break="no"/>tentiam infinitam, sed non videtur pos 
+          <lb ed="#P" n="35"/>sibile dari infinitam potentiam in Deo, quia 
+          <lb ed="#P" n="36"/>ista esset potentia actiua &amp; per consequens 
+          <lb ed="#P" n="37"/>oporteret dare passiuam sibi cor: espondente. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e143">
+          <lb ed="#P" n="38"/>2 Illud, quod agit ex necessitate naturae, 
+          <lb ed="#P" n="39"/>non habet rationem infinitam, Deus est
+          hu<lb ed="#P" n="40" break="no"/>iusmodi, ergo, &amp;c Maior videtur nota, quia 
+          <lb ed="#P" n="41"/>si agens ex necessitate naturae haberet poter 
+          <lb ed="#P" n="42"/>tiam infinitam ageret necessario effectum in 
+          <lb ed="#P" n="43"/>finitum. Minorem probo, quia quicquid con 
+          <lb ed="#P" n="44"/>petit Deo per suam naturam, competit ei ex 
+          <lb ed="#P" n="45"/>necessitate naturae, sed Deo combetit agere 
+          <lb ed="#P" n="46"/>per suam naturam, &amp; non per aliquod
+          ad<lb ed="#P" n="47" break="no"/>ditum, quia tunc illud faceret in eo
+          compo<lb ed="#P" n="48" break="no"/>sitionem, ergo. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e169">
+          <lb ed="#P" n="49"/>3 Illud, quod agit ex necessitate iustitiae. 
+          <!--610.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 585 b -->
+          <lb ed="#P" n="50"/>non videtur esse omnipotens, nec habere 
+          <lb ed="#P" n="51"/>potentiam infinitam, Deus est
+          huius<lb ed="#P" n="52" break="no"/>modi, ergo &amp;c. Maior videtur nota, quia de 
+          <lb ed="#P" n="53"/>ratione omnipotentiae est, quod nec
+          arcte<lb ed="#P" n="54" break="no"/>tur ad agendum, nec ad determinatum
+          mo<lb ed="#P" n="55" break="no"/>dum agendi; Minorem probo per illud 2 ad 
+          <lb ed="#P" n="56"/>Thimo. 2. vbi dicit Apostolus, quod Deus
+          se<lb ed="#P" n="57" break="no"/>ipsum negare non potest, negaret autem se 
+          <lb ed="#P" n="58"/>psum, si non ageret secundum iustitiam, cum 
+          <lb ed="#P" n="59"/>ipse sit sua iustitia; ergo agit ex necessitate 
+          <lb ed="#P" n="60"/>iustitiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e204">
+          <lb ed="#P" n="61"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="62"/>affirmatiua. 
+          <lb ed="#P" n="63"/>I1 IAbetur in svmbolo, Credo Patrem
+          o<lb ed="#P" n="64" break="no"/>mnipotentem, ergo est omnipotens.
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e215">
+          <lb ed="#P" n="65"/>2 D. Augustinus in de fide ad Petrum 
+          <lb ed="#P" n="66"/>dicit firmissime tene, &amp; nullatenus
+          dubi<lb ed="#P" n="67" break="no"/>tes Deum immensum esse virtute, non mole¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e224">
+          <lb ed="#P" n="68"/>RESPONDEO: In ista quaestione tria 
+          <lb ed="#P" n="69"/>sunt videnda 
+          <lb ed="#P" n="70"/>1 An Deus sit Omnipotens 
+          <lb ed="#P" n="71"/>2 An Deus agat ex necessitate naturae. 
+          <lb ed="#P" n="72"/>3 An agat ex necessitate lustitiae. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e237">
+          <lb ed="#P" n="73"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="74"/>Vtrum Deus sit omnipotens 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e245">
+          <lb ed="#P" n="75"/>D hunc articulum dico, quod eius di 
+          <lb ed="#P" n="76"/>se ssio magis pertinet ad secundum
+          li<lb ed="#P" n="77" break="no"/>brum, quam ad primum, &amp; ideo ad illum dif 
+          <lb ed="#P" n="78"/>feratur, qua propter praetermisso, vtrum ex 
+          <lb ed="#P" n="79"/>arte creationis possit demonstrari ipsum es 
+          <lb ed="#P" n="80"/>se infinitae virtutis in vigore, &amp; vtrum
+          de<lb ed="#P" n="81" break="no"/>monstratio Arist. in 8. phys: hoc concludat 
+          <lb ed="#P" n="82"/>necessario, ad praesens breuiter probo, quod 
+          <lb ed="#P" n="83"/>Deus habeat virtutem infinitam, &amp; per con 
+          <lb ed="#P" n="84"/>sequens, quod sit omnipotens, hoc autem 
+          <lb ed="#P" n="85"/>probo deducendo ad tria inconuenientia. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e271">
+          <lb ed="#P" n="86"/>Primum est quia sua virtus erit limitata 
+          <lb ed="#P" n="87"/>ad aliquod genus, quod est falsum, quia tune 
+          <lb ed="#P" n="88"/>Deus esset in genere, cuius oppositum fuit 
+          <lb ed="#P" n="89"/>ostensum in 8. dist. huius libri. Consequena 
+          <lb ed="#P" n="90"/>tiam probo, nam quodlibet genus, vel predi 
+          <lb ed="#P" n="91"/>camentum, non est aliud, quam quidam
+          gra<lb ed="#P" n="92" break="no"/>dus limitatus in natura entis: omne ergo, quod 
+          <lb ed="#P" n="93"/>importat aliquem gradum limitatum in natu 
+          <lb ed="#P" n="94"/>ra entis, necessario est in allquo genere, &amp;  
+          <lb ed="#P" n="95"/>prae dicamento. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e295">
+          <lb ed="#P" n="96"/>Secundum inconueniens est, quia posito 
+          <lb ed="#P" n="97"/>diuinam virtutem esse finitam, sequitur, quod 
+          <lb ed="#P" n="98"/>possit recipere additionem, saltem secundum 
+          <lb ed="#P" n="99"/>nostrum intellectum, Consequentia est
+          no<lb ed="#P" n="100" break="no"/>ta; Falsitas autem probatur, quia ibi non est 
+          <lb ed="#P" n="101"/>possibilis additio secundum nostrum intelle 
+          <lb ed="#P" n="102"/>ctum, vbi intellectus non potest attribuere 
+          <!--611.xml-->
+          <pb ed="#P" n="586"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>aliquem gradum potentialitatis in eo cui fit,  
+          <lb ed="#P" n="2"/>nunc autem intellectus noster non potest at 
+          <lb ed="#P" n="3"/>tribuere aliquem gradum potentialitatis
+          si<lb ed="#P" n="4" break="no"/>ne repugnantia, cum inueniat ipsum purum 
+          <lb ed="#P" n="5"/>actum, ergo non potest ei aliquid addere. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e330">
+          <lb ed="#P" n="6"/>Tertium inconueniens est, quia si virtui 
+          <lb ed="#P" n="7"/>esset motor appropriatus alicui orbi, cuius 
+          <lb ed="#P" n="8"/>diuina esset finita, non repugnaret ei, quod 
+          <lb ed="#P" n="9"/>oppositum fuit probatum superius in 8. dist. 
+          <lb ed="#P" n="10"/>&amp; est contra Com. 12. Metaph. c. 15. Conse 
+          <lb ed="#P" n="11"/>quentia etiam apparet, quia omni virtuti
+          fi<lb ed="#P" n="12" break="no"/>nitae, eo ipso quod finita est, non repugnat 
+          <lb ed="#P" n="13"/>habere proportionem determinatam ad
+          ali<lb ed="#P" n="14" break="no"/>quem orbeni, &amp; ex hoc poterit ei appropria 
+          <lb ed="#P" n="15"/>ri. Et ita concludo, quod si volumus vitare 
+          <lb ed="#P" n="16"/>ista inconuenientia, oportet nos concedere 
+          <lb ed="#P" n="17"/>Deum habere virtutem infinitam, &amp; per con 
+          <lb ed="#P" n="18"/>sequens esset omnipotentem, &amp; haec de praesen 
+          <lb ed="#P" n="19"/>ti articulo. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e363">
+          <lb ed="#P" n="20"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="21"/>Vtrum Deus agat ex necessitate naturae.
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e370">
+          <lb ed="#P" n="22"/>AD hoc simpliciter respondeo, quod 
+          <lb ed="#P" n="23"/>non, nam si ageret aliquid extra se ex 
+          <lb ed="#P" n="24"/>necessitate naturae, vel hoc esset quia ageret 
+          <lb ed="#P" n="25"/>ad modum agentis naturalis non praeuia ali 
+          <lb ed="#P" n="26"/>qua cognitione, &amp; volitione, vel hoc esset, 
+          <lb ed="#P" n="27"/>quia ageret ad modum agentis intellectualis 
+          <lb ed="#P" n="28"/>intelligentis, &amp; volentis necessario aliquid 
+          <lb ed="#P" n="29"/>extra se, sed neuter istorum modorum ess 
+          <lb ed="#P" n="30"/>possibilis poni, ergo. Maior videtur esse
+          no<lb ed="#P" n="31" break="no"/>ta, quia non potest intelligi, quod agat ex 
+          <lb ed="#P" n="32"/>necessitate naturae, nisi, vel illa necessitas 
+          <lb ed="#P" n="33"/>proueniat ex parte naturae diuinae, vt natu 
+          <lb ed="#P" n="34"/>ra est non praeuia aliqua cognitione, &amp; voli 
+          <lb ed="#P" n="35"/>tione, &amp; sic est primus modus, vel quia illa  
+          <lb ed="#P" n="36"/>necessitas prouenit ex parte diuinae volunta 
+          <lb ed="#P" n="37"/>tis necessario volentis aliquid extra se, &amp; sic 
+          <lb ed="#P" n="38"/>st secundus modus 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e410">
+          <lb ed="#P" n="39"/>Probo minorem quantum ad ambas
+          par<lb ed="#P" n="40" break="no"/>tes, &amp; primo quod non agat ex necessitate 
+          <lb ed="#P" n="41"/>naturae suae, vt natura est ad modum agentis 
+          <lb ed="#P" n="42"/>naturalis non praeuia aliqua cognitione, &amp;  
+          <lb ed="#P" n="43"/>volitione nam si ageret isto modo, sequeren 
+          <lb ed="#P" n="44"/>tur duo inconuenientia. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e426">
+          <lb ed="#P" n="45"/>Primum est, quia non contineret omnia 
+          <lb ed="#P" n="46"/>entia per modum artis, quod non solum ess 
+          <lb ed="#P" n="47"/>contra Sacram Scripturam, sed etiam
+          con<lb ed="#P" n="48" break="no"/>tra intentionem Philolophorum, &amp; maxime 
+          <lb ed="#P" n="49"/>Auer. qui voluit, quod Deus esset prima 
+          <lb ed="#P" n="50"/>forma exemplaris continens omnia entia per 
+          <lb ed="#P" n="51"/>modum artis, &amp; ideo dicit in 12.
+          Metaph<lb ed="#P" n="52" break="no"/>quod omnes formae, quae, sunt potentia in pri 
+          <!--611.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 586 b -->
+          <lb ed="#P" n="53"/>ma materia, sunt actu in primo motore, &amp;  
+          <lb ed="#P" n="54"/>assimilatur esse eius aliquo modo ei, quod est 
+          <lb ed="#P" n="55"/>in animo attificis. Consequentia apparet,  
+          <lb ed="#P" n="56"/>quia artifex nunquam producit aliquid, nisi 
+          <lb ed="#P" n="57"/>praeuia cognitione, &amp; volitione. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e463">
+          <lb ed="#P" n="58"/>Secundum inconueniens est, quia Deus 
+          <lb ed="#P" n="59"/>non esset primum agens, quod est falsum. 
+          <lb ed="#P" n="60"/>Probo consequentiam, quia semper agens 
+          <lb ed="#P" n="61"/>per naturam non praeuia cognitione,, &amp;
+          vo<lb ed="#P" n="62" break="no"/>litione reducitur ad agens per intellectum, 
+          <lb ed="#P" n="63"/>alioquin non ageret ordinate, nisi a casu, &amp;  
+          <lb ed="#P" n="64"/>sic patet Deum non agere ex necessitate
+          na<lb ed="#P" n="65" break="no"/>turae, non praeuia cognitione, &amp; volitione. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e483">
+          <lb ed="#P" n="66"/>Vlterius dico, quod non agit ex necessita 
+          <lb ed="#P" n="67"/>te naturae proueniente ex parte diuinae volum 
+          <lb ed="#P" n="68"/>tatis necessario volentis aliquid extta se, quia 
+          <lb ed="#P" n="69"/>tunc bonitas diuina non esset sufficiens sine 
+          <lb ed="#P" n="70"/>creaturis, quod non solum est contra Sacram 
+          <lb ed="#P" n="71"/>Scripturam, sed etiam contra philosophiam, 
+          <lb ed="#P" n="72"/>nam in primo Celi, &amp; mundi vult Aristo. quod 
+          <lb ed="#P" n="73"/>vita primae causae sit sufficientissima, &amp; nullo 
+          <lb ed="#P" n="74"/>indigens: Et haec satis. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e505">
+          <lb ed="#P" n="75"/>ARTICVLVS TERTIVS 
+          <lb ed="#P" n="76"/>Vtrum Deus agat ex necessitate iustitiae.  
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e512">
+          <lb ed="#P" n="77"/>ggsiti sien.  fr,i 
+          <lb ed="#P" n="78"/>test accipi dupliciter: Vquan 
+          <lb ed="#P" n="79"/>tum ad illud, quod ponit in Dec.modo 
+          <lb ed="#P" n="80"/>quantum ad illud, quod, ponit in ipia creatu 
+          <lb ed="#P" n="81"/>ra. Si loquamur de iustitia primo modo, non 
+          <lb ed="#P" n="82"/>est, dubium, quod ipsa est quid necessarium 
+          <lb ed="#P" n="83"/>quia totum, quod est in Deo, est necessarium, 
+          <lb ed="#P" n="84"/>&amp; ideo isto modo verum est dicere Deum 
+          <lb ed="#P" n="85"/>agere ex necessitate iustitiae, quia agir
+          secun<lb ed="#P" n="86" break="no"/>dum suam iustitiam, quae est quid necessarium, 
+          <lb ed="#P" n="87"/>Si vero loquamur de iustitia, quantum ad il 
+          <lb ed="#P" n="88"/>lud, quod ponit in creatura, sic ipsa non est 
+          <lb ed="#P" n="89"/>quid necessarium quia totum, quod in
+          erea<lb ed="#P" n="90" break="no"/>tura est, est quid contingens. Quapropter 
+          <lb ed="#P" n="91"/>nihil est in creatura ita iustum, quod necessi 
+          <lb ed="#P" n="92"/>tet eum ita ad hoc agendum, quin non
+          pos<lb ed="#P" n="93" break="no"/>sit : gere oppositum, nam totum, quod est in 
+          <lb ed="#P" n="94"/>crtatura ideo emt iustum, quia a Deo volitum, 
+          <lb ed="#P" n="95"/>&amp; non e ocuerso; si. n ideo aliquid esset a Deo 
+          <lb ed="#P" n="96"/>volitum qua emt iustu, tunc rectitudo diuinae vo 
+          <lb ed="#P" n="97"/>luntatis dependeret ab ipsa creatura, quod est 
+          <lb ed="#P" n="98"/>absurdum, &amp; ideo sicut faciendo id, quod 
+          <lb ed="#P" n="99"/>modo facit iuste; ita etiam, si aliud faceret, &amp; 
+          <lb ed="#P" n="100"/>isturi omitteret, faceret etiam iuste. Quapro 
+          <lb ed="#P" n="101"/>pter apparet immediate, quod non arctatur. 
+          <lb ed="#P" n="102"/>ex necessitate iustitiae ad faciendum hoc, ita 
+          <lb ed="#P" n="103"/>vt non possit facere aliud. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e574">
+          <lb ed="#P" n="104"/>Ex quibus omnibus apparet, quod tribus 
+          <!--612.xml-->
+          <pb ed="#P" n="587"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>modis potest intelligi Deum agere ex
+          neces<lb ed="#P" n="2" break="no"/>sitate iustitiae. Quorum duo videntur esse 
+          <lb ed="#P" n="3"/>veri, &amp; tertius falsus. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e592">
+          <lb ed="#P" n="4"/>Nam vno modo potest intelligi, quod Deus 
+          <lb ed="#P" n="5"/>agat ex necessitate iustitiae, quia agit
+          secun<lb ed="#P" n="6" break="no"/>dum suam iustitiam, quae est quid
+          necessa<lb ed="#P" n="7" break="no"/>rium, &amp; iste sensus est verus: alio modo vt 
+          <lb ed="#P" n="8"/>agat ex necessitate iustitiae, quia omne quod 
+          <lb ed="#P" n="9"/>agit, eo modo quo ipsum agit, necessario est 
+          <lb ed="#P" n="10"/>iustum, &amp; iste sensus etiam est verus, quia 
+          <lb ed="#P" n="11"/>non potest racere aliquid, quod non sit
+          iu<lb ed="#P" n="12" break="no"/>stum, eo ipso, quod ab eo est factum; Tertio 
+          <lb ed="#P" n="13"/>modo potest intelligi, quod agat ex
+          necessi<lb ed="#P" n="14" break="no"/>tate iustitiae, quia necessitatur sic ad hoc agen 
+          <lb ed="#P" n="15"/>dum, vt non possit agere aliud, nec alio
+          mo<lb ed="#P" n="16" break="no"/>do, &amp; iste sensus est falsus (vt patuit) &amp; sic 
+          <lb ed="#P" n="17"/>patet de isto articiilo, &amp; tota quaestione. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e625">
+          <lb ed="#P" n="18"/>AD RATIONES PRINCIPALES. 
+          <lb ed="#P" n="19"/>AD primam dicendum, quod non oportet 
+          <lb ed="#P" n="20"/>dare aliquam potentiam talem
+          passi<lb ed="#P" n="21" break="no"/>uam correspondentem, quia potentia actiua 
+          <lb ed="#P" n="22"/>Dei nullam talem potentiam praesupponit, 
+          <lb ed="#P" n="23"/>vt patet in praecedenti distinctione. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e641">
+          <lb ed="#P" n="24"/>Ad secundam dicendum, quod quamuis 
+          <lb ed="#P" n="25"/>voluntas sit idem, quod ipsa natura in Deo, 
+          <lb ed="#P" n="26"/>tamen differt ab ea secundum rationem, quae 
+          <lb ed="#P" n="27"/>quidem distinctio rationis aequipollet
+          distin<lb ed="#P" n="28" break="no"/>ctioni reali, quia non est similis ratio de
+          in<lb ed="#P" n="29" break="no"/>tellectu, &amp; volututate, &amp; alijs attributis (vt 
+          <lb ed="#P" n="30"/>patuit in 1s dist. huius libri. 
+        </p>
+        <p xml:id="gsX5tY-d1e1097-d1e659">
+          <lb ed="#P" n="31"/>Ad tertiam vero patet quid sit dicendum 
+          <lb ed="#P" n="32"/>per illud, quod no o dictum est in hoc
+          ar<lb ed="#P" n="33" break="no"/>ticulo. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

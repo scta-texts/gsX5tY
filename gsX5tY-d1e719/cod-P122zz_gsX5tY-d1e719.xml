@@ -1,1303 +1,1303 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="458"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e719"> <!-- l1d23q1 -->
-            <head xml:id="gsX5tY-d1e719-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e719-Hd1e112" type="question-title">Utrum nomen personae in divinis significet intentionem rei, vel rem
-      intellectam</head>
-            <p xml:id="gsX5tY-d1e719-d1e115">
-               <lb ed="#P" n="66"/>DISTINCTIONIS NxIIL 
-      <lb ed="#P" n="67"/>RVAESTIO VNICA 
-      <lb ed="#P" n="68"/>Vtrum nomen personae, vel quodcumque aliud 
-      <lb ed="#P" n="69"/>nomen commune in diuinis sit
-      imposi<lb ed="#P" n="70" break="no"/>tum ad fignificandam intentionem 
-      <lb ed="#P" n="71"/>rei, vel rem intellectam. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e131">
-               <lb ed="#P" n="72"/>ARGVITVR QVOD 
-      <lb ed="#P" n="73"/>intentionem. 
-      <lb ed="#P" n="74"/>IQI hoc nomen persona significaret rem 
-      <lb ed="#P" n="75"/>Aintellectam, tunc eius communitas
-      es<lb ed="#P" n="76" break="no"/>set communitas rei in diuinis, quemadmodum 
-      <lb ed="#P" n="77"/>communitas essentiae, &amp; ideo ficut essentia, 
-      <lb ed="#P" n="78"/>cum sit communis, non plurificatur in eis; 
-      <lb ed="#P" n="79"/>ita nec persona ibi plurificaretur, quod
-      pa<lb ed="#P" n="80" break="no"/>tet esse falsum in Svmbolo Athanasii dicentis 
-      <lb ed="#P" n="81"/>alia est persona Patris, alia Filij, alia
-      Spiri<lb ed="#P" n="82" break="no"/>tus Sancti. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e158">
-               <lb ed="#P" n="83"/>Et confirmatur, quia non solum hoc
-      no<lb ed="#P" n="84" break="no"/>men persona, sed etiam quodlibet aliud
-      non<lb ed="#P" n="85" break="no"/>men videtur impositum ad significandum in 
-      <lb ed="#P" n="86"/>tentionem, quia dicit P. August. 15. de
-      Trin<lb ed="#P" n="87" break="no"/>cap. 8. quod verbum, quod foris sonat, est 
-      <lb ed="#P" n="88"/>signum verbi, quod intus lucet, &amp; Arist. in 
-      <lb ed="#P" n="89"/>primo Perhyermenias dicit, quod ea, quae 
-      <lb ed="#P" n="90"/>sunt in voce, sunt earum, quae sunt in anima 
-      <lb ed="#P" n="91"/>passionum notae, quod non haberet veritatem, 
-      <lb ed="#P" n="92"/>nisi quodlibet nomen significaret
-      intentio<lb ed="#P" n="93" break="no"/>nem, &amp; non ipsam rem intellectam. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e184">
-               <lb ed="#P" n="94"/>2 Si nomen personae, vel quodcunque
-      a<lb ed="#P" n="95" break="no"/>liud esset impositum ad significandum rem 
-      <lb ed="#P" n="96"/>intellectam, &amp; non ipsam intentionem,
-      se<lb ed="#P" n="97" break="no"/>queretur, quod nomen primae, &amp; secundae 
-      <lb ed="#P" n="98"/>intentionis non esset aliud, &amp; aliud, sed vnum, 
-      <lb ed="#P" n="99"/>&amp; idem, &amp; per consequens periret
-      commu<lb ed="#P" n="100" break="no"/>nis illa distinctio, qua dicitur aliqua
-      nomi<lb ed="#P" n="101" break="no"/>na esse primae intentionis, aliqua vero
-      secu<lb ed="#P" n="102" break="no"/>dae: Consequentiam probo, quia prima &amp;  
-      <lb ed="#P" n="103"/>secunda intentio, non distinguuntur ex
-      par<lb ed="#P" n="104" break="no"/>te rei intellectae, cum cadant super eandem  
-      <lb ed="#P" n="105"/>rem intellectam, ergo videtur quod debeat 
-      <lb ed="#P" n="106"/>eis correspondere vnum solum nomen¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e215">
-               <lb ed="#P" n="107"/>1 Sicut se habet indiuiduum in omni per 
-      <lb ed="#P" n="108"/>sona, ita persona in natura intellectuali, sed 
-      <!--484.xml-->
-      <pb ed="#P" n="459"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>indiuiduum in omni natura est nomen secun 
-      <lb ed="#P" n="2"/>dae intentionis, &amp; non nomen rei, ergo &amp;c 
-      <lb ed="#P" n="3"/>Maior patet; Minorem probo, quia
-      indiui<lb ed="#P" n="4" break="no"/>duum, &amp; singulare opponuntur ipsi
-      vniuer<lb ed="#P" n="5" break="no"/>sali, sed vniuersale est nomen secundae inten 
-      <lb ed="#P" n="6"/>tionis, vt omnes concedunt, ergo &amp;
-      indiui<lb ed="#P" n="7" break="no"/>duum, &amp; per consequens persona: sequitur 
-      <lb ed="#P" n="8"/>ergo, quod nomen personae non solum sit 
-      <lb ed="#P" n="9"/>nomen intentionis, sed intentionis secudae. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e248">
-               <lb ed="#P" n="10"/>T OPPOSITVM ARGVITVI 
-      <lb ed="#P" n="11"/>Llud nomen, cuius significato
-      attribui<lb ed="#P" n="12" break="no"/>tur aliquis actus realis, est nomen rei, &amp;  
-      <lb ed="#P" n="13"/>non intentionis, quia intentioni non
-      attri<lb ed="#P" n="14" break="no"/>buitur aliquis actus realis; sed significato hu 
-      <lb ed="#P" n="15"/>ius nominis personae attribuitur actus realis.  
-      <lb ed="#P" n="16"/>quia dicimus, quod persona in diuinis gene 
-      <lb ed="#P" n="17"/>rat, &amp; non essentia. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e268">
-               <lb ed="#P" n="18"/>2 Illud videtur esse nomen rei, &amp; non in 
-      <lb ed="#P" n="19"/>tentionis, cuius significatum recipit realem  
-      <lb ed="#P" n="20"/>pluralitatem in diuinis, talis autem est
-      no<lb ed="#P" n="21" break="no"/>men personae, quia in diuinis est realis
-      plu<lb ed="#P" n="22" break="no"/>ralitas personarum: ergo &amp;c. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e281">
-               <lb ed="#P" n="23"/>RESPONDEO: In ista quaestione 
-      <lb ed="#P" n="24"/>tria sunt videnda. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e289">
-               <lb ed="#P" n="25"/>1 An nomen personae, siue quodcunque 
-      <lb ed="#P" n="26"/>aliud nomen generaliter imponatur ad signi 
-      <lb ed="#P" n="27"/>ficandum intentionem rei intellectae, vel
-      ip<lb ed="#P" n="28" break="no"/>sam rem intellectam. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e300">
-               <lb ed="#P" n="29"/>2 An prima intentio, &amp; secunda cadant 
-      <lb ed="#P" n="30"/>super eandem rem intellectam, &amp; per conse 
-      <lb ed="#P" n="31"/>quens, vtrum sit vnum, &amp; idem nomen quod 
-      <lb ed="#P" n="32"/>imponitur secundum vtramque. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e311">
-               <lb ed="#P" n="33"/>3 An hoc nomen persona, sit nomen
-      pri<lb ed="#P" n="34" break="no"/>mae, vel secundae intentionis, siue sit
-      imposi<lb ed="#P" n="35" break="no"/>tum secundum primam intentionem, vel se 
-      <lb ed="#P" n="36"/>cundam. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e322">
-               <lb ed="#P" n="37"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="38"/>Vtrum nomen personae, siue quodlibet aliud 
-      <lb ed="#P" n="39"/>nomen generale imponatur ad signan 
-      <lb ed="#P" n="40"/>dum intentionem rei intellectae, vel 
-      <lb ed="#P" n="41"/>ipsam rem intellectam.
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e335">
-               <lb ed="#P" n="42"/>Ro quo quidam dicunt, quod omne non 
-      <lb ed="#P" n="43"/> men imponitur ad significandum primam 
-      <lb ed="#P" n="44"/>intentionem, vel secundam: nam etiam
-      da<lb ed="#P" n="45" break="no"/>to, quod significet rem extra animam, non 
-      <lb ed="#P" n="46"/>tamen significat eam, nisi secundum quod 
-      <lb ed="#P" n="47"/>habet esse intentionale, &amp; esse conceptum 
-      <lb ed="#P" n="48"/>in anima, siue per primam, siue per
-      secun<lb ed="#P" n="49" break="no"/>dam intentionem, &amp; quod ita sit probant ta 
-      <lb ed="#P" n="50"/>li ratione. Si aliquod nomen significaret re 
-      <lb ed="#P" n="51"/>extra animam secundum esse reale, quod ha 
-      <lb ed="#P" n="52"/>bet in seipsa sequeretur, quod ea corrupta se 
-      <lb ed="#P" n="53"/>cundum talem essentiam nomen perderet 
-      <!--484.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 459 b -->
-               <lb ed="#P" n="54"/>suam significationem, quod nullus diceret, 
-      <lb ed="#P" n="55"/>Consequentia est nota: Falsitatem probant,  
-      <lb ed="#P" n="56"/>quia corrupto Sorte, vel Platone adhuc
-      ma<lb ed="#P" n="57" break="no"/>net significatio horum nominum, de quibus 
-      <lb ed="#P" n="58"/>nominibus maxime videtur quod significent 
-      <lb ed="#P" n="59"/>rem secundum esse reale, quod habet extra 
-      <lb ed="#P" n="60"/>animam, si ergo dicta nomina non significet 
-      <lb ed="#P" n="61"/>rem, sed intentionem, multo minus
-      quae<lb ed="#P" n="62" break="no"/>cunque alia.  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e390">
-               <lb ed="#P" n="63"/>Iste autem modus dicendi non potest sta 
-      <lb ed="#P" n="64"/>re quocunque modo intelligatur, si enim
-      in<lb ed="#P" n="65" break="no"/>telligant, quod nomen significet intentionem 
-      <lb ed="#P" n="66"/>sicut magis videntur sonare verba eorum, hoc 
-      <lb ed="#P" n="67"/>est omnino irrationabile propter quatuor in 
-      <lb ed="#P" n="68"/>conuenientia, quae inde sequuntur: nam po 
-      <lb ed="#P" n="69"/>sito quod omne nomen significet
-      intentio<lb ed="#P" n="70" break="no"/>nem, cum omnis scientia sit de significatis non 
-      <lb ed="#P" n="71"/>minum; Primo sequitur quod omnis
-      scien<lb ed="#P" n="72" break="no"/>tia sit de intentionibus; Secundo sequitur, 
-      <lb ed="#P" n="73"/>quod nomen definitionis, &amp; nomen
-      defini<lb ed="#P" n="74" break="no"/>ti non fignificabunt eandem rem, quod
-      nu<lb ed="#P" n="75" break="no"/>lus diceret, Consequentiam probo, quia
-      in<lb ed="#P" n="76" break="no"/>tentio definitionis, cum non sit aliud, quam 
-      <lb ed="#P" n="77"/>conceptus mentis explicitus, non potest esse 
-      <lb ed="#P" n="78"/>idem cum intentione definiti, quae est
-      con<lb ed="#P" n="79" break="no"/>ceptus mentis implicitus: quapropter erunt 
-      <lb ed="#P" n="80"/>abinuicem distinctae realiter, &amp; sic praefata 
-      <lb ed="#P" n="81"/>duo nomina significabut duas res distinctas; 
-      <lb ed="#P" n="82"/>Tertio sequitur, quod significatum generis,  
-      <lb ed="#P" n="83"/>&amp; speciei, &amp; etiam differentiae sint tres res 
-      <lb ed="#P" n="84"/>realiter distinctae, quod est falsum, quia
-      vi<lb ed="#P" n="85" break="no"/>demus, quod significatio generis praedicatur 
-      <lb ed="#P" n="86"/>de significato speciei essentialiter
-      praedica<lb ed="#P" n="87" break="no"/>tione dicente hoc est hoc: Consequentia ap 
-      <lb ed="#P" n="88"/>paret, quia non est dubium, quod intentio 
-      <lb ed="#P" n="89"/>generis non est aliud, quam conceptus men 
-      <lb ed="#P" n="90"/>tis confusus, &amp; partialis; intentio vero
-      diffe<lb ed="#P" n="91" break="no"/>rentiae est conceptus mentis determinatus,  
-      <lb ed="#P" n="92"/>&amp; partialis: At intentio speciei est conceptus 
-      <lb ed="#P" n="93"/>mentis determinatus, &amp; totalis; quapropter 
-      <lb ed="#P" n="94"/>sequitur, quod dictae tres intentiones non  
-      <lb ed="#P" n="95"/>possint esse vna res, sed erunt necessario tres 
-      <lb ed="#P" n="96"/>res realiter distinctae; Quarto sequitur, quod 
-      <lb ed="#P" n="97"/>omnis formata enunciatio per intellectum, 
-      <lb ed="#P" n="98"/>vel erit simpliciter de intentionibus &amp;
-      nul<lb ed="#P" n="99" break="no"/>lo modo de rebus, uel saltem principaliter de 
-      <lb ed="#P" n="100"/>intentionibus, quod est falsum, quia tunc
-      o<lb ed="#P" n="101" break="no"/>mnis proportio, in qua praedicaretur aliquid 
-      <lb ed="#P" n="102"/>de aliquo essentialiter, vel formaliter, vel de 
-      <lb ed="#P" n="103"/>nominatiue, esset falsa: nam vna intentio non 
-      <lb ed="#P" n="104"/>potest praedicari de altera, nec essentialiter 
-      <lb ed="#P" n="105"/>nec formaliter, nec etiam denominatiue, vt 
-      <lb ed="#P" n="106"/>manifestum est. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e489">
-               <lb ed="#P" n="107"/>Si autem intelligant quod omne nomen 
-      <lb ed="#P" n="108"/>significet intentionem, idest ipsam rem
-      in<lb ed="#P" n="109" break="no"/>tellectam prout habet for maliter esse
-      inten<lb ed="#P" n="110" break="no"/>tionale, &amp; esse conceptum in intentione 
-      <!--485.xml-->
-      <pb ed="#P" n="460"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>quemadmodum uidentur uelle exponere, sic 
-      <lb ed="#P" n="2"/>nec etiam hoc stare potest propter tria. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e511">
-               <lb ed="#P" n="3"/>Primo, quia sicut effectus secundum esse  
-      <lb ed="#P" n="4"/>quod habet in causa, non est aliud, quam sua 
-      <lb ed="#P" n="5"/>causa; ita res intellecta secundum esse
-      inten<lb ed="#P" n="6" break="no"/>tionale, quod habet in conceptu, non est aliud 
-      <lb ed="#P" n="7"/>quam ille conceptus, &amp; illa intentio, ac per 
-      <lb ed="#P" n="8"/>consequens omnia inconuenientia superius 
-      <lb ed="#P" n="9"/>posita erunt contra istum sensum 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e529">
-               <lb ed="#P" n="10"/>Secundo sequeretur, quod in formali
-      si<lb ed="#P" n="11" break="no"/>i gnificato nominis non clauderetur esse
-      rea<lb ed="#P" n="12" break="no"/>se rei significatae per nomen, ac per
-      conse<lb ed="#P" n="13" break="no"/>quens nulla cognitio, vel scientia, &amp; nullus 
-      <lb ed="#P" n="14"/>noster sermo esset de rebus secundum esse  
-      <lb ed="#P" n="15"/>reale, sed solum secundum esse
-      intentiona<lb ed="#P" n="16" break="no"/>le, quod est falsum. Consequentiam probo 
-      <lb ed="#P" n="17"/>ex dictis eorum, dicunt enim, quod esse
-      in<lb ed="#P" n="18" break="no"/>tentionale potest separari ab esse reali, sicut 
-      <lb ed="#P" n="19"/>patet in re corrupta, quae potest manere
-      se<lb ed="#P" n="20" break="no"/>cundum esse cognitum, ac per consequens 
-      <lb ed="#P" n="21"/>utrunque istorum, scilicet reale, &amp; intentiona 
-      <lb ed="#P" n="22"/>le non poterunt cadere sub eodem formali 
-      <lb ed="#P" n="23"/>significato nisi aequiuoce. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e562">
-               <lb ed="#P" n="24"/>Tertio sequeretur, quod esset idem
-      mo<lb ed="#P" n="25" break="no"/>dus significationis rerum, &amp; significatorum. 
-      <lb ed="#P" n="26"/>ac per consequens idem modus cognitionis,  
-      <lb ed="#P" n="27"/>quod est falsum. Consequentiam probo, quia 
-      <lb ed="#P" n="28"/>quantum ad esse intentionale non est
-      diffe<lb ed="#P" n="29" break="no"/>rentia inter figmenta, &amp; ueras res
-      significa<lb ed="#P" n="30" break="no"/>tas, quia utraque habent essc conceptum, &amp;  
-      <lb ed="#P" n="31"/>intentionale cum concipiuntur, &amp; ideo si 
-      <lb ed="#P" n="32"/>tale esse intentionale est formale significatum 
-      <lb ed="#P" n="33"/>nominis, sequitur necessario, quod
-      figmen<lb ed="#P" n="34" break="no"/>ta, &amp; uerae res habeant eodem modo
-      signifi<lb ed="#P" n="35" break="no"/>cari, &amp; intelligi¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e591">
-               <lb ed="#P" n="36"/>Omissis igitur his omnibus aliter huic 
-      <lb ed="#P" n="37"/>quaesito respondeo: Ad cuius euidentiam
-      di<lb ed="#P" n="38" break="no"/>stinguendum est de nominibus, quia non  
-      <lb ed="#P" n="39"/>omnibus nominibus respondent sua
-      signifi<lb ed="#P" n="40" break="no"/>cata eodem modo sicut patebit. Dico ergo, 
-      <lb ed="#P" n="41"/>quod tria sunt genera nominum, quaedam 
-      <lb ed="#P" n="42"/>enim sunt nomina figmentorum sicut
-      Chi<lb ed="#P" n="43" break="no"/>mera, &amp; Hyrcoceruus, quaedam sunt
-      nomi<lb ed="#P" n="44" break="no"/>na entium rationis, sicut vniuersale, &amp;
-      svl<lb ed="#P" n="45" break="no"/>logismus, &amp; quaecunque talia, quae non
-      im<lb ed="#P" n="46" break="no"/>ponuntur ad significandum entia naturae, 
-      <lb ed="#P" n="47"/>nec tamen propter hoc iudicantur figmenta, 
-      <lb ed="#P" n="48"/>quia eorum significata sunt constituta per 
-      <lb ed="#P" n="49"/>actum rationis sine omni fictione, &amp; menda 
-      <lb ed="#P" n="50"/>cio; quaedam vero sunt nomina entium 
-      <lb ed="#P" n="51"/>realium, sicut nomina substantiarum, &amp; acci 
-      <lb ed="#P" n="52"/>dentium, vt V. O. in genere substantiae hoc 
-      <lb ed="#P" n="53"/>nomen Sortes, Homo, &amp; Animal: &amp; in
-      ge<lb ed="#P" n="54" break="no"/>nere accidentis Albedo, &amp; Color. Ad
-      pro<lb ed="#P" n="55" break="no"/>positum ergo descendendo, cum arguitur de 
-      <lb ed="#P" n="56"/>significatione nominum generaliter, non est 
-      <lb ed="#P" n="57"/>vniformiter respondendum de omnibus istis 
-      <!--485.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 460 b -->
-               <lb ed="#P" n="58"/>tribus generibus nominum, quia eorum
-      si<lb ed="#P" n="59" break="no"/>gnificata non respondent eis eodem modo. 
-      <lb ed="#P" n="60"/>Nam videmus, quod nominibus
-      figmento<lb ed="#P" n="61" break="no"/>rum non respondent sua significata nisi sub 
-      <lb ed="#P" n="62"/>esse intentionali, quod habent in mente, &amp;  
-      <lb ed="#P" n="63"/>ex hoc ipso sunt figmenta, quia illud esselin 
-      <lb ed="#P" n="64"/>tentionale solum est fictum in mente, cui non 
-      <lb ed="#P" n="65"/>respondet aliquod esse extra mentem, nec se 
-      <lb ed="#P" n="66"/>cundum actum formaliter, nec secundum po 
-      <lb ed="#P" n="67"/>tentiam fundamentaliter; nominibus vero 
-      <lb ed="#P" n="68"/>entium rationis respondent sua significata,  
-      <lb ed="#P" n="69"/>non solum sub esse intentionali, quod habent 
-      <lb ed="#P" n="70"/>in mente, sed etiam sub aliquo esse rationis 
-      <lb ed="#P" n="71"/>constituto sine fictione, &amp; mendacio per actum 
-      <lb ed="#P" n="72"/>entis, quod quidem ens rationis quamuis non 
-      <lb ed="#P" n="73"/>sit aliud reale posituum, vt fuit supra
-      de<lb ed="#P" n="74" break="no"/>claratum in 3. distinctione, &amp; etiam in 10. 
-      <lb ed="#P" n="75"/>habet tamen aliquo modo esse in rerum
-      na<lb ed="#P" n="76" break="no"/>tura secundum potentiam, non solum ex par 
-      <lb ed="#P" n="77"/>te intellectus ipsum constituentis, sed etiam 
-      <lb ed="#P" n="78"/>ex parte sui fundamenti sibi non
-      repugnan<lb ed="#P" n="79" break="no"/>tis : hoc ergo habent plus entia rationis
-      su<lb ed="#P" n="80" break="no"/>pra figmenta, quia entia rationis sine omni 
-      <lb ed="#P" n="81"/>figmento, &amp; mendacio respondent suis
-      no<lb ed="#P" n="82" break="no"/>minibus, vt visum est, sed entia realia adhuc 
-      <lb ed="#P" n="83"/>plus habent, quam entia rationis, quia non so 
-      <lb ed="#P" n="84"/>um respondent suis nominibus significantia 
-      <lb ed="#P" n="85"/>bus sine fictione, &amp; mendacio, sed ultra 
-      <lb ed="#P" n="86"/>hoc respondent eis etiam sub aliquo esse rea 
-      <lb ed="#P" n="87"/>li, quod non faciunt entia rationis; &amp; ideo 
-      <lb ed="#P" n="88"/>omne nomen, quod imponitur ad significan 
-      <lb ed="#P" n="89"/>dum aliquam rem, necessario significat eam 
-      <lb ed="#P" n="90"/>sub aliquo esse reali.  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e719">
-               <lb ed="#P" n="91"/>uia tamen solutio dubiorum est manife 
-      <lb ed="#P" n="92"/>statio veritatis, idcirco mouebo tria dubia con 
-      <lb ed="#P" n="93"/>tra istud dictum, vt ex eorum solutione
-      cla<lb ed="#P" n="94" break="no"/>rius appareat, quod dictum est. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e731">
-               <lb ed="#P" n="95"/>Primo dubitatur, quia uidemus, quod hoc no 
-      <lb ed="#P" n="96"/>men Rosa imponitur ad significandam veram 
-      <lb ed="#P" n="97"/>rem, &amp; tamen non semper significat ea sub 
-      <lb ed="#P" n="98"/>aliquo esse reali, ut puta, quando omnis Rosa 
-      <lb ed="#P" n="99"/>corrupta est 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e744">
-               <lb ed="#P" n="100"/>Secundo uidemus, quod istud idem nomen 
-      <lb ed="#P" n="101"/>Rosa significat quidditatem rosae abstractam, 
-      <lb ed="#P" n="102"/>&amp; tamen non habet reale esse abstractum, 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e753">
-               <lb ed="#P" n="103"/>Tertio videmus, quod una, &amp; eadem res 
-      <lb ed="#P" n="104"/>sub alia ratione significatur per nomen sui 
-      <lb ed="#P" n="105"/>generis, &amp; sub alia ratione per nomen suae 
-      <lb ed="#P" n="106"/>peciei, uel suae differentiae, &amp; tamen constat,  
-      <lb ed="#P" n="107"/>quod ratio generis, speciei, &amp; differentiae non 
-      <lb ed="#P" n="108"/>sunt rationes reales, quia sic facerent in re con 
-      <lb ed="#P" n="109"/>positionem realem, quod est falsum, propter 
-      <lb ed="#P" n="110"/>hoc igitur uidebitur alicui, quod nomen
-      im<lb ed="#P" n="111" break="no"/>positum ad significandum aliquam rem non 
-      <lb ed="#P" n="112"/>semper significet eam sub aliquo esse
-      rea<lb ed="#P" n="113" break="no"/>i. His tamen non obstantibus, teneo sicut su 
-      <lb ed="#P" n="114"/>perius dixi, &amp; istis non est difficile respondere,
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e782">
-      <!--486.xml-->
-               <pb ed="#P" n="461"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Ad primam ergo respondeo dupliciter 
-      <lb ed="#P" n="2"/>Vno modo, quod rosa corrupta respondet 
-      <lb ed="#P" n="3"/>nomini significanti ipsam sub esse reali
-      po<lb ed="#P" n="4" break="no"/>tentiali, &amp; hoc sufficit, quia ens reale
-      diui<lb ed="#P" n="5" break="no"/>ditur per actum, &amp; potentiam. Alio modo 
-      <lb ed="#P" n="6"/>potest dici, &amp; forte melius, quod quamuis ro 
-      <lb ed="#P" n="7"/>a corrupta non habeat esse reale in seipsa 
-      <lb ed="#P" n="8"/>formaliter, habet tamen esse reale in prima 
-      <lb ed="#P" n="9"/>forma exemplari, tanquam in arte
-      uniuersa<lb ed="#P" n="10" break="no"/>li continente uniuersaliter omnes
-      quiddita<lb ed="#P" n="11" break="no"/>tes, ratione cuius continentiae dicit Com xij.¬ 
-      <lb ed="#P" n="12"/>Metaph com. 24. quod forma primi motoris 
-      <lb ed="#P" n="13"/>aliquo modo est omnis formae. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e819">
-               <lb ed="#P" n="14"/>Ad secundam dico eodem modo, quod 
-      <lb ed="#P" n="15"/>quamuis quidditas rosae, &amp; cuiuscunque al 
-      <lb ed="#P" n="16"/>terius rei materialis non habeat esse
-      abstra<lb ed="#P" n="17" break="no"/>ctum, &amp; immateriale, prout existit in seipsa 
-      <lb ed="#P" n="18"/>formaliter, habet tamen totum hoc, prout exi 
-      <lb ed="#P" n="19"/>stit in sua prima forma exemplari, &amp; ex hoc 
-      <lb ed="#P" n="20"/>ipso habet, quod possit rectificare, &amp;
-      mensu<lb ed="#P" n="21" break="no"/>rare nostram scientiam, sicut declaratum 
-      <lb ed="#P" n="22"/>fuit in primo articulo Prologi. Posset etiam  
-      <lb ed="#P" n="23"/>dici secundo, quod quidditas rei materialis 
-      <lb ed="#P" n="24"/>habet tale esse abstractum potentialiter ex 
-      <lb ed="#P" n="25"/>natura rei; cum uero postea reducitur de 
-      <lb ed="#P" n="26"/>potentia ad actum fit realiter abstracta, non 
-      <lb ed="#P" n="27"/>quidem in essendo, sed in immutando
-      intel<lb ed="#P" n="28" break="no"/>lectum possibilem, &amp; in terminando eius
-      a<lb ed="#P" n="29" break="no"/>ctum, &amp; ita realiter immutat, &amp; realiter
-      ter<lb ed="#P" n="30" break="no"/>minat, ac si esset realiter abstracta. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e858">
-               <lb ed="#P" n="31"/>Ad tertiam dicendum, quod ratio
-      gene<lb ed="#P" n="32" break="no"/>ris, &amp; ratio differentiae sunt reales rationes, 
-      <lb ed="#P" n="33"/>nam si animal, &amp; rationale non importarent 
-      <lb ed="#P" n="34"/>rationes reales in homine, tunc homo non es 
-      <lb ed="#P" n="35"/>set realiter animal, nec realiter rationalis 
-      <lb ed="#P" n="36"/>quod est falsum, non tamen propter hoc se 
-      <lb ed="#P" n="37"/>quitur, quod faciant in homine realem
-      com<lb ed="#P" n="38" break="no"/>positionem, uel quod sint in eo realiter
-      di<lb ed="#P" n="39" break="no"/>stinctae, sunt tamen distinguibiles per actum  
-      <lb ed="#P" n="40"/>rationis, &amp; ideo concipiuntur distinctis con 
-      <lb ed="#P" n="41"/>ceptibus, &amp; nominantur distinctis
-      nomini<lb ed="#P" n="42" break="no"/>bus, &amp; sic patet illud, quod superius
-      dice<lb ed="#P" n="43" break="no"/>batur. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e890">
-               <lb ed="#P" n="44"/>Apparet igitur qualiter sit respondendum 
-      <lb ed="#P" n="45"/>ad istum articulum, &amp; per consequens ad 
-      <lb ed="#P" n="46"/>quaestionem principalem cum quaeritur de 
-      <lb ed="#P" n="47"/>quocunque nomine, vtrum imponatur ad
-      si<lb ed="#P" n="48" break="no"/>gnificandum intentionem rei intellectae, vel 
-      <lb ed="#P" n="49"/>ipsam rem intellectam: Nam quia quaestio 
-      <lb ed="#P" n="50"/>ista est introducta propter nomina entium rea 
-      <lb ed="#P" n="51"/>lium, de quorum numero est hoc nomen per 
-      <lb ed="#P" n="52"/>sona: ldcirco de omnibus talibus est simpli 
-      <lb ed="#P" n="53"/>citer dicendum, quod nomen imponitur ad 
-      <lb ed="#P" n="54"/>significandam non ipsam intentionem, sed  
-      <lb ed="#P" n="55"/>ipsam rem intellectam, non quidem
-      secun<lb ed="#P" n="56" break="no"/>dum esse intentionale, ut ponebat praecedens 
-      <lb ed="#P" n="57"/>opinio, sed secundum aliquod esse reale, quod  
-      <!--486.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 461 b -->
-               <lb ed="#P" n="58"/>habet, uel in seipsa formaliter, uel in prima 
-      <lb ed="#P" n="59"/>forma exemplariter, vel iterum in seipsa vir 
-      <lb ed="#P" n="60"/>tualiter, &amp; potentialiter in ratione
-      immu<lb ed="#P" n="61" break="no"/>tandi potentiam realem, &amp; terminandi actum 
-      <lb ed="#P" n="62"/>realem, quemadmodum superius est dictum. 
-      <lb ed="#P" n="63"/>Possunt aute ex his quae dicta sunt colligi 
-      <lb ed="#P" n="64"/>quatuor rationes ad istam conclusionem.
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e945">
-               <lb ed="#P" n="65"/>1 Omne nomen, quod signisicat aliquam 
-      <lb ed="#P" n="66"/>rem, uel eam significat secundum quod
-      ha<lb ed="#P" n="67" break="no"/>bet esse in seipsa formaliter, uel secundum 
-      <lb ed="#P" n="68"/>quod existit in prima forma exemplariter, 
-      <lb ed="#P" n="69"/>vel secundum quod habet rationem
-      immu<lb ed="#P" n="70" break="no"/>tandi intellectum, &amp; terminandi actum suum; 
-      <lb ed="#P" n="71"/>sed omnibus istis modis res intellecta est alio 
-      <lb ed="#P" n="72"/>quid reale extra intellectum, ergo &amp;c. Maior,  
-      <lb ed="#P" n="73"/>&amp; Minor ex dictis patent. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e967">
-               <lb ed="#P" n="74"/>2 Sicut se habet intellectus in formando 
-      <lb ed="#P" n="75"/>aliquas propositiones de entibus realibus,  
-      <lb ed="#P" n="76"/>ita se habent nomina illorum entium in
-      signi<lb ed="#P" n="77" break="no"/>ficando ea, sed propositiones formaliter
-      ue<lb ed="#P" n="78" break="no"/>rificantur de entibus realibus secundum
-      eo<lb ed="#P" n="79" break="no"/>rum esse reale, &amp; non secundum esse
-      inten<lb ed="#P" n="80" break="no"/>tionale, ut patuit in improbatione praeceden 
-      <lb ed="#P" n="81"/>tis opinionis, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e987">
-               <lb ed="#P" n="82"/>3 Sicut se habent entia realia ad sciri, ita 
-      <lb ed="#P" n="83"/>se habent ad significari per nomina, sed
-      en<lb ed="#P" n="84" break="no"/>tia realia sunt obiectum scientiae secundum 
-      <lb ed="#P" n="85"/>aliquod esse reale, &amp; non secundum esse
-      in<lb ed="#P" n="86" break="no"/>tentionale, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1000">
-               <lb ed="#P" n="87"/>4 Si nomina entium realium non signifi 
-      <lb ed="#P" n="88"/>carent res significatas secundum aliquod
-      es<lb ed="#P" n="89" break="no"/>se reale, non differrent a nominibus entium 
-      <lb ed="#P" n="90"/>rationis, consequens est falsum, ergo, &amp;c. 
-      <lb ed="#P" n="91"/>Falsitas consequentis, &amp; Consequentia
-      pa<lb ed="#P" n="92" break="no"/>tent ex dictis. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1016">
-               <lb ed="#P" n="93"/>Intelligendum tamen, quod quamuis
-      in<lb ed="#P" n="94" break="no"/>tentio, &amp; esse intentionale rei intellectae non 
-      <lb ed="#P" n="95"/>cadant sub significatione nominis, tanquam  
-      <lb ed="#P" n="96"/>suum significatum formale, &amp; primarium in 
-      <lb ed="#P" n="97"/>trinsece inclusum, cadit tamen ibitanquam 
-      <lb ed="#P" n="98"/>significatum secundarium extrinsece con- 
-      <lb ed="#P" n="99"/>notatum, cuius ratio potest sumi ex dictis in 
-      <lb ed="#P" n="100"/>praecedenti distinctione, ubi dicebatur, quod 
-      <lb ed="#P" n="101"/>modus significandi supponit modum
-      intelli<lb ed="#P" n="102" break="no"/>gendi, tanquam suam causam, &amp; mensuram, 
-      <lb ed="#P" n="103"/>&amp; ideo relatio signi, quae est in nomine, quam 
-      <lb ed="#P" n="104"/>uis per se, &amp; distincte terminetur ad rem
-      in<lb ed="#P" n="105" break="no"/>tellectam secundum aliquod esse reale,
-      tan<lb ed="#P" n="106" break="no"/>quam ad id, quod est per se, &amp; directe signifi 
-      <lb ed="#P" n="107"/>catum per nomen, indirecte tamen in
-      obli<lb ed="#P" n="108" break="no"/>quo terminatur etiam ad intentionem rer in 
-      <lb ed="#P" n="109"/>tellecte, tanquam ad id, quod est causa, &amp;  
-      <lb ed="#P" n="110"/>mensura significationis nominis, quia nomen 
-      <lb ed="#P" n="111"/>non habet, quod significet ex se, sed ex ipsa 
-      <lb ed="#P" n="112"/>intentione rei intellectae, per quam ipse
-      in<lb ed="#P" n="113" break="no"/>tellectus imponit ipsum, uel utitur ipso ad si 
-      <lb ed="#P" n="114"/>gnificandum dictam rem intellectam.
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1067">
-      <!--487.xml-->
-               <pb ed="#P" n="462"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>Ex quibus omnibus si uolumus descende 
-      <lb ed="#P" n="2"/>re ad nomen personae in speciali, cuius gratia 
-      <lb ed="#P" n="3"/>est praesens questio pricipaliter introducta; 
-      <lb ed="#P" n="4"/>Dicendum est, quod nomen personae est non 
-      <lb ed="#P" n="5"/>men entis realis impositum ad significandum 
-      <lb ed="#P" n="6"/>per se, &amp; directe aliquam rem intellectam 
-      <lb ed="#P" n="7"/>secundum aliquod esse reale, quod habet ex 
-      <lb ed="#P" n="8"/>tra intellectum; indirecte tamen, &amp; in
-      obli<lb ed="#P" n="9" break="no"/>quo dat intelligere intentionem talis rei, per 
-      <lb ed="#P" n="10"/>quam intellectus ipsum imposuit, uel ipso 
-      <lb ed="#P" n="11"/>utitur ad significandum eam. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1100">
-               <lb ed="#P" n="12"/>Sciendum est etiam, quod intentio rei in 
-      <lb ed="#P" n="13"/>tellectae per quam nomen sibi imponitur, 
-      <lb ed="#P" n="14"/>equandoque est prima, quandoque secunda; &amp; 
-      <lb ed="#P" n="15"/>ideo consueuit dici communiter, quod sunt 
-      <lb ed="#P" n="16"/>quaedam nomina primae intentionis, siue pri 
-      <lb ed="#P" n="17"/>mae impositonis, &amp; quaedam alia secundae 
-      <lb ed="#P" n="18"/>intentionis, siue impositonis; quapropter 
-      <lb ed="#P" n="19"/>ut in speciali uideatur melius quale sit nomen 
-      <lb ed="#P" n="20"/>personae, &amp; quae eius significatio, idcirco
-      vi<lb ed="#P" n="21" break="no"/>dendum est, quomodo prima, &amp; secunda
-      in<lb ed="#P" n="22" break="no"/>tentio se habeant ad rem intellectam 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1126">
-               <lb ed="#P" n="23"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="24"/>Vtrum prima, &amp; secunda intentio cadant su 
-      <lb ed="#P" n="25"/>per eandem rem intellectam, sitque idem 
-      <lb ed="#P" n="26"/>nomen quod imponitur
-      secun<lb ed="#P" n="27" break="no"/>dum vtrumque.
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1139">
-               <lb ed="#P" n="28"/>QVantum ad hoc sciendum esse, quod  
-      <lb ed="#P" n="29"/>quidam volentes declarare quae sit pri 
-      <lb ed="#P" n="30"/>ma, &amp; secunda intentio, describunt 
-      <lb ed="#P" n="31"/>primo intentionem in generali dicentes, quod 
-      <lb ed="#P" n="32"/>intentio est passiua rei conceptio, per quam  
-      <lb ed="#P" n="33"/>res concepta constituitur formaliter in esse 
-      <lb ed="#P" n="34"/>concepto per productionem conceptus, quen 
-      <lb ed="#P" n="35"/>admodum res producta constituitur formali 
-      <lb ed="#P" n="36"/>ter in esse producto per productionem
-      passi<lb ed="#P" n="37" break="no"/>uam, &amp; ideo dicunt vlterius, quod sicut pro 
-      <lb ed="#P" n="38"/>ductio passiua includit rem, quae per ipsam  
-      <lb ed="#P" n="39"/>constituitur in tali esse producto, &amp; res con 
-      <lb ed="#P" n="40"/>stituta in esse producto includit
-      productio<lb ed="#P" n="41" break="no"/>nem passiuam: ita in proposito conceptio 
-      <lb ed="#P" n="42"/>passiua includit indistinguibiliter rem ipsam, 
-      <lb ed="#P" n="43"/>quae per eam formaliter constituitur in esse 
-      <lb ed="#P" n="44"/>concepto, &amp; res constituta in tali esse
-      inclu<lb ed="#P" n="45" break="no"/>dit talem conceptum. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1181">
-               <lb ed="#P" n="46"/>Ex istis autem duobus, scilicet ex
-      conce<lb ed="#P" n="47" break="no"/>ptione passiua, &amp; ex ipsare, quae per eam
-      con<lb ed="#P" n="48" break="no"/>cipitur, resultat conceptus obiectiuus per in 
-      <lb ed="#P" n="49"/>tellectionem formatus, vt ipsi dicunt, qui 
-      <lb ed="#P" n="50"/>quidem conceptus (secundum eos) includit 
-      <lb ed="#P" n="51"/>indistinguibiliter illa ambo, quemadmodum 
-      <lb ed="#P" n="52"/>res producta resultans ex productione passi 
-      <lb ed="#P" n="53"/>ua, &amp; ex re ipsa, quae per eam producitur in 
-      <!--487.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 462 b -->
-               <lb ed="#P" n="54"/>cludit indistinguibiliter illa duo, &amp; ideo
-      de<lb ed="#P" n="55" break="no"/>scendendo ad propositum distinguunt inter 
-      <lb ed="#P" n="56"/>primam, &amp; secundam intentionem hoc
-      mo<lb ed="#P" n="57" break="no"/>do dicentes, quod intentio prima non est
-      a<lb ed="#P" n="58" break="no"/>liud, quam conceptus obiectiuus primi ordi 
-      <lb ed="#P" n="59"/>nis, quem intellectus format non
-      reflecten<lb ed="#P" n="60" break="no"/>do se super aliquem alium conceptum;
-      Se<lb ed="#P" n="61" break="no"/>cunda vero intentio est conceptus secundi 
-      <lb ed="#P" n="62"/>ordinis, quem intellectus fabricat reflecteun 
-      <lb ed="#P" n="63"/>do se, &amp; redeundo super conceptum primi 
-      <lb ed="#P" n="64"/>ordinis, secundum quem modum intellectus 
-      <lb ed="#P" n="65"/>fabricat conceptum vniuersalis, &amp; praedicabi 
-      <lb ed="#P" n="66"/>lis per actum simplicem, &amp; iterum
-      conce<lb ed="#P" n="67" break="no"/>ptum affirmationis, &amp; negationis per actum  
-      <lb ed="#P" n="68"/>complexum, &amp; connexionem extremorum 
-      <lb ed="#P" n="69"/>in medio per actum discursiuum. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1242">
-               <lb ed="#P" n="70"/>Addunt insuper, quod isti conceptus
-      se<lb ed="#P" n="71" break="no"/>cundi ordinis semper sunt relatiui, quia non  
-      <lb ed="#P" n="72"/>sunt aliud, quam quaedam habitudines, quas 
-      <lb ed="#P" n="73"/>fabricat intellectus, vt V. 0 vniuersalitas est 
-      <lb ed="#P" n="74"/>habitudo vniuersalis ad particulare, &amp; parti 
-      <lb ed="#P" n="75"/>cularitas habitudo particularis ad
-      vniuersa<lb ed="#P" n="76" break="no"/>le; affirmatio vero, &amp; negatio habitudo duo 
-      <lb ed="#P" n="77"/>rum extremorum inter se; svllogismus vero 
-      <lb ed="#P" n="78"/>habitudo duorum extremorum in medio. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1265">
-               <lb ed="#P" n="79"/>Si ergo respondendum esset ad istum arti 
-      <lb ed="#P" n="80"/>culum de mente eorum, oporteret dicere, quod 
-      <lb ed="#P" n="81"/>prima, &amp; secunda intentio non cadant super 
-      <lb ed="#P" n="82"/>rem intellectam, sed sint ipsamet res
-      intelle<lb ed="#P" n="83" break="no"/>cta, alio, &amp; alio modo: nam, prout res
-      intel<lb ed="#P" n="84" break="no"/>lecta constituitur formaliter in esse
-      conce<lb ed="#P" n="85" break="no"/>pto per conceptionem passiuam primi
-      ordi<lb ed="#P" n="86" break="no"/>nis, sic est prima intentio; prout vero consti 
-      <lb ed="#P" n="87"/>tuitur in essc concepto formaliter per conce 
-      <lb ed="#P" n="88"/>ptionem passiuam secundi ordinis, sic est se 
-      <lb ed="#P" n="89"/>cunda intentio. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1291">
-               <lb ed="#P" n="90"/>Haec opinio quinque dicit, quae mihi videm 
-      <lb ed="#P" n="91"/>tur omnino irrationabilia. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1298">
-               <lb ed="#P" n="92"/>Primum est, quod omne, quod concipi 
-      <lb ed="#P" n="93"/>tur constituatur formaliter in essc concepto 
-      <lb ed="#P" n="94"/>per conceptionem passiuam, nam quaeratur,  
-      <lb ed="#P" n="95"/>vtrum ista conceptio passiua sit aliqua forma 
-      <lb ed="#P" n="96"/>realis; si dicatur quod non, hoc videtur
-      fal<lb ed="#P" n="97" break="no"/>sum, quia, cum actus intelligendi, per quem 
-      <lb ed="#P" n="98"/>intellectus format talem conceptionem paffi 
-      <lb ed="#P" n="99"/>uam, sit realis, necessario conceptio pasliua 
-      <lb ed="#P" n="100"/>per ipsum formata erit realis; si vero
-      dica<lb ed="#P" n="101" break="no"/>tur, quod sit realis, sequuntur duo inconue 
-      <lb ed="#P" n="102"/>nientia. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1324">
-               <lb ed="#P" n="103"/>Primo, quod omne conceptum ab
-      in<lb ed="#P" n="104" break="no"/>tellectu capiet ab ipso formaliter aliquam for 
-      <lb ed="#P" n="105"/>mam realem, &amp; per consequens aliquod esse 
-      <lb ed="#P" n="106"/>reale, quod est falsum, Secundo, quod
-      fig<lb ed="#P" n="107" break="no"/>menta non erunt conceptibilia, cum
-      repu<lb ed="#P" n="108" break="no"/>gnet eis habere aliquod reale esse, quod est 
-      <lb ed="#P" n="109"/>absurdum. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1342">
-               <lb ed="#P" n="110"/>Secundum est, quia dicunt, quod ista eo¬ 
-      <!--488.xml-->
-      <pb ed="#P" n="463"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>ceptio passiua includit indistinguibiliter rem, 
-      <lb ed="#P" n="2"/>quae per ipsam concipitur: quaeratur ergo ab 
-      <lb ed="#P" n="3"/>eis, vtrum includat rem conceptam
-      secun<lb ed="#P" n="4" break="no"/>dum esse reale, quod habet in seipsa, vel solum 
-      <lb ed="#P" n="5"/>secundum esse conceptum, quod habet per 
-      <lb ed="#P" n="6"/>ipsum, si dicant primo modo, sequitur quod 
-      <lb ed="#P" n="7"/>quandiu res habebit conceptionem passiuam 
-      <lb ed="#P" n="8"/>in prospectu intellectus, tamdiu habebit
-      es<lb ed="#P" n="9" break="no"/>se reale in seipsa, quod euidenter est falsum; 
-      <lb ed="#P" n="10"/>si vero dicant secundo modo, sequitur aliud 
-      <lb ed="#P" n="11"/>inconueniens, scilicet, quod res non erit con 
-      <lb ed="#P" n="12"/>cepta, nec scita secundum esse reale, quod  
-      <lb ed="#P" n="13"/>habet in seipsa, sed solum secundum esse
-      in<lb ed="#P" n="14" break="no"/>tentionale, quod habet in prospectu
-      intelle<lb ed="#P" n="15" break="no"/>ctus, quod etiam non est concedendum 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1386">
-               <lb ed="#P" n="16"/>Tertium est, quia dicunt, quod conceptus 
-      <lb ed="#P" n="17"/>obiectiuus, qui resultat ex conceptione illa 
-      <lb ed="#P" n="18"/>passiua, &amp; ex ipsa re concepta, includit
-      indi<lb ed="#P" n="19" break="no"/>stinguibiliter illa ambo, &amp; ideo concedunt, 
-      <lb ed="#P" n="20"/>quod nec sit praecisa res, nec precisa ratio, 
-      <lb ed="#P" n="21"/>sed componatur ex vtroque, &amp; includat
-      v<lb ed="#P" n="22" break="no"/>trunque ad quod dictum sequuntur tria incom 
-      <lb ed="#P" n="23"/>uenientia. Primo sequitur, quod erit dare 
-      <lb ed="#P" n="24"/>medium inter ens rationis, &amp; ens reale; nam 
-      <lb ed="#P" n="25"/>illud, quod non est praecise ens rationis, nec 
-      <lb ed="#P" n="26"/>ens reale, oportet, quod sit medium inter 
-      <lb ed="#P" n="27"/>utrunque. Secundo sequitur, quod duo
-      en<lb ed="#P" n="28" break="no"/>tia maxime opposita, scilicet ens rationis, &amp;  
-      <lb ed="#P" n="29"/>ens reale concurrent, &amp; unum efficietur
-      ali<lb ed="#P" n="30" break="no"/>quo modo alterum, quod nullo modo
-      vide<lb ed="#P" n="31" break="no"/>tur intelligibile. Tertio in isto dicto
-      impli<lb ed="#P" n="32" break="no"/>catur contradictio; nam si dictus conceptus 
-      <lb ed="#P" n="33"/>includit praefata duo indistinguibiliter,
-      tan<lb ed="#P" n="34" break="no"/>quam unum simplex (ut ipsi dicunt) sequitur,  
-      <lb ed="#P" n="35"/>quod non componatur ex eis, quia illa, ex 
-      <lb ed="#P" n="36"/>quibus aliquid componitur, necessario rema 
-      <lb ed="#P" n="37"/>nent in eo saltem potentia distinguibilia, cun 
-      <lb ed="#P" n="38"/>ergo ipsi ponant eum componi ex praefatis. 
-      <lb ed="#P" n="39"/>duobus, uidentur cogi ad contradictoria. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1442">
-               <lb ed="#P" n="40"/>Quartum, quod ponit praefata opinio, est,  
-      <lb ed="#P" n="41"/>quod conceptus secundi ordinis sunt
-      quae<lb ed="#P" n="42" break="no"/>dam habitudines, quod etiam uid etur
-      fal<lb ed="#P" n="43" break="no"/>sum propter duo. Primo, quia cum omni- 
-      <lb ed="#P" n="44"/>conceptus formatus fundet habitudinem ad 
-      <lb ed="#P" n="45"/>ipsum concipientem, sequeretur, quod
-      habi<lb ed="#P" n="46" break="no"/>tudo fundaret habitudinem. Secundo
-      se<lb ed="#P" n="47" break="no"/>queretur, quod talis conceptus non posset 
-      <lb ed="#P" n="48"/>esse representatiuus rei, quae per ipsum
-      con<lb ed="#P" n="49" break="no"/>cipitur, quia nulla habitudo est
-      representa<lb ed="#P" n="50" break="no"/>tiua, uel expressiua alicuius.  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1468">
-               <lb ed="#P" n="51"/>Quintum, &amp; ultimum est, quod tam
-      pri<lb ed="#P" n="52" break="no"/>ma, quam secunda intentio est ipsamet res 
-      <lb ed="#P" n="53"/>intellecta, quod etiam est falsum propter duo. 
-      <lb ed="#P" n="54"/>Primo, quia intentio uidetur esse actus rei in 
-      <lb ed="#P" n="55"/>tendentis, intellectus autem est intendens, 
-      <lb ed="#P" n="56"/>&amp; non res intellecta, ergo &amp;c. Secundo 
-      <lb ed="#P" n="57"/>quia sequeretur, quod omnes scientiae essent 
-      <!--488.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 463 b -->
-               <lb ed="#P" n="58"/>de intentionibus, &amp; rebus intellectis, &amp; per 
-      <lb ed="#P" n="59"/>consequens omnes essent aequaliter reales,  
-      <lb ed="#P" n="60"/>&amp; aequaliter rationales. Apparet ergo ex om 
-      <lb ed="#P" n="61"/>nibus istis irrationabilitas istius opinionis,  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1501">
-               <lb ed="#P" n="62"/>Et ideo procedendo aliter ad istum
-      arti<lb ed="#P" n="63" break="no"/>culum dico, quod proprie loquendo intentio 
-      <lb ed="#P" n="64"/>generaliter sumpta non est aliud, quam actus 
-      <lb ed="#P" n="65"/>ntelligendi; Tum quia intellectio est actus rei 
-      <lb ed="#P" n="66"/>intelligentis, intellectus autem est intelliges,  
-      <lb ed="#P" n="67"/>&amp; non ipsa res intellecta, vt tactum est, Tun 
-      <lb ed="#P" n="68"/>etiam, quia per actum intelligendi
-      intelle<lb ed="#P" n="69" break="no"/>ctus tendit in rem intellectam: qua propter. 
-      <lb ed="#P" n="70"/>proprie loquendo nullo modo res intellecta. 
-      <lb ed="#P" n="71"/>potest dici intentio. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1525">
-               <lb ed="#P" n="72"/>Supposito ergo intentionem esse ipsum 
-      <lb ed="#P" n="73"/>actum intelligendi; Prima, &amp; secunda inten 
-      <lb ed="#P" n="74"/>tio distinguuntur hoc modo, quia prima
-      in<lb ed="#P" n="75" break="no"/>tentio est ille actus intelligendi, per quem in 
-      <lb ed="#P" n="76"/>tellectus tendit in rem directo aspectu intel 
-      <lb ed="#P" n="77"/>ligendo eam secundum aliquod esse reale, &amp;  
-      <lb ed="#P" n="78"/>modo, quo fuit expositum superius in praece 
-      <lb ed="#P" n="79"/>denti articulo : Secunda uero intentio est 
-      <lb ed="#P" n="80"/>actus intelligendi reflexus, per quem intelle 
-      <lb ed="#P" n="81"/>ctus tendit in rem aspectu refiexo,
-      intellige<lb ed="#P" n="82" break="no"/>do eam secundum aliquod esse rationis, quod si 
-      <lb ed="#P" n="83"/>bi debetur, prout est iam intellecta per actum 
-      <lb ed="#P" n="84"/>rectum, nam sicut supra dicebatur in2
-      di<lb ed="#P" n="85" break="no"/>stin. quando agebatur de vniuersali, entia ra 
-      <lb ed="#P" n="86"/>tionis constituuntur per primum actum
-      in<lb ed="#P" n="87" break="no"/>tellectus quadam necessitate nostri modi
-      in<lb ed="#P" n="88" break="no"/>telligendi, &amp; ideo per illum actum non
-      co<lb ed="#P" n="89" break="no"/>gnoscuntur, quia si essent cognita, &amp; consti 
-      <lb ed="#P" n="90"/>tuta per eundem actum, cogeremur dicere, 
-      <lb ed="#P" n="91"/>quod prius essent cognita, quam constituta, 
-      <lb ed="#P" n="92"/>&amp; per consequens ille actus rationis, per quen 
-      <lb ed="#P" n="93"/>constituerentur, esset practicus, quod est
-      ab<lb ed="#P" n="94" break="no"/>surdum: quapropter relinquitur, quod
-      ma<lb ed="#P" n="95" break="no"/>le dicant, qui imaginantur, quod intellectus 
-      <lb ed="#P" n="96"/>fabricet entia rationis redeundo super
-      pri<lb ed="#P" n="97" break="no"/>mum actum: quapropter simpliciter est
-      di<lb ed="#P" n="98" break="no"/>cendum, quod constituantur per actum
-      pri<lb ed="#P" n="99" break="no"/>mum, sed cognoscantur constituta per actu 
-      <lb ed="#P" n="100"/>secundum, qui est reflexus; &amp; ex hoc
-      appa<lb ed="#P" n="101" break="no"/>ret immediate, quod entia rationis non
-      de<lb ed="#P" n="102" break="no"/>bent dici secundae intentiones, sed intellecta 
-      <lb ed="#P" n="103"/>secundaria, quemadmodum entia realia non  
-      <lb ed="#P" n="104"/>debent dici primae intentiones, sed
-      intelle<lb ed="#P" n="105" break="no"/>cta primaria 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1601">
-               <lb ed="#P" n="106"/>Redeundo ergo unde sermo digressus est 
-      <lb ed="#P" n="107"/>dico, quod intentio secunda non est aliud, 
-      <lb ed="#P" n="108"/>quam actus intellectus reflexus, per quem 
-      <lb ed="#P" n="109"/>tendit in rem iam intellectam per actum re 
-      <lb ed="#P" n="110"/>ctum, &amp; quia res intellecta per actum
-      re<lb ed="#P" n="111" break="no"/>ctum efficitur fundamentum alicuius entis 
-      <lb ed="#P" n="112"/>rationis, idcirco cum postea cognoscitur aspe 
-      <lb ed="#P" n="113"/>ctu teflexo, intelligitur sub aliquo esse ratio 
-      <lb ed="#P" n="114"/>nis. Imaginabimur ergo in intellectu talem 
-      <!--489.xml-->
-      <pb ed="#P" n="464"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>ordinem, quia primo intellectus intelligit
-      a<lb ed="#P" n="2" break="no"/>liquam rem actu recto cognoscendo eam se 
-      <lb ed="#P" n="3"/>cundum ali quod esse reale, quod habet
-      ex<lb ed="#P" n="4" break="no"/>tra intellectum, ad istum autem actum rectum 
-      <lb ed="#P" n="5"/>sequitur aliquod esse rationis, cuius ipsa
-      re<lb ed="#P" n="6" break="no"/>intellecta constituitur fundamentum, &amp; quia 
-      <lb ed="#P" n="7"/>istud esse rationis consequitur rem
-      median<lb ed="#P" n="8" break="no"/>te primo actu intellectus, idcirco necessario 
-      <lb ed="#P" n="9"/>supponit eum, ac per consequens non potest 
-      <lb ed="#P" n="10"/>per ipsum cognosci; si ergo debeat cognosci 
-      <lb ed="#P" n="11"/>oportet, quod superueniat actus secundus,  
-      <lb ed="#P" n="12"/>per quem reflectat se super eandem rem
-      in<lb ed="#P" n="13" break="no"/>telligendo eam non solum secundum aliqud 
-      <lb ed="#P" n="14"/>esse reale, quod sibi debetur antequam sit in 
-      <lb ed="#P" n="15"/>tellecta, sed etiam secundum aliquod esse 
-      <lb ed="#P" n="16"/>rationis, quod sibi attribuitur postquam est 
-      <lb ed="#P" n="17"/>intellecta, hoc autem exemplo declaratur. 
-      <lb ed="#P" n="18"/>Videmus enim quod si intellectus feratur su 
-      <lb ed="#P" n="19"/>per hominem actu recto intelliget eum secun 
-      <lb ed="#P" n="20"/>dum quod homo, ac per consequens
-      secun<lb ed="#P" n="21" break="no"/>dum aliquod esse reale, quod habet extra in 
-      <lb ed="#P" n="22"/>tellectum, &amp; quia homo sic intellectus prae 
-      <lb ed="#P" n="23"/>scindit ab omnibus conditionibus indiuidua 
-      <lb ed="#P" n="24"/>libus, idcirco efficitur necessario
-      fundamen<lb ed="#P" n="25" break="no"/>tum vniuersalitatis, quamuis nondum cogno 
-      <lb ed="#P" n="26"/>scatur sub esse vniuersali; si vero postea
-      in<lb ed="#P" n="27" break="no"/>tellectus reflectat se super hominem iam con 
-      <lb ed="#P" n="28"/>gnitum per primum actum, necessario intel 
-      <lb ed="#P" n="29"/>liget ipsum sub esse vniuersali, quod est esse  
-      <lb ed="#P" n="30"/>rationis, quia videbit, quod ad hominem sic 
-      <lb ed="#P" n="31"/>intellectum, necessario consequitur
-      vniuer<lb ed="#P" n="32" break="no"/>salitas. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1699">
-               <lb ed="#P" n="33"/>Ex quibus omnibus apparet quidsit dice 
-      <lb ed="#P" n="34"/>dum quantum ad istum articulum, cum quae 
-      <lb ed="#P" n="35"/>ritur, vtrum prima, &amp; secunda intentio
-      ca<lb ed="#P" n="36" break="no"/>dant super eandem rem intellectam;
-      dicen<lb ed="#P" n="37" break="no"/>dum est enim quod sic, quamuis alio, &amp; alio 
-      <lb ed="#P" n="38"/>modo, quia Prima intentio cadit super: rem 
-      <lb ed="#P" n="39"/>intellectam directo aspectu secundum aliqud 
-      <lb ed="#P" n="40"/>esse reale, quod habet extra intellectum, Se 
-      <lb ed="#P" n="41"/>cunda vero intentio super eandem rem aspe 
-      <lb ed="#P" n="42"/>ctu reflexo tendendo in eam secundum
-      ali<lb ed="#P" n="43" break="no"/>quod esse rationis, quod eam consequitur, in 
-      <lb ed="#P" n="44"/>quantum intellecta per primum actum, v. 0. 
-      <lb ed="#P" n="45"/>si actus intellectus cadat super hominem
-      di<lb ed="#P" n="46" break="no"/>recto aspectu, necessario intelligit ipsum
-      se<lb ed="#P" n="47" break="no"/>cundum aliquod esse reale, quod habet
-      ex<lb ed="#P" n="48" break="no"/>tra intellectum; si vero cadat super
-      homi<lb ed="#P" n="49" break="no"/>ne aspectu reflexo, oportet necessario quod 
-      <lb ed="#P" n="50"/>intelligat eum in ordine ad primum actum; 
-      <lb ed="#P" n="51"/>qui fuit rectus, quia nisi ita ponatur, actus 
-      <lb ed="#P" n="52"/>iste secundus non esset magis reflexus, quam 
-      <lb ed="#P" n="53"/>primus: Si autem concedamus, quod
-      intel<lb ed="#P" n="54" break="no"/>ligat eum in ordine ad actum primum, qui 
-      <lb ed="#P" n="55"/>est rectus, cogimur concedere, quod
-      conci<lb ed="#P" n="56" break="no"/>biareum sub quodam esse rationis, quod
-      si<lb ed="#P" n="57" break="no"/>bi competit, inquantum cognitus per actum  
-      <!--489.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 464 b -->
-               <lb ed="#P" n="58"/>primum, &amp; quia homo, inquantum
-      cogni<lb ed="#P" n="59" break="no"/>tus per actum primum, cognoscitur per
-      ab<lb ed="#P" n="60" break="no"/>stractionem, idcirco ex hoc ipso necessario 
-      <lb ed="#P" n="61"/>fundat quandam vniuersalitatem per
-      indif<lb ed="#P" n="62" break="no"/>ferentiam ad plura, quae quidem
-      vniuersali<lb ed="#P" n="63" break="no"/>tas est ens rationis, ac per consequens
-      intel<lb ed="#P" n="64" break="no"/>lectus cognoscens hominem isto modo,
-      co<lb ed="#P" n="65" break="no"/>gnoscit eum, vt fundamentum entis
-      ratio<lb ed="#P" n="66" break="no"/>nis: Et hinc est, quod aliud nomen sibi
-      im<lb ed="#P" n="67" break="no"/>ponit in primo actu, &amp; aliud in secundo; 
-      <lb ed="#P" n="68"/>nam in primo actu vocat eum hominem, quod 
-      <lb ed="#P" n="69"/>est nomen primae intentionis ad significandum 
-      <lb ed="#P" n="70"/>eum sub aliquo esse reali; in secundo vero 
-      <lb ed="#P" n="71"/>actu vocat eum speciem, siue vniuersale, quod 
-      <lb ed="#P" n="72"/>est nomen secundae intentionis ad significon 
-      <lb ed="#P" n="73"/>dum eum sub aliquo esse rationis. Potest ta 
-      <lb ed="#P" n="74"/>men contingere quandoque quod idem
-      no<lb ed="#P" n="75" break="no"/>men imponatur ad significandum rem sub 
-      <lb ed="#P" n="76"/>esse reali, &amp; sub esse rationis, &amp; per
-      conse<lb ed="#P" n="77" break="no"/>uens idem potest esse nomen primae, &amp;
-      se<lb ed="#P" n="78" break="no"/>cundae intentionis, sicut patebit in sequenti 
-      <lb ed="#P" n="79"/>articulo de hoc nomine indiuiduum, ex qua 
-      <lb ed="#P" n="80"/>cunque causa hoc contingat, nam de hoc
-      ni<lb ed="#P" n="81" break="no"/>hil ad praesens; nunc enim satis est scire, quod 
-      <lb ed="#P" n="82"/>per se, &amp; vt in pluribus, aliud est nomen pri 
-      <lb ed="#P" n="83"/>mae, &amp; aliud nomen secundae intentionis; 
-      <lb ed="#P" n="84"/>quae quidem intentio prima, &amp; secunda
-      ca<lb ed="#P" n="85" break="no"/>dunt super eandem rem intellectam,
-      quam<lb ed="#P" n="86" break="no"/>uis alio modo, vt potest patere ex dictis: Re 
-      <lb ed="#P" n="87"/>stat ergo videre modo in speciali de nomine 
-      <lb ed="#P" n="88"/>personae. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1830">
-               <lb ed="#P" n="89"/>ARTICVLVS TERTIVS. 
-      <lb ed="#P" n="90"/>Vtrum nomen personae sit nomen primae. 
-      <lb ed="#P" n="91"/>intentionis, vel secundae.
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1839">
-               <lb ed="#P" n="92"/>D quod dicunt aliqui, quod est nomen 
-      <lb ed="#P" n="93"/>primae intentionis, quod probant
-      du<lb ed="#P" n="94" break="no"/>pliciter. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1848">
-               <lb ed="#P" n="95"/>Primo, quia hoc nomen persona, dicit con 
-      <lb ed="#P" n="96"/>ceptum absolutum, quemadmodum &amp; hoc 
-      <lb ed="#P" n="97"/>nomen suppositum; nam sicut suppositum 
-      <lb ed="#P" n="98"/>dicitur a subsistendo in se generaliter in
-      ge<lb ed="#P" n="99" break="no"/>nere substantiae; ita persona dicitur a subsisten 
-      <lb ed="#P" n="100"/>do in se specialiter in natura intellectuali, &amp;  
-      <lb ed="#P" n="101"/>ideo vtrunque eorum importat conceptum ab 
-      <lb ed="#P" n="102"/>solutum. Nomina autem secundarum inten 
-      <lb ed="#P" n="103"/>tionum important conceptum relatiuum, vt 
-      <lb ed="#P" n="104"/>patuit (per eos) in praecedenti articulo.  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1872">
-               <lb ed="#P" n="105"/>Secundo, quia hoc nomen persona, &amp; hoc 
-      <lb ed="#P" n="106"/>nomen suppositum, important conceptum for 
-      <lb ed="#P" n="107"/>matum de re secudum: perseitatem tertij mo 
-      <lb ed="#P" n="108"/>di, quae quidem perseitas competit rei, prout 
-      <lb ed="#P" n="109"/>est extra intellectum, &amp; ideo tam conceptus 
-      <lb ed="#P" n="110"/>suppositi, quam personae est conceptus primi 
-      <lb ed="#P" n="111"/>ordinis. Nomina autem secundarum intep¬ 
-      <!--490.xml-->
-      <pb ed="#P" n="465"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>tionum important conceptum secundi
-      ordi<lb ed="#P" n="2" break="no"/>nis; quapropter videtur naec opinio ponere, 
-      <lb ed="#P" n="3"/>quod hoc nomen persona, &amp; suppositum sint 
-      <lb ed="#P" n="4"/>nomina primae intentionis. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1905">
-               <lb ed="#P" n="5"/>Quae opinio videtur deficere in se, &amp; in 
-      <lb ed="#P" n="6"/>suo fundamento. IN SE deficit propter duo. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1912">
-               <lb ed="#P" n="7"/>Primo, quia cogitur dicere, quod commu 
-      <lb ed="#P" n="8"/>nitas nominis personae sit accepta ab aliqua 
-      <lb ed="#P" n="9"/>communitate praeexistente in re, hoc autem 
-      <lb ed="#P" n="10"/>non est verum, vel saltem est valde dubium 
-      <lb ed="#P" n="11"/>quia illud, quod est commune in diuinis
-      se<lb ed="#P" n="12" break="no"/>cundum rem, non videtur posse plurificari, 
-      <lb ed="#P" n="13"/>persona autem ibi plurificatur, quapropter 
-      <lb ed="#P" n="14"/>non videtur, quod simpliciter esse possit
-      no<lb ed="#P" n="15" break="no"/>men primae intentionis. Et confirmatur, quia 
-      <lb ed="#P" n="16"/>si nomen personae esset simpliciter nomen 
-      <lb ed="#P" n="17"/>primae intentionis, tunc eodem modo
-      signi<lb ed="#P" n="18" break="no"/>ficaretur persona patris per hoc nomen
-      pa<lb ed="#P" n="19" break="no"/>ter, &amp; per hoc nomen persona, quia vtruque 
-      <lb ed="#P" n="20"/>eorum significaret personam patris secundum 
-      <lb ed="#P" n="21"/>illud, quod est in re extra intellectum, ac por 
-      <lb ed="#P" n="22"/>consequens sicut persona patris, vt
-      significa<lb ed="#P" n="23" break="no"/>tur nomine patris, non communicat cum fi- 
-      <lb ed="#P" n="24"/>lio nec nomine, nec significato nominis, quia 
-      <lb ed="#P" n="25"/>filius nullo modo est pater; ita etiam, vt signi 
-      <lb ed="#P" n="26"/>ficatur nomine persouae, nullo modo commu 
-      <lb ed="#P" n="27"/>nicaret cum filio nec iu nomine, nec in sigui 
-      <lb ed="#P" n="28"/>ficato nomiuis; quod est falsum, quia non  
-      <lb ed="#P" n="29"/>solum pater est persona, sed etiam filius, qua 
-      <lb ed="#P" n="30"/>propter non videtur, quod nomen personae 
-      <lb ed="#P" n="31"/>sit simpliciter nomen primae intentionis 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e1970">
-               <lb ed="#P" n="32"/>Secundo, quia ex dictis eorum sequitur  
-      <lb ed="#P" n="33"/>oppositum ipsius, quod patet. Dicunt enim, 
-      <lb ed="#P" n="34"/>quod omnia nomina, quae significant
-      conce<lb ed="#P" n="35" break="no"/>ptum relatiuum sunt nomina secundae
-      inte<lb ed="#P" n="36" break="no"/>tionis, sed nomen personae, vt probabo, sigui 
-      <lb ed="#P" n="37"/>ficat conceptum relatiuum, ergo &amp;c.
-      Mino<lb ed="#P" n="38" break="no"/>rem probo, quia illud, quod est commune, 
-      <lb ed="#P" n="39"/>importat habitudinem ad ea, quibus est com 
-      <lb ed="#P" n="40"/>mune, &amp; non potest concipi, nisi conceptu 
-      <lb ed="#P" n="41"/>relatiuo; &amp; quia nomen personae habet
-      si<lb ed="#P" n="42" break="no"/>nificatum commune, videtur necessario ha 
-      <lb ed="#P" n="43"/>bere conceptum relatiuum, ac per consequens,  
-      <lb ed="#P" n="44"/>vel erit nomen secundae intentionis, vel non 
-      <lb ed="#P" n="45"/>erit simpliciter nomen primae intentionis,
-      si<lb ed="#P" n="46" break="no"/>cut isti dicunt 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2005">
-               <lb ed="#P" n="47"/>TVNDAMENTVM etiam istius
-      opi<lb ed="#P" n="48" break="no"/>nionis deficit dupliciter. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2012">
-               <lb ed="#P" n="49"/>Primo, quia supponit, quod omne nomen 
-      <lb ed="#P" n="50"/>significet conceptum, cuius oppositum fuit 
-      <lb ed="#P" n="51"/>probatum in primo articulo istius quaestionis,  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2021">
-               <lb ed="#P" n="52"/>Secundo, quia supponit, quod nomen 
-      <lb ed="#P" n="53"/>mportans conceptum formatum de re
-      secun<lb ed="#P" n="54" break="no"/>dum esse, quod habet extra intellectum,
-      sim<lb ed="#P" n="55" break="no"/>liciter sit nomen primae intentionis, quod ta 
-      <lb ed="#P" n="56"/>men non videtur vniuersaliter verum. Nam  
-      <lb ed="#P" n="57"/>si nomen semper signisicet conceptum, vt 
-      <!--490.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 465 b -->
-               <lb ed="#P" n="58"/>ipsi dicunt, non est dubium, quod hoc
-      no<lb ed="#P" n="59" break="no"/>men oroprium importat conceptum
-      forma<lb ed="#P" n="60" break="no"/>tum de re secundum esse, quod habet extra 
-      <lb ed="#P" n="61"/>intellectum, quia passio alicuius subiecti, quae 
-      <lb ed="#P" n="62"/>significatur hoc nomine, vere est propria suo 
-      <lb ed="#P" n="63"/>subiecto, &amp; tamen hoc non obstante consue 
-      <lb ed="#P" n="64"/>uit poni nomen secundae intentionis; ergo 
-      <lb ed="#P" n="65"/>a simili non obstante, quod hoc nomen
-      per<lb ed="#P" n="66" break="no"/>sona, importet conceptum formatum de re 
-      <lb ed="#P" n="67"/>secundum perseitatem tertij modi, quae sibi 
-      <lb ed="#P" n="68"/>debetur, prout est extra intellectum,
-      pote<lb ed="#P" n="69" break="no"/>rit esse nomen secundae intentionis 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2069">
-               <lb ed="#P" n="70"/>Et ideo est alius modus ponendi. Dicunt 
-      <lb ed="#P" n="71"/>enim quidam, quod nomen personae est
-      no<lb ed="#P" n="72" break="no"/>men secundae intentionis, quemadmodum  
-      <lb ed="#P" n="73"/>indiuiduum, namita se habet persona in na 
-      <lb ed="#P" n="74"/>tura intellectuali sicut indiuiduum in
-      qua<lb ed="#P" n="75" break="no"/>libet natura, sed indiuiduum est nomen
-      se<lb ed="#P" n="76" break="no"/>cundae intentionis, ergo &amp; persona: Maior 
-      <lb ed="#P" n="77"/>videtur nota; Minor probatur, quia
-      indiui<lb ed="#P" n="78" break="no"/>duum dicitur relatiue ad speciem, relatiua 
-      <lb ed="#P" n="79"/>autem debent esse eiusdem generis; cum ergo 
-      <lb ed="#P" n="80"/>species sit nomen secundae intentionis, ergo 
-      <lb ed="#P" n="81"/>&amp; indiuiduum 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2098">
-               <lb ed="#P" n="82"/>Haec tamen opinio non videtur mihi
-      ra<lb ed="#P" n="83" break="no"/>tionabilis; &amp; hoc praecipue propter tria, 
-      <lb ed="#P" n="84"/>Tum quia si hoc nomen persona, esset
-      prae<lb ed="#P" n="85" break="no"/>cise nomen secudae intentionis, sequeretur, 
-      <lb ed="#P" n="86"/>quod non significaret aliquam subsistentiam  
-      <lb ed="#P" n="87"/>extra intellectum sub esse reali; consequens 
-      <lb ed="#P" n="88"/>est falsum; ergo &amp; antecedens, Consequen 
-      <lb ed="#P" n="89"/>tia apparet ex dictis in praecedenti articulo; 
-      <lb ed="#P" n="90"/>Falsitatem probo ex definitione personae quam 
-      <lb ed="#P" n="91"/>dat Ricchardus 4. de Trinitate sic inquiens 
-      <lb ed="#P" n="92"/>Persona est intellectualis naturae indiuidua 
-      <lb ed="#P" n="93"/>existentia. Tum quia si nomen personae esset 
-      <lb ed="#P" n="94"/>nomen secundae intentionis, sequeretur, Tri 
-      <lb ed="#P" n="95"/>nitatem etiam esse nomen secundae intentio 
-      <lb ed="#P" n="96"/>nis in diuinis, quod nullus Catholicus dice 
-      <lb ed="#P" n="97"/>ret: Consequentiam probo, quia sicut dicit 
-      <lb ed="#P" n="98"/>Magister in praecedenti distinct. hoc nomen 
-      <lb ed="#P" n="99"/>Trinitas, est quasi collectiuum designas plura 
-      <lb ed="#P" n="100"/>litatem personarum. Tum ent, quia hoc nomen 
-      <lb ed="#P" n="101"/>essentia esset etiam nomen secundae intentio 
-      <lb ed="#P" n="102"/>nis, quod patet esse falsum: Consequentiam  
-      <lb ed="#P" n="103"/>probo, quia ita se habet hoc nomen persona 
-      <lb ed="#P" n="104"/>in diuinis ad significandum illud, quod est 
-      <lb ed="#P" n="105"/>ibi incommunicabile, quemadmodum hoc 
-      <lb ed="#P" n="106"/>nomen essentia, ad significandum illud, quod 
-      <lb ed="#P" n="107"/>est ibi communicabile¬ 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2158">
-               <lb ed="#P" n="108"/>Dico ergo ipse ad hunc articulum non
-      es<lb ed="#P" n="109" break="no"/>se inconueniens, quod vnum, &amp; idem nomi 
-      <lb ed="#P" n="110"/>quandoque imponatur ad significandam rem  
-      <lb ed="#P" n="111"/>sub esse reali, &amp; sub esse rationis, &amp; per con 
-      <lb ed="#P" n="112"/>sequens idem potest esse nomen primae, &amp; se 
-      <lb ed="#P" n="113"/>cundae intentionis, sicut tangebatur in
-      prae<lb ed="#P" n="114" break="no"/>cedenti articulo de hoc nomine indiuiduum, 
-      <!--491.xml-->
-      <pb ed="#P" n="466"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>quod quidem secundum alium, &amp; alium mo 
-      <lb ed="#P" n="2"/>i dum significandi significat rem sub aliquo 
-      <lb ed="#P" n="3"/>esse reali, &amp; sub aliquo esse rationis: nam si
-      ac<lb ed="#P" n="4" break="no"/>cipiatur hoc nomen indiuiduum, prout signi 
-      <lb ed="#P" n="5"/>ficat aliquam rem, secundum quod habet 
-      <lb ed="#P" n="6"/>suam propriam singularitatem, sic significat 
-      <lb ed="#P" n="7"/>eam sub esse reali, quod habet extra
-      intelle<lb ed="#P" n="8" break="no"/>ctum, sin autem sumatur, prout significat ea 
-      <lb ed="#P" n="9"/>dem rem, inquantum per eandem
-      singula<lb ed="#P" n="10" break="no"/>ritatem stat sub specle per modum partis com 
-      <lb ed="#P" n="11"/>trahentis, &amp; diuidentis, sic significat ea sub 
-      <lb ed="#P" n="12"/>esse rationis, quia indiuiduum non habet, 
-      <lb ed="#P" n="13"/>quod stet sub specie per modum partis, nisi 
-      <lb ed="#P" n="14"/>supposito actu intellectus abstrahentis
-      spe<lb ed="#P" n="15" break="no"/>ciem ab indiuiduis, &amp; ideo sicut habitudo 
-      <lb ed="#P" n="16"/>speciei ad indiuidua, quia detelinquitur ex 
-      <lb ed="#P" n="17"/>actu rationis, est ens rationis; ita habitudo, 
-      <lb ed="#P" n="18"/>quam habet indiuiduum ad speciem in ratio 
-      <lb ed="#P" n="19"/>ne partis, est etiam ens rationis, ex quo sequi 
-      <lb ed="#P" n="20"/>tur immediate, quod indiuiduum non sit pars 
-      <lb ed="#P" n="21"/>realis respectu speciei, sed pars secundum
-      ra<lb ed="#P" n="22" break="no"/>tionem, quemadmodum etiam species respe 
-      <lb ed="#P" n="23"/>ctu indiuiduorum non est totum reale, sed  
-      <lb ed="#P" n="24"/>totum secundum rationem; Recte igitur in 
-      <lb ed="#P" n="25"/>dist. 10. dicebatur quando de diuinis
-      perso<lb ed="#P" n="26" break="no"/>nis quaerebatur, vtrum essent partes; Dictum 
-      <lb ed="#P" n="27"/>enim fuit, quod totum vniuersale quodcumqu 
-      <lb ed="#P" n="28"/>non est totum reale, sed totum secundum 
-      <lb ed="#P" n="29"/>rationem, &amp; per consequens suae partes
-      sub<lb ed="#P" n="30" break="no"/>iectiuae non sunt partes reales, sed secudum 
-      <lb ed="#P" n="31"/>rationem. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2249">
-               <lb ed="#P" n="32"/>Redeundo ergo unde sermo digressus est,  
-      <lb ed="#P" n="33"/>dico, quod si accipiamus nomen indiuidui, 
-      <lb ed="#P" n="34"/>prout dignificat rem sub esse reali, quod
-      ha<lb ed="#P" n="35" break="no"/>bet extra intellectum, sic est nomen primae 
-      <lb ed="#P" n="36"/>intentionis, quia significat rem, prout cadit 
-      <lb ed="#P" n="37"/>super ea prima intentio; si uero accipiamus 
-      <lb ed="#P" n="38"/>idem nomen, prout significat rem secundo 
-      <lb ed="#P" n="39"/>modo, scilicet sub esse rationis, potest esse non 
-      <lb ed="#P" n="40"/>men secundae intentionis, quia significat rem,  
-      <lb ed="#P" n="41"/>prout cadit super eam secuuda intentio 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2273">
-               <lb ed="#P" n="42"/>Posset insuper hoc declarari alio modo di 
-      <lb ed="#P" n="43"/>cendo, quod hoc nomen indiuiduum, potest 
-      <lb ed="#P" n="44"/>significare rem singularem dupliciter, uno 
-      <lb ed="#P" n="45"/>modo secundum propriam singularitatem, 
-      <lb ed="#P" n="46"/>quam habet in rerum natura extra
-      intelle<lb ed="#P" n="47" break="no"/>ctum, &amp; isto modo est nomen primae
-      inten<lb ed="#P" n="48" break="no"/>tionis, sicut tactum fuit, quia connotat rem 
-      <lb ed="#P" n="49"/>sub esse reali, secundum quod cadit super 
-      <lb ed="#P" n="50"/>eam prima intentio; alio modo potest
-      signi<lb ed="#P" n="51" break="no"/>ficare eandem rem, prout fundat quandam si 
-      <lb ed="#P" n="52"/>militudinem rationis ad quodlibet aliud
-      in<lb ed="#P" n="53" break="no"/>diuiduum. Nam quamuis indiuidua
-      diuer<lb ed="#P" n="54" break="no"/>sorum generum habeant distinctas singulari 
-      <lb ed="#P" n="55"/>tates extra intellectum, &amp; distinctos conce 
-      <lb ed="#P" n="56"/>ptus apud intellectum, illi tamen conceptus 
-      <lb ed="#P" n="57"/>cadunt super dicta indiuidua quasi unifor¬ 
-      <!--491.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 466 b -->
-               <lb ed="#P" n="58"/>miter, &amp; consimiliter, quia intellectus in con 
-      <lb ed="#P" n="59"/>cipiendo indiuiduum cuiuscunque generis, se 
-      <lb ed="#P" n="60"/>per concipitipsum sub ratione entis indiuisi 
-      <lb ed="#P" n="61"/>in se, &amp; diuisi ab alio, &amp; semper seruat istum 
-      <lb ed="#P" n="62"/>modum vniformem concipiendi indiuiduum 
-      <lb ed="#P" n="63"/>cuiuscunque generis, &amp; dico ratione huius 
-      <lb ed="#P" n="64"/>vniformis modi concipiendi inter indiuidua 
-      <lb ed="#P" n="65"/>sic concepta, quantumcunque sint diuersorum 
-      <lb ed="#P" n="66"/>generum, consurgit tamen inter ea quaedam  
-      <lb ed="#P" n="67"/>similitudo rationis, ratione cuius imponitur 
-      <lb ed="#P" n="68"/>eis unum nomen, scilicet nomen indiuidui: 
-      <lb ed="#P" n="69"/>Ex quo apparet immediate, quod hoc nomen 
-      <lb ed="#P" n="70"/>indiuiduum sic aceptum significat rem sub 
-      <lb ed="#P" n="71"/>aliquo esse rationis, secundum quod super 
-      <lb ed="#P" n="72"/>psum cadit secunda intentio, &amp; per conse 
-      <lb ed="#P" n="73"/>quens est nomen secundae intentionis; &amp; 
-      <lb ed="#P" n="74"/>quod dictum est de indiuiduo posset dici de 
-      <lb ed="#P" n="75"/>proprio, &amp; de quibuscunque alijs nominibus, 
-      <lb ed="#P" n="76"/>quae ex vna parte videntur esse nomina
-      pri<lb ed="#P" n="77" break="no"/>mae intentionis, &amp; ex alia secundae,
-      quodli<lb ed="#P" n="78" break="no"/>bet enim eorum potest dici nomen primae, &amp;  
-      <lb ed="#P" n="79"/>secundae intentionis aliter, &amp; aliter, 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2364">
-               <lb ed="#P" n="80"/>Ad propositum ergo desendendo in
-      spe<lb ed="#P" n="81" break="no"/>ciali ad hoc nomen persona, dico quod non est 
-      <lb ed="#P" n="82"/>praecise nomen primae intentionis, nec praeci 
-      <lb ed="#P" n="83"/>se nomen secundae, sed se habet utroque mo 
-      <lb ed="#P" n="84"/>do tam in creaturis, quam in diuinis: Nam  
-      <lb ed="#P" n="85"/>dictum nomen acceptum inquantum impo 
-      <lb ed="#P" n="86"/>nitur ad significandum suppositum naturae 
-      <lb ed="#P" n="87"/>intellectualis secundum propriam, &amp;
-      inco<lb ed="#P" n="88" break="no"/>municabilem subsistentiam, quam habet rea 
-      <lb ed="#P" n="89"/>liter extra intellectum, sic est nomen primae 
-      <lb ed="#P" n="90"/>intentionis; acceptum uero, inquantum im 
-      <lb ed="#P" n="91"/>ponitur ad significadum illud idem
-      supposi<lb ed="#P" n="92" break="no"/>tum, prout fundat quandam similitudinem 
-      <lb ed="#P" n="93"/>rationis ad quodcunque aliud suppositum ra 
-      <lb ed="#P" n="94"/>tione vniformis, &amp; consimilis modi concipien 
-      <lb ed="#P" n="95"/>di, sic est nomen secundae intentionis, quia 
-      <lb ed="#P" n="96"/>significat rem sub esse rationis secundum 
-      <lb ed="#P" n="97"/>quod cadit super eam secunda intentio; &amp;  
-      <lb ed="#P" n="98"/>sic quod dictum fuit de nomine indiuidui, dici  
-      <lb ed="#P" n="99"/>potest de hoc nomine persona
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2410">
-               <lb ed="#P" n="100"/>Intelligendum tamen, quod cum duobus 
-      <lb ed="#P" n="101"/>modis explicetum sit quomodo hoc nomen 
-      <lb ed="#P" n="102"/>indiuiduum, &amp; persona possint dici nomina 
-      <lb ed="#P" n="103"/>secundae intentionis, secundus tantum
-      pro<lb ed="#P" n="104" break="no"/>prie habet locum in diuinis, alter uero non 
-      <lb ed="#P" n="105"/>habet ibi locum nisi secundum nostrum mo 
-      <lb ed="#P" n="106"/>dum intelligendi. Et quod ita sit apparet, nam 
-      <lb ed="#P" n="107"/>si acoipiatur hoc nomen persona, inquantum 
-      <lb ed="#P" n="108"/>est nomen secundae intentionis significando 
-      <lb ed="#P" n="109"/>suppositum naturae intellectualis sub
-      habi<lb ed="#P" n="110" break="no"/>tudine partis secundum rationem,
-      quemad<lb ed="#P" n="111" break="no"/>modum hoc nomen indiuiduum, apparet, quod 
-      <lb ed="#P" n="112"/>talis modus fignisicandi non habet proprie 
-      <lb ed="#P" n="113"/>locum in diuinis, quia ostensum fuit in 10. 
-      <lb ed="#P" n="114"/>dist. quod ibi non est ratio totius vniuersalis. 
-      <!--492.xml-->
-      <pb ed="#P" n="467"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>nec ratio partis, &amp; ideo nullum nomen
-      po<lb ed="#P" n="2" break="no"/>test proprie significare diuinam personam sub 
-      <lb ed="#P" n="3"/>habitudine partis, secundum tamen nostrum 
-      <lb ed="#P" n="4"/>modum intelligendi omnino extraneum po 
-      <lb ed="#P" n="5"/>test iste modus significandi aliqualiter ibi reci 
-      <lb ed="#P" n="6"/>pi, puta, quia non intelligimus supposita di 
-      <lb ed="#P" n="7"/>uina nisi per supposita creata: idcirco sicut  
-      <lb ed="#P" n="8"/>intelligendo aliquod determinatum supposi 
-      <lb ed="#P" n="9"/>tum in creaturis intelligimus ipsum per mo 
-      <lb ed="#P" n="10"/>dum partis; ita secundum rationem intelligi 
-      <lb ed="#P" n="11"/>mus supposita diuina respectu diuinae
-      natu<lb ed="#P" n="12" break="no"/>tae, quamuis rationem partis non habeat, ui 
-      <lb ed="#P" n="13"/>dictum fuit supra; Si autem capiatur hoc no 
-      <lb ed="#P" n="14"/>men persona, inquantum est nomen
-      secun<lb ed="#P" n="15" break="no"/>dae intentionis significando suppositum
-      na<lb ed="#P" n="16" break="no"/>turae intellectualis sub quadam similitudine 
-      <lb ed="#P" n="17"/>rationis, quam fundat ad aliud suppositum 
-      <lb ed="#P" n="18"/>proper vniformen, &amp; consimilem modum 
-      <lb ed="#P" n="19"/>concipiendi, quem intellectus habet circa 
-      <lb ed="#P" n="20"/>ipsa, hoc modo videtur habere locum in
-      di<lb ed="#P" n="21" break="no"/>uinis suus modus significandi, quia uere est 
-      <lb ed="#P" n="22"/>vniformis, &amp; consimilis modus concipiendi 
-      <lb ed="#P" n="23"/>quo intellectus concipit personam Patris &amp;  
-      <lb ed="#P" n="24"/>personam Filij, &amp; quo concipit personam 
-      <lb ed="#P" n="25"/>Spiritus Sancti: Nam sicut in concipiendo 
-      <lb ed="#P" n="26"/>personam Patris concipit ipsam sub ratione 
-      <lb ed="#P" n="27"/>suppositi subsistentis incommunicabilis in na 
-      <lb ed="#P" n="28"/>tura diuina; ita uniformiter concipit
-      perso<lb ed="#P" n="29" break="no"/>nam Filij, &amp; personam Spiritus Saucti. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2514">
-               <lb ed="#P" n="30"/>Vnum tamen, quod facit dubium circa 
-      <lb ed="#P" n="31"/>huiusmodi dictum, est, quia ubi est talis
-      uni<lb ed="#P" n="32" break="no"/>formis modus concipiendi, uidetur esse possi 
-      <lb ed="#P" n="33"/>bile abstrahere vnum commune conceptum, 
-      <lb ed="#P" n="34"/>quod nullo modo videtur esse dicendum de 
-      <lb ed="#P" n="35"/>persona; nec etiam de indiuiduo, quia tunc 
-      <lb ed="#P" n="36"/>indiuiduum, sub ratione qua indiuiduum, es 
-      <lb ed="#P" n="37"/>set uniuersale, quod est absurdum.
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2535">
-               <lb ed="#P" n="38"/>Quid autem sit dicendum ad istud dubium 
-      <lb ed="#P" n="39"/>patebit in 25 dist. ubi quaeretur de
-      significa<lb ed="#P" n="40" break="no"/>to nominis persenae magis in speciali; &amp; per 
-      <lb ed="#P" n="41"/>consequens etiam ibi melius apparebit qua 
-      <lb ed="#P" n="42"/>lis sit communitas dicti nominis, 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2548">
-               <lb ed="#P" n="43"/>Ad praesens autem scire sufficiat, quod 
-      <lb ed="#P" n="44"/>nomen perso nae aliquo modo est nomen pri 
-      <lb ed="#P" n="45"/>mae intentiouis, &amp; aliquo modo secundae; &amp;  
-      <lb ed="#P" n="46"/>ideo dato, quod non possit esse quid commu 
-      <lb ed="#P" n="47"/>ne Patri, Filio, &amp; Spiritui Santo, prout est 
-      <lb ed="#P" n="48"/>nomen primae intentionis, poterit tamen ha 
-      <lb ed="#P" n="49"/>bere dictam communitatem, prout est nomen 
-      <lb ed="#P" n="50"/>secundae intentionis.  
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2568">
-               <lb ed="#P" n="51"/>Rationes autem pro ista conclusione non 
-      <lb ed="#P" n="52"/>adduco alias, quam superius inductas contra 
-      <lb ed="#P" n="53"/>praecedentes opiniones, cum per eas sufficie 
-      <lb ed="#P" n="54"/>ter probari possit personam non esse
-      simpli<lb ed="#P" n="55" break="no"/>citer nomen primae, nec simpliciter secuda 
-      <lb ed="#P" n="56"/>intentionis, ex quo sequitur, quod praefatum 
-      <lb ed="#P" n="57"/>nomen, vel non sit impositum secundum ali 
-      <!--492.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 467 b -->
-               <lb ed="#P" n="58"/>quam intentionem intellectus, quod est
-      ab<lb ed="#P" n="59" break="no"/>surdum, vel quod sit impositum secundum 
-      <lb ed="#P" n="60"/>vtramque, &amp; per consequens sit nomen tam 
-      <lb ed="#P" n="61"/>primae, quam etiam secundae intentionis 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2601">
-               <lb ed="#P" n="62"/>AD ARGVMENTA 
-      <lb ed="#P" n="63"/>principalia.
-      <lb ed="#P" n="64"/>D rationes principales, per iam dicta 
-      <lb ed="#P" n="65"/>in his tribus articulis facile colligi
-      po<lb ed="#P" n="66" break="no"/>test quid sit dicendum; Omnes. nm procedunt
-      se<lb ed="#P" n="67" break="no"/>cundum opiniones contrarias, quas supra 
-      <lb ed="#P" n="68"/>confutauimus 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2619">
-               <lb ed="#P" n="69"/>Prima. nm procedit secundum opinionem 
-      <lb ed="#P" n="70"/>eorum, qui dicunt omnia nomina significare 
-      <lb ed="#P" n="71"/>intentionem primam, vel secudam: Nos autem 
-      <lb ed="#P" n="72"/>dicimus, quod significant, rem ipsam secundum 
-      <lb ed="#P" n="73"/>esse, quod habet in seipsam, &amp; quia
-      conci<lb ed="#P" n="74" break="no"/>iendo essentiam concipimus aliquod singu 
-      <lb ed="#P" n="75"/>lare, communicabile tamen pluribus;
-      conci<lb ed="#P" n="76" break="no"/>piendo autem personam concipimus, &amp;
-      no<lb ed="#P" n="77" break="no"/>minamus rem aliquam subsistentem, &amp;
-      in<lb ed="#P" n="78" break="no"/>communicabilem, ideo ratio non concludit,  
-      <lb ed="#P" n="79"/>Nec confirmatio valet, quia licet nomina
-      si<lb ed="#P" n="80" break="no"/>gnificent conceptum mentis, ipse tamen con 
-      <lb ed="#P" n="81"/>ceptus est conceptus rei, &amp; ideo
-      principali<lb ed="#P" n="82" break="no"/>ter est propter rem ipsam explicandam
-      in<lb ed="#P" n="83" break="no"/>uentum. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2654">
-               <lb ed="#P" n="84"/>Ad secundam dicendum, quod non incom 
-      <lb ed="#P" n="85"/>uenit idem nomen esse primae, &amp; secundae 
-      <lb ed="#P" n="86"/>intentionis, vt superius dictum est, &amp; sic hoc 
-      <lb ed="#P" n="87"/>nomen persona aliter, &amp; aliter potest signifi 
-      <lb ed="#P" n="88"/>care idem, &amp; non idem, esse primae, &amp; secun 
-      <lb ed="#P" n="89"/>de, intentionis. 
-    </p>
-            <p xml:id="gsX5tY-d1e719-d1e2671">
-               <lb ed="#P" n="90"/>Ad tertiam similiter de Indiuidui nomine 
-      <lb ed="#P" n="91"/>patet per dicta in fine tertij articuli quomo 
-      <lb ed="#P" n="92"/>do possit dici primae, &amp; secundae intentionis 
-      <lb ed="#P" n="93"/>in omni natura, &amp; genere. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="458"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e719"> <!-- l1d23q1 -->
+        <head xml:id="gsX5tY-d1e719-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e719-Hd1e112" type="question-title">Utrum nomen personae in divinis significet intentionem rei, vel rem
+          intellectam</head>
+        <p xml:id="gsX5tY-d1e719-d1e115">
+          <lb ed="#P" n="66"/>DISTINCTIONIS NxIIL 
+          <lb ed="#P" n="67"/>RVAESTIO VNICA 
+          <lb ed="#P" n="68"/>Vtrum nomen personae, vel quodcumque aliud 
+          <lb ed="#P" n="69"/>nomen commune in diuinis sit
+          imposi<lb ed="#P" n="70" break="no"/>tum ad fignificandam intentionem 
+          <lb ed="#P" n="71"/>rei, vel rem intellectam. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e131">
+          <lb ed="#P" n="72"/>ARGVITVR QVOD 
+          <lb ed="#P" n="73"/>intentionem. 
+          <lb ed="#P" n="74"/>IQI hoc nomen persona significaret rem 
+          <lb ed="#P" n="75"/>Aintellectam, tunc eius communitas
+          es<lb ed="#P" n="76" break="no"/>set communitas rei in diuinis, quemadmodum 
+          <lb ed="#P" n="77"/>communitas essentiae, &amp; ideo ficut essentia, 
+          <lb ed="#P" n="78"/>cum sit communis, non plurificatur in eis; 
+          <lb ed="#P" n="79"/>ita nec persona ibi plurificaretur, quod
+          pa<lb ed="#P" n="80" break="no"/>tet esse falsum in Svmbolo Athanasii dicentis 
+          <lb ed="#P" n="81"/>alia est persona Patris, alia Filij, alia
+          Spiri<lb ed="#P" n="82" break="no"/>tus Sancti. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e158">
+          <lb ed="#P" n="83"/>Et confirmatur, quia non solum hoc
+          no<lb ed="#P" n="84" break="no"/>men persona, sed etiam quodlibet aliud
+          non<lb ed="#P" n="85" break="no"/>men videtur impositum ad significandum in 
+          <lb ed="#P" n="86"/>tentionem, quia dicit P. August. 15. de
+          Trin<lb ed="#P" n="87" break="no"/>cap. 8. quod verbum, quod foris sonat, est 
+          <lb ed="#P" n="88"/>signum verbi, quod intus lucet, &amp; Arist. in 
+          <lb ed="#P" n="89"/>primo Perhyermenias dicit, quod ea, quae 
+          <lb ed="#P" n="90"/>sunt in voce, sunt earum, quae sunt in anima 
+          <lb ed="#P" n="91"/>passionum notae, quod non haberet veritatem, 
+          <lb ed="#P" n="92"/>nisi quodlibet nomen significaret
+          intentio<lb ed="#P" n="93" break="no"/>nem, &amp; non ipsam rem intellectam. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e184">
+          <lb ed="#P" n="94"/>2 Si nomen personae, vel quodcunque
+          a<lb ed="#P" n="95" break="no"/>liud esset impositum ad significandum rem 
+          <lb ed="#P" n="96"/>intellectam, &amp; non ipsam intentionem,
+          se<lb ed="#P" n="97" break="no"/>queretur, quod nomen primae, &amp; secundae 
+          <lb ed="#P" n="98"/>intentionis non esset aliud, &amp; aliud, sed vnum, 
+          <lb ed="#P" n="99"/>&amp; idem, &amp; per consequens periret
+          commu<lb ed="#P" n="100" break="no"/>nis illa distinctio, qua dicitur aliqua
+          nomi<lb ed="#P" n="101" break="no"/>na esse primae intentionis, aliqua vero
+          secu<lb ed="#P" n="102" break="no"/>dae: Consequentiam probo, quia prima &amp;  
+          <lb ed="#P" n="103"/>secunda intentio, non distinguuntur ex
+          par<lb ed="#P" n="104" break="no"/>te rei intellectae, cum cadant super eandem  
+          <lb ed="#P" n="105"/>rem intellectam, ergo videtur quod debeat 
+          <lb ed="#P" n="106"/>eis correspondere vnum solum nomen¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e215">
+          <lb ed="#P" n="107"/>1 Sicut se habet indiuiduum in omni per 
+          <lb ed="#P" n="108"/>sona, ita persona in natura intellectuali, sed 
+          <!--484.xml-->
+          <pb ed="#P" n="459"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>indiuiduum in omni natura est nomen secun 
+          <lb ed="#P" n="2"/>dae intentionis, &amp; non nomen rei, ergo &amp;c 
+          <lb ed="#P" n="3"/>Maior patet; Minorem probo, quia
+          indiui<lb ed="#P" n="4" break="no"/>duum, &amp; singulare opponuntur ipsi
+          vniuer<lb ed="#P" n="5" break="no"/>sali, sed vniuersale est nomen secundae inten 
+          <lb ed="#P" n="6"/>tionis, vt omnes concedunt, ergo &amp;
+          indiui<lb ed="#P" n="7" break="no"/>duum, &amp; per consequens persona: sequitur 
+          <lb ed="#P" n="8"/>ergo, quod nomen personae non solum sit 
+          <lb ed="#P" n="9"/>nomen intentionis, sed intentionis secudae. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e248">
+          <lb ed="#P" n="10"/>T OPPOSITVM ARGVITVI 
+          <lb ed="#P" n="11"/>Llud nomen, cuius significato
+          attribui<lb ed="#P" n="12" break="no"/>tur aliquis actus realis, est nomen rei, &amp;  
+          <lb ed="#P" n="13"/>non intentionis, quia intentioni non
+          attri<lb ed="#P" n="14" break="no"/>buitur aliquis actus realis; sed significato hu 
+          <lb ed="#P" n="15"/>ius nominis personae attribuitur actus realis.  
+          <lb ed="#P" n="16"/>quia dicimus, quod persona in diuinis gene 
+          <lb ed="#P" n="17"/>rat, &amp; non essentia. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e268">
+          <lb ed="#P" n="18"/>2 Illud videtur esse nomen rei, &amp; non in 
+          <lb ed="#P" n="19"/>tentionis, cuius significatum recipit realem  
+          <lb ed="#P" n="20"/>pluralitatem in diuinis, talis autem est
+          no<lb ed="#P" n="21" break="no"/>men personae, quia in diuinis est realis
+          plu<lb ed="#P" n="22" break="no"/>ralitas personarum: ergo &amp;c. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e281">
+          <lb ed="#P" n="23"/>RESPONDEO: In ista quaestione 
+          <lb ed="#P" n="24"/>tria sunt videnda. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e289">
+          <lb ed="#P" n="25"/>1 An nomen personae, siue quodcunque 
+          <lb ed="#P" n="26"/>aliud nomen generaliter imponatur ad signi 
+          <lb ed="#P" n="27"/>ficandum intentionem rei intellectae, vel
+          ip<lb ed="#P" n="28" break="no"/>sam rem intellectam. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e300">
+          <lb ed="#P" n="29"/>2 An prima intentio, &amp; secunda cadant 
+          <lb ed="#P" n="30"/>super eandem rem intellectam, &amp; per conse 
+          <lb ed="#P" n="31"/>quens, vtrum sit vnum, &amp; idem nomen quod 
+          <lb ed="#P" n="32"/>imponitur secundum vtramque. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e311">
+          <lb ed="#P" n="33"/>3 An hoc nomen persona, sit nomen
+          pri<lb ed="#P" n="34" break="no"/>mae, vel secundae intentionis, siue sit
+          imposi<lb ed="#P" n="35" break="no"/>tum secundum primam intentionem, vel se 
+          <lb ed="#P" n="36"/>cundam. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e322">
+          <lb ed="#P" n="37"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="38"/>Vtrum nomen personae, siue quodlibet aliud 
+          <lb ed="#P" n="39"/>nomen generale imponatur ad signan 
+          <lb ed="#P" n="40"/>dum intentionem rei intellectae, vel 
+          <lb ed="#P" n="41"/>ipsam rem intellectam.
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e335">
+          <lb ed="#P" n="42"/>Ro quo quidam dicunt, quod omne non 
+          <lb ed="#P" n="43"/> men imponitur ad significandum primam 
+          <lb ed="#P" n="44"/>intentionem, vel secundam: nam etiam
+          da<lb ed="#P" n="45" break="no"/>to, quod significet rem extra animam, non 
+          <lb ed="#P" n="46"/>tamen significat eam, nisi secundum quod 
+          <lb ed="#P" n="47"/>habet esse intentionale, &amp; esse conceptum 
+          <lb ed="#P" n="48"/>in anima, siue per primam, siue per
+          secun<lb ed="#P" n="49" break="no"/>dam intentionem, &amp; quod ita sit probant ta 
+          <lb ed="#P" n="50"/>li ratione. Si aliquod nomen significaret re 
+          <lb ed="#P" n="51"/>extra animam secundum esse reale, quod ha 
+          <lb ed="#P" n="52"/>bet in seipsa sequeretur, quod ea corrupta se 
+          <lb ed="#P" n="53"/>cundum talem essentiam nomen perderet 
+          <!--484.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 459 b -->
+          <lb ed="#P" n="54"/>suam significationem, quod nullus diceret, 
+          <lb ed="#P" n="55"/>Consequentia est nota: Falsitatem probant,  
+          <lb ed="#P" n="56"/>quia corrupto Sorte, vel Platone adhuc
+          ma<lb ed="#P" n="57" break="no"/>net significatio horum nominum, de quibus 
+          <lb ed="#P" n="58"/>nominibus maxime videtur quod significent 
+          <lb ed="#P" n="59"/>rem secundum esse reale, quod habet extra 
+          <lb ed="#P" n="60"/>animam, si ergo dicta nomina non significet 
+          <lb ed="#P" n="61"/>rem, sed intentionem, multo minus
+          quae<lb ed="#P" n="62" break="no"/>cunque alia.  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e390">
+          <lb ed="#P" n="63"/>Iste autem modus dicendi non potest sta 
+          <lb ed="#P" n="64"/>re quocunque modo intelligatur, si enim
+          in<lb ed="#P" n="65" break="no"/>telligant, quod nomen significet intentionem 
+          <lb ed="#P" n="66"/>sicut magis videntur sonare verba eorum, hoc 
+          <lb ed="#P" n="67"/>est omnino irrationabile propter quatuor in 
+          <lb ed="#P" n="68"/>conuenientia, quae inde sequuntur: nam po 
+          <lb ed="#P" n="69"/>sito quod omne nomen significet
+          intentio<lb ed="#P" n="70" break="no"/>nem, cum omnis scientia sit de significatis non 
+          <lb ed="#P" n="71"/>minum; Primo sequitur quod omnis
+          scien<lb ed="#P" n="72" break="no"/>tia sit de intentionibus; Secundo sequitur, 
+          <lb ed="#P" n="73"/>quod nomen definitionis, &amp; nomen
+          defini<lb ed="#P" n="74" break="no"/>ti non fignificabunt eandem rem, quod
+          nu<lb ed="#P" n="75" break="no"/>lus diceret, Consequentiam probo, quia
+          in<lb ed="#P" n="76" break="no"/>tentio definitionis, cum non sit aliud, quam 
+          <lb ed="#P" n="77"/>conceptus mentis explicitus, non potest esse 
+          <lb ed="#P" n="78"/>idem cum intentione definiti, quae est
+          con<lb ed="#P" n="79" break="no"/>ceptus mentis implicitus: quapropter erunt 
+          <lb ed="#P" n="80"/>abinuicem distinctae realiter, &amp; sic praefata 
+          <lb ed="#P" n="81"/>duo nomina significabut duas res distinctas; 
+          <lb ed="#P" n="82"/>Tertio sequitur, quod significatum generis,  
+          <lb ed="#P" n="83"/>&amp; speciei, &amp; etiam differentiae sint tres res 
+          <lb ed="#P" n="84"/>realiter distinctae, quod est falsum, quia
+          vi<lb ed="#P" n="85" break="no"/>demus, quod significatio generis praedicatur 
+          <lb ed="#P" n="86"/>de significato speciei essentialiter
+          praedica<lb ed="#P" n="87" break="no"/>tione dicente hoc est hoc: Consequentia ap 
+          <lb ed="#P" n="88"/>paret, quia non est dubium, quod intentio 
+          <lb ed="#P" n="89"/>generis non est aliud, quam conceptus men 
+          <lb ed="#P" n="90"/>tis confusus, &amp; partialis; intentio vero
+          diffe<lb ed="#P" n="91" break="no"/>rentiae est conceptus mentis determinatus,  
+          <lb ed="#P" n="92"/>&amp; partialis: At intentio speciei est conceptus 
+          <lb ed="#P" n="93"/>mentis determinatus, &amp; totalis; quapropter 
+          <lb ed="#P" n="94"/>sequitur, quod dictae tres intentiones non  
+          <lb ed="#P" n="95"/>possint esse vna res, sed erunt necessario tres 
+          <lb ed="#P" n="96"/>res realiter distinctae; Quarto sequitur, quod 
+          <lb ed="#P" n="97"/>omnis formata enunciatio per intellectum, 
+          <lb ed="#P" n="98"/>vel erit simpliciter de intentionibus &amp;
+          nul<lb ed="#P" n="99" break="no"/>lo modo de rebus, uel saltem principaliter de 
+          <lb ed="#P" n="100"/>intentionibus, quod est falsum, quia tunc
+          o<lb ed="#P" n="101" break="no"/>mnis proportio, in qua praedicaretur aliquid 
+          <lb ed="#P" n="102"/>de aliquo essentialiter, vel formaliter, vel de 
+          <lb ed="#P" n="103"/>nominatiue, esset falsa: nam vna intentio non 
+          <lb ed="#P" n="104"/>potest praedicari de altera, nec essentialiter 
+          <lb ed="#P" n="105"/>nec formaliter, nec etiam denominatiue, vt 
+          <lb ed="#P" n="106"/>manifestum est. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e489">
+          <lb ed="#P" n="107"/>Si autem intelligant quod omne nomen 
+          <lb ed="#P" n="108"/>significet intentionem, idest ipsam rem
+          in<lb ed="#P" n="109" break="no"/>tellectam prout habet for maliter esse
+          inten<lb ed="#P" n="110" break="no"/>tionale, &amp; esse conceptum in intentione 
+          <!--485.xml-->
+          <pb ed="#P" n="460"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quemadmodum uidentur uelle exponere, sic 
+          <lb ed="#P" n="2"/>nec etiam hoc stare potest propter tria. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e511">
+          <lb ed="#P" n="3"/>Primo, quia sicut effectus secundum esse  
+          <lb ed="#P" n="4"/>quod habet in causa, non est aliud, quam sua 
+          <lb ed="#P" n="5"/>causa; ita res intellecta secundum esse
+          inten<lb ed="#P" n="6" break="no"/>tionale, quod habet in conceptu, non est aliud 
+          <lb ed="#P" n="7"/>quam ille conceptus, &amp; illa intentio, ac per 
+          <lb ed="#P" n="8"/>consequens omnia inconuenientia superius 
+          <lb ed="#P" n="9"/>posita erunt contra istum sensum 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e529">
+          <lb ed="#P" n="10"/>Secundo sequeretur, quod in formali
+          si<lb ed="#P" n="11" break="no"/>i gnificato nominis non clauderetur esse
+          rea<lb ed="#P" n="12" break="no"/>se rei significatae per nomen, ac per
+          conse<lb ed="#P" n="13" break="no"/>quens nulla cognitio, vel scientia, &amp; nullus 
+          <lb ed="#P" n="14"/>noster sermo esset de rebus secundum esse  
+          <lb ed="#P" n="15"/>reale, sed solum secundum esse
+          intentiona<lb ed="#P" n="16" break="no"/>le, quod est falsum. Consequentiam probo 
+          <lb ed="#P" n="17"/>ex dictis eorum, dicunt enim, quod esse
+          in<lb ed="#P" n="18" break="no"/>tentionale potest separari ab esse reali, sicut 
+          <lb ed="#P" n="19"/>patet in re corrupta, quae potest manere
+          se<lb ed="#P" n="20" break="no"/>cundum esse cognitum, ac per consequens 
+          <lb ed="#P" n="21"/>utrunque istorum, scilicet reale, &amp; intentiona 
+          <lb ed="#P" n="22"/>le non poterunt cadere sub eodem formali 
+          <lb ed="#P" n="23"/>significato nisi aequiuoce. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e562">
+          <lb ed="#P" n="24"/>Tertio sequeretur, quod esset idem
+          mo<lb ed="#P" n="25" break="no"/>dus significationis rerum, &amp; significatorum. 
+          <lb ed="#P" n="26"/>ac per consequens idem modus cognitionis,  
+          <lb ed="#P" n="27"/>quod est falsum. Consequentiam probo, quia 
+          <lb ed="#P" n="28"/>quantum ad esse intentionale non est
+          diffe<lb ed="#P" n="29" break="no"/>rentia inter figmenta, &amp; ueras res
+          significa<lb ed="#P" n="30" break="no"/>tas, quia utraque habent essc conceptum, &amp;  
+          <lb ed="#P" n="31"/>intentionale cum concipiuntur, &amp; ideo si 
+          <lb ed="#P" n="32"/>tale esse intentionale est formale significatum 
+          <lb ed="#P" n="33"/>nominis, sequitur necessario, quod
+          figmen<lb ed="#P" n="34" break="no"/>ta, &amp; uerae res habeant eodem modo
+          signifi<lb ed="#P" n="35" break="no"/>cari, &amp; intelligi¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e591">
+          <lb ed="#P" n="36"/>Omissis igitur his omnibus aliter huic 
+          <lb ed="#P" n="37"/>quaesito respondeo: Ad cuius euidentiam
+          di<lb ed="#P" n="38" break="no"/>stinguendum est de nominibus, quia non  
+          <lb ed="#P" n="39"/>omnibus nominibus respondent sua
+          signifi<lb ed="#P" n="40" break="no"/>cata eodem modo sicut patebit. Dico ergo, 
+          <lb ed="#P" n="41"/>quod tria sunt genera nominum, quaedam 
+          <lb ed="#P" n="42"/>enim sunt nomina figmentorum sicut
+          Chi<lb ed="#P" n="43" break="no"/>mera, &amp; Hyrcoceruus, quaedam sunt
+          nomi<lb ed="#P" n="44" break="no"/>na entium rationis, sicut vniuersale, &amp;
+          svl<lb ed="#P" n="45" break="no"/>logismus, &amp; quaecunque talia, quae non
+          im<lb ed="#P" n="46" break="no"/>ponuntur ad significandum entia naturae, 
+          <lb ed="#P" n="47"/>nec tamen propter hoc iudicantur figmenta, 
+          <lb ed="#P" n="48"/>quia eorum significata sunt constituta per 
+          <lb ed="#P" n="49"/>actum rationis sine omni fictione, &amp; menda 
+          <lb ed="#P" n="50"/>cio; quaedam vero sunt nomina entium 
+          <lb ed="#P" n="51"/>realium, sicut nomina substantiarum, &amp; acci 
+          <lb ed="#P" n="52"/>dentium, vt V. O. in genere substantiae hoc 
+          <lb ed="#P" n="53"/>nomen Sortes, Homo, &amp; Animal: &amp; in
+          ge<lb ed="#P" n="54" break="no"/>nere accidentis Albedo, &amp; Color. Ad
+          pro<lb ed="#P" n="55" break="no"/>positum ergo descendendo, cum arguitur de 
+          <lb ed="#P" n="56"/>significatione nominum generaliter, non est 
+          <lb ed="#P" n="57"/>vniformiter respondendum de omnibus istis 
+          <!--485.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 460 b -->
+          <lb ed="#P" n="58"/>tribus generibus nominum, quia eorum
+          si<lb ed="#P" n="59" break="no"/>gnificata non respondent eis eodem modo. 
+          <lb ed="#P" n="60"/>Nam videmus, quod nominibus
+          figmento<lb ed="#P" n="61" break="no"/>rum non respondent sua significata nisi sub 
+          <lb ed="#P" n="62"/>esse intentionali, quod habent in mente, &amp;  
+          <lb ed="#P" n="63"/>ex hoc ipso sunt figmenta, quia illud esselin 
+          <lb ed="#P" n="64"/>tentionale solum est fictum in mente, cui non 
+          <lb ed="#P" n="65"/>respondet aliquod esse extra mentem, nec se 
+          <lb ed="#P" n="66"/>cundum actum formaliter, nec secundum po 
+          <lb ed="#P" n="67"/>tentiam fundamentaliter; nominibus vero 
+          <lb ed="#P" n="68"/>entium rationis respondent sua significata,  
+          <lb ed="#P" n="69"/>non solum sub esse intentionali, quod habent 
+          <lb ed="#P" n="70"/>in mente, sed etiam sub aliquo esse rationis 
+          <lb ed="#P" n="71"/>constituto sine fictione, &amp; mendacio per actum 
+          <lb ed="#P" n="72"/>entis, quod quidem ens rationis quamuis non 
+          <lb ed="#P" n="73"/>sit aliud reale posituum, vt fuit supra
+          de<lb ed="#P" n="74" break="no"/>claratum in 3. distinctione, &amp; etiam in 10. 
+          <lb ed="#P" n="75"/>habet tamen aliquo modo esse in rerum
+          na<lb ed="#P" n="76" break="no"/>tura secundum potentiam, non solum ex par 
+          <lb ed="#P" n="77"/>te intellectus ipsum constituentis, sed etiam 
+          <lb ed="#P" n="78"/>ex parte sui fundamenti sibi non
+          repugnan<lb ed="#P" n="79" break="no"/>tis : hoc ergo habent plus entia rationis
+          su<lb ed="#P" n="80" break="no"/>pra figmenta, quia entia rationis sine omni 
+          <lb ed="#P" n="81"/>figmento, &amp; mendacio respondent suis
+          no<lb ed="#P" n="82" break="no"/>minibus, vt visum est, sed entia realia adhuc 
+          <lb ed="#P" n="83"/>plus habent, quam entia rationis, quia non so 
+          <lb ed="#P" n="84"/>um respondent suis nominibus significantia 
+          <lb ed="#P" n="85"/>bus sine fictione, &amp; mendacio, sed ultra 
+          <lb ed="#P" n="86"/>hoc respondent eis etiam sub aliquo esse rea 
+          <lb ed="#P" n="87"/>li, quod non faciunt entia rationis; &amp; ideo 
+          <lb ed="#P" n="88"/>omne nomen, quod imponitur ad significan 
+          <lb ed="#P" n="89"/>dum aliquam rem, necessario significat eam 
+          <lb ed="#P" n="90"/>sub aliquo esse reali.  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e719">
+          <lb ed="#P" n="91"/>uia tamen solutio dubiorum est manife 
+          <lb ed="#P" n="92"/>statio veritatis, idcirco mouebo tria dubia con 
+          <lb ed="#P" n="93"/>tra istud dictum, vt ex eorum solutione
+          cla<lb ed="#P" n="94" break="no"/>rius appareat, quod dictum est. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e731">
+          <lb ed="#P" n="95"/>Primo dubitatur, quia uidemus, quod hoc no 
+          <lb ed="#P" n="96"/>men Rosa imponitur ad significandam veram 
+          <lb ed="#P" n="97"/>rem, &amp; tamen non semper significat ea sub 
+          <lb ed="#P" n="98"/>aliquo esse reali, ut puta, quando omnis Rosa 
+          <lb ed="#P" n="99"/>corrupta est 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e744">
+          <lb ed="#P" n="100"/>Secundo uidemus, quod istud idem nomen 
+          <lb ed="#P" n="101"/>Rosa significat quidditatem rosae abstractam, 
+          <lb ed="#P" n="102"/>&amp; tamen non habet reale esse abstractum, 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e753">
+          <lb ed="#P" n="103"/>Tertio videmus, quod una, &amp; eadem res 
+          <lb ed="#P" n="104"/>sub alia ratione significatur per nomen sui 
+          <lb ed="#P" n="105"/>generis, &amp; sub alia ratione per nomen suae 
+          <lb ed="#P" n="106"/>peciei, uel suae differentiae, &amp; tamen constat,  
+          <lb ed="#P" n="107"/>quod ratio generis, speciei, &amp; differentiae non 
+          <lb ed="#P" n="108"/>sunt rationes reales, quia sic facerent in re con 
+          <lb ed="#P" n="109"/>positionem realem, quod est falsum, propter 
+          <lb ed="#P" n="110"/>hoc igitur uidebitur alicui, quod nomen
+          im<lb ed="#P" n="111" break="no"/>positum ad significandum aliquam rem non 
+          <lb ed="#P" n="112"/>semper significet eam sub aliquo esse
+          rea<lb ed="#P" n="113" break="no"/>i. His tamen non obstantibus, teneo sicut su 
+          <lb ed="#P" n="114"/>perius dixi, &amp; istis non est difficile respondere,
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e782">
+          <!--486.xml-->
+          <pb ed="#P" n="461"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Ad primam ergo respondeo dupliciter 
+          <lb ed="#P" n="2"/>Vno modo, quod rosa corrupta respondet 
+          <lb ed="#P" n="3"/>nomini significanti ipsam sub esse reali
+          po<lb ed="#P" n="4" break="no"/>tentiali, &amp; hoc sufficit, quia ens reale
+          diui<lb ed="#P" n="5" break="no"/>ditur per actum, &amp; potentiam. Alio modo 
+          <lb ed="#P" n="6"/>potest dici, &amp; forte melius, quod quamuis ro 
+          <lb ed="#P" n="7"/>a corrupta non habeat esse reale in seipsa 
+          <lb ed="#P" n="8"/>formaliter, habet tamen esse reale in prima 
+          <lb ed="#P" n="9"/>forma exemplari, tanquam in arte
+          uniuersa<lb ed="#P" n="10" break="no"/>li continente uniuersaliter omnes
+          quiddita<lb ed="#P" n="11" break="no"/>tes, ratione cuius continentiae dicit Com xij.¬ 
+          <lb ed="#P" n="12"/>Metaph com. 24. quod forma primi motoris 
+          <lb ed="#P" n="13"/>aliquo modo est omnis formae. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e819">
+          <lb ed="#P" n="14"/>Ad secundam dico eodem modo, quod 
+          <lb ed="#P" n="15"/>quamuis quidditas rosae, &amp; cuiuscunque al 
+          <lb ed="#P" n="16"/>terius rei materialis non habeat esse
+          abstra<lb ed="#P" n="17" break="no"/>ctum, &amp; immateriale, prout existit in seipsa 
+          <lb ed="#P" n="18"/>formaliter, habet tamen totum hoc, prout exi 
+          <lb ed="#P" n="19"/>stit in sua prima forma exemplari, &amp; ex hoc 
+          <lb ed="#P" n="20"/>ipso habet, quod possit rectificare, &amp;
+          mensu<lb ed="#P" n="21" break="no"/>rare nostram scientiam, sicut declaratum 
+          <lb ed="#P" n="22"/>fuit in primo articulo Prologi. Posset etiam  
+          <lb ed="#P" n="23"/>dici secundo, quod quidditas rei materialis 
+          <lb ed="#P" n="24"/>habet tale esse abstractum potentialiter ex 
+          <lb ed="#P" n="25"/>natura rei; cum uero postea reducitur de 
+          <lb ed="#P" n="26"/>potentia ad actum fit realiter abstracta, non 
+          <lb ed="#P" n="27"/>quidem in essendo, sed in immutando
+          intel<lb ed="#P" n="28" break="no"/>lectum possibilem, &amp; in terminando eius
+          a<lb ed="#P" n="29" break="no"/>ctum, &amp; ita realiter immutat, &amp; realiter
+          ter<lb ed="#P" n="30" break="no"/>minat, ac si esset realiter abstracta. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e858">
+          <lb ed="#P" n="31"/>Ad tertiam dicendum, quod ratio
+          gene<lb ed="#P" n="32" break="no"/>ris, &amp; ratio differentiae sunt reales rationes, 
+          <lb ed="#P" n="33"/>nam si animal, &amp; rationale non importarent 
+          <lb ed="#P" n="34"/>rationes reales in homine, tunc homo non es 
+          <lb ed="#P" n="35"/>set realiter animal, nec realiter rationalis 
+          <lb ed="#P" n="36"/>quod est falsum, non tamen propter hoc se 
+          <lb ed="#P" n="37"/>quitur, quod faciant in homine realem
+          com<lb ed="#P" n="38" break="no"/>positionem, uel quod sint in eo realiter
+          di<lb ed="#P" n="39" break="no"/>stinctae, sunt tamen distinguibiles per actum  
+          <lb ed="#P" n="40"/>rationis, &amp; ideo concipiuntur distinctis con 
+          <lb ed="#P" n="41"/>ceptibus, &amp; nominantur distinctis
+          nomini<lb ed="#P" n="42" break="no"/>bus, &amp; sic patet illud, quod superius
+          dice<lb ed="#P" n="43" break="no"/>batur. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e890">
+          <lb ed="#P" n="44"/>Apparet igitur qualiter sit respondendum 
+          <lb ed="#P" n="45"/>ad istum articulum, &amp; per consequens ad 
+          <lb ed="#P" n="46"/>quaestionem principalem cum quaeritur de 
+          <lb ed="#P" n="47"/>quocunque nomine, vtrum imponatur ad
+          si<lb ed="#P" n="48" break="no"/>gnificandum intentionem rei intellectae, vel 
+          <lb ed="#P" n="49"/>ipsam rem intellectam: Nam quia quaestio 
+          <lb ed="#P" n="50"/>ista est introducta propter nomina entium rea 
+          <lb ed="#P" n="51"/>lium, de quorum numero est hoc nomen per 
+          <lb ed="#P" n="52"/>sona: ldcirco de omnibus talibus est simpli 
+          <lb ed="#P" n="53"/>citer dicendum, quod nomen imponitur ad 
+          <lb ed="#P" n="54"/>significandam non ipsam intentionem, sed  
+          <lb ed="#P" n="55"/>ipsam rem intellectam, non quidem
+          secun<lb ed="#P" n="56" break="no"/>dum esse intentionale, ut ponebat praecedens 
+          <lb ed="#P" n="57"/>opinio, sed secundum aliquod esse reale, quod  
+          <!--486.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 461 b -->
+          <lb ed="#P" n="58"/>habet, uel in seipsa formaliter, uel in prima 
+          <lb ed="#P" n="59"/>forma exemplariter, vel iterum in seipsa vir 
+          <lb ed="#P" n="60"/>tualiter, &amp; potentialiter in ratione
+          immu<lb ed="#P" n="61" break="no"/>tandi potentiam realem, &amp; terminandi actum 
+          <lb ed="#P" n="62"/>realem, quemadmodum superius est dictum. 
+          <lb ed="#P" n="63"/>Possunt aute ex his quae dicta sunt colligi 
+          <lb ed="#P" n="64"/>quatuor rationes ad istam conclusionem.
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e945">
+          <lb ed="#P" n="65"/>1 Omne nomen, quod signisicat aliquam 
+          <lb ed="#P" n="66"/>rem, uel eam significat secundum quod
+          ha<lb ed="#P" n="67" break="no"/>bet esse in seipsa formaliter, uel secundum 
+          <lb ed="#P" n="68"/>quod existit in prima forma exemplariter, 
+          <lb ed="#P" n="69"/>vel secundum quod habet rationem
+          immu<lb ed="#P" n="70" break="no"/>tandi intellectum, &amp; terminandi actum suum; 
+          <lb ed="#P" n="71"/>sed omnibus istis modis res intellecta est alio 
+          <lb ed="#P" n="72"/>quid reale extra intellectum, ergo &amp;c. Maior,  
+          <lb ed="#P" n="73"/>&amp; Minor ex dictis patent. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e967">
+          <lb ed="#P" n="74"/>2 Sicut se habet intellectus in formando 
+          <lb ed="#P" n="75"/>aliquas propositiones de entibus realibus,  
+          <lb ed="#P" n="76"/>ita se habent nomina illorum entium in
+          signi<lb ed="#P" n="77" break="no"/>ficando ea, sed propositiones formaliter
+          ue<lb ed="#P" n="78" break="no"/>rificantur de entibus realibus secundum
+          eo<lb ed="#P" n="79" break="no"/>rum esse reale, &amp; non secundum esse
+          inten<lb ed="#P" n="80" break="no"/>tionale, ut patuit in improbatione praeceden 
+          <lb ed="#P" n="81"/>tis opinionis, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e987">
+          <lb ed="#P" n="82"/>3 Sicut se habent entia realia ad sciri, ita 
+          <lb ed="#P" n="83"/>se habent ad significari per nomina, sed
+          en<lb ed="#P" n="84" break="no"/>tia realia sunt obiectum scientiae secundum 
+          <lb ed="#P" n="85"/>aliquod esse reale, &amp; non secundum esse
+          in<lb ed="#P" n="86" break="no"/>tentionale, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1000">
+          <lb ed="#P" n="87"/>4 Si nomina entium realium non signifi 
+          <lb ed="#P" n="88"/>carent res significatas secundum aliquod
+          es<lb ed="#P" n="89" break="no"/>se reale, non differrent a nominibus entium 
+          <lb ed="#P" n="90"/>rationis, consequens est falsum, ergo, &amp;c. 
+          <lb ed="#P" n="91"/>Falsitas consequentis, &amp; Consequentia
+          pa<lb ed="#P" n="92" break="no"/>tent ex dictis. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1016">
+          <lb ed="#P" n="93"/>Intelligendum tamen, quod quamuis
+          in<lb ed="#P" n="94" break="no"/>tentio, &amp; esse intentionale rei intellectae non 
+          <lb ed="#P" n="95"/>cadant sub significatione nominis, tanquam  
+          <lb ed="#P" n="96"/>suum significatum formale, &amp; primarium in 
+          <lb ed="#P" n="97"/>trinsece inclusum, cadit tamen ibitanquam 
+          <lb ed="#P" n="98"/>significatum secundarium extrinsece con- 
+          <lb ed="#P" n="99"/>notatum, cuius ratio potest sumi ex dictis in 
+          <lb ed="#P" n="100"/>praecedenti distinctione, ubi dicebatur, quod 
+          <lb ed="#P" n="101"/>modus significandi supponit modum
+          intelli<lb ed="#P" n="102" break="no"/>gendi, tanquam suam causam, &amp; mensuram, 
+          <lb ed="#P" n="103"/>&amp; ideo relatio signi, quae est in nomine, quam 
+          <lb ed="#P" n="104"/>uis per se, &amp; distincte terminetur ad rem
+          in<lb ed="#P" n="105" break="no"/>tellectam secundum aliquod esse reale,
+          tan<lb ed="#P" n="106" break="no"/>quam ad id, quod est per se, &amp; directe signifi 
+          <lb ed="#P" n="107"/>catum per nomen, indirecte tamen in
+          obli<lb ed="#P" n="108" break="no"/>quo terminatur etiam ad intentionem rer in 
+          <lb ed="#P" n="109"/>tellecte, tanquam ad id, quod est causa, &amp;  
+          <lb ed="#P" n="110"/>mensura significationis nominis, quia nomen 
+          <lb ed="#P" n="111"/>non habet, quod significet ex se, sed ex ipsa 
+          <lb ed="#P" n="112"/>intentione rei intellectae, per quam ipse
+          in<lb ed="#P" n="113" break="no"/>tellectus imponit ipsum, uel utitur ipso ad si 
+          <lb ed="#P" n="114"/>gnificandum dictam rem intellectam.
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1067">
+          <!--487.xml-->
+          <pb ed="#P" n="462"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>Ex quibus omnibus si uolumus descende 
+          <lb ed="#P" n="2"/>re ad nomen personae in speciali, cuius gratia 
+          <lb ed="#P" n="3"/>est praesens questio pricipaliter introducta; 
+          <lb ed="#P" n="4"/>Dicendum est, quod nomen personae est non 
+          <lb ed="#P" n="5"/>men entis realis impositum ad significandum 
+          <lb ed="#P" n="6"/>per se, &amp; directe aliquam rem intellectam 
+          <lb ed="#P" n="7"/>secundum aliquod esse reale, quod habet ex 
+          <lb ed="#P" n="8"/>tra intellectum; indirecte tamen, &amp; in
+          obli<lb ed="#P" n="9" break="no"/>quo dat intelligere intentionem talis rei, per 
+          <lb ed="#P" n="10"/>quam intellectus ipsum imposuit, uel ipso 
+          <lb ed="#P" n="11"/>utitur ad significandum eam. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1100">
+          <lb ed="#P" n="12"/>Sciendum est etiam, quod intentio rei in 
+          <lb ed="#P" n="13"/>tellectae per quam nomen sibi imponitur, 
+          <lb ed="#P" n="14"/>equandoque est prima, quandoque secunda; &amp; 
+          <lb ed="#P" n="15"/>ideo consueuit dici communiter, quod sunt 
+          <lb ed="#P" n="16"/>quaedam nomina primae intentionis, siue pri 
+          <lb ed="#P" n="17"/>mae impositonis, &amp; quaedam alia secundae 
+          <lb ed="#P" n="18"/>intentionis, siue impositonis; quapropter 
+          <lb ed="#P" n="19"/>ut in speciali uideatur melius quale sit nomen 
+          <lb ed="#P" n="20"/>personae, &amp; quae eius significatio, idcirco
+          vi<lb ed="#P" n="21" break="no"/>dendum est, quomodo prima, &amp; secunda
+          in<lb ed="#P" n="22" break="no"/>tentio se habeant ad rem intellectam 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1126">
+          <lb ed="#P" n="23"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="24"/>Vtrum prima, &amp; secunda intentio cadant su 
+          <lb ed="#P" n="25"/>per eandem rem intellectam, sitque idem 
+          <lb ed="#P" n="26"/>nomen quod imponitur
+          secun<lb ed="#P" n="27" break="no"/>dum vtrumque.
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1139">
+          <lb ed="#P" n="28"/>QVantum ad hoc sciendum esse, quod  
+          <lb ed="#P" n="29"/>quidam volentes declarare quae sit pri 
+          <lb ed="#P" n="30"/>ma, &amp; secunda intentio, describunt 
+          <lb ed="#P" n="31"/>primo intentionem in generali dicentes, quod 
+          <lb ed="#P" n="32"/>intentio est passiua rei conceptio, per quam  
+          <lb ed="#P" n="33"/>res concepta constituitur formaliter in esse 
+          <lb ed="#P" n="34"/>concepto per productionem conceptus, quen 
+          <lb ed="#P" n="35"/>admodum res producta constituitur formali 
+          <lb ed="#P" n="36"/>ter in esse producto per productionem
+          passi<lb ed="#P" n="37" break="no"/>uam, &amp; ideo dicunt vlterius, quod sicut pro 
+          <lb ed="#P" n="38"/>ductio passiua includit rem, quae per ipsam  
+          <lb ed="#P" n="39"/>constituitur in tali esse producto, &amp; res con 
+          <lb ed="#P" n="40"/>stituta in esse producto includit
+          productio<lb ed="#P" n="41" break="no"/>nem passiuam: ita in proposito conceptio 
+          <lb ed="#P" n="42"/>passiua includit indistinguibiliter rem ipsam, 
+          <lb ed="#P" n="43"/>quae per eam formaliter constituitur in esse 
+          <lb ed="#P" n="44"/>concepto, &amp; res constituta in tali esse
+          inclu<lb ed="#P" n="45" break="no"/>dit talem conceptum. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1181">
+          <lb ed="#P" n="46"/>Ex istis autem duobus, scilicet ex
+          conce<lb ed="#P" n="47" break="no"/>ptione passiua, &amp; ex ipsare, quae per eam
+          con<lb ed="#P" n="48" break="no"/>cipitur, resultat conceptus obiectiuus per in 
+          <lb ed="#P" n="49"/>tellectionem formatus, vt ipsi dicunt, qui 
+          <lb ed="#P" n="50"/>quidem conceptus (secundum eos) includit 
+          <lb ed="#P" n="51"/>indistinguibiliter illa ambo, quemadmodum 
+          <lb ed="#P" n="52"/>res producta resultans ex productione passi 
+          <lb ed="#P" n="53"/>ua, &amp; ex re ipsa, quae per eam producitur in 
+          <!--487.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 462 b -->
+          <lb ed="#P" n="54"/>cludit indistinguibiliter illa duo, &amp; ideo
+          de<lb ed="#P" n="55" break="no"/>scendendo ad propositum distinguunt inter 
+          <lb ed="#P" n="56"/>primam, &amp; secundam intentionem hoc
+          mo<lb ed="#P" n="57" break="no"/>do dicentes, quod intentio prima non est
+          a<lb ed="#P" n="58" break="no"/>liud, quam conceptus obiectiuus primi ordi 
+          <lb ed="#P" n="59"/>nis, quem intellectus format non
+          reflecten<lb ed="#P" n="60" break="no"/>do se super aliquem alium conceptum;
+          Se<lb ed="#P" n="61" break="no"/>cunda vero intentio est conceptus secundi 
+          <lb ed="#P" n="62"/>ordinis, quem intellectus fabricat reflecteun 
+          <lb ed="#P" n="63"/>do se, &amp; redeundo super conceptum primi 
+          <lb ed="#P" n="64"/>ordinis, secundum quem modum intellectus 
+          <lb ed="#P" n="65"/>fabricat conceptum vniuersalis, &amp; praedicabi 
+          <lb ed="#P" n="66"/>lis per actum simplicem, &amp; iterum
+          conce<lb ed="#P" n="67" break="no"/>ptum affirmationis, &amp; negationis per actum  
+          <lb ed="#P" n="68"/>complexum, &amp; connexionem extremorum 
+          <lb ed="#P" n="69"/>in medio per actum discursiuum. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1242">
+          <lb ed="#P" n="70"/>Addunt insuper, quod isti conceptus
+          se<lb ed="#P" n="71" break="no"/>cundi ordinis semper sunt relatiui, quia non  
+          <lb ed="#P" n="72"/>sunt aliud, quam quaedam habitudines, quas 
+          <lb ed="#P" n="73"/>fabricat intellectus, vt V. 0 vniuersalitas est 
+          <lb ed="#P" n="74"/>habitudo vniuersalis ad particulare, &amp; parti 
+          <lb ed="#P" n="75"/>cularitas habitudo particularis ad
+          vniuersa<lb ed="#P" n="76" break="no"/>le; affirmatio vero, &amp; negatio habitudo duo 
+          <lb ed="#P" n="77"/>rum extremorum inter se; svllogismus vero 
+          <lb ed="#P" n="78"/>habitudo duorum extremorum in medio. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1265">
+          <lb ed="#P" n="79"/>Si ergo respondendum esset ad istum arti 
+          <lb ed="#P" n="80"/>culum de mente eorum, oporteret dicere, quod 
+          <lb ed="#P" n="81"/>prima, &amp; secunda intentio non cadant super 
+          <lb ed="#P" n="82"/>rem intellectam, sed sint ipsamet res
+          intelle<lb ed="#P" n="83" break="no"/>cta, alio, &amp; alio modo: nam, prout res
+          intel<lb ed="#P" n="84" break="no"/>lecta constituitur formaliter in esse
+          conce<lb ed="#P" n="85" break="no"/>pto per conceptionem passiuam primi
+          ordi<lb ed="#P" n="86" break="no"/>nis, sic est prima intentio; prout vero consti 
+          <lb ed="#P" n="87"/>tuitur in essc concepto formaliter per conce 
+          <lb ed="#P" n="88"/>ptionem passiuam secundi ordinis, sic est se 
+          <lb ed="#P" n="89"/>cunda intentio. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1291">
+          <lb ed="#P" n="90"/>Haec opinio quinque dicit, quae mihi videm 
+          <lb ed="#P" n="91"/>tur omnino irrationabilia. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1298">
+          <lb ed="#P" n="92"/>Primum est, quod omne, quod concipi 
+          <lb ed="#P" n="93"/>tur constituatur formaliter in essc concepto 
+          <lb ed="#P" n="94"/>per conceptionem passiuam, nam quaeratur,  
+          <lb ed="#P" n="95"/>vtrum ista conceptio passiua sit aliqua forma 
+          <lb ed="#P" n="96"/>realis; si dicatur quod non, hoc videtur
+          fal<lb ed="#P" n="97" break="no"/>sum, quia, cum actus intelligendi, per quem 
+          <lb ed="#P" n="98"/>intellectus format talem conceptionem paffi 
+          <lb ed="#P" n="99"/>uam, sit realis, necessario conceptio pasliua 
+          <lb ed="#P" n="100"/>per ipsum formata erit realis; si vero
+          dica<lb ed="#P" n="101" break="no"/>tur, quod sit realis, sequuntur duo inconue 
+          <lb ed="#P" n="102"/>nientia. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1324">
+          <lb ed="#P" n="103"/>Primo, quod omne conceptum ab
+          in<lb ed="#P" n="104" break="no"/>tellectu capiet ab ipso formaliter aliquam for 
+          <lb ed="#P" n="105"/>mam realem, &amp; per consequens aliquod esse 
+          <lb ed="#P" n="106"/>reale, quod est falsum, Secundo, quod
+          fig<lb ed="#P" n="107" break="no"/>menta non erunt conceptibilia, cum
+          repu<lb ed="#P" n="108" break="no"/>gnet eis habere aliquod reale esse, quod est 
+          <lb ed="#P" n="109"/>absurdum. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1342">
+          <lb ed="#P" n="110"/>Secundum est, quia dicunt, quod ista eo¬ 
+          <!--488.xml-->
+          <pb ed="#P" n="463"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ceptio passiua includit indistinguibiliter rem, 
+          <lb ed="#P" n="2"/>quae per ipsam concipitur: quaeratur ergo ab 
+          <lb ed="#P" n="3"/>eis, vtrum includat rem conceptam
+          secun<lb ed="#P" n="4" break="no"/>dum esse reale, quod habet in seipsa, vel solum 
+          <lb ed="#P" n="5"/>secundum esse conceptum, quod habet per 
+          <lb ed="#P" n="6"/>ipsum, si dicant primo modo, sequitur quod 
+          <lb ed="#P" n="7"/>quandiu res habebit conceptionem passiuam 
+          <lb ed="#P" n="8"/>in prospectu intellectus, tamdiu habebit
+          es<lb ed="#P" n="9" break="no"/>se reale in seipsa, quod euidenter est falsum; 
+          <lb ed="#P" n="10"/>si vero dicant secundo modo, sequitur aliud 
+          <lb ed="#P" n="11"/>inconueniens, scilicet, quod res non erit con 
+          <lb ed="#P" n="12"/>cepta, nec scita secundum esse reale, quod  
+          <lb ed="#P" n="13"/>habet in seipsa, sed solum secundum esse
+          in<lb ed="#P" n="14" break="no"/>tentionale, quod habet in prospectu
+          intelle<lb ed="#P" n="15" break="no"/>ctus, quod etiam non est concedendum 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1386">
+          <lb ed="#P" n="16"/>Tertium est, quia dicunt, quod conceptus 
+          <lb ed="#P" n="17"/>obiectiuus, qui resultat ex conceptione illa 
+          <lb ed="#P" n="18"/>passiua, &amp; ex ipsa re concepta, includit
+          indi<lb ed="#P" n="19" break="no"/>stinguibiliter illa ambo, &amp; ideo concedunt, 
+          <lb ed="#P" n="20"/>quod nec sit praecisa res, nec precisa ratio, 
+          <lb ed="#P" n="21"/>sed componatur ex vtroque, &amp; includat
+          v<lb ed="#P" n="22" break="no"/>trunque ad quod dictum sequuntur tria incom 
+          <lb ed="#P" n="23"/>uenientia. Primo sequitur, quod erit dare 
+          <lb ed="#P" n="24"/>medium inter ens rationis, &amp; ens reale; nam 
+          <lb ed="#P" n="25"/>illud, quod non est praecise ens rationis, nec 
+          <lb ed="#P" n="26"/>ens reale, oportet, quod sit medium inter 
+          <lb ed="#P" n="27"/>utrunque. Secundo sequitur, quod duo
+          en<lb ed="#P" n="28" break="no"/>tia maxime opposita, scilicet ens rationis, &amp;  
+          <lb ed="#P" n="29"/>ens reale concurrent, &amp; unum efficietur
+          ali<lb ed="#P" n="30" break="no"/>quo modo alterum, quod nullo modo
+          vide<lb ed="#P" n="31" break="no"/>tur intelligibile. Tertio in isto dicto
+          impli<lb ed="#P" n="32" break="no"/>catur contradictio; nam si dictus conceptus 
+          <lb ed="#P" n="33"/>includit praefata duo indistinguibiliter,
+          tan<lb ed="#P" n="34" break="no"/>quam unum simplex (ut ipsi dicunt) sequitur,  
+          <lb ed="#P" n="35"/>quod non componatur ex eis, quia illa, ex 
+          <lb ed="#P" n="36"/>quibus aliquid componitur, necessario rema 
+          <lb ed="#P" n="37"/>nent in eo saltem potentia distinguibilia, cun 
+          <lb ed="#P" n="38"/>ergo ipsi ponant eum componi ex praefatis. 
+          <lb ed="#P" n="39"/>duobus, uidentur cogi ad contradictoria. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1442">
+          <lb ed="#P" n="40"/>Quartum, quod ponit praefata opinio, est,  
+          <lb ed="#P" n="41"/>quod conceptus secundi ordinis sunt
+          quae<lb ed="#P" n="42" break="no"/>dam habitudines, quod etiam uid etur
+          fal<lb ed="#P" n="43" break="no"/>sum propter duo. Primo, quia cum omni- 
+          <lb ed="#P" n="44"/>conceptus formatus fundet habitudinem ad 
+          <lb ed="#P" n="45"/>ipsum concipientem, sequeretur, quod
+          habi<lb ed="#P" n="46" break="no"/>tudo fundaret habitudinem. Secundo
+          se<lb ed="#P" n="47" break="no"/>queretur, quod talis conceptus non posset 
+          <lb ed="#P" n="48"/>esse representatiuus rei, quae per ipsum
+          con<lb ed="#P" n="49" break="no"/>cipitur, quia nulla habitudo est
+          representa<lb ed="#P" n="50" break="no"/>tiua, uel expressiua alicuius.  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1468">
+          <lb ed="#P" n="51"/>Quintum, &amp; ultimum est, quod tam
+          pri<lb ed="#P" n="52" break="no"/>ma, quam secunda intentio est ipsamet res 
+          <lb ed="#P" n="53"/>intellecta, quod etiam est falsum propter duo. 
+          <lb ed="#P" n="54"/>Primo, quia intentio uidetur esse actus rei in 
+          <lb ed="#P" n="55"/>tendentis, intellectus autem est intendens, 
+          <lb ed="#P" n="56"/>&amp; non res intellecta, ergo &amp;c. Secundo 
+          <lb ed="#P" n="57"/>quia sequeretur, quod omnes scientiae essent 
+          <!--488.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 463 b -->
+          <lb ed="#P" n="58"/>de intentionibus, &amp; rebus intellectis, &amp; per 
+          <lb ed="#P" n="59"/>consequens omnes essent aequaliter reales,  
+          <lb ed="#P" n="60"/>&amp; aequaliter rationales. Apparet ergo ex om 
+          <lb ed="#P" n="61"/>nibus istis irrationabilitas istius opinionis,  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1501">
+          <lb ed="#P" n="62"/>Et ideo procedendo aliter ad istum
+          arti<lb ed="#P" n="63" break="no"/>culum dico, quod proprie loquendo intentio 
+          <lb ed="#P" n="64"/>generaliter sumpta non est aliud, quam actus 
+          <lb ed="#P" n="65"/>ntelligendi; Tum quia intellectio est actus rei 
+          <lb ed="#P" n="66"/>intelligentis, intellectus autem est intelliges,  
+          <lb ed="#P" n="67"/>&amp; non ipsa res intellecta, vt tactum est, Tun 
+          <lb ed="#P" n="68"/>etiam, quia per actum intelligendi
+          intelle<lb ed="#P" n="69" break="no"/>ctus tendit in rem intellectam: qua propter. 
+          <lb ed="#P" n="70"/>proprie loquendo nullo modo res intellecta. 
+          <lb ed="#P" n="71"/>potest dici intentio. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1525">
+          <lb ed="#P" n="72"/>Supposito ergo intentionem esse ipsum 
+          <lb ed="#P" n="73"/>actum intelligendi; Prima, &amp; secunda inten 
+          <lb ed="#P" n="74"/>tio distinguuntur hoc modo, quia prima
+          in<lb ed="#P" n="75" break="no"/>tentio est ille actus intelligendi, per quem in 
+          <lb ed="#P" n="76"/>tellectus tendit in rem directo aspectu intel 
+          <lb ed="#P" n="77"/>ligendo eam secundum aliquod esse reale, &amp;  
+          <lb ed="#P" n="78"/>modo, quo fuit expositum superius in praece 
+          <lb ed="#P" n="79"/>denti articulo : Secunda uero intentio est 
+          <lb ed="#P" n="80"/>actus intelligendi reflexus, per quem intelle 
+          <lb ed="#P" n="81"/>ctus tendit in rem aspectu refiexo,
+          intellige<lb ed="#P" n="82" break="no"/>do eam secundum aliquod esse rationis, quod si 
+          <lb ed="#P" n="83"/>bi debetur, prout est iam intellecta per actum 
+          <lb ed="#P" n="84"/>rectum, nam sicut supra dicebatur in2
+          di<lb ed="#P" n="85" break="no"/>stin. quando agebatur de vniuersali, entia ra 
+          <lb ed="#P" n="86"/>tionis constituuntur per primum actum
+          in<lb ed="#P" n="87" break="no"/>tellectus quadam necessitate nostri modi
+          in<lb ed="#P" n="88" break="no"/>telligendi, &amp; ideo per illum actum non
+          co<lb ed="#P" n="89" break="no"/>gnoscuntur, quia si essent cognita, &amp; consti 
+          <lb ed="#P" n="90"/>tuta per eundem actum, cogeremur dicere, 
+          <lb ed="#P" n="91"/>quod prius essent cognita, quam constituta, 
+          <lb ed="#P" n="92"/>&amp; per consequens ille actus rationis, per quen 
+          <lb ed="#P" n="93"/>constituerentur, esset practicus, quod est
+          ab<lb ed="#P" n="94" break="no"/>surdum: quapropter relinquitur, quod
+          ma<lb ed="#P" n="95" break="no"/>le dicant, qui imaginantur, quod intellectus 
+          <lb ed="#P" n="96"/>fabricet entia rationis redeundo super
+          pri<lb ed="#P" n="97" break="no"/>mum actum: quapropter simpliciter est
+          di<lb ed="#P" n="98" break="no"/>cendum, quod constituantur per actum
+          pri<lb ed="#P" n="99" break="no"/>mum, sed cognoscantur constituta per actu 
+          <lb ed="#P" n="100"/>secundum, qui est reflexus; &amp; ex hoc
+          appa<lb ed="#P" n="101" break="no"/>ret immediate, quod entia rationis non
+          de<lb ed="#P" n="102" break="no"/>bent dici secundae intentiones, sed intellecta 
+          <lb ed="#P" n="103"/>secundaria, quemadmodum entia realia non  
+          <lb ed="#P" n="104"/>debent dici primae intentiones, sed
+          intelle<lb ed="#P" n="105" break="no"/>cta primaria 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1601">
+          <lb ed="#P" n="106"/>Redeundo ergo unde sermo digressus est 
+          <lb ed="#P" n="107"/>dico, quod intentio secunda non est aliud, 
+          <lb ed="#P" n="108"/>quam actus intellectus reflexus, per quem 
+          <lb ed="#P" n="109"/>tendit in rem iam intellectam per actum re 
+          <lb ed="#P" n="110"/>ctum, &amp; quia res intellecta per actum
+          re<lb ed="#P" n="111" break="no"/>ctum efficitur fundamentum alicuius entis 
+          <lb ed="#P" n="112"/>rationis, idcirco cum postea cognoscitur aspe 
+          <lb ed="#P" n="113"/>ctu teflexo, intelligitur sub aliquo esse ratio 
+          <lb ed="#P" n="114"/>nis. Imaginabimur ergo in intellectu talem 
+          <!--489.xml-->
+          <pb ed="#P" n="464"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ordinem, quia primo intellectus intelligit
+          a<lb ed="#P" n="2" break="no"/>liquam rem actu recto cognoscendo eam se 
+          <lb ed="#P" n="3"/>cundum ali quod esse reale, quod habet
+          ex<lb ed="#P" n="4" break="no"/>tra intellectum, ad istum autem actum rectum 
+          <lb ed="#P" n="5"/>sequitur aliquod esse rationis, cuius ipsa
+          re<lb ed="#P" n="6" break="no"/>intellecta constituitur fundamentum, &amp; quia 
+          <lb ed="#P" n="7"/>istud esse rationis consequitur rem
+          median<lb ed="#P" n="8" break="no"/>te primo actu intellectus, idcirco necessario 
+          <lb ed="#P" n="9"/>supponit eum, ac per consequens non potest 
+          <lb ed="#P" n="10"/>per ipsum cognosci; si ergo debeat cognosci 
+          <lb ed="#P" n="11"/>oportet, quod superueniat actus secundus,  
+          <lb ed="#P" n="12"/>per quem reflectat se super eandem rem
+          in<lb ed="#P" n="13" break="no"/>telligendo eam non solum secundum aliqud 
+          <lb ed="#P" n="14"/>esse reale, quod sibi debetur antequam sit in 
+          <lb ed="#P" n="15"/>tellecta, sed etiam secundum aliquod esse 
+          <lb ed="#P" n="16"/>rationis, quod sibi attribuitur postquam est 
+          <lb ed="#P" n="17"/>intellecta, hoc autem exemplo declaratur. 
+          <lb ed="#P" n="18"/>Videmus enim quod si intellectus feratur su 
+          <lb ed="#P" n="19"/>per hominem actu recto intelliget eum secun 
+          <lb ed="#P" n="20"/>dum quod homo, ac per consequens
+          secun<lb ed="#P" n="21" break="no"/>dum aliquod esse reale, quod habet extra in 
+          <lb ed="#P" n="22"/>tellectum, &amp; quia homo sic intellectus prae 
+          <lb ed="#P" n="23"/>scindit ab omnibus conditionibus indiuidua 
+          <lb ed="#P" n="24"/>libus, idcirco efficitur necessario
+          fundamen<lb ed="#P" n="25" break="no"/>tum vniuersalitatis, quamuis nondum cogno 
+          <lb ed="#P" n="26"/>scatur sub esse vniuersali; si vero postea
+          in<lb ed="#P" n="27" break="no"/>tellectus reflectat se super hominem iam con 
+          <lb ed="#P" n="28"/>gnitum per primum actum, necessario intel 
+          <lb ed="#P" n="29"/>liget ipsum sub esse vniuersali, quod est esse  
+          <lb ed="#P" n="30"/>rationis, quia videbit, quod ad hominem sic 
+          <lb ed="#P" n="31"/>intellectum, necessario consequitur
+          vniuer<lb ed="#P" n="32" break="no"/>salitas. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1699">
+          <lb ed="#P" n="33"/>Ex quibus omnibus apparet quidsit dice 
+          <lb ed="#P" n="34"/>dum quantum ad istum articulum, cum quae 
+          <lb ed="#P" n="35"/>ritur, vtrum prima, &amp; secunda intentio
+          ca<lb ed="#P" n="36" break="no"/>dant super eandem rem intellectam;
+          dicen<lb ed="#P" n="37" break="no"/>dum est enim quod sic, quamuis alio, &amp; alio 
+          <lb ed="#P" n="38"/>modo, quia Prima intentio cadit super: rem 
+          <lb ed="#P" n="39"/>intellectam directo aspectu secundum aliqud 
+          <lb ed="#P" n="40"/>esse reale, quod habet extra intellectum, Se 
+          <lb ed="#P" n="41"/>cunda vero intentio super eandem rem aspe 
+          <lb ed="#P" n="42"/>ctu reflexo tendendo in eam secundum
+          ali<lb ed="#P" n="43" break="no"/>quod esse rationis, quod eam consequitur, in 
+          <lb ed="#P" n="44"/>quantum intellecta per primum actum, v. 0. 
+          <lb ed="#P" n="45"/>si actus intellectus cadat super hominem
+          di<lb ed="#P" n="46" break="no"/>recto aspectu, necessario intelligit ipsum
+          se<lb ed="#P" n="47" break="no"/>cundum aliquod esse reale, quod habet
+          ex<lb ed="#P" n="48" break="no"/>tra intellectum; si vero cadat super
+          homi<lb ed="#P" n="49" break="no"/>ne aspectu reflexo, oportet necessario quod 
+          <lb ed="#P" n="50"/>intelligat eum in ordine ad primum actum; 
+          <lb ed="#P" n="51"/>qui fuit rectus, quia nisi ita ponatur, actus 
+          <lb ed="#P" n="52"/>iste secundus non esset magis reflexus, quam 
+          <lb ed="#P" n="53"/>primus: Si autem concedamus, quod
+          intel<lb ed="#P" n="54" break="no"/>ligat eum in ordine ad actum primum, qui 
+          <lb ed="#P" n="55"/>est rectus, cogimur concedere, quod
+          conci<lb ed="#P" n="56" break="no"/>biareum sub quodam esse rationis, quod
+          si<lb ed="#P" n="57" break="no"/>bi competit, inquantum cognitus per actum  
+          <!--489.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 464 b -->
+          <lb ed="#P" n="58"/>primum, &amp; quia homo, inquantum
+          cogni<lb ed="#P" n="59" break="no"/>tus per actum primum, cognoscitur per
+          ab<lb ed="#P" n="60" break="no"/>stractionem, idcirco ex hoc ipso necessario 
+          <lb ed="#P" n="61"/>fundat quandam vniuersalitatem per
+          indif<lb ed="#P" n="62" break="no"/>ferentiam ad plura, quae quidem
+          vniuersali<lb ed="#P" n="63" break="no"/>tas est ens rationis, ac per consequens
+          intel<lb ed="#P" n="64" break="no"/>lectus cognoscens hominem isto modo,
+          co<lb ed="#P" n="65" break="no"/>gnoscit eum, vt fundamentum entis
+          ratio<lb ed="#P" n="66" break="no"/>nis: Et hinc est, quod aliud nomen sibi
+          im<lb ed="#P" n="67" break="no"/>ponit in primo actu, &amp; aliud in secundo; 
+          <lb ed="#P" n="68"/>nam in primo actu vocat eum hominem, quod 
+          <lb ed="#P" n="69"/>est nomen primae intentionis ad significandum 
+          <lb ed="#P" n="70"/>eum sub aliquo esse reali; in secundo vero 
+          <lb ed="#P" n="71"/>actu vocat eum speciem, siue vniuersale, quod 
+          <lb ed="#P" n="72"/>est nomen secundae intentionis ad significon 
+          <lb ed="#P" n="73"/>dum eum sub aliquo esse rationis. Potest ta 
+          <lb ed="#P" n="74"/>men contingere quandoque quod idem
+          no<lb ed="#P" n="75" break="no"/>men imponatur ad significandum rem sub 
+          <lb ed="#P" n="76"/>esse reali, &amp; sub esse rationis, &amp; per
+          conse<lb ed="#P" n="77" break="no"/>uens idem potest esse nomen primae, &amp;
+          se<lb ed="#P" n="78" break="no"/>cundae intentionis, sicut patebit in sequenti 
+          <lb ed="#P" n="79"/>articulo de hoc nomine indiuiduum, ex qua 
+          <lb ed="#P" n="80"/>cunque causa hoc contingat, nam de hoc
+          ni<lb ed="#P" n="81" break="no"/>hil ad praesens; nunc enim satis est scire, quod 
+          <lb ed="#P" n="82"/>per se, &amp; vt in pluribus, aliud est nomen pri 
+          <lb ed="#P" n="83"/>mae, &amp; aliud nomen secundae intentionis; 
+          <lb ed="#P" n="84"/>quae quidem intentio prima, &amp; secunda
+          ca<lb ed="#P" n="85" break="no"/>dunt super eandem rem intellectam,
+          quam<lb ed="#P" n="86" break="no"/>uis alio modo, vt potest patere ex dictis: Re 
+          <lb ed="#P" n="87"/>stat ergo videre modo in speciali de nomine 
+          <lb ed="#P" n="88"/>personae. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1830">
+          <lb ed="#P" n="89"/>ARTICVLVS TERTIVS. 
+          <lb ed="#P" n="90"/>Vtrum nomen personae sit nomen primae. 
+          <lb ed="#P" n="91"/>intentionis, vel secundae.
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1839">
+          <lb ed="#P" n="92"/>D quod dicunt aliqui, quod est nomen 
+          <lb ed="#P" n="93"/>primae intentionis, quod probant
+          du<lb ed="#P" n="94" break="no"/>pliciter. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1848">
+          <lb ed="#P" n="95"/>Primo, quia hoc nomen persona, dicit con 
+          <lb ed="#P" n="96"/>ceptum absolutum, quemadmodum &amp; hoc 
+          <lb ed="#P" n="97"/>nomen suppositum; nam sicut suppositum 
+          <lb ed="#P" n="98"/>dicitur a subsistendo in se generaliter in
+          ge<lb ed="#P" n="99" break="no"/>nere substantiae; ita persona dicitur a subsisten 
+          <lb ed="#P" n="100"/>do in se specialiter in natura intellectuali, &amp;  
+          <lb ed="#P" n="101"/>ideo vtrunque eorum importat conceptum ab 
+          <lb ed="#P" n="102"/>solutum. Nomina autem secundarum inten 
+          <lb ed="#P" n="103"/>tionum important conceptum relatiuum, vt 
+          <lb ed="#P" n="104"/>patuit (per eos) in praecedenti articulo.  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1872">
+          <lb ed="#P" n="105"/>Secundo, quia hoc nomen persona, &amp; hoc 
+          <lb ed="#P" n="106"/>nomen suppositum, important conceptum for 
+          <lb ed="#P" n="107"/>matum de re secudum: perseitatem tertij mo 
+          <lb ed="#P" n="108"/>di, quae quidem perseitas competit rei, prout 
+          <lb ed="#P" n="109"/>est extra intellectum, &amp; ideo tam conceptus 
+          <lb ed="#P" n="110"/>suppositi, quam personae est conceptus primi 
+          <lb ed="#P" n="111"/>ordinis. Nomina autem secundarum intep¬ 
+          <!--490.xml-->
+          <pb ed="#P" n="465"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>tionum important conceptum secundi
+          ordi<lb ed="#P" n="2" break="no"/>nis; quapropter videtur naec opinio ponere, 
+          <lb ed="#P" n="3"/>quod hoc nomen persona, &amp; suppositum sint 
+          <lb ed="#P" n="4"/>nomina primae intentionis. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1905">
+          <lb ed="#P" n="5"/>Quae opinio videtur deficere in se, &amp; in 
+          <lb ed="#P" n="6"/>suo fundamento. IN SE deficit propter duo. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1912">
+          <lb ed="#P" n="7"/>Primo, quia cogitur dicere, quod commu 
+          <lb ed="#P" n="8"/>nitas nominis personae sit accepta ab aliqua 
+          <lb ed="#P" n="9"/>communitate praeexistente in re, hoc autem 
+          <lb ed="#P" n="10"/>non est verum, vel saltem est valde dubium 
+          <lb ed="#P" n="11"/>quia illud, quod est commune in diuinis
+          se<lb ed="#P" n="12" break="no"/>cundum rem, non videtur posse plurificari, 
+          <lb ed="#P" n="13"/>persona autem ibi plurificatur, quapropter 
+          <lb ed="#P" n="14"/>non videtur, quod simpliciter esse possit
+          no<lb ed="#P" n="15" break="no"/>men primae intentionis. Et confirmatur, quia 
+          <lb ed="#P" n="16"/>si nomen personae esset simpliciter nomen 
+          <lb ed="#P" n="17"/>primae intentionis, tunc eodem modo
+          signi<lb ed="#P" n="18" break="no"/>ficaretur persona patris per hoc nomen
+          pa<lb ed="#P" n="19" break="no"/>ter, &amp; per hoc nomen persona, quia vtruque 
+          <lb ed="#P" n="20"/>eorum significaret personam patris secundum 
+          <lb ed="#P" n="21"/>illud, quod est in re extra intellectum, ac por 
+          <lb ed="#P" n="22"/>consequens sicut persona patris, vt
+          significa<lb ed="#P" n="23" break="no"/>tur nomine patris, non communicat cum fi- 
+          <lb ed="#P" n="24"/>lio nec nomine, nec significato nominis, quia 
+          <lb ed="#P" n="25"/>filius nullo modo est pater; ita etiam, vt signi 
+          <lb ed="#P" n="26"/>ficatur nomine persouae, nullo modo commu 
+          <lb ed="#P" n="27"/>nicaret cum filio nec iu nomine, nec in sigui 
+          <lb ed="#P" n="28"/>ficato nomiuis; quod est falsum, quia non  
+          <lb ed="#P" n="29"/>solum pater est persona, sed etiam filius, qua 
+          <lb ed="#P" n="30"/>propter non videtur, quod nomen personae 
+          <lb ed="#P" n="31"/>sit simpliciter nomen primae intentionis 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e1970">
+          <lb ed="#P" n="32"/>Secundo, quia ex dictis eorum sequitur  
+          <lb ed="#P" n="33"/>oppositum ipsius, quod patet. Dicunt enim, 
+          <lb ed="#P" n="34"/>quod omnia nomina, quae significant
+          conce<lb ed="#P" n="35" break="no"/>ptum relatiuum sunt nomina secundae
+          inte<lb ed="#P" n="36" break="no"/>tionis, sed nomen personae, vt probabo, sigui 
+          <lb ed="#P" n="37"/>ficat conceptum relatiuum, ergo &amp;c.
+          Mino<lb ed="#P" n="38" break="no"/>rem probo, quia illud, quod est commune, 
+          <lb ed="#P" n="39"/>importat habitudinem ad ea, quibus est com 
+          <lb ed="#P" n="40"/>mune, &amp; non potest concipi, nisi conceptu 
+          <lb ed="#P" n="41"/>relatiuo; &amp; quia nomen personae habet
+          si<lb ed="#P" n="42" break="no"/>nificatum commune, videtur necessario ha 
+          <lb ed="#P" n="43"/>bere conceptum relatiuum, ac per consequens,  
+          <lb ed="#P" n="44"/>vel erit nomen secundae intentionis, vel non 
+          <lb ed="#P" n="45"/>erit simpliciter nomen primae intentionis,
+          si<lb ed="#P" n="46" break="no"/>cut isti dicunt 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2005">
+          <lb ed="#P" n="47"/>TVNDAMENTVM etiam istius
+          opi<lb ed="#P" n="48" break="no"/>nionis deficit dupliciter. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2012">
+          <lb ed="#P" n="49"/>Primo, quia supponit, quod omne nomen 
+          <lb ed="#P" n="50"/>significet conceptum, cuius oppositum fuit 
+          <lb ed="#P" n="51"/>probatum in primo articulo istius quaestionis,  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2021">
+          <lb ed="#P" n="52"/>Secundo, quia supponit, quod nomen 
+          <lb ed="#P" n="53"/>mportans conceptum formatum de re
+          secun<lb ed="#P" n="54" break="no"/>dum esse, quod habet extra intellectum,
+          sim<lb ed="#P" n="55" break="no"/>liciter sit nomen primae intentionis, quod ta 
+          <lb ed="#P" n="56"/>men non videtur vniuersaliter verum. Nam  
+          <lb ed="#P" n="57"/>si nomen semper signisicet conceptum, vt 
+          <!--490.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 465 b -->
+          <lb ed="#P" n="58"/>ipsi dicunt, non est dubium, quod hoc
+          no<lb ed="#P" n="59" break="no"/>men oroprium importat conceptum
+          forma<lb ed="#P" n="60" break="no"/>tum de re secundum esse, quod habet extra 
+          <lb ed="#P" n="61"/>intellectum, quia passio alicuius subiecti, quae 
+          <lb ed="#P" n="62"/>significatur hoc nomine, vere est propria suo 
+          <lb ed="#P" n="63"/>subiecto, &amp; tamen hoc non obstante consue 
+          <lb ed="#P" n="64"/>uit poni nomen secundae intentionis; ergo 
+          <lb ed="#P" n="65"/>a simili non obstante, quod hoc nomen
+          per<lb ed="#P" n="66" break="no"/>sona, importet conceptum formatum de re 
+          <lb ed="#P" n="67"/>secundum perseitatem tertij modi, quae sibi 
+          <lb ed="#P" n="68"/>debetur, prout est extra intellectum,
+          pote<lb ed="#P" n="69" break="no"/>rit esse nomen secundae intentionis 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2069">
+          <lb ed="#P" n="70"/>Et ideo est alius modus ponendi. Dicunt 
+          <lb ed="#P" n="71"/>enim quidam, quod nomen personae est
+          no<lb ed="#P" n="72" break="no"/>men secundae intentionis, quemadmodum  
+          <lb ed="#P" n="73"/>indiuiduum, namita se habet persona in na 
+          <lb ed="#P" n="74"/>tura intellectuali sicut indiuiduum in
+          qua<lb ed="#P" n="75" break="no"/>libet natura, sed indiuiduum est nomen
+          se<lb ed="#P" n="76" break="no"/>cundae intentionis, ergo &amp; persona: Maior 
+          <lb ed="#P" n="77"/>videtur nota; Minor probatur, quia
+          indiui<lb ed="#P" n="78" break="no"/>duum dicitur relatiue ad speciem, relatiua 
+          <lb ed="#P" n="79"/>autem debent esse eiusdem generis; cum ergo 
+          <lb ed="#P" n="80"/>species sit nomen secundae intentionis, ergo 
+          <lb ed="#P" n="81"/>&amp; indiuiduum 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2098">
+          <lb ed="#P" n="82"/>Haec tamen opinio non videtur mihi
+          ra<lb ed="#P" n="83" break="no"/>tionabilis; &amp; hoc praecipue propter tria, 
+          <lb ed="#P" n="84"/>Tum quia si hoc nomen persona, esset
+          prae<lb ed="#P" n="85" break="no"/>cise nomen secudae intentionis, sequeretur, 
+          <lb ed="#P" n="86"/>quod non significaret aliquam subsistentiam  
+          <lb ed="#P" n="87"/>extra intellectum sub esse reali; consequens 
+          <lb ed="#P" n="88"/>est falsum; ergo &amp; antecedens, Consequen 
+          <lb ed="#P" n="89"/>tia apparet ex dictis in praecedenti articulo; 
+          <lb ed="#P" n="90"/>Falsitatem probo ex definitione personae quam 
+          <lb ed="#P" n="91"/>dat Ricchardus 4. de Trinitate sic inquiens 
+          <lb ed="#P" n="92"/>Persona est intellectualis naturae indiuidua 
+          <lb ed="#P" n="93"/>existentia. Tum quia si nomen personae esset 
+          <lb ed="#P" n="94"/>nomen secundae intentionis, sequeretur, Tri 
+          <lb ed="#P" n="95"/>nitatem etiam esse nomen secundae intentio 
+          <lb ed="#P" n="96"/>nis in diuinis, quod nullus Catholicus dice 
+          <lb ed="#P" n="97"/>ret: Consequentiam probo, quia sicut dicit 
+          <lb ed="#P" n="98"/>Magister in praecedenti distinct. hoc nomen 
+          <lb ed="#P" n="99"/>Trinitas, est quasi collectiuum designas plura 
+          <lb ed="#P" n="100"/>litatem personarum. Tum ent, quia hoc nomen 
+          <lb ed="#P" n="101"/>essentia esset etiam nomen secundae intentio 
+          <lb ed="#P" n="102"/>nis, quod patet esse falsum: Consequentiam  
+          <lb ed="#P" n="103"/>probo, quia ita se habet hoc nomen persona 
+          <lb ed="#P" n="104"/>in diuinis ad significandum illud, quod est 
+          <lb ed="#P" n="105"/>ibi incommunicabile, quemadmodum hoc 
+          <lb ed="#P" n="106"/>nomen essentia, ad significandum illud, quod 
+          <lb ed="#P" n="107"/>est ibi communicabile¬ 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2158">
+          <lb ed="#P" n="108"/>Dico ergo ipse ad hunc articulum non
+          es<lb ed="#P" n="109" break="no"/>se inconueniens, quod vnum, &amp; idem nomi 
+          <lb ed="#P" n="110"/>quandoque imponatur ad significandam rem  
+          <lb ed="#P" n="111"/>sub esse reali, &amp; sub esse rationis, &amp; per con 
+          <lb ed="#P" n="112"/>sequens idem potest esse nomen primae, &amp; se 
+          <lb ed="#P" n="113"/>cundae intentionis, sicut tangebatur in
+          prae<lb ed="#P" n="114" break="no"/>cedenti articulo de hoc nomine indiuiduum, 
+          <!--491.xml-->
+          <pb ed="#P" n="466"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quod quidem secundum alium, &amp; alium mo 
+          <lb ed="#P" n="2"/>i dum significandi significat rem sub aliquo 
+          <lb ed="#P" n="3"/>esse reali, &amp; sub aliquo esse rationis: nam si
+          ac<lb ed="#P" n="4" break="no"/>cipiatur hoc nomen indiuiduum, prout signi 
+          <lb ed="#P" n="5"/>ficat aliquam rem, secundum quod habet 
+          <lb ed="#P" n="6"/>suam propriam singularitatem, sic significat 
+          <lb ed="#P" n="7"/>eam sub esse reali, quod habet extra
+          intelle<lb ed="#P" n="8" break="no"/>ctum, sin autem sumatur, prout significat ea 
+          <lb ed="#P" n="9"/>dem rem, inquantum per eandem
+          singula<lb ed="#P" n="10" break="no"/>ritatem stat sub specle per modum partis com 
+          <lb ed="#P" n="11"/>trahentis, &amp; diuidentis, sic significat ea sub 
+          <lb ed="#P" n="12"/>esse rationis, quia indiuiduum non habet, 
+          <lb ed="#P" n="13"/>quod stet sub specie per modum partis, nisi 
+          <lb ed="#P" n="14"/>supposito actu intellectus abstrahentis
+          spe<lb ed="#P" n="15" break="no"/>ciem ab indiuiduis, &amp; ideo sicut habitudo 
+          <lb ed="#P" n="16"/>speciei ad indiuidua, quia detelinquitur ex 
+          <lb ed="#P" n="17"/>actu rationis, est ens rationis; ita habitudo, 
+          <lb ed="#P" n="18"/>quam habet indiuiduum ad speciem in ratio 
+          <lb ed="#P" n="19"/>ne partis, est etiam ens rationis, ex quo sequi 
+          <lb ed="#P" n="20"/>tur immediate, quod indiuiduum non sit pars 
+          <lb ed="#P" n="21"/>realis respectu speciei, sed pars secundum
+          ra<lb ed="#P" n="22" break="no"/>tionem, quemadmodum etiam species respe 
+          <lb ed="#P" n="23"/>ctu indiuiduorum non est totum reale, sed  
+          <lb ed="#P" n="24"/>totum secundum rationem; Recte igitur in 
+          <lb ed="#P" n="25"/>dist. 10. dicebatur quando de diuinis
+          perso<lb ed="#P" n="26" break="no"/>nis quaerebatur, vtrum essent partes; Dictum 
+          <lb ed="#P" n="27"/>enim fuit, quod totum vniuersale quodcumqu 
+          <lb ed="#P" n="28"/>non est totum reale, sed totum secundum 
+          <lb ed="#P" n="29"/>rationem, &amp; per consequens suae partes
+          sub<lb ed="#P" n="30" break="no"/>iectiuae non sunt partes reales, sed secudum 
+          <lb ed="#P" n="31"/>rationem. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2249">
+          <lb ed="#P" n="32"/>Redeundo ergo unde sermo digressus est,  
+          <lb ed="#P" n="33"/>dico, quod si accipiamus nomen indiuidui, 
+          <lb ed="#P" n="34"/>prout dignificat rem sub esse reali, quod
+          ha<lb ed="#P" n="35" break="no"/>bet extra intellectum, sic est nomen primae 
+          <lb ed="#P" n="36"/>intentionis, quia significat rem, prout cadit 
+          <lb ed="#P" n="37"/>super ea prima intentio; si uero accipiamus 
+          <lb ed="#P" n="38"/>idem nomen, prout significat rem secundo 
+          <lb ed="#P" n="39"/>modo, scilicet sub esse rationis, potest esse non 
+          <lb ed="#P" n="40"/>men secundae intentionis, quia significat rem,  
+          <lb ed="#P" n="41"/>prout cadit super eam secuuda intentio 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2273">
+          <lb ed="#P" n="42"/>Posset insuper hoc declarari alio modo di 
+          <lb ed="#P" n="43"/>cendo, quod hoc nomen indiuiduum, potest 
+          <lb ed="#P" n="44"/>significare rem singularem dupliciter, uno 
+          <lb ed="#P" n="45"/>modo secundum propriam singularitatem, 
+          <lb ed="#P" n="46"/>quam habet in rerum natura extra
+          intelle<lb ed="#P" n="47" break="no"/>ctum, &amp; isto modo est nomen primae
+          inten<lb ed="#P" n="48" break="no"/>tionis, sicut tactum fuit, quia connotat rem 
+          <lb ed="#P" n="49"/>sub esse reali, secundum quod cadit super 
+          <lb ed="#P" n="50"/>eam prima intentio; alio modo potest
+          signi<lb ed="#P" n="51" break="no"/>ficare eandem rem, prout fundat quandam si 
+          <lb ed="#P" n="52"/>militudinem rationis ad quodlibet aliud
+          in<lb ed="#P" n="53" break="no"/>diuiduum. Nam quamuis indiuidua
+          diuer<lb ed="#P" n="54" break="no"/>sorum generum habeant distinctas singulari 
+          <lb ed="#P" n="55"/>tates extra intellectum, &amp; distinctos conce 
+          <lb ed="#P" n="56"/>ptus apud intellectum, illi tamen conceptus 
+          <lb ed="#P" n="57"/>cadunt super dicta indiuidua quasi unifor¬ 
+          <!--491.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 466 b -->
+          <lb ed="#P" n="58"/>miter, &amp; consimiliter, quia intellectus in con 
+          <lb ed="#P" n="59"/>cipiendo indiuiduum cuiuscunque generis, se 
+          <lb ed="#P" n="60"/>per concipitipsum sub ratione entis indiuisi 
+          <lb ed="#P" n="61"/>in se, &amp; diuisi ab alio, &amp; semper seruat istum 
+          <lb ed="#P" n="62"/>modum vniformem concipiendi indiuiduum 
+          <lb ed="#P" n="63"/>cuiuscunque generis, &amp; dico ratione huius 
+          <lb ed="#P" n="64"/>vniformis modi concipiendi inter indiuidua 
+          <lb ed="#P" n="65"/>sic concepta, quantumcunque sint diuersorum 
+          <lb ed="#P" n="66"/>generum, consurgit tamen inter ea quaedam  
+          <lb ed="#P" n="67"/>similitudo rationis, ratione cuius imponitur 
+          <lb ed="#P" n="68"/>eis unum nomen, scilicet nomen indiuidui: 
+          <lb ed="#P" n="69"/>Ex quo apparet immediate, quod hoc nomen 
+          <lb ed="#P" n="70"/>indiuiduum sic aceptum significat rem sub 
+          <lb ed="#P" n="71"/>aliquo esse rationis, secundum quod super 
+          <lb ed="#P" n="72"/>psum cadit secunda intentio, &amp; per conse 
+          <lb ed="#P" n="73"/>quens est nomen secundae intentionis; &amp; 
+          <lb ed="#P" n="74"/>quod dictum est de indiuiduo posset dici de 
+          <lb ed="#P" n="75"/>proprio, &amp; de quibuscunque alijs nominibus, 
+          <lb ed="#P" n="76"/>quae ex vna parte videntur esse nomina
+          pri<lb ed="#P" n="77" break="no"/>mae intentionis, &amp; ex alia secundae,
+          quodli<lb ed="#P" n="78" break="no"/>bet enim eorum potest dici nomen primae, &amp;  
+          <lb ed="#P" n="79"/>secundae intentionis aliter, &amp; aliter, 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2364">
+          <lb ed="#P" n="80"/>Ad propositum ergo desendendo in
+          spe<lb ed="#P" n="81" break="no"/>ciali ad hoc nomen persona, dico quod non est 
+          <lb ed="#P" n="82"/>praecise nomen primae intentionis, nec praeci 
+          <lb ed="#P" n="83"/>se nomen secundae, sed se habet utroque mo 
+          <lb ed="#P" n="84"/>do tam in creaturis, quam in diuinis: Nam  
+          <lb ed="#P" n="85"/>dictum nomen acceptum inquantum impo 
+          <lb ed="#P" n="86"/>nitur ad significandum suppositum naturae 
+          <lb ed="#P" n="87"/>intellectualis secundum propriam, &amp;
+          inco<lb ed="#P" n="88" break="no"/>municabilem subsistentiam, quam habet rea 
+          <lb ed="#P" n="89"/>liter extra intellectum, sic est nomen primae 
+          <lb ed="#P" n="90"/>intentionis; acceptum uero, inquantum im 
+          <lb ed="#P" n="91"/>ponitur ad significadum illud idem
+          supposi<lb ed="#P" n="92" break="no"/>tum, prout fundat quandam similitudinem 
+          <lb ed="#P" n="93"/>rationis ad quodcunque aliud suppositum ra 
+          <lb ed="#P" n="94"/>tione vniformis, &amp; consimilis modi concipien 
+          <lb ed="#P" n="95"/>di, sic est nomen secundae intentionis, quia 
+          <lb ed="#P" n="96"/>significat rem sub esse rationis secundum 
+          <lb ed="#P" n="97"/>quod cadit super eam secunda intentio; &amp;  
+          <lb ed="#P" n="98"/>sic quod dictum fuit de nomine indiuidui, dici  
+          <lb ed="#P" n="99"/>potest de hoc nomine persona
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2410">
+          <lb ed="#P" n="100"/>Intelligendum tamen, quod cum duobus 
+          <lb ed="#P" n="101"/>modis explicetum sit quomodo hoc nomen 
+          <lb ed="#P" n="102"/>indiuiduum, &amp; persona possint dici nomina 
+          <lb ed="#P" n="103"/>secundae intentionis, secundus tantum
+          pro<lb ed="#P" n="104" break="no"/>prie habet locum in diuinis, alter uero non 
+          <lb ed="#P" n="105"/>habet ibi locum nisi secundum nostrum mo 
+          <lb ed="#P" n="106"/>dum intelligendi. Et quod ita sit apparet, nam 
+          <lb ed="#P" n="107"/>si acoipiatur hoc nomen persona, inquantum 
+          <lb ed="#P" n="108"/>est nomen secundae intentionis significando 
+          <lb ed="#P" n="109"/>suppositum naturae intellectualis sub
+          habi<lb ed="#P" n="110" break="no"/>tudine partis secundum rationem,
+          quemad<lb ed="#P" n="111" break="no"/>modum hoc nomen indiuiduum, apparet, quod 
+          <lb ed="#P" n="112"/>talis modus fignisicandi non habet proprie 
+          <lb ed="#P" n="113"/>locum in diuinis, quia ostensum fuit in 10. 
+          <lb ed="#P" n="114"/>dist. quod ibi non est ratio totius vniuersalis. 
+          <!--492.xml-->
+          <pb ed="#P" n="467"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>nec ratio partis, &amp; ideo nullum nomen
+          po<lb ed="#P" n="2" break="no"/>test proprie significare diuinam personam sub 
+          <lb ed="#P" n="3"/>habitudine partis, secundum tamen nostrum 
+          <lb ed="#P" n="4"/>modum intelligendi omnino extraneum po 
+          <lb ed="#P" n="5"/>test iste modus significandi aliqualiter ibi reci 
+          <lb ed="#P" n="6"/>pi, puta, quia non intelligimus supposita di 
+          <lb ed="#P" n="7"/>uina nisi per supposita creata: idcirco sicut  
+          <lb ed="#P" n="8"/>intelligendo aliquod determinatum supposi 
+          <lb ed="#P" n="9"/>tum in creaturis intelligimus ipsum per mo 
+          <lb ed="#P" n="10"/>dum partis; ita secundum rationem intelligi 
+          <lb ed="#P" n="11"/>mus supposita diuina respectu diuinae
+          natu<lb ed="#P" n="12" break="no"/>tae, quamuis rationem partis non habeat, ui 
+          <lb ed="#P" n="13"/>dictum fuit supra; Si autem capiatur hoc no 
+          <lb ed="#P" n="14"/>men persona, inquantum est nomen
+          secun<lb ed="#P" n="15" break="no"/>dae intentionis significando suppositum
+          na<lb ed="#P" n="16" break="no"/>turae intellectualis sub quadam similitudine 
+          <lb ed="#P" n="17"/>rationis, quam fundat ad aliud suppositum 
+          <lb ed="#P" n="18"/>proper vniformen, &amp; consimilem modum 
+          <lb ed="#P" n="19"/>concipiendi, quem intellectus habet circa 
+          <lb ed="#P" n="20"/>ipsa, hoc modo videtur habere locum in
+          di<lb ed="#P" n="21" break="no"/>uinis suus modus significandi, quia uere est 
+          <lb ed="#P" n="22"/>vniformis, &amp; consimilis modus concipiendi 
+          <lb ed="#P" n="23"/>quo intellectus concipit personam Patris &amp;  
+          <lb ed="#P" n="24"/>personam Filij, &amp; quo concipit personam 
+          <lb ed="#P" n="25"/>Spiritus Sancti: Nam sicut in concipiendo 
+          <lb ed="#P" n="26"/>personam Patris concipit ipsam sub ratione 
+          <lb ed="#P" n="27"/>suppositi subsistentis incommunicabilis in na 
+          <lb ed="#P" n="28"/>tura diuina; ita uniformiter concipit
+          perso<lb ed="#P" n="29" break="no"/>nam Filij, &amp; personam Spiritus Saucti. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2514">
+          <lb ed="#P" n="30"/>Vnum tamen, quod facit dubium circa 
+          <lb ed="#P" n="31"/>huiusmodi dictum, est, quia ubi est talis
+          uni<lb ed="#P" n="32" break="no"/>formis modus concipiendi, uidetur esse possi 
+          <lb ed="#P" n="33"/>bile abstrahere vnum commune conceptum, 
+          <lb ed="#P" n="34"/>quod nullo modo videtur esse dicendum de 
+          <lb ed="#P" n="35"/>persona; nec etiam de indiuiduo, quia tunc 
+          <lb ed="#P" n="36"/>indiuiduum, sub ratione qua indiuiduum, es 
+          <lb ed="#P" n="37"/>set uniuersale, quod est absurdum.
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2535">
+          <lb ed="#P" n="38"/>Quid autem sit dicendum ad istud dubium 
+          <lb ed="#P" n="39"/>patebit in 25 dist. ubi quaeretur de
+          significa<lb ed="#P" n="40" break="no"/>to nominis persenae magis in speciali; &amp; per 
+          <lb ed="#P" n="41"/>consequens etiam ibi melius apparebit qua 
+          <lb ed="#P" n="42"/>lis sit communitas dicti nominis, 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2548">
+          <lb ed="#P" n="43"/>Ad praesens autem scire sufficiat, quod 
+          <lb ed="#P" n="44"/>nomen perso nae aliquo modo est nomen pri 
+          <lb ed="#P" n="45"/>mae intentiouis, &amp; aliquo modo secundae; &amp;  
+          <lb ed="#P" n="46"/>ideo dato, quod non possit esse quid commu 
+          <lb ed="#P" n="47"/>ne Patri, Filio, &amp; Spiritui Santo, prout est 
+          <lb ed="#P" n="48"/>nomen primae intentionis, poterit tamen ha 
+          <lb ed="#P" n="49"/>bere dictam communitatem, prout est nomen 
+          <lb ed="#P" n="50"/>secundae intentionis.  
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2568">
+          <lb ed="#P" n="51"/>Rationes autem pro ista conclusione non 
+          <lb ed="#P" n="52"/>adduco alias, quam superius inductas contra 
+          <lb ed="#P" n="53"/>praecedentes opiniones, cum per eas sufficie 
+          <lb ed="#P" n="54"/>ter probari possit personam non esse
+          simpli<lb ed="#P" n="55" break="no"/>citer nomen primae, nec simpliciter secuda 
+          <lb ed="#P" n="56"/>intentionis, ex quo sequitur, quod praefatum 
+          <lb ed="#P" n="57"/>nomen, vel non sit impositum secundum ali 
+          <!--492.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 467 b -->
+          <lb ed="#P" n="58"/>quam intentionem intellectus, quod est
+          ab<lb ed="#P" n="59" break="no"/>surdum, vel quod sit impositum secundum 
+          <lb ed="#P" n="60"/>vtramque, &amp; per consequens sit nomen tam 
+          <lb ed="#P" n="61"/>primae, quam etiam secundae intentionis 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2601">
+          <lb ed="#P" n="62"/>AD ARGVMENTA 
+          <lb ed="#P" n="63"/>principalia.
+          <lb ed="#P" n="64"/>D rationes principales, per iam dicta 
+          <lb ed="#P" n="65"/>in his tribus articulis facile colligi
+          po<lb ed="#P" n="66" break="no"/>test quid sit dicendum; Omnes. nm procedunt
+          se<lb ed="#P" n="67" break="no"/>cundum opiniones contrarias, quas supra 
+          <lb ed="#P" n="68"/>confutauimus 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2619">
+          <lb ed="#P" n="69"/>Prima. nm procedit secundum opinionem 
+          <lb ed="#P" n="70"/>eorum, qui dicunt omnia nomina significare 
+          <lb ed="#P" n="71"/>intentionem primam, vel secudam: Nos autem 
+          <lb ed="#P" n="72"/>dicimus, quod significant, rem ipsam secundum 
+          <lb ed="#P" n="73"/>esse, quod habet in seipsam, &amp; quia
+          conci<lb ed="#P" n="74" break="no"/>iendo essentiam concipimus aliquod singu 
+          <lb ed="#P" n="75"/>lare, communicabile tamen pluribus;
+          conci<lb ed="#P" n="76" break="no"/>piendo autem personam concipimus, &amp;
+          no<lb ed="#P" n="77" break="no"/>minamus rem aliquam subsistentem, &amp;
+          in<lb ed="#P" n="78" break="no"/>communicabilem, ideo ratio non concludit,  
+          <lb ed="#P" n="79"/>Nec confirmatio valet, quia licet nomina
+          si<lb ed="#P" n="80" break="no"/>gnificent conceptum mentis, ipse tamen con 
+          <lb ed="#P" n="81"/>ceptus est conceptus rei, &amp; ideo
+          principali<lb ed="#P" n="82" break="no"/>ter est propter rem ipsam explicandam
+          in<lb ed="#P" n="83" break="no"/>uentum. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2654">
+          <lb ed="#P" n="84"/>Ad secundam dicendum, quod non incom 
+          <lb ed="#P" n="85"/>uenit idem nomen esse primae, &amp; secundae 
+          <lb ed="#P" n="86"/>intentionis, vt superius dictum est, &amp; sic hoc 
+          <lb ed="#P" n="87"/>nomen persona aliter, &amp; aliter potest signifi 
+          <lb ed="#P" n="88"/>care idem, &amp; non idem, esse primae, &amp; secun 
+          <lb ed="#P" n="89"/>de, intentionis. 
+        </p>
+        <p xml:id="gsX5tY-d1e719-d1e2671">
+          <lb ed="#P" n="90"/>Ad tertiam similiter de Indiuidui nomine 
+          <lb ed="#P" n="91"/>patet per dicta in fine tertij articuli quomo 
+          <lb ed="#P" n="92"/>do possit dici primae, &amp; secundae intentionis 
+          <lb ed="#P" n="93"/>in omni natura, &amp; genere. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

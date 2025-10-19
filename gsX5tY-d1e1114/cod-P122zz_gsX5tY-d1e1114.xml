@@ -1,153 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="587"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e1114"> <!-- l1d44q1 -->
-            <head xml:id="gsX5tY-d1e1114-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e1114-Hd1e112" type="question-title">Utrum Deus possit facere universum melius quam fecit.</head>
-            <p xml:id="gsX5tY-d1e1114-d1e115">
-               <lb ed="#P" n="34"/>DISTINCTIONIS XLIIII 
-      <lb ed="#P" n="35"/>QVAESTIO VNICA 
-      <lb ed="#P" n="36"/>Vtrum Deus possit facere vniuersum 
-      <lb ed="#P" n="37"/>melius, quam fecit.
-    </p>
-            <p xml:id="gsX5tY-d1e1114-d1e126">
-               <lb ed="#P" n="38"/>VIdetur primo quod non quia Deus,  
-      <lb ed="#P" n="39"/>&amp; natura semper faciunt quod melius 
-      <lb ed="#P" n="40"/>est vt patet 2 Coeli ergo videtur vniuersum 
-      <lb ed="#P" n="41"/>factum fuisse in meliori dispositone, auam  
-      <lb ed="#P" n="42"/>potuit fieri. 
-    </p>
-            <p xml:id="gsX5tY-d1e1114-d1e140">
-               <lb ed="#P" n="43"/>AD OPPOSITVM arguo, quia
-      credi<lb ed="#P" n="44" break="no"/>mus, quod Deus possit producere aliqua
-      en<lb ed="#P" n="45" break="no"/>tia in vniuerso nobiliora entibus, quae
-      pro<lb ed="#P" n="46" break="no"/>duxit, &amp; per consequens si haec faceret,
-      re<lb ed="#P" n="47" break="no"/>sultaret ex eis melius vniuersum 
-    </p>
-            <p xml:id="gsX5tY-d1e1114-d1e153">
-               <lb ed="#P" n="48"/>RESPONDEO ad istam quaestionem 
-      <lb ed="#P" n="49"/>breuiter, quod duobus modis potest
-      intelli<lb ed="#P" n="50" break="no"/>gi ista quaestio; Vno modo vt quaeratur de 
-      <!--612.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 587 b -->
-               <lb ed="#P" n="51"/>vniuerso quantum ad suas partes; Alio
-      mo<lb ed="#P" n="52" break="no"/>do vt quaeratur de vniuerso quantum ad 
-      <lb ed="#P" n="53"/>suum ordinem: si fiat quaestio de vniuerso 
-      <lb ed="#P" n="54"/>quantum ac suas partes, sic dico tribus
-      mo<lb ed="#P" n="55" break="no"/>dis posse intelligi hanc meliorem
-      disposito<lb ed="#P" n="56" break="no"/>nem, quorum duo sunt concedendi, tertius 
-      <lb ed="#P" n="57"/>vero omnino est negandus. Primo modo
-      po<lb ed="#P" n="58" break="no"/>test intelligi, quod vniuersum melioretur in 
-      <lb ed="#P" n="59"/>partibus suis, quia superaddantur ei aliquae 
-      <lb ed="#P" n="60"/>partes istis nobiliores, &amp; sic potest concedi 
-      <lb ed="#P" n="61"/>vniuersum posse meliorari, nam possent crea 
-      <lb ed="#P" n="62"/>ri in vnit erso aliquae species nobiliores istis 
-      <lb ed="#P" n="63"/>creatis; Alio modo potest intelligi, quod vni 
-      <lb ed="#P" n="64"/>uersum melioretur in partibus suis quantum 
-      <lb ed="#P" n="65"/>ad illas partes, quas modo habet in suis
-      per<lb ed="#P" n="66" break="no"/>fectionibus accidentalibus, &amp; isto modo
-      e<lb ed="#P" n="67" break="no"/>tiam concedi potest vniuersum posse
-      melio<lb ed="#P" n="68" break="no"/>rari, nam videmus continue, quod aliquae 
-      <lb ed="#P" n="69"/>partes vniuersi proficiunt in suis
-      perfectio<lb ed="#P" n="70" break="no"/>nibus accidentalibus, aliquae vero deficiunt, 
-      <lb ed="#P" n="71"/>isto enim modo meliorabitur vniuersum post 
-      <lb ed="#P" n="72"/>diem iudicij quando cessabit corruptio
-      ab<lb ed="#P" n="73" break="no"/>sentibus; Tertio vero modo potest intelligi, 
-      <lb ed="#P" n="74"/>quor vniuersum melioretur in partibus suis,  
-      <lb ed="#P" n="75"/>quas modo habet quantum ad suos gradus 
-      <lb ed="#P" n="76"/>essentiales specificos, &amp; i sto modo non est 
-      <lb ed="#P" n="77"/>possibile vniuersum meliorari, quia gradus 
-      <lb ed="#P" n="78"/>essentiales specifici non possunt variari
-      ma<lb ed="#P" n="79" break="no"/>nentibus entibus eorum: &amp; ideo ostensum 
-      <lb ed="#P" n="80"/>est superius in 17. distinct quod etiam
-      for<lb ed="#P" n="81" break="no"/>ma accidentalis non potest augeri in suo
-      es<lb ed="#P" n="82" break="no"/>se. Quapropter patet quid sit dicendum huic 
-      <lb ed="#P" n="83"/>quaestioni quantum ad primum intellectum, 
-      <lb ed="#P" n="84"/>Si autem intelligatur de vniuer so quo ad 
-      <lb ed="#P" n="85"/>suum ordinem: sic est etiam distinguendum, 
-      <lb ed="#P" n="86"/>nam duobus modis potest intelligi
-      vniuer<lb ed="#P" n="87" break="no"/>sum in suo ordine meliorari, vno modo vt 
-      <lb ed="#P" n="88"/>melioretur in illo ordine quam partes
-      vni<lb ed="#P" n="89" break="no"/>uersi habent inter se, &amp; isto modo concedunt 
-      <lb ed="#P" n="90"/>aliqui vniuersum posse meliorari, quia
-      pos<lb ed="#P" n="91" break="no"/>sunt meliori res fundantes istum ordinem, 
-      <lb ed="#P" n="92"/>saltem accidentaliter. Istud tamen dictum 
-      <lb ed="#P" n="93"/>non approbo, quia quantumcunque res
-      me<lb ed="#P" n="94" break="no"/>liorentur, proportio tamen quae est inter eas 
-      <lb ed="#P" n="95"/>non mutatur, &amp; per consequens melius
-      vi<lb ed="#P" n="96" break="no"/>detur dicendum vniuersum non meliorari 
-      <lb ed="#P" n="97"/>isto medo, alio vero modo potest intelligi, 
-      <lb ed="#P" n="98"/>quod vniuersum melioretur in suo ordine, 
-      <lb ed="#P" n="99"/>quem habet ad finem, &amp; isto modo non
-      ha<lb ed="#P" n="100" break="no"/>bet aliquod dubium, quod meliorari non  
-      <lb ed="#P" n="101"/>possit, quia cum ordinetur in ipsam Deum, 
-      <lb ed="#P" n="102"/>impossibile est ipsum ordinari in finem
-      me<lb ed="#P" n="103" break="no"/>liorem. Patet igitur quid sit dicendum ad 
-      <lb ed="#P" n="104"/>hanc quaestionem. 
-    </p>
-            <p xml:id="gsX5tY-d1e1114-d1e285">
-               <lb ed="#P" n="105"/>AD Rationem autem principalem dico; quod 
-      <lb ed="#P" n="106"/>Deus semper facit quod melius est in natura 
-      <lb ed="#P" n="107"/>iam instituta, posset tamen naturam nobilio¬ 
-      <!--613.xml-->
-      <pb ed="#P" n="588"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>rem instituere creando nobiliora entia, vt su 
-      <lb ed="#P" n="2"/>perius fuit dictum. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="587"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e1114"> <!-- l1d44q1 -->
+        <head xml:id="gsX5tY-d1e1114-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e1114-Hd1e112" type="question-title">Utrum Deus possit facere universum melius quam fecit.</head>
+        <p xml:id="gsX5tY-d1e1114-d1e115">
+          <lb ed="#P" n="34"/>DISTINCTIONIS XLIIII 
+          <lb ed="#P" n="35"/>QVAESTIO VNICA 
+          <lb ed="#P" n="36"/>Vtrum Deus possit facere vniuersum 
+          <lb ed="#P" n="37"/>melius, quam fecit.
+        </p>
+        <p xml:id="gsX5tY-d1e1114-d1e126">
+          <lb ed="#P" n="38"/>VIdetur primo quod non quia Deus,  
+          <lb ed="#P" n="39"/>&amp; natura semper faciunt quod melius 
+          <lb ed="#P" n="40"/>est vt patet 2 Coeli ergo videtur vniuersum 
+          <lb ed="#P" n="41"/>factum fuisse in meliori dispositone, auam  
+          <lb ed="#P" n="42"/>potuit fieri. 
+        </p>
+        <p xml:id="gsX5tY-d1e1114-d1e140">
+          <lb ed="#P" n="43"/>AD OPPOSITVM arguo, quia
+          credi<lb ed="#P" n="44" break="no"/>mus, quod Deus possit producere aliqua
+          en<lb ed="#P" n="45" break="no"/>tia in vniuerso nobiliora entibus, quae
+          pro<lb ed="#P" n="46" break="no"/>duxit, &amp; per consequens si haec faceret,
+          re<lb ed="#P" n="47" break="no"/>sultaret ex eis melius vniuersum 
+        </p>
+        <p xml:id="gsX5tY-d1e1114-d1e153">
+          <lb ed="#P" n="48"/>RESPONDEO ad istam quaestionem 
+          <lb ed="#P" n="49"/>breuiter, quod duobus modis potest
+          intelli<lb ed="#P" n="50" break="no"/>gi ista quaestio; Vno modo vt quaeratur de 
+          <!--612.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 587 b -->
+          <lb ed="#P" n="51"/>vniuerso quantum ad suas partes; Alio
+          mo<lb ed="#P" n="52" break="no"/>do vt quaeratur de vniuerso quantum ad 
+          <lb ed="#P" n="53"/>suum ordinem: si fiat quaestio de vniuerso 
+          <lb ed="#P" n="54"/>quantum ac suas partes, sic dico tribus
+          mo<lb ed="#P" n="55" break="no"/>dis posse intelligi hanc meliorem
+          disposito<lb ed="#P" n="56" break="no"/>nem, quorum duo sunt concedendi, tertius 
+          <lb ed="#P" n="57"/>vero omnino est negandus. Primo modo
+          po<lb ed="#P" n="58" break="no"/>test intelligi, quod vniuersum melioretur in 
+          <lb ed="#P" n="59"/>partibus suis, quia superaddantur ei aliquae 
+          <lb ed="#P" n="60"/>partes istis nobiliores, &amp; sic potest concedi 
+          <lb ed="#P" n="61"/>vniuersum posse meliorari, nam possent crea 
+          <lb ed="#P" n="62"/>ri in vnit erso aliquae species nobiliores istis 
+          <lb ed="#P" n="63"/>creatis; Alio modo potest intelligi, quod vni 
+          <lb ed="#P" n="64"/>uersum melioretur in partibus suis quantum 
+          <lb ed="#P" n="65"/>ad illas partes, quas modo habet in suis
+          per<lb ed="#P" n="66" break="no"/>fectionibus accidentalibus, &amp; isto modo
+          e<lb ed="#P" n="67" break="no"/>tiam concedi potest vniuersum posse
+          melio<lb ed="#P" n="68" break="no"/>rari, nam videmus continue, quod aliquae 
+          <lb ed="#P" n="69"/>partes vniuersi proficiunt in suis
+          perfectio<lb ed="#P" n="70" break="no"/>nibus accidentalibus, aliquae vero deficiunt, 
+          <lb ed="#P" n="71"/>isto enim modo meliorabitur vniuersum post 
+          <lb ed="#P" n="72"/>diem iudicij quando cessabit corruptio
+          ab<lb ed="#P" n="73" break="no"/>sentibus; Tertio vero modo potest intelligi, 
+          <lb ed="#P" n="74"/>quor vniuersum melioretur in partibus suis,  
+          <lb ed="#P" n="75"/>quas modo habet quantum ad suos gradus 
+          <lb ed="#P" n="76"/>essentiales specificos, &amp; i sto modo non est 
+          <lb ed="#P" n="77"/>possibile vniuersum meliorari, quia gradus 
+          <lb ed="#P" n="78"/>essentiales specifici non possunt variari
+          ma<lb ed="#P" n="79" break="no"/>nentibus entibus eorum: &amp; ideo ostensum 
+          <lb ed="#P" n="80"/>est superius in 17. distinct quod etiam
+          for<lb ed="#P" n="81" break="no"/>ma accidentalis non potest augeri in suo
+          es<lb ed="#P" n="82" break="no"/>se. Quapropter patet quid sit dicendum huic 
+          <lb ed="#P" n="83"/>quaestioni quantum ad primum intellectum, 
+          <lb ed="#P" n="84"/>Si autem intelligatur de vniuer so quo ad 
+          <lb ed="#P" n="85"/>suum ordinem: sic est etiam distinguendum, 
+          <lb ed="#P" n="86"/>nam duobus modis potest intelligi
+          vniuer<lb ed="#P" n="87" break="no"/>sum in suo ordine meliorari, vno modo vt 
+          <lb ed="#P" n="88"/>melioretur in illo ordine quam partes
+          vni<lb ed="#P" n="89" break="no"/>uersi habent inter se, &amp; isto modo concedunt 
+          <lb ed="#P" n="90"/>aliqui vniuersum posse meliorari, quia
+          pos<lb ed="#P" n="91" break="no"/>sunt meliori res fundantes istum ordinem, 
+          <lb ed="#P" n="92"/>saltem accidentaliter. Istud tamen dictum 
+          <lb ed="#P" n="93"/>non approbo, quia quantumcunque res
+          me<lb ed="#P" n="94" break="no"/>liorentur, proportio tamen quae est inter eas 
+          <lb ed="#P" n="95"/>non mutatur, &amp; per consequens melius
+          vi<lb ed="#P" n="96" break="no"/>detur dicendum vniuersum non meliorari 
+          <lb ed="#P" n="97"/>isto medo, alio vero modo potest intelligi, 
+          <lb ed="#P" n="98"/>quod vniuersum melioretur in suo ordine, 
+          <lb ed="#P" n="99"/>quem habet ad finem, &amp; isto modo non
+          ha<lb ed="#P" n="100" break="no"/>bet aliquod dubium, quod meliorari non  
+          <lb ed="#P" n="101"/>possit, quia cum ordinetur in ipsam Deum, 
+          <lb ed="#P" n="102"/>impossibile est ipsum ordinari in finem
+          me<lb ed="#P" n="103" break="no"/>liorem. Patet igitur quid sit dicendum ad 
+          <lb ed="#P" n="104"/>hanc quaestionem. 
+        </p>
+        <p xml:id="gsX5tY-d1e1114-d1e285">
+          <lb ed="#P" n="105"/>AD Rationem autem principalem dico; quod 
+          <lb ed="#P" n="106"/>Deus semper facit quod melius est in natura 
+          <lb ed="#P" n="107"/>iam instituta, posset tamen naturam nobilio¬ 
+          <!--613.xml-->
+          <pb ed="#P" n="588"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rem instituere creando nobiliora entia, vt su 
+          <lb ed="#P" n="2"/>perius fuit dictum. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

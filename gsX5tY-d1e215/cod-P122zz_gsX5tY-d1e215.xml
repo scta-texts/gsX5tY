@@ -1,966 +1,966 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 3</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 3</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="148"/>
-            <cb ed="#P" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e215"> <!-- l1d2q3 -->
-            <head xml:id="gsX5tY-d1e215-Hd1e109">Quaestio 3</head>
-            <head xml:id="gsX5tY-d1e215-Hd1e112" type="question-title">Utrum cum unitate essentiae stet pluralitas personarum.</head>
-            <div xml:id="gsX5tY-d1e215-Dd1e115">
-               <head xml:id="gsX5tY-d1e215-Hd1e117">Quaestio</head>
-               <p xml:id="gsX5tY-d1e215-d1e120">
-      <!--173.xml-->
-                  <cb ed="#P" n="b"/> 
-                  <!-- 148 b -->
-                  <lb ed="#P" n="56"/>QVAESTIO TERTIA. 
-      <lb ed="#P" n="57"/>Vtrum cum vnitate essentiae stet pluralitas 
-      <lb ed="#P" n="58"/>personarum.
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e215-Dd1e137" type="rationes-principales">
-               <head xml:id="gsX5tY-d1e215-Hd1e139">Rationes principales</head>
-               <p xml:id="gsX5tY-d1e215-d1e142">
-                  <lb ed="#P" n="59"/>ARGVITVR NEGATIVR 
-      <lb ed="#P" n="60"/>1 SIcut se habet natura ad suppositum, ita 
-      <lb ed="#P" n="61"/>A suppositum ad naturam, sed natura sic 
-      <lb ed="#P" n="62"/>se habet ad suppositum, quod illa, quae per se 
-      <lb ed="#P" n="63"/>habet suppositum, sicut substantia, non
-      pluri<lb ed="#P" n="64" break="no"/>ficatur, nisi plurificato supposito; ergo &amp; sup 
-      <lb ed="#P" n="65"/>positum non poterit plurificari, nisi
-      plurifi<lb ed="#P" n="66" break="no"/>cata natura Maior videtur nota, quia natura 
-      <lb ed="#P" n="67"/>&amp; suppositum licet sint idem, praecipue in 
-      <lb ed="#P" n="68"/>Deo tamen, vel se mutuo consequuntur, quia 
-      <lb ed="#P" n="69"/>vnum non inuenitur sine altero, vel saltem vnum 
-      <lb ed="#P" n="70"/>non potest esse sine altero. Minor etiam
-      ap<lb ed="#P" n="71" break="no"/>paret, nam quamuis in vno supposito
-      crea<lb ed="#P" n="72" break="no"/>to sint multae naturae, vna tamen sola est,  
-      <lb ed="#P" n="73"/>cuius est illud suppositum, puta ipsa
-      sub<lb ed="#P" n="74" break="no"/>stantia 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e179">
-                  <lb ed="#P" n="75"/>2 Si pluralitas personarum staret cum 
-      <lb ed="#P" n="76"/>vnitate essentiae sequeretur, quod vna res
-      es<lb ed="#P" n="77" break="no"/>set plures, quod est falsum, quia implicatur 
-      <lb ed="#P" n="78"/>contradictio: Consequentiam probo,
-      suppo<lb ed="#P" n="79" break="no"/>no enim, quod plures personae in Deo sint 
-      <lb ed="#P" n="80"/>plures res, sic enim loquuntur sancti: Vnde 
-      <lb ed="#P" n="81"/>
-                  <ref xml:id="gsX5tY-d1e215-Rd1e196">P. Aug. in principio lib de Doctrina 
-      Christia<lb ed="#P" n="82" break="no"/>na</ref> ait, <quote xml:id="gsX5tY-d1e215-Qd1e201" source="http://scta.info/resource/addc-l1-d1e155" synch="3-13">res, quibus fruendum est, sunt Pater. 
-      <lb ed="#P" n="83"/>Filius, &amp; Spiritus Sanctus</quote>, suppono etiam, 
-      <lb ed="#P" n="84"/>quod in Deo persona sit idem quod
-      essen<lb ed="#P" n="85" break="no"/>tia, alioquin esset ibi composito, quibus
-      sup<lb ed="#P" n="86" break="no"/>positis patet consequentia, nam si essentia est 
-      <lb ed="#P" n="87"/>idem quod quaelibet persona, &amp; plures perso 
-      <lb ed="#P" n="88"/>nae sunt plures res, sequitur, quod vna res sit 
-      <lb ed="#P" n="89"/>plures res.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e220">
-                  <lb ed="#P" n="90"/>AD OPPOSITVM ARGVITVR 
-      <lb ed="#P" n="91"/>Er Fidem Catholicam debemus saluare 
-      <lb ed="#P" n="92"/>Trinitatem personarum, ita vt non
-      de<lb ed="#P" n="93" break="no"/>rogemus vnitati essentiae, quia vtrumque
-      ca<lb ed="#P" n="94" break="no"/>dit sub articulo Fidei, ergo &amp;c. 
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e215-Dd1e235">
-               <head xml:id="gsX5tY-d1e215-Hd1e237">Divisio quaestionis</head>
-               <p xml:id="gsX5tY-d1e215-d1e240">
-                  <lb ed="#P" n="95"/>RESPONDEO in hac quaestione 
-      <lb ed="#P" n="96"/>tres articuli sunt videndi, prout insinuant ar 
-      <lb ed="#P" n="97"/>gumenta adducta. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e249">
-                  <lb ed="#P" n="98"/>An natura creata possit plurificari sine 
-      <lb ed="#P" n="99"/>suppositis 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e256">
-                  <lb ed="#P" n="100"/>2 An supposita diuina differant realiter.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e261">
-                  <lb ed="#P" n="101"/>3 An pluralitas personarum repugnet
-      v<lb ed="#P" n="102" break="no"/>nitati essentiae.
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e215-Dd1e269" type="articulus">
-               <head xml:id="gsX5tY-d1e215-Hd1e271">Articulus 1</head>
-               <head xml:id="gsX5tY-d1e215-Hd1e274" type="question-title">Utrum suppositum et natura in rebus 
-      creatis ita sint adaequata, quod unum non 
-      possit plurificari sine altero.</head>
-               <p xml:id="gsX5tY-d1e215-d1e277">
-      <!--174.xml-->
-                  <pb ed="#P" n="149"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="2"/>Vtrum suppositum, &amp; natura in rebus
-      crea<lb ed="#P" n="3" break="no"/>tis ita sint adaequata, quod vnum non 
-      <lb ed="#P" n="4"/>possit plurificari sine altero.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e295">
-                  <lb ed="#P" n="5"/>AD hoc est intelligendum, quod
-      ra<lb ed="#P" n="6" break="no"/>tio supposit non inuenitur proprie, 
-      <lb ed="#P" n="7"/>nisi in genere substantiae, quod ideo est, quia 
-      <lb ed="#P" n="8"/>de ratione suppositi est per se subsistere; quae 
-      <lb ed="#P" n="9"/>conditio non conuenit nisi substantiae: si ergo 
-      <lb ed="#P" n="10"/>comparetur suppositum ad naturam de
-      ge<lb ed="#P" n="11" break="no"/>nere substantiae, cuius proprium est habere 
-      <lb ed="#P" n="12"/>supposita, &amp; quaeratur vtrum natura de
-      ge<lb ed="#P" n="13" break="no"/>nere substantiae, &amp; suum proprium
-      supposi<lb ed="#P" n="14" break="no"/>tum, in quo est, sint omnino adaequata: Dico 
-      <lb ed="#P" n="15"/>quod sic, itaut non possit plurificari natura 
-      <lb ed="#P" n="16"/>non plurificato supposito, &amp; e conuerso, nec 
-      <lb ed="#P" n="17"/>suppositum absque natura, has duas
-      conclu<lb ed="#P" n="18" break="no"/>clusiones probo per ordinem.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e328">
-                  <lb ed="#P" n="19"/>Primam sic, si natura plurificaretur
-      mane<lb ed="#P" n="20" break="no"/>te eodem supposito sequeretur vnum, &amp; idem 
-      <lb ed="#P" n="21"/>suppositum esse in diuersis speciebus,
-      conse<lb ed="#P" n="22" break="no"/>iuens est falsum, ergo &amp; antecedens:
-      Falsi<lb ed="#P" n="23" break="no"/>as patet, nam dicere quod vna res alicuius 
-      <lb ed="#P" n="24"/>praedicamenti absoluti sit in diuersis
-      specie<lb ed="#P" n="25" break="no"/>bus illius praedicamenti, est dicere quod vna 
-      <lb ed="#P" n="26"/>res absoluta sit plures, quod nullus diceret: 
-      <lb ed="#P" n="27"/>probo Consequetiam, ad cuius probationem 
-      <lb ed="#P" n="28"/>duo suppono, primum est, quod natura, &amp;  
-      <lb ed="#P" n="29"/>suppositum sunt vna res absoluta eiusdem  
-      <lb ed="#P" n="30"/>speclei (quod omnes concederent) licet
-      ha<lb ed="#P" n="31" break="no"/>beant aliam distinctionem, de qua non curo 
-      <lb ed="#P" n="32"/>ad praesens, quia habebit locum in tertio lib  
-      <lb ed="#P" n="33"/>Secundo suppono, quod natura non plurifi 
-      <lb ed="#P" n="34"/>cetur per se nisi in diuersitate speciei, hoc enm 
-      <lb ed="#P" n="35"/>est naturam per se plurificari, ipsam scilicet 
-      <lb ed="#P" n="36"/>diuersificari per differentias essentiales
-      in<lb ed="#P" n="37" break="no"/>trinsecas, quod non habet locum nisi in
-      di<lb ed="#P" n="38" break="no"/>uersis speciebus, quia licet plurificetur in
-      ea<lb ed="#P" n="39" break="no"/>dem specie, hoc non est per aliquod essentia 
-      <lb ed="#P" n="40"/>le intrinsecum, sed magis per aliquod accidem 
-      <lb ed="#P" n="41"/>tale extrinsecum, quicquid sit illud: istis sup 
-      <lb ed="#P" n="42"/>posits consequentia patet, nam si natura por 
-      <lb ed="#P" n="43"/>se plurificata est diuersarum specierum, vt di 
-      <lb ed="#P" n="44"/>cit, ista secunda suppo tio, &amp; suppositum est 
-      <lb ed="#P" n="45"/>eiusdem speciei cum natura, vt dicit supposi 
-      <lb ed="#P" n="46"/>tio prima, sequitur, quod illud suppositum 
-      <lb ed="#P" n="47"/>quod ponebatur manere idem, sit
-      diuersa<lb ed="#P" n="48" break="no"/>rum specierum.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e397">
-                  <lb ed="#P" n="49"/>Si autem dicatur, quod natura
-      plurifice<lb ed="#P" n="50" break="no"/>tur saltem per accidens in eadem specie
-      ma<lb ed="#P" n="51" break="no"/>nente eodem supposito, probo etiam quod 
-      <!--174.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 149 b -->
-                  <lb ed="#P" n="52"/>istud sit impossibile; quia sequeretur quod 
-      <lb ed="#P" n="53"/>plures naturae essent vna natura, quod est 
-      <lb ed="#P" n="54"/>falsum, quia implicatur contradictio,
-      Conse<lb ed="#P" n="55" break="no"/>quentiam probo, siquidem plures natura: 
-      <lb ed="#P" n="56"/>eiusdem speciei esse in eodem supposito, vel 
-      <lb ed="#P" n="57"/>est falsum, vel sunt omnino vna, &amp; eadem; 
-      <lb ed="#P" n="58"/>quia si essent distinctae, hoc vel esset per
-      ali<lb ed="#P" n="59" break="no"/>quod essentiale intrinsecum, vel per aliquod 
-      <lb ed="#P" n="60"/>accidentale extrinsecam, non per intrinsecum, 
-      <lb ed="#P" n="61"/>quia tunc essent distinctae, secundum specie. 
-      <lb ed="#P" n="62"/>cuius contrarium supponitur, non per extrin 
-      <lb ed="#P" n="63"/>secum accidentale, quia omne tale consequi 
-      <lb ed="#P" n="64"/>tur naturam, ratione suppositi, &amp; non
-      ra<lb ed="#P" n="65" break="no"/>tione sui, cum abstrahat secundum se ab om- 
-      <lb ed="#P" n="66"/>ni tali: vbi ergo est idem suppositum, etiam 
-      <lb ed="#P" n="67"/>hoc principiu distictum est idem, &amp; prconsequens 
-      <lb ed="#P" n="68"/>non possunt per ipsum distingui: remanebunt 
-      <lb ed="#P" n="69"/>ergo indistincta, &amp; sic erunt vna natura Ex 
-      <lb ed="#P" n="70"/>tendit autem se ista ratio etiam ad naturam  
-      <lb ed="#P" n="71"/>de genere accidentis, de quibus etiam verum 
-      <lb ed="#P" n="72"/>est, quod plures naturae eiusdem speciel non 
-      <lb ed="#P" n="73"/>possunt esse in eodem subiecto, &amp; sic patet 
-      <lb ed="#P" n="74"/>prima conclusio quoe na non potest plurificari, 
-      <lb ed="#P" n="75"/>non plurificato supposito, accipiendo eo mo 
-      <lb ed="#P" n="76"/>do, quo dictum est. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e467">
-                  <lb ed="#P" n="77"/>Probo secundam conclusionem, quod sup 
-      <lb ed="#P" n="78"/>posita non possunt plurificari manente
-      ea<lb ed="#P" n="79" break="no"/>dem natura: Quia tunc sequeretur, quod 
-      <lb ed="#P" n="80"/>natura talium suppositorum esset necesse es 
-      <lb ed="#P" n="81"/>se; consequens est falsum; ergo &amp;
-      antece<lb ed="#P" n="82" break="no"/>dens: Falsitatem probo ex duobus; primo 
-      <lb ed="#P" n="83"/>quia cum: loquamur in rebus creatis,
-      opor<lb ed="#P" n="84" break="no"/>tet quod ista natura, quae ponitur manere 
-      <lb ed="#P" n="85"/>eadem, sit quid creatum, nullum autem ens 
-      <lb ed="#P" n="86"/>creatum potest dici necesse esse, vt ad
-      prae<lb ed="#P" n="87" break="no"/>sens suppono, quia in secundo libro habebit 
-      <lb ed="#P" n="88"/>locum: est ergo impossibile, quod talis natu 
-      <lb ed="#P" n="89"/>ra sit necesse esse. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e498">
-                  <lb ed="#P" n="90"/>Secundo quia natura non potest esse ma 
-      <lb ed="#P" n="91"/>ioris necessitatis, quam suppositum, sicut ap 
-      <lb ed="#P" n="92"/>paret inducendo in omnibus: nunc autem 
-      <lb ed="#P" n="93"/>upposita, quae plurificantur sub eadem
-      na<lb ed="#P" n="94" break="no"/>tura, in creaturis possunt esse &amp; non esse; du 
-      <lb ed="#P" n="95"/>in eorum plurificatione sit exitus de
-      poten<lb ed="#P" n="96" break="no"/>tia ad actum, &amp; processus de non esse ad
-      es<lb ed="#P" n="97" break="no"/>se; erit ergo secudum hoc aliqua natura
-      ma<lb ed="#P" n="98" break="no"/>ioris necessitatis, quam suum suppositum, quod 
-      <lb ed="#P" n="99"/>est absurdum, tunc enim posset natura rema 
-      <lb ed="#P" n="100"/>nere destructis suis suppositis,
-      Consequen<lb ed="#P" n="101" break="no"/>tiam probo, nam si ad plurificationem suppo 
-      <lb ed="#P" n="102"/>sitorum non plurificatur natura, pari ratio.  
-      <lb ed="#P" n="103"/>ne nec ad eorum productionem producitur 
-      <lb ed="#P" n="104"/>ipsa, quia vnum sequitur ad alterum, &amp; quia 
-      <lb ed="#P" n="105"/>natura nullo modo potest produci, vel acqui 
-      <lb ed="#P" n="106"/>rere esse extra sua supposita, si sit aliqua na 
-      <lb ed="#P" n="107"/>tura, quae cum suppositis non producatur. 
-      <lb ed="#P" n="108"/>nec in eis acquirat esse; illa, inquam, nullo 
-      <!--175.xml-->
-      <pb ed="#P" n="150"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>modo produceretur, vel nullo modo
-      acqui<lb ed="#P" n="2" break="no"/>reret esse in suppositis; &amp; per consequens 
-      <lb ed="#P" n="3"/>esset necesse esse: vel saltem cogeremur
-      di<lb ed="#P" n="4" break="no"/>cere quod nullo modo haberet esse, quod est 
-      <lb ed="#P" n="5"/>absurdum, quia tunc simul esset, &amp; non
-      es<lb ed="#P" n="6" break="no"/>set: nam inquantum sua supposita essent, &amp; 
-      <lb ed="#P" n="7"/>non possent esse sine ea, natura esset,; inquam 
-      <lb ed="#P" n="8"/>tum vero non acquireret esse in ipsis, non es 
-      <lb ed="#P" n="9"/>set; idcirco qui arbitraretur possibile, in crea 
-      <lb ed="#P" n="10"/>turis supposita plurificari, manente eadem  
-      <lb ed="#P" n="11"/>natura, quemadmodum est in Deo,
-      incide<lb ed="#P" n="12" break="no"/>ret in errorem Platonis ponentis quidditaten 
-      <lb ed="#P" n="13"/>separatam a suis suppositis secundum esse, vt 
-      <lb ed="#P" n="14"/>patet 7. Metaph nam dicens, quod plura sup 
-      <lb ed="#P" n="15"/>posita possint fieri sub eadem natura,
-      cogi<lb ed="#P" n="16" break="no"/>tur dicere quod illa natura non producatur 
-      <lb ed="#P" n="17"/>cum suppositis, nec acquirat esse in eis, &amp;  
-      <lb ed="#P" n="18"/>per consequens erit separata ab eis secundum 
-      <lb ed="#P" n="19"/>esse, quod erat error Platonis, Vt patet per 
-      <lb ed="#P" n="20"/>Arist. &amp; Com. 7. Metaph com 20 vbi con 
-      <lb ed="#P" n="21"/>cludit, quod cum quidditates non habeant 
-      <lb ed="#P" n="22"/>proprium esse distinctum a suis suppositis, si 
-      <lb ed="#P" n="23"/>ponantur ab eis separatae secundum esse, non 
-      <lb ed="#P" n="24"/>habebunt aliquod esse; &amp; sic erunt, &amp; non 
-      <lb ed="#P" n="25"/>erunt, nam quia ponuntur entia, erunt, &amp; 
-      <lb ed="#P" n="26"/>quia ponuntur non esse in suppositis, non 
-      <lb ed="#P" n="27"/>erunt, &amp; ita potest dici in proposito de natu 
-      <lb ed="#P" n="28"/>ra, quae non plurificaretur plurificatis
-      sup<lb ed="#P" n="29" break="no"/>positis, patet igitur secunda conclusio, &amp; quid 
-      <lb ed="#P" n="30"/>quaerebantur, scilicet, in creaturis
-      supposi<lb ed="#P" n="31" break="no"/>tum, &amp; naturam sic esse adaequata, vt non 
-      <lb ed="#P" n="32"/>possit plurificari vnum non plurificato
-      alte<lb ed="#P" n="33" break="no"/>ro, quod non est dicendum in diuinis, vt
-      pa<lb ed="#P" n="34" break="no"/>tebit in sequenti articulo. 
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e215-Dd1e623" type="articulus">
-               <head xml:id="gsX5tY-d1e215-Hd1e625">Articulus 2</head>
-               <head xml:id="gsX5tY-d1e215-Hd1e628" type="question-title">
-        An divina supposita distinguantur realiter 
-        inter se, ita ut sint plures res
-      </head>
-               <p xml:id="gsX5tY-d1e215-d1e631">
-                  <lb ed="#P" n="35"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="36"/>An Diuina supposita distinguantur realiter 
-      <lb ed="#P" n="37"/>inter se, ita vt sint plures res
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e640">
-                  <lb ed="#P" n="38"/>CIrca hoc errarunt Sabelliani dicentes,  
-      <lb ed="#P" n="39"/>, quod diuinae personae non erant reali 
-      <lb ed="#P" n="40"/>ter distinctae, vt tamen saluarent
-      auctorita<lb ed="#P" n="41" break="no"/>tes Sacrae Scripturae, quae euidenter
-      expri<lb ed="#P" n="42" break="no"/>munt in diuinis esse Patrem, Filium, &amp; Spi 
-      <lb ed="#P" n="43"/>ritum Sanctum, dicebant, quod vna, &amp;
-      ea<lb ed="#P" n="44" break="no"/>dem persona, quandoque vno, quandoque alte 
-      <lb ed="#P" n="45"/>ro nomine appellabatur, ad quod dicendum 
-      <lb ed="#P" n="46"/>mouebantur, quia non videbant, quomodo 
-      <lb ed="#P" n="47"/>realis distinctio personarum posset stare cum 
-      <lb ed="#P" n="48"/>vnitate essentiae, sed hoc non obstat, vt
-      pa<lb ed="#P" n="49" break="no"/>tebit in sequenti articulo. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e669">
-                  <lb ed="#P" n="50"/>Dicendum est ergo cum Fide Catholica, 
-      <!--175.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 150 b -->
-                  <lb ed="#P" n="51"/>quod Diuinae personae realiter sunt
-      distin<lb ed="#P" n="52" break="no"/>ctae: quam conclusionem nequimus
-      proba<lb ed="#P" n="53" break="no"/>re ratione naturali, quia simpliciter est nobis 
-      <lb ed="#P" n="54"/>tradita per Fidem: sed quibusdam alijs (etiam 
-      <lb ed="#P" n="55"/>de Fide) suppositis, puta quod in diuinis sit 
-      <lb ed="#P" n="56"/>vera generatio, &amp; vera processio, possumus 
-      <lb ed="#P" n="57"/>statim praefatam conclusionem probare, nam 
-      <lb ed="#P" n="58"/>impossibile est, quod vna, &amp; eadem persona 
-      <lb ed="#P" n="59"/>sit vere gignens, &amp; vere genita, &amp; vere
-      pro<lb ed="#P" n="60" break="no"/>cedens, &amp; vere producta; At in diuinis est 
-      <lb ed="#P" n="61"/>vna persona vere gignens, &amp; altera vere ge 
-      <lb ed="#P" n="62"/>nita, vna producens, &amp; altera producta; ergo 
-      <lb ed="#P" n="63"/>Diuinae personae distinguuntur inter se
-      reali<lb ed="#P" n="64" break="no"/>ter. Verum quia hoc totum a Sacra Scriptu 
-      <lb ed="#P" n="65"/>ra est acceptum, &amp; auctoritate Ecclesiae com 
-      <lb ed="#P" n="66"/>probatum; idcirco sufficiant pro hac conclu 
-      <lb ed="#P" n="67"/>sione auctoritates, quas Magister inducit in 
-      <lb ed="#P" n="68"/>litera; &amp; plures aliae, quas dimitto breuitatis 
-      <lb ed="#P" n="69"/>causa: Concludo ergo cum D. Athanasio, qui 
-      <lb ed="#P" n="70"/>fidem vniuersalis Ecclesiae profitetur in svm 
-      <lb ed="#P" n="71"/>bolo, quod alia est persona batris, alia
-      Filij<lb ed="#P" n="72" break="no"/>alia Spiritus Sancti; vbi autem est alietas, 
-      <lb ed="#P" n="73"/>ibi est vera pluralitas realis: sunt ergo Dini 
-      <lb ed="#P" n="74"/>nae personae realiter distinctae, &amp; per
-      conse<lb ed="#P" n="75" break="no"/>quens plures res, quia nomen rei verissime 
-      <lb ed="#P" n="76"/>dicitur de supposito. 
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e215-Dd1e738" type="articulus">
-               <head xml:id="gsX5tY-d1e215-Hd1e740">Articulus 3</head>
-               <head xml:id="gsX5tY-d1e215-Hd1e743" type="question-title">
-        Utrum realis pluralits personarum repugnet unitati essentiae.
-      </head>
-      
-               <p xml:id="gsX5tY-d1e215-d1e746">
-                  <lb ed="#P" n="77"/>ARTICVLVS TERTIVS 
-      <lb ed="#P" n="78"/>Vtrum realis pluralitas personarum
-      repu<lb ed="#P" n="79" break="no"/>gnet vnitati essentiae.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e755">
-                  <lb ed="#P" n="80"/>Irca hunc articulum errarunt
-      Arria<lb ed="#P" n="81" break="no"/>ni, qui, vt saluarent distinctionem por 
-      <lb ed="#P" n="82"/>sonarum, negabant vnitatem essentiae, sicut 
-      <lb ed="#P" n="83"/>Sabelliani, vt saluarent vnitatem essentiae ne 
-      <lb ed="#P" n="84"/>gabant distinctionem personarum. Frrauit 
-      <lb ed="#P" n="85"/>insuper circa hoc Abbas loachim, qui etiam 
-      <lb ed="#P" n="86"/>negabat vnitatem essentiae, licet aliter quam 
-      <lb ed="#P" n="87"/>Arriani, cuius opinio specialiter est
-      damna<lb ed="#P" n="88" break="no"/>ta ab Ecclesia in illa decretali, quae incipit, 
-      <lb ed="#P" n="89"/>damnamus, &amp;c. Horum errores non
-      prose<lb ed="#P" n="90" break="no"/>quor in speciali, quia nimis longum esset, sed  
-      <lb ed="#P" n="91"/>cum Fide Catholica intendo ostendere, quod 
-      <lb ed="#P" n="92"/>non repugnent ad inuicem vnitas essentiae. 
-      <lb ed="#P" n="93"/>&amp; pluralitas personarum, tota ergo
-      difficul<lb ed="#P" n="94" break="no"/>tas huius articuli, &amp; totius quaestionis est 
-      <lb ed="#P" n="95"/>videre quomodo ista duo possint stare simul 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e792">
-                  <lb ed="#P" n="96"/>Ad quod respondent quidam in hac
-      se<lb ed="#P" n="97" break="no"/>cunda distinctione, vbi credunt se inducero 
-      <lb ed="#P" n="98"/>rationes necessarias ad probandum, quod in 
-      <lb ed="#P" n="99"/>Diuina essentia sit vera productio ad intra 
-      <lb ed="#P" n="100"/>&amp; quia ad veram productionem sequitur
-      rea<lb ed="#P" n="101" break="no"/>lis distinctio, si vnitas essentiae stat cum ve¬ 
-      <!--176.xml-->
-      <pb ed="#P" n="151"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>ra productione ad intra, stabit etiam
-      neces<lb ed="#P" n="2" break="no"/>sario cum reali personarum distinctione: quod 
-      <lb ed="#P" n="3"/>gitur cum vnitate essentiae stet necessario 
-      <lb ed="#P" n="4"/>vera productio probant tribus rationibus 
-      <lb ed="#P" n="5"/>1 Illud, quod de sua ratione formali est 
-      <lb ed="#P" n="6"/>principium productiuum alicuius, in
-      quo<lb ed="#P" n="7" break="no"/>cunque ponatur absque imperfectione, erit prin 
-      <lb ed="#P" n="8"/>cipium productiuum illius, sed intellectus 
-      <lb ed="#P" n="9"/>habens obiectum intelligibile sibi praesens 
-      <lb ed="#P" n="10"/>ex sua ratione formali est principium produm 
-      <lb ed="#P" n="11"/>ctiuum naturae genitae, quae est verbum; ergo 
-      <lb ed="#P" n="12"/>in quocunque ponatur sine imperfectione 
-      <lb ed="#P" n="13"/>necessario producet verbum: cum ergo in 
-      <lb ed="#P" n="14"/>Deo sit intellectus habens obiectum
-      intelli<lb ed="#P" n="15" break="no"/>gibile sibi praesens, sine omni imperfectione, 
-      <lb ed="#P" n="16"/>sequitur quod ibi necessario sit productio 
-      <lb ed="#P" n="17"/>verbi; Minor est nota; Maior probatur, nam  
-      <lb ed="#P" n="18"/>quod in aliquo supposito sit principium pro 
-      <lb ed="#P" n="19"/>ductiuum, &amp; ad ipsum non sequatur
-      produ<lb ed="#P" n="20" break="no"/>ctio, hoc non potest esse nisi altero duorum 
-      <lb ed="#P" n="21"/>modorum, vel propter imperfectionem, quia 
-      <lb ed="#P" n="22"/>est ibi diminute, quod non habet locum in 
-      <lb ed="#P" n="23"/>Deo, vel propter totalem acceptionem, sicut  
-      <lb ed="#P" n="24"/>ponunt exemplum de potentia generandi in 
-      <lb ed="#P" n="25"/>Filio, qui non generat, licet habeat potentiam, 
-      <lb ed="#P" n="26"/>quia iam est accepta, &amp; quasi exhausta por 
-      <lb ed="#P" n="27"/>generationem Filij; cuius generatio sic est 
-      <lb ed="#P" n="28"/>adaequata huic principio, quod non se exten 
-      <lb ed="#P" n="29"/>dit ad generationem alteriusFilij, sed iste mo 
-      <lb ed="#P" n="30"/>dus non potest impedire maiorem proposito 
-      <lb ed="#P" n="31"/>nem, quia talis potentia est principium gene 
-      <lb ed="#P" n="32"/>randi in patre, quamuis non in filio, alioquin  
-      <lb ed="#P" n="33"/>non esset perfecte in Deo, &amp; quia potentia 
-      <lb ed="#P" n="34"/>generandi verbum in Deo est productio, por 
-      <lb ed="#P" n="35"/>hoc magis habetur propositum scilicet, quod 
-      <lb ed="#P" n="36"/>in Deo necessario sit productio verbi, &amp; per 
-      <lb ed="#P" n="37"/>consequens generatio, &amp; personarum
-      di<lb ed="#P" n="38" break="no"/>stinctio. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e897">
-                  <lb ed="#P" n="39"/>Verum, quia aliquis posset dicere, quod  
-      <lb ed="#P" n="40"/>verbum productum non esset eiusdem
-      natu<lb ed="#P" n="41" break="no"/>rae cum persona producente, ideo hoc
-      pro<lb ed="#P" n="42" break="no"/>bant, nam (pro vt dicunt) verbum non esset 
-      <lb ed="#P" n="43"/>perfectum nisi esset productum de tota
-      scie<lb ed="#P" n="44" break="no"/>tia, quae est in memoria, &amp; illi esset
-      adaequa<lb ed="#P" n="45" break="no"/>tum, sed scientia Dei est infinita: ergo &amp; ver 
-      <lb ed="#P" n="46"/>bum productum de ea cui debet adaequari 
-      <lb ed="#P" n="47"/>erit infinitum; At nisi haberet naturam
-      diui<lb ed="#P" n="48" break="no"/>nam, non posset esse infinitum, quia omnis 
-      <lb ed="#P" n="49"/>alia natura finita est, ergo habebit naturam
-      di<lb ed="#P" n="50" break="no"/>uinam, &amp; per consequens erit eiusdem natu 
-      <lb ed="#P" n="51"/>rae cum psona producente: &amp; sic concludunt in 
-      <lb ed="#P" n="52"/>Deo necessario esse ponendam productionem 
-      <lb ed="#P" n="53"/>ad intra; &amp; per consequens distinctionem
-      per<lb ed="#P" n="54" break="no"/>sonarum cum vnitate essentiae.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e934">
-                  <lb ed="#P" n="55"/>2 Quicquid dicit perfectionem
-      simplici<lb ed="#P" n="56" break="no"/>ter, non potest a Deo remoueri; sed productio 
-      <lb ed="#P" n="57"/>ad intra dicit perfectionem simpliciter, ergo 
-      <!--176.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 151 b -->
-                  <lb ed="#P" n="58"/>est in Deo ponenda; Maior patet per D. An 
-      <lb ed="#P" n="59"/>selmum Prosol. ca 3. Minorem probant, quia 
-      <lb ed="#P" n="60"/>necessitas est conditio importans
-      perfectio<lb ed="#P" n="61" break="no"/>nem, cum per eam descedat ens in entia
-      per<lb ed="#P" n="62" break="no"/>fecta, sicut ex opposito per contingentiam
-      de<lb ed="#P" n="63" break="no"/>scedit in entia imperfecta, si ergo ponatur ne 
-      <lb ed="#P" n="64"/>cessitas, quae de se uon dicat aliquam
-      imper<lb ed="#P" n="65" break="no"/>fectionem, in eo importabit perfectionem
-      sim<lb ed="#P" n="66" break="no"/>pliciter; &amp; quia productio non dicit de se ali 
-      <lb ed="#P" n="67"/>quam imperfectionem, si ponatur in Deo
-      di<lb ed="#P" n="68" break="no"/>cet perfectionem simpliciter, oportet ergo si 
-      <lb ed="#P" n="69"/>cundum hoc ponere in eo aliquam
-      uecessa<lb ed="#P" n="70" break="no"/>riam productionem tanquam perfectionem 
-      <lb ed="#P" n="71"/>simpliciter, sed ista non potest esse productio 
-      <lb ed="#P" n="72"/>ad extra, quia est contingens, ergo erit ibi ne 
-      <lb ed="#P" n="73"/>cessario aliqua productio ad intra. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e984">
-                  <lb ed="#P" n="74"/>3 Primae productio debet competere
-      pri<lb ed="#P" n="75" break="no"/>mo producenti scilicet Deo, sed prima produm 
-      <lb ed="#P" n="76"/>ctio est naturalis, &amp; necessaria, ergo debet con 
-      <lb ed="#P" n="77"/>petere primo producenti scilicet Deo, haec 
-      <lb ed="#P" n="78"/>autem non potest esse productio ad extra, 
-      <lb ed="#P" n="79"/>quia illa supponitur esse libera, &amp; contingens,  
-      <lb ed="#P" n="80"/>ergo erit productio ad intra. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1002">
-                  <lb ed="#P" n="81"/>Iste modus dicendi mihi non placet
-      pro<lb ed="#P" n="82" break="no"/>ter duo; primo, quia illud quod est omnino 
-      <lb ed="#P" n="83"/>super nostram rationem, volunt probare
-      na<lb ed="#P" n="84" break="no"/>turaliter; constat autem quod inter omnes ve 
-      <lb ed="#P" n="85"/>ritates, quae cadunt sub Fide, veritas huius 
-      <lb ed="#P" n="86"/>conclusionis maxime est supra intellectum 
-      <lb ed="#P" n="87"/>nostrum, ideo nullo modo per rationem
-      na<lb ed="#P" n="88" break="no"/>turalem potest euidenter demonstrari. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1022">
-                  <lb ed="#P" n="89"/>Secundo, quia dato quod praefata conclu 
-      <lb ed="#P" n="90"/>sio posset per rationes naturales efficaciter 
-      <lb ed="#P" n="91"/>demonstrari; rationes tamen adductae deficiunt 
-      <lb ed="#P" n="92"/>in probando, quia nulla earum concludit ne 
-      <lb ed="#P" n="93"/>cessario Nam prima ratio videtur peccare in 
-      <lb ed="#P" n="94"/>materia, &amp; forma, in materia quidem, quia 
-      <lb ed="#P" n="95"/>assumit falsum in minori propositione, cum 
-      <lb ed="#P" n="96"/>dicit, quod intellectus habens obiectum
-      in<lb ed="#P" n="97" break="no"/>telligibile praesens, est principium
-      producti<lb ed="#P" n="98" break="no"/>uum verbi, si enim haec esset vera, sequeretur 
-      <lb ed="#P" n="99"/>quod quandocunque obiectum esset praesens 
-      <lb ed="#P" n="100"/>intellectui necessario, &amp; naturaliter
-      produ<lb ed="#P" n="101" break="no"/>ceretur verbum, quod est falsum: Consequen 
-      <lb ed="#P" n="102"/>tia ab eis non potest negari, quia per eam
-      pro<lb ed="#P" n="103" break="no"/>bant quod in Deo sit necessaria, &amp; naturalis 
-      <lb ed="#P" n="104"/>productio verbi, Falsitatem probo dupliciter 
-      <lb ed="#P" n="105"/>primo, quia videmus, quod in nobis non ob 
-      <lb ed="#P" n="106"/>stante praesentia obiecti intellectui; adhuc ta 
-      <lb ed="#P" n="107"/>men requiritur actus voluntatis praeuius; d  
-      <lb ed="#P" n="108"/>cente <ref xml:id="gsX5tY-d1e215-Rd1e1067">P. Aug 9. de Trinit. cap. 12</ref>. partum mer 
-      <lb ed="#P" n="109"/>tis antecedere appetitum, quod non valeret 
-      <lb ed="#P" n="110"/>si productio verbi esset naturalis, &amp;
-      necessa<lb ed="#P" n="111" break="no"/>ria ex intellectu, &amp; ex praesentia obiecti, vt 
-      <lb ed="#P" n="112"/>ipsi dicunt Secundo, quia non semper ex
-      in<lb ed="#P" n="113" break="no"/>tellectu, &amp; praesentia obiecti producitur
-      ver<lb ed="#P" n="114" break="no"/>bum, immo contingit saepius quod produca¬ 
-      <!--177.xml-->
-      <pb ed="#P" n="152"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>tur cogitatio in formis quae tamen non est 
-      <lb ed="#P" n="2"/>verbum teste <ref xml:id="gsX5tY-d1e215-Rd1e1094">P. Aug. 15. de Trinitate</ref> dicent, 
-      <lb ed="#P" n="3"/>tormatam cogitationem de ea re quam scimus, 
-      <lb ed="#P" n="4"/>verbum esse: si tamen intellectus cum obiecto 
-      <lb ed="#P" n="5"/>praesente esset principium productiuum ver 
-      <lb ed="#P" n="6"/>bi (vt isti dicunt) tunc supposita
-      praesentiali<lb ed="#P" n="7" break="no"/>tate obiecti, semper &amp; necessario producere 
-      <lb ed="#P" n="8"/>tur verbum, quod est falsum. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1111">
-                  <lb ed="#P" n="9"/>Vlterius dico, quod haec ratio peccat in 
-      <lb ed="#P" n="10"/>forma, &amp; petit principium, nam cum dicunt 
-      <lb ed="#P" n="11"/>quod intellectus habens obiectum
-      intelligi<lb ed="#P" n="12" break="no"/>bile sibi praesens, est principium productiuum 
-      <lb ed="#P" n="13"/>verbi, haec proposito potest duobus modis 
-      <lb ed="#P" n="14"/>intelligi, vno modo, quod praesente obiecto 
-      <lb ed="#P" n="15"/>sit principium productiuum verbi, supposita 
-      <lb ed="#P" n="16"/>indigentia ex parte intelligentis, sicut est in 
-      <lb ed="#P" n="17"/>nobis, qui ad perfecte cognoscendum
-      obie<lb ed="#P" n="18" break="no"/>ctum indigemus verbo producto, &amp; sic
-      acci<lb ed="#P" n="19" break="no"/>piendo propositionem quamuis possit esse  
-      <lb ed="#P" n="20"/>nota naturaliter, non tamen valet eis ad pro 
-      <lb ed="#P" n="21"/>positum, quia in Deo non est productio
-      ver<lb ed="#P" n="22" break="no"/>bi isto modo: Alio modo potest intelligi, quod 
-      <lb ed="#P" n="23"/>intellectus praesente obiecto sit principium 
-      <lb ed="#P" n="24"/>productiuum verbi, remota oni indigentia 
-      <lb ed="#P" n="25"/>&amp; supposita plena sufficientia ex parte intel 
-      <lb ed="#P" n="26"/>ligentis, &amp; sic proposito habet veritatem in 
-      <lb ed="#P" n="27"/>solo Deo, non est tamen nota sine lumine Fi 
-      <lb ed="#P" n="28"/>dei; velle ergo probare, in Deo esse veram pro 
-      <lb ed="#P" n="29"/>ductionem ad intra hoc pacto, est probare 
-      <lb ed="#P" n="30"/>idem per idem, &amp; ignotum per aeque ignotum. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1162">
-                  <lb ed="#P" n="31"/>Similiter secunda ratio perit principium; 
-      <lb ed="#P" n="32"/>nam cum dicunt in minori propositone, quod 
-      <lb ed="#P" n="33"/>productio ad intra dicit perfectionem simpli 
-      <lb ed="#P" n="34"/>citer, quamuis haec proposito in se sit
-      veris<lb ed="#P" n="35" break="no"/>sima, non est tamen nota naturaliter; quia ex 
-      <lb ed="#P" n="36"/>tra diuinam naturam non inuenitur
-      produ<lb ed="#P" n="37" break="no"/>ctio intrinseca in aliqua natura nobis nota, 
-      <lb ed="#P" n="38"/>ex qua possimus deducere productionem ad 
-      <lb ed="#P" n="39"/>intra esse perfectionem simpliciter, &amp; per con 
-      <lb ed="#P" n="40"/>sequens ponendam esse in Deo; velle ergo 
-      <lb ed="#P" n="41"/>probare per istam propositionem, quod in 
-      <lb ed="#P" n="42"/>Deo sit productio ad intra, est probare, hoc 
-      <lb ed="#P" n="43"/>per eandem productionem, &amp; sic idem per 
-      <lb ed="#P" n="44"/>idem. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1195">
-                  <lb ed="#P" n="45"/>In probatione etiam quam adducunt pr hac 
-      <lb ed="#P" n="46"/>e <!-- erroneous line in cords file -->
-      <lb ed="#P" n="47"/>propositone est similiter peritio principij 
-      <lb ed="#P" n="48"/>Nam cum dicunt, quod necessitas est condi 
-      <lb ed="#P" n="49"/>tio importans perfectionem, concedatur, quam 
-      <lb ed="#P" n="50"/>uis posset negari; adhuc tamen non habetur 
-      <lb ed="#P" n="51"/>intentum, cum vero vlterius addunt produm 
-      <lb ed="#P" n="52"/>ctionem dicere ex se aliquam perfectionem: 
-      <lb ed="#P" n="53"/>dico, quod duplex est productio, vna cuius 
-      <lb ed="#P" n="54"/>notitia habetur lumine naturali, &amp; de ista est 
-      <lb ed="#P" n="55"/>falsum simpliciter, quod non dicat
-      imperfe<lb ed="#P" n="56" break="no"/>ctionem saltem ex parte producti quia
-      sup<lb ed="#P" n="57" break="no"/>ponit ipsum esse in potentia, productio enim 
-      <lb ed="#P" n="58"/>prout nobis est nota naturaliter, semper in 
-      <!--177.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 152 b -->
-                  <lb ed="#P" n="59"/>producto importat exitum de potentia ad
-      a<lb ed="#P" n="60" break="no"/>ctum. Alia est productio quae nullum impor 
-      <lb ed="#P" n="61"/>tat exitum de potentia ad actum, nec ex pat 
-      <lb ed="#P" n="62"/>te producentis, nec ex parte producti, &amp; de 
-      <lb ed="#P" n="63"/>ista bene verum est, quod non dicit aliquam 
-      <lb ed="#P" n="64"/>imperfectionem: sed quod sit aliqua talis in 
-      <lb ed="#P" n="65"/>rerum natura, hoc non est notum lumine na 
-      <lb ed="#P" n="66"/>turali, immo naturaliter videtur contiarium; 
-      <lb ed="#P" n="67"/>est vtique notum lumine Fidei in cuius
-      veri<lb ed="#P" n="68" break="no"/>tate supponimus esse talem productionem i 
-      <lb ed="#P" n="69"/>natura diuina solum. Si quis ergo ex
-      pro<lb ed="#P" n="70" break="no"/>ductione quae non dicit imperfectionem
-      ve<lb ed="#P" n="71" break="no"/>lit probare productionem in Deo esse,
-      pro<lb ed="#P" n="72" break="no"/>babit illam productionem per eandem
-      pro<lb ed="#P" n="73" break="no"/>ductionem, &amp; sic peret principium 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1269">
-                  <lb ed="#P" n="74"/>Nec tertia ratio concludit, nam concessa 
-      <lb ed="#P" n="75"/>maiore, dico ad minorem, quod quamuis 
-      <lb ed="#P" n="76"/>pioposito sit vera, non potest tamen euidem 
-      <lb ed="#P" n="77"/>ter probari, quod productio ad extra sit
-      li<lb ed="#P" n="78" break="no"/>bera, &amp; contingens, immo magis contrarium 
-      <lb ed="#P" n="79"/>apparet scilicet, quod sit necessaria, ex ista 
-      <lb ed="#P" n="80"/>ergo propositone non habetu euidens
-      pro<lb ed="#P" n="81" break="no"/>batio, &amp; ideo proceditur per ignota. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1289">
-                  <lb ed="#P" n="82"/>Videtur ergo mihi aliter esse dicendum; 
-      <lb ed="#P" n="83"/>Pro cuius rei explicatione primo ostendam  
-      <lb ed="#P" n="84"/>huiusmodi compossibilitatem distinctionis di 
-      <lb ed="#P" n="85"/>uinarum personarum cum vnitate essentiae, 
-      <lb ed="#P" n="86"/>per se directe non posse efficaciter probari ra 
-      <lb ed="#P" n="87"/>tione naturali Secundo compossibilitatem 
-      <lb ed="#P" n="88"/>vnitatis cum Trinitate posse sustineri, &amp; de 
-      <lb ed="#P" n="89"/>fendi contra quascunque rationes. Tertio
-      po<lb ed="#P" n="90" break="no"/>se aliquo modo Trinitatem persuaderi ratio 
-      <lb ed="#P" n="91"/>nibus, &amp; praecipue Riccardi in suo libro de 
-      <lb ed="#P" n="92"/>Trinitate 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1315">
-                  <lb ed="#P" n="93"/>Quantum ad primum dico, quod si
-      hu<lb ed="#P" n="94" break="no"/>iusmodi compossibilitas posset probari per 
-      <lb ed="#P" n="95"/>aliquam rationem naturalem, illa ratio, vel 
-      <lb ed="#P" n="96"/>esset sumpta ex ipso Deo, prout habet
-      habi<lb ed="#P" n="97" break="no"/>tudinem ad creaturas, vel ex ipsis creaturis,  
-      <lb ed="#P" n="98"/>secundum quod habent habitudinem ad Deum; 
-      <lb ed="#P" n="99"/>sed neutro horum modorum potest inueniri 
-      <lb ed="#P" n="100"/>aliqua ratio; ergo &amp;c. Maior patet per hoc, 
-      <lb ed="#P" n="101"/>quia omnes veritates, quas de Deo
-      efficaci<lb ed="#P" n="102" break="no"/>ter probamus, vel probamus ex habitudine 
-      <lb ed="#P" n="103"/>Dei ad creaturas, vel e conuerso, vtrioque
-      n<lb ed="#P" n="104" break="no"/>modo Deus nobis innotescit lumine natura 
-      <lb ed="#P" n="105"/>li, si autem alio modo innotescit, hoc etiam  
-      <lb ed="#P" n="106"/>est alio lumine supernaturali: nunc probo 
-      <lb ed="#P" n="107"/>minorem quantum ad ambas partes, &amp;
-      pri<lb ed="#P" n="108" break="no"/>mo ex habitudine Dei ad creaturas, nam onis 
-      <lb ed="#P" n="109"/>talis habitndo, vel est in ratione efficientis, 
-      <lb ed="#P" n="110"/>vel in ratione finis, vel in ratione formae, 
-      <lb ed="#P" n="111"/>sed omnes praefatae habitudines ducunt nos 
-      <lb ed="#P" n="112"/>in cognitionem Dei, prout est vnus in essen 
-      <lb ed="#P" n="113"/>tia, &amp; non trinus in personis, quia etsi sint di 
-      <lb ed="#P" n="114"/>stinctae personae, omnes tamen secundum 
-      <lb ed="#P" n="115"/>eandem habitudinem efficientis, vel finis re 
-      <!--178.xml-->
-      <pb ed="#P" n="153"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>feruntur ad creaturas, teste <ref xml:id="gsX5tY-d1e215-Rd1e1375">P. Augustino; 
-        <lb ed="#P" n="2"/>de Trin. cap. 20</ref>. vbi dicit, Patrem, Filium 
-      <lb ed="#P" n="3"/>&amp; Spiritum Sanctum relatiue ad creaturam 
-      <lb ed="#P" n="4"/>dici vnum Creatorem, &amp; vnum Dominnm, 
-      <lb ed="#P" n="5"/>&amp; hoc est, quia omnes tres personae habeni 
-      <lb ed="#P" n="6"/>vnam virtutem creatiuam, &amp; sicut non
-      plu<lb ed="#P" n="7" break="no"/>rificatur ibi habitudo causae efficientis
-      pro<lb ed="#P" n="8" break="no"/>pter vnam virtutem productiuam, ita pari ra 
-      <lb ed="#P" n="9"/>tione non debet plurificari habitudo causae 
-      <lb ed="#P" n="10"/>finalis propter vnam bonitatem reductiuam 
-      <lb ed="#P" n="11"/>in se omnia, nec habitudo causae formalis, p 
-      <lb ed="#P" n="12"/>pter vnam actualitatem representatiuam om- 
-      <lb ed="#P" n="13"/>nium, ex nulla ergo habitudine potest sumi 
-      <lb ed="#P" n="14"/>efficax ratio, qua probetur realis distinctio 
-      <lb ed="#P" n="15"/>personarum, &amp; compossibilitas istorum cum 
-      <lb ed="#P" n="16"/>vnitate essentiae; &amp; sic patet minor quantum 
-      <lb ed="#P" n="17"/>ad vnam partem. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1414">
-                  <lb ed="#P" n="18"/>Probo eandem, quo ad aliam partem, scili 
-      <lb ed="#P" n="19"/>cet ex habitudine creaturae ad Deum. Nam  
-      <lb ed="#P" n="20"/>omnis habitudo creaturae ad Deum vel est 
-      <lb ed="#P" n="21"/>ex eo quod effectus Dei est, vel ex eo quod 
-      <lb ed="#P" n="22"/>similitudo: non potest autem sumi aliqua ra 
-      <lb ed="#P" n="23"/>tio ad propositum ex habitudine, quam cres 
-      <lb ed="#P" n="24"/>turae habent ad Deum primo modo, quia qua 
-      <lb ed="#P" n="25"/>tenus effectus Dei sunt, vnam, &amp; eandem ha 
-      <lb ed="#P" n="26"/>bitudinem habent ad omnes tres personas, 
-      <lb ed="#P" n="27"/>nam si tres personae habent habitudinem
-      v<lb ed="#P" n="28" break="no"/>nius principij, &amp; causae ad creaturam,
-      opor<lb ed="#P" n="29" break="no"/>tet etiam quod creatura habeat habitudinem 
-      <lb ed="#P" n="30"/>ad illas in ratione vnius effectus, &amp; vnius 
-      <lb ed="#P" n="31"/>principiati. Ex neutra ergo parte potest
-      su<lb ed="#P" n="32" break="no"/>mi ratio euidens distinctionis personarum 
-      <lb ed="#P" n="33"/>&amp; per consequens, nec compossibilitatis cu 
-      <lb ed="#P" n="34"/>vnitate essentiae, nec etiam sumi potest ex ha 
-      <lb ed="#P" n="35"/>bitudine creaturae ad Deum in quantum est 
-      <lb ed="#P" n="36"/>fimilitudo Dei, quia haec similitudo non
-      at<lb ed="#P" n="37" break="no"/>tenditur nisi ratione imaginis, vel vertigij, 
-      <lb ed="#P" n="38"/>neutra autem similitudo valet ad probandum 
-      <lb ed="#P" n="39"/>propositum, quia nec in vestigio, nec in ima 
-      <lb ed="#P" n="40"/>gine inuenimus, quod aliqua realiter distin 
-      <lb ed="#P" n="41"/>cta possint habere eandem essentiam, &amp; haec 
-      <lb ed="#P" n="42"/>de primo, 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1472">
-                  <lb ed="#P" n="43"/>SECVND O ostendo,
-      compossibilita<lb ed="#P" n="44" break="no"/>Si <!-- erroneous line in coords file -->
-      <lb ed="#P" n="45"/>tem horum duorum scilicet vnitatis, &amp; Tri 
-      <lb ed="#P" n="46"/>nitatis posse defendi contra quascunque ratio 
-      <lb ed="#P" n="47"/>nes in contrarium adductas, quod apparebit, 
-      <lb ed="#P" n="48"/>si reuocabimus ad memoriam ea, quae sunt 
-      <lb ed="#P" n="49"/>dicta in primo art. huius quaest ideo enim in 
-      <lb ed="#P" n="50"/>ereaturis suppositum non potest plurificari. 
-      <lb ed="#P" n="51"/>non plurificata natura, quia nullum creatum 
-      <lb ed="#P" n="52"/>est necesse esse; idcirco oportet, eum
-      acqui<lb ed="#P" n="53" break="no"/>rere esse in suo supposito, &amp; per consequens 
-      <lb ed="#P" n="54"/>simul produci in esse cum eo, &amp; quia eorum, 
-      <lb ed="#P" n="55"/>quae sunt simul, si producantur in esse, vnum 
-      <lb ed="#P" n="56"/>non potest plurificari sine altero, ergo impos 
-      <lb ed="#P" n="57"/>sibile erit, in creaturis plurificare supposita 
-      <lb ed="#P" n="58"/>non plurificata natura, vnde, si per impos¬ 
-      <!--178.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 153 b -->
-                  <lb ed="#P" n="59"/>sibile poneretur aliqua natura creata necesse 
-      <lb ed="#P" n="60"/>esse, non appareret propter quid esset impos 
-      <lb ed="#P" n="61"/>sibilis plurificatio suppositi sine plurificatio,  
-      <lb ed="#P" n="62"/>ne nature, quia tunc natura non acquireret 
-      <lb ed="#P" n="63"/>esse in suppositis, nec produceretur in esse 
-      <lb ed="#P" n="64"/>cum eis, sicut forte imaginabatur Plato, &amp; 
-      <lb ed="#P" n="65"/>sicut exemplo possemus declarare, multi
-      n<lb ed="#P" n="66" break="no"/>credunt, fuisse de intentione Com
-      intelle<lb ed="#P" n="67" break="no"/>ctum esse formam hominis, non obstante 
-      <lb ed="#P" n="68"/>ipsum esse vnum in omnibus, quod si ita
-      es<lb ed="#P" n="69" break="no"/>set, cogerentur isti saluare duo, quae
-      viden<lb ed="#P" n="70" break="no"/>tur omnino incompossibilia, puta intellectum 
-      <lb ed="#P" n="71"/>esse formam dantem esse cuilibet homini, &amp;  
-      <lb ed="#P" n="72"/>tamen non plurificari acplurificatiouem ho 
-      <lb ed="#P" n="73"/>miuum. Si ergo queratur ab istis quomodo 
-      <lb ed="#P" n="74"/>hoc est possibile, non video quod possint as 
-      <lb ed="#P" n="75"/>signare meliorem causam, quam illam, quae 
-      <lb ed="#P" n="76"/>dicta est, scilicet quia intellectus est quoddam 
-      <lb ed="#P" n="77"/>necesse esse ex se; &amp; ideo non aequirit esse in 
-      <lb ed="#P" n="78"/>suppositis hominum; idcirco non potest con 
-      <lb ed="#P" n="79"/>produci, nec cum eis plurificari: ergo ratio 
-      <lb ed="#P" n="80"/>nes, quae probarent naturam plurificari, plu 
-      <lb ed="#P" n="81"/>rificatis suppositis, deberent inniti huic
-      fun<lb ed="#P" n="82" break="no"/>damento, quod natura acquirit esse in
-      sup<lb ed="#P" n="83" break="no"/>posito, &amp; simul cum eo in esse producitur,  
-      <lb ed="#P" n="84"/>ac plurificatur : Hoc autem fundamentum 
-      <lb ed="#P" n="85"/>non habet locum in diuina natura, quia cum 
-      <lb ed="#P" n="86"/>sit necesse esse, non acquirit esse in supposito 
-      <lb ed="#P" n="87"/>&amp; ideo plurificatis suppositis diuinis non plu 
-      <lb ed="#P" n="88"/>rificatur ipsa, omnes ergo rationes contrariae 
-      <lb ed="#P" n="89"/>(quia inniterentur huic fundamento) non at 
-      <lb ed="#P" n="90"/>tingerent ad improbandam hanc Fidei
-      no<lb ed="#P" n="91" break="no"/>strae veritatem, &amp; sic facile poterunt solui. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1589">
-                  <lb ed="#P" n="92"/>Occurrunt tamen tres dubitationes
-      con<lb ed="#P" n="93" break="no"/>tra huiusmodi dicta; Prima est, quia si omnes 
-      <lb ed="#P" n="94"/>rationes, quae fiunt contra hanc veritatem  
-      <lb ed="#P" n="95"/>possint tolli, ergo cum solutio dubitationum 
-      <lb ed="#P" n="96"/>sit manifestatio veritatis sequitur, praefatam  
-      <lb ed="#P" n="97"/>veritatem posse manifestari, &amp; demonstrari, 
-      <lb ed="#P" n="98"/>cuius contratium superius fuit dictum, 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1607">
-                  <lb ed="#P" n="99"/>Ad hoc dico, quod sicut praefatae rationes 
-      <lb ed="#P" n="100"/>non attingunt ad huiusmodi veritatem
-      im<lb ed="#P" n="101" break="no"/>probandam: ita nec earum solutiones proce 
-      <lb ed="#P" n="102"/>dunt ad eam manifestandam, &amp; demonstram 
-      <lb ed="#P" n="103"/>dam: &amp; sic ratio non procedit. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1620">
-                  <lb ed="#P" n="104"/>Secundo dubitatur, nam dictum est, quod 
-      <lb ed="#P" n="105"/>natura Diuina est necesse esse, ideo non
-      ac<lb ed="#P" n="106" break="no"/>quirit esse in suppositis; nec cum eis produm. 
-      <lb ed="#P" n="107"/>citur: si haec ratio esset vera, tunc nullum di 
-      <lb ed="#P" n="108"/>uinum suppositum posset produci, quia
-      quod<lb ed="#P" n="109" break="no"/>libet est necesse esse, cum dictum sit superius; 
-      <lb ed="#P" n="110"/>suppositum, &amp; naturam diuinam esse
-      eius<lb ed="#P" n="111" break="no"/>dem necessitatis. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1640">
-                  <lb ed="#P" n="112"/>Ad hoc dico, quod ei, quod est necesse es 
-      <lb ed="#P" n="113"/>se repugnat productio deducens ipsum de 
-      <lb ed="#P" n="114"/>non esse ad esse, non tamen repugnat illi pro 
-      <lb ed="#P" n="115"/>ductio, quae est simplex communicatio, qua 
-      <!--179.xml-->
-      <pb ed="#P" n="154"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>lis est in diuinis.  
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1660">
-                  <lb ed="#P" n="2"/>Sed contra diceret aliquis, quod pari
-      ra<lb ed="#P" n="3" break="no"/>tione natura posset produci hac simplici ema 
-      <lb ed="#P" n="4"/>natione, cum non repugnet illi per hoc, quod 
-      <lb ed="#P" n="5"/>est necesse esse 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1672">
-                  <lb ed="#P" n="6"/>Respondeo, non esse simile, quia
-      suppo<lb ed="#P" n="7" break="no"/>situm est illud, cui fit communicatio,
-      natu<lb ed="#P" n="8" break="no"/>ra vero est illud, quod communicatur, in 
-      <lb ed="#P" n="9"/>simplici autem communicatione, qualis est 
-      <lb ed="#P" n="10"/>illa, oportet esse aliquid productum, puta 
-      <lb ed="#P" n="11"/>suppositum, &amp; aliquid non productum
-      pu<lb ed="#P" n="12" break="no"/>ta natura, nam si vtrumque esset productum, 
-      <lb ed="#P" n="13"/>vtrumque etiam acciperet esse, &amp; per
-      conse<lb ed="#P" n="14" break="no"/>quens transiret de, non esse ad esse, quod est 
-      <lb ed="#P" n="15"/>absurdum imaginam in diuina natura: pro 
-      <lb ed="#P" n="16"/>tanto enim saluamus, quod suppositum non 
-      <lb ed="#P" n="17"/>transeat de non esse ad esse, quia accipit esse 
-      <lb ed="#P" n="18"/>diuinae nature, quod quidem esse non est. pr 
-      <lb ed="#P" n="19"/>ductum, quamuis sit per veram communica 
-      <lb ed="#P" n="20"/>tionem communicatum.  
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1707">
-                  <lb ed="#P" n="21"/>Tertio dubitatur, quia videtur
-      impossibi<lb ed="#P" n="22" break="no"/>le, diuinum suppositum esse productum, &amp; 
-      <lb ed="#P" n="23"/>naturam non produci, nisi ponamus naturam, 
-      <lb ed="#P" n="24"/>&amp; suppositum distingui realiter in Deo, quod 
-      <lb ed="#P" n="25"/>non est dicendum, quia tunc faceret compo 
-      <lb ed="#P" n="26"/>sitionem. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1723">
-                  <lb ed="#P" n="27"/>Ad hoc dico, dubitationem hanc directe 
-      <lb ed="#P" n="28"/>uaerere, an distinctio personarum stet cum 
-      <lb ed="#P" n="29"/>simplicitate Diuina, quae difficultas habebit 
-      <lb ed="#P" n="30"/>locum inferius, &amp; ideo nihil dico ad praesens,  
-      <lb ed="#P" n="31"/>sufficit enim pro nunc scire, distinctionem, 
-      <lb ed="#P" n="32"/>&amp; plurificationem diuinarum personarum 
-      <lb ed="#P" n="33"/>stare cum vnitate essentiae, &amp; quod nulla ra 
-      <lb ed="#P" n="34"/>tione, quae non possit solui, haec veritas
-      va<lb ed="#P" n="35" break="no"/>let impugnari: &amp; sic patet secundum
-      pro<lb ed="#P" n="36" break="no"/>positum 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1747">
-                  <lb ed="#P" n="37"/>RESTAT nuc tertio psuadere hanc
-      ve<lb ed="#P" n="38" break="no"/>ritatem quibusdam rationibus Riccardi in 
-      <lb ed="#P" n="39"/>lib. de Trinit. quarum prima sumitur ex ple 
-      <lb ed="#P" n="40"/>nitudine Diuinae bonitatis. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1758">
-                  <lb ed="#P" n="41"/>Amor, cui non potest deesse summa 
-      <lb ed="#P" n="42"/>charitas, requirit distinctas personas; In Deo 
-      <lb ed="#P" n="43"/>est huiusmodi amor; ergo &amp;c. &amp; quia non pos 
-      <lb ed="#P" n="44"/>sunt esse plures Dij, sequitur, quod huiusmo 
-      <lb ed="#P" n="45"/>di plures personae habeant vnam diuinam na 
-      <lb ed="#P" n="46"/>turam; Minor est nota: Maiorem probat Ric 
-      <lb ed="#P" n="47"/>cardus dicens, quod nullus amans se ipsum 
-      <lb ed="#P" n="48"/>tantum, dicitur proprie habere charitatem, 
-      <lb ed="#P" n="49"/>oportet enim, amorem in alterum tendere, 
-      <lb ed="#P" n="50"/>vt charitas esse dicatur: Nec valet dicere, quod si 
-      <lb ed="#P" n="51"/>tantum vna persona in diuinis esset, haberet 
-      <lb ed="#P" n="52"/>summam charitatem ad ipsam creaturam : 
-      <lb ed="#P" n="53"/>quia vt inquit Riccardus ibidem non posset 
-      <lb ed="#P" n="54"/>habere summam charitatem ad creaturam, 
-      <lb ed="#P" n="55"/>esset enim amor inordinatus, si summe illud 
-      <lb ed="#P" n="56"/>diligeret, quod summe diligendum non est: 
-      <lb ed="#P" n="57"/>in illa autem simplici bonitate non potest, nec 
-      <!--179.xml-->
-      <cb ed="#P" n="b"/> 
-                  <!-- 154 b -->
-                  <lb ed="#P" n="58"/>debeat poni charitas inordinata. Hanc
-      ratio<lb ed="#P" n="59" break="no"/>nem tangit <ref xml:id="gsX5tY-d1e215-Rd1e1807">2. lib de Trin. cap. 2.</ref> 
-               </p>
-               <p xml:id="gsX5tY-d1e215-d1e1811">
-                  <lb ed="#P" n="60"/>2 Secunda ratio sumpta ex plenitudine 
-      <lb ed="#P" n="61"/>diuinae foelicitatis, sic formatur Amot qui est 
-      <lb ed="#P" n="62"/>summe iucundus non potest haberi sine di 
-      <lb ed="#P" n="63"/>stinctione personali, sed in Deo est amor sum 
-      <lb ed="#P" n="64"/>me iucundus, ergo in Deo sunt distinctae per 
-      <lb ed="#P" n="65"/>sonae; Minor est nota, &amp; Maior probatur a 
-      <lb ed="#P" n="66"/>Niccardo dicente, quod amor non potest
-      es<lb ed="#P" n="67" break="no"/>se summe iueundus, nisi sit mutuus,
-      intamo<lb ed="#P" n="68" break="no"/>re autem mutuo oportet esse qui amorem 
-      <lb ed="#P" n="69"/>impendat, &amp; qui amorem rependat, vbi autem 
-      <lb ed="#P" n="70"/>vnus, &amp; alter esse conuincitur, ibi vera plura 
-      <lb ed="#P" n="71"/>litas deprehenditur.
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1841">
-                  <lb ed="#P" n="72"/>Tertia ratio desumpta a ratione sumae be 
-      <lb ed="#P" n="73"/>neuolentiae sic formatur; Si in Deo non essent 
-      <lb ed="#P" n="74"/>distinctae personae sequeretur, in eo non esse 
-      <lb ed="#P" n="75"/>summam beneuolentiam, consequens est
-      fal<lb ed="#P" n="76" break="no"/>sum ergo &amp;c. Falsitas patet, quia in eo debet 
-      <lb ed="#P" n="77"/>poni quicquid dicit perfectionem simpliciter; 
-      <lb ed="#P" n="78"/>Consequentia probatur, nam si vna tantum 
-      <lb ed="#P" n="79"/>esset in diuinis persona, non haberet cui
-      con<lb ed="#P" n="80" break="no"/>municaret suae pulchritudinis abundantiam,  
-      <lb ed="#P" n="81"/>&amp; tuc quaero vnde hoc proueniat, vel enim 
-      <lb ed="#P" n="82"/>est, quia communitatem habere non potuit; 
-      <lb ed="#P" n="83"/>vel quia habere noluit, primum dici nequit  
-      <lb ed="#P" n="84"/>cum sit omnipotens, ideo per impotentiam ex 
-      <lb ed="#P" n="85"/>cusari non valet; num quid igitur non erst 
-      <lb ed="#P" n="86"/>ex solo defectu beneuolentiae 1 inquit Rico. 
-      <lb ed="#P" n="87"/>Quasi dicat quod sic; ldcirco in Deo esset
-      defe<lb ed="#P" n="88" break="no"/>ctus beneuolentiae, quod est absurdum, &amp; haec 
-      <lb ed="#P" n="89"/>de praesenti quaestione.
-    </p>
-            </div>
-            <div xml:id="gsX5tY-d1e215-Dd1e1884">
-               <head xml:id="gsX5tY-d1e215-Hd1e1886">Ad rationes principales</head>
-               <p xml:id="gsX5tY-d1e215-d1e1889">
-                  <lb ed="#P" n="90"/>AD RATIONES PRINCIPALES. 
-      <lb ed="#P" n="91"/>AD Primam nego maiorem, &amp; cum
-      pro<lb ed="#P" n="92" break="no"/>batur, quia natura, &amp; suppositum, vel 
-      <lb ed="#P" n="93"/>sunt idem, vel se mutuo consequuntur; dico 
-      <lb ed="#P" n="94"/>hic peti quomodo natura differat a persona 
-      <lb ed="#P" n="95"/>in Deo, quod habebit locum inferius, quaerit 
-      <lb ed="#P" n="96"/>etiam quomodo suppositum, &amp; natura diffe 
-      <lb ed="#P" n="97"/>rant in creaturis, de quo agam in tertio. In 
-      <lb ed="#P" n="98"/>praesentitamen dico, quod licet natura, &amp;  
-      <lb ed="#P" n="99"/>suppositum in Deo sint idem realiter, differunt 
-      <lb ed="#P" n="100"/>tamen secundum rationem. vel possumus di 
-      <lb ed="#P" n="101"/>cere, quod non sunt idem per omnem
-      mo<lb ed="#P" n="102" break="no"/>dum, sed haec maiore indigerent
-      declaratio<lb ed="#P" n="103" break="no"/>ne, quod non spectat ad praesens 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1922">
-                  <lb ed="#P" n="104"/>De supposito vero, &amp; natura in creaturis 
-      <lb ed="#P" n="105"/>dico, quod si se mutuo consequuntur,
-      huius<lb ed="#P" n="106" break="no"/>modi consecutio non est eodem modo ex par 
-      <lb ed="#P" n="107"/>te vtriusque, nam quod natura consequatur 
-      <lb ed="#P" n="108"/>suppositum in plurificatione, hoc est per ses 
-      <lb ed="#P" n="109"/>&amp; maxime quando plurificatio fit secundum 
-      <lb ed="#P" n="110"/>eandem speciem, quia natura non
-      plurifica<lb ed="#P" n="111" break="no"/>tur nisi ad plurificationem suppositi per se; 
-      <lb ed="#P" n="112"/>sed quod suppositum non plurificetur nisi ad 
-      <!--180.xml-->
-      <pb ed="#P" n="155"/>
-                  <cb ed="#P" n="a"/>
-                  <lb ed="#P" n="1"/>plurificationem naturae, hoc non est per se; 
-      <lb ed="#P" n="2"/>tunc enim plurificaretur ad plurificationem 
-      <lb ed="#P" n="3"/>ipsius, erit ergo haec plurificatio ex parte sup 
-      <lb ed="#P" n="4"/>posit per accidens, nam suppositum quantum 
-      <lb ed="#P" n="5"/>est de se potest produci non producta
-      natu<lb ed="#P" n="6" break="no"/>ra, &amp; sic plurisicari, ea non plurisicata, sed  
-      <lb ed="#P" n="7"/>quod in creaturis natura per se plurificetur 
-      <lb ed="#P" n="8"/>plurisicatis suppositis, hoc prouenit ex
-      defe<lb ed="#P" n="9" break="no"/>ctu naturae creatae, quod non est necesse esse, &amp;  
-      <lb ed="#P" n="10"/>ideo acquirit esse in supposito, sicque
-      neces<lb ed="#P" n="11" break="no"/>sario producitur ad productionem ipsius. 
-      <lb ed="#P" n="12"/>quod non potest dici de natura diuina, vt 
-      <lb ed="#P" n="13"/>visum est. 
-    </p>
-               <p xml:id="gsX5tY-d1e215-d1e1979">
-                  <lb ed="#P" n="14"/>Ad secundam dico non esse inconueniens 
-      <lb ed="#P" n="15"/>vnam rem absoluta esse plures res relatiue, 
-      <lb ed="#P" n="16"/>&amp; in hoc non implicatur contradictio, cum 
-      <lb ed="#P" n="17"/>vnitas, &amp; pluralitas non attendantur
-      secun<lb ed="#P" n="18" break="no"/>dum idem, nec vlterius sequitur ibi esse com 
-      <lb ed="#P" n="19"/>positonem, quia istae tres res relatiue sic differunt 
-      <lb ed="#P" n="20"/>inter se reatiter, quod tamen cum essentia 
-      <lb ed="#P" n="21"/>identificantur, vt patebit inferius, &amp; haec pro 
-      <lb ed="#P" n="22"/>secunda ditinctione sufficiant.
-    </p>
-            </div>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="148"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e215"> <!-- l1d2q3 -->
+        <head xml:id="gsX5tY-d1e215-Hd1e109">Quaestio 3</head>
+        <head xml:id="gsX5tY-d1e215-Hd1e112" type="question-title">Utrum cum unitate essentiae stet pluralitas personarum.</head>
+        <div xml:id="gsX5tY-d1e215-Dd1e115">
+          <head xml:id="gsX5tY-d1e215-Hd1e117">Quaestio</head>
+          <p xml:id="gsX5tY-d1e215-d1e120">
+            <!--173.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 148 b -->
+            <lb ed="#P" n="56"/>QVAESTIO TERTIA. 
+            <lb ed="#P" n="57"/>Vtrum cum vnitate essentiae stet pluralitas 
+            <lb ed="#P" n="58"/>personarum.
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e215-Dd1e137" type="rationes-principales">
+          <head xml:id="gsX5tY-d1e215-Hd1e139">Rationes principales</head>
+          <p xml:id="gsX5tY-d1e215-d1e142">
+            <lb ed="#P" n="59"/>ARGVITVR NEGATIVR 
+            <lb ed="#P" n="60"/>1 SIcut se habet natura ad suppositum, ita 
+            <lb ed="#P" n="61"/>A suppositum ad naturam, sed natura sic 
+            <lb ed="#P" n="62"/>se habet ad suppositum, quod illa, quae per se 
+            <lb ed="#P" n="63"/>habet suppositum, sicut substantia, non
+            pluri<lb ed="#P" n="64" break="no"/>ficatur, nisi plurificato supposito; ergo &amp; sup 
+            <lb ed="#P" n="65"/>positum non poterit plurificari, nisi
+            plurifi<lb ed="#P" n="66" break="no"/>cata natura Maior videtur nota, quia natura 
+            <lb ed="#P" n="67"/>&amp; suppositum licet sint idem, praecipue in 
+            <lb ed="#P" n="68"/>Deo tamen, vel se mutuo consequuntur, quia 
+            <lb ed="#P" n="69"/>vnum non inuenitur sine altero, vel saltem vnum 
+            <lb ed="#P" n="70"/>non potest esse sine altero. Minor etiam
+            ap<lb ed="#P" n="71" break="no"/>paret, nam quamuis in vno supposito
+            crea<lb ed="#P" n="72" break="no"/>to sint multae naturae, vna tamen sola est,  
+            <lb ed="#P" n="73"/>cuius est illud suppositum, puta ipsa
+            sub<lb ed="#P" n="74" break="no"/>stantia 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e179">
+            <lb ed="#P" n="75"/>2 Si pluralitas personarum staret cum 
+            <lb ed="#P" n="76"/>vnitate essentiae sequeretur, quod vna res
+            es<lb ed="#P" n="77" break="no"/>set plures, quod est falsum, quia implicatur 
+            <lb ed="#P" n="78"/>contradictio: Consequentiam probo,
+            suppo<lb ed="#P" n="79" break="no"/>no enim, quod plures personae in Deo sint 
+            <lb ed="#P" n="80"/>plures res, sic enim loquuntur sancti: Vnde 
+            <lb ed="#P" n="81"/>
+            <ref xml:id="gsX5tY-d1e215-Rd1e196">P. Aug. in principio lib de Doctrina 
+              Christia<lb ed="#P" n="82" break="no"/>na</ref> ait, <quote xml:id="gsX5tY-d1e215-Qd1e201" source="http://scta.info/resource/addc-l1-d1e155" synch="3-13">res, quibus fruendum est, sunt Pater. 
+                <lb ed="#P" n="83"/>Filius, &amp; Spiritus Sanctus</quote>, suppono etiam, 
+            <lb ed="#P" n="84"/>quod in Deo persona sit idem quod
+            essen<lb ed="#P" n="85" break="no"/>tia, alioquin esset ibi composito, quibus
+            sup<lb ed="#P" n="86" break="no"/>positis patet consequentia, nam si essentia est 
+            <lb ed="#P" n="87"/>idem quod quaelibet persona, &amp; plures perso 
+            <lb ed="#P" n="88"/>nae sunt plures res, sequitur, quod vna res sit 
+            <lb ed="#P" n="89"/>plures res.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e220">
+            <lb ed="#P" n="90"/>AD OPPOSITVM ARGVITVR 
+            <lb ed="#P" n="91"/>Er Fidem Catholicam debemus saluare 
+            <lb ed="#P" n="92"/>Trinitatem personarum, ita vt non
+            de<lb ed="#P" n="93" break="no"/>rogemus vnitati essentiae, quia vtrumque
+            ca<lb ed="#P" n="94" break="no"/>dit sub articulo Fidei, ergo &amp;c. 
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e215-Dd1e235">
+          <head xml:id="gsX5tY-d1e215-Hd1e237">Divisio quaestionis</head>
+          <p xml:id="gsX5tY-d1e215-d1e240">
+            <lb ed="#P" n="95"/>RESPONDEO in hac quaestione 
+            <lb ed="#P" n="96"/>tres articuli sunt videndi, prout insinuant ar 
+            <lb ed="#P" n="97"/>gumenta adducta. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e249">
+            <lb ed="#P" n="98"/>An natura creata possit plurificari sine 
+            <lb ed="#P" n="99"/>suppositis 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e256">
+            <lb ed="#P" n="100"/>2 An supposita diuina differant realiter.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e261">
+            <lb ed="#P" n="101"/>3 An pluralitas personarum repugnet
+            v<lb ed="#P" n="102" break="no"/>nitati essentiae.
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e215-Dd1e269" type="articulus">
+          <head xml:id="gsX5tY-d1e215-Hd1e271">Articulus 1</head>
+          <head xml:id="gsX5tY-d1e215-Hd1e274" type="question-title">Utrum suppositum et natura in rebus 
+            creatis ita sint adaequata, quod unum non 
+            possit plurificari sine altero.</head>
+          <p xml:id="gsX5tY-d1e215-d1e277">
+            <!--174.xml-->
+            <pb ed="#P" n="149"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ARTICVLVS PRIMVS. 
+            <lb ed="#P" n="2"/>Vtrum suppositum, &amp; natura in rebus
+            crea<lb ed="#P" n="3" break="no"/>tis ita sint adaequata, quod vnum non 
+            <lb ed="#P" n="4"/>possit plurificari sine altero.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e295">
+            <lb ed="#P" n="5"/>AD hoc est intelligendum, quod
+            ra<lb ed="#P" n="6" break="no"/>tio supposit non inuenitur proprie, 
+            <lb ed="#P" n="7"/>nisi in genere substantiae, quod ideo est, quia 
+            <lb ed="#P" n="8"/>de ratione suppositi est per se subsistere; quae 
+            <lb ed="#P" n="9"/>conditio non conuenit nisi substantiae: si ergo 
+            <lb ed="#P" n="10"/>comparetur suppositum ad naturam de
+            ge<lb ed="#P" n="11" break="no"/>nere substantiae, cuius proprium est habere 
+            <lb ed="#P" n="12"/>supposita, &amp; quaeratur vtrum natura de
+            ge<lb ed="#P" n="13" break="no"/>nere substantiae, &amp; suum proprium
+            supposi<lb ed="#P" n="14" break="no"/>tum, in quo est, sint omnino adaequata: Dico 
+            <lb ed="#P" n="15"/>quod sic, itaut non possit plurificari natura 
+            <lb ed="#P" n="16"/>non plurificato supposito, &amp; e conuerso, nec 
+            <lb ed="#P" n="17"/>suppositum absque natura, has duas
+            conclu<lb ed="#P" n="18" break="no"/>clusiones probo per ordinem.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e328">
+            <lb ed="#P" n="19"/>Primam sic, si natura plurificaretur
+            mane<lb ed="#P" n="20" break="no"/>te eodem supposito sequeretur vnum, &amp; idem 
+            <lb ed="#P" n="21"/>suppositum esse in diuersis speciebus,
+            conse<lb ed="#P" n="22" break="no"/>iuens est falsum, ergo &amp; antecedens:
+            Falsi<lb ed="#P" n="23" break="no"/>as patet, nam dicere quod vna res alicuius 
+            <lb ed="#P" n="24"/>praedicamenti absoluti sit in diuersis
+            specie<lb ed="#P" n="25" break="no"/>bus illius praedicamenti, est dicere quod vna 
+            <lb ed="#P" n="26"/>res absoluta sit plures, quod nullus diceret: 
+            <lb ed="#P" n="27"/>probo Consequetiam, ad cuius probationem 
+            <lb ed="#P" n="28"/>duo suppono, primum est, quod natura, &amp;  
+            <lb ed="#P" n="29"/>suppositum sunt vna res absoluta eiusdem  
+            <lb ed="#P" n="30"/>speclei (quod omnes concederent) licet
+            ha<lb ed="#P" n="31" break="no"/>beant aliam distinctionem, de qua non curo 
+            <lb ed="#P" n="32"/>ad praesens, quia habebit locum in tertio lib  
+            <lb ed="#P" n="33"/>Secundo suppono, quod natura non plurifi 
+            <lb ed="#P" n="34"/>cetur per se nisi in diuersitate speciei, hoc enm 
+            <lb ed="#P" n="35"/>est naturam per se plurificari, ipsam scilicet 
+            <lb ed="#P" n="36"/>diuersificari per differentias essentiales
+            in<lb ed="#P" n="37" break="no"/>trinsecas, quod non habet locum nisi in
+            di<lb ed="#P" n="38" break="no"/>uersis speciebus, quia licet plurificetur in
+            ea<lb ed="#P" n="39" break="no"/>dem specie, hoc non est per aliquod essentia 
+            <lb ed="#P" n="40"/>le intrinsecum, sed magis per aliquod accidem 
+            <lb ed="#P" n="41"/>tale extrinsecum, quicquid sit illud: istis sup 
+            <lb ed="#P" n="42"/>posits consequentia patet, nam si natura por 
+            <lb ed="#P" n="43"/>se plurificata est diuersarum specierum, vt di 
+            <lb ed="#P" n="44"/>cit, ista secunda suppo tio, &amp; suppositum est 
+            <lb ed="#P" n="45"/>eiusdem speciei cum natura, vt dicit supposi 
+            <lb ed="#P" n="46"/>tio prima, sequitur, quod illud suppositum 
+            <lb ed="#P" n="47"/>quod ponebatur manere idem, sit
+            diuersa<lb ed="#P" n="48" break="no"/>rum specierum.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e397">
+            <lb ed="#P" n="49"/>Si autem dicatur, quod natura
+            plurifice<lb ed="#P" n="50" break="no"/>tur saltem per accidens in eadem specie
+            ma<lb ed="#P" n="51" break="no"/>nente eodem supposito, probo etiam quod 
+            <!--174.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 149 b -->
+            <lb ed="#P" n="52"/>istud sit impossibile; quia sequeretur quod 
+            <lb ed="#P" n="53"/>plures naturae essent vna natura, quod est 
+            <lb ed="#P" n="54"/>falsum, quia implicatur contradictio,
+            Conse<lb ed="#P" n="55" break="no"/>quentiam probo, siquidem plures natura: 
+            <lb ed="#P" n="56"/>eiusdem speciei esse in eodem supposito, vel 
+            <lb ed="#P" n="57"/>est falsum, vel sunt omnino vna, &amp; eadem; 
+            <lb ed="#P" n="58"/>quia si essent distinctae, hoc vel esset per
+            ali<lb ed="#P" n="59" break="no"/>quod essentiale intrinsecum, vel per aliquod 
+            <lb ed="#P" n="60"/>accidentale extrinsecam, non per intrinsecum, 
+            <lb ed="#P" n="61"/>quia tunc essent distinctae, secundum specie. 
+            <lb ed="#P" n="62"/>cuius contrarium supponitur, non per extrin 
+            <lb ed="#P" n="63"/>secum accidentale, quia omne tale consequi 
+            <lb ed="#P" n="64"/>tur naturam, ratione suppositi, &amp; non
+            ra<lb ed="#P" n="65" break="no"/>tione sui, cum abstrahat secundum se ab om- 
+            <lb ed="#P" n="66"/>ni tali: vbi ergo est idem suppositum, etiam 
+            <lb ed="#P" n="67"/>hoc principiu distictum est idem, &amp; prconsequens 
+            <lb ed="#P" n="68"/>non possunt per ipsum distingui: remanebunt 
+            <lb ed="#P" n="69"/>ergo indistincta, &amp; sic erunt vna natura Ex 
+            <lb ed="#P" n="70"/>tendit autem se ista ratio etiam ad naturam  
+            <lb ed="#P" n="71"/>de genere accidentis, de quibus etiam verum 
+            <lb ed="#P" n="72"/>est, quod plures naturae eiusdem speciel non 
+            <lb ed="#P" n="73"/>possunt esse in eodem subiecto, &amp; sic patet 
+            <lb ed="#P" n="74"/>prima conclusio quoe na non potest plurificari, 
+            <lb ed="#P" n="75"/>non plurificato supposito, accipiendo eo mo 
+            <lb ed="#P" n="76"/>do, quo dictum est. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e467">
+            <lb ed="#P" n="77"/>Probo secundam conclusionem, quod sup 
+            <lb ed="#P" n="78"/>posita non possunt plurificari manente
+            ea<lb ed="#P" n="79" break="no"/>dem natura: Quia tunc sequeretur, quod 
+            <lb ed="#P" n="80"/>natura talium suppositorum esset necesse es 
+            <lb ed="#P" n="81"/>se; consequens est falsum; ergo &amp;
+            antece<lb ed="#P" n="82" break="no"/>dens: Falsitatem probo ex duobus; primo 
+            <lb ed="#P" n="83"/>quia cum: loquamur in rebus creatis,
+            opor<lb ed="#P" n="84" break="no"/>tet quod ista natura, quae ponitur manere 
+            <lb ed="#P" n="85"/>eadem, sit quid creatum, nullum autem ens 
+            <lb ed="#P" n="86"/>creatum potest dici necesse esse, vt ad
+            prae<lb ed="#P" n="87" break="no"/>sens suppono, quia in secundo libro habebit 
+            <lb ed="#P" n="88"/>locum: est ergo impossibile, quod talis natu 
+            <lb ed="#P" n="89"/>ra sit necesse esse. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e498">
+            <lb ed="#P" n="90"/>Secundo quia natura non potest esse ma 
+            <lb ed="#P" n="91"/>ioris necessitatis, quam suppositum, sicut ap 
+            <lb ed="#P" n="92"/>paret inducendo in omnibus: nunc autem 
+            <lb ed="#P" n="93"/>upposita, quae plurificantur sub eadem
+            na<lb ed="#P" n="94" break="no"/>tura, in creaturis possunt esse &amp; non esse; du 
+            <lb ed="#P" n="95"/>in eorum plurificatione sit exitus de
+            poten<lb ed="#P" n="96" break="no"/>tia ad actum, &amp; processus de non esse ad
+            es<lb ed="#P" n="97" break="no"/>se; erit ergo secudum hoc aliqua natura
+            ma<lb ed="#P" n="98" break="no"/>ioris necessitatis, quam suum suppositum, quod 
+            <lb ed="#P" n="99"/>est absurdum, tunc enim posset natura rema 
+            <lb ed="#P" n="100"/>nere destructis suis suppositis,
+            Consequen<lb ed="#P" n="101" break="no"/>tiam probo, nam si ad plurificationem suppo 
+            <lb ed="#P" n="102"/>sitorum non plurificatur natura, pari ratio.  
+            <lb ed="#P" n="103"/>ne nec ad eorum productionem producitur 
+            <lb ed="#P" n="104"/>ipsa, quia vnum sequitur ad alterum, &amp; quia 
+            <lb ed="#P" n="105"/>natura nullo modo potest produci, vel acqui 
+            <lb ed="#P" n="106"/>rere esse extra sua supposita, si sit aliqua na 
+            <lb ed="#P" n="107"/>tura, quae cum suppositis non producatur. 
+            <lb ed="#P" n="108"/>nec in eis acquirat esse; illa, inquam, nullo 
+            <!--175.xml-->
+            <pb ed="#P" n="150"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>modo produceretur, vel nullo modo
+            acqui<lb ed="#P" n="2" break="no"/>reret esse in suppositis; &amp; per consequens 
+            <lb ed="#P" n="3"/>esset necesse esse: vel saltem cogeremur
+            di<lb ed="#P" n="4" break="no"/>cere quod nullo modo haberet esse, quod est 
+            <lb ed="#P" n="5"/>absurdum, quia tunc simul esset, &amp; non
+            es<lb ed="#P" n="6" break="no"/>set: nam inquantum sua supposita essent, &amp; 
+            <lb ed="#P" n="7"/>non possent esse sine ea, natura esset,; inquam 
+            <lb ed="#P" n="8"/>tum vero non acquireret esse in ipsis, non es 
+            <lb ed="#P" n="9"/>set; idcirco qui arbitraretur possibile, in crea 
+            <lb ed="#P" n="10"/>turis supposita plurificari, manente eadem  
+            <lb ed="#P" n="11"/>natura, quemadmodum est in Deo,
+            incide<lb ed="#P" n="12" break="no"/>ret in errorem Platonis ponentis quidditaten 
+            <lb ed="#P" n="13"/>separatam a suis suppositis secundum esse, vt 
+            <lb ed="#P" n="14"/>patet 7. Metaph nam dicens, quod plura sup 
+            <lb ed="#P" n="15"/>posita possint fieri sub eadem natura,
+            cogi<lb ed="#P" n="16" break="no"/>tur dicere quod illa natura non producatur 
+            <lb ed="#P" n="17"/>cum suppositis, nec acquirat esse in eis, &amp;  
+            <lb ed="#P" n="18"/>per consequens erit separata ab eis secundum 
+            <lb ed="#P" n="19"/>esse, quod erat error Platonis, Vt patet per 
+            <lb ed="#P" n="20"/>Arist. &amp; Com. 7. Metaph com 20 vbi con 
+            <lb ed="#P" n="21"/>cludit, quod cum quidditates non habeant 
+            <lb ed="#P" n="22"/>proprium esse distinctum a suis suppositis, si 
+            <lb ed="#P" n="23"/>ponantur ab eis separatae secundum esse, non 
+            <lb ed="#P" n="24"/>habebunt aliquod esse; &amp; sic erunt, &amp; non 
+            <lb ed="#P" n="25"/>erunt, nam quia ponuntur entia, erunt, &amp; 
+            <lb ed="#P" n="26"/>quia ponuntur non esse in suppositis, non 
+            <lb ed="#P" n="27"/>erunt, &amp; ita potest dici in proposito de natu 
+            <lb ed="#P" n="28"/>ra, quae non plurificaretur plurificatis
+            sup<lb ed="#P" n="29" break="no"/>positis, patet igitur secunda conclusio, &amp; quid 
+            <lb ed="#P" n="30"/>quaerebantur, scilicet, in creaturis
+            supposi<lb ed="#P" n="31" break="no"/>tum, &amp; naturam sic esse adaequata, vt non 
+            <lb ed="#P" n="32"/>possit plurificari vnum non plurificato
+            alte<lb ed="#P" n="33" break="no"/>ro, quod non est dicendum in diuinis, vt
+            pa<lb ed="#P" n="34" break="no"/>tebit in sequenti articulo. 
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e215-Dd1e623" type="articulus">
+          <head xml:id="gsX5tY-d1e215-Hd1e625">Articulus 2</head>
+          <head xml:id="gsX5tY-d1e215-Hd1e628" type="question-title">
+            An divina supposita distinguantur realiter 
+            inter se, ita ut sint plures res
+          </head>
+          <p xml:id="gsX5tY-d1e215-d1e631">
+            <lb ed="#P" n="35"/>ARTICVLVS SECVNDVS 
+            <lb ed="#P" n="36"/>An Diuina supposita distinguantur realiter 
+            <lb ed="#P" n="37"/>inter se, ita vt sint plures res
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e640">
+            <lb ed="#P" n="38"/>CIrca hoc errarunt Sabelliani dicentes,  
+            <lb ed="#P" n="39"/>, quod diuinae personae non erant reali 
+            <lb ed="#P" n="40"/>ter distinctae, vt tamen saluarent
+            auctorita<lb ed="#P" n="41" break="no"/>tes Sacrae Scripturae, quae euidenter
+            expri<lb ed="#P" n="42" break="no"/>munt in diuinis esse Patrem, Filium, &amp; Spi 
+            <lb ed="#P" n="43"/>ritum Sanctum, dicebant, quod vna, &amp;
+            ea<lb ed="#P" n="44" break="no"/>dem persona, quandoque vno, quandoque alte 
+            <lb ed="#P" n="45"/>ro nomine appellabatur, ad quod dicendum 
+            <lb ed="#P" n="46"/>mouebantur, quia non videbant, quomodo 
+            <lb ed="#P" n="47"/>realis distinctio personarum posset stare cum 
+            <lb ed="#P" n="48"/>vnitate essentiae, sed hoc non obstat, vt
+            pa<lb ed="#P" n="49" break="no"/>tebit in sequenti articulo. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e669">
+            <lb ed="#P" n="50"/>Dicendum est ergo cum Fide Catholica, 
+            <!--175.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 150 b -->
+            <lb ed="#P" n="51"/>quod Diuinae personae realiter sunt
+            distin<lb ed="#P" n="52" break="no"/>ctae: quam conclusionem nequimus
+            proba<lb ed="#P" n="53" break="no"/>re ratione naturali, quia simpliciter est nobis 
+            <lb ed="#P" n="54"/>tradita per Fidem: sed quibusdam alijs (etiam 
+            <lb ed="#P" n="55"/>de Fide) suppositis, puta quod in diuinis sit 
+            <lb ed="#P" n="56"/>vera generatio, &amp; vera processio, possumus 
+            <lb ed="#P" n="57"/>statim praefatam conclusionem probare, nam 
+            <lb ed="#P" n="58"/>impossibile est, quod vna, &amp; eadem persona 
+            <lb ed="#P" n="59"/>sit vere gignens, &amp; vere genita, &amp; vere
+            pro<lb ed="#P" n="60" break="no"/>cedens, &amp; vere producta; At in diuinis est 
+            <lb ed="#P" n="61"/>vna persona vere gignens, &amp; altera vere ge 
+            <lb ed="#P" n="62"/>nita, vna producens, &amp; altera producta; ergo 
+            <lb ed="#P" n="63"/>Diuinae personae distinguuntur inter se
+            reali<lb ed="#P" n="64" break="no"/>ter. Verum quia hoc totum a Sacra Scriptu 
+            <lb ed="#P" n="65"/>ra est acceptum, &amp; auctoritate Ecclesiae com 
+            <lb ed="#P" n="66"/>probatum; idcirco sufficiant pro hac conclu 
+            <lb ed="#P" n="67"/>sione auctoritates, quas Magister inducit in 
+            <lb ed="#P" n="68"/>litera; &amp; plures aliae, quas dimitto breuitatis 
+            <lb ed="#P" n="69"/>causa: Concludo ergo cum D. Athanasio, qui 
+            <lb ed="#P" n="70"/>fidem vniuersalis Ecclesiae profitetur in svm 
+            <lb ed="#P" n="71"/>bolo, quod alia est persona batris, alia
+            Filij<lb ed="#P" n="72" break="no"/>alia Spiritus Sancti; vbi autem est alietas, 
+            <lb ed="#P" n="73"/>ibi est vera pluralitas realis: sunt ergo Dini 
+            <lb ed="#P" n="74"/>nae personae realiter distinctae, &amp; per
+            conse<lb ed="#P" n="75" break="no"/>quens plures res, quia nomen rei verissime 
+            <lb ed="#P" n="76"/>dicitur de supposito. 
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e215-Dd1e738" type="articulus">
+          <head xml:id="gsX5tY-d1e215-Hd1e740">Articulus 3</head>
+          <head xml:id="gsX5tY-d1e215-Hd1e743" type="question-title">
+            Utrum realis pluralits personarum repugnet unitati essentiae.
+          </head>
+          
+          <p xml:id="gsX5tY-d1e215-d1e746">
+            <lb ed="#P" n="77"/>ARTICVLVS TERTIVS 
+            <lb ed="#P" n="78"/>Vtrum realis pluralitas personarum
+            repu<lb ed="#P" n="79" break="no"/>gnet vnitati essentiae.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e755">
+            <lb ed="#P" n="80"/>Irca hunc articulum errarunt
+            Arria<lb ed="#P" n="81" break="no"/>ni, qui, vt saluarent distinctionem por 
+            <lb ed="#P" n="82"/>sonarum, negabant vnitatem essentiae, sicut 
+            <lb ed="#P" n="83"/>Sabelliani, vt saluarent vnitatem essentiae ne 
+            <lb ed="#P" n="84"/>gabant distinctionem personarum. Frrauit 
+            <lb ed="#P" n="85"/>insuper circa hoc Abbas loachim, qui etiam 
+            <lb ed="#P" n="86"/>negabat vnitatem essentiae, licet aliter quam 
+            <lb ed="#P" n="87"/>Arriani, cuius opinio specialiter est
+            damna<lb ed="#P" n="88" break="no"/>ta ab Ecclesia in illa decretali, quae incipit, 
+            <lb ed="#P" n="89"/>damnamus, &amp;c. Horum errores non
+            prose<lb ed="#P" n="90" break="no"/>quor in speciali, quia nimis longum esset, sed  
+            <lb ed="#P" n="91"/>cum Fide Catholica intendo ostendere, quod 
+            <lb ed="#P" n="92"/>non repugnent ad inuicem vnitas essentiae. 
+            <lb ed="#P" n="93"/>&amp; pluralitas personarum, tota ergo
+            difficul<lb ed="#P" n="94" break="no"/>tas huius articuli, &amp; totius quaestionis est 
+            <lb ed="#P" n="95"/>videre quomodo ista duo possint stare simul 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e792">
+            <lb ed="#P" n="96"/>Ad quod respondent quidam in hac
+            se<lb ed="#P" n="97" break="no"/>cunda distinctione, vbi credunt se inducero 
+            <lb ed="#P" n="98"/>rationes necessarias ad probandum, quod in 
+            <lb ed="#P" n="99"/>Diuina essentia sit vera productio ad intra 
+            <lb ed="#P" n="100"/>&amp; quia ad veram productionem sequitur
+            rea<lb ed="#P" n="101" break="no"/>lis distinctio, si vnitas essentiae stat cum ve¬ 
+            <!--176.xml-->
+            <pb ed="#P" n="151"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ra productione ad intra, stabit etiam
+            neces<lb ed="#P" n="2" break="no"/>sario cum reali personarum distinctione: quod 
+            <lb ed="#P" n="3"/>gitur cum vnitate essentiae stet necessario 
+            <lb ed="#P" n="4"/>vera productio probant tribus rationibus 
+            <lb ed="#P" n="5"/>1 Illud, quod de sua ratione formali est 
+            <lb ed="#P" n="6"/>principium productiuum alicuius, in
+            quo<lb ed="#P" n="7" break="no"/>cunque ponatur absque imperfectione, erit prin 
+            <lb ed="#P" n="8"/>cipium productiuum illius, sed intellectus 
+            <lb ed="#P" n="9"/>habens obiectum intelligibile sibi praesens 
+            <lb ed="#P" n="10"/>ex sua ratione formali est principium produm 
+            <lb ed="#P" n="11"/>ctiuum naturae genitae, quae est verbum; ergo 
+            <lb ed="#P" n="12"/>in quocunque ponatur sine imperfectione 
+            <lb ed="#P" n="13"/>necessario producet verbum: cum ergo in 
+            <lb ed="#P" n="14"/>Deo sit intellectus habens obiectum
+            intelli<lb ed="#P" n="15" break="no"/>gibile sibi praesens, sine omni imperfectione, 
+            <lb ed="#P" n="16"/>sequitur quod ibi necessario sit productio 
+            <lb ed="#P" n="17"/>verbi; Minor est nota; Maior probatur, nam  
+            <lb ed="#P" n="18"/>quod in aliquo supposito sit principium pro 
+            <lb ed="#P" n="19"/>ductiuum, &amp; ad ipsum non sequatur
+            produ<lb ed="#P" n="20" break="no"/>ctio, hoc non potest esse nisi altero duorum 
+            <lb ed="#P" n="21"/>modorum, vel propter imperfectionem, quia 
+            <lb ed="#P" n="22"/>est ibi diminute, quod non habet locum in 
+            <lb ed="#P" n="23"/>Deo, vel propter totalem acceptionem, sicut  
+            <lb ed="#P" n="24"/>ponunt exemplum de potentia generandi in 
+            <lb ed="#P" n="25"/>Filio, qui non generat, licet habeat potentiam, 
+            <lb ed="#P" n="26"/>quia iam est accepta, &amp; quasi exhausta por 
+            <lb ed="#P" n="27"/>generationem Filij; cuius generatio sic est 
+            <lb ed="#P" n="28"/>adaequata huic principio, quod non se exten 
+            <lb ed="#P" n="29"/>dit ad generationem alteriusFilij, sed iste mo 
+            <lb ed="#P" n="30"/>dus non potest impedire maiorem proposito 
+            <lb ed="#P" n="31"/>nem, quia talis potentia est principium gene 
+            <lb ed="#P" n="32"/>randi in patre, quamuis non in filio, alioquin  
+            <lb ed="#P" n="33"/>non esset perfecte in Deo, &amp; quia potentia 
+            <lb ed="#P" n="34"/>generandi verbum in Deo est productio, por 
+            <lb ed="#P" n="35"/>hoc magis habetur propositum scilicet, quod 
+            <lb ed="#P" n="36"/>in Deo necessario sit productio verbi, &amp; per 
+            <lb ed="#P" n="37"/>consequens generatio, &amp; personarum
+            di<lb ed="#P" n="38" break="no"/>stinctio. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e897">
+            <lb ed="#P" n="39"/>Verum, quia aliquis posset dicere, quod  
+            <lb ed="#P" n="40"/>verbum productum non esset eiusdem
+            natu<lb ed="#P" n="41" break="no"/>rae cum persona producente, ideo hoc
+            pro<lb ed="#P" n="42" break="no"/>bant, nam (pro vt dicunt) verbum non esset 
+            <lb ed="#P" n="43"/>perfectum nisi esset productum de tota
+            scie<lb ed="#P" n="44" break="no"/>tia, quae est in memoria, &amp; illi esset
+            adaequa<lb ed="#P" n="45" break="no"/>tum, sed scientia Dei est infinita: ergo &amp; ver 
+            <lb ed="#P" n="46"/>bum productum de ea cui debet adaequari 
+            <lb ed="#P" n="47"/>erit infinitum; At nisi haberet naturam
+            diui<lb ed="#P" n="48" break="no"/>nam, non posset esse infinitum, quia omnis 
+            <lb ed="#P" n="49"/>alia natura finita est, ergo habebit naturam
+            di<lb ed="#P" n="50" break="no"/>uinam, &amp; per consequens erit eiusdem natu 
+            <lb ed="#P" n="51"/>rae cum psona producente: &amp; sic concludunt in 
+            <lb ed="#P" n="52"/>Deo necessario esse ponendam productionem 
+            <lb ed="#P" n="53"/>ad intra; &amp; per consequens distinctionem
+            per<lb ed="#P" n="54" break="no"/>sonarum cum vnitate essentiae.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e934">
+            <lb ed="#P" n="55"/>2 Quicquid dicit perfectionem
+            simplici<lb ed="#P" n="56" break="no"/>ter, non potest a Deo remoueri; sed productio 
+            <lb ed="#P" n="57"/>ad intra dicit perfectionem simpliciter, ergo 
+            <!--176.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 151 b -->
+            <lb ed="#P" n="58"/>est in Deo ponenda; Maior patet per D. An 
+            <lb ed="#P" n="59"/>selmum Prosol. ca 3. Minorem probant, quia 
+            <lb ed="#P" n="60"/>necessitas est conditio importans
+            perfectio<lb ed="#P" n="61" break="no"/>nem, cum per eam descedat ens in entia
+            per<lb ed="#P" n="62" break="no"/>fecta, sicut ex opposito per contingentiam
+            de<lb ed="#P" n="63" break="no"/>scedit in entia imperfecta, si ergo ponatur ne 
+            <lb ed="#P" n="64"/>cessitas, quae de se uon dicat aliquam
+            imper<lb ed="#P" n="65" break="no"/>fectionem, in eo importabit perfectionem
+            sim<lb ed="#P" n="66" break="no"/>pliciter; &amp; quia productio non dicit de se ali 
+            <lb ed="#P" n="67"/>quam imperfectionem, si ponatur in Deo
+            di<lb ed="#P" n="68" break="no"/>cet perfectionem simpliciter, oportet ergo si 
+            <lb ed="#P" n="69"/>cundum hoc ponere in eo aliquam
+            uecessa<lb ed="#P" n="70" break="no"/>riam productionem tanquam perfectionem 
+            <lb ed="#P" n="71"/>simpliciter, sed ista non potest esse productio 
+            <lb ed="#P" n="72"/>ad extra, quia est contingens, ergo erit ibi ne 
+            <lb ed="#P" n="73"/>cessario aliqua productio ad intra. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e984">
+            <lb ed="#P" n="74"/>3 Primae productio debet competere
+            pri<lb ed="#P" n="75" break="no"/>mo producenti scilicet Deo, sed prima produm 
+            <lb ed="#P" n="76"/>ctio est naturalis, &amp; necessaria, ergo debet con 
+            <lb ed="#P" n="77"/>petere primo producenti scilicet Deo, haec 
+            <lb ed="#P" n="78"/>autem non potest esse productio ad extra, 
+            <lb ed="#P" n="79"/>quia illa supponitur esse libera, &amp; contingens,  
+            <lb ed="#P" n="80"/>ergo erit productio ad intra. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1002">
+            <lb ed="#P" n="81"/>Iste modus dicendi mihi non placet
+            pro<lb ed="#P" n="82" break="no"/>ter duo; primo, quia illud quod est omnino 
+            <lb ed="#P" n="83"/>super nostram rationem, volunt probare
+            na<lb ed="#P" n="84" break="no"/>turaliter; constat autem quod inter omnes ve 
+            <lb ed="#P" n="85"/>ritates, quae cadunt sub Fide, veritas huius 
+            <lb ed="#P" n="86"/>conclusionis maxime est supra intellectum 
+            <lb ed="#P" n="87"/>nostrum, ideo nullo modo per rationem
+            na<lb ed="#P" n="88" break="no"/>turalem potest euidenter demonstrari. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1022">
+            <lb ed="#P" n="89"/>Secundo, quia dato quod praefata conclu 
+            <lb ed="#P" n="90"/>sio posset per rationes naturales efficaciter 
+            <lb ed="#P" n="91"/>demonstrari; rationes tamen adductae deficiunt 
+            <lb ed="#P" n="92"/>in probando, quia nulla earum concludit ne 
+            <lb ed="#P" n="93"/>cessario Nam prima ratio videtur peccare in 
+            <lb ed="#P" n="94"/>materia, &amp; forma, in materia quidem, quia 
+            <lb ed="#P" n="95"/>assumit falsum in minori propositione, cum 
+            <lb ed="#P" n="96"/>dicit, quod intellectus habens obiectum
+            in<lb ed="#P" n="97" break="no"/>telligibile praesens, est principium
+            producti<lb ed="#P" n="98" break="no"/>uum verbi, si enim haec esset vera, sequeretur 
+            <lb ed="#P" n="99"/>quod quandocunque obiectum esset praesens 
+            <lb ed="#P" n="100"/>intellectui necessario, &amp; naturaliter
+            produ<lb ed="#P" n="101" break="no"/>ceretur verbum, quod est falsum: Consequen 
+            <lb ed="#P" n="102"/>tia ab eis non potest negari, quia per eam
+            pro<lb ed="#P" n="103" break="no"/>bant quod in Deo sit necessaria, &amp; naturalis 
+            <lb ed="#P" n="104"/>productio verbi, Falsitatem probo dupliciter 
+            <lb ed="#P" n="105"/>primo, quia videmus, quod in nobis non ob 
+            <lb ed="#P" n="106"/>stante praesentia obiecti intellectui; adhuc ta 
+            <lb ed="#P" n="107"/>men requiritur actus voluntatis praeuius; d  
+            <lb ed="#P" n="108"/>cente <ref xml:id="gsX5tY-d1e215-Rd1e1067">P. Aug 9. de Trinit. cap. 12</ref>. partum mer 
+            <lb ed="#P" n="109"/>tis antecedere appetitum, quod non valeret 
+            <lb ed="#P" n="110"/>si productio verbi esset naturalis, &amp;
+            necessa<lb ed="#P" n="111" break="no"/>ria ex intellectu, &amp; ex praesentia obiecti, vt 
+            <lb ed="#P" n="112"/>ipsi dicunt Secundo, quia non semper ex
+            in<lb ed="#P" n="113" break="no"/>tellectu, &amp; praesentia obiecti producitur
+            ver<lb ed="#P" n="114" break="no"/>bum, immo contingit saepius quod produca¬ 
+            <!--177.xml-->
+            <pb ed="#P" n="152"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tur cogitatio in formis quae tamen non est 
+            <lb ed="#P" n="2"/>verbum teste <ref xml:id="gsX5tY-d1e215-Rd1e1094">P. Aug. 15. de Trinitate</ref> dicent, 
+            <lb ed="#P" n="3"/>tormatam cogitationem de ea re quam scimus, 
+            <lb ed="#P" n="4"/>verbum esse: si tamen intellectus cum obiecto 
+            <lb ed="#P" n="5"/>praesente esset principium productiuum ver 
+            <lb ed="#P" n="6"/>bi (vt isti dicunt) tunc supposita
+            praesentiali<lb ed="#P" n="7" break="no"/>tate obiecti, semper &amp; necessario producere 
+            <lb ed="#P" n="8"/>tur verbum, quod est falsum. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1111">
+            <lb ed="#P" n="9"/>Vlterius dico, quod haec ratio peccat in 
+            <lb ed="#P" n="10"/>forma, &amp; petit principium, nam cum dicunt 
+            <lb ed="#P" n="11"/>quod intellectus habens obiectum
+            intelligi<lb ed="#P" n="12" break="no"/>bile sibi praesens, est principium productiuum 
+            <lb ed="#P" n="13"/>verbi, haec proposito potest duobus modis 
+            <lb ed="#P" n="14"/>intelligi, vno modo, quod praesente obiecto 
+            <lb ed="#P" n="15"/>sit principium productiuum verbi, supposita 
+            <lb ed="#P" n="16"/>indigentia ex parte intelligentis, sicut est in 
+            <lb ed="#P" n="17"/>nobis, qui ad perfecte cognoscendum
+            obie<lb ed="#P" n="18" break="no"/>ctum indigemus verbo producto, &amp; sic
+            acci<lb ed="#P" n="19" break="no"/>piendo propositionem quamuis possit esse  
+            <lb ed="#P" n="20"/>nota naturaliter, non tamen valet eis ad pro 
+            <lb ed="#P" n="21"/>positum, quia in Deo non est productio
+            ver<lb ed="#P" n="22" break="no"/>bi isto modo: Alio modo potest intelligi, quod 
+            <lb ed="#P" n="23"/>intellectus praesente obiecto sit principium 
+            <lb ed="#P" n="24"/>productiuum verbi, remota oni indigentia 
+            <lb ed="#P" n="25"/>&amp; supposita plena sufficientia ex parte intel 
+            <lb ed="#P" n="26"/>ligentis, &amp; sic proposito habet veritatem in 
+            <lb ed="#P" n="27"/>solo Deo, non est tamen nota sine lumine Fi 
+            <lb ed="#P" n="28"/>dei; velle ergo probare, in Deo esse veram pro 
+            <lb ed="#P" n="29"/>ductionem ad intra hoc pacto, est probare 
+            <lb ed="#P" n="30"/>idem per idem, &amp; ignotum per aeque ignotum. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1162">
+            <lb ed="#P" n="31"/>Similiter secunda ratio perit principium; 
+            <lb ed="#P" n="32"/>nam cum dicunt in minori propositone, quod 
+            <lb ed="#P" n="33"/>productio ad intra dicit perfectionem simpli 
+            <lb ed="#P" n="34"/>citer, quamuis haec proposito in se sit
+            veris<lb ed="#P" n="35" break="no"/>sima, non est tamen nota naturaliter; quia ex 
+            <lb ed="#P" n="36"/>tra diuinam naturam non inuenitur
+            produ<lb ed="#P" n="37" break="no"/>ctio intrinseca in aliqua natura nobis nota, 
+            <lb ed="#P" n="38"/>ex qua possimus deducere productionem ad 
+            <lb ed="#P" n="39"/>intra esse perfectionem simpliciter, &amp; per con 
+            <lb ed="#P" n="40"/>sequens ponendam esse in Deo; velle ergo 
+            <lb ed="#P" n="41"/>probare per istam propositionem, quod in 
+            <lb ed="#P" n="42"/>Deo sit productio ad intra, est probare, hoc 
+            <lb ed="#P" n="43"/>per eandem productionem, &amp; sic idem per 
+            <lb ed="#P" n="44"/>idem. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1195">
+            <lb ed="#P" n="45"/>In probatione etiam quam adducunt pr hac 
+            <lb ed="#P" n="46"/>e <!-- erroneous line in cords file -->
+            <lb ed="#P" n="47"/>propositone est similiter peritio principij 
+            <lb ed="#P" n="48"/>Nam cum dicunt, quod necessitas est condi 
+            <lb ed="#P" n="49"/>tio importans perfectionem, concedatur, quam 
+            <lb ed="#P" n="50"/>uis posset negari; adhuc tamen non habetur 
+            <lb ed="#P" n="51"/>intentum, cum vero vlterius addunt produm 
+            <lb ed="#P" n="52"/>ctionem dicere ex se aliquam perfectionem: 
+            <lb ed="#P" n="53"/>dico, quod duplex est productio, vna cuius 
+            <lb ed="#P" n="54"/>notitia habetur lumine naturali, &amp; de ista est 
+            <lb ed="#P" n="55"/>falsum simpliciter, quod non dicat
+            imperfe<lb ed="#P" n="56" break="no"/>ctionem saltem ex parte producti quia
+            sup<lb ed="#P" n="57" break="no"/>ponit ipsum esse in potentia, productio enim 
+            <lb ed="#P" n="58"/>prout nobis est nota naturaliter, semper in 
+            <!--177.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 152 b -->
+            <lb ed="#P" n="59"/>producto importat exitum de potentia ad
+            a<lb ed="#P" n="60" break="no"/>ctum. Alia est productio quae nullum impor 
+            <lb ed="#P" n="61"/>tat exitum de potentia ad actum, nec ex pat 
+            <lb ed="#P" n="62"/>te producentis, nec ex parte producti, &amp; de 
+            <lb ed="#P" n="63"/>ista bene verum est, quod non dicit aliquam 
+            <lb ed="#P" n="64"/>imperfectionem: sed quod sit aliqua talis in 
+            <lb ed="#P" n="65"/>rerum natura, hoc non est notum lumine na 
+            <lb ed="#P" n="66"/>turali, immo naturaliter videtur contiarium; 
+            <lb ed="#P" n="67"/>est vtique notum lumine Fidei in cuius
+            veri<lb ed="#P" n="68" break="no"/>tate supponimus esse talem productionem i 
+            <lb ed="#P" n="69"/>natura diuina solum. Si quis ergo ex
+            pro<lb ed="#P" n="70" break="no"/>ductione quae non dicit imperfectionem
+            ve<lb ed="#P" n="71" break="no"/>lit probare productionem in Deo esse,
+            pro<lb ed="#P" n="72" break="no"/>babit illam productionem per eandem
+            pro<lb ed="#P" n="73" break="no"/>ductionem, &amp; sic peret principium 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1269">
+            <lb ed="#P" n="74"/>Nec tertia ratio concludit, nam concessa 
+            <lb ed="#P" n="75"/>maiore, dico ad minorem, quod quamuis 
+            <lb ed="#P" n="76"/>pioposito sit vera, non potest tamen euidem 
+            <lb ed="#P" n="77"/>ter probari, quod productio ad extra sit
+            li<lb ed="#P" n="78" break="no"/>bera, &amp; contingens, immo magis contrarium 
+            <lb ed="#P" n="79"/>apparet scilicet, quod sit necessaria, ex ista 
+            <lb ed="#P" n="80"/>ergo propositone non habetu euidens
+            pro<lb ed="#P" n="81" break="no"/>batio, &amp; ideo proceditur per ignota. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1289">
+            <lb ed="#P" n="82"/>Videtur ergo mihi aliter esse dicendum; 
+            <lb ed="#P" n="83"/>Pro cuius rei explicatione primo ostendam  
+            <lb ed="#P" n="84"/>huiusmodi compossibilitatem distinctionis di 
+            <lb ed="#P" n="85"/>uinarum personarum cum vnitate essentiae, 
+            <lb ed="#P" n="86"/>per se directe non posse efficaciter probari ra 
+            <lb ed="#P" n="87"/>tione naturali Secundo compossibilitatem 
+            <lb ed="#P" n="88"/>vnitatis cum Trinitate posse sustineri, &amp; de 
+            <lb ed="#P" n="89"/>fendi contra quascunque rationes. Tertio
+            po<lb ed="#P" n="90" break="no"/>se aliquo modo Trinitatem persuaderi ratio 
+            <lb ed="#P" n="91"/>nibus, &amp; praecipue Riccardi in suo libro de 
+            <lb ed="#P" n="92"/>Trinitate 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1315">
+            <lb ed="#P" n="93"/>Quantum ad primum dico, quod si
+            hu<lb ed="#P" n="94" break="no"/>iusmodi compossibilitas posset probari per 
+            <lb ed="#P" n="95"/>aliquam rationem naturalem, illa ratio, vel 
+            <lb ed="#P" n="96"/>esset sumpta ex ipso Deo, prout habet
+            habi<lb ed="#P" n="97" break="no"/>tudinem ad creaturas, vel ex ipsis creaturis,  
+            <lb ed="#P" n="98"/>secundum quod habent habitudinem ad Deum; 
+            <lb ed="#P" n="99"/>sed neutro horum modorum potest inueniri 
+            <lb ed="#P" n="100"/>aliqua ratio; ergo &amp;c. Maior patet per hoc, 
+            <lb ed="#P" n="101"/>quia omnes veritates, quas de Deo
+            efficaci<lb ed="#P" n="102" break="no"/>ter probamus, vel probamus ex habitudine 
+            <lb ed="#P" n="103"/>Dei ad creaturas, vel e conuerso, vtrioque
+            n<lb ed="#P" n="104" break="no"/>modo Deus nobis innotescit lumine natura 
+            <lb ed="#P" n="105"/>li, si autem alio modo innotescit, hoc etiam  
+            <lb ed="#P" n="106"/>est alio lumine supernaturali: nunc probo 
+            <lb ed="#P" n="107"/>minorem quantum ad ambas partes, &amp;
+            pri<lb ed="#P" n="108" break="no"/>mo ex habitudine Dei ad creaturas, nam onis 
+            <lb ed="#P" n="109"/>talis habitndo, vel est in ratione efficientis, 
+            <lb ed="#P" n="110"/>vel in ratione finis, vel in ratione formae, 
+            <lb ed="#P" n="111"/>sed omnes praefatae habitudines ducunt nos 
+            <lb ed="#P" n="112"/>in cognitionem Dei, prout est vnus in essen 
+            <lb ed="#P" n="113"/>tia, &amp; non trinus in personis, quia etsi sint di 
+            <lb ed="#P" n="114"/>stinctae personae, omnes tamen secundum 
+            <lb ed="#P" n="115"/>eandem habitudinem efficientis, vel finis re 
+            <!--178.xml-->
+            <pb ed="#P" n="153"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>feruntur ad creaturas, teste <ref xml:id="gsX5tY-d1e215-Rd1e1375">P. Augustino; 
+              <lb ed="#P" n="2"/>de Trin. cap. 20</ref>. vbi dicit, Patrem, Filium 
+            <lb ed="#P" n="3"/>&amp; Spiritum Sanctum relatiue ad creaturam 
+            <lb ed="#P" n="4"/>dici vnum Creatorem, &amp; vnum Dominnm, 
+            <lb ed="#P" n="5"/>&amp; hoc est, quia omnes tres personae habeni 
+            <lb ed="#P" n="6"/>vnam virtutem creatiuam, &amp; sicut non
+            plu<lb ed="#P" n="7" break="no"/>rificatur ibi habitudo causae efficientis
+            pro<lb ed="#P" n="8" break="no"/>pter vnam virtutem productiuam, ita pari ra 
+            <lb ed="#P" n="9"/>tione non debet plurificari habitudo causae 
+            <lb ed="#P" n="10"/>finalis propter vnam bonitatem reductiuam 
+            <lb ed="#P" n="11"/>in se omnia, nec habitudo causae formalis, p 
+            <lb ed="#P" n="12"/>pter vnam actualitatem representatiuam om- 
+            <lb ed="#P" n="13"/>nium, ex nulla ergo habitudine potest sumi 
+            <lb ed="#P" n="14"/>efficax ratio, qua probetur realis distinctio 
+            <lb ed="#P" n="15"/>personarum, &amp; compossibilitas istorum cum 
+            <lb ed="#P" n="16"/>vnitate essentiae; &amp; sic patet minor quantum 
+            <lb ed="#P" n="17"/>ad vnam partem. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1414">
+            <lb ed="#P" n="18"/>Probo eandem, quo ad aliam partem, scili 
+            <lb ed="#P" n="19"/>cet ex habitudine creaturae ad Deum. Nam  
+            <lb ed="#P" n="20"/>omnis habitudo creaturae ad Deum vel est 
+            <lb ed="#P" n="21"/>ex eo quod effectus Dei est, vel ex eo quod 
+            <lb ed="#P" n="22"/>similitudo: non potest autem sumi aliqua ra 
+            <lb ed="#P" n="23"/>tio ad propositum ex habitudine, quam cres 
+            <lb ed="#P" n="24"/>turae habent ad Deum primo modo, quia qua 
+            <lb ed="#P" n="25"/>tenus effectus Dei sunt, vnam, &amp; eandem ha 
+            <lb ed="#P" n="26"/>bitudinem habent ad omnes tres personas, 
+            <lb ed="#P" n="27"/>nam si tres personae habent habitudinem
+            v<lb ed="#P" n="28" break="no"/>nius principij, &amp; causae ad creaturam,
+            opor<lb ed="#P" n="29" break="no"/>tet etiam quod creatura habeat habitudinem 
+            <lb ed="#P" n="30"/>ad illas in ratione vnius effectus, &amp; vnius 
+            <lb ed="#P" n="31"/>principiati. Ex neutra ergo parte potest
+            su<lb ed="#P" n="32" break="no"/>mi ratio euidens distinctionis personarum 
+            <lb ed="#P" n="33"/>&amp; per consequens, nec compossibilitatis cu 
+            <lb ed="#P" n="34"/>vnitate essentiae, nec etiam sumi potest ex ha 
+            <lb ed="#P" n="35"/>bitudine creaturae ad Deum in quantum est 
+            <lb ed="#P" n="36"/>fimilitudo Dei, quia haec similitudo non
+            at<lb ed="#P" n="37" break="no"/>tenditur nisi ratione imaginis, vel vertigij, 
+            <lb ed="#P" n="38"/>neutra autem similitudo valet ad probandum 
+            <lb ed="#P" n="39"/>propositum, quia nec in vestigio, nec in ima 
+            <lb ed="#P" n="40"/>gine inuenimus, quod aliqua realiter distin 
+            <lb ed="#P" n="41"/>cta possint habere eandem essentiam, &amp; haec 
+            <lb ed="#P" n="42"/>de primo, 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1472">
+            <lb ed="#P" n="43"/>SECVND O ostendo,
+            compossibilita<lb ed="#P" n="44" break="no"/>Si <!-- erroneous line in coords file -->
+            <lb ed="#P" n="45"/>tem horum duorum scilicet vnitatis, &amp; Tri 
+            <lb ed="#P" n="46"/>nitatis posse defendi contra quascunque ratio 
+            <lb ed="#P" n="47"/>nes in contrarium adductas, quod apparebit, 
+            <lb ed="#P" n="48"/>si reuocabimus ad memoriam ea, quae sunt 
+            <lb ed="#P" n="49"/>dicta in primo art. huius quaest ideo enim in 
+            <lb ed="#P" n="50"/>ereaturis suppositum non potest plurificari. 
+            <lb ed="#P" n="51"/>non plurificata natura, quia nullum creatum 
+            <lb ed="#P" n="52"/>est necesse esse; idcirco oportet, eum
+            acqui<lb ed="#P" n="53" break="no"/>rere esse in suo supposito, &amp; per consequens 
+            <lb ed="#P" n="54"/>simul produci in esse cum eo, &amp; quia eorum, 
+            <lb ed="#P" n="55"/>quae sunt simul, si producantur in esse, vnum 
+            <lb ed="#P" n="56"/>non potest plurificari sine altero, ergo impos 
+            <lb ed="#P" n="57"/>sibile erit, in creaturis plurificare supposita 
+            <lb ed="#P" n="58"/>non plurificata natura, vnde, si per impos¬ 
+            <!--178.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 153 b -->
+            <lb ed="#P" n="59"/>sibile poneretur aliqua natura creata necesse 
+            <lb ed="#P" n="60"/>esse, non appareret propter quid esset impos 
+            <lb ed="#P" n="61"/>sibilis plurificatio suppositi sine plurificatio,  
+            <lb ed="#P" n="62"/>ne nature, quia tunc natura non acquireret 
+            <lb ed="#P" n="63"/>esse in suppositis, nec produceretur in esse 
+            <lb ed="#P" n="64"/>cum eis, sicut forte imaginabatur Plato, &amp; 
+            <lb ed="#P" n="65"/>sicut exemplo possemus declarare, multi
+            n<lb ed="#P" n="66" break="no"/>credunt, fuisse de intentione Com
+            intelle<lb ed="#P" n="67" break="no"/>ctum esse formam hominis, non obstante 
+            <lb ed="#P" n="68"/>ipsum esse vnum in omnibus, quod si ita
+            es<lb ed="#P" n="69" break="no"/>set, cogerentur isti saluare duo, quae
+            viden<lb ed="#P" n="70" break="no"/>tur omnino incompossibilia, puta intellectum 
+            <lb ed="#P" n="71"/>esse formam dantem esse cuilibet homini, &amp;  
+            <lb ed="#P" n="72"/>tamen non plurificari acplurificatiouem ho 
+            <lb ed="#P" n="73"/>miuum. Si ergo queratur ab istis quomodo 
+            <lb ed="#P" n="74"/>hoc est possibile, non video quod possint as 
+            <lb ed="#P" n="75"/>signare meliorem causam, quam illam, quae 
+            <lb ed="#P" n="76"/>dicta est, scilicet quia intellectus est quoddam 
+            <lb ed="#P" n="77"/>necesse esse ex se; &amp; ideo non aequirit esse in 
+            <lb ed="#P" n="78"/>suppositis hominum; idcirco non potest con 
+            <lb ed="#P" n="79"/>produci, nec cum eis plurificari: ergo ratio 
+            <lb ed="#P" n="80"/>nes, quae probarent naturam plurificari, plu 
+            <lb ed="#P" n="81"/>rificatis suppositis, deberent inniti huic
+            fun<lb ed="#P" n="82" break="no"/>damento, quod natura acquirit esse in
+            sup<lb ed="#P" n="83" break="no"/>posito, &amp; simul cum eo in esse producitur,  
+            <lb ed="#P" n="84"/>ac plurificatur : Hoc autem fundamentum 
+            <lb ed="#P" n="85"/>non habet locum in diuina natura, quia cum 
+            <lb ed="#P" n="86"/>sit necesse esse, non acquirit esse in supposito 
+            <lb ed="#P" n="87"/>&amp; ideo plurificatis suppositis diuinis non plu 
+            <lb ed="#P" n="88"/>rificatur ipsa, omnes ergo rationes contrariae 
+            <lb ed="#P" n="89"/>(quia inniterentur huic fundamento) non at 
+            <lb ed="#P" n="90"/>tingerent ad improbandam hanc Fidei
+            no<lb ed="#P" n="91" break="no"/>strae veritatem, &amp; sic facile poterunt solui. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1589">
+            <lb ed="#P" n="92"/>Occurrunt tamen tres dubitationes
+            con<lb ed="#P" n="93" break="no"/>tra huiusmodi dicta; Prima est, quia si omnes 
+            <lb ed="#P" n="94"/>rationes, quae fiunt contra hanc veritatem  
+            <lb ed="#P" n="95"/>possint tolli, ergo cum solutio dubitationum 
+            <lb ed="#P" n="96"/>sit manifestatio veritatis sequitur, praefatam  
+            <lb ed="#P" n="97"/>veritatem posse manifestari, &amp; demonstrari, 
+            <lb ed="#P" n="98"/>cuius contratium superius fuit dictum, 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1607">
+            <lb ed="#P" n="99"/>Ad hoc dico, quod sicut praefatae rationes 
+            <lb ed="#P" n="100"/>non attingunt ad huiusmodi veritatem
+            im<lb ed="#P" n="101" break="no"/>probandam: ita nec earum solutiones proce 
+            <lb ed="#P" n="102"/>dunt ad eam manifestandam, &amp; demonstram 
+            <lb ed="#P" n="103"/>dam: &amp; sic ratio non procedit. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1620">
+            <lb ed="#P" n="104"/>Secundo dubitatur, nam dictum est, quod 
+            <lb ed="#P" n="105"/>natura Diuina est necesse esse, ideo non
+            ac<lb ed="#P" n="106" break="no"/>quirit esse in suppositis; nec cum eis produm. 
+            <lb ed="#P" n="107"/>citur: si haec ratio esset vera, tunc nullum di 
+            <lb ed="#P" n="108"/>uinum suppositum posset produci, quia
+            quod<lb ed="#P" n="109" break="no"/>libet est necesse esse, cum dictum sit superius; 
+            <lb ed="#P" n="110"/>suppositum, &amp; naturam diuinam esse
+            eius<lb ed="#P" n="111" break="no"/>dem necessitatis. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1640">
+            <lb ed="#P" n="112"/>Ad hoc dico, quod ei, quod est necesse es 
+            <lb ed="#P" n="113"/>se repugnat productio deducens ipsum de 
+            <lb ed="#P" n="114"/>non esse ad esse, non tamen repugnat illi pro 
+            <lb ed="#P" n="115"/>ductio, quae est simplex communicatio, qua 
+            <!--179.xml-->
+            <pb ed="#P" n="154"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>lis est in diuinis.  
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1660">
+            <lb ed="#P" n="2"/>Sed contra diceret aliquis, quod pari
+            ra<lb ed="#P" n="3" break="no"/>tione natura posset produci hac simplici ema 
+            <lb ed="#P" n="4"/>natione, cum non repugnet illi per hoc, quod 
+            <lb ed="#P" n="5"/>est necesse esse 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1672">
+            <lb ed="#P" n="6"/>Respondeo, non esse simile, quia
+            suppo<lb ed="#P" n="7" break="no"/>situm est illud, cui fit communicatio,
+            natu<lb ed="#P" n="8" break="no"/>ra vero est illud, quod communicatur, in 
+            <lb ed="#P" n="9"/>simplici autem communicatione, qualis est 
+            <lb ed="#P" n="10"/>illa, oportet esse aliquid productum, puta 
+            <lb ed="#P" n="11"/>suppositum, &amp; aliquid non productum
+            pu<lb ed="#P" n="12" break="no"/>ta natura, nam si vtrumque esset productum, 
+            <lb ed="#P" n="13"/>vtrumque etiam acciperet esse, &amp; per
+            conse<lb ed="#P" n="14" break="no"/>quens transiret de, non esse ad esse, quod est 
+            <lb ed="#P" n="15"/>absurdum imaginam in diuina natura: pro 
+            <lb ed="#P" n="16"/>tanto enim saluamus, quod suppositum non 
+            <lb ed="#P" n="17"/>transeat de non esse ad esse, quia accipit esse 
+            <lb ed="#P" n="18"/>diuinae nature, quod quidem esse non est. pr 
+            <lb ed="#P" n="19"/>ductum, quamuis sit per veram communica 
+            <lb ed="#P" n="20"/>tionem communicatum.  
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1707">
+            <lb ed="#P" n="21"/>Tertio dubitatur, quia videtur
+            impossibi<lb ed="#P" n="22" break="no"/>le, diuinum suppositum esse productum, &amp; 
+            <lb ed="#P" n="23"/>naturam non produci, nisi ponamus naturam, 
+            <lb ed="#P" n="24"/>&amp; suppositum distingui realiter in Deo, quod 
+            <lb ed="#P" n="25"/>non est dicendum, quia tunc faceret compo 
+            <lb ed="#P" n="26"/>sitionem. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1723">
+            <lb ed="#P" n="27"/>Ad hoc dico, dubitationem hanc directe 
+            <lb ed="#P" n="28"/>uaerere, an distinctio personarum stet cum 
+            <lb ed="#P" n="29"/>simplicitate Diuina, quae difficultas habebit 
+            <lb ed="#P" n="30"/>locum inferius, &amp; ideo nihil dico ad praesens,  
+            <lb ed="#P" n="31"/>sufficit enim pro nunc scire, distinctionem, 
+            <lb ed="#P" n="32"/>&amp; plurificationem diuinarum personarum 
+            <lb ed="#P" n="33"/>stare cum vnitate essentiae, &amp; quod nulla ra 
+            <lb ed="#P" n="34"/>tione, quae non possit solui, haec veritas
+            va<lb ed="#P" n="35" break="no"/>let impugnari: &amp; sic patet secundum
+            pro<lb ed="#P" n="36" break="no"/>positum 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1747">
+            <lb ed="#P" n="37"/>RESTAT nuc tertio psuadere hanc
+            ve<lb ed="#P" n="38" break="no"/>ritatem quibusdam rationibus Riccardi in 
+            <lb ed="#P" n="39"/>lib. de Trinit. quarum prima sumitur ex ple 
+            <lb ed="#P" n="40"/>nitudine Diuinae bonitatis. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1758">
+            <lb ed="#P" n="41"/>Amor, cui non potest deesse summa 
+            <lb ed="#P" n="42"/>charitas, requirit distinctas personas; In Deo 
+            <lb ed="#P" n="43"/>est huiusmodi amor; ergo &amp;c. &amp; quia non pos 
+            <lb ed="#P" n="44"/>sunt esse plures Dij, sequitur, quod huiusmo 
+            <lb ed="#P" n="45"/>di plures personae habeant vnam diuinam na 
+            <lb ed="#P" n="46"/>turam; Minor est nota: Maiorem probat Ric 
+            <lb ed="#P" n="47"/>cardus dicens, quod nullus amans se ipsum 
+            <lb ed="#P" n="48"/>tantum, dicitur proprie habere charitatem, 
+            <lb ed="#P" n="49"/>oportet enim, amorem in alterum tendere, 
+            <lb ed="#P" n="50"/>vt charitas esse dicatur: Nec valet dicere, quod si 
+            <lb ed="#P" n="51"/>tantum vna persona in diuinis esset, haberet 
+            <lb ed="#P" n="52"/>summam charitatem ad ipsam creaturam : 
+            <lb ed="#P" n="53"/>quia vt inquit Riccardus ibidem non posset 
+            <lb ed="#P" n="54"/>habere summam charitatem ad creaturam, 
+            <lb ed="#P" n="55"/>esset enim amor inordinatus, si summe illud 
+            <lb ed="#P" n="56"/>diligeret, quod summe diligendum non est: 
+            <lb ed="#P" n="57"/>in illa autem simplici bonitate non potest, nec 
+            <!--179.xml-->
+            <cb ed="#P" n="b"/> 
+            <!-- 154 b -->
+            <lb ed="#P" n="58"/>debeat poni charitas inordinata. Hanc
+            ratio<lb ed="#P" n="59" break="no"/>nem tangit <ref xml:id="gsX5tY-d1e215-Rd1e1807">2. lib de Trin. cap. 2.</ref> 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1811">
+            <lb ed="#P" n="60"/>2 Secunda ratio sumpta ex plenitudine 
+            <lb ed="#P" n="61"/>diuinae foelicitatis, sic formatur Amot qui est 
+            <lb ed="#P" n="62"/>summe iucundus non potest haberi sine di 
+            <lb ed="#P" n="63"/>stinctione personali, sed in Deo est amor sum 
+            <lb ed="#P" n="64"/>me iucundus, ergo in Deo sunt distinctae per 
+            <lb ed="#P" n="65"/>sonae; Minor est nota, &amp; Maior probatur a 
+            <lb ed="#P" n="66"/>Niccardo dicente, quod amor non potest
+            es<lb ed="#P" n="67" break="no"/>se summe iueundus, nisi sit mutuus,
+            intamo<lb ed="#P" n="68" break="no"/>re autem mutuo oportet esse qui amorem 
+            <lb ed="#P" n="69"/>impendat, &amp; qui amorem rependat, vbi autem 
+            <lb ed="#P" n="70"/>vnus, &amp; alter esse conuincitur, ibi vera plura 
+            <lb ed="#P" n="71"/>litas deprehenditur.
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1841">
+            <lb ed="#P" n="72"/>Tertia ratio desumpta a ratione sumae be 
+            <lb ed="#P" n="73"/>neuolentiae sic formatur; Si in Deo non essent 
+            <lb ed="#P" n="74"/>distinctae personae sequeretur, in eo non esse 
+            <lb ed="#P" n="75"/>summam beneuolentiam, consequens est
+            fal<lb ed="#P" n="76" break="no"/>sum ergo &amp;c. Falsitas patet, quia in eo debet 
+            <lb ed="#P" n="77"/>poni quicquid dicit perfectionem simpliciter; 
+            <lb ed="#P" n="78"/>Consequentia probatur, nam si vna tantum 
+            <lb ed="#P" n="79"/>esset in diuinis persona, non haberet cui
+            con<lb ed="#P" n="80" break="no"/>municaret suae pulchritudinis abundantiam,  
+            <lb ed="#P" n="81"/>&amp; tuc quaero vnde hoc proueniat, vel enim 
+            <lb ed="#P" n="82"/>est, quia communitatem habere non potuit; 
+            <lb ed="#P" n="83"/>vel quia habere noluit, primum dici nequit  
+            <lb ed="#P" n="84"/>cum sit omnipotens, ideo per impotentiam ex 
+            <lb ed="#P" n="85"/>cusari non valet; num quid igitur non erst 
+            <lb ed="#P" n="86"/>ex solo defectu beneuolentiae 1 inquit Rico. 
+            <lb ed="#P" n="87"/>Quasi dicat quod sic; ldcirco in Deo esset
+            defe<lb ed="#P" n="88" break="no"/>ctus beneuolentiae, quod est absurdum, &amp; haec 
+            <lb ed="#P" n="89"/>de praesenti quaestione.
+          </p>
+        </div>
+        <div xml:id="gsX5tY-d1e215-Dd1e1884">
+          <head xml:id="gsX5tY-d1e215-Hd1e1886">Ad rationes principales</head>
+          <p xml:id="gsX5tY-d1e215-d1e1889">
+            <lb ed="#P" n="90"/>AD RATIONES PRINCIPALES. 
+            <lb ed="#P" n="91"/>AD Primam nego maiorem, &amp; cum
+            pro<lb ed="#P" n="92" break="no"/>batur, quia natura, &amp; suppositum, vel 
+            <lb ed="#P" n="93"/>sunt idem, vel se mutuo consequuntur; dico 
+            <lb ed="#P" n="94"/>hic peti quomodo natura differat a persona 
+            <lb ed="#P" n="95"/>in Deo, quod habebit locum inferius, quaerit 
+            <lb ed="#P" n="96"/>etiam quomodo suppositum, &amp; natura diffe 
+            <lb ed="#P" n="97"/>rant in creaturis, de quo agam in tertio. In 
+            <lb ed="#P" n="98"/>praesentitamen dico, quod licet natura, &amp;  
+            <lb ed="#P" n="99"/>suppositum in Deo sint idem realiter, differunt 
+            <lb ed="#P" n="100"/>tamen secundum rationem. vel possumus di 
+            <lb ed="#P" n="101"/>cere, quod non sunt idem per omnem
+            mo<lb ed="#P" n="102" break="no"/>dum, sed haec maiore indigerent
+            declaratio<lb ed="#P" n="103" break="no"/>ne, quod non spectat ad praesens 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1922">
+            <lb ed="#P" n="104"/>De supposito vero, &amp; natura in creaturis 
+            <lb ed="#P" n="105"/>dico, quod si se mutuo consequuntur,
+            huius<lb ed="#P" n="106" break="no"/>modi consecutio non est eodem modo ex par 
+            <lb ed="#P" n="107"/>te vtriusque, nam quod natura consequatur 
+            <lb ed="#P" n="108"/>suppositum in plurificatione, hoc est per ses 
+            <lb ed="#P" n="109"/>&amp; maxime quando plurificatio fit secundum 
+            <lb ed="#P" n="110"/>eandem speciem, quia natura non
+            plurifica<lb ed="#P" n="111" break="no"/>tur nisi ad plurificationem suppositi per se; 
+            <lb ed="#P" n="112"/>sed quod suppositum non plurificetur nisi ad 
+            <!--180.xml-->
+            <pb ed="#P" n="155"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>plurificationem naturae, hoc non est per se; 
+            <lb ed="#P" n="2"/>tunc enim plurificaretur ad plurificationem 
+            <lb ed="#P" n="3"/>ipsius, erit ergo haec plurificatio ex parte sup 
+            <lb ed="#P" n="4"/>posit per accidens, nam suppositum quantum 
+            <lb ed="#P" n="5"/>est de se potest produci non producta
+            natu<lb ed="#P" n="6" break="no"/>ra, &amp; sic plurisicari, ea non plurisicata, sed  
+            <lb ed="#P" n="7"/>quod in creaturis natura per se plurificetur 
+            <lb ed="#P" n="8"/>plurisicatis suppositis, hoc prouenit ex
+            defe<lb ed="#P" n="9" break="no"/>ctu naturae creatae, quod non est necesse esse, &amp;  
+            <lb ed="#P" n="10"/>ideo acquirit esse in supposito, sicque
+            neces<lb ed="#P" n="11" break="no"/>sario producitur ad productionem ipsius. 
+            <lb ed="#P" n="12"/>quod non potest dici de natura diuina, vt 
+            <lb ed="#P" n="13"/>visum est. 
+          </p>
+          <p xml:id="gsX5tY-d1e215-d1e1979">
+            <lb ed="#P" n="14"/>Ad secundam dico non esse inconueniens 
+            <lb ed="#P" n="15"/>vnam rem absoluta esse plures res relatiue, 
+            <lb ed="#P" n="16"/>&amp; in hoc non implicatur contradictio, cum 
+            <lb ed="#P" n="17"/>vnitas, &amp; pluralitas non attendantur
+            secun<lb ed="#P" n="18" break="no"/>dum idem, nec vlterius sequitur ibi esse com 
+            <lb ed="#P" n="19"/>positonem, quia istae tres res relatiue sic differunt 
+            <lb ed="#P" n="20"/>inter se reatiter, quod tamen cum essentia 
+            <lb ed="#P" n="21"/>identificantur, vt patebit inferius, &amp; haec pro 
+            <lb ed="#P" n="22"/>secunda ditinctione sufficiant.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

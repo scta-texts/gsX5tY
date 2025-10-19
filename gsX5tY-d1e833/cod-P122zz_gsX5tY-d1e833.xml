@@ -1,866 +1,866 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#GerardusDeSiena">Gerard of Siena</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-10">October 10, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-10" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#P" n="510"/>
-            <cb ed="#P" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="gsX5tY-d1e833"> <!-- l1d29q1 -->
-            <head xml:id="gsX5tY-d1e833-Hd1e109">Quaestio 1</head>
-            <head xml:id="gsX5tY-d1e833-Hd1e112" type="question-title">Utrum principium dicatur secundum unam rationem in Deo, et
-      creaturis</head>
-            <p xml:id="gsX5tY-d1e833-d1e115">
-               <lb ed="#P" n="31"/>DISTINCTIONIS XXIX. 
-      <lb ed="#P" n="32"/>QVAESTIO VNICA 
-      <lb ed="#P" n="33"/>Vtrum hoc nomen principium dicatur secu 
-      <lb ed="#P" n="34"/>dum vnam rationem de principio
-      di<lb ed="#P" n="35" break="no"/>uinarum personarum, &amp; de prin 
-      <lb ed="#P" n="36"/>cipio creaturarum.
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e131">
-               <lb ed="#P" n="37"/>ARGVITVR PRO PARTE 
-      <lb ed="#P" n="38"/>affirmatiua. 
-      <lb ed="#P" n="39"/>TVNC aliquod nomen dicitur de plu 
-      <lb ed="#P" n="40"/>ribus secundum vnam rationem, quam 
-      <lb ed="#P" n="41"/>do illa plura conueniunt in vna ratione
-      es<lb ed="#P" n="42" break="no"/>sendi secundum illud nomen, sed nomen 
-      <lb ed="#P" n="43"/>principij diuinarum personarum, &amp;
-      princi<lb ed="#P" n="44" break="no"/>pij creaturarum conueniunt in vna ratione 
-      <lb ed="#P" n="45"/>essendi, quae est dare esse principiato, ergo 
-      <lb ed="#P" n="46"/>&amp;c. Maior est nota, Minorem probo, quia 
-      <lb ed="#P" n="47"/>hoc nomen principium est impositum
-      prin<lb ed="#P" n="48" break="no"/>e pio diuinarum personarum, &amp; principio 
-      <lb ed="#P" n="49"/>cireaturarum ad significandum, quod vtrun 
-      <lb ed="#P" n="50"/>que illorum det esse suo principiato.
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e165">
-      <!--535.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 510 b -->
-               <lb ed="#P" n="51"/>2 Minus differunt principium diuinarum 
-      <lb ed="#P" n="52"/>personarum, &amp; principium cteaturatum, quam 
-      <lb ed="#P" n="53"/>generatio actiua secundum quam pater 
-      <lb ed="#P" n="54"/>est principium Filij, &amp; spiratio actiua 
-      <lb ed="#P" n="55"/>secundum quam Pater &amp; filius sunt
-      princi<lb ed="#P" n="56" break="no"/>pium Spiritus Sancti, sed hoc nomen princi 
-      <lb ed="#P" n="57"/>pium dicitur vniuoce de generatione actiua 
-      <lb ed="#P" n="58"/>Patris, &amp; de spiratione actiua Patris &amp;Filijj 
-      <lb ed="#P" n="59"/>ergo dicetur secundum vnam rationem de 
-      <lb ed="#P" n="60"/>principio diuinarum personarum, &amp; de prin 
-      <lb ed="#P" n="61"/>cipio creaturarum. Maiorem probo, quia ge 
-      <lb ed="#P" n="62"/>neratio actiua Patris, &amp; spiratio actiua
-      Pa<lb ed="#P" n="63" break="no"/>tris, &amp; Filij videntur distingui realiter, cum 
-      <lb ed="#P" n="64"/>sint duae relationes reales, principium aute 
-      <lb ed="#P" n="65"/>diuinarum personarum, &amp; principium
-      crea<lb ed="#P" n="66" break="no"/>turarum nullo modo distinguuntur realiter 
-      <lb ed="#P" n="67"/>quia non sunt plures res absolutae, cum abso 
-      <lb ed="#P" n="68"/>luta in diuinis non plurificentur; nec etiam 
-      <lb ed="#P" n="69"/>plures res relatiuae, cum nulla sit realis
-      rela<lb ed="#P" n="70" break="no"/>tio in Deo respectu creaturae: Probo etiam
-      Mi<lb ed="#P" n="71" break="no"/>norem, quia illa principia, quae principiant 
-      <lb ed="#P" n="72"/>non solum in similitudinem naturae, sed in idem 
-      <lb ed="#P" n="73"/>titatem, videntur maxime eiusdem rationis; ge 
-      <lb ed="#P" n="74"/>neratio actiua, &amp; spiratio actiua sunt
-      huius<lb ed="#P" n="75" break="no"/>modi, vt de se patet, ergo hoc nomen
-      princi<lb ed="#P" n="76" break="no"/>vium dicetur de eis maxime secundum
-      ean<lb ed="#P" n="77" break="no"/>dem rationem.
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e233">
-               <lb ed="#P" n="78"/>PRO PARTE AFFIRMATIVA 
-      <lb ed="#P" n="79"/>avguitur 
-      <lb ed="#P" n="80"/>1QI hoc nomen principium diceretur vni 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e242">
-               <lb ed="#P" n="81"/>Quoce de principio diuinarum
-      persona<lb ed="#P" n="82" break="no"/>rum, &amp; de principio creaturarum,
-      sequere<lb ed="#P" n="83" break="no"/>tur quod sicut principium diuinarum
-      per<lb ed="#P" n="84" break="no"/>sonarum est necessarium in principiando, ita 
-      <lb ed="#P" n="85"/>etiam esset &amp; principium creaturarum: quod 
-      <lb ed="#P" n="86"/>atet esse falsum 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e258">
-               <lb ed="#P" n="87"/>2 Sequeretur, quod sicut principium
-      di<lb ed="#P" n="88" break="no"/>uinatum personarum habuit suam
-      principia<lb ed="#P" n="89" break="no"/>tionem in aeternitate, ita &amp; principium crea 
-      <lb ed="#P" n="90"/>turarum, quod etiam patet esse falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e269">
-               <lb ed="#P" n="91"/>RESPONDE O: In ista quaestione 
-      <lb ed="#P" n="92"/>duo sunt videnda 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e276">
-               <lb ed="#P" n="93"/>Vtrum hoc nomen principium dicatur 
-      <lb ed="#P" n="94"/>de principio diuinarum personarum, &amp; prin 
-      <lb ed="#P" n="95"/>cipio creaturarum secundum vnam rationem, 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e286">
-               <lb ed="#P" n="96"/>2 Vtrum princirium filij, quod est
-      gene<lb ed="#P" n="97" break="no"/>ratio actiua, &amp; principium Spiritus Sancti, 
-      <lb ed="#P" n="98"/>qud est spiratio actiua realiter distinguantur. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e295">
-               <lb ed="#P" n="99"/>ARTICVLVS PRIMVS. 
-      <lb ed="#P" n="100"/>An principium dicatur secundum eandem  
-      <lb ed="#P" n="101"/>rationem de principio personarum, &amp; 
-      <lb ed="#P" n="102"/>creaturarum.
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e306">
-               <lb ed="#P" n="103"/>QVantum ad hoc quidam dicunt, quod 
-      <lb ed="#P" n="104"/>a principio diuinarum personarum, &amp;  
-      <!--536.xml-->
-      <pb ed="#P" n="511"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>a principio creaturarum potest abstrahi vnus 
-      <lb ed="#P" n="2"/>communis conceptus, &amp; vna communis
-      ra<lb ed="#P" n="3" break="no"/>tio secundum quam principium dicatur
-      vni<lb ed="#P" n="4" break="no"/>uoce de vtroque, hoc autem probant
-      tripli<lb ed="#P" n="5" break="no"/>citer. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e330">
-               <lb ed="#P" n="6"/>1 Sicut se habet causa vniuoca causans 
-      <lb ed="#P" n="7"/>in unitate speciei ad causam aequiuocam cau 
-      <lb ed="#P" n="8"/>sante in diuersitate speciei, ita principium di 
-      <lb ed="#P" n="9"/>uinarum personarum principians in
-      identi<lb ed="#P" n="10" break="no"/>tate naturae, ad principium creaturarum
-      prin<lb ed="#P" n="11" break="no"/>cipians in diuersitate naturae: quia vtrobiqu 
-      <lb ed="#P" n="12"/>videtur esse eade proportio: sed causa
-      vniuo<lb ed="#P" n="13" break="no"/>ca, &amp; aequiuoca possunt concipi vno
-      conmu<lb ed="#P" n="14" break="no"/>ni conceptu causae efficientis, qui tamen est 
-      <lb ed="#P" n="15"/>maioris latitudinis, quam conceptus
-      princi<lb ed="#P" n="16" break="no"/>pij, ergo multo magis principium diuinarum  
-      <lb ed="#P" n="17"/>personarum, &amp; principium creaturarum po 
-      <lb ed="#P" n="18"/>terunt concipi vno communi conceptu prin 
-      <lb ed="#P" n="19"/>cipij principiantis, cum talis communitas sit 
-      <lb ed="#P" n="20"/>minoris latitudinis 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e365">
-               <lb ed="#P" n="21"/>2 Illa, secundum quae potest fieri compa 
-      <lb ed="#P" n="22"/>ratio adinuicem, habent vnam communem 
-      <lb ed="#P" n="23"/>rationem, quia in aequiuocis non est
-      compa<lb ed="#P" n="24" break="no"/>ratio, sed P. Aug. facit comparationem inter 
-      <lb ed="#P" n="25"/>principium creaturarum, &amp; principium diui 
-      <lb ed="#P" n="26"/>narum personarum. <ref xml:id="gsX5tY-d1e833-Rd1e380" corresp="#gsX5tY-d1e833-Qd1e385">5. de Trin. cap. 14</ref>. dices,  
-      <lb ed="#P" n="27"/>quod <quote xml:id="gsX5tY-d1e833-Qd1e385" source="http://scta.info/resource/adt-l5-d1e756@151-172">sicut Pater, &amp; Filius vnus Deus
-      dici<lb ed="#P" n="28" break="no"/>tur, &amp; ad creaturam relatiue vnus creator,  
-      <lb ed="#P" n="29"/>&amp; vnus Dominus, sic relatiue ad Spiritum 
-      <lb ed="#P" n="30"/>Sanctum refertur vt vnum principium</quote>; 
-      er<lb ed="#P" n="31" break="no"/>go habent vnam communem rationem. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e397">
-               <lb ed="#P" n="32"/>3 Si aliqua causa esset, quare dicta 
-               princi<lb ed="#P" n="33" break="no"/>pia non haberent vnam communem
-      ratio<lb ed="#P" n="34" break="no"/>nem, maxime videretur esse ista, scilicet quia 
-      <lb ed="#P" n="35"/>principiatio principij diuinarum personarum 
-      <lb ed="#P" n="36"/>est prior principiatione principij creaturarum 
-      <lb ed="#P" n="37"/>&amp; causa illius, &amp; etiam quia ipsa est
-      necessa<lb ed="#P" n="38" break="no"/>ria, &amp; illa contingens, hoc tamen propositum 
-      <lb ed="#P" n="39"/>non impedit, nam videmus, quod sol est prior 
-      <lb ed="#P" n="40"/>flore, &amp; est causa eius, tamen hoc non obstam 
-      <lb ed="#P" n="41"/>te a sole, &amp; a flore potest abstrahi vnus 
-      com<lb ed="#P" n="42" break="no"/>munis conceptus, &amp; vna conmunis ratio
-      sub<lb ed="#P" n="43" break="no"/>stantiae. Praeterea, videmus, quod quaedam  
-      <lb ed="#P" n="44"/>proposito est contingens, &amp; quaedam neces 
-      <lb ed="#P" n="45"/>saria, &amp; tamen hoc non obstante potest ab 
-      <lb ed="#P" n="46"/>eis abstrahi vna communis ratio
-      proposito<lb ed="#P" n="47" break="no"/>nis, ergo pari ratione poterit ita esse in
-      pro<lb ed="#P" n="48" break="no"/>posito.  
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e437">
-               <lb ed="#P" n="49"/>Haec autem opinio videtur deficere in se, 
-      <lb ed="#P" n="50"/>&amp; in suis motiuis; &amp; quod deficiat in se
-      pa<lb ed="#P" n="51" break="no"/>tebit infra quando probabitur opposita concl. 
-      <lb ed="#P" n="52"/>Quod autem deficiat in suis motiuis apparet 
-      <lb ed="#P" n="53"/>discurrendo per singula.  
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e450">
-               <lb ed="#P" n="54"/>Primum nanque dupliciter deficit,
-      pri<lb ed="#P" n="55" break="no"/>mo, quia videtur supponere, quod totum
-      ge<lb ed="#P" n="56" break="no"/>nus causae efficientis habeat vnum
-      commu<lb ed="#P" n="57" break="no"/>nem conceptum, quod quidem dictum omni 
-      <!--536.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 511 b -->
-               <lb ed="#P" n="58"/>no est falsum, nam cum causa efficiens
-      inue<lb ed="#P" n="59" break="no"/>niatur non solum in genere substantiae, sed  
-      <lb ed="#P" n="60"/>etiam in genere accidentis, sequeretur quod 
-      <lb ed="#P" n="61"/>substantia, &amp; accidens haberent vnum
-      con<lb ed="#P" n="62" break="no"/>ceptum, vel oporteret dare quod dam aliud 
-      <lb ed="#P" n="63"/>genus, quod nec esset genus substantiae, nec 
-      <lb ed="#P" n="64"/>accidentis, quod patet esse falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e483">
-               <lb ed="#P" n="65"/>Secundo deficit, quia supponit, quod sit 
-      <lb ed="#P" n="66"/>eadem proportio principij diuinarum perso 
-      <lb ed="#P" n="67"/>narum ad principium creaturarum; quae est 
-      <lb ed="#P" n="68"/>causae efficientis aequiuocae ad causam efficien 
-      <lb ed="#P" n="69"/>tem uniuocam, quod videtur esse falsum; 
-      <lb ed="#P" n="70"/>quia causa vniuoca, &amp; aequiuoca possunt ita 
-      <lb ed="#P" n="71"/>se habere, quod concurrant in vnum &amp; eun 
-      <lb ed="#P" n="72"/>dem effectum, principium autem
-      diuina<lb ed="#P" n="73" break="no"/>rum personarum, &amp; principium
-      crea<lb ed="#P" n="74" break="no"/>turarum nunquam possunt concurrere in 
-      <lb ed="#P" n="75"/>idem principium. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e509">
-               <lb ed="#P" n="76"/>Secundum etiam motiuum deficit; quia 
-      <lb ed="#P" n="77"/>accipit pro eodem comparationem, &amp;
-      pro<lb ed="#P" n="78" break="no"/>portionem, cum tamen sit inter eas magna 
-      <lb ed="#P" n="79"/>differentia; nam comparatio proprie dicta 
-      <lb ed="#P" n="80"/>requirit non solum vnitatem generis, sed et 
-      <lb ed="#P" n="81"/>vnitatem speciei, proportio vero potest esse  
-      <lb ed="#P" n="82"/>inter ea quae sunt alterius generis, sicut inter 
-      <lb ed="#P" n="83"/>accidens, &amp; substantiam, &amp; ideo propter
-      di<lb ed="#P" n="84" break="no"/>ctum P. Aug. superius allegatum non
-      opor<lb ed="#P" n="85" break="no"/>tet ponere comparationem inter principium 
-      <lb ed="#P" n="86"/>diuinarum personarum, &amp; principium crea 
-      <lb ed="#P" n="87"/>turarum, sed sufficit ibi ponere aliqualem  
-      <lb ed="#P" n="88"/>proportionem 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e540">
-               <lb ed="#P" n="89"/>Tertium etiam motiuum deficit accipien 
-      <lb ed="#P" n="90"/>do non causam vt causa: Nam causa quare 
-      <lb ed="#P" n="91"/>de utroque principio non possit haberi vna 
-      <lb ed="#P" n="92"/>communis ratio, &amp; conceptus, non est aliqua 
-      <lb ed="#P" n="93"/>llarum quae assumptae sunt, sed aliqua alia,  
-      <lb ed="#P" n="94"/>vel aliquae aliae, vt inferius patebit. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e556">
-               <lb ed="#P" n="95"/>Est ergo alius modus dicendi. Dicunt
-      n<lb ed="#P" n="96" break="no"/>quidam, quod nomen principij dicitur aequi 
-      <lb ed="#P" n="97"/>uoce de principio diuinarum personarum, &amp;  
-      <lb ed="#P" n="98"/>principio creaturarum, quia (secundum eos) 
-      <lb ed="#P" n="99"/>dem significatur per hoc nomen principium, 
-      <lb ed="#P" n="100"/>&amp; per hoc nomen potentia actiua, in cuius si 
-      <lb ed="#P" n="101"/>gnum potentia actiua definitur per esse 
-      <lb ed="#P" n="102"/>principium agendi; vel transmutandi, sicut  
-      <lb ed="#P" n="103"/>atet 7. Metaph &amp; quia potentia actiua
-      di<lb ed="#P" n="104" break="no"/>citur aequiuoce, &amp; non secundum vnam
-      ra<lb ed="#P" n="105" break="no"/>tionem respectu diuinarum personarum, &amp; 
-      <lb ed="#P" n="106"/>respectu creaturarum, idcirco inferunt, quod 
-      <lb ed="#P" n="107"/>nullum principium, dicatur aequiuoce de 
-      <lb ed="#P" n="108"/>principio sumpto vtroque modo, quod auten 
-      <lb ed="#P" n="109"/>otentia dicatur aequiuoce respectu
-      diuina<lb ed="#P" n="110" break="no"/>rum personarum, &amp; respectu creaturarum 
-      <lb ed="#P" n="111"/>probant per hoc, scilicet quia potentia actiua 
-      <lb ed="#P" n="112"/>respectu creaturarum dicitur proprie actiua, 
-      <lb ed="#P" n="113"/>tum quia est aliud genus proprie dictum quod 
-      <lb ed="#P" n="114"/>est distinctum ab ipso esse; Tum quia ha¬ 
-      <!--537.xml-->
-      <pb ed="#P" n="512"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>bet in termino producto veram alietatem, quoid 
-      <lb ed="#P" n="2"/>est de ratione potentiae actiuae proprie dictae, 
-      <lb ed="#P" n="3"/>cum sit principium agendi in aliud
-      inquan<lb ed="#P" n="4" break="no"/>tum aliud: sed potentia actiua respectu diui 
-      <lb ed="#P" n="5"/>narum personarum non est proprie actiua, 
-      <lb ed="#P" n="6"/>quia habet oppositas conditiones, scilicet 
-      <lb ed="#P" n="7"/>quia est tale agere, quod est idem, quod esse, 
-      <lb ed="#P" n="8"/>&amp; in termino producto non habet veram  
-      <lb ed="#P" n="9"/>alietatem. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e629">
-               <lb ed="#P" n="10"/>Addunt tamen vlterius, quod quamuis 
-      <lb ed="#P" n="11"/>hoc nomen principium inquantum significat 
-      <lb ed="#P" n="12"/>ipsam potentiam productiuam proprius dica 
-      <lb ed="#P" n="13"/>tur de principio creaturarum, quam de prin 
-      <lb ed="#P" n="14"/>cipio diuinarum personarum propter ratio 
-      <lb ed="#P" n="15"/>nem praehabitam, inquantum tamen
-      signifi<lb ed="#P" n="16" break="no"/>cat habitudinem producentis ad productum, 
-      <lb ed="#P" n="17"/>sic verius, &amp; proprius dicitur de principio di 
-      <lb ed="#P" n="18"/>uinatum personarum, quam de principio 
-      <lb ed="#P" n="19"/>creaturarum, quia principium diuinarum 
-      <lb ed="#P" n="20"/>personarum habet realem relationem ad
-      ip<lb ed="#P" n="21" break="no"/>sum principium, vtpote Pater, qui est prin 
-      <lb ed="#P" n="22"/>cipium Filij per realem relationem ad Filium,  
-      <lb ed="#P" n="23"/>&amp; Pater, &amp; Filius qui sunt principium Spi- 
-      <lb ed="#P" n="24"/>ritus Sancti habent realem relationem ac 
-      <lb ed="#P" n="25"/>Spiritum Sanctum, principium vero creatu 
-      <lb ed="#P" n="26"/>rarum, scilicet tota Trinitas non habet
-      rela<lb ed="#P" n="27" break="no"/>tionem realem ad ipsam creaturam, quae est 
-      <lb ed="#P" n="28"/>principiatum, sed solum secundum rationem, 
-      <lb ed="#P" n="29"/>illud autem, quod dicitur de pluribus.
-      pro<lb ed="#P" n="30" break="no"/>prius, &amp; verius dicitur de eo, quod est tale 
-      <lb ed="#P" n="31"/>secundum rem, quam de eo, quod est tale se 
-      <lb ed="#P" n="32"/>cundum rationem. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e681">
-               <lb ed="#P" n="33"/>Vlterius addunt, quod hoc nomen
-      prin<lb ed="#P" n="34" break="no"/>cipium secundum primam nominis
-      imposi<lb ed="#P" n="35" break="no"/>tionem sonat defectum, quia significat diuer 
-      <lb ed="#P" n="36"/>sitatem simpliciter inter principium &amp; prin 
-      <lb ed="#P" n="37"/>cipiatum, secundum quem modum non
-      po<lb ed="#P" n="38" break="no"/>test poni in diuinis; &amp; ideo non debet repu 
-      <lb ed="#P" n="39"/>tari inconueniens si dicatur de eo per prius 
-      <lb ed="#P" n="40"/>in comparatione ad creaturam, quam in con 
-      <lb ed="#P" n="41"/>paratione ad diuinam personam productam 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e703">
-               <lb ed="#P" n="42"/>Haec autem opinio non potest stare
-      pro<lb ed="#P" n="43" break="no"/>pter quatuor. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e710">
-               <lb ed="#P" n="44"/>Primo, quia loquitur hic de principio,
-      se<lb ed="#P" n="45" break="no"/>cundum quod nominat potentiam producti 
-      <lb ed="#P" n="46"/>uam, quae est ratio producendi, secundum 
-      <lb ed="#P" n="47"/>quem modum non est ad propositum, quia 
-      <lb ed="#P" n="48"/>Magister sententiarum in ista distinct. non 
-      <lb ed="#P" n="49"/>loquitur de principio isto modo, sed loqui  
-      <lb ed="#P" n="50"/>tur de principio, prout nominat ipsum
-      pro<lb ed="#P" n="51" break="no"/>ducens, siue relationem producentis ad pro 
-      <lb ed="#P" n="52"/>ductum 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e732">
-               <lb ed="#P" n="53"/>Secundo, quia ista duo non videntur
-      in<lb ed="#P" n="54" break="no"/>compossibilia, scilicet quod pr incipium,
-      pro<lb ed="#P" n="55" break="no"/>vt nominat potentiam productiuami, verius 
-      <lb ed="#P" n="56"/>dicatur de Deo in comparatione ad
-      creatu<lb ed="#P" n="57" break="no"/>ram, prout vero nominat relationem produm 
-      <!--537.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 512 b -->
-               <lb ed="#P" n="58"/>centis ad productum verius de Deo in com 
-      <lb ed="#P" n="59"/>paratione ad personam productam, nam po 
-      <lb ed="#P" n="60"/>tentia productiua est principium, &amp;
-      funda<lb ed="#P" n="61" break="no"/>mentum relationis producentis ad
-      produ<lb ed="#P" n="62" break="no"/>ctum, &amp; ideo vbi non inuenitur potentia 
-      <lb ed="#P" n="63"/>productiua proprie dicta, ibi non debet inue 
-      <lb ed="#P" n="64"/>niri relatio producentis ad productum
-      pro<lb ed="#P" n="65" break="no"/>prie dicta 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e769">
-               <lb ed="#P" n="66"/>Tertio, non videtur esse verum, quod prin 
-      <lb ed="#P" n="67"/>cipium per prius dicatur de Deo per compa 
-      <lb ed="#P" n="68"/>rationem ad creaturam, quam per compara 
-      <lb ed="#P" n="69"/>tionem ad personam productam, quia quic 
-      <lb ed="#P" n="70"/>quid reperitur in Deo proprie, &amp; non
-      secu<lb ed="#P" n="71" break="no"/>dum similitudinem, proprius, &amp; verius
-      dici<lb ed="#P" n="72" break="no"/>tur de Deo secundum se, quam in ordine 
-      <lb ed="#P" n="73"/>ad creaturam, ratio autem principij in
-      ordi<lb ed="#P" n="74" break="no"/>ne ad personam productam inuenitur in Deo 
-      <lb ed="#P" n="75"/>proprie, &amp; non solum secundum
-      similitudi<lb ed="#P" n="76" break="no"/>nem, ergo &amp;c.
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e796">
-               <lb ed="#P" n="77"/>Quarto, videtur esse falsum, quod
-      princi<lb ed="#P" n="78" break="no"/>pium secundum primam nominis
-      imposito<lb ed="#P" n="79" break="no"/>nem sonet defectum, quia tunc ordo, qui 
-      <lb ed="#P" n="80"/>dicit maximam perfectionem, non oriretur 
-      <lb ed="#P" n="81"/>ex principio, quod patet esse falsum ex 5. 
-      <lb ed="#P" n="82"/>Metaph cap de Priori, vbi ait Com. quod 
-      <lb ed="#P" n="83"/>ordo semper oritur ex habitudine ad aliqud 
-      <lb ed="#P" n="84"/>principium. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e816">
-               <lb ed="#P" n="85"/>Et ideo est adhuc alius modus dicendi, 
-      <lb ed="#P" n="86"/>quem tangit AEgidius volens, quod hoc
-      no<lb ed="#P" n="87" break="no"/>men principium dicatur de principio
-      diui<lb ed="#P" n="88" break="no"/>narum personarum, &amp; principio creaturarum 
-      <lb ed="#P" n="89"/>non vniuoce, nec aequiuoce, sed analogice, 
-      <lb ed="#P" n="90"/>&amp; quod ita sit probat dupliciter, primo sic.i 
-      <lb ed="#P" n="91"/>Illud nomen, quod dicitur de aliquibus plu 
-      <lb ed="#P" n="92"/>ribus, ita tamen quod de vno illorum por 
-      <lb ed="#P" n="93"/>attributionem ad alterum, dicitur de eis ana 
-      <lb ed="#P" n="94"/>logice; sed hoc nomen principium dicitur 
-      <lb ed="#P" n="95"/>de principio creaturarum per attributionem 
-      <lb ed="#P" n="96"/>ad principium diuinarum personarum, ergo 
-      <lb ed="#P" n="97"/>&amp;c. Maior patet. Minor probatur, quia
-      si<lb ed="#P" n="98" break="no"/>cut se habet productio creaturatum ad
-      pro<lb ed="#P" n="99" break="no"/>ductionem diuinarum personarum, ita prin 
-      <lb ed="#P" n="100"/>cipium vnius ad principium alterius, sed pro 
-      <lb ed="#P" n="101"/>ductio creaturarum, cum sit extrinseca, non 
-      <lb ed="#P" n="102"/>potest esse eiusdem rationis cum
-      productio<lb ed="#P" n="103" break="no"/>ne diuinarum personarum, quae est
-      intrinse<lb ed="#P" n="104" break="no"/>ca, &amp; sic oportet, quod se habeat per attribu 
-      <lb ed="#P" n="105"/>tionem ad eam: ergo eodem modo
-      princi<lb ed="#P" n="106" break="no"/>pium creaturarum non erit eiusdem rationis 
-      <lb ed="#P" n="107"/>cum principio diuinarum personarum, sed ha 
-      <lb ed="#P" n="108"/>bebit se per attributionem ad ipsum 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e871">
-               <lb ed="#P" n="109"/>Secundo sic, De ratione principij est refer 
-      <lb ed="#P" n="110"/>ri ad principium: sicut ergo se habet relatio 
-      <lb ed="#P" n="111"/>vnius principij ad relationem alterius, ita
-      v<lb ed="#P" n="112" break="no"/>num principium ad aliud, sed relatio princi u 
-      <lb ed="#P" n="113"/>pij diuinarum personarum, &amp; relatio princi i 
-      <lb ed="#P" n="114"/>pij creatutarum non sunt eiusdem rationis,  
-      <!--538.xml-->
-      <pb ed="#P" n="513"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>quia vna est realis, &amp; altera rationis, ergo &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e895">
-               <lb ed="#P" n="2"/>Praeterea, per prius relatio dicitur de rela  
-      <lb ed="#P" n="3"/>tione principij diuinarum personarum, cum 
-      <lb ed="#P" n="4"/>sit ealis, quam de relatione principij creatu 
-      <lb ed="#P" n="5"/>rarum, cum sit rationis; ergo eodem modo hoc 
-      <lb ed="#P" n="6"/>nomen principium per prius dicetur de prin 
-      <lb ed="#P" n="7"/>cipio diuinarum personarum, quam de prin 
-      <lb ed="#P" n="8"/>cipio creaturarum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e913">
-               <lb ed="#P" n="9"/>lstam conclusionem confirmo etiam
-      du<lb ed="#P" n="10" break="no"/>pliciter 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e920">
-               <lb ed="#P" n="11"/>Primo sic, sicut se habet cognitio, qua Des 
-      <lb ed="#P" n="12"/>cognoscit seipsum tanquam obiectum prima 
-      <lb ed="#P" n="13"/>rium &amp; intrinsecum, ad cognitionem qua 
-      <lb ed="#P" n="14"/>cognoscit creaturam tanquam obiectum
-      se<lb ed="#P" n="15" break="no"/>cundarium, &amp; extrinsecum; ita principium 
-      <lb ed="#P" n="16"/>quo Deus principiat personas intrinsece, &amp;  
-      <lb ed="#P" n="17"/>in identitate naturae, ad principium quo prin 
-      <lb ed="#P" n="18"/>cipiat creaturas extrinsece, &amp; in diuersitate 
-      <lb ed="#P" n="19"/>iubstantiae, sed cognitio, qua cognoscit
-      se<lb ed="#P" n="20" break="no"/>psum, &amp; qua cognoscit creaturas non est 
-      <lb ed="#P" n="21"/>eiusdem rationis, quia prima est per essentiam, 
-      <lb ed="#P" n="22"/>vt essentia est, secunda vero per essentiam 
-      <lb ed="#P" n="23"/>vt idea est; ergo &amp; principium diuinarum  
-      <lb ed="#P" n="24"/>personarum non erit eiusdem rationis cum 
-      <lb ed="#P" n="25"/>principio creaturarum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e956">
-               <lb ed="#P" n="26"/>Secundo, sicut se habet principiatum ad 
-      <lb ed="#P" n="27"/>principiatum, ita principium ad pricipium, 
-      <lb ed="#P" n="28"/>sed principiatum, quod est persona diuina,  
-      <lb ed="#P" n="29"/>&amp; principiatum, quod est creatura, non sunt 
-      <lb ed="#P" n="30"/>eiusdem rationis; ergo nec principia erunt 
-      <lb ed="#P" n="31"/>eiusdem rationis. Concludo ergo quantum 
-      <lb ed="#P" n="32"/>ad istum articulum, quod nomen principij 
-      <lb ed="#P" n="33"/>non dicitur secundum eandem rationem de 
-      <lb ed="#P" n="34"/>principio diuinarum personarum, &amp; de prin 
-      <lb ed="#P" n="35"/>cipio creaturarum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e980">
-               <lb ed="#P" n="36"/>ARTICVLVS SECVNDVS 
-      <lb ed="#P" n="37"/>Vtrum principium Filij, quod est generatio 
-      <lb ed="#P" n="38"/>actio, &amp; principium Spiritus Sancti, 
-      <lb ed="#P" n="39"/>quod est spiratio actio, realiter 
-      <lb ed="#P" n="40"/>distinguantur.
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e993">
-               <lb ed="#P" n="41"/>D hoc respondent aliqui affirmatiue. 
-      <lb ed="#P" n="42"/>quod quinque rationibus probant. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1000">
-               <lb ed="#P" n="43"/>1 Multiplicato vno relatiuorum
-      mul<lb ed="#P" n="44" break="no"/>tiplicatur &amp; reliquum, sed Filius, &amp; Spiritus 
-      <lb ed="#P" n="45"/>Sanctus sunt duo principiata relatiua
-      reali<lb ed="#P" n="46" break="no"/>ter distincta, ergo &amp; generatio actiua, &amp; spi- 
-      <lb ed="#P" n="47"/>ratio actiua erunt etiam duo principia
-      reali<lb ed="#P" n="48" break="no"/>ter distincta. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1016">
-               <lb ed="#P" n="49"/>2 Sicut se habet generatio passio ad spira 
-      <lb ed="#P" n="50"/>tionem actionem, ita generatio actio ad spi 
-      <lb ed="#P" n="51"/>rationem passionem, sed generatio passio, &amp;  
-      <lb ed="#P" n="52"/>spiratio passio realiter distinguuntur, ergo 
-      <lb ed="#P" n="53"/>generatio actio, &amp; spiratio actio realiter 
-      <!--538.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 513 b -->
-               <lb ed="#P" n="54"/>distinguuntur. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1038">
-               <lb ed="#P" n="55"/>3 Duae reales actiones realiter distinguum 
-      <lb ed="#P" n="56"/>tur, generatio actio, &amp; spiratio actio sunt 
-      <lb ed="#P" n="57"/>duae reales actiones, cum fluant ab eis duae 
-      <lb ed="#P" n="58"/>reales passiones, ergo realiter distinguuntur. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1050">
-               <lb ed="#P" n="59"/>4 Actio naturalis, &amp; actio libera realiter 
-      <lb ed="#P" n="60"/>distinguuntur, sed generatio actio, cum sit 
-      <lb ed="#P" n="61"/>per modum naturae est naturalis, spiratio ve 
-      <lb ed="#P" n="62"/>ro actio, cum sit per modum voluntatis, est
-      li<lb ed="#P" n="63" break="no"/>bera, ergo realiter distinguuntur 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1063">
-               <lb ed="#P" n="64"/>Si generatio actio esset idem quod
-      spi<lb ed="#P" n="65" break="no"/>ratio actio, pari ratione esset idem cum
-      gene<lb ed="#P" n="66" break="no"/>ratione passiua in filio, quod nullo modo vi 
-      <lb ed="#P" n="67"/>detur possibile, quia tunc actio esset idem 
-      <lb ed="#P" n="68"/>quod passio. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1076">
-               <lb ed="#P" n="69"/>Contra hanc opinionem videntur sequi 
-      <lb ed="#P" n="70"/>quinque inconuenientia. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1083">
-               <lb ed="#P" n="71"/>Primo, quia in diuinis esset quaternitas,  
-      <lb ed="#P" n="72"/>quod est contra determinationem Ecclesiae 
-      <lb ed="#P" n="73"/>in illa decretali; Damnamus, &amp;c 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1092">
-               <lb ed="#P" n="74"/>Secundo, quia in diuinis erunt quatuor 
-      <lb ed="#P" n="75"/>fruibilia, quod est contra P. August. de
-      do<lb ed="#P" n="76" break="no"/>ctrina Christiana, vbi non ponit nisi tres res 
-      <lb ed="#P" n="77"/>quibus fruendum est, Consequentiam
-      pro<lb ed="#P" n="78" break="no"/>bo, quia quicquid est in diuinis est fruibile, 
-      <lb ed="#P" n="79"/>&amp; per consequens si sit distincta res, erit
-      di<lb ed="#P" n="80" break="no"/>stinctum fruibile 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1110">
-               <lb ed="#P" n="81"/>Tertio, quia in diuinis erunt quatuor sub 
-      <lb ed="#P" n="82"/>sistentia, &amp; per consequens quatuor
-      perso<lb ed="#P" n="83" break="no"/>nae. Consequentiam probo, quia quicquid in 
-      <lb ed="#P" n="84"/>diuinis est vera res, condiuisa contra aliam 
-      <lb ed="#P" n="85"/>rem, est quid subsistens in natura intellectua 
-      <lb ed="#P" n="86"/>li, &amp; per consequens est persona. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1127">
-               <lb ed="#P" n="87"/>Quarto, quia in diuinis esset aliqua realis 
-      <lb ed="#P" n="88"/>distinctio, vbi non est relationis opposito, 
-      <lb ed="#P" n="89"/>quod est contra Anselmum in libro de
-      pro<lb ed="#P" n="90" break="no"/>cessione Spiritus Sancti, Consequentia
-      pa<lb ed="#P" n="91" break="no"/>tet, quia inter generationem actiuam, &amp;
-      spi<lb ed="#P" n="92" break="no"/>rationem actiuam nulla est opposito relatiua, 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1143">
-               <lb ed="#P" n="93"/>Quinto, quia generatio actiua, &amp; spiratio 
-      <lb ed="#P" n="94"/>actiua non poterunt praedicaride se inuice 
-      <lb ed="#P" n="95"/>in abstracto, quod patet esse falsum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1152">
-               <lb ed="#P" n="96"/>Motiua autem praefatae opin non cogunt. 
-      <lb ed="#P" n="97"/>Nam cum primo dicitur, multiplicato vno 
-      <lb ed="#P" n="98"/>relatiuorum multiplicatur &amp; reliquum, pos 
-      <lb ed="#P" n="99"/>set negari proposito, quia multi dicerent quod 
-      <lb ed="#P" n="100"/>vnus Pater per vnam paternitatem posset 
-      <lb ed="#P" n="101"/>referri ad multos filios. Alio modo posset 
-      <lb ed="#P" n="102"/>dici concedendo, quod generatio actiua, &amp;  
-      <lb ed="#P" n="103"/>spiratio actiua sint duae distinctae relationes,  
-      <lb ed="#P" n="104"/>quamuis sint vna res, sicut patebit infra, &amp; 
-      <lb ed="#P" n="105"/>ideo potest concedi, quod multiplicato vno 
-      <lb ed="#P" n="106"/>relatiuorum multiplicetur &amp; reliquum, non
-      ta<lb ed="#P" n="107" break="no"/>men oportet, quod similis modus multiplica 
-      <lb ed="#P" n="108"/>tionis, &amp; distictionis, qui est in vno, sit in alio.  
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1183">
-               <lb ed="#P" n="109"/>Ad secundum vero dicendum, quod maior 
-      <lb ed="#P" n="110"/>est falsa, quia generatio passio, &amp; spiratio pal 
-      <!--539.xml-->
-      <pb ed="#P" n="514"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>sio ita se habent, quod sunt proprietates sut 
-      <lb ed="#P" n="2"/>positorum realiter distinctorum, &amp; habentium 
-      <lb ed="#P" n="3"/>ad seinuicem oppositionem, generatio vero 
-      <lb ed="#P" n="4"/>actio, &amp; spiratio actio non se habent hoc 
-      <lb ed="#P" n="5"/>modo vt patet. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1207">
-               <lb ed="#P" n="6"/>Ad tertium dicendum, quod vbi sunt duae 
-      <lb ed="#P" n="7"/>reales actiones referendo realitatem ad dua 
-      <lb ed="#P" n="8"/>litatem, ibi tales actiones realiter
-      distinguum<lb ed="#P" n="9" break="no"/>tur, sed generatio actio, &amp; spiratio actio non 
-      <lb ed="#P" n="10"/>sunt tales; possunt enim aliqua esse realiae,  
-      <lb ed="#P" n="11"/>&amp; realiter in aliquo, quae tamen inter se, &amp;  
-      <lb ed="#P" n="12"/>ab eo in quo sunt sola ratione distinguuntur; 
-      <lb ed="#P" n="13"/>sicut patet de animali, &amp; rationali quae sunt 
-      <lb ed="#P" n="14"/>realia, &amp; realiter in homine, &amp; tamen inter 
-      <lb ed="#P" n="15"/>se, &amp; ab homine distinguuntur sola ratione; ita 
-      <lb ed="#P" n="16"/>ergo poterit dici in proposito, scilicet, quod 
-      <lb ed="#P" n="17"/>generatio actio, &amp; spiratio actio sunt reales 
-      <lb ed="#P" n="18"/>rationes in patre, &amp; tamen hoc non obstante, 
-      <lb ed="#P" n="19"/>inter se realiter non distinguuntur.
-      Posse<lb ed="#P" n="20" break="no"/>mus etiam aliter respondere dicendo, quod 
-      <lb ed="#P" n="21"/>sunt duae distinctae actiones, non tamen
-      pro<lb ed="#P" n="22" break="no"/>pter hoc sequitur, quod sint duae distincta 
-      <lb ed="#P" n="23"/>res, quia aliud requiritur ad distinctionem 
-      <lb ed="#P" n="24"/>actionum inquantum res sunt, &amp; aliud inquam 
-      <lb ed="#P" n="25"/>tum actiones sunt, nam inquantum actiones sunt 
-      <lb ed="#P" n="26"/>sufficit distinctio extrinseca ex terminis; 
-      <lb ed="#P" n="27"/>vt vero res sunt, oportet quod distinguantur 
-      <lb ed="#P" n="28"/>intrinsece, &amp; formaliter in seipsis, &amp; quia 
-      <lb ed="#P" n="29"/>generatio, &amp; spiratio actio distinguuntur ex 
-      <lb ed="#P" n="30"/>trinsece ex terminis, &amp; non intrinsece, &amp;  
-      <lb ed="#P" n="31"/>formaliter in seipsis, idcirco possunt concedi 
-      <lb ed="#P" n="32"/>duae distinctae actiones, &amp; non duae res 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1268">
-               <lb ed="#P" n="33"/>Per hoc etiam apparet quid sit dicendum 
-      <lb ed="#P" n="34"/>ad quartum, quia potest concedi quod actio 
-      <lb ed="#P" n="35"/>naturalis, &amp; actio libera sint duae distinctae 
-      <lb ed="#P" n="36"/>actiones, non tamen propter hoc sequitur,  
-      <lb ed="#P" n="37"/>quod sint duae distinctae res, vt nunc
-      vi<lb ed="#P" n="38" break="no"/>sum est. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1285">
-               <lb ed="#P" n="39"/>Ad quintum concedo, quod sicut
-      spira<lb ed="#P" n="40" break="no"/>tio actio est idem cum generatione actione 
-      <lb ed="#P" n="41"/>in patre, ita est idem cum generatione
-      pas<lb ed="#P" n="42" break="no"/>sione in filio, nec est inconueniens quod vna 
-      <lb ed="#P" n="43"/>&amp; eadem res sit actio, &amp; passio ex
-      habitudi<lb ed="#P" n="44" break="no"/>ne ad alium, &amp; ad alium terminum, nam etiam 
-      <lb ed="#P" n="45"/>in creaturis videmus, quod vnus &amp; idem
-      mo<lb ed="#P" n="46" break="no"/>tus est actio, &amp; passio ex habitudine ad aliud,  
-      <lb ed="#P" n="47"/>&amp; aliud 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1307">
-               <lb ed="#P" n="48"/>Teneo ergo simpliciter, quod generatio
-      a<lb ed="#P" n="49" break="no"/>tio, &amp; spiratio actio sint vna res, &amp; tamen 
-      <lb ed="#P" n="50"/>hoc non obstante sint duae distinctae relatio 
-      <lb ed="#P" n="51"/>nes, &amp; duae distinctae actiones, &amp; per
-      conse<lb ed="#P" n="52" break="no"/>quens dua distincta principia eo modo quo 
-      <lb ed="#P" n="53"/>inferius exponetur, &amp; ideo cum alijs duabus 
-      <lb ed="#P" n="54"/>sibi appositis constituat numerum quaterna 
-      <lb ed="#P" n="55"/>rium relationum, &amp; non quaternarium
-      re<lb ed="#P" n="56" break="no"/>rum, &amp; sic conceditur, quod in diuinis sunt 
-      <lb ed="#P" n="57"/>quatuor relationes, non tamen quatuor res. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1331">
-      <!--539.xml-->
-               <cb ed="#P" n="b"/> 
-               <!-- 514 b -->
-               <lb ed="#P" n="58"/>Sed quae sit causa huius, difficile est
-      vide<lb ed="#P" n="59" break="no"/>re, quit am ergo Doctor reddit talem
-      cau<lb ed="#P" n="60" break="no"/>sam: Dci enim, quod cum aliqua
-      distin<lb ed="#P" n="61" break="no"/>guuntur differentia alicuius communis, cum 
-      <lb ed="#P" n="62"/>isio communi plurificautur, si uero sit tale 
-      <lb ed="#P" n="63"/>commune, quod eius differentia non
-      distin<lb ed="#P" n="64" break="no"/>guantur, tunc sunt idem in eo, sicut ponit 
-      <lb ed="#P" n="65"/>exemplum de aequilatero, &amp; gradato, nam  
-      <lb ed="#P" n="66"/>quia distinguuntur differentiis trianguli,
-      idcir<lb ed="#P" n="67" break="no"/>co plurificantur triangulo, &amp; sunt diuersi 
-      <lb ed="#P" n="68"/>trianguli, &amp; quia non distinguitur
-      differen<lb ed="#P" n="69" break="no"/>tia figurae, idcirco non plurificantur sub
-      fi<lb ed="#P" n="70" break="no"/>gura, sed sunt idem cum figura, sicut potest 
-      <lb ed="#P" n="71"/>haberi ex quarto phys. &amp; in 5. Metaph cap. 
-      <lb ed="#P" n="72"/>de vno. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1373">
-               <lb ed="#P" n="73"/>Ad propositum ergo applicando, tunc
-      a<lb ed="#P" n="74" break="no"/>liquae relationes sunt plures res secundum 
-      <lb ed="#P" n="75"/>stu doctorem, quando distinguuntur differen 
-      <lb ed="#P" n="76"/>tia relationis ita, quod non differentia rei, 
-      <lb ed="#P" n="77"/>nam ex alio sumitur differentia rei, &amp; ex alio 
-      <lb ed="#P" n="78"/>differentia relationis; quia differentiam rei 
-      <lb ed="#P" n="79"/>in relationibus facit ipsa opposito relatiua, 
-      <lb ed="#P" n="80"/>differentiam vero relationis inquantum rela  
-      <lb ed="#P" n="81"/>tio est facit diuersitas terminorum: sed
-      ge<lb ed="#P" n="82" break="no"/>neratio actio in patre, &amp; spiratio actio in
-      pa<lb ed="#P" n="83" break="no"/>tre habent distinctos terminos, &amp; tamen non 
-      <lb ed="#P" n="84"/>habent oppositionem, idcirco ita sunt
-      distin<lb ed="#P" n="85" break="no"/>ctae relationes, quod non distinctae tes. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1404">
-               <lb ed="#P" n="86"/>Hic autem modus impugnatur a Docto 
-      <lb ed="#P" n="87"/>re nostro, &amp; rationabiliter propter duo. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1411">
-               <lb ed="#P" n="88"/>Primo, quia quamuis illa, quae non
-      diffe<lb ed="#P" n="89" break="no"/>runt diferentia superioris, sint idem in illo 
-      <lb ed="#P" n="90"/>superiori secundum rationem, non tamen 
-      <lb ed="#P" n="91"/>sunt idem in eo secundum rem, sicut patet in 
-      <lb ed="#P" n="92"/>exemplo praehabito: nam licet aequilaterus,  
-      <lb ed="#P" n="93"/>&amp; gradatus sint eadem figui a secundum
-      ra<lb ed="#P" n="94" break="no"/>tionem, non tamen secundum rem: ergo
-      eo<lb ed="#P" n="95" break="no"/>dem modo poterit eis dici in proposito,
-      scili<lb ed="#P" n="96" break="no"/>cet, quod generatio actio, &amp; spiratio actio,  
-      <lb ed="#P" n="97"/>quamuis sint una res secundum rationem, 
-      <lb ed="#P" n="98"/>quia non distinguuntur differentia rei, non 
-      <lb ed="#P" n="99"/>sunt tamen vna res realiter, nisi aliud
-      di<lb ed="#P" n="100" break="no"/>catur. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1443">
-               <lb ed="#P" n="101"/>Secundo, illud, quod assumit idem Doct. 
-      <lb ed="#P" n="102"/>non uidetur vniuersaliter verum, scilicet quod 
-      <lb ed="#P" n="103"/>diuersitas terminorum faciat necessario
-      di<lb ed="#P" n="104" break="no"/>stinctionem in relationibus: Nam videmus,  
-      <lb ed="#P" n="105"/>quod una relatio paternitatis potest termina 
-      <lb ed="#P" n="106"/>ri ad diuersos filios, nisi vellintus dicere, qu 
-      <lb ed="#P" n="107"/>in eodem patre essent plures paternitates, quod 
-      <lb ed="#P" n="108"/>non uidetur verum, quia tunc plures formae 
-      <lb ed="#P" n="109"/>solo numero differentes essent in eodem su 
-      <lb ed="#P" n="110"/>biecto 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1467">
-               <lb ed="#P" n="111"/>Posset insuper argui contra istum modum 
-      <lb ed="#P" n="112"/>quia non uidetur verum, quod differentia rei 
-      <lb ed="#P" n="113"/>in relationibus semper sumatur ex opposito 
-      <lb ed="#P" n="114"/>ne: Nam uidemus etiam in diuinis, quod re 
-      <!--540.xml-->
-      <pb ed="#P" n="515"/>
-               <cb ed="#P" n="a"/>
-               <lb ed="#P" n="1"/>lationes disparatae quae non habent opposito 
-      <lb ed="#P" n="2"/>nem, distinguuntur tamen realiter, sicut
-      pa<lb ed="#P" n="3" break="no"/>tet de generatione passione, &amp; spiratione pal 
-      <lb ed="#P" n="4"/>sione. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1493">
-               <lb ed="#P" n="5"/>Et ideo aliter respondet ipse ad quaesitum; 
-      <lb ed="#P" n="6"/>Dicens, quod relatio non habet quod sit res 
-      <lb ed="#P" n="7"/>ex seipsa inquantum relatio est, quia sic etiam 
-      <lb ed="#P" n="8"/>relatio secundum rationem esset res; qua pro 
-      <lb ed="#P" n="9"/>pter ex alio habet quod sit res, &amp; ex alio, 
-      <lb ed="#P" n="10"/>quod sit relatio, nam quia de ratione rei est 
-      <lb ed="#P" n="11"/>habere esse ratum, &amp; firmum, &amp; a fundamen 
-      <lb ed="#P" n="12"/>to relatio habet suam ratitudinem, &amp;
-      firmi<lb ed="#P" n="13" break="no"/>tatem, idcirco a fundamento, vel a supposito 
-      <lb ed="#P" n="14"/>in quo est habet quod sit res, ab ipso uero 
-      <lb ed="#P" n="15"/>termino opposito ad quem est, habet quod 
-      <lb ed="#P" n="16"/>sit relatio, quia ratio relationis consistit in 
-      <lb ed="#P" n="17"/>oppositone, &amp; in ad aliud se habere. Ad hoc 
-      <lb ed="#P" n="18"/>ergo quod relatio plurificetur inquantum 
-      <lb ed="#P" n="19"/>relatio, sufficit quod plurificentur ipsi termi 
-      <lb ed="#P" n="20"/>ni dummodo illi sint diuersarum rationum, 
-      <lb ed="#P" n="21"/>quia si essent eiusdem rationis, vna sola
-      rela<lb ed="#P" n="22" break="no"/>tio posset terminari ad omnes eos, sicut dice 
-      <lb ed="#P" n="23"/>batur superius de vna paternitate respectu 
-      <lb ed="#P" n="24"/>multorum filiorum: ad hoc vero quod
-      rela<lb ed="#P" n="25" break="no"/>tio plurificetur inquantum res, oportet, quod 
-      <lb ed="#P" n="26"/>plurificentur fundamenta uel supposita in 
-      <lb ed="#P" n="27"/>quibus existit, &amp; quia generatio actio, &amp; spi 
-      <lb ed="#P" n="28"/>ratio actio habent terminos distinctos, &amp; di- 
-      <lb ed="#P" n="29"/>uersarum rationum, existunt tamen in uno 
-      <lb ed="#P" n="30"/>fundamento, &amp; supposito, idcirco
-      relinqui<lb ed="#P" n="31" break="no"/>tur, quod sint distinctae relationes non tamen 
-      <lb ed="#P" n="32"/>distinctae res. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1556">
-               <lb ed="#P" n="33"/>Haec autem opinio videtur mihi
-      rationa<lb ed="#P" n="34" break="no"/>bilis propter duo. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1563">
-               <lb ed="#P" n="35"/>Primo, quia sicut patebit in 33. dist.
-      rela<lb ed="#P" n="36" break="no"/>tio est idem realiter, quod suum
-      fundamen<lb ed="#P" n="37" break="no"/>tum, &amp; per consequens habet suam
-      realita<lb ed="#P" n="38" break="no"/>tem in fundamento, &amp; ex fundamento, &amp; 
-      <lb ed="#P" n="39"/>per oppositum quia non est idem, quod suus ter 
-      <lb ed="#P" n="40"/>minus, sed distinguitur realiter ab eo; idcirco 
-      <lb ed="#P" n="41"/>non habet suam realitatem in termino, vel 
-      <lb ed="#P" n="42"/>ex termino, quap opter si debeat plurificari 
-      <lb ed="#P" n="43"/>inquantum res, necessario plurificabitur suum 
-      <lb ed="#P" n="44"/>fundamentum, vel suppositum in quo est. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1587">
-               <lb ed="#P" n="45"/>Secundo, quia si relatio haberet aliquid 
-      <lb ed="#P" n="46"/>de sua realitate in termino, vel ex termino, 
-      <lb ed="#P" n="47"/>tunc terminus esset de suo primo intellectu, 
-      <lb ed="#P" n="48"/>quod patet esse falsum, quia est de
-      secunda<lb ed="#P" n="49" break="no"/>rio intellectu, nec intrat suam definitionem, 
-      <lb ed="#P" n="50"/>nisi in obliquo, quare relinquitur, quod
-      ha<lb ed="#P" n="51" break="no"/>beat totam suam realitatem in fundamento, 
-      <lb ed="#P" n="52"/>uel ex fundamento, vel supposito in quo est, 
-      <lb ed="#P" n="53"/>&amp; per consequens non plurificabitur inquam 
-      <lb ed="#P" n="54"/>tum res, nisi plurificato supposito, uel funda 
-      <lb ed="#P" n="55"/>mento in quo est, quia tunc habet
-      comple<lb ed="#P" n="56" break="no"/>mentum suae oppositonis a termino opposi 
-      <lb ed="#P" n="57"/>to, ad quem est, idcirco ab eo habet quod fit 
-      <!--540.xml-->
-      <cb ed="#P" n="b"/> 
-               <!-- 515 b -->
-               <lb ed="#P" n="58"/>relatio, &amp; per consequens poterit plurificari 
-      <lb ed="#P" n="59"/>inquantum relatio ex sola plurificatione ter 
-      <lb ed="#P" n="60"/>minorum : Nec obstat si dicatur, quod in re 
-      <lb ed="#P" n="61"/>latione est idem ipsam esse rem, &amp; esse
-      rela<lb ed="#P" n="62" break="no"/>tionem, ergo ab eodem habet quod sit res, &amp;  
-      <lb ed="#P" n="63"/>quod sit relatio. Quia sicut relatio non
-      ha<lb ed="#P" n="64" break="no"/>bet quod sit relatio realis a solo termino,
-      si<lb ed="#P" n="65" break="no"/>ue a fundamento, ita etiam non habet, quod 
-      <lb ed="#P" n="66"/>sit res relatiua a solo fundamento siue a ter 
-      <lb ed="#P" n="67"/>mino, qua propter oportet imaginari, quod 
-      <lb ed="#P" n="68"/>ambo illa cooperentur ad suum esse, aliter 
-      <lb ed="#P" n="69"/>tamen &amp; aliter, fundamentum enim
-      coope<lb ed="#P" n="70" break="no"/>ratur ad suum esse ut sit reale, terminus
-      ve<lb ed="#P" n="71" break="no"/>ro cooperatur ad suum esse, ut sit relatiuum, 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1656">
-               <lb ed="#P" n="72"/>Nec etiam obstat si dicatur, quod res sit 
-      <lb ed="#P" n="73"/>quid superius ad relationem, &amp; per
-      conse<lb ed="#P" n="74" break="no"/>quens plurificata relatione uidetur plurifica 
-      <lb ed="#P" n="75"/>ri res, hoc inquam non valet in proposito; 
-      <lb ed="#P" n="76"/>Quia ostensum est, quod relatio sic non plu 
-      <lb ed="#P" n="77"/>rificatur inquantum res, &amp; per consequens 
-      <lb ed="#P" n="78"/>non est quid superius ad eam, vt sic
-      plurifi<lb ed="#P" n="79" break="no"/>catur. Si autem quaeratur vlterius, vtrum
-      prae<lb ed="#P" n="80" break="no"/>fata distinctio inter has duas relationes sit 
-      <lb ed="#P" n="81"/>realis uel rationis. Dicendum quod est
-      rea<lb ed="#P" n="82" break="no"/>lis extrinsece, &amp; ex parte terminorum, ex 
-      <lb ed="#P" n="83"/>parte tamen fundamenti, uel supposit a quo 
-      <lb ed="#P" n="84"/>modo habet intrinsece suam entitatem est so 
-      <lb ed="#P" n="85"/>lum secundum rationem : verum est tamen 
-      <lb ed="#P" n="86"/>quod talis distinctio secundum rationem est 
-      <lb ed="#P" n="87"/>proueniens ex natura rei necessitantis, quem 
-      <lb ed="#P" n="88"/>admodum distinctio inter essentiam, &amp;
-      rela<lb ed="#P" n="89" break="no"/>tionem, de qua melius patebit in trigesima 
-      <lb ed="#P" n="90"/>tertia dist. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1700">
-               <lb ed="#P" n="91"/>Patet ergo quantum ad istum articulum, 
-      <lb ed="#P" n="92"/>quod generatio actio, &amp; spiratio actio sunt 
-      <lb ed="#P" n="93"/>duae relationes, duae actiones, &amp; per
-      conse<lb ed="#P" n="94" break="no"/>quens duo principia, non tamen duae res, quia 
-      <lb ed="#P" n="95"/>ad earum distinctionem inquantum relationes,  
-      <lb ed="#P" n="96"/>&amp; inquantum actiones, &amp; principia, sufficit di 
-      <lb ed="#P" n="97"/>stinctio extrinseca realis terminorum, &amp;
-      ea<lb ed="#P" n="98" break="no"/>rundem distinctio rationis intrinseca: si aute 
-      <lb ed="#P" n="99"/>essent distinctae res, oporteret in eis dare
-      di<lb ed="#P" n="100" break="no"/>stinctionem intrinsecam realem ex parte fun 
-      <lb ed="#P" n="101"/>damenti, vel suppositi, cuius contrarium est 
-      <lb ed="#P" n="102"/>ostensum. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1729">
-               <lb ed="#P" n="103"/>AD RATIONES PRINCIPALES. 
-      <lb ed="#P" n="104"/>primam dicendum, quod sicut  
-      <lb ed="#P" n="105"/>principiatum est alterius, &amp; alterius 
-      <lb ed="#P" n="106"/>rationis, ita &amp; dare esse principiato est
-      alte<lb ed="#P" n="107" break="no"/>rius, &amp; alterius rationis vtrobique. 
-    </p>
-            <p xml:id="gsX5tY-d1e833-d1e1742">
-               <lb ed="#P" n="108"/>Ad secundam vero dicendum, quod Maior 
-      <lb ed="#P" n="109"/>est falsa, nec probatio valet, quia magis
-      di<lb ed="#P" n="110" break="no"/>stinguuntur relatio realis, &amp; relatio rationis,  
-      <lb ed="#P" n="111"/>quam duae relationes reales, &amp; maxime, cum 
-      <lb ed="#P" n="112"/>coincidant in unam realitatem, sicut est in 
-      <lb ed="#P" n="113"/>proposito. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#GerardusDeSiena">Gerard of Siena</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-10">October 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-P122zz">Padua 1598</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="510"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gsX5tY-d1e833"> <!-- l1d29q1 -->
+        <head xml:id="gsX5tY-d1e833-Hd1e109">Quaestio 1</head>
+        <head xml:id="gsX5tY-d1e833-Hd1e112" type="question-title">Utrum principium dicatur secundum unam rationem in Deo, et
+          creaturis</head>
+        <p xml:id="gsX5tY-d1e833-d1e115">
+          <lb ed="#P" n="31"/>DISTINCTIONIS XXIX. 
+          <lb ed="#P" n="32"/>QVAESTIO VNICA 
+          <lb ed="#P" n="33"/>Vtrum hoc nomen principium dicatur secu 
+          <lb ed="#P" n="34"/>dum vnam rationem de principio
+          di<lb ed="#P" n="35" break="no"/>uinarum personarum, &amp; de prin 
+          <lb ed="#P" n="36"/>cipio creaturarum.
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e131">
+          <lb ed="#P" n="37"/>ARGVITVR PRO PARTE 
+          <lb ed="#P" n="38"/>affirmatiua. 
+          <lb ed="#P" n="39"/>TVNC aliquod nomen dicitur de plu 
+          <lb ed="#P" n="40"/>ribus secundum vnam rationem, quam 
+          <lb ed="#P" n="41"/>do illa plura conueniunt in vna ratione
+          es<lb ed="#P" n="42" break="no"/>sendi secundum illud nomen, sed nomen 
+          <lb ed="#P" n="43"/>principij diuinarum personarum, &amp;
+          princi<lb ed="#P" n="44" break="no"/>pij creaturarum conueniunt in vna ratione 
+          <lb ed="#P" n="45"/>essendi, quae est dare esse principiato, ergo 
+          <lb ed="#P" n="46"/>&amp;c. Maior est nota, Minorem probo, quia 
+          <lb ed="#P" n="47"/>hoc nomen principium est impositum
+          prin<lb ed="#P" n="48" break="no"/>e pio diuinarum personarum, &amp; principio 
+          <lb ed="#P" n="49"/>cireaturarum ad significandum, quod vtrun 
+          <lb ed="#P" n="50"/>que illorum det esse suo principiato.
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e165">
+          <!--535.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 510 b -->
+          <lb ed="#P" n="51"/>2 Minus differunt principium diuinarum 
+          <lb ed="#P" n="52"/>personarum, &amp; principium cteaturatum, quam 
+          <lb ed="#P" n="53"/>generatio actiua secundum quam pater 
+          <lb ed="#P" n="54"/>est principium Filij, &amp; spiratio actiua 
+          <lb ed="#P" n="55"/>secundum quam Pater &amp; filius sunt
+          princi<lb ed="#P" n="56" break="no"/>pium Spiritus Sancti, sed hoc nomen princi 
+          <lb ed="#P" n="57"/>pium dicitur vniuoce de generatione actiua 
+          <lb ed="#P" n="58"/>Patris, &amp; de spiratione actiua Patris &amp;Filijj 
+          <lb ed="#P" n="59"/>ergo dicetur secundum vnam rationem de 
+          <lb ed="#P" n="60"/>principio diuinarum personarum, &amp; de prin 
+          <lb ed="#P" n="61"/>cipio creaturarum. Maiorem probo, quia ge 
+          <lb ed="#P" n="62"/>neratio actiua Patris, &amp; spiratio actiua
+          Pa<lb ed="#P" n="63" break="no"/>tris, &amp; Filij videntur distingui realiter, cum 
+          <lb ed="#P" n="64"/>sint duae relationes reales, principium aute 
+          <lb ed="#P" n="65"/>diuinarum personarum, &amp; principium
+          crea<lb ed="#P" n="66" break="no"/>turarum nullo modo distinguuntur realiter 
+          <lb ed="#P" n="67"/>quia non sunt plures res absolutae, cum abso 
+          <lb ed="#P" n="68"/>luta in diuinis non plurificentur; nec etiam 
+          <lb ed="#P" n="69"/>plures res relatiuae, cum nulla sit realis
+          rela<lb ed="#P" n="70" break="no"/>tio in Deo respectu creaturae: Probo etiam
+          Mi<lb ed="#P" n="71" break="no"/>norem, quia illa principia, quae principiant 
+          <lb ed="#P" n="72"/>non solum in similitudinem naturae, sed in idem 
+          <lb ed="#P" n="73"/>titatem, videntur maxime eiusdem rationis; ge 
+          <lb ed="#P" n="74"/>neratio actiua, &amp; spiratio actiua sunt
+          huius<lb ed="#P" n="75" break="no"/>modi, vt de se patet, ergo hoc nomen
+          princi<lb ed="#P" n="76" break="no"/>vium dicetur de eis maxime secundum
+          ean<lb ed="#P" n="77" break="no"/>dem rationem.
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e233">
+          <lb ed="#P" n="78"/>PRO PARTE AFFIRMATIVA 
+          <lb ed="#P" n="79"/>avguitur 
+          <lb ed="#P" n="80"/>1QI hoc nomen principium diceretur vni 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e242">
+          <lb ed="#P" n="81"/>Quoce de principio diuinarum
+          persona<lb ed="#P" n="82" break="no"/>rum, &amp; de principio creaturarum,
+          sequere<lb ed="#P" n="83" break="no"/>tur quod sicut principium diuinarum
+          per<lb ed="#P" n="84" break="no"/>sonarum est necessarium in principiando, ita 
+          <lb ed="#P" n="85"/>etiam esset &amp; principium creaturarum: quod 
+          <lb ed="#P" n="86"/>atet esse falsum 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e258">
+          <lb ed="#P" n="87"/>2 Sequeretur, quod sicut principium
+          di<lb ed="#P" n="88" break="no"/>uinatum personarum habuit suam
+          principia<lb ed="#P" n="89" break="no"/>tionem in aeternitate, ita &amp; principium crea 
+          <lb ed="#P" n="90"/>turarum, quod etiam patet esse falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e269">
+          <lb ed="#P" n="91"/>RESPONDE O: In ista quaestione 
+          <lb ed="#P" n="92"/>duo sunt videnda 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e276">
+          <lb ed="#P" n="93"/>Vtrum hoc nomen principium dicatur 
+          <lb ed="#P" n="94"/>de principio diuinarum personarum, &amp; prin 
+          <lb ed="#P" n="95"/>cipio creaturarum secundum vnam rationem, 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e286">
+          <lb ed="#P" n="96"/>2 Vtrum princirium filij, quod est
+          gene<lb ed="#P" n="97" break="no"/>ratio actiua, &amp; principium Spiritus Sancti, 
+          <lb ed="#P" n="98"/>qud est spiratio actiua realiter distinguantur. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e295">
+          <lb ed="#P" n="99"/>ARTICVLVS PRIMVS. 
+          <lb ed="#P" n="100"/>An principium dicatur secundum eandem  
+          <lb ed="#P" n="101"/>rationem de principio personarum, &amp; 
+          <lb ed="#P" n="102"/>creaturarum.
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e306">
+          <lb ed="#P" n="103"/>QVantum ad hoc quidam dicunt, quod 
+          <lb ed="#P" n="104"/>a principio diuinarum personarum, &amp;  
+          <!--536.xml-->
+          <pb ed="#P" n="511"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>a principio creaturarum potest abstrahi vnus 
+          <lb ed="#P" n="2"/>communis conceptus, &amp; vna communis
+          ra<lb ed="#P" n="3" break="no"/>tio secundum quam principium dicatur
+          vni<lb ed="#P" n="4" break="no"/>uoce de vtroque, hoc autem probant
+          tripli<lb ed="#P" n="5" break="no"/>citer. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e330">
+          <lb ed="#P" n="6"/>1 Sicut se habet causa vniuoca causans 
+          <lb ed="#P" n="7"/>in unitate speciei ad causam aequiuocam cau 
+          <lb ed="#P" n="8"/>sante in diuersitate speciei, ita principium di 
+          <lb ed="#P" n="9"/>uinarum personarum principians in
+          identi<lb ed="#P" n="10" break="no"/>tate naturae, ad principium creaturarum
+          prin<lb ed="#P" n="11" break="no"/>cipians in diuersitate naturae: quia vtrobiqu 
+          <lb ed="#P" n="12"/>videtur esse eade proportio: sed causa
+          vniuo<lb ed="#P" n="13" break="no"/>ca, &amp; aequiuoca possunt concipi vno
+          conmu<lb ed="#P" n="14" break="no"/>ni conceptu causae efficientis, qui tamen est 
+          <lb ed="#P" n="15"/>maioris latitudinis, quam conceptus
+          princi<lb ed="#P" n="16" break="no"/>pij, ergo multo magis principium diuinarum  
+          <lb ed="#P" n="17"/>personarum, &amp; principium creaturarum po 
+          <lb ed="#P" n="18"/>terunt concipi vno communi conceptu prin 
+          <lb ed="#P" n="19"/>cipij principiantis, cum talis communitas sit 
+          <lb ed="#P" n="20"/>minoris latitudinis 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e365">
+          <lb ed="#P" n="21"/>2 Illa, secundum quae potest fieri compa 
+          <lb ed="#P" n="22"/>ratio adinuicem, habent vnam communem 
+          <lb ed="#P" n="23"/>rationem, quia in aequiuocis non est
+          compa<lb ed="#P" n="24" break="no"/>ratio, sed P. Aug. facit comparationem inter 
+          <lb ed="#P" n="25"/>principium creaturarum, &amp; principium diui 
+          <lb ed="#P" n="26"/>narum personarum. <ref xml:id="gsX5tY-d1e833-Rd1e380" corresp="#gsX5tY-d1e833-Qd1e385">5. de Trin. cap. 14</ref>. dices,  
+          <lb ed="#P" n="27"/>quod <quote xml:id="gsX5tY-d1e833-Qd1e385" source="http://scta.info/resource/adt-l5-d1e756@151-172">sicut Pater, &amp; Filius vnus Deus
+            dici<lb ed="#P" n="28" break="no"/>tur, &amp; ad creaturam relatiue vnus creator,  
+            <lb ed="#P" n="29"/>&amp; vnus Dominus, sic relatiue ad Spiritum 
+            <lb ed="#P" n="30"/>Sanctum refertur vt vnum principium</quote>; 
+          er<lb ed="#P" n="31" break="no"/>go habent vnam communem rationem. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e397">
+          <lb ed="#P" n="32"/>3 Si aliqua causa esset, quare dicta 
+          princi<lb ed="#P" n="33" break="no"/>pia non haberent vnam communem
+          ratio<lb ed="#P" n="34" break="no"/>nem, maxime videretur esse ista, scilicet quia 
+          <lb ed="#P" n="35"/>principiatio principij diuinarum personarum 
+          <lb ed="#P" n="36"/>est prior principiatione principij creaturarum 
+          <lb ed="#P" n="37"/>&amp; causa illius, &amp; etiam quia ipsa est
+          necessa<lb ed="#P" n="38" break="no"/>ria, &amp; illa contingens, hoc tamen propositum 
+          <lb ed="#P" n="39"/>non impedit, nam videmus, quod sol est prior 
+          <lb ed="#P" n="40"/>flore, &amp; est causa eius, tamen hoc non obstam 
+          <lb ed="#P" n="41"/>te a sole, &amp; a flore potest abstrahi vnus 
+          com<lb ed="#P" n="42" break="no"/>munis conceptus, &amp; vna conmunis ratio
+          sub<lb ed="#P" n="43" break="no"/>stantiae. Praeterea, videmus, quod quaedam  
+          <lb ed="#P" n="44"/>proposito est contingens, &amp; quaedam neces 
+          <lb ed="#P" n="45"/>saria, &amp; tamen hoc non obstante potest ab 
+          <lb ed="#P" n="46"/>eis abstrahi vna communis ratio
+          proposito<lb ed="#P" n="47" break="no"/>nis, ergo pari ratione poterit ita esse in
+          pro<lb ed="#P" n="48" break="no"/>posito.  
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e437">
+          <lb ed="#P" n="49"/>Haec autem opinio videtur deficere in se, 
+          <lb ed="#P" n="50"/>&amp; in suis motiuis; &amp; quod deficiat in se
+          pa<lb ed="#P" n="51" break="no"/>tebit infra quando probabitur opposita concl. 
+          <lb ed="#P" n="52"/>Quod autem deficiat in suis motiuis apparet 
+          <lb ed="#P" n="53"/>discurrendo per singula.  
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e450">
+          <lb ed="#P" n="54"/>Primum nanque dupliciter deficit,
+          pri<lb ed="#P" n="55" break="no"/>mo, quia videtur supponere, quod totum
+          ge<lb ed="#P" n="56" break="no"/>nus causae efficientis habeat vnum
+          commu<lb ed="#P" n="57" break="no"/>nem conceptum, quod quidem dictum omni 
+          <!--536.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 511 b -->
+          <lb ed="#P" n="58"/>no est falsum, nam cum causa efficiens
+          inue<lb ed="#P" n="59" break="no"/>niatur non solum in genere substantiae, sed  
+          <lb ed="#P" n="60"/>etiam in genere accidentis, sequeretur quod 
+          <lb ed="#P" n="61"/>substantia, &amp; accidens haberent vnum
+          con<lb ed="#P" n="62" break="no"/>ceptum, vel oporteret dare quod dam aliud 
+          <lb ed="#P" n="63"/>genus, quod nec esset genus substantiae, nec 
+          <lb ed="#P" n="64"/>accidentis, quod patet esse falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e483">
+          <lb ed="#P" n="65"/>Secundo deficit, quia supponit, quod sit 
+          <lb ed="#P" n="66"/>eadem proportio principij diuinarum perso 
+          <lb ed="#P" n="67"/>narum ad principium creaturarum; quae est 
+          <lb ed="#P" n="68"/>causae efficientis aequiuocae ad causam efficien 
+          <lb ed="#P" n="69"/>tem uniuocam, quod videtur esse falsum; 
+          <lb ed="#P" n="70"/>quia causa vniuoca, &amp; aequiuoca possunt ita 
+          <lb ed="#P" n="71"/>se habere, quod concurrant in vnum &amp; eun 
+          <lb ed="#P" n="72"/>dem effectum, principium autem
+          diuina<lb ed="#P" n="73" break="no"/>rum personarum, &amp; principium
+          crea<lb ed="#P" n="74" break="no"/>turarum nunquam possunt concurrere in 
+          <lb ed="#P" n="75"/>idem principium. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e509">
+          <lb ed="#P" n="76"/>Secundum etiam motiuum deficit; quia 
+          <lb ed="#P" n="77"/>accipit pro eodem comparationem, &amp;
+          pro<lb ed="#P" n="78" break="no"/>portionem, cum tamen sit inter eas magna 
+          <lb ed="#P" n="79"/>differentia; nam comparatio proprie dicta 
+          <lb ed="#P" n="80"/>requirit non solum vnitatem generis, sed et 
+          <lb ed="#P" n="81"/>vnitatem speciei, proportio vero potest esse  
+          <lb ed="#P" n="82"/>inter ea quae sunt alterius generis, sicut inter 
+          <lb ed="#P" n="83"/>accidens, &amp; substantiam, &amp; ideo propter
+          di<lb ed="#P" n="84" break="no"/>ctum P. Aug. superius allegatum non
+          opor<lb ed="#P" n="85" break="no"/>tet ponere comparationem inter principium 
+          <lb ed="#P" n="86"/>diuinarum personarum, &amp; principium crea 
+          <lb ed="#P" n="87"/>turarum, sed sufficit ibi ponere aliqualem  
+          <lb ed="#P" n="88"/>proportionem 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e540">
+          <lb ed="#P" n="89"/>Tertium etiam motiuum deficit accipien 
+          <lb ed="#P" n="90"/>do non causam vt causa: Nam causa quare 
+          <lb ed="#P" n="91"/>de utroque principio non possit haberi vna 
+          <lb ed="#P" n="92"/>communis ratio, &amp; conceptus, non est aliqua 
+          <lb ed="#P" n="93"/>llarum quae assumptae sunt, sed aliqua alia,  
+          <lb ed="#P" n="94"/>vel aliquae aliae, vt inferius patebit. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e556">
+          <lb ed="#P" n="95"/>Est ergo alius modus dicendi. Dicunt
+          n<lb ed="#P" n="96" break="no"/>quidam, quod nomen principij dicitur aequi 
+          <lb ed="#P" n="97"/>uoce de principio diuinarum personarum, &amp;  
+          <lb ed="#P" n="98"/>principio creaturarum, quia (secundum eos) 
+          <lb ed="#P" n="99"/>dem significatur per hoc nomen principium, 
+          <lb ed="#P" n="100"/>&amp; per hoc nomen potentia actiua, in cuius si 
+          <lb ed="#P" n="101"/>gnum potentia actiua definitur per esse 
+          <lb ed="#P" n="102"/>principium agendi; vel transmutandi, sicut  
+          <lb ed="#P" n="103"/>atet 7. Metaph &amp; quia potentia actiua
+          di<lb ed="#P" n="104" break="no"/>citur aequiuoce, &amp; non secundum vnam
+          ra<lb ed="#P" n="105" break="no"/>tionem respectu diuinarum personarum, &amp; 
+          <lb ed="#P" n="106"/>respectu creaturarum, idcirco inferunt, quod 
+          <lb ed="#P" n="107"/>nullum principium, dicatur aequiuoce de 
+          <lb ed="#P" n="108"/>principio sumpto vtroque modo, quod auten 
+          <lb ed="#P" n="109"/>otentia dicatur aequiuoce respectu
+          diuina<lb ed="#P" n="110" break="no"/>rum personarum, &amp; respectu creaturarum 
+          <lb ed="#P" n="111"/>probant per hoc, scilicet quia potentia actiua 
+          <lb ed="#P" n="112"/>respectu creaturarum dicitur proprie actiua, 
+          <lb ed="#P" n="113"/>tum quia est aliud genus proprie dictum quod 
+          <lb ed="#P" n="114"/>est distinctum ab ipso esse; Tum quia ha¬ 
+          <!--537.xml-->
+          <pb ed="#P" n="512"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>bet in termino producto veram alietatem, quoid 
+          <lb ed="#P" n="2"/>est de ratione potentiae actiuae proprie dictae, 
+          <lb ed="#P" n="3"/>cum sit principium agendi in aliud
+          inquan<lb ed="#P" n="4" break="no"/>tum aliud: sed potentia actiua respectu diui 
+          <lb ed="#P" n="5"/>narum personarum non est proprie actiua, 
+          <lb ed="#P" n="6"/>quia habet oppositas conditiones, scilicet 
+          <lb ed="#P" n="7"/>quia est tale agere, quod est idem, quod esse, 
+          <lb ed="#P" n="8"/>&amp; in termino producto non habet veram  
+          <lb ed="#P" n="9"/>alietatem. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e629">
+          <lb ed="#P" n="10"/>Addunt tamen vlterius, quod quamuis 
+          <lb ed="#P" n="11"/>hoc nomen principium inquantum significat 
+          <lb ed="#P" n="12"/>ipsam potentiam productiuam proprius dica 
+          <lb ed="#P" n="13"/>tur de principio creaturarum, quam de prin 
+          <lb ed="#P" n="14"/>cipio diuinarum personarum propter ratio 
+          <lb ed="#P" n="15"/>nem praehabitam, inquantum tamen
+          signifi<lb ed="#P" n="16" break="no"/>cat habitudinem producentis ad productum, 
+          <lb ed="#P" n="17"/>sic verius, &amp; proprius dicitur de principio di 
+          <lb ed="#P" n="18"/>uinatum personarum, quam de principio 
+          <lb ed="#P" n="19"/>creaturarum, quia principium diuinarum 
+          <lb ed="#P" n="20"/>personarum habet realem relationem ad
+          ip<lb ed="#P" n="21" break="no"/>sum principium, vtpote Pater, qui est prin 
+          <lb ed="#P" n="22"/>cipium Filij per realem relationem ad Filium,  
+          <lb ed="#P" n="23"/>&amp; Pater, &amp; Filius qui sunt principium Spi- 
+          <lb ed="#P" n="24"/>ritus Sancti habent realem relationem ac 
+          <lb ed="#P" n="25"/>Spiritum Sanctum, principium vero creatu 
+          <lb ed="#P" n="26"/>rarum, scilicet tota Trinitas non habet
+          rela<lb ed="#P" n="27" break="no"/>tionem realem ad ipsam creaturam, quae est 
+          <lb ed="#P" n="28"/>principiatum, sed solum secundum rationem, 
+          <lb ed="#P" n="29"/>illud autem, quod dicitur de pluribus.
+          pro<lb ed="#P" n="30" break="no"/>prius, &amp; verius dicitur de eo, quod est tale 
+          <lb ed="#P" n="31"/>secundum rem, quam de eo, quod est tale se 
+          <lb ed="#P" n="32"/>cundum rationem. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e681">
+          <lb ed="#P" n="33"/>Vlterius addunt, quod hoc nomen
+          prin<lb ed="#P" n="34" break="no"/>cipium secundum primam nominis
+          imposi<lb ed="#P" n="35" break="no"/>tionem sonat defectum, quia significat diuer 
+          <lb ed="#P" n="36"/>sitatem simpliciter inter principium &amp; prin 
+          <lb ed="#P" n="37"/>cipiatum, secundum quem modum non
+          po<lb ed="#P" n="38" break="no"/>test poni in diuinis; &amp; ideo non debet repu 
+          <lb ed="#P" n="39"/>tari inconueniens si dicatur de eo per prius 
+          <lb ed="#P" n="40"/>in comparatione ad creaturam, quam in con 
+          <lb ed="#P" n="41"/>paratione ad diuinam personam productam 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e703">
+          <lb ed="#P" n="42"/>Haec autem opinio non potest stare
+          pro<lb ed="#P" n="43" break="no"/>pter quatuor. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e710">
+          <lb ed="#P" n="44"/>Primo, quia loquitur hic de principio,
+          se<lb ed="#P" n="45" break="no"/>cundum quod nominat potentiam producti 
+          <lb ed="#P" n="46"/>uam, quae est ratio producendi, secundum 
+          <lb ed="#P" n="47"/>quem modum non est ad propositum, quia 
+          <lb ed="#P" n="48"/>Magister sententiarum in ista distinct. non 
+          <lb ed="#P" n="49"/>loquitur de principio isto modo, sed loqui  
+          <lb ed="#P" n="50"/>tur de principio, prout nominat ipsum
+          pro<lb ed="#P" n="51" break="no"/>ducens, siue relationem producentis ad pro 
+          <lb ed="#P" n="52"/>ductum 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e732">
+          <lb ed="#P" n="53"/>Secundo, quia ista duo non videntur
+          in<lb ed="#P" n="54" break="no"/>compossibilia, scilicet quod pr incipium,
+          pro<lb ed="#P" n="55" break="no"/>vt nominat potentiam productiuami, verius 
+          <lb ed="#P" n="56"/>dicatur de Deo in comparatione ad
+          creatu<lb ed="#P" n="57" break="no"/>ram, prout vero nominat relationem produm 
+          <!--537.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 512 b -->
+          <lb ed="#P" n="58"/>centis ad productum verius de Deo in com 
+          <lb ed="#P" n="59"/>paratione ad personam productam, nam po 
+          <lb ed="#P" n="60"/>tentia productiua est principium, &amp;
+          funda<lb ed="#P" n="61" break="no"/>mentum relationis producentis ad
+          produ<lb ed="#P" n="62" break="no"/>ctum, &amp; ideo vbi non inuenitur potentia 
+          <lb ed="#P" n="63"/>productiua proprie dicta, ibi non debet inue 
+          <lb ed="#P" n="64"/>niri relatio producentis ad productum
+          pro<lb ed="#P" n="65" break="no"/>prie dicta 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e769">
+          <lb ed="#P" n="66"/>Tertio, non videtur esse verum, quod prin 
+          <lb ed="#P" n="67"/>cipium per prius dicatur de Deo per compa 
+          <lb ed="#P" n="68"/>rationem ad creaturam, quam per compara 
+          <lb ed="#P" n="69"/>tionem ad personam productam, quia quic 
+          <lb ed="#P" n="70"/>quid reperitur in Deo proprie, &amp; non
+          secu<lb ed="#P" n="71" break="no"/>dum similitudinem, proprius, &amp; verius
+          dici<lb ed="#P" n="72" break="no"/>tur de Deo secundum se, quam in ordine 
+          <lb ed="#P" n="73"/>ad creaturam, ratio autem principij in
+          ordi<lb ed="#P" n="74" break="no"/>ne ad personam productam inuenitur in Deo 
+          <lb ed="#P" n="75"/>proprie, &amp; non solum secundum
+          similitudi<lb ed="#P" n="76" break="no"/>nem, ergo &amp;c.
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e796">
+          <lb ed="#P" n="77"/>Quarto, videtur esse falsum, quod
+          princi<lb ed="#P" n="78" break="no"/>pium secundum primam nominis
+          imposito<lb ed="#P" n="79" break="no"/>nem sonet defectum, quia tunc ordo, qui 
+          <lb ed="#P" n="80"/>dicit maximam perfectionem, non oriretur 
+          <lb ed="#P" n="81"/>ex principio, quod patet esse falsum ex 5. 
+          <lb ed="#P" n="82"/>Metaph cap de Priori, vbi ait Com. quod 
+          <lb ed="#P" n="83"/>ordo semper oritur ex habitudine ad aliqud 
+          <lb ed="#P" n="84"/>principium. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e816">
+          <lb ed="#P" n="85"/>Et ideo est adhuc alius modus dicendi, 
+          <lb ed="#P" n="86"/>quem tangit AEgidius volens, quod hoc
+          no<lb ed="#P" n="87" break="no"/>men principium dicatur de principio
+          diui<lb ed="#P" n="88" break="no"/>narum personarum, &amp; principio creaturarum 
+          <lb ed="#P" n="89"/>non vniuoce, nec aequiuoce, sed analogice, 
+          <lb ed="#P" n="90"/>&amp; quod ita sit probat dupliciter, primo sic.i 
+          <lb ed="#P" n="91"/>Illud nomen, quod dicitur de aliquibus plu 
+          <lb ed="#P" n="92"/>ribus, ita tamen quod de vno illorum por 
+          <lb ed="#P" n="93"/>attributionem ad alterum, dicitur de eis ana 
+          <lb ed="#P" n="94"/>logice; sed hoc nomen principium dicitur 
+          <lb ed="#P" n="95"/>de principio creaturarum per attributionem 
+          <lb ed="#P" n="96"/>ad principium diuinarum personarum, ergo 
+          <lb ed="#P" n="97"/>&amp;c. Maior patet. Minor probatur, quia
+          si<lb ed="#P" n="98" break="no"/>cut se habet productio creaturatum ad
+          pro<lb ed="#P" n="99" break="no"/>ductionem diuinarum personarum, ita prin 
+          <lb ed="#P" n="100"/>cipium vnius ad principium alterius, sed pro 
+          <lb ed="#P" n="101"/>ductio creaturarum, cum sit extrinseca, non 
+          <lb ed="#P" n="102"/>potest esse eiusdem rationis cum
+          productio<lb ed="#P" n="103" break="no"/>ne diuinarum personarum, quae est
+          intrinse<lb ed="#P" n="104" break="no"/>ca, &amp; sic oportet, quod se habeat per attribu 
+          <lb ed="#P" n="105"/>tionem ad eam: ergo eodem modo
+          princi<lb ed="#P" n="106" break="no"/>pium creaturarum non erit eiusdem rationis 
+          <lb ed="#P" n="107"/>cum principio diuinarum personarum, sed ha 
+          <lb ed="#P" n="108"/>bebit se per attributionem ad ipsum 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e871">
+          <lb ed="#P" n="109"/>Secundo sic, De ratione principij est refer 
+          <lb ed="#P" n="110"/>ri ad principium: sicut ergo se habet relatio 
+          <lb ed="#P" n="111"/>vnius principij ad relationem alterius, ita
+          v<lb ed="#P" n="112" break="no"/>num principium ad aliud, sed relatio princi u 
+          <lb ed="#P" n="113"/>pij diuinarum personarum, &amp; relatio princi i 
+          <lb ed="#P" n="114"/>pij creatutarum non sunt eiusdem rationis,  
+          <!--538.xml-->
+          <pb ed="#P" n="513"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>quia vna est realis, &amp; altera rationis, ergo &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e895">
+          <lb ed="#P" n="2"/>Praeterea, per prius relatio dicitur de rela  
+          <lb ed="#P" n="3"/>tione principij diuinarum personarum, cum 
+          <lb ed="#P" n="4"/>sit ealis, quam de relatione principij creatu 
+          <lb ed="#P" n="5"/>rarum, cum sit rationis; ergo eodem modo hoc 
+          <lb ed="#P" n="6"/>nomen principium per prius dicetur de prin 
+          <lb ed="#P" n="7"/>cipio diuinarum personarum, quam de prin 
+          <lb ed="#P" n="8"/>cipio creaturarum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e913">
+          <lb ed="#P" n="9"/>lstam conclusionem confirmo etiam
+          du<lb ed="#P" n="10" break="no"/>pliciter 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e920">
+          <lb ed="#P" n="11"/>Primo sic, sicut se habet cognitio, qua Des 
+          <lb ed="#P" n="12"/>cognoscit seipsum tanquam obiectum prima 
+          <lb ed="#P" n="13"/>rium &amp; intrinsecum, ad cognitionem qua 
+          <lb ed="#P" n="14"/>cognoscit creaturam tanquam obiectum
+          se<lb ed="#P" n="15" break="no"/>cundarium, &amp; extrinsecum; ita principium 
+          <lb ed="#P" n="16"/>quo Deus principiat personas intrinsece, &amp;  
+          <lb ed="#P" n="17"/>in identitate naturae, ad principium quo prin 
+          <lb ed="#P" n="18"/>cipiat creaturas extrinsece, &amp; in diuersitate 
+          <lb ed="#P" n="19"/>iubstantiae, sed cognitio, qua cognoscit
+          se<lb ed="#P" n="20" break="no"/>psum, &amp; qua cognoscit creaturas non est 
+          <lb ed="#P" n="21"/>eiusdem rationis, quia prima est per essentiam, 
+          <lb ed="#P" n="22"/>vt essentia est, secunda vero per essentiam 
+          <lb ed="#P" n="23"/>vt idea est; ergo &amp; principium diuinarum  
+          <lb ed="#P" n="24"/>personarum non erit eiusdem rationis cum 
+          <lb ed="#P" n="25"/>principio creaturarum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e956">
+          <lb ed="#P" n="26"/>Secundo, sicut se habet principiatum ad 
+          <lb ed="#P" n="27"/>principiatum, ita principium ad pricipium, 
+          <lb ed="#P" n="28"/>sed principiatum, quod est persona diuina,  
+          <lb ed="#P" n="29"/>&amp; principiatum, quod est creatura, non sunt 
+          <lb ed="#P" n="30"/>eiusdem rationis; ergo nec principia erunt 
+          <lb ed="#P" n="31"/>eiusdem rationis. Concludo ergo quantum 
+          <lb ed="#P" n="32"/>ad istum articulum, quod nomen principij 
+          <lb ed="#P" n="33"/>non dicitur secundum eandem rationem de 
+          <lb ed="#P" n="34"/>principio diuinarum personarum, &amp; de prin 
+          <lb ed="#P" n="35"/>cipio creaturarum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e980">
+          <lb ed="#P" n="36"/>ARTICVLVS SECVNDVS 
+          <lb ed="#P" n="37"/>Vtrum principium Filij, quod est generatio 
+          <lb ed="#P" n="38"/>actio, &amp; principium Spiritus Sancti, 
+          <lb ed="#P" n="39"/>quod est spiratio actio, realiter 
+          <lb ed="#P" n="40"/>distinguantur.
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e993">
+          <lb ed="#P" n="41"/>D hoc respondent aliqui affirmatiue. 
+          <lb ed="#P" n="42"/>quod quinque rationibus probant. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1000">
+          <lb ed="#P" n="43"/>1 Multiplicato vno relatiuorum
+          mul<lb ed="#P" n="44" break="no"/>tiplicatur &amp; reliquum, sed Filius, &amp; Spiritus 
+          <lb ed="#P" n="45"/>Sanctus sunt duo principiata relatiua
+          reali<lb ed="#P" n="46" break="no"/>ter distincta, ergo &amp; generatio actiua, &amp; spi- 
+          <lb ed="#P" n="47"/>ratio actiua erunt etiam duo principia
+          reali<lb ed="#P" n="48" break="no"/>ter distincta. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1016">
+          <lb ed="#P" n="49"/>2 Sicut se habet generatio passio ad spira 
+          <lb ed="#P" n="50"/>tionem actionem, ita generatio actio ad spi 
+          <lb ed="#P" n="51"/>rationem passionem, sed generatio passio, &amp;  
+          <lb ed="#P" n="52"/>spiratio passio realiter distinguuntur, ergo 
+          <lb ed="#P" n="53"/>generatio actio, &amp; spiratio actio realiter 
+          <!--538.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 513 b -->
+          <lb ed="#P" n="54"/>distinguuntur. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1038">
+          <lb ed="#P" n="55"/>3 Duae reales actiones realiter distinguum 
+          <lb ed="#P" n="56"/>tur, generatio actio, &amp; spiratio actio sunt 
+          <lb ed="#P" n="57"/>duae reales actiones, cum fluant ab eis duae 
+          <lb ed="#P" n="58"/>reales passiones, ergo realiter distinguuntur. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1050">
+          <lb ed="#P" n="59"/>4 Actio naturalis, &amp; actio libera realiter 
+          <lb ed="#P" n="60"/>distinguuntur, sed generatio actio, cum sit 
+          <lb ed="#P" n="61"/>per modum naturae est naturalis, spiratio ve 
+          <lb ed="#P" n="62"/>ro actio, cum sit per modum voluntatis, est
+          li<lb ed="#P" n="63" break="no"/>bera, ergo realiter distinguuntur 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1063">
+          <lb ed="#P" n="64"/>Si generatio actio esset idem quod
+          spi<lb ed="#P" n="65" break="no"/>ratio actio, pari ratione esset idem cum
+          gene<lb ed="#P" n="66" break="no"/>ratione passiua in filio, quod nullo modo vi 
+          <lb ed="#P" n="67"/>detur possibile, quia tunc actio esset idem 
+          <lb ed="#P" n="68"/>quod passio. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1076">
+          <lb ed="#P" n="69"/>Contra hanc opinionem videntur sequi 
+          <lb ed="#P" n="70"/>quinque inconuenientia. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1083">
+          <lb ed="#P" n="71"/>Primo, quia in diuinis esset quaternitas,  
+          <lb ed="#P" n="72"/>quod est contra determinationem Ecclesiae 
+          <lb ed="#P" n="73"/>in illa decretali; Damnamus, &amp;c 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1092">
+          <lb ed="#P" n="74"/>Secundo, quia in diuinis erunt quatuor 
+          <lb ed="#P" n="75"/>fruibilia, quod est contra P. August. de
+          do<lb ed="#P" n="76" break="no"/>ctrina Christiana, vbi non ponit nisi tres res 
+          <lb ed="#P" n="77"/>quibus fruendum est, Consequentiam
+          pro<lb ed="#P" n="78" break="no"/>bo, quia quicquid est in diuinis est fruibile, 
+          <lb ed="#P" n="79"/>&amp; per consequens si sit distincta res, erit
+          di<lb ed="#P" n="80" break="no"/>stinctum fruibile 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1110">
+          <lb ed="#P" n="81"/>Tertio, quia in diuinis erunt quatuor sub 
+          <lb ed="#P" n="82"/>sistentia, &amp; per consequens quatuor
+          perso<lb ed="#P" n="83" break="no"/>nae. Consequentiam probo, quia quicquid in 
+          <lb ed="#P" n="84"/>diuinis est vera res, condiuisa contra aliam 
+          <lb ed="#P" n="85"/>rem, est quid subsistens in natura intellectua 
+          <lb ed="#P" n="86"/>li, &amp; per consequens est persona. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1127">
+          <lb ed="#P" n="87"/>Quarto, quia in diuinis esset aliqua realis 
+          <lb ed="#P" n="88"/>distinctio, vbi non est relationis opposito, 
+          <lb ed="#P" n="89"/>quod est contra Anselmum in libro de
+          pro<lb ed="#P" n="90" break="no"/>cessione Spiritus Sancti, Consequentia
+          pa<lb ed="#P" n="91" break="no"/>tet, quia inter generationem actiuam, &amp;
+          spi<lb ed="#P" n="92" break="no"/>rationem actiuam nulla est opposito relatiua, 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1143">
+          <lb ed="#P" n="93"/>Quinto, quia generatio actiua, &amp; spiratio 
+          <lb ed="#P" n="94"/>actiua non poterunt praedicaride se inuice 
+          <lb ed="#P" n="95"/>in abstracto, quod patet esse falsum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1152">
+          <lb ed="#P" n="96"/>Motiua autem praefatae opin non cogunt. 
+          <lb ed="#P" n="97"/>Nam cum primo dicitur, multiplicato vno 
+          <lb ed="#P" n="98"/>relatiuorum multiplicatur &amp; reliquum, pos 
+          <lb ed="#P" n="99"/>set negari proposito, quia multi dicerent quod 
+          <lb ed="#P" n="100"/>vnus Pater per vnam paternitatem posset 
+          <lb ed="#P" n="101"/>referri ad multos filios. Alio modo posset 
+          <lb ed="#P" n="102"/>dici concedendo, quod generatio actiua, &amp;  
+          <lb ed="#P" n="103"/>spiratio actiua sint duae distinctae relationes,  
+          <lb ed="#P" n="104"/>quamuis sint vna res, sicut patebit infra, &amp; 
+          <lb ed="#P" n="105"/>ideo potest concedi, quod multiplicato vno 
+          <lb ed="#P" n="106"/>relatiuorum multiplicetur &amp; reliquum, non
+          ta<lb ed="#P" n="107" break="no"/>men oportet, quod similis modus multiplica 
+          <lb ed="#P" n="108"/>tionis, &amp; distictionis, qui est in vno, sit in alio.  
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1183">
+          <lb ed="#P" n="109"/>Ad secundum vero dicendum, quod maior 
+          <lb ed="#P" n="110"/>est falsa, quia generatio passio, &amp; spiratio pal 
+          <!--539.xml-->
+          <pb ed="#P" n="514"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>sio ita se habent, quod sunt proprietates sut 
+          <lb ed="#P" n="2"/>positorum realiter distinctorum, &amp; habentium 
+          <lb ed="#P" n="3"/>ad seinuicem oppositionem, generatio vero 
+          <lb ed="#P" n="4"/>actio, &amp; spiratio actio non se habent hoc 
+          <lb ed="#P" n="5"/>modo vt patet. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1207">
+          <lb ed="#P" n="6"/>Ad tertium dicendum, quod vbi sunt duae 
+          <lb ed="#P" n="7"/>reales actiones referendo realitatem ad dua 
+          <lb ed="#P" n="8"/>litatem, ibi tales actiones realiter
+          distinguum<lb ed="#P" n="9" break="no"/>tur, sed generatio actio, &amp; spiratio actio non 
+          <lb ed="#P" n="10"/>sunt tales; possunt enim aliqua esse realiae,  
+          <lb ed="#P" n="11"/>&amp; realiter in aliquo, quae tamen inter se, &amp;  
+          <lb ed="#P" n="12"/>ab eo in quo sunt sola ratione distinguuntur; 
+          <lb ed="#P" n="13"/>sicut patet de animali, &amp; rationali quae sunt 
+          <lb ed="#P" n="14"/>realia, &amp; realiter in homine, &amp; tamen inter 
+          <lb ed="#P" n="15"/>se, &amp; ab homine distinguuntur sola ratione; ita 
+          <lb ed="#P" n="16"/>ergo poterit dici in proposito, scilicet, quod 
+          <lb ed="#P" n="17"/>generatio actio, &amp; spiratio actio sunt reales 
+          <lb ed="#P" n="18"/>rationes in patre, &amp; tamen hoc non obstante, 
+          <lb ed="#P" n="19"/>inter se realiter non distinguuntur.
+          Posse<lb ed="#P" n="20" break="no"/>mus etiam aliter respondere dicendo, quod 
+          <lb ed="#P" n="21"/>sunt duae distinctae actiones, non tamen
+          pro<lb ed="#P" n="22" break="no"/>pter hoc sequitur, quod sint duae distincta 
+          <lb ed="#P" n="23"/>res, quia aliud requiritur ad distinctionem 
+          <lb ed="#P" n="24"/>actionum inquantum res sunt, &amp; aliud inquam 
+          <lb ed="#P" n="25"/>tum actiones sunt, nam inquantum actiones sunt 
+          <lb ed="#P" n="26"/>sufficit distinctio extrinseca ex terminis; 
+          <lb ed="#P" n="27"/>vt vero res sunt, oportet quod distinguantur 
+          <lb ed="#P" n="28"/>intrinsece, &amp; formaliter in seipsis, &amp; quia 
+          <lb ed="#P" n="29"/>generatio, &amp; spiratio actio distinguuntur ex 
+          <lb ed="#P" n="30"/>trinsece ex terminis, &amp; non intrinsece, &amp;  
+          <lb ed="#P" n="31"/>formaliter in seipsis, idcirco possunt concedi 
+          <lb ed="#P" n="32"/>duae distinctae actiones, &amp; non duae res 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1268">
+          <lb ed="#P" n="33"/>Per hoc etiam apparet quid sit dicendum 
+          <lb ed="#P" n="34"/>ad quartum, quia potest concedi quod actio 
+          <lb ed="#P" n="35"/>naturalis, &amp; actio libera sint duae distinctae 
+          <lb ed="#P" n="36"/>actiones, non tamen propter hoc sequitur,  
+          <lb ed="#P" n="37"/>quod sint duae distinctae res, vt nunc
+          vi<lb ed="#P" n="38" break="no"/>sum est. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1285">
+          <lb ed="#P" n="39"/>Ad quintum concedo, quod sicut
+          spira<lb ed="#P" n="40" break="no"/>tio actio est idem cum generatione actione 
+          <lb ed="#P" n="41"/>in patre, ita est idem cum generatione
+          pas<lb ed="#P" n="42" break="no"/>sione in filio, nec est inconueniens quod vna 
+          <lb ed="#P" n="43"/>&amp; eadem res sit actio, &amp; passio ex
+          habitudi<lb ed="#P" n="44" break="no"/>ne ad alium, &amp; ad alium terminum, nam etiam 
+          <lb ed="#P" n="45"/>in creaturis videmus, quod vnus &amp; idem
+          mo<lb ed="#P" n="46" break="no"/>tus est actio, &amp; passio ex habitudine ad aliud,  
+          <lb ed="#P" n="47"/>&amp; aliud 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1307">
+          <lb ed="#P" n="48"/>Teneo ergo simpliciter, quod generatio
+          a<lb ed="#P" n="49" break="no"/>tio, &amp; spiratio actio sint vna res, &amp; tamen 
+          <lb ed="#P" n="50"/>hoc non obstante sint duae distinctae relatio 
+          <lb ed="#P" n="51"/>nes, &amp; duae distinctae actiones, &amp; per
+          conse<lb ed="#P" n="52" break="no"/>quens dua distincta principia eo modo quo 
+          <lb ed="#P" n="53"/>inferius exponetur, &amp; ideo cum alijs duabus 
+          <lb ed="#P" n="54"/>sibi appositis constituat numerum quaterna 
+          <lb ed="#P" n="55"/>rium relationum, &amp; non quaternarium
+          re<lb ed="#P" n="56" break="no"/>rum, &amp; sic conceditur, quod in diuinis sunt 
+          <lb ed="#P" n="57"/>quatuor relationes, non tamen quatuor res. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1331">
+          <!--539.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 514 b -->
+          <lb ed="#P" n="58"/>Sed quae sit causa huius, difficile est
+          vide<lb ed="#P" n="59" break="no"/>re, quit am ergo Doctor reddit talem
+          cau<lb ed="#P" n="60" break="no"/>sam: Dci enim, quod cum aliqua
+          distin<lb ed="#P" n="61" break="no"/>guuntur differentia alicuius communis, cum 
+          <lb ed="#P" n="62"/>isio communi plurificautur, si uero sit tale 
+          <lb ed="#P" n="63"/>commune, quod eius differentia non
+          distin<lb ed="#P" n="64" break="no"/>guantur, tunc sunt idem in eo, sicut ponit 
+          <lb ed="#P" n="65"/>exemplum de aequilatero, &amp; gradato, nam  
+          <lb ed="#P" n="66"/>quia distinguuntur differentiis trianguli,
+          idcir<lb ed="#P" n="67" break="no"/>co plurificantur triangulo, &amp; sunt diuersi 
+          <lb ed="#P" n="68"/>trianguli, &amp; quia non distinguitur
+          differen<lb ed="#P" n="69" break="no"/>tia figurae, idcirco non plurificantur sub
+          fi<lb ed="#P" n="70" break="no"/>gura, sed sunt idem cum figura, sicut potest 
+          <lb ed="#P" n="71"/>haberi ex quarto phys. &amp; in 5. Metaph cap. 
+          <lb ed="#P" n="72"/>de vno. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1373">
+          <lb ed="#P" n="73"/>Ad propositum ergo applicando, tunc
+          a<lb ed="#P" n="74" break="no"/>liquae relationes sunt plures res secundum 
+          <lb ed="#P" n="75"/>stu doctorem, quando distinguuntur differen 
+          <lb ed="#P" n="76"/>tia relationis ita, quod non differentia rei, 
+          <lb ed="#P" n="77"/>nam ex alio sumitur differentia rei, &amp; ex alio 
+          <lb ed="#P" n="78"/>differentia relationis; quia differentiam rei 
+          <lb ed="#P" n="79"/>in relationibus facit ipsa opposito relatiua, 
+          <lb ed="#P" n="80"/>differentiam vero relationis inquantum rela  
+          <lb ed="#P" n="81"/>tio est facit diuersitas terminorum: sed
+          ge<lb ed="#P" n="82" break="no"/>neratio actio in patre, &amp; spiratio actio in
+          pa<lb ed="#P" n="83" break="no"/>tre habent distinctos terminos, &amp; tamen non 
+          <lb ed="#P" n="84"/>habent oppositionem, idcirco ita sunt
+          distin<lb ed="#P" n="85" break="no"/>ctae relationes, quod non distinctae tes. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1404">
+          <lb ed="#P" n="86"/>Hic autem modus impugnatur a Docto 
+          <lb ed="#P" n="87"/>re nostro, &amp; rationabiliter propter duo. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1411">
+          <lb ed="#P" n="88"/>Primo, quia quamuis illa, quae non
+          diffe<lb ed="#P" n="89" break="no"/>runt diferentia superioris, sint idem in illo 
+          <lb ed="#P" n="90"/>superiori secundum rationem, non tamen 
+          <lb ed="#P" n="91"/>sunt idem in eo secundum rem, sicut patet in 
+          <lb ed="#P" n="92"/>exemplo praehabito: nam licet aequilaterus,  
+          <lb ed="#P" n="93"/>&amp; gradatus sint eadem figui a secundum
+          ra<lb ed="#P" n="94" break="no"/>tionem, non tamen secundum rem: ergo
+          eo<lb ed="#P" n="95" break="no"/>dem modo poterit eis dici in proposito,
+          scili<lb ed="#P" n="96" break="no"/>cet, quod generatio actio, &amp; spiratio actio,  
+          <lb ed="#P" n="97"/>quamuis sint una res secundum rationem, 
+          <lb ed="#P" n="98"/>quia non distinguuntur differentia rei, non 
+          <lb ed="#P" n="99"/>sunt tamen vna res realiter, nisi aliud
+          di<lb ed="#P" n="100" break="no"/>catur. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1443">
+          <lb ed="#P" n="101"/>Secundo, illud, quod assumit idem Doct. 
+          <lb ed="#P" n="102"/>non uidetur vniuersaliter verum, scilicet quod 
+          <lb ed="#P" n="103"/>diuersitas terminorum faciat necessario
+          di<lb ed="#P" n="104" break="no"/>stinctionem in relationibus: Nam videmus,  
+          <lb ed="#P" n="105"/>quod una relatio paternitatis potest termina 
+          <lb ed="#P" n="106"/>ri ad diuersos filios, nisi vellintus dicere, qu 
+          <lb ed="#P" n="107"/>in eodem patre essent plures paternitates, quod 
+          <lb ed="#P" n="108"/>non uidetur verum, quia tunc plures formae 
+          <lb ed="#P" n="109"/>solo numero differentes essent in eodem su 
+          <lb ed="#P" n="110"/>biecto 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1467">
+          <lb ed="#P" n="111"/>Posset insuper argui contra istum modum 
+          <lb ed="#P" n="112"/>quia non uidetur verum, quod differentia rei 
+          <lb ed="#P" n="113"/>in relationibus semper sumatur ex opposito 
+          <lb ed="#P" n="114"/>ne: Nam uidemus etiam in diuinis, quod re 
+          <!--540.xml-->
+          <pb ed="#P" n="515"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>lationes disparatae quae non habent opposito 
+          <lb ed="#P" n="2"/>nem, distinguuntur tamen realiter, sicut
+          pa<lb ed="#P" n="3" break="no"/>tet de generatione passione, &amp; spiratione pal 
+          <lb ed="#P" n="4"/>sione. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1493">
+          <lb ed="#P" n="5"/>Et ideo aliter respondet ipse ad quaesitum; 
+          <lb ed="#P" n="6"/>Dicens, quod relatio non habet quod sit res 
+          <lb ed="#P" n="7"/>ex seipsa inquantum relatio est, quia sic etiam 
+          <lb ed="#P" n="8"/>relatio secundum rationem esset res; qua pro 
+          <lb ed="#P" n="9"/>pter ex alio habet quod sit res, &amp; ex alio, 
+          <lb ed="#P" n="10"/>quod sit relatio, nam quia de ratione rei est 
+          <lb ed="#P" n="11"/>habere esse ratum, &amp; firmum, &amp; a fundamen 
+          <lb ed="#P" n="12"/>to relatio habet suam ratitudinem, &amp;
+          firmi<lb ed="#P" n="13" break="no"/>tatem, idcirco a fundamento, vel a supposito 
+          <lb ed="#P" n="14"/>in quo est habet quod sit res, ab ipso uero 
+          <lb ed="#P" n="15"/>termino opposito ad quem est, habet quod 
+          <lb ed="#P" n="16"/>sit relatio, quia ratio relationis consistit in 
+          <lb ed="#P" n="17"/>oppositone, &amp; in ad aliud se habere. Ad hoc 
+          <lb ed="#P" n="18"/>ergo quod relatio plurificetur inquantum 
+          <lb ed="#P" n="19"/>relatio, sufficit quod plurificentur ipsi termi 
+          <lb ed="#P" n="20"/>ni dummodo illi sint diuersarum rationum, 
+          <lb ed="#P" n="21"/>quia si essent eiusdem rationis, vna sola
+          rela<lb ed="#P" n="22" break="no"/>tio posset terminari ad omnes eos, sicut dice 
+          <lb ed="#P" n="23"/>batur superius de vna paternitate respectu 
+          <lb ed="#P" n="24"/>multorum filiorum: ad hoc vero quod
+          rela<lb ed="#P" n="25" break="no"/>tio plurificetur inquantum res, oportet, quod 
+          <lb ed="#P" n="26"/>plurificentur fundamenta uel supposita in 
+          <lb ed="#P" n="27"/>quibus existit, &amp; quia generatio actio, &amp; spi 
+          <lb ed="#P" n="28"/>ratio actio habent terminos distinctos, &amp; di- 
+          <lb ed="#P" n="29"/>uersarum rationum, existunt tamen in uno 
+          <lb ed="#P" n="30"/>fundamento, &amp; supposito, idcirco
+          relinqui<lb ed="#P" n="31" break="no"/>tur, quod sint distinctae relationes non tamen 
+          <lb ed="#P" n="32"/>distinctae res. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1556">
+          <lb ed="#P" n="33"/>Haec autem opinio videtur mihi
+          rationa<lb ed="#P" n="34" break="no"/>bilis propter duo. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1563">
+          <lb ed="#P" n="35"/>Primo, quia sicut patebit in 33. dist.
+          rela<lb ed="#P" n="36" break="no"/>tio est idem realiter, quod suum
+          fundamen<lb ed="#P" n="37" break="no"/>tum, &amp; per consequens habet suam
+          realita<lb ed="#P" n="38" break="no"/>tem in fundamento, &amp; ex fundamento, &amp; 
+          <lb ed="#P" n="39"/>per oppositum quia non est idem, quod suus ter 
+          <lb ed="#P" n="40"/>minus, sed distinguitur realiter ab eo; idcirco 
+          <lb ed="#P" n="41"/>non habet suam realitatem in termino, vel 
+          <lb ed="#P" n="42"/>ex termino, quap opter si debeat plurificari 
+          <lb ed="#P" n="43"/>inquantum res, necessario plurificabitur suum 
+          <lb ed="#P" n="44"/>fundamentum, vel suppositum in quo est. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1587">
+          <lb ed="#P" n="45"/>Secundo, quia si relatio haberet aliquid 
+          <lb ed="#P" n="46"/>de sua realitate in termino, vel ex termino, 
+          <lb ed="#P" n="47"/>tunc terminus esset de suo primo intellectu, 
+          <lb ed="#P" n="48"/>quod patet esse falsum, quia est de
+          secunda<lb ed="#P" n="49" break="no"/>rio intellectu, nec intrat suam definitionem, 
+          <lb ed="#P" n="50"/>nisi in obliquo, quare relinquitur, quod
+          ha<lb ed="#P" n="51" break="no"/>beat totam suam realitatem in fundamento, 
+          <lb ed="#P" n="52"/>uel ex fundamento, vel supposito in quo est, 
+          <lb ed="#P" n="53"/>&amp; per consequens non plurificabitur inquam 
+          <lb ed="#P" n="54"/>tum res, nisi plurificato supposito, uel funda 
+          <lb ed="#P" n="55"/>mento in quo est, quia tunc habet
+          comple<lb ed="#P" n="56" break="no"/>mentum suae oppositonis a termino opposi 
+          <lb ed="#P" n="57"/>to, ad quem est, idcirco ab eo habet quod fit 
+          <!--540.xml-->
+          <cb ed="#P" n="b"/> 
+          <!-- 515 b -->
+          <lb ed="#P" n="58"/>relatio, &amp; per consequens poterit plurificari 
+          <lb ed="#P" n="59"/>inquantum relatio ex sola plurificatione ter 
+          <lb ed="#P" n="60"/>minorum : Nec obstat si dicatur, quod in re 
+          <lb ed="#P" n="61"/>latione est idem ipsam esse rem, &amp; esse
+          rela<lb ed="#P" n="62" break="no"/>tionem, ergo ab eodem habet quod sit res, &amp;  
+          <lb ed="#P" n="63"/>quod sit relatio. Quia sicut relatio non
+          ha<lb ed="#P" n="64" break="no"/>bet quod sit relatio realis a solo termino,
+          si<lb ed="#P" n="65" break="no"/>ue a fundamento, ita etiam non habet, quod 
+          <lb ed="#P" n="66"/>sit res relatiua a solo fundamento siue a ter 
+          <lb ed="#P" n="67"/>mino, qua propter oportet imaginari, quod 
+          <lb ed="#P" n="68"/>ambo illa cooperentur ad suum esse, aliter 
+          <lb ed="#P" n="69"/>tamen &amp; aliter, fundamentum enim
+          coope<lb ed="#P" n="70" break="no"/>ratur ad suum esse ut sit reale, terminus
+          ve<lb ed="#P" n="71" break="no"/>ro cooperatur ad suum esse, ut sit relatiuum, 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1656">
+          <lb ed="#P" n="72"/>Nec etiam obstat si dicatur, quod res sit 
+          <lb ed="#P" n="73"/>quid superius ad relationem, &amp; per
+          conse<lb ed="#P" n="74" break="no"/>quens plurificata relatione uidetur plurifica 
+          <lb ed="#P" n="75"/>ri res, hoc inquam non valet in proposito; 
+          <lb ed="#P" n="76"/>Quia ostensum est, quod relatio sic non plu 
+          <lb ed="#P" n="77"/>rificatur inquantum res, &amp; per consequens 
+          <lb ed="#P" n="78"/>non est quid superius ad eam, vt sic
+          plurifi<lb ed="#P" n="79" break="no"/>catur. Si autem quaeratur vlterius, vtrum
+          prae<lb ed="#P" n="80" break="no"/>fata distinctio inter has duas relationes sit 
+          <lb ed="#P" n="81"/>realis uel rationis. Dicendum quod est
+          rea<lb ed="#P" n="82" break="no"/>lis extrinsece, &amp; ex parte terminorum, ex 
+          <lb ed="#P" n="83"/>parte tamen fundamenti, uel supposit a quo 
+          <lb ed="#P" n="84"/>modo habet intrinsece suam entitatem est so 
+          <lb ed="#P" n="85"/>lum secundum rationem : verum est tamen 
+          <lb ed="#P" n="86"/>quod talis distinctio secundum rationem est 
+          <lb ed="#P" n="87"/>proueniens ex natura rei necessitantis, quem 
+          <lb ed="#P" n="88"/>admodum distinctio inter essentiam, &amp;
+          rela<lb ed="#P" n="89" break="no"/>tionem, de qua melius patebit in trigesima 
+          <lb ed="#P" n="90"/>tertia dist. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1700">
+          <lb ed="#P" n="91"/>Patet ergo quantum ad istum articulum, 
+          <lb ed="#P" n="92"/>quod generatio actio, &amp; spiratio actio sunt 
+          <lb ed="#P" n="93"/>duae relationes, duae actiones, &amp; per
+          conse<lb ed="#P" n="94" break="no"/>quens duo principia, non tamen duae res, quia 
+          <lb ed="#P" n="95"/>ad earum distinctionem inquantum relationes,  
+          <lb ed="#P" n="96"/>&amp; inquantum actiones, &amp; principia, sufficit di 
+          <lb ed="#P" n="97"/>stinctio extrinseca realis terminorum, &amp;
+          ea<lb ed="#P" n="98" break="no"/>rundem distinctio rationis intrinseca: si aute 
+          <lb ed="#P" n="99"/>essent distinctae res, oporteret in eis dare
+          di<lb ed="#P" n="100" break="no"/>stinctionem intrinsecam realem ex parte fun 
+          <lb ed="#P" n="101"/>damenti, vel suppositi, cuius contrarium est 
+          <lb ed="#P" n="102"/>ostensum. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1729">
+          <lb ed="#P" n="103"/>AD RATIONES PRINCIPALES. 
+          <lb ed="#P" n="104"/>primam dicendum, quod sicut  
+          <lb ed="#P" n="105"/>principiatum est alterius, &amp; alterius 
+          <lb ed="#P" n="106"/>rationis, ita &amp; dare esse principiato est
+          alte<lb ed="#P" n="107" break="no"/>rius, &amp; alterius rationis vtrobique. 
+        </p>
+        <p xml:id="gsX5tY-d1e833-d1e1742">
+          <lb ed="#P" n="108"/>Ad secundam vero dicendum, quod Maior 
+          <lb ed="#P" n="109"/>est falsa, nec probatio valet, quia magis
+          di<lb ed="#P" n="110" break="no"/>stinguuntur relatio realis, &amp; relatio rationis,  
+          <lb ed="#P" n="111"/>quam duae relationes reales, &amp; maxime, cum 
+          <lb ed="#P" n="112"/>coincidant in unam realitatem, sicut est in 
+          <lb ed="#P" n="113"/>proposito. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
