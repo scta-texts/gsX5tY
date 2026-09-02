@@ -1,0 +1,616 @@
+{
+  "gsX5tY-d1e69": {
+    "gsX5tY-d1e69-d1e3268": [
+      {
+        "candidate_id": "ps146_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"glosae super illud psalmi\""
+      }
+    ]
+  },
+  "gsX5tY-d1e91": {
+    "gsX5tY-d1e91-d1e3215": [
+      {
+        "candidate_id": "gal3_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; discusses Theology as science/faith only"
+      }
+    ]
+  },
+  "gsX5tY-d1e102": {
+    "gsX5tY-d1e102-d1e166": [
+      {
+        "candidate_id": "io1_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation \"super illud Ioann\""
+      }
+    ]
+  },
+  "gsX5tY-d1e114": {
+    "gsX5tY-d1e114-d1e187": [
+      {
+        "candidate_id": "iac1_22",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "explicit citation \"D. Iacobi\" (MS gives chapter \"4\", actual verse is Iac 1:22 \u2014 scribal/printer error in chapter number)"
+      }
+    ],
+    "gsX5tY-d1e114-d1e234": [
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 great-commandment wording matches Matthew 22:37-40 specifically (\"lex pendet & Prophetae\"), not this parallel/OT text"
+      },
+      {
+        "candidate_id": "gal5_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 great-commandment wording matches Matthew 22:37-40 specifically (\"lex pendet & Prophetae\"), not this parallel/OT text"
+      },
+      {
+        "candidate_id": "iac2_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 great-commandment wording matches Matthew 22:37-40 specifically (\"lex pendet & Prophetae\"), not this parallel/OT text"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 great-commandment wording matches Matthew 22:37-40 specifically (\"lex pendet & Prophetae\"), not this parallel/OT text"
+      },
+      {
+        "candidate_id": "mt19_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 great-commandment wording matches Matthew 22:37-40 specifically (\"lex pendet & Prophetae\"), not this parallel/OT text"
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "existing untargeted <quote> tag given source attribute; explicit gospel citation"
+      },
+      {
+        "candidate_id": "mt22_39",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "continues same Matthew 22 quotation; \"lex pendet & Prophetae\" phrase confirms Matt 22:40 context"
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 great-commandment wording matches Matthew 22:37-40 specifically (\"lex pendet & Prophetae\"), not this parallel/OT text"
+      }
+    ],
+    "gsX5tY-d1e114-d1e3977": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; vocabulary overlap only"
+      }
+    ],
+    "gsX5tY-d1e114-d1e4146": [
+      {
+        "candidate_id": "Icor13_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor13_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded \u2014 existing <quote> spans Icor13_1 to Icor13_3, which covers this verse"
+      }
+    ],
+    "gsX5tY-d1e114-d1e4922": [
+      {
+        "candidate_id": "tit3_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e114-d1e5107": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; stopword overlap only (recurring false-positive pattern for is41_24 candidate across multiple unrelated paragraphs)"
+      }
+    ],
+    "gsX5tY-d1e114-d1e5177": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; stopword overlap only"
+      }
+    ]
+  },
+  "gsX5tY-d1e142": {
+    "gsX5tY-d1e142-d1e2218": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation, part of Augustine's Trin. 1.8 commentary"
+      },
+      {
+        "candidate_id": "io14_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation \"super illud Ioannis\""
+      }
+    ]
+  },
+  "gsX5tY-d1e153": {
+    "gsX5tY-d1e153-d1e1794": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"D. Ioannes in sua prima Cannonica\""
+      }
+    ]
+  },
+  "gsX5tY-d1e164": {
+    "gsX5tY-d1e164-d1e1556": [
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; discusses beatific vision doctrine only"
+      }
+    ]
+  },
+  "gsX5tY-d1e176": {
+    "gsX5tY-d1e176-d1e929": [
+      {
+        "candidate_id": "rom8_28",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e283": {
+    "gsX5tY-d1e283-d1e200": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 MS explicitly cites \"psalmo secundo\"; NT quotes of the same verse are not the intended source"
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 same reason, MS cites the Psalm directly"
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 same reason, MS cites the Psalm directly"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation \"psalmo secundo\""
+      }
+    ]
+  },
+  "gsX5tY-d1e311": {
+    "gsX5tY-d1e311-d1e1016": [
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation \"apud Ioan cap 10\" but wording matches Io 5:26 verbatim, not Io 10 \u2014 chapter citation is a scribal error"
+      }
+    ]
+  },
+  "gsX5tY-d1e322": {
+    "gsX5tY-d1e322-d1e965": [
+      {
+        "candidate_id": "phil3_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; discusses generation of divine persons only"
+      }
+    ]
+  },
+  "gsX5tY-d1e350": {
+    "gsX5tY-d1e350-d1e1523": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "explicit citation \"per P. Augustinum super illud Ioannis\""
+      }
+    ]
+  },
+  "gsX5tY-d1e378": {
+    "gsX5tY-d1e378-d1e4606": [
+      {
+        "candidate_id": "IIreg22_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; discusses relations/fundamentum only"
+      }
+    ]
+  },
+  "gsX5tY-d1e395": {
+    "gsX5tY-d1e395-d1e152": [
+      {
+        "candidate_id": "iob11_8",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"habetur Iob xi\", quote spans Iob 11:8-9"
+      }
+    ]
+  },
+  "gsX5tY-d1e417": {
+    "gsX5tY-d1e417-d1e1942": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; stopword overlap only (recurring false-positive pattern for is41_24)"
+      }
+    ]
+  },
+  "gsX5tY-d1e434": {
+    "gsX5tY-d1e434-d1e656": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 actual citation in paragraph is Eph 3:14-15 (\"flecto genua... omnis paternitas in caelo, & in terra nominatur\"), which is not in the candidate list; these OT/NT candidates share only the common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 actual citation in paragraph is Eph 3:14-15 (\"flecto genua... omnis paternitas in caelo, & in terra nominatur\"), which is not in the candidate list; these OT/NT candidates share only the common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 actual citation in paragraph is Eph 3:14-15 (\"flecto genua... omnis paternitas in caelo, & in terra nominatur\"), which is not in the candidate list; these OT/NT candidates share only the common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 actual citation in paragraph is Eph 3:14-15 (\"flecto genua... omnis paternitas in caelo, & in terra nominatur\"), which is not in the candidate list; these OT/NT candidates share only the common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 actual citation in paragraph is Eph 3:14-15 (\"flecto genua... omnis paternitas in caelo, & in terra nominatur\"), which is not in the candidate list; these OT/NT candidates share only the common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "eph3_15",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph3_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e445": {
+    "gsX5tY-d1e445-d1e1146": [
+      {
+        "candidate_id": "ex15_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; discusses eternity/succession only"
+      }
+    ]
+  },
+  "gsX5tY-d1e480": {
+    "gsX5tY-d1e480-d1e1169": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Aug. super illud Io. 5\""
+      }
+    ]
+  },
+  "gsX5tY-d1e508": {
+    "gsX5tY-d1e508-d1e1274": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"P. Augustini super illud Ioan. 5\""
+      }
+    ],
+    "gsX5tY-d1e508-d1e1575": [
+      {
+        "candidate_id": "lc12_53",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; discusses mutual love/spiration only"
+      }
+    ]
+  },
+  "gsX5tY-d1e542": {
+    "gsX5tY-d1e542-d1e644": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation \"scriptum sit\""
+      },
+      {
+        "candidate_id": "io14_16",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"dicete Saluatore Ioan 14\""
+      }
+    ],
+    "gsX5tY-d1e542-d1e766": [
+      {
+        "candidate_id": "ap3_20",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"habetur Apocal x\" (chapter number in MS is a scribal error, verse matches Apoc 3:20)"
+      }
+    ],
+    "gsX5tY-d1e542-d1e815": [
+      {
+        "candidate_id": "ps142_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation \"Psalmista ait\""
+      }
+    ]
+  },
+  "gsX5tY-d1e559": {
+    "gsX5tY-d1e559-d1e595": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; stopword overlap only"
+      }
+    ]
+  },
+  "gsX5tY-d1e577": {
+    "gsX5tY-d1e577-d1e412": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation \"Apost. ad Galat. 4\" (note: an existing <ref target> nearby erroneously points to eph4_4 \u2014 flagged separately, not corrected here)"
+      }
+    ]
+  },
+  "gsX5tY-d1e594": {
+    "gsX5tY-d1e594-d1e2505": [
+      {
+        "candidate_id": "prov8_31",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation \"diuina sapientia loquitur prouerb 8\""
+      },
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e605": {
+    "gsX5tY-d1e605-d1e7146": [
+      {
+        "candidate_id": "lc7_28",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 MS wording matches Matt 11:11, not Luke 7:28, despite the \"Luc. 7\" citation label"
+      },
+      {
+        "candidate_id": "mt11_11",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "MS cites \"Luc. 7\" but wording (\"in regno caelorum\") matches Matt 11:11 verbatim, not Luke 7:28 (\"in regno Dei\") \u2014 citation label is a scribal/printer error"
+      }
+    ]
+  },
+  "gsX5tY-d1e622": {
+    "gsX5tY-d1e622-d1e126": [
+      {
+        "candidate_id": "io10_29",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "explicit citation \"Saluator noster testatur apud Iohane\""
+      }
+    ]
+  },
+  "gsX5tY-d1e639": {
+    "gsX5tY-d1e639-d1e156": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"per Ioan 14\"; phrase identical in io14_10 and io14_11, both cited"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "same phrase as io14_10, both verses cited jointly"
+      }
+    ],
+    "gsX5tY-d1e639-d1e1295": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "\"veritas dicit\" = Christ speaking; same recurring Io 14:10-11 phrase"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "same phrase as io14_10, both verses cited jointly"
+      }
+    ]
+  },
+  "gsX5tY-d1e650": {
+    "gsX5tY-d1e650-d1e718": [
+      {
+        "candidate_id": "sir16_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no attribution to this verse in the paragraph; vocabulary overlap only"
+      },
+      {
+        "candidate_id": "io8_44",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"dicitur Io. 8\""
+      },
+      {
+        "candidate_id": "io3_21",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation, continues same Io 3 passage"
+      },
+      {
+        "candidate_id": "io3_20",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"apud Iohan 3\""
+      }
+    ]
+  },
+  "gsX5tY-d1e702": {
+    "gsX5tY-d1e702-d1e1019": [
+      {
+        "candidate_id": "hebr12_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "scriptural allusion embedded in the Damascene etymology quote"
+      }
+    ]
+  },
+  "gsX5tY-d1e798": {
+    "gsX5tY-d1e798-d1e128": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"loan, primo\""
+      }
+    ]
+  },
+  "gsX5tY-d1e901": {
+    "gsX5tY-d1e901-d1e1217": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no scripture citation in paragraph; stopword overlap only"
+      }
+    ]
+  },
+  "gsX5tY-d1e923": {
+    "gsX5tY-d1e923-d1e830": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph content (Eph 3:14-15 citation) recurs; candidates share only common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph content (Eph 3:14-15 citation) recurs; candidates share only common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph content (Eph 3:14-15 citation) recurs; candidates share only common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph content (Eph 3:14-15 citation) recurs; candidates share only common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph content (Eph 3:14-15 citation) recurs; candidates share only common phrase \"in caelo & in terra\""
+      },
+      {
+        "candidate_id": "eph3_15",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e960": {
+    "gsX5tY-d1e960-d1e210": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e994": {
+    "gsX5tY-d1e994-d1e190": [
+      {
+        "candidate_id": "ier23_24",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e1063": {
+    "gsX5tY-d1e1063-d1e229": [
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e1183": {
+    "gsX5tY-d1e1183-d1e153": [
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase of Gethsemane prayer, attributed to Christ"
+      }
+    ],
+    "gsX5tY-d1e1183-d1e312": [
+      {
+        "candidate_id": "Itim1_17",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "concluding doxology formula (\"honor et gloria in saecula saeculorum\") is liturgical boilerplate, not an attributed scripture citation; the paragraph's actual scriptural echo (\"cupio dissolui, & esse cum Christo\") is Phil 1:23, not in candidate list"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1070 @@
+{
+  "gbs333-aaa301": {
+    "gbs333-aaa301-d1e239": [
+      {
+        "candidate_id": "adt-l1-d1e27",
+        "intersectionCount": 33
+      },
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-a13318": {
+    "gbs333-a13318-d1e660": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 14
+      }
+    ],
+    "gbs333-a13318-d1e1102": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-a24053": {
+    "gbs333-a24053-d1e136": [
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l6-d1e820",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-a33211": {
+    "gbs333-a33211-d1e107": [
+      {
+        "candidate_id": "adt-l5-d1e718",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-a48431": {
+    "gbs333-a48431-d1e410": [
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l1-d1e106",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l4-d1e637",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 7
+      }
+    ],
+    "gbs333-a48431-d1e488": [
+      {
+        "candidate_id": "adt-l4-d1e640",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-a49125": {
+    "gbs333-a49125-d1e325": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-a50663": {
+    "gbs333-a50663-d1e1278": [
+      {
+        "candidate_id": "adt-l1-d1e103",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l4-d1e631",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-a57700": {
+    "gbs333-a57700-d1e195": [
+      {
+        "candidate_id": "adt-l4-d1e643",
+        "intersectionCount": 11
+      }
+    ]
+  },
+  "gbs333-a58838": {
+    "gbs333-a58838-d1e242": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-a60395": {
+    "gbs333-a60395-d1e741": [
+      {
+        "candidate_id": "adt-l7-d1e883",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "gbs333-a66984": {
+    "gbs333-a66984-d1e161": [
+      {
+        "candidate_id": "adt-l9-d1e1084",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "adt-l15-d1e1788",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "adt-l15-d1e1836",
+        "intersectionCount": 21
+      },
+      {
+        "candidate_id": "adt-l15-d1e1801",
+        "intersectionCount": 23
+      },
+      {
+        "candidate_id": "adt-l15-d1e1855",
+        "intersectionCount": 24
+      }
+    ],
+    "gbs333-a66984-d1e434": [
+      {
+        "candidate_id": "adt-l15-d1e1804",
+        "intersectionCount": 6
+      }
+    ],
+    "gbs333-a66984-d1e508": [
+      {
+        "candidate_id": "adt-l9-d1e1074",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l9-d1e1090",
+        "intersectionCount": 9
+      }
+    ]
+  },
+  "gbs333-a67695": {
+    "gbs333-a67695-d1e603": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 13
+      }
+    ]
+  },
+  "gbs333-a71046": {
+    "gbs333-a71046-d1e1063": [
+      {
+        "candidate_id": "adt-l4-d1e659",
+        "intersectionCount": 61
+      }
+    ],
+    "gbs333-a71046-d1e1961": [
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 19
+      },
+      {
+        "candidate_id": "adt-l4-d1e523",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "gbs333-a76115": {
+    "gbs333-a76115-d1e202": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 9
+      }
+    ]
+  },
+  "gbs333-a78556": {
+    "gbs333-a78556-d1e1266": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "gbs333-a81203": {
+    "gbs333-a81203-d1e161": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-a81203-d1e470": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-a81203-d1e902": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-a83022": {
+    "gbs333-a83022-d1e3676": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "gbs333-a92469": {
+    "gbs333-a92469-d1e606": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-b10022": {
+    "gbs333-b10022-d1e439": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 9
+      }
+    ]
+  },
+  "gbs333-b15443": {
+    "gbs333-b15443-d1e241": [
+      {
+        "candidate_id": "adt-l11-d1e1273",
+        "intersectionCount": 12
+      }
+    ]
+  },
+  "gbs333-b21312": {
+    "gbs333-b21312-d1e1492": [
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-b28834": {
+    "gbs333-b28834-d1e155": [
+      {
+        "candidate_id": "adt-l2-d1e261",
+        "intersectionCount": 5
+      }
+    ],
+    "gbs333-b28834-d1e408": [
+      {
+        "candidate_id": "adt-l3-d1e492",
+        "intersectionCount": 34
+      },
+      {
+        "candidate_id": "adt-l3-d1e470",
+        "intersectionCount": 35
+      }
+    ]
+  },
+  "gbs333-b30334": {
+    "gbs333-b30334-d1e1468": [
+      {
+        "candidate_id": "adt-l3-d1e425",
+        "intersectionCount": 33
+      }
+    ]
+  },
+  "gbs333-b34603": {
+    "gbs333-b34603-d1e1112": [
+      {
+        "candidate_id": "adt-l15-d1e1801",
+        "intersectionCount": 16
+      },
+      {
+        "candidate_id": "adt-l15-d1e1794",
+        "intersectionCount": 50
+      }
+    ],
+    "gbs333-b34603-d1e2324": [
+      {
+        "candidate_id": "adt-l4-d1e637",
+        "intersectionCount": 13
+      }
+    ]
+  },
+  "gbs333-b38079": {
+    "gbs333-b38079-d1e1511": [
+      {
+        "candidate_id": "adt-l1-d1e154",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-b43893": {
+    "gbs333-b43893-d1e1708": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 12
+      }
+    ]
+  },
+  "gbs333-b47610": {
+    "gbs333-b47610-d1e1965": [
+      {
+        "candidate_id": "adt-l15-d1e1753",
+        "intersectionCount": 31
+      },
+      {
+        "candidate_id": "adt-l15-d1e1750",
+        "intersectionCount": 9
+      }
+    ],
+    "gbs333-b47610-d1e2018": [
+      {
+        "candidate_id": "adt-l15-d1e1756",
+        "intersectionCount": 31
+      },
+      {
+        "candidate_id": "adt-l15-d1e1880",
+        "intersectionCount": 8
+      }
+    ],
+    "gbs333-b47610-d1e2648": [
+      {
+        "candidate_id": "adt-l12-d1e1302",
+        "intersectionCount": 15
+      },
+      {
+        "candidate_id": "adt-l12-d1e1299",
+        "intersectionCount": 26
+      },
+      {
+        "candidate_id": "adt-l10-d1e1182",
+        "intersectionCount": 32
+      }
+    ]
+  },
+  "gbs333-b51845": {
+    "gbs333-b51845-d1e1589": [
+      {
+        "candidate_id": "adt-l13-d1e1495",
+        "intersectionCount": 9
+      }
+    ]
+  },
+  "gbs333-b54318": {
+    "gbs333-b54318-d1e569": [
+      {
+        "candidate_id": "adt-l3-d1e419",
+        "intersectionCount": 12
+      }
+    ]
+  },
+  "gbs333-b55557": {
+    "gbs333-b55557-d1e431": [
+      {
+        "candidate_id": "adt-l13-d1e1495",
+        "intersectionCount": 9
+      }
+    ]
+  },
+  "gbs333-b62474": {
+    "gbs333-b62474-d1e614": [
+      {
+        "candidate_id": "adt-l12-d1e1302",
+        "intersectionCount": 10
+      }
+    ]
+  },
+  "gbs333-b65624": {
+    "gbs333-b65624-d1e216": [
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 8
+      }
+    ],
+    "gbs333-b65624-d1e264": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6
+      }
+    ],
+    "gbs333-b65624-d1e712": [
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-b69751": {
+    "gbs333-b69751-d1e1873": [
+      {
+        "candidate_id": "adt-l6-d1e795",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l4-d1e564",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l4-d1e567",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-b82950": {
+    "gbs333-b82950-d1e1131": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8
+      }
+    ],
+    "gbs333-b82950-d1e1229": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 5
+      }
+    ],
+    "gbs333-b82950-d1e1407": [
+      {
+        "candidate_id": "adt-l9-d1e1090",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "gbs333-b85178": {
+    "gbs333-b85178-d1e139": [
+      {
+        "candidate_id": "adt-l13-d1e1476",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-b85178-d1e208": [
+      {
+        "candidate_id": "adt-l11-d1e1251",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "gbs333-b91320": {
+    "gbs333-b91320-d1e292": [
+      {
+        "candidate_id": "adt-l13-d1e1428",
+        "intersectionCount": 15
+      }
+    ]
+  },
+  "gbs333-h1e171": {
+    "gbs333-h1e171-d1e2253": [
+      {
+        "candidate_id": "adt-l15-d1e1760",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-h1e171-d1e3637": [
+      {
+        "candidate_id": "adt-l1-d1e36",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l15-d1e1760",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-he4933": {
+    "gbs333-he4933-d1e766": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 18
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 30
+      },
+      {
+        "candidate_id": "adt-l4-d1e523",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-he8175": {
+    "gbs333-he8175-d1e1679": [
+      {
+        "candidate_id": "adt-l3-d1e457",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-h10275": {
+    "gbs333-h10275-d1e454": [
+      {
+        "candidate_id": "adt-l13-d1e1495",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "adt-l4-d1e580",
+        "intersectionCount": 9
+      }
+    ],
+    "gbs333-h10275-d1e902": [
+      {
+        "candidate_id": "adt-l13-d1e1495",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-h18559": {
+    "gbs333-h18559-d1e1103": [
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-h25760": {
+    "gbs333-h25760-d1e557": [
+      {
+        "candidate_id": "adt-l12-d1e1315",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-h27972": {
+    "gbs333-h27972-d1e1882": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 9
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 9
+      }
+    ],
+    "gbs333-h27972-d1e1977": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "gbs333-h30666": {
+    "gbs333-h30666-d1e1841": [
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-h33915": {
+    "gbs333-h33915-d1e1686": [
+      {
+        "candidate_id": "adt-l13-d1e1441",
+        "intersectionCount": 28
+      }
+    ]
+  },
+  "gbs333-h37690": {
+    "gbs333-h37690-d1e548": [
+      {
+        "candidate_id": "adt-l4-d1e583",
+        "intersectionCount": 8
+      }
+    ],
+    "gbs333-h37690-d1e933": [
+      {
+        "candidate_id": "adt-l4-d1e583",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-h40121": {
+    "gbs333-h40121-d1e1103": [
+      {
+        "candidate_id": "adt-l1-d1e116",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l1-d1e68",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-h40121-d1e1547": [
+      {
+        "candidate_id": "adt-l4-d1e589",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-h42481": {
+    "gbs333-h42481-d1e356": [
+      {
+        "candidate_id": "adt-l3-d1e457",
+        "intersectionCount": 9
+      }
+    ],
+    "gbs333-h42481-d1e576": [
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-h45475": {
+    "gbs333-h45475-d1e1776": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l5-d1e718",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-h54165": {
+    "gbs333-h54165-d1e1708": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "gbs333-h59932": {
+    "gbs333-h59932-d1e1041": [
+      {
+        "candidate_id": "adt-l14-d1e1535",
+        "intersectionCount": 43
+      }
+    ],
+    "gbs333-h59932-d1e1634": [
+      {
+        "candidate_id": "adt-l4-d1e615",
+        "intersectionCount": 10
+      }
+    ],
+    "gbs333-h59932-d1e1954": [
+      {
+        "candidate_id": "adt-l15-d1e1953",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-h59932-d1e2024": [
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l6-d1e820",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-h62849": {
+    "gbs333-h62849-d1e2061": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l15-d1e1747",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-h65621": {
+    "gbs333-h65621-d1e1288": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l10-d1e1150",
+        "intersectionCount": 5
+      }
+    ],
+    "gbs333-h65621-d1e1755": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "adt-l4-d1e529",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "adt-l5-d1e740",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-h71171": {
+    "gbs333-h71171-d1e189": [
+      {
+        "candidate_id": "adt-l10-d1e1150",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "gbs333-h76036": {
+    "gbs333-h76036-d1e124": [
+      {
+        "candidate_id": "adt-l14-d1e1605",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-v15815": {
+    "gbs333-v15815-d1e2332": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-v15815-d1e2369": [
+      {
+        "candidate_id": "adt-l15-d1e1731",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l2-d1e261",
+        "intersectionCount": 4
+      }
+    ],
+    "gbs333-v15815-d1e2490": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-v19049": {
+    "gbs333-v19049-d1e1360": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 22
+      }
+    ]
+  },
+  "gbs333-v22805": {
+    "gbs333-v22805-d1e2554": [
+      {
+        "candidate_id": "adt-l4-d1e589",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-v32837": {
+    "gbs333-v32837-d1e4736": [
+      {
+        "candidate_id": "adt-l15-d1e1756",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l7-d1e905",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "adt-l6-d1e823",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 9
+      }
+    ]
+  },
+  "gbs333-v40551": {
+    "gbs333-v40551-d1e959": [
+      {
+        "candidate_id": "adt-l1-d1e71",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "gbs333-v55820": {
+    "gbs333-v55820-d1e822": [
+      {
+        "candidate_id": "adt-l2-d1e337",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "gbs333-v86061": {
+    "gbs333-v86061-d1e283": [
+      {
+        "candidate_id": "adt-l12-d1e1331",
+        "intersectionCount": 14
+      }
+    ]
+  },
+  "gbs333-v93950": {
+    "gbs333-v93950-d1e474": [
+      {
+        "candidate_id": "adt-l14-d1e1621",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "gbs333-v148558": {
+    "gbs333-v148558-d1e1776": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 7
+      }
+    ]
+  }
+}
