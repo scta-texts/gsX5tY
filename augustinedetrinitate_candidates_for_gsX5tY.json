@@ -1,0 +1,508 @@
+{
+  "gsX5tY-d1e69": {
+    "gsX5tY-d1e69-d1e120": [
+      {
+        "candidate_id": "adt-l4-d1e605",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e69-d1e808": [
+      {
+        "candidate_id": "adt-l12-d1e1296",
+        "intersectionCount": 17,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e69-d1e1152": [
+      {
+        "candidate_id": "adt-l12-d1e1369",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e131": {
+    "gsX5tY-d1e131-d1e1846": [
+      {
+        "candidate_id": "adt-l10-d1e1166",
+        "intersectionCount": 10,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e142": {
+    "gsX5tY-d1e142-d1e2218": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 19,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "gsX5tY-d1e142-d1e2500": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e142-d1e2949": [
+      {
+        "candidate_id": "adt-l15-d1e1874",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e176": {
+    "gsX5tY-d1e176-d1e385": [
+      {
+        "candidate_id": "adt-l10-d1e1178",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e193": {
+    "gsX5tY-d1e193-d1e1099": [
+      {
+        "candidate_id": "adt-l8-d1e952",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"P. Augustino 8. de Trinit. c. 3\""
+      }
+    ]
+  },
+  "gsX5tY-d1e265": {
+    "gsX5tY-d1e265-d1e2271": [
+      {
+        "candidate_id": "adt-l15-d1e1801",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"P. Augustinus 15. de Trinit. cap. 15\""
+      }
+    ],
+    "gsX5tY-d1e265-d1e2499": [
+      {
+        "candidate_id": "adt-l11-d1e1257",
+        "intersectionCount": 13,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e283": {
+    "gsX5tY-d1e283-d1e200": [
+      {
+        "candidate_id": "adt-l2-d1e343",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e273",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "gsX5tY-d1e283-d1e1479": [
+      {
+        "candidate_id": "adt-l1-d1e11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e311": {
+    "gsX5tY-d1e311-d1e1016": [
+      {
+        "candidate_id": "adt-l15-d1e1975",
+        "intersectionCount": 18,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "gsX5tY-d1e350": {
+    "gsX5tY-d1e350-d1e331": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"P. Aug. 15. de Trin. cap. 10\""
+      }
+    ],
+    "gsX5tY-d1e350-d1e1127": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e361": {
+    "gsX5tY-d1e361-d1e538": [
+      {
+        "candidate_id": "adt-l11-d1e1257",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e361-d1e578": [
+      {
+        "candidate_id": "adt-l9-d1e263",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "corrected a pre-existing <quote> that wrongly attributed this continuous sentence solely to adt-l9-d1e1074; it is one unbroken MS quotation (\"...prius dixerit, quod quidem verbum...\") spanning two source paragraphs, now encoded as a single <quote> with two space-separated source URIs (adt-l9-d1e1074@112-123 adt-l9-d1e263@1-16). MS cites \"8. de Trinit. cap. 7\" but both source paragraphs are actually book 9."
+      },
+      {
+        "candidate_id": "adt-l9-d1e1074",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e406": {
+    "gsX5tY-d1e406-d1e2144": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e434": {
+    "gsX5tY-d1e434-d1e138": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 23,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e463": {
+    "gsX5tY-d1e463-d1e2137": [
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph is about De Trin. 15.17-18 (donum/dilectio), no overlap with this Old Testament theophany passage beyond common trinitarian vocabulary"
+      },
+      {
+        "candidate_id": "adt-l6-d1e820",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 no overlap beyond common trinitarian vocabulary (pater/filius/spiritus sanctus)"
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 no overlap beyond common trinitarian vocabulary"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"eundem ibidem cap. 18\"; two quotes from this resource in the paragraph both encoded (a third quote from adt-l15-d1e1886 was already correctly encoded)"
+      }
+    ],
+    "gsX5tY-d1e463-d1e2525": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e480": {
+    "gsX5tY-d1e480-d1e287": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e480-d1e2427": [
+      {
+        "candidate_id": "adt-l15-d1e1886",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation \"P. August. 15. de Trin. cap. 17\""
+      }
+    ]
+  },
+  "gsX5tY-d1e491": {
+    "gsX5tY-d1e491-d1e2281": [
+      {
+        "candidate_id": "adt-l5-d1e753",
+        "intersectionCount": 11,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e508": {
+    "gsX5tY-d1e508-d1e193": [
+      {
+        "candidate_id": "adt-l5-d1e756",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase, not verbatim \u2014 no clean substring match found, so encoded citing the resource without an @range; explicit citation \"P. Augustinum quinto de Trinitate cap. 14\""
+      }
+    ],
+    "gsX5tY-d1e508-d1e1882": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e525": {
+    "gsX5tY-d1e525-d1e1135": [
+      {
+        "candidate_id": "adt-l5-d1e753",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e525-d1e2314": [
+      {
+        "candidate_id": "adt-l9-d1e1103",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation \"August. 9. de Trinit. cap. vltimo\""
+      }
+    ]
+  },
+  "gsX5tY-d1e542": {
+    "gsX5tY-d1e542-d1e644": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "gsX5tY-d1e559": {
+    "gsX5tY-d1e559-d1e633": [
+      {
+        "candidate_id": "adt-l4-d1e643",
+        "intersectionCount": 13,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e577": {
+    "gsX5tY-d1e577-d1e412": [
+      {
+        "candidate_id": "adt-l2-d1e226",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e622": {
+    "gsX5tY-d1e622-d1e158": [
+      {
+        "candidate_id": "adt-l5-d1e753",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e622-d1e204": [
+      {
+        "candidate_id": "adt-l15-d1e1886",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e622-d1e589": [
+      {
+        "candidate_id": "adt-l5-d1e759",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e622-d1e827": [
+      {
+        "candidate_id": "adt-l15-d1e1886",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e622-d1e867": [
+      {
+        "candidate_id": "adt-l4-d1e643",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e622-d1e1032": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "fixed a pre-existing mis-tagged <quote> that pointed to adt-l15-d1e1962 (a different, unrelated Pentecost passage) and only covered part of the quotation; corrected source and expanded range to cover the full sentence, matching \"Aug de Trin. cap. 18\" citation"
+      }
+    ]
+  },
+  "gsX5tY-d1e639": {
+    "gsX5tY-d1e639-d1e156": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "gsX5tY-d1e639-d1e413": [
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e639-d1e1295": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "gsX5tY-d1e781": {
+    "gsX5tY-d1e781-d1e1390": [
+      {
+        "candidate_id": "adt-l5-d1e696",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e798": {
+    "gsX5tY-d1e798-d1e128": [
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1798",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e318",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "gsX5tY-d1e798-d1e193": [
+      {
+        "candidate_id": "adt-l6-d1e792",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e798-d1e247": [
+      {
+        "candidate_id": "adt-l15-d1e1798",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation \"cap. 10 eiusdem libri\" (book 15)"
+      }
+    ],
+    "gsX5tY-d1e798-d1e633": [
+      {
+        "candidate_id": "adt-l15-d1e1801",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "gsX5tY-d1e798-d1e778": [
+      {
+        "candidate_id": "adt-l15-d1e1924",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "embedded verbatim phrase \"scientia de scientia et uisio de uisione\" within a paraphrastic recap (\"ostensum est ex intentione eiusdem\")"
+      }
+    ],
+    "gsX5tY-d1e798-d1e912": [
+      {
+        "candidate_id": "adt-l15-d1e1870",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "continues same citation, \"statim ibidem subiungit\""
+      },
+      {
+        "candidate_id": "adt-l15-d1e1867",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"maxime 15 de Trin. cap. 10\""
+      }
+    ],
+    "gsX5tY-d1e798-d1e2065": [
+      {
+        "candidate_id": "adt-l15-d1e1864",
+        "intersectionCount": 21,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1103",
+        "intersectionCount": 27,
+        "status": "encoded",
+        "note": "fixed a pre-existing mis-tagged <quote> that pointed to adt-l15-d1e1864 (which does not contain this phrase); corrected to adt-l9-d1e1103, matching the \"9. de Trinit. cap. vltimo\" content despite MS citing \"7. de Trin cap. 12\" (scribal/printer error)"
+      }
+    ],
+    "gsX5tY-d1e798-d1e2624": [
+      {
+        "candidate_id": "adt-l15-d1e1886",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e833": {
+    "gsX5tY-d1e833-d1e365": [
+      {
+        "candidate_id": "adt-l5-d1e756",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ]
+  }
+}
