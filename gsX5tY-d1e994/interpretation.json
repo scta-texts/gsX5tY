@@ -1,0 +1,450 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-09-24T00:00:00Z",
+    "model": "claude-sonnet-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "31c3c2100c9cf22f4fb17f7db36a75ae8ccdc82c",
+    "generation_method": "hierarchical"
+  },
+
+  "gsX5tY-d1e994-d1e115": {
+    "summary": "Rubricated statement of the distinction and question heading: Distinction 37, sole question, whether God is everywhere.",
+    "claims": [],
+    "concepts": ["divine omnipresence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-Hd1e109", "gsX5tY-d1e994-Hd1e112"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e124": {
+    "summary": "First negative objection: since no change is possible in God, God is disposed now exactly as before the constitution of the world; but before the world's constitution God was not everywhere, since there was then no place; therefore God is not everywhere now either.",
+    "claims": [
+      "God cannot undergo change.",
+      "Before the world existed, there was no place and hence no 'everywhere'.",
+      "If God is unchangeable and was not everywhere before creation, God is not everywhere now."
+    ],
+    "concepts": ["divine immutability", "place", "divine omnipresence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e115"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e151": {
+    "summary": "Second negative objection: whatever is most simple exists in the same single most simple way wherever it exists; God is most simple; therefore God would exist in the same one way wherever he is said to exist, which would wrongly imply that God exists in all things equally by essence, presence, and power rather than by distinct modes.",
+    "claims": [
+      "Whatever is most simple exists in one uniform way wherever it exists.",
+      "God is most simple.",
+      "Therefore a threefold distinction (essence, presence, power) in how God exists in things is inappropriate."
+    ],
+    "concepts": ["divine simplicity", "modes of presence", "essence, presence, and power"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e124"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e167": {
+    "summary": "States that the opposing position is supported by the authorities the Master (Peter Lombard) cites in the text of the Sentences.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e124", "gsX5tY-d1e994-d1e151"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e174": {
+    "summary": "Opens the author's response, announcing that two things must be examined in this question.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e181"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e181": {
+    "summary": "Enumerates the two things to be examined: first, whether God is everywhere; second, whether the three general modes by which God is said to be everywhere are suitably assigned. This sets the plan for Articles 1 and 2 that follow.",
+    "claims": [
+      "The question divides into two inquiries: (1) whether God is everywhere, and (2) whether three general modes are correctly assigned for how God is everywhere."
+    ],
+    "concepts": ["divine omnipresence", "modes of presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e174", "gsX5tY-d1e994-Dd1e183", "gsX5tY-d1e994-Dd1e443"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e184": {
+    "summary": "Restates the title of Article 1: whether God is everywhere.",
+    "claims": [],
+    "concepts": ["divine omnipresence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-Hd1e185", "gsX5tY-d1e994-Hd1e187"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e190": {
+    "summary": "Introduces the article's real difficulty: the conclusion that God is everywhere is not doubtful in itself, being sufficiently proved by the authorities of the saints in the text and by the authority of Scripture (Jeremiah, 'I fill heaven and earth'); what is doubtful is whether it can be demonstrated by some rational middle term (medium).",
+    "claims": [
+      "That God is everywhere is not in doubt, since it is proved by patristic authority and by Scripture.",
+      "What remains doubtful is whether the conclusion admits of demonstration through a rational middle term."
+    ],
+    "concepts": ["demonstration", "scriptural authority", "divine omnipresence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e184"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e214": {
+    "summary": "Presents the view of 'many' that God's omnipresence can be demonstrated: the middle term is divine operation, by which God universally operates in every creature, producing and conserving it in being. Since this operation is maximally intimate to each thing, the divine power from which it flows, and hence the divine substance (identical with that power), must likewise be maximally intimate to every thing; God is therefore intimate to all things in power and substance, and so is everywhere, not only with respect to place but with respect to every difference of being. The paragraph then notes that others (quidam) deny that omnipresence can be proved from operation at all, and signals that their three supporting arguments follow.",
+    "claims": [
+      "Divine operation universally produces and conserves every creature in being.",
+      "Operation that is maximally intimate to a thing implies that the power and substance from which it proceeds are likewise maximally intimate to that thing.",
+      "Since divine power and substance are identical, God's substance is intimate to, and hence everywhere present in, all things.",
+      "Some hold that God's omnipresence cannot be proved from operation at all."
+    ],
+    "concepts": ["divine operation", "conservation in being", "identity of divine power and substance", "intimacy (intimum)", "demonstration by a middle term"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e190", "gsX5tY-d1e994-d1e265", "gsX5tY-d1e994-d1e285", "gsX5tY-d1e994-d1e302"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e265": {
+    "summary": "First argument of those who deny operation proves omnipresence: an agent can operate where it is not present; indeed, the greater its power, the more distant it can operate, as is seen in the sun, whose operation reaches the inner recesses of the earth even though the sun does not extend itself there, either in itself or through its rays.",
+    "claims": [
+      "An agent's causal power can extend to a place where the agent itself is not present.",
+      "Greater power in an agent allows it to operate at a greater distance.",
+      "The sun's heat reaches the earth's interior without the sun itself, or its rays, being present there."
+    ],
+    "concepts": ["action at a distance", "agent and operation", "the sun as example"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e214", "gsX5tY-d1e994-d1e344"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e285": {
+    "summary": "Second argument: the divine will is omnipotent and can operate whenever and wherever it wills. Hence, even granting (per impossibile) that God were not everywhere yet were omnipotent, his will, and consequently his operation, could still be directed at something distant. It therefore does not follow, from the operation God exercises in every creature, that God himself is everywhere.",
+    "claims": [
+      "Divine will is omnipotent and can will to operate at any place.",
+      "Even if God were not everywhere, his omnipotent will could still direct operation to a distant thing.",
+      "Therefore divine operation in creatures does not by itself prove that God is everywhere."
+    ],
+    "concepts": ["divine omnipotence", "divine will", "operation versus presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e214", "gsX5tY-d1e994-d1e355"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e302": {
+    "summary": "Third argument: God can operate outside the universe, and yet is not there according to essence; hence operation does not entail essential presence.",
+    "claims": [
+      "God can operate beyond the created universe.",
+      "God is not present there according to essence.",
+      "Therefore operation somewhere does not entail essential presence there."
+    ],
+    "concepts": ["operation beyond the universe", "essential presence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e214", "gsX5tY-d1e994-d1e381"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e311": {
+    "summary": "The author begins his own solution: notwithstanding the three preceding arguments, the common conclusion that God is everywhere is true. To see this, 'God being in a thing' can be understood in two ways: (1) as being in it prior to operating in it, which is false, since it would imply the thing has being and is conserved in being independently of God's actual operation; or (2) as being in the thing precisely insofar as God actually operates in it, whether by producing or conserving it, which is the true sense, because operation cannot be separated from the divine power and substance themselves. Having established this, the author proceeds to answer the three arguments individually.",
+    "claims": [
+      "The common conclusion, that God is everywhere, is true despite the three counterarguments.",
+      "God cannot be understood to be in a thing prior to and independently of his operating in it.",
+      "God is properly said to be in a thing insofar as he actually operates in it (producing or conserving it), because operation cannot be separated from divine power and substance."
+    ],
+    "concepts": ["mode of divine indwelling", "actual operation versus mere presence", "inseparability of operation, power, and substance"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e265", "gsX5tY-d1e994-d1e285", "gsX5tY-d1e994-d1e302", "gsX5tY-d1e994-d1e344", "gsX5tY-d1e994-d1e355", "gsX5tY-d1e994-d1e381"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e344": {
+    "summary": "Response to the first argument: the sun reaches the earth's interior not by its own substance being there but by means of a quality caused in the air or on the earth's surface through the reflection of its rays. This distinguishes the sun's mediated causal reach from God's direct, unmediated operation, blocking the analogy used in the first counterargument.",
+    "claims": [
+      "The sun affects the earth's interior only through an intervening quality caused by reflected rays, not by the sun's own presence there."
+    ],
+    "concepts": ["mediated causation", "reflection of rays", "the sun as disanalogous to God"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e265", "gsX5tY-d1e994-d1e311"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e355": {
+    "summary": "Response to the second argument: operating is conjoined with willing just as operating is not directed at something distant, so neither is willing. God does not first will to operate in a thing and only afterward operate; rather he simultaneously wills to operate and operates. Hence, just as his operating is not toward something distant, neither, taken in this sense, is his willing.",
+    "claims": [
+      "Divine willing and divine operating are simultaneous and inseparable, not sequential.",
+      "Since divine operation is never directed at something distant, neither, in the relevant sense, is divine willing."
+    ],
+    "concepts": ["simultaneity of divine will and operation", "non-distance of divine operation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e285", "gsX5tY-d1e994-d1e311"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e381": {
+    "summary": "Response to the third argument, closing Article 1: it is one thing to be able to operate (posse operari) and another actually to operate (actu operari). From the mere ability to operate somewhere, God's essential presence there cannot be inferred or proved; but from actual operation somewhere, his essential presence there can be inferred and proved, since wherever God actually operates, there he actually is. It follows that God's being everywhere according to potency (mere ability to operate) does not entail his being everywhere according to essence, but God's being everywhere according to the potency of actually operating does entail his being everywhere according to essence.",
+    "claims": [
+      "Mere ability to operate somewhere does not prove essential presence there.",
+      "Actual operation somewhere does prove essential presence there, since where God actually operates, he actually is.",
+      "Omnipresence according to mere potency to operate does not entail essential omnipresence, but omnipresence according to actually-operating power does entail essential omnipresence."
+    ],
+    "concepts": ["posse operari versus actu operari", "inference of essential presence from actual operation", "potency versus essence"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e302", "gsX5tY-d1e994-d1e311"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e424": {
+    "summary": "Restates the title of Article 2: whether the three general modes attributed to God for being everywhere — by essence, presence, and power — are suitably assigned.",
+    "claims": [],
+    "concepts": ["essence, presence, and power"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-Hd1e445", "gsX5tY-d1e994-Hd1e447"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e437": {
+    "summary": "Opens Article 2's response by asserting, setting aside others' views, that the three modes of being are suitably assigned, and then defines each: being in something according to essence means attaining it according to its very essence, such that no distance intervenes between the two essences; being in something according to presence means attaining it according to cognition, such that it is present to that thing's knowledge without any delay; being in something according to power means attaining it according to some operation.",
+    "claims": [
+      "The three modes of being-in (essence, presence, power) are suitably assigned.",
+      "Being-in-something-by-essence consists in attaining it according to essence with no distance between essences.",
+      "Being-in-something-by-presence consists in attaining it according to cognition, present to its knowledge without delay.",
+      "Being-in-something-by-power consists in attaining it according to some operation."
+    ],
+    "concepts": ["essence", "presence (cognitive presence)", "power (potentia/operation)", "modes of being-in"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e424"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e479": {
+    "summary": "Argues that the three modes are really distinct in creatures because they can be separated from one another, and gives the first supporting example: fire is in water according to power when it heats the water, since it attains the water by an operation, but fire is not thereby in the water according to presence (it has no cognition) nor according to essence (the heating operation does not intimate fire's essence to water's essence).",
+    "claims": [
+      "The three modes of being-in are really distinct in creatures because they can occur separately.",
+      "Fire is in water according to power (via its heating operation) without being in it according to presence or essence."
+    ],
+    "concepts": ["real distinction", "separability of the three modes", "fire heating water as example"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e437", "gsX5tY-d1e994-d1e542", "gsX5tY-d1e994-d1e560"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e542": {
+    "summary": "Second example supporting the real distinction of the three modes: sight is in color according to presence, since color is present to sight's cognition, yet sight is not thereby in color according to power or according to essence.",
+    "claims": [
+      "Sight is in color according to presence alone, not according to power or essence."
+    ],
+    "concepts": ["cognitive presence", "vision and color as example"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e479", "gsX5tY-d1e994-d1e560"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e560": {
+    "summary": "Third example supporting the real distinction of the three modes: form is in matter according to essence, because it attains matter with respect to the whole of giving it being and conserving it in being, yet form is not thereby in matter according to presence (it does not attain it by cognition) nor according to power (it has no operation upon matter by which it acts on it).",
+    "claims": [
+      "Form is in matter according to essence alone, not according to presence or power."
+    ],
+    "concepts": ["hylomorphism", "form and matter as example", "giving and conserving being"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e479", "gsX5tY-d1e994-d1e542"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e586": {
+    "summary": "Draws the transitional conclusion from the three creaturely examples: because the three modes are really distinct and separable from one another in creatures, they can likewise be distinguished and separated in God, at least according to reason (not really). One can therefore conceive God under a single mode without the others — e.g., conceiving God after the manner of a universal natural agent, in which case he would be conceived as existing in all things according to power alone, and in no way according to presence or essence.",
+    "claims": [
+      "The real distinction of the three modes in creatures grounds a merely rational (not real) distinction of the same three modes in God.",
+      "God can be conceived under the mode of power alone, as a universal natural agent, existing in things by power but not by presence or essence."
+    ],
+    "concepts": ["distinction of reason versus real distinction", "God as universal agent", "power alone"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e479", "gsX5tY-d1e994-d1e542", "gsX5tY-d1e994-d1e560", "gsX5tY-d1e994-d1e616", "gsX5tY-d1e994-d1e632"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e616": {
+    "summary": "Continues the series of thought-experiments: one could also conceive God after the manner of a separate intellect that knows all things but operates nothing, in which case God would be conceived as existing in all things according to presence alone, and not according to power or essence.",
+    "claims": [
+      "God can be conceived under the mode of presence alone, as a separate intellect knowing but not operating, existing in things by presence but not by power or essence."
+    ],
+    "concepts": ["separate intellect", "presence alone", "cognition without operation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e586", "gsX5tY-d1e994-d1e632"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e632": {
+    "summary": "Concludes the series of thought-experiments: one could similarly conceive God after the manner of a single form sustaining all things, without knowing or operating, in which case God would be conceived as existing in all things according to essence alone, and in no way according to presence or power.",
+    "claims": [
+      "God can be conceived under the mode of essence alone, as a sustaining form that neither knows nor operates, existing in things by essence but not by presence or power."
+    ],
+    "concepts": ["sustaining form", "essence alone", "existence without cognition or operation"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e586", "gsX5tY-d1e994-d1e616"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e650": {
+    "summary": "Draws the final conclusion of Article 2 and of the whole question: from all these considerations it can be concluded that the assignment and distinction of the three modes was fitting, and this settles what is to be said both about this article and about the whole question.",
+    "claims": [
+      "The threefold assignment and distinction of the modes of being (essence, presence, power) is fitting and correct."
+    ],
+    "concepts": ["conclusion of the article", "essence, presence, and power"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e586", "gsX5tY-d1e994-d1e616", "gsX5tY-d1e994-d1e632"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e663": {
+    "summary": "Response to the first principal argument (from the opening of the question): God's being everywhere after the world's creation, and not before (since before creation there was no place or 'where'), implies no change in God, but only a change in the world, which was newly created.",
+    "claims": [
+      "God's not being everywhere before creation and being everywhere after creation does not imply any change in God himself, only a change in the newly created world."
+    ],
+    "concepts": ["divine immutability", "creation of place", "response to initial objection"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e124"]
+    }
+  },
+
+  "gsX5tY-d1e994-d1e679": {
+    "summary": "Response to the second principal argument: as already established, the three modes are not distinguished in God really but only according to reason; and this rational distinction is drawn from the real distinction found among the three modes in creatures, as was shown earlier.",
+    "claims": [
+      "The three modes are distinguished in God only according to reason, not really.",
+      "This rational distinction in God is grounded in, and drawn from, the real distinction of the three modes observed in creatures."
+    ],
+    "concepts": ["distinction of reason", "real distinction in creatures as ground for rational distinction in God"],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": ["gsX5tY-d1e994-d1e151", "gsX5tY-d1e994-d1e586"]
+    }
+  },
+
+  "gsX5tY-d1e994-Dd1e183": {
+    "summary": "Article 1 argues that God is everywhere. It first shows that this conclusion, though not itself in doubt (being established by patristic authority and Scripture), is difficult to demonstrate by a rational middle term. It presents and rejects the view that divine operation in every creature directly proves omnipresence, considering three objections (action at a distance via the sun, the omnipotence of the divine will, and God's operation beyond the universe without essential presence there). The author's own solution distinguishes being-in-a-thing prior to operation (false) from being-in-a-thing through actual operation (true), and on this basis answers all three objections, concluding that God's actual operation everywhere proves his essential presence everywhere, whereas mere ability to operate would not.",
+    "claims": [
+      "God is everywhere, not merely by ability to operate but by actual operation, which entails essential presence."
+    ],
+    "concepts": ["divine omnipresence", "demonstration by a middle term", "actual operation versus potency", "intimacy of divine power and substance"],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e994-d1e184",
+        "gsX5tY-d1e994-d1e190",
+        "gsX5tY-d1e994-d1e214",
+        "gsX5tY-d1e994-d1e265",
+        "gsX5tY-d1e994-d1e285",
+        "gsX5tY-d1e994-d1e302",
+        "gsX5tY-d1e994-d1e311",
+        "gsX5tY-d1e994-d1e344",
+        "gsX5tY-d1e994-d1e355",
+        "gsX5tY-d1e994-d1e381"
+      ]
+    }
+  },
+
+  "gsX5tY-d1e994-Dd1e443": {
+    "summary": "Article 2 examines whether the three general modes attributed to God for being everywhere — essence, presence, and power — are suitably assigned. It defines the three modes (attaining a thing according to essence, according to cognitive presence, and according to operative power), and establishes through three creaturely examples (fire heating water, sight seeing color, form informing matter) that the modes are really distinct and separable in creatures. From this real distinction it argues that the same three modes can be distinguished in God at least according to reason, illustrating this with three thought-experiments in which God is conceived under only one mode at a time (as universal agent, as separate knowing intellect, as sustaining form). It concludes that the threefold assignment is fitting, closing both the article and the question, and then answers the two principal objections raised at the outset: that omnipresence entails no change in God (only a change in the newly-created world), and that the three modes are distinguished in God only rationally, this rational distinction being grounded in the real distinction found in creatures.",
+    "claims": [
+      "The three modes of being-in (essence, presence, power) are really distinct in creatures, as shown by the examples of fire/water, sight/color, and form/matter.",
+      "In God the three modes are not really but only rationally distinct, the rational distinction being grounded in the real distinction among creatures.",
+      "The threefold assignment of modes by which God is said to be everywhere is fitting."
+    ],
+    "concepts": ["essence, presence, and power", "real versus rational distinction", "modes of being-in"],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e994-d1e424",
+        "gsX5tY-d1e994-d1e437",
+        "gsX5tY-d1e994-d1e479",
+        "gsX5tY-d1e994-d1e542",
+        "gsX5tY-d1e994-d1e560",
+        "gsX5tY-d1e994-d1e586",
+        "gsX5tY-d1e994-d1e616",
+        "gsX5tY-d1e994-d1e632",
+        "gsX5tY-d1e994-d1e650",
+        "gsX5tY-d1e994-d1e663",
+        "gsX5tY-d1e994-d1e679"
+      ]
+    }
+  },
+
+  "gsX5tY-d1e994": {
+    "summary": "The sole question of Distinction 37 asks whether God is everywhere. Two initial objections deny this, arguing from divine immutability and the pre-creation absence of place, and from divine simplicity, which seems to preclude a threefold distinction of modes of presence. The opposing position rests on the authorities the Master cites. The author's response divides into two articles: Article 1 establishes, against three objections, that God is everywhere in the sense that his actual operation in every creature entails his essential presence everywhere. Article 2 establishes, through examples drawn from creatures, that the three modes traditionally used to describe this omnipresence — essence, presence, and power — are really distinct in creatures and, correspondingly, rationally distinct in God, and that their threefold assignment is fitting. The question closes by answering the two initial objections: omnipresence following creation implies change only in the newly-created world, not in God, and the threefold distinction in God is merely rational, grounded in the real distinction found among creatures.",
+    "claims": [
+      "God is everywhere by virtue of his actual operation in every creature.",
+      "The three modes of divine omnipresence — essence, presence, and power — are fittingly and suitably distinguished, though only rationally (not really) in God."
+    ],
+    "concepts": ["divine omnipresence", "divine immutability", "divine simplicity", "essence, presence, and power", "real versus rational distinction"],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e994-d1e115",
+        "gsX5tY-d1e994-d1e124",
+        "gsX5tY-d1e994-d1e151",
+        "gsX5tY-d1e994-d1e167",
+        "gsX5tY-d1e994-d1e174",
+        "gsX5tY-d1e994-d1e181",
+        "gsX5tY-d1e994-Dd1e183",
+        "gsX5tY-d1e994-Dd1e443"
+      ]
+    }
+  }
+}
