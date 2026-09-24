@@ -1,0 +1,67 @@
+{
+  "gsX5tY-d1e131": {
+    "gsX5tY-d1e131-d1e406": [
+      {
+        "candidate_id": "adcd-l11-d1e1631",
+        "intersectionCount": 16,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e176": {
+    "gsX5tY-d1e176-d1e794": [
+      {
+        "candidate_id": "adcd-l11-d1e1631",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "gsX5tY-d1e311": {
+    "gsX5tY-d1e311-d1e364": [
+      {
+        "candidate_id": "adcd-l11-d1e1625",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 MS quotes Decretal/Sacrum Concilium re Trinity, not Augustine; shared vocabulary only"
+      }
+    ]
+  },
+  "gsX5tY-d1e650": {
+    "gsX5tY-d1e650-d1e718": [
+      {
+        "candidate_id": "adcd-l11-d1e1593",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "gsX5tY-d1e798": {
+    "gsX5tY-d1e798-d1e128": [
+      {
+        "candidate_id": "adcd-l10-d1e1512",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "gsX5tY-d1e960": {
+    "gsX5tY-d1e960-d1e737": [
+      {
+        "candidate_id": "adcd-l12-d1e1752",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "was already encoded in XML (quote xml:id gsX5tY-d1e960-Qd1e757, synch 186-247)"
+      }
+    ]
+  },
+  "gsX5tY-d1e1063": {
+    "gsX5tY-d1e1063-d1e229": [
+      {
+        "candidate_id": "adcd-l18-d1e2996",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  }
+}
