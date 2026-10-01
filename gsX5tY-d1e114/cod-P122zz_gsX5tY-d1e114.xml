@@ -2428,7 +2428,7 @@
             <lb ed="#P" n="50"/>dilectio non indiget aliqua cognitione
             diri<lb ed="#P" n="51" break="no"/>gente, sed tantum simplici cognitione osten 
             <lb ed="#P" n="52"/>dente, quia si finis volitus ostendat se
-            vlte<lb ed="#P" n="53" break="no"/>rius, voiuntas potest tendere in ipsum sine 
+            vlte<lb ed="#P" n="53" break="no"/>rius, voluntas potest tendere in ipsum sine 
             <lb ed="#P" n="54"/>aliqua difficultate, &amp; errore, &amp; sic non 
             trahi<lb ed="#P" n="55" break="no"/>tur Theologia extra genus scientiae
             specula<lb ed="#P" n="56" break="no"/>tiuae, quia ex quo praefata dilectio non est no 
@@ -2437,6 +2437,8 @@
             <!-- 75 b -->
             <lb ed="#P" n="57"/>bis operabilis, videtur, quod non transeat 
             <lb ed="#P" n="58"/>extra conditionem scientie speculatiuae.
+          </p>
+          <p xml:id="gsX5tY-d1e114-d1e5055">
             Vl<lb ed="#P" n="59" break="no"/>terius omne ens vel est operabile a nobis, &amp;  
             <lb ed="#P" n="60"/>sic pertinet ad scientiam practicam, vel non 
             <lb ed="#P" n="61"/>est operabile a nobis, &amp; sic pertinet ad 
@@ -2657,15 +2659,12 @@
             pra<lb ed="#P" n="17" break="no"/>xi &amp; per consequens denominanda est
             dile<lb ed="#P" n="18" break="no"/>ctiua, vel affectiua, sicut dicit Doctor noster. 
           </p>
-        </div>
-        <div xml:id="gsX5tY-d1e114-Dd1e5569">
-          <head xml:id="gsX5tY-d1e114-Hd1e5571">Ad rationes principales</head>
           <p xml:id="gsX5tY-d1e114-d1e5574">
             <lb ed="#P" n="19"/>Restat ergo soluere rationes, quae 
             videban<lb ed="#P" n="20" break="no"/>tur difficultatem facere. 
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5581">
-            <lb ed="#P" n="21"/>Ad primam concedo, quod non omnis
+            <lb ed="#P" n="21"/><ref xml:id="gsX5tY-d1e114-Rd1e5579" target="http://scta.info/resource/gsX5tY-d1e114-d1e5051">Ad primam</ref> concedo, quod non omnis
             o<lb ed="#P" n="22" break="no"/>peratio sit praxis; non tamen sequitur, quod 
             <lb ed="#P" n="23"/>huiusmodi operatio reducatur ad speculatio 
             <lb ed="#P" n="24"/>nem tanquam ad finem: in proposito enim 
@@ -2673,7 +2672,7 @@
             redu<lb ed="#P" n="26" break="no"/>citur ad dilectionem tanquam ad finem.  
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5597">
-            <lb ed="#P" n="27"/>Ad illud, quod ibidem adducebatur de 
+            <lb ed="#P" n="27"/><ref xml:id="gsX5tY-d1e114-Rd1e5597" target="http://scta.info/resource/gsX5tY-d1e114-d1e5051">Ad illud, quod ibidem adducebatur</ref> de 
             <lb ed="#P" n="28"/>praefata dilectione, quae non est a nobis
             agi<lb ed="#P" n="29" break="no"/>bilis, dico, aliquid esse operabile a nobis
             pos<lb ed="#P" n="30" break="no"/>se intelligi tripliciter; vno modo, quia est 
@@ -2712,21 +2711,23 @@
             <lb ed="#P" n="60"/>debemus nos affirmare de dilectione, quam  
             <lb ed="#P" n="61"/>ponimus finem dilectionis, &amp; non agi a
             no<lb ed="#P" n="62" break="no"/>bis, sed supernaturaliter agi in nobis, 
-            <lb ed="#P" n="63"/>Ad secundam patet per iam dicta, quod 
+          </p>
+          <p xml:id="gsX5tY-d1e114-d1e5690">
+            <lb ed="#P" n="63"/><ref xml:id="gsX5tY-d1e114-Rd1e5686" target="http://scta.info/resource/gsX5tY-d1e114-d1e5055">Ad secundam</ref> patet per iam dicta, quod 
             <lb ed="#P" n="64"/>non agibile a nobis dicitur pluribus modis,  
             <lb ed="#P" n="65"/>nec omnes illi modi possunt pertinere ad 
             <lb ed="#P" n="66"/>scientiam speculatiuam sed tantum primus,  
             <lb ed="#P" n="67"/>puta quia est pure speculabile 
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5695">
-            <lb ed="#P" n="68"/>Ad tertiam dico, quod non ideo dilectio 
+            <lb ed="#P" n="68"/><ref xml:id="gsX5tY-d1e114-Rd1e5702" target="http://scta.info/resource/gsX5tY-d1e114-d1e5107">Ad tertiam</ref> dico, quod non ideo dilectio 
             <lb ed="#P" n="69"/>Dei pertinet ad scientiam affectiuam, quia 
             <lb ed="#P" n="70"/>sit opus Dei, sed quia est tale opus Dei, quod 
             <lb ed="#P" n="71"/>est finis speculationis. Quapropter peccat 
             <lb ed="#P" n="72"/>ratio accipiendo non causam pro causa¬ 
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5709">
-            <lb ed="#P" n="73"/>Ad quartam cum dicitur, quod dilectio 
+            <lb ed="#P" n="73"/><ref xml:id="gsX5tY-d1e114-Rd1e5717" target="http://scta.info/resource/gsX5tY-d1e114-d1e5120">Ad quartam</ref> cum dicitur, quod dilectio 
             <lb ed="#P" n="74"/>sit vera praxis, negandum est simpliciter, &amp;  
             <lb ed="#P" n="75"/>descriptio, quam tradunt de praxi non est 
             <lb ed="#P" n="76"/>sufficiens quia non accipit omnia, quae sunt 
@@ -2734,7 +2735,7 @@
             <lb ed="#P" n="78"/>dictis.
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5725">
-            <lb ed="#P" n="79"/>Ad quintam cum dicitur, quod esset
+            <lb ed="#P" n="79"/><ref xml:id="gsX5tY-d1e114-Rd1e5735" target="http://scta.info/resource/gsX5tY-d1e114-d1e5164">Ad quintam</ref> cum dicitur, quod esset
             ali<lb ed="#P" n="80" break="no"/>qua operatio hominis non practica, nec
             spe<lb ed="#P" n="81" break="no"/>culatiua: Respondeo dupliciter Primo negam 
             <lb ed="#P" n="82"/>do consequentiam, quia dilectio vltimi
@@ -2755,7 +2756,7 @@
             cau<lb ed="#P" n="97" break="no"/>sa saltem sufficiens 
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5769">
-            <lb ed="#P" n="98"/>Ad vltimam dico, quod differentia est in 
+            <lb ed="#P" n="98"/><ref xml:id="gsX5tY-d1e114-Rd1e5781" target="http://scta.info/resource/gsX5tY-d1e114-d1e5177">Ad vltimam</ref> dico, quod differentia est in 
             <lb ed="#P" n="99"/>ter praxim, &amp; speculationem, quia principium 
             <lb ed="#P" n="100"/>speculationis est magis extrinsecum, quam 
             <lb ed="#P" n="101"/>intrinsecum; principium vero praxis
@@ -2776,7 +2777,7 @@
             <lb ed="#P" n="1"/>trinseco statim exit genus praxis. 
           </p>
           <p xml:id="gsX5tY-d1e114-d1e5813">
-            <lb ed="#P" n="2"/>Ad confirmationem dico, quod non est 
+            <lb ed="#P" n="2"/><ref xml:id="gsX5tY-d1e114-Rd1e5827" target="http://scta.info/resource/gsX5tY-d1e114-d1e5177">Ad confirmationem</ref> dico, quod non est 
             <lb ed="#P" n="3"/>simile illud, quod additur pro simili, quia 
             <lb ed="#P" n="4"/>actus dilectionis ex charitate habet
             quan<lb ed="#P" n="5" break="no"/>dam rectitudinem supernaturalem
