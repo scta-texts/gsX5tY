@@ -2467,19 +2467,43 @@
     }
   },
   "gsX5tY-d1e114-d1e5051": {
-    "summary": "Reports difficulties from others: some reduce theology to the speculative, since only operation directed by practical knowledge is praxis, while this love needs only simple showing cognition; since it is not operable by us it does not exceed speculative science; and every being is either operable by us (practical) or not (speculative).",
+    "summary": "Opens the difficulties raised against Giles's conclusion. Some reduce theology to the speculative genus: not every operation is praxis, only one directed by practical knowledge; but this love needs no directing cognition, only a simple showing cognition, since once the willed end shows itself the will tends to it without difficulty or error. So, since the love is not operable by us, theology does not leave the condition of speculative science.",
     "claims": [],
     "concepts": [
       "speculative science",
       "showing cognition",
-      "operable and non-operable"
+      "praxis"
     ],
     "_metadata": {
       "level": "paragraph",
       "generation_method": "source_text_with_context",
       "context_ids": [
         "gsX5tY-d1e114-d1e4922"
-      ]
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
+    }
+  },
+  "gsX5tY-d1e114-d1e5055": {
+    "summary": "Further objection: every being is either operable by us, and so belongs to practical science, or not operable by us, and so belongs to speculative science; so if this love is not operable by us, the same follows as before, namely that theology is speculative.",
+    "claims": [],
+    "concepts": [
+      "operable and non-operable",
+      "division of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5051",
+        "gsX5tY-d1e114-d1e4922"
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
     }
   },
   "gsX5tY-d1e114-d1e5107": {
@@ -2706,50 +2730,8 @@
       ]
     }
   },
-  "gsX5tY-d1e114-Dd1e4898": {
-    "summary": "Article 6 holds with Giles that the love which is theology's end belongs neither to speculation nor praxis but to a third genus, so theology is affective or dilective. Love is not a kind of speculation, and it is not praxis because meritorious love is done in us by grace, not from us. Against objections that love is speculative since it needs only showing cognition, that it is true praxis as an act of the will following right reason, and that a divinely caused act need not leave its natural genus, the author specifies four conditions of true praxis: it is the end of a cognition, in the will's power to elicit or command, directable by our intellect, and presupposes volition of an end. Love from charity fails the last three: it is not from the will's natural power, else salvation would not be by grace; its rectitude depends on divine acceptance, requiring supernatural direction (the Holy Spirit's influx or a supernatural prudence); and it presupposes no further end, God being the ultimate end. So love of God resembles praxis only as the end of a cognition; with Augustine, true wisdom is true worship, and theology is named from love.",
-    "claims": [
-      "The love that is theology's end is neither speculation nor praxis.",
-      "True praxis is the end of a cognition, in the will's power, directable by our intellect, and presupposes volition of an end.",
-      "Meritorious love from charity is not from the will's natural power.",
-      "The rectitude of meritorious love depends on divine acceptance and requires supernatural direction.",
-      "Theology should be called affective or dilective."
-    ],
-    "concepts": [
-      "affective science",
-      "conditions of praxis",
-      "grace",
-      "merit",
-      "divine acceptance",
-      "Holy Spirit",
-      "supernatural prudence",
-      "true worship"
-    ],
-    "_metadata": {
-      "level": "article",
-      "generation_method": "descendant_summaries",
-      "input_ids": [
-        "gsX5tY-d1e114-d1e4906",
-        "gsX5tY-d1e114-d1e4922",
-        "gsX5tY-d1e114-d1e5051",
-        "gsX5tY-d1e114-d1e5107",
-        "gsX5tY-d1e114-d1e5120",
-        "gsX5tY-d1e114-d1e5164",
-        "gsX5tY-d1e114-d1e5177",
-        "gsX5tY-d1e114-d1e5208",
-        "gsX5tY-d1e114-d1e5239",
-        "gsX5tY-d1e114-d1e5253",
-        "gsX5tY-d1e114-d1e5282",
-        "gsX5tY-d1e114-d1e5341",
-        "gsX5tY-d1e114-d1e5352",
-        "gsX5tY-d1e114-d1e5395",
-        "gsX5tY-d1e114-d1e5480",
-        "gsX5tY-d1e114-d1e5499"
-      ]
-    }
-  },
   "gsX5tY-d1e114-d1e5574": {
-    "summary": "Introduces replies to the arguments raising difficulties.",
+    "summary": "Introduces the replies to the difficulties raised against Giles's conclusion.",
     "claims": [],
     "concepts": [],
     "_metadata": {
@@ -2757,11 +2739,16 @@
       "generation_method": "source_text_with_context",
       "context_ids": [
         "gsX5tY-d1e114-d1e5051",
+        "gsX5tY-d1e114-d1e5055",
         "gsX5tY-d1e114-d1e5107",
         "gsX5tY-d1e114-d1e5120",
         "gsX5tY-d1e114-d1e5164",
         "gsX5tY-d1e114-d1e5177"
-      ]
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
     }
   },
   "gsX5tY-d1e114-d1e5581": {
@@ -2782,7 +2769,7 @@
     }
   },
   "gsX5tY-d1e114-d1e5597": {
-    "summary": "On love not being doable by us: something non-operable by us may be a purely speculable object, or something following speculation as a supervening accident (both belong to speculative science), or something following speculation as an end perfecting it; the last fits neither practical science (being non-operable) nor speculative (whose only end is speculation), so it belongs to a third kind, as love of God from charity does. Even philosophers, had they posited a love of the ultimate end nobler than speculation, would have placed it in a third genus. Reply to the second follows: only the first sense of 'non-doable' belongs to speculative science.",
+    "summary": "Replies to the point raised in the first difficulty that the love is not doable by us. Something can be non-operable by us in three ways: as a purely speculable object; as something following speculation as a supervening accident (both belong to speculative science); or as something not done by us that follows speculation as an end perfecting it. The last fits neither practical science, being non-operable, nor speculative science, whose only end is speculation, so it belongs to a third kind, as love of God from charity does. Even philosophers, had they posited a love of the ultimate end nobler than speculation and its end, would have placed it in a third genus; all the more should we, since this love is done in us supernaturally.",
     "claims": [
       "What follows speculation as its perfecting end belongs to neither practical nor speculative science.",
       "Speculative science has no end but speculation."
@@ -2797,7 +2784,33 @@
       "generation_method": "source_text_with_context",
       "context_ids": [
         "gsX5tY-d1e114-d1e5051"
-      ]
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
+    }
+  },
+  "gsX5tY-d1e114-d1e5690": {
+    "summary": "Reply to the second difficulty: as just shown, 'not doable by us' is said in several ways, and not all of them belong to speculative science, only the first, that which is purely speculable; so the disjunction of operable and non-operable does not force love into speculative science.",
+    "claims": [
+      "Only the purely speculable among non-doable things belongs to speculative science."
+    ],
+    "concepts": [
+      "operable and non-operable",
+      "division of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5055",
+        "gsX5tY-d1e114-d1e5597"
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
     }
   },
   "gsX5tY-d1e114-d1e5695": {
@@ -2888,38 +2901,70 @@
       ]
     }
   },
-  "gsX5tY-d1e114-Dd1e5569": {
-    "summary": "Despite its TEI heading, this section answers the difficulties raised in Article 6 against affective theology rather than the question's principal arguments: speculation is ordered to love, not love to speculation; what follows speculation as a perfecting end and is not operable by us belongs to a third kind of science; love belongs to affective science not merely as God's work but as God's work that is the end of speculation; love is not true praxis; neither supernatural nor even natural love of the ultimate end is simply in our power, and praxis requires more than being in our power; praxis is restricted by its intrinsic principle, so an act from an extrinsic principle leaves its genus; and love from charity has a formally supernatural rectitude. The prologue closes here.",
+  "gsX5tY-d1e114-Dd1e4898": {
+    "summary": "Article 6 holds with Giles of Rome that the love which is theology's end belongs neither to speculation nor praxis but to a third genus, so theology is affective or dilective. Love is not a kind of speculation, and it is not praxis because meritorious love is done in us by grace, not from us. Six difficulties are raised: that love needs only a showing, not a directing, cognition and so leaves theology speculative; that every being is either operable by us or not; that by the same reasoning all God's works would be affective; that love meets the definition of praxis as an act of the will following right reason; that some operation in our power would then be neither practical nor speculative; and that speculation under the divinely given light of faith would also form a third genus, as a divinely created eye is of the same species as a natural one. The author specifies four conditions of true praxis: it is the end of a cognition, in the will's power to elicit or command, directable by our intellect, and presupposes volition of an end. Love from charity fails the last three: it is not from the will's natural power, else salvation would not be by grace; its rectitude depends on divine acceptance, requiring supernatural direction (the Holy Spirit's influx or a supernatural prudence); and it presupposes no further end, God being the ultimate end. So love of God resembles praxis only as the end of a cognition; with Augustine, true wisdom is true worship, and theology is named from love. The difficulties are then answered in order: speculation is ordered to love, not love to speculation; what follows speculation as its perfecting end and is not operable by us belongs to a third kind of science, and only the purely speculable among non-doable things belongs to speculative science; love belongs to affective science not merely as God's work but as God's work that is the end of speculation; love is not true praxis, the opponents' definition being incomplete; neither supernatural nor even natural love of the ultimate end is simply in our power, and praxis requires more than being in our power; praxis is restricted by its intrinsic principle, so an act from an extrinsic principle leaves its genus; and love from charity has a formally supernatural rectitude. The prologue closes here.",
     "claims": [
+      "The love that is theology's end is neither speculation nor praxis.",
+      "True praxis is the end of a cognition, in the will's power, directable by our intellect, and presupposes volition of an end.",
+      "Meritorious love from charity is not from the will's natural power.",
+      "The rectitude of meritorious love depends on divine acceptance and requires supernatural direction.",
       "Speculation is ordered to love as its end.",
       "What follows speculation as its perfecting end and is non-operable belongs to a third genus of science.",
-      "Love of God is not true praxis.",
-      "The genus of praxis is restricted by its intrinsic principle."
+      "The genus of praxis is restricted by its intrinsic principle.",
+      "Theology should be called affective or dilective."
     ],
     "concepts": [
       "affective science",
+      "conditions of praxis",
+      "grace",
+      "merit",
+      "divine acceptance",
+      "Holy Spirit",
+      "supernatural prudence",
+      "true worship",
       "third genus",
-      "praxis",
       "intrinsic principle",
       "supernatural rectitude"
     ],
     "_metadata": {
-      "level": "section",
+      "level": "article",
       "generation_method": "descendant_summaries",
       "input_ids": [
+        "gsX5tY-d1e114-d1e4906",
+        "gsX5tY-d1e114-d1e4922",
+        "gsX5tY-d1e114-d1e5051",
+        "gsX5tY-d1e114-d1e5055",
+        "gsX5tY-d1e114-d1e5107",
+        "gsX5tY-d1e114-d1e5120",
+        "gsX5tY-d1e114-d1e5164",
+        "gsX5tY-d1e114-d1e5177",
+        "gsX5tY-d1e114-d1e5208",
+        "gsX5tY-d1e114-d1e5239",
+        "gsX5tY-d1e114-d1e5253",
+        "gsX5tY-d1e114-d1e5282",
+        "gsX5tY-d1e114-d1e5341",
+        "gsX5tY-d1e114-d1e5352",
+        "gsX5tY-d1e114-d1e5395",
+        "gsX5tY-d1e114-d1e5480",
+        "gsX5tY-d1e114-d1e5499",
         "gsX5tY-d1e114-d1e5574",
         "gsX5tY-d1e114-d1e5581",
         "gsX5tY-d1e114-d1e5597",
+        "gsX5tY-d1e114-d1e5690",
         "gsX5tY-d1e114-d1e5695",
         "gsX5tY-d1e114-d1e5709",
         "gsX5tY-d1e114-d1e5725",
         "gsX5tY-d1e114-d1e5769",
         "gsX5tY-d1e114-d1e5813"
-      ]
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
     }
   },
   "gsX5tY-d1e114": {
-    "summary": "The fifth and final question of the prologue asks what the end of theology is. Article 1 establishes the general theory: practical and speculative are said equivocally of intellect and habit, speculative being essential to the intellect and practical accidental (arising by extension toward a willed end), while both are essential differences of habits; their distinction comes from object and end, principally the end. Articles 2-4 reject making theology's end speculation, praxis, or both: a science is named from its principal end, which is love; the love of God needs direction but is not praxis; logic and theology's direction of faith do not make a science practical; and a science that was both practical and speculative would lack unity, which comes from its subject. Article 5, with Giles of Rome, holds that love or charity is principally and simply theology's end, since it alone immediately orders one to beatitude, attains God most nobly in this life, and is that to which speculation and operation are ordered; God is the end for which and love the end by which. Article 6 concludes that this love falls outside praxis, since meritorious love is not in the will's natural power, is directed by divine acceptance through supernatural guidance, and presupposes no further end; so theology is neither speculative nor practical but affective, and the closing replies defend this third genus.",
+    "summary": "The fifth and final question of the prologue asks what the end of theology is. Article 1 establishes the general theory: practical and speculative are said equivocally of intellect and habit, speculative being essential to the intellect and practical accidental (arising by extension toward a willed end), while both are essential differences of habits; their distinction comes from object and end, principally the end. Articles 2-4 reject making theology's end speculation, praxis, or both: a science is named from its principal end, which is love; the love of God needs direction but is not praxis; logic and theology's direction of faith do not make a science practical; and a science that was both practical and speculative would lack unity, which comes from its subject. Article 5, with Giles of Rome, holds that love or charity is principally and simply theology's end, since it alone immediately orders one to beatitude, attains God most nobly in this life, and is that to which speculation and operation are ordered; God is the end for which and love the end by which. Article 6 concludes that this love falls outside praxis, since meritorious love is not in the will's natural power, is directed by divine acceptance through supernatural guidance, and presupposes no further end; so theology is neither speculative nor practical but affective, and the article closes by answering six difficulties against this third genus.",
     "claims": [
       "The distinction of practical and speculative is taken principally from the end.",
       "Theology's end is neither speculation nor praxis nor both.",
@@ -2950,9 +2995,12 @@
         "gsX5tY-d1e114-Dd1e2931",
         "gsX5tY-d1e114-Dd1e3618",
         "gsX5tY-d1e114-Dd1e4120",
-        "gsX5tY-d1e114-Dd1e4898",
-        "gsX5tY-d1e114-Dd1e5569"
-      ]
+        "gsX5tY-d1e114-Dd1e4898"
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "b82c781"
     }
   }
 }
