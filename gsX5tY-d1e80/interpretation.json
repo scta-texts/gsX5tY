@@ -1,0 +1,2804 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "7247fd15520fe46af79694fffa31226b54cf0bde",
+    "generation_method": "hierarchical"
+  },
+  "gsX5tY-d1e80-d1e120": {
+    "summary": "Statement of the second question of the prologue: whether the truth of theology is contained under the adequate object of our intellective power.",
+    "claims": [],
+    "concepts": [
+      "adequate object of the intellect",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-Dd1e115"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e115": {
+    "summary": "Statement of the second question of the prologue: whether the truth of theology is contained under the adequate object of our intellective power.",
+    "claims": [],
+    "concepts": [
+      "adequate object of the intellect",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e146": {
+    "summary": "First argument for the negative: the adequate object of our intellect is the quiddity of a material thing, but theology abstracts from all material things, since divine truth is pure act with no admixture of potency. The major rests on the proportion of power and object: our intellect is joined to matter in being though not in understanding, so its adequate object must be joined to matter in being and abstract in being known, which is the quiddity of a material thing.",
+    "claims": [
+      "Object and power must be proportioned.",
+      "Our intellect is joined to matter in being though not in understanding.",
+      "Divine truth, as pure act, has nothing in common with material things."
+    ],
+    "concepts": [
+      "adequate object",
+      "quiddity of material thing",
+      "proportion of power and object",
+      "pure act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e188": {
+    "summary": "Second argument for the negative: if theological truth fell under the object of our intellect, it would fall under the subject of metaphysics, being as being, which cannot be of narrower scope than the object of our intellect; but the previous question showed that theological truth does not fall under the subject of metaphysics.",
+    "claims": [
+      "The subject of metaphysics is at least as extensive as the object of our intellect.",
+      "Theological truth does not fall under the subject of metaphysics."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "being as being",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e120",
+        "gsX5tY-d1e69-Dd1e1583"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e227": {
+    "summary": "Third argument for the negative: if theological truth fell under our intellect's object, God under the ratio of deity would not be theology's subject. The subject must fundamentally contain all theological truths, which is God as God; but God as God is infinite (Damascene's 'infinite sea of substance'), whereas our intellect's adequate object is finite, and the infinite cannot be contained under the finite.",
+    "claims": [
+      "The subject of a science must fundamentally contain all its truths.",
+      "God as God is infinite.",
+      "The adequate object of our intellect is finite.",
+      "The infinite cannot be contained under the finite."
+    ],
+    "concepts": [
+      "subject of theology",
+      "deity",
+      "divine infinity",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e275": {
+    "summary": "First argument for the affirmative: as prime matter is in potency to all sensible forms, so our intellect is in potency to all intelligible forms and hence to all truths; so no truth falls outside its object.",
+    "claims": [
+      "Our intellect is in potency to all intelligible forms."
+    ],
+    "concepts": [
+      "intellect as potency to all forms",
+      "prime matter analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e296": {
+    "summary": "Second argument for the affirmative: no power can, by any virtue, exceed its adequate object while its nature remains; since our intellect can reach knowledge of theological truth at least in virtue of another, that truth falls under its object.",
+    "claims": [
+      "A power cannot exceed its adequate object by any virtue while its nature remains.",
+      "Our intellect can attain theological truth at least by another's power."
+    ],
+    "concepts": [
+      "adequate object",
+      "elevation of a power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e275"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e141": {
+    "summary": "The principal arguments. Three arguments deny that theological truth falls under our intellect's adequate object: that object is material quiddity, from which theology abstracts; inclusion would place theological truth under metaphysics' subject, which the previous question denied; and God as God is infinite while the intellect's object is finite. Two arguments affirm it: the intellect is in potency to all intelligible forms as prime matter to all sensible ones, and no power can exceed its adequate object even by another's virtue.",
+    "claims": [],
+    "concepts": [
+      "adequate object",
+      "quiddity of material thing",
+      "divine infinity",
+      "subject of metaphysics",
+      "intellect as potency to all forms"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e146",
+        "gsX5tY-d1e80-d1e188",
+        "gsX5tY-d1e80-d1e227",
+        "gsX5tY-d1e80-d1e275",
+        "gsX5tY-d1e80-d1e296"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e321": {
+    "summary": "Opens the response by announcing four points to be examined on account of the arguments.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e330",
+        "gsX5tY-d1e80-d1e339",
+        "gsX5tY-d1e80-d1e348",
+        "gsX5tY-d1e80-d1e358"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e330": {
+    "summary": "First article announced: whether the adequate object of our intellect is the quiddity of a material thing or being itself.",
+    "claims": [],
+    "concepts": [
+      "adequate object of the intellect",
+      "being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e146"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e339": {
+    "summary": "Second article announced: whether the object of metaphysics is of equal scope with the object of our intellective power.",
+    "claims": [],
+    "concepts": [
+      "subject of metaphysics",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e188"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e348": {
+    "summary": "Third article announced: whether God under the absolute ratio of deity is something infinite and whether in this way he is the subject of theology.",
+    "claims": [],
+    "concepts": [
+      "deity",
+      "divine infinity",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e227"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e358": {
+    "summary": "Fourth article announced: whether the truth known about God through theology is contained under the adequate object of our intellect.",
+    "claims": [],
+    "concepts": [
+      "theological truth",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e316": {
+    "summary": "Divides the response into four articles keyed to the arguments: whether the intellect's adequate object is material quiddity or being; whether metaphysics' object is of equal scope with it; whether God under the absolute ratio of deity is infinite and so the subject of theology; and whether the truth known of God through theology falls under the adequate object.",
+    "claims": [],
+    "concepts": [
+      "adequate object",
+      "subject of metaphysics",
+      "deity",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e321",
+        "gsX5tY-d1e80-d1e330",
+        "gsX5tY-d1e80-d1e339",
+        "gsX5tY-d1e80-d1e348",
+        "gsX5tY-d1e80-d1e358"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e373": {
+    "summary": "Heading of the first article, whether the adequate object of our intellect is the quiddity of a material thing, with marginal references to the discussions of Aquinas, Scotus, Durand, Ockham, Gregory of Rimini, Giles of Rome, and others.",
+    "claims": [],
+    "concepts": [
+      "adequate object of the intellect",
+      "quiddity of material thing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e330"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e399": {
+    "summary": "States that to clarify the article one must first understand what an adequate object is.",
+    "claims": [],
+    "concepts": [
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e373"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e406": {
+    "summary": "Defines the adequate object: that which neither exceeds the cognition of the power nor is exceeded by it, such that nothing within its scope lies beyond the power at least possibly, and everything the power reaches lies within it; as with things adequated in any respect (two equal lines, agent and patient), there is no excess between them.",
+    "claims": [
+      "An adequate object neither exceeds nor is exceeded by its power.",
+      "Everything the power attains falls within the scope of its adequate object."
+    ],
+    "concepts": [
+      "adequate object",
+      "adequation",
+      "excess"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e399"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e445": {
+    "summary": "Rejects the view that the adequate object of our intellect is material quiddity: if it were, the intellect could not extend to anything immaterial, yet it reaches the separate intelligences, and extending beyond the adequate object is absurd.",
+    "claims": [
+      "Our intellect can know separate intelligences.",
+      "Material quiddity cannot be the adequate object of our intellect."
+    ],
+    "concepts": [
+      "quiddity of material thing",
+      "separate intelligences",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e406",
+        "gsX5tY-d1e80-d1e146"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e479": {
+    "summary": "Presents the view that the adequate object is being qua being, being most common: being is predicated univocally of created and uncreated being and the ten categories, included essentially in genera and species (predicated in quid) and virtually in its properties and in ultimate differences (of which it is not predicated in quid, ultimate differences having simple, unresolvable concepts). Hence only being, as of one ratio to all intelligibles, can be the first and adequate object. The author objects that this view fails in three ways, the first being that it makes a ratio of reason essential to the adequate object, which is not per se necessary.",
+    "claims": [
+      "On the reported view, being is univocal to created and uncreated being.",
+      "On the reported view, being is not predicated in quid of ultimate differences and properties.",
+      "The view wrongly requires the adequate object to have a unity of reason."
+    ],
+    "concepts": [
+      "univocity of being",
+      "ultimate differences",
+      "properties of being",
+      "virtual and essential inclusion",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e445",
+        "gsX5tY-d1e80-d1e406"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e599": {
+    "summary": "Second defect of the univocity view: by denying that being is predicated in quid of ultimate differences, it implies that they are nothing, since whatever does not receive the predication of being is nothing.",
+    "claims": [
+      "Whatever does not receive the predication of being is nothing."
+    ],
+    "concepts": [
+      "ultimate differences",
+      "predication in quid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e479"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e612": {
+    "summary": "Further consequence: the view makes being a genus, contrary to Aristotle, since anything that has species of which it is predicated and differences of which it is not is a genus. Third defect: it places no limitation on being as object of our intellect, from which two unacceptable consequences follow.",
+    "claims": [
+      "Being is not a genus.",
+      "The adequate object of our intellect must be limited."
+    ],
+    "concepts": [
+      "being not a genus",
+      "limitation of the adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e479",
+        "gsX5tY-d1e80-d1e599"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e636": {
+    "summary": "First unacceptable consequence: theological truth would fall under our intellect's object, so that the philosophers' sciences, which adequately treated all being as our intellect's object, would have treated theological truths, which is false.",
+    "claims": [
+      "The philosophers' sciences did not treat theological truths."
+    ],
+    "concepts": [
+      "theological truth",
+      "philosophical sciences",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e612"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e654": {
+    "summary": "Presents a reply to the first consequence: theological truth falls under the object of our intellect taken absolutely according to its nature, but not according to the intellect's condition in the present life, in which we do not know immaterial substance by a proper quidditative concept but only quidditatively in a contracted and limited way.",
+    "claims": [],
+    "concepts": [
+      "state of the present life",
+      "natural and pro statu object",
+      "proper quidditative concept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e636"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e676": {
+    "summary": "Rejects this reply as self-contradictory: saying we cannot conceive separate substances quidditatively and properly excludes them from the adequate object, since a power extends to all within its adequate object; saying we can conceive them in the common quidditative concept of being places them under it.",
+    "claims": [
+      "A power extends to everything contained under its adequate object."
+    ],
+    "concepts": [
+      "adequate object",
+      "separate substances",
+      "common concept of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e654"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e712": {
+    "summary": "Applies the same to theological truth: if conceived in the common concept of being and being is the adequate object, theological truths fall under the adequate object; yet the opponents, saying the intellect cannot reach them in particular, are forced to say they do not.",
+    "claims": [],
+    "concepts": [
+      "theological truth",
+      "common concept of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e676"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e734": {
+    "summary": "Second unacceptable consequence: the adequate object would include uncreated infinite being, making our intellect equal in capacity to the divine intellect, which is impossible in any state. So one must either deny that being in common is the adequate object or restrict it by some ratio that prescinds from whatever does not fall under intellectual cognition; another position is therefore needed.",
+    "claims": [
+      "Our intellect is not equal in capacity to the divine intellect in any state.",
+      "Being in common must be restricted to serve as adequate object."
+    ],
+    "concepts": [
+      "infinite being",
+      "capacity of the intellect",
+      "restriction of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e612",
+        "gsX5tY-d1e80-d1e636"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e765": {
+    "summary": "Announces the order of the positive account: first, from what the ratio of adequation is taken; second, that the ratio of the adequate object of any habit or power is one in a qualified sense but many simply; third, what the adequate object of the intellect is.",
+    "claims": [],
+    "concepts": [
+      "adequation",
+      "unity of the object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e734"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e785": {
+    "summary": "First point: the ratio of adequation is taken from the limitation and termination of the power. Since a power has limited virtue distinguishing it from other powers, there must be an ultimate in the object, the utmost it can do, which excludes everything beyond and includes everything within, and so is in a way a whole. Illustrated by a motive power capable of a hundred pounds, which determines its virtue by that ultimate.",
+    "claims": [
+      "Adequation is taken from the limit of the power.",
+      "The adequate object is the ultimate the power can reach, including all below and excluding all beyond."
+    ],
+    "concepts": [
+      "adequation",
+      "limit of a power",
+      "virtue as ultimum potentiae"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e765"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e848": {
+    "summary": "Second point begins: proves that the ratio of the adequate object of any cognitive power is simply many, by two arguments.",
+    "claims": [
+      "The ratio of the adequate object of any cognitive power is simply many."
+    ],
+    "concepts": [
+      "plurality of the adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e765"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e859": {
+    "summary": "First argument: what adequates a power through many rationes as many has simply many rationes; the adequate object of any sense power is such. Otherwise, if it adequated through many rationes as one, or through one ratio, the sense could not know distinct rationes within its object, since no power extends beyond its adequate object.",
+    "claims": [
+      "The adequate object of a sense power adequates it through many rationes as many."
+    ],
+    "concepts": [
+      "plurality of rationes",
+      "sense powers",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e848"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e921": {
+    "summary": "Second argument: a universal taken universally is simply many, containing its species actually and distinctly (unlike a genus taken as genus, which contains them potentially through extrinsic differences); the adequate object of a sense power is such a universal, as Aristotle says sense is of universals. It must be taken universally, else sense would attain an abstract universal, or would not discern differences like white and black within its object, color.",
+    "claims": [
+      "A universal taken universally contains its species actually and distinctly.",
+      "The adequate object of sense is a universal taken universally.",
+      "A power reaches the parts of its adequate object only as they are contained in it."
+    ],
+    "concepts": [
+      "universal taken universally",
+      "genus",
+      "object of sense",
+      "color"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e859"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1015": {
+    "summary": "Shows that such a universal is one only in a qualified sense: many things that are one in potency are one secundum quid. The constituents of a sense power's adequate object are either of one genus, from which a universal can be abstracted, or of diverse genera united only extrinsically by their connection in adequating one power. The same holds for the subject of any special science, which is a universal taken universally.",
+    "claims": [
+      "The adequate object is one only secundum quid.",
+      "Unity in potency is unity secundum quid.",
+      "The subject of a special science is a universal taken universally."
+    ],
+    "concepts": [
+      "unity secundum quid",
+      "unity of connection",
+      "subject of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e921"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1072": {
+    "summary": "Third point begins: the adequate object of our intellect contains many rationes actually distinct. If even sense requires many mutually co-requiring rationes, much more does the broader intellect; and these cannot be of one genus, since the intellect reaches the special rationes of all genera, so the object must contain actually and distinctly the rationes of all beings of every genus.",
+    "claims": [
+      "The adequate object of the intellect contains many actually distinct rationes of all genera."
+    ],
+    "concepts": [
+      "adequate object of the intellect",
+      "plurality of rationes",
+      "scope of the intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1015"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1133": {
+    "summary": "Determines the restriction of the adequate object: being taken universally would prescind from no truth, and being restricted to a genus would exclude truths outside it, so the object is being taken universally with a restriction set by the intellect's ultimate capacity, which is knowing a being through all the causes and principles on which it depends in being and being known. Hence the adequate object is being taken universally as reducible or resolvable into all its causes and principles; four proofs follow.",
+    "claims": [
+      "The adequate object of our intellect is being taken universally as reducible into all its causes and principles.",
+      "The intellect's ultimate capacity is knowing a being through all its causes and principles."
+    ],
+    "concepts": [
+      "adequate object",
+      "being as reducible to causes",
+      "restriction of being",
+      "causes and principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1072",
+        "gsX5tY-d1e80-d1e785"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1207": {
+    "summary": "First proof: the adequate object is where the intellect's ultimate capacity stands; this is in knowing causes and principles, since the intellect rests only when it knows these, and would proceed further if anything remained.",
+    "claims": [
+      "The intellect rests in the knowledge of causes and principles."
+    ],
+    "concepts": [
+      "rest of the intellect",
+      "causes and principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1133"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1229": {
+    "summary": "Second proof: the adequate object contains all truths the intellect can reach and prescinds from those it cannot; being as reducible to causes contains truths of principles and principiates, especially of the highest causes, but prescinds from truths known only to the theologian or to God of himself. Although these belong to the first form and ultimate end, they do not belong to them as such, else they could be deduced from their causality like other natural truths about God.",
+    "claims": [
+      "Truths known only by theology or by God are not truths of principles or principiates as such.",
+      "Natural truths about God are deducible from the causality of the first form and ultimate end.",
+      "Being as reducible to causes prescinds from truths the intellect cannot naturally reach."
+    ],
+    "concepts": [
+      "truths of principles",
+      "highest causes",
+      "natural knowledge of God",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1133",
+        "gsX5tY-d1e69-d1e2453"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1315": {
+    "summary": "Third proof: the adequate object adequates the objects of all the sciences, since nothing is knowable that is not treated by some science; every science considers some being as reducible to determinate principles and causes, so all the sciences together treat the whole of being as reducible to all its causes and principles.",
+    "claims": [
+      "Nothing knowable by us falls outside the consideration of all sciences.",
+      "Every science considers being as reducible to determinate causes and principles."
+    ],
+    "concepts": [
+      "sum of the sciences",
+      "causes and principles",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1133"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1370": {
+    "summary": "Fourth proof: the adequate object is the ultimate the intellect can attain above all senses. Beyond abstracting universals, the intellect reduces the universal and its particulars to causes and principles, in which it rests and acquires its perfection, science. Aristotle's examples (perceiving a triangle's angles, seeing an eclipse from above the moon) show that sense, though certain, cannot know the necessary cause, which belongs to the intellect.",
+    "claims": [
+      "Powers are distinguished by the ultimate objects they can reach.",
+      "The intellect's distinctive ultimate is knowing through necessary causes.",
+      "Science is the intellect's perfection, not attainable by sense."
+    ],
+    "concepts": [
+      "intellect and sense",
+      "demonstration propter quid",
+      "science",
+      "necessary cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1133"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1459": {
+    "summary": "Concludes that the adequate object of the intellect is being taken universally as reducible into its causes and principles.",
+    "claims": [
+      "The adequate object of the intellect is being taken universally as reducible into its causes and principles."
+    ],
+    "concepts": [
+      "adequate object",
+      "being as reducible to causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1133",
+        "gsX5tY-d1e80-d1e1207",
+        "gsX5tY-d1e80-d1e1229",
+        "gsX5tY-d1e80-d1e1315",
+        "gsX5tY-d1e80-d1e1370"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1470": {
+    "summary": "Replies to the objection that one power must have one object: this does not mean a single formal ratio adequates the power, but that the many formal rationes mutually require one another and are connected in one adequate formal object, as stones together make one weight adequate to a motive power.",
+    "claims": [
+      "Many formal rationes can constitute one adequate object by mutual connection."
+    ],
+    "concepts": [
+      "unity of the object",
+      "formal ratio",
+      "mutual co-exigence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1459",
+        "gsX5tY-d1e80-d1e1015"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e368": {
+    "summary": "Article 1 determines the adequate object of our intellect. An adequate object neither exceeds nor is exceeded by its power. Material quiddity is rejected because the intellect reaches separate intelligences. Being qua being, defended through its univocity across created and uncreated being and its essential or virtual inclusion in all intelligibles, is rejected because it wrongly requires a unity of reason, makes ultimate differences nothing, makes being a genus, and places no limit on the object, so that theological truths would fall under the philosophers' sciences and our intellect would equal God's; the appeal to the present state is self-contradictory. The author then shows that adequation is taken from the ultimate a power can reach, that an adequate object is simply many and one only secundum quid (by connection, like a universal taken universally), and concludes that the adequate object of our intellect is being taken universally as reducible into all its causes and principles. Four proofs: the intellect rests only in knowing causes; this object includes all naturally reachable truths and excludes truths known only by theology or by God; it corresponds to the sum of all sciences; and knowing through necessary causes is what distinguishes intellect from sense.",
+    "claims": [
+      "The adequate object of a power neither exceeds nor is exceeded by it.",
+      "Material quiddity is not the adequate object of our intellect.",
+      "Unrestricted being qua being is not the adequate object of our intellect.",
+      "An adequate object is simply many and one only secundum quid.",
+      "The adequate object of our intellect is being taken universally as reducible into all its causes and principles.",
+      "Truths known only by theology fall outside this object."
+    ],
+    "concepts": [
+      "adequate object",
+      "univocity of being",
+      "ultimate differences",
+      "limit of a power",
+      "unity secundum quid",
+      "being as reducible to causes",
+      "intellect and sense"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e373",
+        "gsX5tY-d1e80-d1e399",
+        "gsX5tY-d1e80-d1e406",
+        "gsX5tY-d1e80-d1e445",
+        "gsX5tY-d1e80-d1e479",
+        "gsX5tY-d1e80-d1e599",
+        "gsX5tY-d1e80-d1e612",
+        "gsX5tY-d1e80-d1e636",
+        "gsX5tY-d1e80-d1e654",
+        "gsX5tY-d1e80-d1e676",
+        "gsX5tY-d1e80-d1e712",
+        "gsX5tY-d1e80-d1e734",
+        "gsX5tY-d1e80-d1e765",
+        "gsX5tY-d1e80-d1e785",
+        "gsX5tY-d1e80-d1e848",
+        "gsX5tY-d1e80-d1e859",
+        "gsX5tY-d1e80-d1e921",
+        "gsX5tY-d1e80-d1e1015",
+        "gsX5tY-d1e80-d1e1072",
+        "gsX5tY-d1e80-d1e1133",
+        "gsX5tY-d1e80-d1e1207",
+        "gsX5tY-d1e80-d1e1229",
+        "gsX5tY-d1e80-d1e1315",
+        "gsX5tY-d1e80-d1e1370",
+        "gsX5tY-d1e80-d1e1459",
+        "gsX5tY-d1e80-d1e1470"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1507": {
+    "summary": "Heading of the second article: whether the object of metaphysics is of equal scope with the adequate object of our intellective power, with marginal references to Giles of Rome, Jandun, Javelli, Suárez, and others.",
+    "claims": [],
+    "concepts": [
+      "subject of metaphysics",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e339"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1535": {
+    "summary": "Sets the plan: if substance were the subject of metaphysics, the answer would be easy (no), but since that view is false it must first be refuted; then the true subject of metaphysics will be shown and the question answered.",
+    "claims": [],
+    "concepts": [
+      "subject of metaphysics",
+      "substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1507"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1553": {
+    "summary": "Introduces the two foundations of the view that substance is the subject of metaphysics: that being is not the subject, and consequently that substance is; the first is proved in three ways.",
+    "claims": [],
+    "concepts": [
+      "subject of metaphysics",
+      "substance",
+      "being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1535"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1564": {
+    "summary": "First argument of the substance view: a science must have a subject of one genus, and being is not such (per Aristotle, Posterior Analytics I); confirmed because being as being is not intelligible by one act or ratio but by diverse ones according to its parts.",
+    "claims": [],
+    "concepts": [
+      "unity of genus",
+      "subject of a science",
+      "being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1553"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1587": {
+    "summary": "Second argument: what has no properties cannot be the subject of a science, and being as being has none, for otherwise being would not belong to their quidditative concept (else predicated of them in the first mode of per se predication), and a thing would be its own property, since what is a property of the superior is also of the inferior.",
+    "claims": [],
+    "concepts": [
+      "properties (passiones)",
+      "per se predication",
+      "subject of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1564"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1622": {
+    "summary": "Third argument: what has no principles cannot be the subject of a science; being as being has none, since the first being has no principles and a principle would require a principle ad infinitum. So the subject is a part of being to which all others are attributed, namely substance as substance, which is of one genus, has principles and properties, and through attribution allows metaphysics to consider all being.",
+    "claims": [],
+    "concepts": [
+      "principles",
+      "attribution",
+      "substance as subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1587"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1672": {
+    "summary": "Second foundation from Aristotle's texts: Metaphysics IV says metaphysics treats beings as attributed to one, the first on which others depend; it says there are as many parts of philosophy as substances, true only if substance is the subject; and Metaphysics VII, after showing substance's priority, says we must first and chiefly speak of this being.",
+    "claims": [],
+    "concepts": [
+      "attribution to one",
+      "focal meaning",
+      "substance",
+      "parts of philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1622"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1714": {
+    "summary": "Begins the refutation: the view is against reason, against Aristotle, and its own arguments tell against it. Against reason: if substance were the subject, metaphysics would not consider accidents at all, since what a science considers are principles, parts, or properties of its subject, and accidents are none of these for substance; so either it ignores the nine genera of accidents or considers them as parts of being, making being the subject.",
+    "claims": [
+      "What a science considers are the principles, parts, or properties of its subject.",
+      "Accidents are considered in metaphysics as parts of being."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "accidents",
+      "parts of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1622",
+        "gsX5tY-d1e80-d1e1672"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1760": {
+    "summary": "Second and third rational objections: metaphysics would not consider the properties of being, since no science considers properties transcending its subject's genus; and it would demonstrate some property of substance in common belonging to all substance, which is false. It is more fitting to make being the subject, since properties of being in common are proved of all contained under being.",
+    "claims": [
+      "No science considers properties that transcend the genus of its subject."
+    ],
+    "concepts": [
+      "transcendental properties",
+      "demonstration",
+      "subject of metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1714"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1791": {
+    "summary": "Against Aristotle and Averroes: Metaphysics IV opens by saying there is a science that speculates being as being, and Averroes says the first part of Book IV defines the subject of the art.",
+    "claims": [],
+    "concepts": [
+      "being as being",
+      "subject of metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1714"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1816": {
+    "summary": "Further from Aristotle: metaphysics is distinguished from other sciences by its subject, since each other science takes a part of being as subject, while metaphysics treats being in common as a common science; Averroes confirms that there is a science considering being as being and its special accidents.",
+    "claims": [
+      "Metaphysics is distinguished from other sciences by treating being in common."
+    ],
+    "concepts": [
+      "common science",
+      "being in common",
+      "distinction of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1791"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1842": {
+    "summary": "Further: Aristotle labors to show how being, though said in many ways, is the object of one science, which would be pointless if substance were the subject; Averroes says being's unity is analogical. Aristotle also says metaphysics seeks the causes of beings as beings and Averroes that it considers all species of being; if substance were the subject, substance and accidents would not be treated as species or parts of being, since no science considers its subject's attributes as parts of something common transcending it.",
+    "claims": [
+      "Being has an analogical unity sufficient for one science.",
+      "Metaphysics considers all species of being as beings."
+    ],
+    "concepts": [
+      "analogy of being",
+      "unity of a science",
+      "species of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1816"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1905": {
+    "summary": "Third defect: the opponents' own arguments tell against them. If a science's subject must be of one genus simply and universally, then substance cannot be the subject, since substance is not of one genus or ratio with respect to the first substance, God, and others, yet metaphysics treats both.",
+    "claims": [
+      "Substance is not of one genus with respect to God and creatures."
+    ],
+    "concepts": [
+      "unity of genus",
+      "substance",
+      "God as first substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1564"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1931": {
+    "summary": "The confirmation fails likewise: if being as being is not per se intelligible because it is not understood by one act, neither is substance comprehending created and uncreated, which metaphysics also treats.",
+    "claims": [],
+    "concepts": [
+      "per se intelligibility",
+      "created and uncreated substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1564",
+        "gsX5tY-d1e80-d1e1905"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e1955": {
+    "summary": "The second and third arguments also turn against them: the first substance has no properties and no principles, so substance as such could not be the subject either. Hence the common view that being as being is the subject is closer to the truth, but it must be restricted: taken absolutely, it would comprise all beings in their general and special rationes, making other sciences superfluous and making metaphysics' subject at least equal to the object of our intellect.",
+    "claims": [
+      "The common view that being as being is the subject of metaphysics is closer to the truth.",
+      "Being as subject of metaphysics must be restricted so that special sciences are not superfluous."
+    ],
+    "concepts": [
+      "being as being",
+      "restriction of the subject",
+      "special sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1587",
+        "gsX5tY-d1e80-d1e1622",
+        "gsX5tY-d1e80-d1e1905"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2018": {
+    "summary": "States the author's position: the subject of metaphysics is being taken universally as reducible into the highest causes, the first form and the ultimate end (the text here reads 'first matter and last form', evidently a slip for the first form and ultimate end of the following proofs).",
+    "claims": [
+      "The subject of metaphysics is being taken universally as reducible into the highest causes."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "highest causes",
+      "first form and ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1955",
+        "gsX5tY-d1e80-d1e2039"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2032": {
+    "summary": "Announces two proofs of this assignment of the subject.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2018"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2039": {
+    "summary": "First proof: as natural science stands to prime matter and the first mover, so metaphysics to the first form and the ultimate end (per the previous question). Natural science restricts its subject (mobile being) within prime matter and first mover, so it cannot treat abstract beings; hence a higher science, metaphysics, restricts its object by the first form and ultimate end, to which all beings can be reduced, and so is said to treat all being.",
+    "claims": [
+      "Natural science restricts its subject within prime matter and the first mover.",
+      "All beings can be reduced to the first form and ultimate end."
+    ],
+    "concepts": [
+      "subject of physics",
+      "subject of metaphysics",
+      "first form and ultimate end",
+      "restriction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2018",
+        "gsX5tY-d1e69-d1e1881"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2104": {
+    "summary": "Second proof: that by which the subject of metaphysics is distinguished from every other science's subject is its subject and ratio of distinction; being reducible principally and only to the first form and ultimate end distinguishes it, since in no other science is the subject so reduced.",
+    "claims": [
+      "Restricting a science's subject means contracting it to one consideration excluding others."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "restriction of the subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2039"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2143": {
+    "summary": "Rejects the suggestion that the restriction could be made otherwise: then the distinction of sciences would not arise from their causes and principles, contrary to Aristotle and Averroes, for whom sciences differ by diversity of principles; so the restriction must follow the causes that metaphysics alone considers, the first form and ultimate end.",
+    "claims": [
+      "Sciences are diversified by their principles."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2104"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2172": {
+    "summary": "Reply to the first argument of the substance view: 'genus' taken broadly (whatever is predicated essentially of things of different species) applies to being, and in that sense a science has a subject of one genus; taken strictly (what is contracted by differences to species), the minor is false. Just as no single ratio adequates a power, none in the subject need adequate a whole science; unity of genus is accidental to a science.",
+    "claims": [
+      "Unity of genus is accidental to the unity of a science.",
+      "Being can be called a genus in a broad sense."
+    ],
+    "concepts": [
+      "genus broad and strict",
+      "unity of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1564"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2214": {
+    "summary": "Continues the replies: Aristotle's dictum that a science is of one genus concerns genus broadly or demonstrative speculative sciences, and even there unity of genus does not cause unity of science. To the confirmation, an adequate subject is intelligible by many acts through its parts, since knowing (scire) regards many things while understanding regards one. To the second argument, the premise holds in special demonstrative sciences, or being has quasi-properties. To the third, being reducible to its first causes does have principles.",
+    "claims": [
+      "An adequate subject is understood through many acts.",
+      "Being has features functioning as properties.",
+      "Being as reducible to its first causes has principles."
+    ],
+    "concepts": [
+      "scire and intelligere",
+      "quasi-properties",
+      "principles of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1587",
+        "gsX5tY-d1e80-d1e1622",
+        "gsX5tY-d1e80-d1e2172"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2300": {
+    "summary": "Reply to Aristotle's authorities: they show only that among the parts of being substance is treated more principally than accidents, being prior in definition, time, and knowledge, and among substances separate substance more than sensible. Aristotle divides metaphysics by the division of substance not because substance is the subject but because parts of substance can be defined and known without each other and thus have separate treatises, whereas accident cannot be known without substance.",
+    "claims": [
+      "Substance is treated more principally than accidents in metaphysics.",
+      "Accidents cannot be defined or known without substance."
+    ],
+    "concepts": [
+      "priority of substance",
+      "division of metaphysics",
+      "separate substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1672"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2352": {
+    "summary": "Answers the article negatively: the subject of metaphysics is not of equal scope with the object of our intellect but is contained under it as part under whole, since the latter is being as reducible to all its causes and principles, while the former is being as reducible only to the highest causes; the more universal adequates our intellective power and the consideration of all sciences.",
+    "claims": [
+      "The subject of metaphysics is contained under the adequate object of our intellect as part under whole."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "adequate object",
+      "part and whole"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e1459",
+        "gsX5tY-d1e80-d1e2018"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e1502": {
+    "summary": "Article 2 asks whether the subject of metaphysics has the same scope as the adequate object of our intellect. It first refutes the view that substance is the subject, which rests on arguments that a science needs a subject of one genus with properties and principles, and on Aristotle's focal treatment of substance. Against it: metaphysics would then not consider accidents or the properties of being; Aristotle and Averroes explicitly make being as being the subject, unified analogically; and the opponents' own premises would exclude substance too, since substance is not one genus across God and creatures and the first substance has neither properties nor principles. The common view that being is the subject is closer to the truth, but must be restricted to avoid making special sciences superfluous: the subject of metaphysics is being taken universally as reducible into the highest causes, the first form and ultimate end, paralleling physics' restriction to prime matter and first mover, since sciences are distinguished by their principles. The arguments for substance are answered by distinguishing broad and strict genus and noting that unity of genus is accidental to a science. Hence metaphysics' subject is contained under the intellect's adequate object as part under whole.",
+    "claims": [
+      "Substance is not the subject of metaphysics.",
+      "Being has an analogical unity sufficient for one science.",
+      "The subject of metaphysics is being as reducible into the first form and ultimate end.",
+      "Sciences are distinguished by their principles.",
+      "The subject of metaphysics is narrower than the adequate object of our intellect."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "substance",
+      "being qua being",
+      "analogy of being",
+      "first form and ultimate end",
+      "distinction of sciences",
+      "unity of genus"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e1507",
+        "gsX5tY-d1e80-d1e1535",
+        "gsX5tY-d1e80-d1e1553",
+        "gsX5tY-d1e80-d1e1564",
+        "gsX5tY-d1e80-d1e1587",
+        "gsX5tY-d1e80-d1e1622",
+        "gsX5tY-d1e80-d1e1672",
+        "gsX5tY-d1e80-d1e1714",
+        "gsX5tY-d1e80-d1e1760",
+        "gsX5tY-d1e80-d1e1791",
+        "gsX5tY-d1e80-d1e1816",
+        "gsX5tY-d1e80-d1e1842",
+        "gsX5tY-d1e80-d1e1905",
+        "gsX5tY-d1e80-d1e1931",
+        "gsX5tY-d1e80-d1e1955",
+        "gsX5tY-d1e80-d1e2018",
+        "gsX5tY-d1e80-d1e2032",
+        "gsX5tY-d1e80-d1e2039",
+        "gsX5tY-d1e80-d1e2104",
+        "gsX5tY-d1e80-d1e2143",
+        "gsX5tY-d1e80-d1e2172",
+        "gsX5tY-d1e80-d1e2214",
+        "gsX5tY-d1e80-d1e2300",
+        "gsX5tY-d1e80-d1e2352"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2409": {
+    "summary": "Heading of the third article (labelled 'Articulus 2' in the division but titled 'Articulus tertius'): whether God under the absolute ratio of deity is infinite and the subject in theology under that absolute ratio.",
+    "claims": [],
+    "concepts": [
+      "deity",
+      "divine infinity",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e348"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2420": {
+    "summary": "Reports the view that the ratio of deity taken absolutely does not include infinity in its concept, infinity being a ratio annexed to it.",
+    "claims": [],
+    "concepts": [
+      "deity",
+      "infinity as annexed attribute"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2409"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2433": {
+    "summary": "Presents the contrary view of Giles of Rome ('our Doctor'), that infinity is more expressed by the name 'deity' than by 'infinity'; the author endorses it and will first lay out its foundation, then confirm it.",
+    "claims": [
+      "Infinity is more expressed by the name 'deity' than by the name 'infinity'."
+    ],
+    "concepts": [
+      "deity",
+      "divine infinity",
+      "divine names"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2420"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2452": {
+    "summary": "Giles's foundation: 'deity' and 'infinity' both signify an infinite, unlimited nature, but differently. 'Infinite' is taken from creatures, in which finitude implies a defect; we take that ratio and attribute it to God without defect, signifying the divine nature by way of negation.",
+    "claims": [
+      "The name 'infinite' is taken from creatures and signifies God by way of negation."
+    ],
+    "concepts": [
+      "via negativa",
+      "divine names",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2433"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2483": {
+    "summary": "Continues: the name 'God' is not taken from creatures nor signifies by negation, but signifies the same infinite nature positively and affirmatively. Hence what signifies divine infinity positively and not from creatures includes it more in its concept than what signifies it negatively and by attribution from creatures.",
+    "claims": [
+      "The name 'God' signifies the infinite divine nature positively.",
+      "The ratio of deity includes infinity more than the ratio of infinity does."
+    ],
+    "concepts": [
+      "divine names",
+      "positive signification",
+      "deity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2452"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2525": {
+    "summary": "First confirmation: what in its concept implies no limitation either from the thing or from our mode of understanding includes infinity simply; the ratio of deity is such, since the thing suffers no limitation and the ratio of deity is absolute from every respect, including that toward our mode of understanding, which is how it is distinguished from other rationes in God.",
+    "claims": [
+      "The ratio of deity implies no limitation from the thing or from our mode of understanding.",
+      "The ratio of deity is absolute from every respect."
+    ],
+    "concepts": [
+      "deity",
+      "limitation",
+      "absolute ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2483"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2567": {
+    "summary": "Second confirmation from Damascene's 'infinite sea of substance': the ratio of deity essentially imports infinity. Third: otherwise some attribute would exceed the divine essence, which is false since the essence is the foundation of all attributes (Damascene: wise, just, good signify something about God, not what God is). So infinity is not merely an attributal ratio; the ratio of deity imports infinity more than any attribute, and taking God under it is taking God most absolutely, which raises the question whether God is so the subject of theology.",
+    "claims": [
+      "The ratio of deity essentially imports infinity.",
+      "The divine essence is the foundation of all attributes and is not exceeded by any.",
+      "Infinity in God is not merely an attributal ratio."
+    ],
+    "concepts": [
+      "divine essence and attributes",
+      "deity",
+      "infinity",
+      "foundation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2525"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2660": {
+    "summary": "Reports a view affirming that God under the absolute ratio of deity is the subject of theology, first because everything considered in theology is either God or attributed to God as principle or end.",
+    "claims": [],
+    "concepts": [
+      "subject of theology",
+      "attribution",
+      "deity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2567"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2673": {
+    "summary": "Second argument of this view: the subject of a science and of its principles is the same, since the whole science is contained in its principles; God under the absolute ratio of deity is the subject of the articles of faith, which are the principles of theology.",
+    "claims": [],
+    "concepts": [
+      "articles of faith",
+      "principles of theology",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2660"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2687": {
+    "summary": "Further confirmations: the subject must virtually and fundamentally contain all truths of the science, which no special ratio in God can do, but only deity, which encompasses all knowable truths about God; and since deity is prior to any special ratio, if it were not the subject, a prior divine wisdom could be given. A second view distinguishes theology in itself (the habit the theological object is apt to cause of itself) from theology in us; for theology in itself the subject is God under the absolute ratio of deity, as this singular being, because the most perfect knowledge of any object is through its proper quidditative ratio.",
+    "claims": [],
+    "concepts": [
+      "theology in itself and in us",
+      "deity",
+      "virtual containment",
+      "proper quidditative ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2660",
+        "gsX5tY-d1e80-d1e2673"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2791": {
+    "summary": "Continues the second view: for theology in us, the subject cannot be God under the ratio by which he is subject of theology in itself, since our theology has its evidence from elsewhere, not from the object; so its subject is God under the ratio closest to that one which still allows us to know theological truths of him, namely infinite being, the most perfect concept we can have of God.",
+    "claims": [],
+    "concepts": [
+      "infinite being",
+      "evidence",
+      "theology in us",
+      "concept of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2687"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2843": {
+    "summary": "Summarizes the second view: theology in itself and in us do not have the same object insofar as the object causes evidence, but do insofar as the object contains the truths considered, since both concern the same truths.",
+    "claims": [],
+    "concepts": [
+      "object as cause of evidence",
+      "object as containing truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2791"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2863": {
+    "summary": "Argues against both views from Giles's foundation: since deity absolutely is infinite and acts and habits take species and quantity from their object, a science with God as subject under the ratio of deity would be infinite and equal to God's knowledge. So Giles holds that deity must be restricted by a special ratio, fittingly named the ratio of 'glorifier', because theology is a means by which we tend to God as he glorifies and beatifies us. Since some reject this, the author will present the objections to Giles, show his argument stands, examine the two other views, and resolve the objections.",
+    "claims": [
+      "A science whose subject is God under the ratio of deity would be infinite.",
+      "Acts and habits take species and quantity from their object.",
+      "God is the subject of our theology under the special ratio of glorifier."
+    ],
+    "concepts": [
+      "God as glorifier",
+      "subject of theology",
+      "infinity of science",
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2567",
+        "gsX5tY-d1e80-d1e2687",
+        "gsX5tY-d1e80-d1e2791"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2933": {
+    "summary": "First objection to Giles: the special ratio restricting deity is either other than deity, introducing composition in God, or the same, and then infinite like deity.",
+    "claims": [],
+    "concepts": [
+      "divine simplicity",
+      "special ratio",
+      "identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2863"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2953": {
+    "summary": "Second objection: the ratio of glorifier is that by which God glorifies us, which is his very deity and essence; so it is infinite.",
+    "claims": [],
+    "concepts": [
+      "God as glorifier",
+      "divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2863"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2967": {
+    "summary": "Confirmation of the second objection: if the ratio of glorifier were finite, it would not satiate the blessed, since the will can always desire more than any finite thing; but the blessed are satiated, as the Psalm says.",
+    "claims": [],
+    "concepts": [
+      "satiation of the blessed",
+      "finite and infinite good",
+      "will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2953"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e2983": {
+    "summary": "Third objection: the ratio of glorifier is either the glorifying power (infinite), the act of glorifying (then the act would be the object of the habit and of itself), a relation of reason in the object (making theology a rational science), or a composite of object and relation (making theology's object a being per accidens, of which there is no science).",
+    "claims": [],
+    "concepts": [
+      "glorifying power",
+      "relation of reason",
+      "being per accidens",
+      "rational science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2863"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3029": {
+    "summary": "Reports an attempt to answer Giles: God under an infinite ratio can be subject in a science in two ways. Either both deity and its infinity are objects of the science, specifying it, as in God's theology, which comprehends his infinity; or deity is the object while infinity is only annexed to it objectively, as in our theology, specified by deity but not by infinity. This difference comes not from the object, which presents itself equally, but from our intellect, as the sun is equally present to all eyes but not equally seen.",
+    "claims": [],
+    "concepts": [
+      "object and annexed ratio",
+      "comprehension",
+      "subject of theology",
+      "sun analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2863"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3097": {
+    "summary": "Continuing that reply: a science of the infinite is infinite only if it attains not only the infinite thing but its ratio of infinity, as God's knowledge does; ours attains the infinite thing not under the ratio of infinity, owing to the knower, not the known.",
+    "claims": [],
+    "concepts": [
+      "infinite science",
+      "ratio of infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3029"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3119": {
+    "summary": "Others accept this solution, holding that a science is infinite when the intellect is infinite and tends to its object infinitely, so finitude and infinity belong to science by reason of the subject in which it is, not its object.",
+    "claims": [],
+    "concepts": [
+      "subject of inherence",
+      "finite and infinite science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3097"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3137": {
+    "summary": "A third solution: although sciences take their species from their object, they are not of the same species as it (else a science of stone would be stony); and though they take quantity from it, they need not have the same quantity.",
+    "claims": [],
+    "concepts": [
+      "specification by object",
+      "quantity of virtue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3119"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3158": {
+    "summary": "Despite these, Giles's foundation stands firm; the author confirms it with arguments.",
+    "claims": [
+      "Giles's foundation remains valid."
+    ],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3029",
+        "gsX5tY-d1e80-d1e3119",
+        "gsX5tY-d1e80-d1e3137"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3167": {
+    "summary": "First confirmation: if God under the absolute ratio of deity were subject of our theology, our science would have power equal to God's, since powers with the same ultimate have equal power and the ultimate of God's knowledge is the absolute ratio of deity; but the finite and the infinite cannot be equal.",
+    "claims": [
+      "Powers having the same ultimate object have equal power.",
+      "The ultimate of God's knowledge is the absolute ratio of deity."
+    ],
+    "concepts": [
+      "power of a science",
+      "ultimate object",
+      "finite and infinite"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3158",
+        "gsX5tY-d1e80-d1e785"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3213": {
+    "summary": "Second confirmation: our theology is subalternated to God's knowledge, and subordinated sciences, like subordinated powers (particular and common sense), cannot have the same object of equal universality, especially where one infinitely exceeds the other.",
+    "claims": [
+      "Our theology is subalternated to God's knowledge.",
+      "Subordinate sciences cannot have objects of equal scope."
+    ],
+    "concepts": [
+      "subalternation",
+      "subordinate powers",
+      "common sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3158"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3252": {
+    "summary": "Third: Giles's argument takes a necessary middle term, since habits and acts take species and quantity of virtue from the object; the magnitude of a virtue is argued from the magnitude of its object, so an infinite object implies infinite virtue, as Aristotle's proportions of motive power to mobile in Physics VII presuppose.",
+    "claims": [
+      "The quantity of a virtue is proportioned to the magnitude of its object.",
+      "An infinite object requires an infinite virtue."
+    ],
+    "concepts": [
+      "quantity of virtue",
+      "proportion",
+      "infinite object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3158"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3289": {
+    "summary": "Against the first solution: it is contradictory, saying both that the two theologies differ by object (infinity included in God's, not ours) and that they have the same object under the same ratio, differing only by subject. It also wrongly denies that infinity is included in the ratio of deity, and by granting that more of the object is presented to God's theology than to ours, it implies that the object is restricted by a special ratio for ours, which is Giles's thesis.",
+    "claims": [
+      "The first solution is self-contradictory.",
+      "If more of the object is presented to God's theology than to ours, the object is restricted for ours."
+    ],
+    "concepts": [
+      "object of theology",
+      "special ratio",
+      "infinity of deity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3029",
+        "gsX5tY-d1e80-d1e3097"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3363": {
+    "summary": "The second solution fails because it holds that finite and infinite belong to science by reason of the subject in which it is, not the object, contrary to what was shown.",
+    "claims": [],
+    "concepts": [
+      "subject of inherence",
+      "object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3119"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3377": {
+    "summary": "The third solution fails: adequation between object and act or habit is required not in species (a science of stone need not be stony) but in quantity of virtue. The object determines act and habit both to species and to quantity of virtue without their sharing its species or ratio; but in commensuration, the whole virtue of the act attains the whole quantity of its adequate object by a virtual commensuration requiring equality. So the opponents argue from a qualified to an unqualified negation.",
+    "claims": [
+      "Act and habit are commensurated with the object in quantity of virtue, not in species.",
+      "Virtual commensuration requires equality.",
+      "The infinity of an act can be argued from the infinity of its object."
+    ],
+    "concepts": [
+      "commensuration",
+      "quantity of virtue",
+      "specification",
+      "fallacy secundum quid et simpliciter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3137"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3473": {
+    "summary": "Turns to answering the objections against Giles.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2933",
+        "gsX5tY-d1e80-d1e2953",
+        "gsX5tY-d1e80-d1e2983"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3480": {
+    "summary": "Reply to the first objection: the special ratio is a virtual precision in the divine essence insofar as it is object to our science, like the division of the heaven's motion insofar as measured by the soul. It adds no reality and is caused by nothing intrinsic, but by the coexistence of our habit and act requiring it; yet it makes the essence differ from itself so that our act terminated at it under this precision is finite, and without it the essence is simply infinite.",
+    "claims": [
+      "The special ratio is a virtual precision in the divine essence adding nothing real.",
+      "The precision arises from the coexistence of our habit and act."
+    ],
+    "concepts": [
+      "virtual precision",
+      "divine essence",
+      "measurement of motion",
+      "co-exigence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2933",
+        "gsX5tY-d1e69-d1e3160"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3535": {
+    "summary": "Further reply to the first objection: the argument fails in matter, since relation, though not distinct from the essence, distinguishes the persons, which the essence does not; and in form, by the fallacy of the consequent, since things really identical need not agree in every attribute.",
+    "claims": [
+      "Relation is not really distinct from essence yet distinguishes the persons.",
+      "Real identity does not entail agreement in every attribute."
+    ],
+    "concepts": [
+      "Trinitarian relations",
+      "real identity",
+      "fallacy of the consequent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2933"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3561": {
+    "summary": "Reply to the second objection: granting the major, the ratio of glorifier is deity itself as restricted by this special ratio.",
+    "claims": [
+      "The ratio of glorifier is deity as restricted by the special ratio."
+    ],
+    "concepts": [
+      "God as glorifier"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2953"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3572": {
+    "summary": "Reply to the confirmation: a finite ratio would fail to satiate only if it did not fill the will's capacity, which is not the case here. Alternatively, the divine essence satiates not as infinite but as ultimate end not reducible to another, though one follows from the other.",
+    "claims": [
+      "The divine essence satiates the will as ultimate end."
+    ],
+    "concepts": [
+      "satiation",
+      "ultimate end",
+      "capacity of the will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2967"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3599": {
+    "summary": "Reply to the third objection: the ratio of glorifier is the glorifying power, infinite in itself but not as attained by our science and act.",
+    "claims": [
+      "The glorifying power is infinite in itself but not as attained by our science."
+    ],
+    "concepts": [
+      "glorifying power",
+      "finite attainment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2983"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3621": {
+    "summary": "Begins examining the foundations of the two other views. The first view's first argument fails: it does not prove that all things considered in theology are God or attributed to him, and it supports Giles more than the opposite, since the rationes of principle and end by which things are attributed to God are special rationes, else all knowable truths about God could be deduced from them.",
+    "claims": [
+      "The rationes of principle and end in God are special rationes."
+    ],
+    "concepts": [
+      "attribution",
+      "principle and end",
+      "special ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2660"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3660": {
+    "summary": "The second argument of the first view fails: if the articles are taken as principles of our theology, they fall under our cognition just as the object does, which is not conceived by us under the absolute ratio; if taken as principles of theology in itself, they are founded in God under the absolute ratio, but this is irrelevant since such principles do not fall under our cognition.",
+    "claims": [
+      "The articles as principles of our theology are not grasped under the absolute ratio of deity."
+    ],
+    "concepts": [
+      "articles of faith",
+      "principles of theology",
+      "theology in itself"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2673"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3706": {
+    "summary": "Reply to the confirmation that the subject virtually contains all truths of the science: true in the order of knowing, not of being; in natural science the ratio of mobility is posterior in being to substance and quantity, yet precedes and contains them in knowing as formal ratio of the object. So the special ratio may be posterior in being to many theological truths but contain them in knowing.",
+    "claims": [
+      "The subject contains all truths of its science in the order of knowing, not of being.",
+      "The formal ratio of an object can be posterior in being yet prior in knowing."
+    ],
+    "concepts": [
+      "order of knowing and being",
+      "formal ratio of the object",
+      "mobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2687"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3743": {
+    "summary": "The other confirmation fails: deity is prior to any special ratio, but the only science thereby implied to be prior is God's uncreated knowledge, not another created science.",
+    "claims": [
+      "Only God's uncreated knowledge is prior to our theology in this respect."
+    ],
+    "concepts": [
+      "uncreated knowledge",
+      "priority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2687"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3767": {
+    "summary": "The second view also fails, first in its distinction of theology in itself and in us: such a distinction applies only to forms that do not determine their own subject, while theology determines the intellect as its subject. Even granted, theology in itself attaining all truths about God exists only in the divine intellect, whose subject is God in any case; regarding ours, the view posits the same subject containing all truths, which is refuted as before.",
+    "claims": [
+      "Theology in itself exists only in the divine intellect.",
+      "The distinction of a form in itself and in a subject applies only to forms that do not determine their subject."
+    ],
+    "concepts": [
+      "theology in itself and in us",
+      "subject of inherence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2687",
+        "gsX5tY-d1e80-d1e2843"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3807": {
+    "summary": "Announces four arguments against the second view's claim that God under the ratio of infinite being is the object of our theology insofar as the object causes evidence.",
+    "claims": [],
+    "concepts": [
+      "infinite being",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e2791"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3823": {
+    "summary": "First: the view seems to distinguish theology in itself from ours only by evidence, so God would know no more truths through his theology than we through ours, only more clearly, contrary to what was shown.",
+    "claims": [
+      "God's theology knows more truths than ours, not merely more clearly."
+    ],
+    "concepts": [
+      "evidence",
+      "divine and human theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3807"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3841": {
+    "summary": "Second: it is entirely unfitting that God be the subject of a divinely inspired science under a ratio knowable by natural light, such as infinity.",
+    "claims": [
+      "A divinely inspired science should not have its subject under a naturally knowable ratio."
+    ],
+    "concepts": [
+      "revealed science",
+      "natural light",
+      "infinite being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3807"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3854": {
+    "summary": "Third: the name 'infinite' imports divine unlimitedness more negatively than positively, and no science can posit its subject under a negative ratio; if it is said to signify positively, the arguments against the first view apply.",
+    "claims": [
+      "No science can have its subject under a negative ratio."
+    ],
+    "concepts": [
+      "negative ratio",
+      "infinite being",
+      "subject of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3807",
+        "gsX5tY-d1e80-d1e2452"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3872": {
+    "summary": "Fourth: God is not determined to theological truths through the ratio of infinite being, since then whoever knew this ratio would know theological truths, which is false.",
+    "claims": [
+      "Knowing God as infinite being does not yield theological truths."
+    ],
+    "concepts": [
+      "infinite being",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3807"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e2401": {
+    "summary": "Article 3 (so titled in its heading, though the TEI head labels it Articulus 2) asks whether God under the absolute ratio of deity is infinite and so the subject of theology. Following Giles of Rome, the author holds that deity includes infinity more than the name 'infinite' does, since 'God' signifies the infinite nature positively while 'infinite' signifies it negatively from creatures; deity implies no limitation from the thing or our understanding, and otherwise an attribute would exceed the essence. He rejects two views making God under absolute deity the subject (outright, or for theology in itself, with infinite being as subject for theology in us), and defends Giles's position that, since acts and habits take species and quantity of virtue from their object, a science of God under deity would be infinite and equal God's own; so deity must be restricted by a special ratio, that of 'glorifier'. Objections (simplicity, identity with the glorifying essence, satiation of the blessed, the status of the ratio) are answered: the special ratio is a virtual precision in the essence, adding nothing real, arising from coexistence with our act, like the soul's division of celestial motion; the essence satiates as ultimate end. Rival replies (infinity merely annexed, finitude from the subject, no shared species with the object) are shown to be contradictory or to confuse commensuration in species with commensuration in quantity of virtue. The two rival views' foundations are also dismantled, including the use of 'infinite being', a negative and naturally knowable ratio, as the subject of a revealed science.",
+    "claims": [
+      "The ratio of deity includes infinity more than the name 'infinite'.",
+      "A science of God under the absolute ratio of deity would be infinite and equal to God's knowledge.",
+      "God is the subject of our theology under the special ratio of glorifier.",
+      "The special ratio is a virtual precision in the divine essence adding nothing real.",
+      "Act and habit are commensurated with their object in quantity of virtue.",
+      "Infinite being, a negative and naturally knowable ratio, cannot be the subject of revealed theology."
+    ],
+    "concepts": [
+      "deity",
+      "divine infinity",
+      "divine names",
+      "God as glorifier",
+      "virtual precision",
+      "quantity of virtue",
+      "theology in itself and in us",
+      "infinite being",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e2409",
+        "gsX5tY-d1e80-d1e2420",
+        "gsX5tY-d1e80-d1e2433",
+        "gsX5tY-d1e80-d1e2452",
+        "gsX5tY-d1e80-d1e2483",
+        "gsX5tY-d1e80-d1e2525",
+        "gsX5tY-d1e80-d1e2567",
+        "gsX5tY-d1e80-d1e2660",
+        "gsX5tY-d1e80-d1e2673",
+        "gsX5tY-d1e80-d1e2687",
+        "gsX5tY-d1e80-d1e2791",
+        "gsX5tY-d1e80-d1e2843",
+        "gsX5tY-d1e80-d1e2863",
+        "gsX5tY-d1e80-d1e2933",
+        "gsX5tY-d1e80-d1e2953",
+        "gsX5tY-d1e80-d1e2967",
+        "gsX5tY-d1e80-d1e2983",
+        "gsX5tY-d1e80-d1e3029",
+        "gsX5tY-d1e80-d1e3097",
+        "gsX5tY-d1e80-d1e3119",
+        "gsX5tY-d1e80-d1e3137",
+        "gsX5tY-d1e80-d1e3158",
+        "gsX5tY-d1e80-d1e3167",
+        "gsX5tY-d1e80-d1e3213",
+        "gsX5tY-d1e80-d1e3252",
+        "gsX5tY-d1e80-d1e3289",
+        "gsX5tY-d1e80-d1e3363",
+        "gsX5tY-d1e80-d1e3377",
+        "gsX5tY-d1e80-d1e3473",
+        "gsX5tY-d1e80-d1e3480",
+        "gsX5tY-d1e80-d1e3535",
+        "gsX5tY-d1e80-d1e3561",
+        "gsX5tY-d1e80-d1e3572",
+        "gsX5tY-d1e80-d1e3599",
+        "gsX5tY-d1e80-d1e3621",
+        "gsX5tY-d1e80-d1e3660",
+        "gsX5tY-d1e80-d1e3706",
+        "gsX5tY-d1e80-d1e3743",
+        "gsX5tY-d1e80-d1e3767",
+        "gsX5tY-d1e80-d1e3807",
+        "gsX5tY-d1e80-d1e3823",
+        "gsX5tY-d1e80-d1e3841",
+        "gsX5tY-d1e80-d1e3854",
+        "gsX5tY-d1e80-d1e3872"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3894": {
+    "summary": "Heading of the fourth article: whether the truth we know about God is contained under the object of our intellect, referring to the doctors cited at the start of the question.",
+    "claims": [],
+    "concepts": [
+      "theological truth",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e358"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3912": {
+    "summary": "Raises the first difficulty: since Article 1 made the adequate object being as reducible to all its causes and principles, if theological truth fell under it, God would have causes and principles into which he could be reduced, theological truth would be naturally knowable, and no divinely inspired science would be needed.",
+    "claims": [],
+    "concepts": [
+      "adequate object",
+      "divinely inspired science",
+      "causes of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3894",
+        "gsX5tY-d1e80-d1e1459"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3947": {
+    "summary": "Second difficulty: first principles fall under the adequate object of our intellect and contain all truths, so they would contain all theological truths, which could then be known by natural light.",
+    "claims": [],
+    "concepts": [
+      "first principles",
+      "virtual containment",
+      "natural light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3912"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e3964": {
+    "summary": "Reports the reply of those who make being as being the adequate object: according to the nature of the intellect, theological truth falls under the adequate object; but according to the present state, the object is being representable in a phantasm, a restriction due to original sin, connection to the imagination, or some other cause; hence in this state we need a divinely revealed science.",
+    "claims": [],
+    "concepts": [
+      "present state",
+      "phantasm",
+      "original sin",
+      "revealed science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3912"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4010": {
+    "summary": "Rejects this reply because of four unacceptable consequences.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3964"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4019": {
+    "summary": "First: our finite intellect would have the capacity of God's infinite intellect, since being as being contains finite and infinite being and all knowable truths, and nothing lies outside all being.",
+    "claims": [
+      "Our finite intellect does not have the capacity of the divine intellect."
+    ],
+    "concepts": [
+      "capacity of the intellect",
+      "finite and infinite being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4010",
+        "gsX5tY-d1e80-d1e734"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4056": {
+    "summary": "Second: something violent and contrary to nature would be found in an entire species, since the restriction to the imaginable would be violent to an intellect whose natural object is all being, yet it holds for all humans.",
+    "claims": [
+      "What is violent cannot hold of an entire species."
+    ],
+    "concepts": [
+      "violence and nature",
+      "human species",
+      "present state"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4010"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4082": {
+    "summary": "Third: there would be a natural passive potency without a corresponding natural active potency, since the intellect would be naturally receptive to all truths of being yet unable to receive them by purely natural active power; but natural passive potency is correlative to natural active potency, and a relative cannot exist without its correlative.",
+    "claims": [
+      "Natural passive potency is correlative to natural active potency."
+    ],
+    "concepts": [
+      "passive and active potency",
+      "correlatives",
+      "natural capacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4010"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4121": {
+    "summary": "Fourth: once freed from the phantasm, our intellect could grasp purely theological truths by purely natural powers, which is false and erroneous, since any apprehensive power can perceive its object by nature once the impediment is removed.",
+    "claims": [
+      "Purely theological truths cannot be grasped by natural powers even apart from phantasms."
+    ],
+    "concepts": [
+      "separated intellect",
+      "natural powers",
+      "impediment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4010"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4157": {
+    "summary": "Lays the groundwork for the author's answer: following Averroes, the possible intellect is to intelligible forms as prime matter to sensible forms. Matter receives forms naturally, through its natural potency actualized by natural agents connected with it, and supernaturally, through obediential potency actualized only by the supreme cause outside matter's whole range, God. Likewise the possible intellect receives intelligible forms naturally, through the agent intellect and intelligible species naturally connected with it, and supernaturally, through obediential potency, by a higher agent beyond that order who can immediately impress intelligible truth on it.",
+    "claims": [
+      "The possible intellect is to intelligible forms as prime matter is to sensible forms.",
+      "Matter and intellect each have natural and obediential potency.",
+      "Obediential potency is actualized only by God."
+    ],
+    "concepts": [
+      "obediential potency",
+      "natural potency",
+      "possible intellect",
+      "prime matter",
+      "supernatural reception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4010"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4261": {
+    "summary": "Answers that the adequate object can be taken in two ways. According to natural potency, by which the intellect is subject to the agent intellect, the adequate object is being taken universally as reducible to all its causes and principles, since all such being is sensible or joined to sensibles; in this sense the truth we know about God is not contained under it, since it has no causes and principles and lies outside this whole connection.",
+    "claims": [
+      "According to natural potency, theological truth is not contained under the adequate object of our intellect.",
+      "Theological truth has no causes or principles into which it can be reduced."
+    ],
+    "concepts": [
+      "natural potency",
+      "adequate object",
+      "agent intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4157",
+        "gsX5tY-d1e80-d1e1459"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4307": {
+    "summary": "Rejects the objection that divine truth is connected with sensibles and intelligibles as their cause: though it coincides in reality with the first causes (first form and ultimate end), it lies outside their causality as such, so we do not connect knowledge of divine truth with knowledge of those causes.",
+    "claims": [
+      "Divine truth lies outside the causality of the first causes as such."
+    ],
+    "concepts": [
+      "first causes",
+      "coincidence in reality",
+      "causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4261",
+        "gsX5tY-d1e69-d1e2510"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4336": {
+    "summary": "Illustrates: the first mover, first form, and ultimate end coincide in reality but differ in ratio (Averroes), yet knowledge of the first mover (natural science) is not connected with that of the first form (metaphysics), since their rationes are extraneous to each other. So theological truth is not contained under the adequate object according to natural potency.",
+    "claims": [
+      "The first mover, first form, and ultimate end are really identical but rationally distinct.",
+      "Knowledge of the first mover belongs to natural science, of the first form to metaphysics."
+    ],
+    "concepts": [
+      "first mover",
+      "first form",
+      "rational distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4307"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4369": {
+    "summary": "According to obediential potency, however, theological truth is contained under the adequate object: no truth can be impressed on the intellect unless it is somehow in potency to it, and the adequate object is the ultimate of the power, so the power cannot reach beyond it.",
+    "claims": [
+      "According to obediential potency, theological truth falls under the adequate object of our intellect."
+    ],
+    "concepts": [
+      "obediential potency",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4157",
+        "gsX5tY-d1e80-d1e4261"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4402": {
+    "summary": "Adds that, by neither natural nor obediential potency, can our intellect ever contain the infinite truth God knows of himself.",
+    "claims": [
+      "Our intellect has no faculty, natural or obediential, for the infinite truth God knows of himself."
+    ],
+    "concepts": [
+      "divine self-knowledge",
+      "limits of obediential potency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4369"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4421": {
+    "summary": "On the second doubt about first principles, reports a doctor who denies that first principles virtually contain all truths: their subjects and predicates are most common, so they cannot yield special predicates of inferiors; demonstration of special predicates requires special middle terms whose definitions give the reason why, which we lack for theological truths.",
+    "claims": [],
+    "concepts": [
+      "first principles",
+      "special middle terms",
+      "demonstration propter quid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3947"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4486": {
+    "summary": "Objects to this view on three counts, first that it holds special predicates require special middles virtually contained in the subjects of first principles.",
+    "claims": [],
+    "concepts": [
+      "special middle terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4421"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4499": {
+    "summary": "Develops the first objection: if the middles are virtually or potentially contained in the knowledge of first principles, since the inferior is potentially contained in its superior, then whoever knows the first principles naturally is in natural potency to know those middles, and could reach theological truths, which the view denies.",
+    "claims": [
+      "What is contained potentially in a superior can naturally be brought to act by one who knows the superior."
+    ],
+    "concepts": [
+      "potential containment",
+      "first principles",
+      "natural potency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4486"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4532": {
+    "summary": "Second: the view assumes that theological truths have special middles, but some intrinsic truths about God have no cause or middle giving the reason why.",
+    "claims": [
+      "Some intrinsic truths about God have no cause or demonstrative middle."
+    ],
+    "concepts": [
+      "demonstrative middle",
+      "intrinsic divine truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4486"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4552": {
+    "summary": "Third: even if they had special middles, revelation of the conclusions would let us find the middles, since one who knows the conclusion and the principles can find the middle connecting them.",
+    "claims": [],
+    "concepts": [
+      "revelation",
+      "demonstrative middle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4486"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4574": {
+    "summary": "Reports another reply: knowledge of all truth is potentially contained in first principles, but we cannot draw theological truth from them, both because the principles are rooted in abstraction from sensibles and so extend only to what can be known with their help, and because the agent intellect can apply them only to what is knowable by its natural light, namely what is knowable from sensibles.",
+    "claims": [],
+    "concepts": [
+      "first principles",
+      "abstraction",
+      "agent intellect",
+      "natural light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e3947"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4619": {
+    "summary": "Judges this reply doubtful in both parts.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4574"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4626": {
+    "summary": "Against the first part: although the principles are abstracted from sensibles, they do not have from them their power to generate science, just as an abstracted universal does not have that power from the particulars, else the particulars would cause science.",
+    "claims": [
+      "First principles do not get their power to generate science from sensibles."
+    ],
+    "concepts": [
+      "first principles",
+      "abstraction",
+      "generation of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4619"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4644": {
+    "summary": "Second: if the principles had their power from sensibles such that they could not exceed it in generating knowledge, they also could not exceed it in containing truth, which the opponents deny.",
+    "claims": [],
+    "concepts": [
+      "first principles",
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4626"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4657": {
+    "summary": "Third: the cause assigned is entirely per accidens, since the intellect abstracts the principles from sensibles only because sensibles are first known to it, but it grasps them as if not abstracted from sensibles, as shown by recognizing their truth in non-sensible things.",
+    "claims": [
+      "First principles are grasped as valid also for non-sensible things."
+    ],
+    "concepts": [
+      "first principles",
+      "per accidens cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4644"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4681": {
+    "summary": "Against the second cause: if the agent intellect's light were so limited, it could not abstract the principles, since the effect would exceed its cause, the principles not being limited to any genus of being (e.g. of anything it is true that it is or is not); nor could we know through it that they hold universally.",
+    "claims": [
+      "First principles are not limited to any genus of being.",
+      "An effect cannot exceed the power of its cause."
+    ],
+    "concepts": [
+      "agent intellect",
+      "principle of non-contradiction",
+      "universality of principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4619"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4718": {
+    "summary": "Further: this cause falsely assumes that the agent intellect illuminates everything we know; Averroes notes that Plato needed no agent intellect because he posited quiddities separate and actually understood, and our intellect knows many things already actually intelligible, so the agent intellect does not illuminate all that the possible intellect knows.",
+    "claims": [
+      "The agent intellect does not illuminate all that the possible intellect knows.",
+      "Some objects are already actually intelligible."
+    ],
+    "concepts": [
+      "agent intellect",
+      "actual intelligibility",
+      "Plato"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4681"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4754": {
+    "summary": "Gives the author's answer: however much first principles contain all truths, we cannot know through them every truth known only by theology; the cause is not lack of a special middle, nor the principles, nor the agent intellect, but the possible intellect, which cannot apply the principles to truths not falling under its adequate object, such as theological truths.",
+    "claims": [
+      "The possible intellect cannot apply first principles to truths outside its adequate object.",
+      "Theological truths fall outside the adequate object of the possible intellect (naturally taken)."
+    ],
+    "concepts": [
+      "possible intellect",
+      "first principles",
+      "adequate object",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4261",
+        "gsX5tY-d1e80-d1e4421",
+        "gsX5tY-d1e80-d1e4574"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4787": {
+    "summary": "Raises the objection: first principles fall under the adequate object of the intellect, so all truths contained in them do too.",
+    "claims": [],
+    "concepts": [
+      "first principles",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4754"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4796": {
+    "summary": "Replies by distinguishing: first principles taken in the full scope of their general containment do not fall under the adequate object taken by the first mode of adequation (according to obediential potency, sic); taken in a strict containment restricted to naturally knowable truths, they do. Just as theology considers God under a special ratio prescinding from the absolute ratio that contains truths beyond us, our intellect considers first principles according to a special containment prescinding from truths it does not grasp. This settles the question.",
+    "claims": [
+      "First principles in their general containment extend beyond the adequate object; in their strict containment they fall under it.",
+      "Our intellect grasps first principles according to a special containment."
+    ],
+    "concepts": [
+      "general and strict containment",
+      "first principles",
+      "special ratio",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4787",
+        "gsX5tY-d1e80-d1e4369",
+        "gsX5tY-d1e80-d1e2863"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e3886": {
+    "summary": "Article 4 asks whether the truth we know about God through theology falls under our intellect's adequate object. Two difficulties arise: inclusion would give God causes and make revelation unnecessary, and first principles, contained under the object and containing all truths, would yield theological truths naturally. The author rejects the reply that distinguishes the intellect's natural object (all being) from its object in the present state (the imaginable), because it would equate our intellect with God's, make a species-wide condition violent, leave a natural passive potency without an active correlate, and let the separated intellect grasp theology naturally. Instead, on the analogy of prime matter, he distinguishes the intellect's natural potency, actualized through the agent intellect, from its obediential potency, actualized by God directly. Under natural potency theological truth is not contained, since it has no causes and lies outside the causality of the first causes even though it coincides with them in reality; under obediential potency it is, since the intellect cannot receive what lies beyond its ultimate. Even so, God's infinite self-knowledge exceeds both. On first principles, he rejects explanations based on lacking special middles or on the sensible origin of principles and the limited agent intellect, and places the cause in the possible intellect, which cannot apply the principles to truths outside its adequate object; principles taken in their general containment exceed that object, while taken in a restricted containment they fall under it.",
+    "claims": [
+      "The appeal to the present state of life does not explain why theology is needed.",
+      "The possible intellect has natural and obediential potency, as prime matter does.",
+      "Theological truth falls outside the adequate object according to natural potency but within it according to obediential potency.",
+      "God's infinite self-knowledge exceeds both natural and obediential capacity of our intellect.",
+      "The inability to derive theological truths from first principles lies in the possible intellect."
+    ],
+    "concepts": [
+      "obediential potency",
+      "natural potency",
+      "present state",
+      "first principles",
+      "possible intellect",
+      "agent intellect",
+      "general and strict containment"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e3894",
+        "gsX5tY-d1e80-d1e3912",
+        "gsX5tY-d1e80-d1e3947",
+        "gsX5tY-d1e80-d1e3964",
+        "gsX5tY-d1e80-d1e4010",
+        "gsX5tY-d1e80-d1e4019",
+        "gsX5tY-d1e80-d1e4056",
+        "gsX5tY-d1e80-d1e4082",
+        "gsX5tY-d1e80-d1e4121",
+        "gsX5tY-d1e80-d1e4157",
+        "gsX5tY-d1e80-d1e4261",
+        "gsX5tY-d1e80-d1e4307",
+        "gsX5tY-d1e80-d1e4336",
+        "gsX5tY-d1e80-d1e4369",
+        "gsX5tY-d1e80-d1e4402",
+        "gsX5tY-d1e80-d1e4421",
+        "gsX5tY-d1e80-d1e4486",
+        "gsX5tY-d1e80-d1e4499",
+        "gsX5tY-d1e80-d1e4532",
+        "gsX5tY-d1e80-d1e4552",
+        "gsX5tY-d1e80-d1e4574",
+        "gsX5tY-d1e80-d1e4619",
+        "gsX5tY-d1e80-d1e4626",
+        "gsX5tY-d1e80-d1e4644",
+        "gsX5tY-d1e80-d1e4657",
+        "gsX5tY-d1e80-d1e4681",
+        "gsX5tY-d1e80-d1e4718",
+        "gsX5tY-d1e80-d1e4754",
+        "gsX5tY-d1e80-d1e4787",
+        "gsX5tY-d1e80-d1e4796"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4854": {
+    "summary": "Reply to the first principal argument: denies the major, since material quiddity is not the adequate object. The proportion of object and power need not be based on a similar mode of being, but on the relation of active and passive: the object must be in act as the intellect is in potency.",
+    "claims": [
+      "The proportion of object and power is that of active to passive, not of similar modes of being."
+    ],
+    "concepts": [
+      "proportion of object and power",
+      "act and potency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e146",
+        "gsX5tY-d1e80-d1e445"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4893": {
+    "summary": "Notes that the first argument contains some truth, since theological truths are in some way contained under the adequate object, but it used an improper middle to prove it.",
+    "claims": [
+      "Theological truths are in some way contained under the adequate object of the intellect."
+    ],
+    "concepts": [
+      "adequate object",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e4854",
+        "gsX5tY-d1e80-d1e4369"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4906": {
+    "summary": "Reply to the second principal argument: it concludes some truth improperly. Theological truth is in some way contained under the intellect's adequate object but not under metaphysics' subject, since being as object of the intellect is of greater scope than as subject of metaphysics.",
+    "claims": [
+      "Being as object of the intellect is of greater scope than as subject of metaphysics."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e188",
+        "gsX5tY-d1e80-d1e2352"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-d1e4928": {
+    "summary": "Reply to the third principal argument: it concludes some truth but not by force of argument; the author denies the falsity of the consequent, since God under the absolute ratio of deity cannot be the subject of our theology.",
+    "claims": [
+      "God under the absolute ratio of deity is not the subject of our theology."
+    ],
+    "concepts": [
+      "subject of theology",
+      "deity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e80-d1e227",
+        "gsX5tY-d1e80-d1e2863"
+      ]
+    }
+  },
+  "gsX5tY-d1e80-Dd1e4849": {
+    "summary": "Replies to the three principal arguments for the negative: material quiddity is not the adequate object, and the required proportion of object and power is that of act to potency, not likeness of being; theological truth is in some way contained under the intellect's adequate object, but not under the narrower subject of metaphysics; and God under the absolute ratio of deity is indeed not the subject of our theology.",
+    "claims": [
+      "The proportion of object and power is that of act to potency.",
+      "Theological truth is in some way contained under the adequate object of the intellect but not under the subject of metaphysics.",
+      "God under the absolute ratio of deity is not the subject of our theology."
+    ],
+    "concepts": [
+      "proportion of object and power",
+      "adequate object",
+      "subject of metaphysics",
+      "deity"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-d1e4854",
+        "gsX5tY-d1e80-d1e4893",
+        "gsX5tY-d1e80-d1e4906",
+        "gsX5tY-d1e80-d1e4928"
+      ]
+    }
+  },
+  "gsX5tY-d1e80": {
+    "summary": "The second question of the prologue asks whether theological truth falls under the adequate object of our intellect. Article 1 rejects both material quiddity and unrestricted, univocal being qua being as that object and defines it as being taken universally as reducible into all its causes and principles, an object one only by connection of many rationes, which excludes truths knowable only by theology. Article 2 rejects substance as the subject of metaphysics and defines that subject as being reducible to the highest causes, the first form and ultimate end, contained under the intellect's object as part under whole. Article 3, following Giles of Rome, holds that deity essentially includes infinity, so a science of God under absolute deity would be infinite; God is therefore the subject of our theology under the special, contracted ratio of glorifier, a virtual precision in the essence, and rival accounts are refuted. Article 4 rejects the 'present state' explanation and distinguishes the intellect's natural and obediential potency: theological truth falls outside the adequate object naturally but within it obedientially, though never God's infinite self-knowledge; first principles cannot yield theological truths because the possible intellect cannot apply them beyond its adequate object. The replies to the principal arguments follow from these distinctions.",
+    "claims": [
+      "The adequate object of our intellect is being taken universally as reducible into all its causes and principles.",
+      "The subject of metaphysics is being as reducible into the first form and ultimate end, narrower than the intellect's object.",
+      "God is the subject of our theology under the special ratio of glorifier, not under the absolute ratio of deity.",
+      "Theological truth falls under the adequate object of our intellect according to obediential, not natural, potency."
+    ],
+    "concepts": [
+      "adequate object",
+      "being as reducible to causes",
+      "subject of metaphysics",
+      "deity",
+      "divine infinity",
+      "God as glorifier",
+      "obediential potency",
+      "first principles"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e80-Dd1e115",
+        "gsX5tY-d1e80-Dd1e141",
+        "gsX5tY-d1e80-Dd1e316",
+        "gsX5tY-d1e80-Dd1e368",
+        "gsX5tY-d1e80-Dd1e1502",
+        "gsX5tY-d1e80-Dd1e2401",
+        "gsX5tY-d1e80-Dd1e3886",
+        "gsX5tY-d1e80-Dd1e4849"
+      ]
+    }
+  }
+}

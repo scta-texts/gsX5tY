@@ -1,0 +1,1955 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "7247fd15520fe46af79694fffa31226b54cf0bde",
+    "generation_method": "hierarchical"
+  },
+  "gsX5tY-d1e69-d1e120": {
+    "summary": "Opening of the lectura and statement of the first question. Citing Augustine's report that some philosophers reached the light of unchangeable truth by the keenness of the mind while mocking Christians who live by faith alone, the author infers that philosophers relying on natural light could attain knowledge of divine truth, and therefore asks whether the knowledge of divine truth acquired in theology can be had through the sciences discovered by the philosophers.",
+    "claims": [
+      "Some philosophers, relying on natural light, attained some knowledge of divine truth."
+    ],
+    "concepts": [
+      "divine truth",
+      "natural light",
+      "theology",
+      "philosophical sciences",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-Dd1e115"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-Dd1e115": {
+    "summary": "Opening of the lectura on Book I. Starting from Augustine's report that some philosophers reached unchangeable truth by natural light, the section poses the first question of the prologue: whether the knowledge of divine truth acquired in theology can be had through the sciences discovered by the philosophers.",
+    "claims": [
+      "Some philosophers, relying on natural light, attained some knowledge of divine truth."
+    ],
+    "concepts": [
+      "divine truth",
+      "natural light",
+      "theology",
+      "philosophical sciences"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e165": {
+    "summary": "First principal argument for the affirmative: if the philosophers' sciences did not reach the divine truth considered by the theologian, they would reach no truth at all, which is false since truth is the end of speculative science. The consequence rests on Anselm's thesis that truth is one, namely divine truth, since eternity and unchangeability belong to its notion; hence either all sciences attain the same truth or none does.",
+    "claims": [
+      "Truth is the end of speculative science.",
+      "According to Anselm, truth is one, namely the divine truth.",
+      "Either all sciences attain the same truth or none does."
+    ],
+    "concepts": [
+      "unity of truth",
+      "speculative science",
+      "end of science",
+      "divine truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e207": {
+    "summary": "Second principal argument for the affirmative: the truth considered by the theologian is contained under the truth considered by the metaphysician, because the subject of theology (God) is contained under being, the subject of metaphysics, and truths stand to one another as their subjects do; so knowledge of theological truth can be had through metaphysics.",
+    "claims": [
+      "Truth contained within the terms of a science can be sufficiently had through that science.",
+      "God, the subject of theology, is contained under being, the subject of metaphysics.",
+      "Hence theological truth is contained under metaphysical truth."
+    ],
+    "concepts": [
+      "subject of a science",
+      "being as subject of metaphysics",
+      "relation of theology and metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e120",
+        "gsX5tY-d1e69-d1e165"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e244": {
+    "summary": "Argument for the opposite: if the theologian and the metaphysician considered simply the same truth, the distinction of sciences would be destroyed, since sciences are distinguished by their objects and thus by the truths they consider about their subjects.",
+    "claims": [
+      "Sciences are distinguished by their objects and hence by the truths they consider.",
+      "If theology and metaphysics considered the same truth simply, they would not be distinct sciences."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "object of a science",
+      "theology",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e207"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e262": {
+    "summary": "Opens the author's response by announcing that three points raised by the preceding arguments will be examined.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e165",
+        "gsX5tY-d1e69-d1e207",
+        "gsX5tY-d1e69-d1e244",
+        "gsX5tY-d1e69-d1e272"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e272": {
+    "summary": "Divides the question into three articles, each tied to one of the principal arguments: (1) whether all speculative sciences aim at one and the same truth; (2) whether the truth considered by the theologian is contained under metaphysical truth; (3) whether diverse sciences can consider the same truth, in view of the argument to the contrary.",
+    "claims": [],
+    "concepts": [
+      "unity of truth",
+      "theology and metaphysics",
+      "distinction of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e165",
+        "gsX5tY-d1e69-d1e207",
+        "gsX5tY-d1e69-d1e244"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-Dd1e160": {
+    "summary": "The principal arguments and the division of the question. Two arguments support the affirmative: from Anselm's thesis that truth is one (so either all sciences attain divine truth or none does), and from the claim that God, theology's subject, falls under being, metaphysics' subject. The counter-argument holds that if theology and metaphysics considered the same truth, the distinction of sciences would collapse. The author then divides the response into three articles corresponding to these arguments: the unity of truth across speculative sciences, the containment of theological under metaphysical truth, and whether diverse sciences can consider the same truth.",
+    "claims": [
+      "Sciences are distinguished by their objects and the truths they consider."
+    ],
+    "concepts": [
+      "unity of truth",
+      "subject of a science",
+      "distinction of sciences",
+      "theology and metaphysics"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69-d1e165",
+        "gsX5tY-d1e69-d1e207",
+        "gsX5tY-d1e69-d1e244",
+        "gsX5tY-d1e69-d1e262",
+        "gsX5tY-d1e69-d1e272"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e305": {
+    "summary": "Heading of the first article: whether all speculative sciences aim at one truth.",
+    "claims": [],
+    "concepts": [
+      "unity of truth",
+      "speculative science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e272"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e314": {
+    "summary": "Lays down the threefold distinction of truth that structures the article: (1) truth abstracted from things by our intellect, which causes and measures our intellectual cognition; (2) the truth to which abstracted truth is conformed as to an invariable measure and from which it derives its immutability; (3) the truth that follows from our mode of understanding and is attributed to things understood. The author announces he will explain and prove each member, beginning with the first by two arguments.",
+    "claims": [
+      "There are three kinds of truth: abstracted truth, the measuring first truth, and truth consequent on our mode of understanding."
+    ],
+    "concepts": [
+      "threefold truth",
+      "abstraction",
+      "measure",
+      "immutability",
+      "mode of understanding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e305"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e343": {
+    "summary": "First argument for the first member: things of which science can be had only through the intellect's abstraction have no knowable truth except that abstracted from them; sensible things are such, since science of them is had only through the abstraction that produces universality. The argument is drawn from Averroes.",
+    "claims": [
+      "Things stand to truth as they stand to knowable being.",
+      "Science of sensible things is had only through intellectual abstraction, which produces universality.",
+      "Therefore the knowable truth of sensibles is truth abstracted from them."
+    ],
+    "concepts": [
+      "abstraction",
+      "universality",
+      "sensible things",
+      "scientific knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e314"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e374": {
+    "summary": "Raises an objection: the abstraction of truth from sensibles does not come from the nature of truth itself but only from the mode of our intellect, which understands nothing except by abstraction.",
+    "claims": [],
+    "concepts": [
+      "abstraction",
+      "mode of understanding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e343"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e388": {
+    "summary": "Replies that abstraction derives from the very nature of truth, which requires stability and permanence (citing Avicenna's definition of truth as the property of a thing's being whereby it remains constant). In sensibles only the abstracted universal form is stable, so even an intellect with infused science would have its scientific cognition terminate at abstracted universal forms rather than at mutable sensibles as they are in themselves.",
+    "claims": [
+      "Stability and permanence belong to the notion of truth.",
+      "In sensible things only the abstracted universal form is stable.",
+      "Even infused scientific knowledge would terminate at abstracted universals, not at sensibles as such.",
+      "The abstractness of the truth of sensibles follows from the nature of truth, not merely from our mode of knowing."
+    ],
+    "concepts": [
+      "truth as stability",
+      "universal form",
+      "abstraction",
+      "infused knowledge",
+      "mutability of sensibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e374"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e425": {
+    "summary": "Second argument for the first member: unless truth were abstracted from sensibles, our science would neither be caused nor measured by them, which is false since our cognition originates from sense and science is measured by its objects. Sensible singulars are only potentially intelligible (otherwise the agent intellect would be superfluous) and are mutable, so they cannot cause or measure a certain and invariable scientific habit; hence an abstracted truth must be posited.",
+    "claims": [
+      "Our cognition originates from sense.",
+      "Science is measured by the things it is about.",
+      "Singulars are intelligible only in potency and so cannot as such cause an intellectual act or habit.",
+      "Mutable singulars cannot measure an invariable scientific habit.",
+      "Therefore an abstracted truth must be posited."
+    ],
+    "concepts": [
+      "agent intellect",
+      "potential intelligibility",
+      "measure of science",
+      "scientific habit",
+      "singularity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e314",
+        "gsX5tY-d1e69-d1e343"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e477": {
+    "summary": "Confirms the first member with Aristotle's account of the genesis of the universal from sense, memory, and experience, concluding that not only the truth of incomplex terms but also that of complex propositions is abstracted from sensibles, caused and measured by the things themselves.",
+    "claims": [
+      "The universal, principle of truth and science, is abstracted from repeated experience originating in sense.",
+      "Both incomplex and complex truth are abstracted from sensibles."
+    ],
+    "concepts": [
+      "sense-memory-experience",
+      "induction of the universal",
+      "complex and incomplex truth",
+      "abstraction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e425"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e501": {
+    "summary": "Explains the second member: there must be a truth to which abstracted truth is conformed as to an invariable measure, namely the truth of the first cause from which all beings receive being and truth. Abstracted truth is conformed to it in purity and in immobility: once purified by the abstracting intellect from extraneous admixture, it imitates the purity of divine truth, and since admixture causes mutability, purity entails immutability; so abstracted truth imitates first truth as its measure.",
+    "claims": [
+      "The truth of the first cause is the invariable measure of abstracted truth.",
+      "All beings receive being and truth from the first cause.",
+      "Abstracted truth is conformed to divine truth in purity and immutability.",
+      "Admixture with the extraneous causes mutability; purification causes immutability."
+    ],
+    "concepts": [
+      "first truth",
+      "measure",
+      "purity",
+      "immutability",
+      "abstraction",
+      "exemplarity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e314"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e575": {
+    "summary": "Objection to the second member: first truth is not the immediate measure of abstracted truth. Either abstracted truth has its being before abstraction (making abstraction pointless) or after it (so it is conformed to first truth only mediately through our intellect, which gives it complete being). Moreover this seems to contradict the earlier claim that abstracted truth measures our cognition.",
+    "claims": [],
+    "concepts": [
+      "immediate measure",
+      "abstraction",
+      "complete being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e501",
+        "gsX5tY-d1e69-d1e425"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e604": {
+    "summary": "First reply: before abstraction the truth of sensibles exists in them potentially and incompletely, and receives actual and complete being through abstraction; otherwise abstraction would be falsifying, contrary to Aristotle's principle that abstraction involves no falsehood. It is thus not inconsistent that abstracted truth receive complete being from the intellect and yet measure it, since the intellect that actualizes it (agent) differs from the intellect whose act it measures (possible).",
+    "claims": [
+      "The truth of sensibles pre-exists potentially in them before abstraction.",
+      "Abstraction is not falsification.",
+      "The agent intellect actualizes abstracted truth while that truth measures the act of the possible intellect."
+    ],
+    "concepts": [
+      "potential and actual being",
+      "agent intellect",
+      "possible intellect",
+      "abstraction without falsehood"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e575"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e649": {
+    "summary": "Rejects the first reply as insufficient: if the agent intellect gives complete being to this truth, then its measure would seem to be the agent intellect rather than first truth.",
+    "claims": [],
+    "concepts": [
+      "agent intellect",
+      "measure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e604"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e660": {
+    "summary": "Gives the preferred reply: although the agent intellect gives complete being to abstracted truth, it is not its measure, because it acts only as an instrument of first truth. First truth relates to the truth of sensibles as art to artifact, and the artifact takes its measure from the art, not from the art's tool.",
+    "claims": [
+      "The agent intellect is an instrument (organum) of first truth.",
+      "First truth stands to the truth of sensibles as art to artifact.",
+      "An artifact is measured by the art, not by the instrument."
+    ],
+    "concepts": [
+      "agent intellect as instrument",
+      "divine art",
+      "measure",
+      "art-artifact analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e649",
+        "gsX5tY-d1e69-d1e604"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e689": {
+    "summary": "Supports the preferred reply from Averroes: just as material effects depend on a separate first mover, immaterial effects depend on something simply unmixed. By proportion, as a material agent acts only as measured by art (as its instrument), so the agent intellect concurs in abstracting truth only as measured by first truth, the art whose instrument it is; Averroes's remark that generating powers are ultimately moved by the divine intellectual art supplies the minor.",
+    "claims": [
+      "Immaterial effects depend on a simply unmixed principle.",
+      "The agent intellect concurs in abstraction only as measured by first truth, as an instrument of divine art."
+    ],
+    "concepts": [
+      "agent intellect",
+      "divine art",
+      "instrumental causality",
+      "separate first mover"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e660"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e750": {
+    "summary": "Further support from Aristotle's Metaphysics XII, where the first cause is said to be more noble than all beings in being and truth and the source of all their being and truth, in a context concerned with speculative truth. To save the claim that beings receive truth from the first cause, one must hold that it concurs as a measuring art, with the abstracting intellect as its instrument.",
+    "claims": [
+      "The first cause is the source of the being and truth of all beings.",
+      "The first cause concurs to abstracted truth as a measuring art; the abstracting intellect is its instrument."
+    ],
+    "concepts": [
+      "first cause",
+      "speculative truth",
+      "divine art",
+      "instrument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e689"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e785": {
+    "summary": "Adds Augustine's view (De Trinitate IX) that in judging truth not only the abstracting intellect concurs but also first truth, assisting from above and measuring, because it contains as an art the rules by which truths abstracted from sensibles are measured.",
+    "claims": [
+      "First truth concurs in judgment by containing the rules that measure abstracted truths."
+    ],
+    "concepts": [
+      "divine rules",
+      "judgment of truth",
+      "illumination",
+      "divine art"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e750"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e808": {
+    "summary": "First of three conclusions drawn from the discussion: for true judgment about corruptible things two rules concur, abstracted truth and the truth of the divine art measuring from above. Neither suffices alone: our intellect does not see divine truth clearly and so cannot apply it directly to sensibles, and abstracted truth is mutable with its objects and phantasms, gaining invariability only through conformity to first truth. Supported by Augustine (De Trinitate XII), the two are described as extrinsic and intrinsic measure, like a measuring rod applied to cloth only through the cloth's own quantity; they concur not as two but rather as one.",
+    "claims": [
+      "True judgment about corruptible things requires two concurrent rules: abstracted truth and divine art.",
+      "Our intellect cannot apply divine truth directly to sensibles because it does not see it clearly.",
+      "Abstracted truth is invariable only insofar as it is conformed to first truth.",
+      "Divine art is an extrinsic measure and abstracted truth an intrinsic measure of judgment."
+    ],
+    "concepts": [
+      "two rules of judgment",
+      "extrinsic and intrinsic measure",
+      "divine art",
+      "abstracted truth",
+      "illumination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e501",
+        "gsX5tY-d1e69-d1e785"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e923": {
+    "summary": "Second conclusion: abstracted truth terminates our cognition only by means of the rule of divine art by which it is measured. Abstracted truth is presented to the intellect as pure and immutable only because of its conformity with first truth; this purity cannot belong to it of itself (else it would be inseparable from it, yet in sensibles it is impure and mutable), nor from the agent intellect (whose abstraction varies with phantasms and also produces impure beings of reason), nor from the possible intellect (whose act changes); hence only from the divine rule.",
+    "claims": [
+      "Abstracted truth terminates truthful cognition only through the divine rule that measures it.",
+      "A likeness represents truly only as conformed to its exemplar.",
+      "The purity and immutability of abstracted truth come neither from itself, nor from the agent intellect, nor from the possible intellect, but from divine art."
+    ],
+    "concepts": [
+      "termination of cognition",
+      "exemplar",
+      "purity",
+      "immutability",
+      "agent and possible intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e808"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1004": {
+    "summary": "Second proof of the second conclusion: if abstracted truth alone sufficiently measured our cognition, the measured would be more immutable than the measure, since when all individuals of a species perish the truth of the species in them fails, yet true cognition of the species persists unchanged. Replies that the truth fails only per accident, or remains in its cognized being in the intellect, do not succeed (the latter would make cognition the measure of truth). So abstracted truth measures only by virtue of the higher divine rule to which it is conformed, as Augustine understood in De vera religione.",
+    "claims": [
+      "The measure cannot be less immutable than the measured.",
+      "True cognition of a species persists even when all its individuals perish.",
+      "Abstracted truth measures cognition only by virtue of the divine rule."
+    ],
+    "concepts": [
+      "measure and measured",
+      "immutability",
+      "perishing of individuals",
+      "divine rule"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e923"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1085": {
+    "summary": "Raises a question: how can the human mind see the law and rule of the divine art that is above it, and how through that rule does it know the truth abstracted from sensibles?",
+    "claims": [],
+    "concepts": [
+      "vision of divine rules",
+      "divine art"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e923",
+        "gsX5tY-d1e69-d1e1004"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1098": {
+    "summary": "Answers that the mind does not see the divine rules in themselves but in a likeness of them, namely abstracted truth itself, which, being constituted by the agent intellect in a pure and immutable being configured to its mode of being in the divine art, can sufficiently stand in for that art in measuring and certifying our cognition. What is measured is apprehended according as it corresponds to its measure.",
+    "claims": [
+      "The mind does not see the divine rules in themselves.",
+      "Abstracted truth is a likeness of the divine rule that can supply its role in measuring cognition."
+    ],
+    "concepts": [
+      "likeness",
+      "vicarious measure",
+      "divine art",
+      "abstracted truth",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1085"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1152": {
+    "summary": "Draws a corollary about the eternity of universals and truths of speculative science: they are eternal neither in themselves nor in their objective being in the intellect, since they are not always abstracted or presented, but because whenever abstracted they are configured to the eternal rules in divine art and so are presented to the intellect as if eternal; supported by Augustine (De Trinitate XII).",
+    "claims": [
+      "Universals are not eternal in themselves nor in their objective being.",
+      "Universals are called eternal because whenever abstracted they are configured to eternal rules in divine art."
+    ],
+    "concepts": [
+      "eternity of universals",
+      "objective being",
+      "divine art",
+      "eternal truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1098"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1204": {
+    "summary": "Second corollary: this shows how Plato's doctrine of Ideas serving our knowledge of universals is true, if the Ideas are understood, as Augustine says, to exist in the divine art. We understand the Ideas not in themselves but in the abstracted truths, which in their objective being are configured to them so as to represent them as they exist in the divine art.",
+    "claims": [
+      "Plato's doctrine of Ideas is true if the Ideas are in the divine art.",
+      "We understand divine Ideas not in themselves but in abstracted truths that represent them."
+    ],
+    "concepts": [
+      "Platonic Ideas",
+      "divine ideas",
+      "representation",
+      "objective being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1152"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1240": {
+    "summary": "Third conclusion: two opposing views of the cognition of truth are unreasonable. The first holds that abstraction from sensibles suffices for scientific truth (based on Augustine's affirmation of sense-knowledge); this fails because divine truth is needed as first rule, and such authorities must be read as presupposing the divine rules. The second holds that sincere truth requires a special illumination of divine light (based on Augustine's remark that no sincere truth is to be expected from the senses); this fails because conformity of abstracted truth to first truth is natural, so the general divine influence suffices. Augustine's text means only that abstraction alone without conformity to first truth does not yield truth. This completes the first two members of the distinction.",
+    "claims": [
+      "Abstraction alone does not suffice for scientific knowledge of truth.",
+      "No special illumination beyond God's general influence is required for knowledge of sincere truth.",
+      "The configuration of abstracted truth to first truth is natural.",
+      "Two rules concur in true judgment as one: the abstracted rule by and of which we judge, and the divine rule by which alone we judge."
+    ],
+    "concepts": [
+      "special illumination",
+      "general influence",
+      "abstractionism",
+      "divine illumination",
+      "natural cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e808",
+        "gsX5tY-d1e69-d1e923",
+        "gsX5tY-d1e69-d1e314"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1350": {
+    "summary": "Explains the third member: the truth that follows from our mode of understanding is the truth of beings of reason. Because we understand abstracted truth confusedly and potentially, an indifference to many results, and hence universality, in greater or lesser degree according to potentiality; an angel, knowing determinately and actually, would attribute no rational universality. Likewise in understanding complexes, we first grasp the parts by distinct concepts and then unite them in one concept, leaving a rational composition of predicate with subject and definition with defined.",
+    "claims": [
+      "Universals are beings of reason resulting from our mode of understanding.",
+      "Our confused, potential mode of understanding produces universality in things understood.",
+      "An angel, understanding determinately and actually, would not attribute rational universality.",
+      "Understanding complexes leaves a rational composition of predicate and subject."
+    ],
+    "concepts": [
+      "being of reason",
+      "universality",
+      "confused cognition",
+      "angelic cognition",
+      "composition and division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e314"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1415": {
+    "summary": "Supports the account of rational composition from Aristotle and Averroes on De anima III: just as Empedocles held that separate bodies were joined by love, so things are first divided in the intellect by distinct concepts and then joined by one concept; the composition is thus a being of reason following the intellect's act and attributed to things.",
+    "claims": [
+      "Rational composition results from the act of the intellect as real composition resulted from love for Empedocles."
+    ],
+    "concepts": [
+      "being of reason",
+      "composition",
+      "intellect of simples and complexes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1350"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1454": {
+    "summary": "Specifies in what the notion of this third truth consists: fundamentally in the conformity of our mode of understanding to things understood, i.e. the application of second intentions to first; formally in the signification of that conformity, beings of reason being signs signifying this conformity.",
+    "claims": [
+      "The third truth consists fundamentally in the conformity of our mode of understanding to things.",
+      "Formally it consists in the signification of that conformity.",
+      "Beings of reason are signs of the conformity of our mode of understanding."
+    ],
+    "concepts": [
+      "second intentions",
+      "first intentions",
+      "being of reason as sign",
+      "conformity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1350",
+        "gsX5tY-d1e69-d1e1415"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1478": {
+    "summary": "Answers the article negatively: not all sciences aim at one truth. The third kind of truth is treated only by logic, which considers how our mode of understanding conforms to things understood (hence it is a 'mode of knowing') and how that conformity is signified by beings of reason (hence 'rational science').",
+    "claims": [
+      "Not all sciences aim at the same truth.",
+      "Logic alone treats truth consequent on our mode of understanding.",
+      "Logic is called a mode of knowing and a rational science."
+    ],
+    "concepts": [
+      "logic",
+      "modus sciendi",
+      "rational science",
+      "diversity of truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e305",
+        "gsX5tY-d1e69-d1e1454"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1502": {
+    "summary": "Continues the answer: the second kind of truth, the truth of divine art, is considered only by metaphysics, which alone extends to what is abstract in being and divine truth is supremely abstract. The first kind, abstracted truth, is considered by diverse speculative sciences, because it consists in abstraction from sensibles and diverse degrees of abstraction yield diverse truths and diverse sciences.",
+    "claims": [
+      "Only metaphysics considers the truth of divine art.",
+      "Abstracted truth is considered by diverse speculative sciences according to diverse degrees of abstraction."
+    ],
+    "concepts": [
+      "metaphysics",
+      "degrees of abstraction",
+      "division of speculative sciences",
+      "divine art"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1478"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1532": {
+    "summary": "Replies to the Anselmian premise of the first principal argument: Anselm does not posit only one truth taken commonly, but holds that first truth alone is truth simply, since no other truth has firm being except as contained in it. He does not deny that other truths have firm being outside it according to a diminished likeness in objective being, by which they supply for first truth in measuring our cognition.",
+    "claims": [
+      "Only first truth is truth simply.",
+      "Other truths have firm being by a diminished likeness in objective being.",
+      "Anselm's thesis does not exclude a plurality of truths."
+    ],
+    "concepts": [
+      "unity of truth",
+      "first truth",
+      "diminished likeness",
+      "objective being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e165",
+        "gsX5tY-d1e69-d1e1098"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-Dd1e300": {
+    "summary": "Article 1 denies that all speculative sciences aim at one truth by distinguishing three kinds of truth. (1) Truth abstracted from sensibles, required because only the abstracted universal is stable and only it can cause and measure an invariable scientific habit. (2) The first truth of the divine art, to which abstracted truth is conformed in purity and immutability; the agent intellect is only the instrument of this art, as tools are to an artisan's art (supported by Averroes, Aristotle, and Augustine). From this the author draws three conclusions: true judgment requires both rules concurring as one (divine art as extrinsic measure, abstracted truth as intrinsic); abstracted truth terminates cognition only through the divine rule, of which it is a likeness standing in for it, which explains the 'eternity' of universals and the truth of Plato's Ideas understood as being in the divine art; and against both pure abstractionism and the need for special illumination, God's general influence suffices because the conformity is natural. (3) Truth consequent on our confused mode of understanding, the truth of beings of reason such as universality and propositional composition, consisting in the signified conformity of our mode of understanding to things. Logic treats the third, metaphysics alone the second, and the various speculative sciences the first according to degrees of abstraction. Anselm's unity of truth means only that first truth alone is truth simply.",
+    "claims": [
+      "There are three kinds of truth: abstracted, divine-exemplar, and rational.",
+      "Abstracted truth is immutable and measures cognition only by conformity to the first truth of the divine art.",
+      "The agent intellect is an instrument of divine art.",
+      "No special illumination is required beyond God's general influence for knowing truth.",
+      "Universals are beings of reason produced by our mode of understanding.",
+      "Logic treats rational truth, metaphysics alone divine truth, and the speculative sciences abstracted truth by degrees of abstraction.",
+      "Not all speculative sciences aim at the same truth."
+    ],
+    "concepts": [
+      "threefold truth",
+      "abstraction",
+      "divine art",
+      "illumination",
+      "agent intellect as instrument",
+      "beings of reason",
+      "eternity of universals",
+      "Platonic Ideas",
+      "degrees of abstraction"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69-d1e305",
+        "gsX5tY-d1e69-d1e314",
+        "gsX5tY-d1e69-d1e343",
+        "gsX5tY-d1e69-d1e374",
+        "gsX5tY-d1e69-d1e388",
+        "gsX5tY-d1e69-d1e425",
+        "gsX5tY-d1e69-d1e477",
+        "gsX5tY-d1e69-d1e501",
+        "gsX5tY-d1e69-d1e575",
+        "gsX5tY-d1e69-d1e604",
+        "gsX5tY-d1e69-d1e649",
+        "gsX5tY-d1e69-d1e660",
+        "gsX5tY-d1e69-d1e689",
+        "gsX5tY-d1e69-d1e750",
+        "gsX5tY-d1e69-d1e785",
+        "gsX5tY-d1e69-d1e808",
+        "gsX5tY-d1e69-d1e923",
+        "gsX5tY-d1e69-d1e1004",
+        "gsX5tY-d1e69-d1e1085",
+        "gsX5tY-d1e69-d1e1098",
+        "gsX5tY-d1e69-d1e1152",
+        "gsX5tY-d1e69-d1e1204",
+        "gsX5tY-d1e69-d1e1240",
+        "gsX5tY-d1e69-d1e1350",
+        "gsX5tY-d1e69-d1e1415",
+        "gsX5tY-d1e69-d1e1454",
+        "gsX5tY-d1e69-d1e1478",
+        "gsX5tY-d1e69-d1e1502",
+        "gsX5tY-d1e69-d1e1532"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1588": {
+    "summary": "Heading of the second article: whether the truth considered by the theologian is contained under the truth considered by the metaphysician.",
+    "claims": [],
+    "concepts": [
+      "theology and metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e272"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1599": {
+    "summary": "Sets out the plan of the article: first determine the grades of metaphysical consideration and how metaphysics thereby differs from the other real sciences, then answer the question; there are three such grades.",
+    "claims": [
+      "Metaphysics proceeds through three grades of consideration."
+    ],
+    "concepts": [
+      "grades of metaphysical consideration",
+      "real sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1588"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1617": {
+    "summary": "The first grade of metaphysics concerns substances abstract in being (separate substances). It is first because without it metaphysics would disappear altogether: Aristotle says that if there were no substance beyond sensible nature, physics would be first philosophy.",
+    "claims": [
+      "The first grade of metaphysics concerns separate substances.",
+      "Without separate substance, physics would be first philosophy."
+    ],
+    "concepts": [
+      "separate substances",
+      "first philosophy",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1599"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1635": {
+    "summary": "The second grade concerns sensible substances not as sensible but as substances, because sensible substance has some principles qua sensible (by which it differs from separate substances) and others qua substance (by which it agrees with them).",
+    "claims": [
+      "Metaphysics considers sensible substances insofar as they are substances.",
+      "Sensible substance has distinct principles qua sensible and qua substance."
+    ],
+    "concepts": [
+      "sensible substance",
+      "substance qua substance",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1617"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1656": {
+    "summary": "Identifies the principles: sensible substance qua sensible is ultimately resolved into prime matter and the first mover, whereas qua substance it is reduced to the first form and the ultimate end. Begins the proof of the first part: a scientific reduction must terminate in some genus of cause; it cannot be form or end, so by enumeration of causes it is matter and the efficient mover.",
+    "claims": [
+      "Sensible substance qua sensible is resolved into prime matter and the first mover.",
+      "Sensible substance qua substance is reduced to the first form and the ultimate end."
+    ],
+    "concepts": [
+      "four causes",
+      "prime matter",
+      "first mover",
+      "first form",
+      "ultimate end",
+      "resolution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1635"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1687": {
+    "summary": "Proves the minor premise: the first principle in the genus of formal cause, and likewise of final cause, abstracts from all change because these causalities are found in the separate intelligences that metaphysics studies (per Averroes); but the principle of sensible substance as sensible does not abstract from change, being at least the subject of change. Therefore the reduction of sensible substance as sensible is not to the first form or the ultimate end.",
+    "claims": [
+      "The causality of the first form and of the ultimate end abstracts from all change.",
+      "Formal and final causality are the only causal genera attributable to the intelligences.",
+      "The reduction of sensible substance as sensible is not to the first form or final end."
+    ],
+    "concepts": [
+      "formal cause",
+      "final cause",
+      "intelligences",
+      "abstraction from motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1656"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1770": {
+    "summary": "Shows that the reduction of sensible substance qua sensible is to the material cause, whose causality involves motion: Averroes says the action of matter is transmutation, and unless matter's causality involved change, change could not make its nature known.",
+    "claims": [
+      "The causality of matter involves transmutation.",
+      "We know matter's nature through change."
+    ],
+    "concepts": [
+      "material cause",
+      "transmutation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1687"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1794": {
+    "summary": "Shows likewise that efficient causality involves motion, since Aristotle defines the efficient cause as the source of motion; so sensible substance as sensible is reduced to the first mover and resolved into prime matter. Announces the proof that its principles qua substance are form and end.",
+    "claims": [
+      "Efficient causality is defined by motion.",
+      "Sensible substance as sensible is reduced to the first mover and prime matter."
+    ],
+    "concepts": [
+      "efficient cause",
+      "first mover",
+      "prime matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1770"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1818": {
+    "summary": "Proves that the principles of sensible substance qua substance are the first form and the ultimate end. It cannot be matter, which is substance only in potency and whose causality reduces to form; substance as such abstracts from matter. Nor can it be the first mover, since substance as such abstracts from all change and hence from the mover's causality, which involves motion. By sufficient division, it is the first form and ultimate end, whose causality abstracts from matter and motion.",
+    "claims": [
+      "Matter is substance in potency and cannot be the principle of substance qua substance.",
+      "Substance qua substance abstracts from matter and motion.",
+      "The principles of substance qua substance are the first form and the ultimate end."
+    ],
+    "concepts": [
+      "substance qua substance",
+      "first form",
+      "ultimate end",
+      "potency and act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1794",
+        "gsX5tY-d1e69-d1e1656"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1881": {
+    "summary": "Concludes that the second grade of metaphysics concerns sensible substances as substances, since so taken they share principles with separate substances, the metaphysician's principal concern. Averroes distinguishes the physical inquiry (leading to prime matter, natural forms, and the first mover) from the metaphysical (leading to the first form and ultimate end). Hence the metaphysician considers substance simply, since there is no substance besides sensible and separate.",
+    "claims": [
+      "Metaphysics considers substance simply, both sensible and separate.",
+      "Physics leads to knowledge of prime matter and the first mover; metaphysics to the first form and the ultimate end."
+    ],
+    "concepts": [
+      "substance",
+      "physics and metaphysics",
+      "first form",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1818",
+        "gsX5tY-d1e69-d1e1635"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e1932": {
+    "summary": "The third grade concerns all genera of accidents, not as they inhere in sensible substance (the natural philosopher's view) but in their analogy to substance, from which they receive being, cognition, and definition. They receive these from substance qua substance, not qua sensible, since sensible substance depends rather on accidents for its sensibility; hence accidents are ultimately reduced to the same principles as substance, the first form and ultimate end. This grade descends from the second.",
+    "claims": [
+      "Metaphysics considers accidents in their analogy to substance.",
+      "Accidents receive being, cognition, and definition from substance qua substance.",
+      "Accidents are ultimately reduced to the first form and ultimate end."
+    ],
+    "concepts": [
+      "accidents",
+      "analogy",
+      "priority of substance",
+      "first form",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1881"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2004": {
+    "summary": "Explains how metaphysics treats all beings: its three grades comprehend all genera of being. Hence 'being qua being' does not reduplicate some predicate common essentially to all beings, as some imagine: if it did, metaphysics should begin with being in common, yet Aristotle's first real treatment (Metaphysics VII, per Averroes) divides being and immediately treats substance as being's principal part.",
+    "claims": [
+      "Metaphysics treats all beings because its three grades comprehend all genera of being.",
+      "'Being qua being' does not reduplicate a predicate essentially common to all beings.",
+      "Aristotle's metaphysical treatment begins with substance, not being in common."
+    ],
+    "concepts": [
+      "being qua being",
+      "reduplication",
+      "subject of metaphysics",
+      "univocity of being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1932",
+        "gsX5tY-d1e69-d1e1599"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2063": {
+    "summary": "Further proof: if 'qua being' signified something common to all beings, then even if separate substances did not exist metaphysics would be a science distinct from physics, since a common feature of all beings exceeds natural science's bounds; this contradicts Aristotle.",
+    "claims": [
+      "Without separate substances, metaphysics would not be distinct from physics."
+    ],
+    "concepts": [
+      "being qua being",
+      "distinction of metaphysics and physics",
+      "separate substances"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2004",
+        "gsX5tY-d1e69-d1e1617"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2092": {
+    "summary": "First answer to what 'qua being' reduplicates: it reduplicates nothing on the side of the being considered but signifies the breadth of the science's consideration, which extends to all beings.",
+    "claims": [
+      "'Qua being' signifies the breadth of metaphysics' consideration rather than a feature of its object."
+    ],
+    "concepts": [
+      "reduplication",
+      "being qua being",
+      "scope of metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2004"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2121": {
+    "summary": "Second answer: 'qua being' reduplicates no intrinsic formal feature common to beings, but an extrinsic common ratio virtually included in the concept of every being, namely the knowledge of the first form and ultimate end, included virtually in every quidditative concept, especially of substance. This is Averroes's meaning when he says that consideration of the quiddity of substance leads to knowledge of the first form of all beings, which measures all beings according to their quiddities.",
+    "claims": [
+      "'Qua being' reduplicates the knowledge of the first form and ultimate end virtually included in every quidditative concept.",
+      "The first form measures all beings according to their quiddities."
+    ],
+    "concepts": [
+      "virtual inclusion",
+      "quidditative concept",
+      "first form",
+      "being qua being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2092",
+        "gsX5tY-d1e69-d1e1881"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2165": {
+    "summary": "First account of virtual inclusion: to include another virtually is to stand in for it, as a species virtually includes its object by supplying its place in causing intellection. In this sense the quidditative concept of any being, being its abstracted truth configured to its rule in divine art, supplies for that rule in ratifying our cognition, as shown in Article 1.",
+    "claims": [
+      "To include virtually can mean to supply the role of another.",
+      "The quidditative concept supplies the role of its divine rule in ratifying cognition."
+    ],
+    "concepts": [
+      "virtual inclusion",
+      "intelligible species",
+      "divine art",
+      "abstracted truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2121",
+        "gsX5tY-d1e69-d1e1098"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2201": {
+    "summary": "Notes that this first sense, though true, is not to the point, because in it the quidditative concept includes knowledge of the first form for the physicist too, since every abstracted truth has a rule in the first form to which it is configured.",
+    "claims": [
+      "Every abstracted truth, however abstracted, has a rule in the first form."
+    ],
+    "concepts": [
+      "virtual inclusion",
+      "first form",
+      "physics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2165"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2223": {
+    "summary": "Gives the relevant sense of virtual inclusion: one concept virtually includes knowledge of another when the intellect can ascend from it to the other. The physicist's concept of sensible substance is contracted to sensible matter and cannot lead to non-natural forms or the first form; the metaphysician's concept of substance as substance can be abstracted from all sensible and intelligible matter, and so through degrees of abstraction reach the first form, which contains all forms.",
+    "claims": [
+      "Virtual inclusion means that the intellect can pass from one cognition to another.",
+      "The physicist's concept of substance does not virtually include knowledge of the first form.",
+      "The metaphysician's concept of substance does virtually include it.",
+      "The first form contains all other forms."
+    ],
+    "concepts": [
+      "virtual inclusion",
+      "degrees of abstraction",
+      "first form",
+      "concept of substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2201"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2278": {
+    "summary": "Supports this with Aristotle's directive in Metaphysics VII to begin from the quiddity of sensible substance, proceeding from what is better known to us toward what is more knowable by nature, and Averroes's remark that what we know first contains little knowledge of being, from which we reach knowledge of perfect being.",
+    "claims": [
+      "Metaphysical inquiry proceeds from the quiddity of sensible substance toward perfect being."
+    ],
+    "concepts": [
+      "order of inquiry",
+      "better known to us",
+      "perfect being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2223"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2300": {
+    "summary": "Extends the account to accidents: conceived not as contracted to sensible matter (physics) or to imaginable matter (mathematics) but to substance as substance (metaphysics), their quidditative concepts also virtually include knowledge of the first form, though less perfectly and proximately than that of substance. Raises a doubt: some accidents cannot be abstracted from sensible or imaginable matter, so the position seems to assert falsehoods.",
+    "claims": [
+      "Metaphysical concepts of accidents virtually include knowledge of the first form, though less perfectly than the concept of substance."
+    ],
+    "concepts": [
+      "accidents",
+      "sensible and imaginable matter",
+      "virtual inclusion",
+      "physics, mathematics, metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2223",
+        "gsX5tY-d1e69-d1e1932"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2339": {
+    "summary": "Resolves the doubt: what cannot be abstracted at one grade can be at a higher one (metaphysical or logical); no accident is so bound to sensible matter that it cannot be separated at a higher grade of abstraction. Concludes that 'being qua being' reduplicates neither a ratio common to all beings nor their special rationes, but the ratio of the first being, the first form virtually included and principally intended in the quidditative concepts of all beings.",
+    "claims": [
+      "What cannot be abstracted at one grade can be abstracted at a higher grade.",
+      "No accident is inseparable from sensible matter at every grade of abstraction.",
+      "'Being qua being' reduplicates the ratio of the first being virtually included in all quidditative concepts."
+    ],
+    "concepts": [
+      "degrees of abstraction",
+      "being qua being",
+      "first being",
+      "virtual inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2300",
+        "gsX5tY-d1e69-d1e2121"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2389": {
+    "summary": "Explains how metaphysics differs from the other real sciences: although it considers all beings, it does not extend to their special rationes; some beings in their proper rationes cannot be reduced to the common principles (first form and ultimate end) and have their own principles and properties, allowing special demonstrations in distinct sciences. Aristotle's wise man knows all things in general through the highest causes, not each in particular, else the special sciences would be superfluous.",
+    "claims": [
+      "Metaphysics considers all beings but not according to their special rationes.",
+      "Beings with proper principles and properties are the subjects of special sciences.",
+      "The wise man knows all things through the highest causes, not individually."
+    ],
+    "concepts": [
+      "wisdom",
+      "special sciences",
+      "highest causes",
+      "distinction of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2339",
+        "gsX5tY-d1e69-d1e1599"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2453": {
+    "summary": "Answers the article negatively: theological truth is not contained under metaphysical truth. All metaphysical truth is either the truth of the highest causes (first form, ultimate end) or truth of other beings as necessarily connected with knowledge of those causes. Theological truth, divinely revealed about God, is neither: the truth of the highest causes consists in their causality over beings as beings and the order of the universe, and so depends on the analogy of being, whereas the theologian's knowledge of God beyond the other sciences in no way depends on the analogy of beings.",
+    "claims": [
+      "Theological truth is not contained under metaphysical truth.",
+      "Metaphysical knowledge of the highest causes depends on the analogy of being and the order of the universe.",
+      "Revealed theological truth about God does not depend on the analogy of beings."
+    ],
+    "concepts": [
+      "revealed truth",
+      "analogy of being",
+      "order of the universe",
+      "highest causes",
+      "theology and metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e1588",
+        "gsX5tY-d1e69-d1e2339",
+        "gsX5tY-d1e69-d1e2389"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2510": {
+    "summary": "Nor can knowledge of theological truth be connected with knowledge of the highest causes, since then those causes would have causality over divine truth as over other beings, which is absurd. So theological truth transcends the highest causes, beyond which the metaphysician does not extend.",
+    "claims": [
+      "Theological truth transcends the highest causes considered by metaphysics."
+    ],
+    "concepts": [
+      "transcendence of theology",
+      "highest causes",
+      "limits of metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2453"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2539": {
+    "summary": "Criticizes those who say that metaphysical and theological knowledge of God differ only by their light, since this would imply that theological truth is contained under metaphysical truth at least as regards the thing known; promises further treatment in the next article.",
+    "claims": [
+      "Theology and metaphysics do not differ only by their light."
+    ],
+    "concepts": [
+      "light of science",
+      "theology and metaphysics",
+      "thing known"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2510"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-Dd1e1583": {
+    "summary": "Article 2 denies that theological truth is contained under metaphysical truth. It first lays out three grades of metaphysical consideration: separate substances; sensible substances qua substances, whose principles are the first form and ultimate end (as opposed to prime matter and first mover, their principles qua sensible and the concern of physics); and all genera of accidents in their analogy to substance. Hence 'being qua being' does not reduplicate a predicate common to all beings, but either the breadth of metaphysics' consideration or the ratio of the first being, the first form, virtually included in the metaphysician's quidditative concepts, from which the intellect can ascend through degrees of abstraction. Metaphysics thus knows all things through the highest causes, leaving their special rationes to the special sciences. Since all metaphysical truth either concerns these highest causes or is connected with them through the analogy of being and the order of the universe, while revealed theological truth about God depends on neither, theological truth transcends metaphysics; theology and metaphysics do not differ merely by their light.",
+    "claims": [
+      "Metaphysics proceeds through three grades: separate substances, sensible substance qua substance, and accidents in relation to substance.",
+      "Sensible substance qua substance is reduced to the first form and ultimate end; qua sensible to prime matter and first mover.",
+      "'Being qua being' does not signify a predicate essentially common to all beings.",
+      "Metaphysical knowledge of the highest causes depends on the analogy of being and the order of the universe.",
+      "Theological truth is not contained under metaphysical truth."
+    ],
+    "concepts": [
+      "grades of metaphysical consideration",
+      "four causes",
+      "first form and ultimate end",
+      "being qua being",
+      "virtual inclusion",
+      "analogy of being",
+      "revealed truth",
+      "special sciences"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69-d1e1588",
+        "gsX5tY-d1e69-d1e1599",
+        "gsX5tY-d1e69-d1e1617",
+        "gsX5tY-d1e69-d1e1635",
+        "gsX5tY-d1e69-d1e1656",
+        "gsX5tY-d1e69-d1e1687",
+        "gsX5tY-d1e69-d1e1770",
+        "gsX5tY-d1e69-d1e1794",
+        "gsX5tY-d1e69-d1e1818",
+        "gsX5tY-d1e69-d1e1881",
+        "gsX5tY-d1e69-d1e1932",
+        "gsX5tY-d1e69-d1e2004",
+        "gsX5tY-d1e69-d1e2063",
+        "gsX5tY-d1e69-d1e2092",
+        "gsX5tY-d1e69-d1e2121",
+        "gsX5tY-d1e69-d1e2165",
+        "gsX5tY-d1e69-d1e2201",
+        "gsX5tY-d1e69-d1e2223",
+        "gsX5tY-d1e69-d1e2278",
+        "gsX5tY-d1e69-d1e2300",
+        "gsX5tY-d1e69-d1e2339",
+        "gsX5tY-d1e69-d1e2389",
+        "gsX5tY-d1e69-d1e2453",
+        "gsX5tY-d1e69-d1e2510",
+        "gsX5tY-d1e69-d1e2539"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2567": {
+    "summary": "Heading of the third article: whether the theologian, the metaphysician, and other sciences can consider the same truth while remaining distinct sciences.",
+    "claims": [],
+    "concepts": [
+      "distinction of sciences",
+      "same truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e272"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2578": {
+    "summary": "Presents the view that diverse modes of considering the same truth suffice to distinguish sciences; on it, the metaphysician and theologian would consider the same divine truth as naturally known and as revealed respectively, just as physics and mathematics prove the earth's roundness, one through the nature of heavy bodies, the other through equal distance from center to circumference.",
+    "claims": [],
+    "concepts": [
+      "modes of consideration",
+      "distinction of sciences",
+      "natural and revealed knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2567",
+        "gsX5tY-d1e69-d1e2539"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2620": {
+    "summary": "First objection to this view: it would make science take its species and distinction not from the truth of the thing known but from our mode of knowing, which is absurd and contrary to Aristotle.",
+    "claims": [
+      "A science takes its species from the truth of the thing known, not from our mode of knowing."
+    ],
+    "concepts": [
+      "specification of science",
+      "mode of knowing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2578"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2633": {
+    "summary": "Second objection: the view implies that one conclusion could not be known in diverse ways within the same science, which is false, since natural science can demonstrate the same conclusion through all genera of causes.",
+    "claims": [
+      "One science can demonstrate the same conclusion in diverse ways."
+    ],
+    "concepts": [
+      "demonstration",
+      "four causes",
+      "modes of consideration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2620"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2654": {
+    "summary": "States the author's position: diverse sciences either do not consider the same truth, or if they do, they do not take their species from it; its knowledge is connected with other truths that specify them. Modes of knowing distinguish sciences only because they are per se separated and only per accidens joined with respect to some truth. Physics (reducing to prime matter and first mover) and metaphysics (to first form and ultimate end) concur on the truth of sensible substance, but would not be distinct if that were their only truth; they are distinct because of truths like that of separate beings where their modes do not converge. The same holds for physics and mathematics on the earth's roundness.",
+    "claims": [
+      "Diverse sciences can consider the same truth only if they are not specified by it.",
+      "Diverse modes of considering distinguish sciences only if there is some truth in which they do not converge.",
+      "Physics and metaphysics concur on the truth of sensible substance but differ regarding separate beings."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "modes of consideration",
+      "specification",
+      "per se and per accidens"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2578",
+        "gsX5tY-d1e69-d1e1881"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2782": {
+    "summary": "Applies the principle to theology and metaphysics: they can consider the same truth in diverse modes (e.g., that God is one, known naturally by the metaphysician and by revelation by the theologian), but this would not distinguish them unless there were a truth where their modes do not concur, such as that God is three in persons and one in essence, known only by revelation and hence belonging to the theologian alone. Generally, sciences are distinguished not by modes of consideration but by truths in which those modes cannot converge.",
+    "claims": [
+      "Theology and metaphysics can both know that God is one, by different modes.",
+      "The Trinity is known only by revelation and belongs to theology alone.",
+      "Sciences are distinguished by truths on which their modes of consideration cannot converge."
+    ],
+    "concepts": [
+      "unity of God",
+      "Trinity",
+      "revelation",
+      "distinction of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2654"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2834": {
+    "summary": "First conclusion: the theologian and metaphysician consider God under different rationes. If under the same, the metaphysician could know all truths the theologian knows about God, which is false. The formal ratio of an object is a measure adequate to the habit, so any habit with the same formal ratio could attain all the same knowable truths of its object.",
+    "claims": [
+      "Theology and metaphysics consider God under different formal rationes.",
+      "The formal ratio of an object is the adequate measure of the habit."
+    ],
+    "concepts": [
+      "formal ratio of the object",
+      "habit",
+      "theology and metaphysics",
+      "adequation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2782"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2880": {
+    "summary": "Second conclusion: both theologian and metaphysician consider God not under an absolute ratio but under a special, contracted ratio. Proof for metaphysics: a science that does not attain all truths knowable about its subject considers it under a contracted ratio, since the absolute ratio of an object encloses all knowable truths about it.",
+    "claims": [
+      "God is considered by both theology and metaphysics under a special, contracted ratio.",
+      "The absolute ratio of an object contains all truths knowable about it."
+    ],
+    "concepts": [
+      "absolute and contracted ratio",
+      "subject of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2834"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2913": {
+    "summary": "Proves the same for theology: if the theologian considered God under the absolute ratio, the theologian could reach all truths about God, making our theology equal to God's knowledge of himself, which is absurd.",
+    "claims": [
+      "Our theology does not consider God under the absolute ratio.",
+      "Our theology is not equal to God's self-knowledge."
+    ],
+    "concepts": [
+      "our theology",
+      "divine self-knowledge",
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2880"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2939": {
+    "summary": "First doubt against these conclusions: the formal ratio of an object must belong to the object, not the power; but in God there is no special or contracted ratio, since God suffers no limitation. So the contracted ratio would be an extrinsic denomination from our power of understanding, not a formal ratio of the object.",
+    "claims": [],
+    "concepts": [
+      "formal ratio of the object",
+      "extrinsic denomination",
+      "divine limitlessness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2880",
+        "gsX5tY-d1e69-d1e2913"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e2979": {
+    "summary": "Adds that it does not help to say that this extrinsic determination posits a relation of reason in the object, since then a relation of reason would be the measure of our theology and the ratio of knowing everything we know about God, to which all theological truths would reduce, which is absurd.",
+    "claims": [
+      "A relation of reason cannot be the measure of theology."
+    ],
+    "concepts": [
+      "relation of reason",
+      "measure of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2939"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3001": {
+    "summary": "In response, posits a third conclusion: the special, contracted ratio belongs to the object, not to the power or its act. The ratio by which an object terminates and measures a habit belongs to the object, else the act would terminate and the power measure itself. Since the object measures the act and habit, God measures our theology either under the absolute ratio, which would make it equal to God's theology because a formal ratio is exactly proportioned to the habit, or under a contracted ratio, which must therefore be affirmed.",
+    "claims": [
+      "The contracted ratio belongs to the object.",
+      "The object measures the act and the habit.",
+      "A formal ratio is exactly proportioned to the habit it measures.",
+      "God terminates and measures our theology under a special, contracted ratio."
+    ],
+    "concepts": [
+      "formal ratio of the object",
+      "measure",
+      "termination",
+      "proportion of object and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2939",
+        "gsX5tY-d1e69-d1e2979"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3079": {
+    "summary": "Replies to the instance that God has no limitation: this is true intrinsically, since intrinsic limitation would be an imperfection, but God can have limitation extrinsically, insofar as relative to an extrinsic habit, our theology, God has the character of term and measure.",
+    "claims": [
+      "God has no intrinsic limitation.",
+      "God can be extrinsically limited as term and measure of our theological habit."
+    ],
+    "concepts": [
+      "intrinsic and extrinsic limitation",
+      "term and measure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e2939",
+        "gsX5tY-d1e69-d1e3001"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3105": {
+    "summary": "Illustrates with the motion of the first mobile, intrinsically undivided (else not continuous and corruptible) but extrinsically divided by the soul that measures it by parts. As this division is not said to belong to the soul (else the soul would divide itself and time would not be a property of motion), so the contraction attributed to God through our theology does not belong to the habit or act, else they would terminate and measure themselves.",
+    "claims": [
+      "The contraction of God as object is attributed to the object, not to the habit or act."
+    ],
+    "concepts": [
+      "first mobile",
+      "time and motion",
+      "extrinsic division",
+      "measurement"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3079"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3144": {
+    "summary": "Adds a parallel: as numbered number is not a number of reason left by the soul's measuring act (else time would be a being of reason), so the special ratio is not a relation of reason left by our intellect's act.",
+    "claims": [
+      "The special ratio of God as object is not a relation of reason."
+    ],
+    "concepts": [
+      "numbered number",
+      "time",
+      "relation of reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3105",
+        "gsX5tY-d1e69-d1e2979"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3160": {
+    "summary": "Clarifies: just as the division and numbering of motion's parts pre-exist potentially in motion and become actual when motion terminates the soul's act, so the special contracted ratio, a virtual precision by which the object is prescinded from its absolute ratio, pre-exists potentially in the object and becomes actual when it terminates and measures our intellect's act.",
+    "claims": [
+      "The contracted ratio is a virtual precision pre-existing potentially in the object.",
+      "It becomes actual when the object terminates our intellect's act."
+    ],
+    "concepts": [
+      "virtual precision",
+      "potential and actual",
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3105",
+        "gsX5tY-d1e69-d1e3144"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3194": {
+    "summary": "Raises an objection: it seems to follow that the act of understanding exercises some causality over the formal ratio of its object.",
+    "claims": [],
+    "concepts": [
+      "causality of the act",
+      "formal ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3160"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3203": {
+    "summary": "Replies that there is no causal dependence but only co-exigence: as an object, being relatively said, requires a coexisting act without depending on it, so the contraction of the object occurs through the co-existence of the act requiring it. The object is apt to be term and measure in diverse ways, measuring each according to its exigence; so God, under the absolute ratio disproportionate to our intellect, cannot terminate our scientific act or habit and co-requires to be taken under a special ratio proportionate to it.",
+    "claims": [
+      "The act does not cause the object's contracted ratio; the relation is one of co-exigence.",
+      "An object measures each act according to its exigence.",
+      "God under the absolute ratio is disproportionate to our intellect."
+    ],
+    "concepts": [
+      "co-exigence",
+      "proportion",
+      "absolute and contracted ratio",
+      "object and act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3194",
+        "gsX5tY-d1e69-d1e3160"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3268": {
+    "summary": "Notes that this seems to be the intention of the gloss on the psalm verse 'Great is our Lord, and great his power'.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3203"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3277": {
+    "summary": "Concludes that the special ratio belongs to the object, pre-existing in it virtually as an aptitude relative to the habit or act of our intellect, which, though not yet coexisting, is co-required for the contraction to become actual in the object.",
+    "claims": [
+      "The special ratio pre-exists virtually in the object and is actualized with the co-required act."
+    ],
+    "concepts": [
+      "virtual pre-existence",
+      "co-exigence",
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3160",
+        "gsX5tY-d1e69-d1e3203"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3301": {
+    "summary": "Second doubt: the special ratio may be in the object as terminating the act, since it then presupposes the act by which it is contracted; but it cannot be there as moving the act, since as mover it precedes the act and has nothing coexisting by which it might be contracted.",
+    "claims": [],
+    "concepts": [
+      "object as mover",
+      "object as terminus",
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3277"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3327": {
+    "summary": "First reply: the contraction is through the act, which need not actually exist, though necessarily required; it suffices that the act coexist, especially since the contraction pre-exists potentially in the object. Since the act coexists both when the object terminates and when it moves, the ratio is contracted in both ways.",
+    "claims": [
+      "The object's ratio is contracted both as terminating and as moving the act."
+    ],
+    "concepts": [
+      "coexistence of act and object",
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3301"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3352": {
+    "summary": "Second and better reply: though the object as mover does not presuppose the act, it presupposes the habit, which it terminates before (by nature) moving to the act; so there is a contracted ratio in God before moving the habit to act. As to the ratio under which God causes the habit, it is also contracted, but as an ideal ratio, not an objective one: divine art contains ideal rationes of everything produced outside God, and all divine production ad extra is free and by ideal ratio, whereas what flows from an object as object flows naturally.",
+    "claims": [
+      "God as object terminates the theological habit before moving it to act.",
+      "God causes the theological habit through an ideal ratio, not an objective ratio.",
+      "Divine art contains the ideal rationes of everything produced outside God.",
+      "All divine production ad extra is free."
+    ],
+    "concepts": [
+      "ideal ratio",
+      "objective ratio",
+      "divine freedom",
+      "theological habit",
+      "divine ideas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e3301",
+        "gsX5tY-d1e69-d1e3327"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3417": {
+    "summary": "Answers the article and the principal question: as to truths where theology's mode of consideration concurs with metaphysics', the same truth can be had by both, since sciences are not specified by those truths; but as to the truths by which theology is specified and distinguished from other sciences, they cannot be had through natural sciences, since there the other sciences' modes of consideration do not concur with theology's.",
+    "claims": [
+      "Some truths about God can be known both by theology and metaphysics.",
+      "The truths that specify theology cannot be had through natural sciences."
+    ],
+    "concepts": [
+      "specification of theology",
+      "natural sciences",
+      "convergent truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e120",
+        "gsX5tY-d1e69-d1e2782"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3452": {
+    "summary": "Reply to the first principal argument: as shown in Article 1, there are three truths (rational, natural, metaphysical) treated by diverse sciences; Anselm speaks of the one simple and absolute truth without denying other truths participated from and dependent on it.",
+    "claims": [
+      "There are rational, natural, and metaphysical truths treated by diverse sciences.",
+      "Other truths are participations dependent on first truth."
+    ],
+    "concepts": [
+      "threefold truth",
+      "participated truth",
+      "first truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e165",
+        "gsX5tY-d1e69-d1e1532"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3474": {
+    "summary": "Reply to the second principal argument: by Article 2, the consequence and its proof are false, since the truth that distinguishes theology from other sciences is not contained under being, the subject of metaphysics.",
+    "claims": [
+      "The distinctive truth of theology is not contained under being as subject of metaphysics."
+    ],
+    "concepts": [
+      "subject of metaphysics",
+      "theological truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e207",
+        "gsX5tY-d1e69-d1e2453"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-d1e3487": {
+    "summary": "Reply to the argument for the opposite: by Article 3, sciences concurring on some truth does not destroy their distinction, since many other truths, on which their modes do not converge, preserve it and the necessity of theology, which has proper truths no other science treats.",
+    "claims": [
+      "Concurrence on some truths does not destroy the distinction of sciences.",
+      "Theology is necessary because it has proper truths treated by no other science."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "necessity of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e69-d1e244",
+        "gsX5tY-d1e69-d1e2782"
+      ]
+    }
+  },
+  "gsX5tY-d1e69-Dd1e2562": {
+    "summary": "Article 3 asks whether diverse sciences can consider the same truth while remaining distinct. Rejecting the view that diverse modes of consideration suffice to distinguish sciences (which would specify science by our mode of knowing), the author holds that sciences may concur on a truth only if not specified by it; they are distinguished by truths where their modes cannot converge. Theology and metaphysics may both know that God is one, but theology alone knows the Trinity. He concludes that each considers God under a different, special, contracted ratio, since the absolute ratio would make our theology equal to God's own. Against doubts that God admits no limitation and that the contraction would be a mere relation of reason, he argues that the contracted ratio belongs to the object: God is extrinsically, not intrinsically, limited as term and measure, by analogy with the soul's measurement of continuous motion; the contraction is a virtual precision pre-existing potentially in the object and actualized by co-exigence, not causation, with the act. God as object terminates the habit before moving it, and causes the habit through a free ideal ratio rather than an objective one. The article then answers the principal question: truths where modes concur can be had by natural sciences, but the truths specifying theology cannot; and it replies to the three principal arguments.",
+    "claims": [
+      "Sciences are distinguished by truths on which their modes of consideration cannot converge.",
+      "The Trinity is known only by revelation and belongs to theology alone.",
+      "Theology and metaphysics consider God under different, contracted rationes.",
+      "The contracted ratio belongs to the object and is actualized by co-exigence with the act.",
+      "God causes the theological habit freely through an ideal ratio.",
+      "The truths specifying theology cannot be had through the natural sciences."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "modes of consideration",
+      "formal ratio of the object",
+      "contracted ratio",
+      "co-exigence",
+      "virtual precision",
+      "ideal ratio",
+      "Trinity",
+      "necessity of theology"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69-d1e2567",
+        "gsX5tY-d1e69-d1e2578",
+        "gsX5tY-d1e69-d1e2620",
+        "gsX5tY-d1e69-d1e2633",
+        "gsX5tY-d1e69-d1e2654",
+        "gsX5tY-d1e69-d1e2782",
+        "gsX5tY-d1e69-d1e2834",
+        "gsX5tY-d1e69-d1e2880",
+        "gsX5tY-d1e69-d1e2913",
+        "gsX5tY-d1e69-d1e2939",
+        "gsX5tY-d1e69-d1e2979",
+        "gsX5tY-d1e69-d1e3001",
+        "gsX5tY-d1e69-d1e3079",
+        "gsX5tY-d1e69-d1e3105",
+        "gsX5tY-d1e69-d1e3144",
+        "gsX5tY-d1e69-d1e3160",
+        "gsX5tY-d1e69-d1e3194",
+        "gsX5tY-d1e69-d1e3203",
+        "gsX5tY-d1e69-d1e3268",
+        "gsX5tY-d1e69-d1e3277",
+        "gsX5tY-d1e69-d1e3301",
+        "gsX5tY-d1e69-d1e3327",
+        "gsX5tY-d1e69-d1e3352",
+        "gsX5tY-d1e69-d1e3417",
+        "gsX5tY-d1e69-d1e3452",
+        "gsX5tY-d1e69-d1e3474",
+        "gsX5tY-d1e69-d1e3487"
+      ]
+    }
+  },
+  "gsX5tY-d1e69": {
+    "summary": "The first question of the prologue asks whether the knowledge of divine truth acquired in theology can be had through the philosophers' sciences. Arguments from Anselm's unity of truth and from God's inclusion under being (metaphysics' subject) favor the affirmative; the distinction of sciences favors the negative. Article 1 distinguishes three truths: truth abstracted from sensibles, the first truth of the divine art to which abstracted truth is conformed and by which it measures cognition (no special illumination being required), and the rational truth of beings of reason, assigned respectively to the speculative sciences, metaphysics, and logic. Article 2 sets out the three grades of metaphysics, interprets 'being qua being' as reduplicating the first form virtually included in quidditative concepts, and denies that theological truth, independent of the analogy of being, falls under metaphysical truth. Article 3 holds that sciences are distinguished not by modes of consideration but by truths where those modes cannot converge, that theology and metaphysics consider God under distinct contracted rationes belonging to the object, and concludes that truths shared by theology and metaphysics (like God's unity) can be had naturally, but the truths specifying theology (like the Trinity) cannot, which secures theology's necessity.",
+    "claims": [
+      "Not all speculative sciences aim at the same truth.",
+      "Abstracted truth measures cognition only through conformity to the first truth of the divine art.",
+      "Theological truth is not contained under metaphysical truth.",
+      "Sciences are distinguished by truths on which their modes of consideration cannot converge.",
+      "The truths that specify theology cannot be had through the philosophers' sciences."
+    ],
+    "concepts": [
+      "divine truth",
+      "threefold truth",
+      "divine art",
+      "being qua being",
+      "distinction of sciences",
+      "contracted ratio",
+      "revelation",
+      "theology and metaphysics"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69-Dd1e115",
+        "gsX5tY-d1e69-Dd1e160",
+        "gsX5tY-d1e69-Dd1e300",
+        "gsX5tY-d1e69-Dd1e1583",
+        "gsX5tY-d1e69-Dd1e2562"
+      ]
+    }
+  }
+}

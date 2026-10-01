@@ -1,0 +1,2958 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "7247fd15520fe46af79694fffa31226b54cf0bde",
+    "generation_method": "hierarchical"
+  },
+  "gsX5tY-d1e114-d1e120": {
+    "summary": "Statement of the fifth question of the prologue: whether knowledge of theological truth is the end of this science or it has some other end.",
+    "claims": [],
+    "concepts": [
+      "end of theology",
+      "knowledge of truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-Dd1e115"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e115": {
+    "summary": "Statement of the fifth question of the prologue: whether knowledge of theological truth is the end of theology or it has another end.",
+    "claims": [],
+    "concepts": [
+      "end of theology"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e135": {
+    "summary": "First argument that theology's end is knowledge of truth: speculative and practical sciences are distinguished by objects, the purely speculable and the doable; theology's subject, God, is purely speculable, so theology is purely speculative and its end is simply knowledge of truth.",
+    "claims": [
+      "Speculative and practical sciences are distinguished by their objects.",
+      "God is purely speculable."
+    ],
+    "concepts": [
+      "speculative and practical science",
+      "object of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e159": {
+    "summary": "Second argument: the vision of God alone is theology's end, and vision of God is knowledge of supreme truth; John says vision is the whole reward, and Augustine that all our work in this life is to heal the heart's eye that God may be seen.",
+    "claims": [
+      "The vision of God is knowledge of supreme truth."
+    ],
+    "concepts": [
+      "vision of God",
+      "beatitude",
+      "end of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e135"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e187": {
+    "summary": "Third argument, that the end is operation: a habit directing to operation has operation as its end and is practical; theology is such, per James ('be doers of the word, not hearers only') and Augustine (one meditates God's law in vain who does not fulfill it in action).",
+    "claims": [],
+    "concepts": [
+      "practical science",
+      "operation",
+      "doers of the word"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e213": {
+    "summary": "Fourth argument, that it embraces both ends: a science exceeding all others together should embrace all their perfections, so theology should have both knowledge of truth and operation as ends, having the perfection of speculative and practical science.",
+    "claims": [],
+    "concepts": [
+      "excellence of theology",
+      "speculative and practical"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e234": {
+    "summary": "Argument for the negative, that love is theology's end: the noblest science should have the noblest end, which is the love of charity (Paul; Augustine: no gift of God is more excellent). Confirmed by the Gospel's two commandments of love, on which the whole law depends; so theology is neither practical nor speculative.",
+    "claims": [
+      "The love of charity is the noblest end.",
+      "Theology most directs us to love."
+    ],
+    "concepts": [
+      "charity",
+      "love as end",
+      "great commandment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e286": {
+    "summary": "Confirmation: the love of charity cannot be reduced to speculation, being outside the intellect, nor to praxis, since its object, God, is not practical or doable; so it belongs to a third genus, called love, and theology is called affective.",
+    "claims": [
+      "Love of God is neither speculation nor praxis."
+    ],
+    "concepts": [
+      "affective science",
+      "third genus",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e234"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e130": {
+    "summary": "Principal arguments on theology's end: that it is knowledge of truth, since God its subject is purely speculable and the vision of God is the whole reward; that it is operation, since Scripture demands doers of the word; that it embraces both, since theology excels all sciences together; and that it is love of charity, the noblest end on which the whole law depends, which is neither speculation nor praxis and so makes theology affective.",
+    "claims": [],
+    "concepts": [
+      "speculative and practical",
+      "vision of God",
+      "operation",
+      "charity",
+      "affective science"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e135",
+        "gsX5tY-d1e114-d1e159",
+        "gsX5tY-d1e114-d1e187",
+        "gsX5tY-d1e114-d1e213",
+        "gsX5tY-d1e114-d1e234",
+        "gsX5tY-d1e114-d1e286"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e313": {
+    "summary": "Opens the response with six articles to be examined according to the arguments, the first being whether the distinction between speculative and practical habit is taken from the object.",
+    "claims": [],
+    "concepts": [
+      "speculative and practical habit",
+      "object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e135"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e329": {
+    "summary": "Second article: whether theology's end is speculation of truth.",
+    "claims": [],
+    "concepts": [
+      "speculation of truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e159"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e336": {
+    "summary": "Third article: whether, if contemplation is not its end, praxis or operation should be called its end.",
+    "claims": [],
+    "concepts": [
+      "praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e187"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e352": {
+    "summary": "Fourth article: whether it embraces both ends and so can be called practical and speculative.",
+    "claims": [],
+    "concepts": [
+      "speculative and practical"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e213"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e360": {
+    "summary": "Fifth article: whether love is simply theology's end.",
+    "claims": [],
+    "concepts": [
+      "love as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e234"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e367": {
+    "summary": "Sixth article: whether such love should be reduced to speculation or praxis, or placed in a third genus, so that theology is called dilective or affective.",
+    "claims": [],
+    "concepts": [
+      "affective science",
+      "third genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e286"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e308": {
+    "summary": "Divides the response into six articles: whether the speculative-practical distinction comes from the object; whether theology's end is speculation; whether it is praxis; whether it embraces both; whether love is simply its end; and whether that love belongs to speculation, praxis, or a third, affective genus.",
+    "claims": [],
+    "concepts": [
+      "speculative and practical",
+      "love as end",
+      "affective science"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e313",
+        "gsX5tY-d1e114-d1e329",
+        "gsX5tY-d1e114-d1e336",
+        "gsX5tY-d1e114-d1e352",
+        "gsX5tY-d1e114-d1e360",
+        "gsX5tY-d1e114-d1e367"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e387": {
+    "summary": "Heading of the first article: whether the distinction of speculative from practical habit is taken from the object.",
+    "claims": [],
+    "concepts": [
+      "speculative and practical habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e313"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e396": {
+    "summary": "Reports a view answering affirmatively. Following De anima III, the intellect becomes practical by extension, so every practical habit extends to an operation of another power, since directing one's own acts (as logic directs reasoning) is not praxis. The practical habit extends to that operation by an order of priority, as directing (vegetative acts, not subject to intellect, are not practical), and by an order of natural conformity, since the operation is right only when conformed to its rule in the intellect.",
+    "claims": [],
+    "concepts": [
+      "praxis",
+      "extension of the intellect",
+      "priority and conformity",
+      "directive knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e387"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e472": {
+    "summary": "On that view the ratio of practical habit consists in two aptitudinal relations, priority and natural conformity; that of speculative habit in the privation of both.",
+    "claims": [],
+    "concepts": [
+      "aptitudinal relations",
+      "privation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e396"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e495": {
+    "summary": "Their first argument that the distinction comes from the object: the cause of having or lacking those relations is the cause of the distinction; these follow from the absolute form of each habit as properties or are repugnant to it; what causes these absolute forms is the object, since only intellect and objects precede the habits, and not the intellect.",
+    "claims": [],
+    "concepts": [
+      "object as cause of habit",
+      "absolute form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e472"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e550": {
+    "summary": "Second: the cause is either end or object; not the end, which causes only as actually loved, whereas the practical habit has its aptitude by nature even if the end is not loved; aptitude to be loved does not suffice, since an effect has something from a cause only as it actually causes.",
+    "claims": [],
+    "concepts": [
+      "final causality",
+      "end as loved"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e495"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e579": {
+    "summary": "Third: if the end caused the distinction, it would be as acquired (but then posterior to the habit), as known (then it is an object), or as intended (but the habit would have these relations even if the end were not intended). Fourth, they add that practical and speculative are not essential differences of science in general, since a relation or privation cannot be an essential difference of an absolute thing.",
+    "claims": [],
+    "concepts": [
+      "end as acquired, known, intended",
+      "essential differences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e550"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e629": {
+    "summary": "Rejects the view on several counts. First, it takes the ratio of practical and speculative in the same way for the intellect and its habits; then the intellect would be divided like habits, speculative into natural, mathematical, metaphysical, practical into active and factive, which is absurd.",
+    "claims": [
+      "Practical and speculative are not said in the same way of intellect and habit."
+    ],
+    "concepts": [
+      "division of habits",
+      "intellect and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e396"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e660": {
+    "summary": "Second, it places the ratio of practical in two aptitudinal relations; four arguments follow.",
+    "claims": [],
+    "concepts": [
+      "aptitudinal relations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e472"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e669": {
+    "summary": "First: the relations would have power to direct and conform; attributing it to their absolute foundation leads to a dilemma (it has it essentially, so not in the relations; or from elsewhere, so not as practical). And it is false, since the directed is absolute and the directing would be relative and nobler; and directing belongs to the practical habit as a motive or active principle, so the relation would move and act.",
+    "claims": [
+      "A relation cannot have power to direct or move."
+    ],
+    "concepts": [
+      "relation",
+      "directive power",
+      "active principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e660"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e729": {
+    "summary": "Second: there would be relations without terms, since the habit is practical before any operation exists; saying the operation exists potentially makes the habit only potentially practical.",
+    "claims": [
+      "A relation requires a term."
+    ],
+    "concepts": [
+      "relation without term",
+      "potency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e660"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e773": {
+    "summary": "Third: they cannot distinguish the two relations, which share foundation and term; the practical habit's directive role derives from priority (hence the intellect does not direct vegetative acts), and directing a ruled thing is the same as conforming it, so priority and conformity coincide.",
+    "claims": [],
+    "concepts": [
+      "distinction of relations",
+      "rule and ruled"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e660"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e817": {
+    "summary": "Fourth: practical would lack a simple quiddity, since two distinct relations are two quiddities, but every accident's quiddity is simple.",
+    "claims": [
+      "Every accident has a simple quiddity."
+    ],
+    "concepts": [
+      "simple quiddity",
+      "accident"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e660"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e833": {
+    "summary": "Third, placing speculative in the privation of these relations is absurd: the division would be by habit and privation, so any habit would be indifferent and sometimes practical, sometimes speculative; the speculative would be less noble than the practical; and a privation would be the principle of a positive act, speculation, making the effect greater than its cause.",
+    "claims": [
+      "Speculative is not a privation of the practical."
+    ],
+    "concepts": [
+      "habit and privation",
+      "nobility of speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e472"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e875": {
+    "summary": "Fourth, it makes the object the total and principal cause of the distinction, so that it would remain without the end; the contrary will be proved.",
+    "claims": [],
+    "concepts": [
+      "object and end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e495"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e891": {
+    "summary": "Fifth, it wrongly makes practical and speculative accidental differences of science. First argument: they are to science as doable and non-doable to the object, which are essential differences of the object, since an object is doable by its nature, being subjectable to our will and action, and the speculable likewise by its intrinsic ratio.",
+    "claims": [
+      "Practical and speculative are essential differences of science.",
+      "Doable and non-doable are essential differences of objects."
+    ],
+    "concepts": [
+      "essential differences",
+      "doable object",
+      "speculable object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e579"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e953": {
+    "summary": "Second: practical and speculative are to habits as praxis and speculation to their operations, which are essential differences of operations; since habits are essentially principles of these operations, the habits differ essentially.",
+    "claims": [
+      "Praxis and speculation are essential differences of their operations."
+    ],
+    "concepts": [
+      "praxis and speculation",
+      "habit as principle of operation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e891"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1008": {
+    "summary": "Third: if they were not essential differences they would not enter the science's quidditative concept; but then sciences could be understood distinctly without their objects, since abstracting from practical and speculative abstracts from all order to the object. The efficient order to the object could be removed by God causing them directly, but not the order of practical and speculative, which is thus essential.",
+    "claims": [
+      "The order of practical and speculative to the object is essential to the habit."
+    ],
+    "concepts": [
+      "quidditative concept",
+      "order to object",
+      "efficient causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e953"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1069": {
+    "summary": "Fourth: otherwise the distinction of sciences by practical and speculative would be less than that by doable objects, since accidental differences are lesser; but a doable and a purely speculable object differ more than two doable ones, since doables reduce to one principle, the will.",
+    "claims": [
+      "Doable objects reduce to one principle, the will."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "will as principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e891"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1106": {
+    "summary": "Reports a variant: the distinction comes from objects not absolutely but as related to the knower, insofar as the knower can or cannot make them; otherwise one object could not be known practically and speculatively, yet humans know morals practically, angels speculatively, and medicine is practical for one, speculative for another; and if a man could produce a rose, knowledge of roses would become practical.",
+    "claims": [],
+    "concepts": [
+      "object related to knower",
+      "angelic knowledge",
+      "moral science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e875"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1150": {
+    "summary": "From this they infer that practical and speculative are not essential differences of science as an absolute quality, since the same specific science (moral science in us and angels) can be practical in us and speculative in angels; but they are essential to science as an intellectual virtue, which adds a relation of congruence to the subject.",
+    "claims": [],
+    "concepts": [
+      "science as quality",
+      "intellectual virtue",
+      "relation of congruence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1106"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1209": {
+    "summary": "Judges this view more unreasonable than the first.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1106"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1217": {
+    "summary": "First, it is self-destructive: the object causes the distinction either of itself (then not through relation to the knower), or through the relation (which can neither efficiently cause nor terminate the habits), or through the knower (then not from the object at all, since the extrinsic knower gives the object no form or causality).",
+    "claims": [],
+    "concepts": [
+      "object as cause",
+      "relation to knower"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1106"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1254": {
+    "summary": "Second, the same object cannot be known practically and speculatively, since operable and non-operable contradict. Moral science in the angel rests in pure speculation of the doable as speculable, whereas in us it considers how it can be subject to our operation, so their objects are opposed; likewise medicine. A rose produced by a man would bring a different ratio of object.",
+    "claims": [
+      "The same object cannot be both practically and speculatively known.",
+      "The angel's moral knowledge and ours have opposed objects."
+    ],
+    "concepts": [
+      "operable and non-operable",
+      "moral science",
+      "object ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1106"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1311": {
+    "summary": "Third, practical and speculative are essential differences of science as absolute; angelic and human moral science are not the same species, since it is doubtful whether angelic and human intellects are of one species and their objects differ; and saying they are the same species yet one speculative, the other practical, is contradictory, since these are at least properties like even and odd of number.",
+    "claims": [
+      "Practical and speculative are at least properties of science, like even and odd of number."
+    ],
+    "concepts": [
+      "species of science",
+      "angelic and human intellect",
+      "properties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1150"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1379": {
+    "summary": "Finally, it is false that science as intellectual virtue adds a relation of congruence to the subject: science is not said relatively to the knower (Metaphysics V), no relation obtains between subject and accident, and such an extrinsic relation could not determine genus or species of virtue; so it cannot make practical and speculative essential differences.",
+    "claims": [
+      "Science is not said relatively to the knower.",
+      "An extrinsic relation cannot constitute an essential difference."
+    ],
+    "concepts": [
+      "intellectual virtue",
+      "relation",
+      "essential differences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1150"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1442": {
+    "summary": "Reports a third view: practical and speculative are distinguished differently for the intellect and for habits and acts. For the intellect, an abstract power regarding all being, the distinction cannot come from the object and is accidental, taken from an extrinsic connoted end loved and desired, since the intellect becomes practical when it actually orders its object to work through desire of an end.",
+    "claims": [],
+    "concepts": [
+      "practical intellect",
+      "end as loved",
+      "accidental distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e387"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1512": {
+    "summary": "Continuing: the object has only an accidental relation to the loved end, since though orderable to work by nature, it is actually ordered only by desire; so the intellect's distinction comes from the end, as Aristotle says in De anima III that practical intellect differs from speculative by its end.",
+    "claims": [],
+    "concepts": [
+      "end",
+      "De anima III",
+      "desire"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1442"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1546": {
+    "summary": "For habits and acts, they say, the distinction comes from objects: one intellect reaches all intelligibles, but no single habit or act does, so a habit of a doable object is practical, of a non-operable object speculative, and these are essential differences of habits.",
+    "claims": [],
+    "concepts": [
+      "habits and objects",
+      "essential differences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1442"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1581": {
+    "summary": "Finds three doubts in this fairly reasonable view: it does not say why the habit's distinction is not from the end as the intellect's is; it makes essential distinction in powers and habits come only from the object, though the end is the cause of causes; and it makes them accidental to the intellect but essential to habits, though they belong to the intellect first. Reports another view that the distinction comes from the end, not the object, since the same object not extended to work is known speculatively and extended to work practically, as medicine is divided into practical and speculative.",
+    "claims": [],
+    "concepts": [
+      "end as cause of causes",
+      "medicine",
+      "extension to work"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1546"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1655": {
+    "summary": "That view's second argument: a practical act is morally good or bad from its circumstances, chiefly the end, so the ratio of practical comes from the end. The author grants the conclusion may be true but finds the reasons weak: if an object can be extended to work it is not purely speculable, so knowledge of it is practical (as with Ethics); speculative medicine is so called only loosely, as Ethics is, because it is applied to work only through another habit (prudence, or practice and experience).",
+    "claims": [
+      "An object that can be extended to work is not purely speculable."
+    ],
+    "concepts": [
+      "moral goodness",
+      "circumstances",
+      "medicine",
+      "prudence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1581"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1725": {
+    "summary": "The second reason is also weak: the topic is practical as an act of intellect, not every act; practical intellect is often found without moral good or evil, as in producing artifacts; and the argument would derive the distinction from all circumstances, not just the end.",
+    "claims": [
+      "Practical acts of intellect need not have moral goodness or badness."
+    ],
+    "concepts": [
+      "productive knowledge",
+      "moral circumstances"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1655"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1762": {
+    "summary": "Begins the author's own account with four conclusions. First, practical and speculative are said equivocally of intellect and habit. Proof: what belongs to several, to one through another by an essential and causal order, belongs to them equivocally (as even an essential order among species of a genus produces hidden equivocation); practical and speculative belong first to the intellect and through it causally to habits, since a habit in the appetite cannot be speculative.",
+    "claims": [
+      "Practical and speculative are said equivocally of intellect and habit.",
+      "An essential and causal order excludes true univocity."
+    ],
+    "concepts": [
+      "equivocation",
+      "essential order",
+      "intellect and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1581"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1840": {
+    "summary": "Second proof: they belong to intellect and habit by different rationes; to speculate belongs to the intellect as saying nothing of pursuit or avoidance (De anima III), whereas the habit does not speculate but is a ratio of speculating; likewise for practical.",
+    "claims": [],
+    "concepts": [
+      "speculation",
+      "ratio of speculating"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1762"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1880": {
+    "summary": "Third: if univocal, they could be caused by the same principle; but as belonging to habits they are caused by the object, while as belonging to the intellect they precede all action of the object, especially the speculative.",
+    "claims": [
+      "The speculative character of the intellect precedes any action of its object."
+    ],
+    "concepts": [
+      "cause of habit",
+      "intellect prior to object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1762"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1913": {
+    "summary": "Second conclusion: practical is an accidental difference of the intellect, speculative an essential one; first proved of speculative.",
+    "claims": [
+      "Speculative is an essential difference of the intellect; practical is accidental."
+    ],
+    "concepts": [
+      "essential and accidental difference",
+      "intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1762"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1926": {
+    "summary": "First proof: what first distinguishes the intellect from all other powers is its essential difference; it is distinguished by speculative alone, which belongs to it properly and to nothing else.",
+    "claims": [
+      "The intellect is distinguished from all other powers by being speculative."
+    ],
+    "concepts": [
+      "intellect",
+      "distinction of powers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1913"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1950": {
+    "summary": "Second: what belongs to the first concept of a thing is not accidental to it; speculative is to intellect as sensitive to sense and appetitive to appetite.",
+    "claims": [],
+    "concepts": [
+      "first concept",
+      "powers of the soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1913"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1974": {
+    "summary": "Announces two proofs of the other part, concerning practical.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1913"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e1981": {
+    "summary": "First: what belongs to a thing but is outside its ratio is accidental; if practical were essential to the intellect, it would either precede speculative as a higher difference (making speculative divide it, as rational divides sensible) or follow it as a lower constitutive difference (making practical divide speculative), both absurd; and the intellect would not be distinguished by speculative. Two essential differences of one thing cannot be coordinate.",
+    "claims": [
+      "Two essential differences of one thing cannot be coordinate; one must be superior."
+    ],
+    "concepts": [
+      "essential difference",
+      "division"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1974"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2047": {
+    "summary": "Second: a difference belonging to a power neither of itself nor from its essential order to its object but from something supervening on the object is accidental; practical is such, since the intellect is not practical toward every object, and judges something to be pursued or avoided only because of an end willed. The intellect's essential order to its object is complete before any act of will; the ratio of 'willed' supervenes from the will, so the intellect becoming practical is said to 'extend', going outside itself. So practical and speculative are not opposed differences of the intellect, and one intellect can have both.",
+    "claims": [
+      "The intellect becomes practical only through an end willed.",
+      "The intellect's essential order to its object is complete before any act of will.",
+      "Practical and speculative are not opposed as regards the intellect."
+    ],
+    "concepts": [
+      "extension of the intellect",
+      "will",
+      "practical judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e1974"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2125": {
+    "summary": "Third conclusion: compared to habits, practical and speculative are essential differences, as argued against the first view; otherwise speculative science would not exceed practical in nobility (Metaphysics I), since the same science could be both of the same object and exceed itself.",
+    "claims": [
+      "Practical and speculative are essential differences of habits.",
+      "Speculative science is nobler than practical."
+    ],
+    "concepts": [
+      "essential differences",
+      "nobility of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e891"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2167": {
+    "summary": "Second: otherwise every science would have complete being before receiving either difference, from itself (giving the object no causality) or from the object, which could give it only as speculable (speculative being) or operable (practical being), unless one feigns a third ratio abstracting from both.",
+    "claims": [
+      "A science cannot have complete being prior to being practical or speculative."
+    ],
+    "concepts": [
+      "complete being",
+      "object as cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2125"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2219": {
+    "summary": "Objection: since these differences belong first to the intellect, the habit should mirror it, with speculative essential and practical accidental.",
+    "claims": [],
+    "concepts": [
+      "intellect and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2125"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2237": {
+    "summary": "Reply: the same object and end accidental to the intellect can be essential to the habit. Object and end of practical intellect and habit both presuppose an act of will, without which nothing would be doable; but if nothing were operable the intellect would remain, having its complete order to its object before possible work, whereas the practical habit would be removed, since it follows and is constituted by the ratio of the doable. So the order accidental to the intellect is essential to the habit.",
+    "claims": [
+      "Object and end of practical intellect presuppose an act of will.",
+      "The practical habit is constituted by the ratio of the doable."
+    ],
+    "concepts": [
+      "practical habit",
+      "will",
+      "doable",
+      "intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2219"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2315": {
+    "summary": "Fourth conclusion: the distinction of practical from speculative is taken not totally from the object, but from object and end together, more principally from the end.",
+    "claims": [
+      "The distinction of practical and speculative is taken from object and end, more principally from the end."
+    ],
+    "concepts": [
+      "object and end",
+      "final causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2125"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2329": {
+    "summary": "Proof of the first part: when several causes concur in one effect and none suffices alone, the effect is not reduced totally to one. The object causes science and its essential difference, as nearly all say, since the same causes act and habit.",
+    "claims": [
+      "The object is a cause of science and its essential difference."
+    ],
+    "concepts": [
+      "concurrent causes",
+      "object as cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2315"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2360": {
+    "summary": "The object does not suffice without the end, since no agent produces a determinate effect except for a determinate end, and the object causes a determinate effect.",
+    "claims": [
+      "No agent acts for a determinate effect except for a determinate end."
+    ],
+    "concepts": [
+      "final causality",
+      "determination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2329"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2378": {
+    "summary": "Further: an agent always intends an end; undetermined by any end it would intend none and not act, so the end concurs with and is connoted by the agent (Averroes, De substantia orbis).",
+    "claims": [
+      "Every agent intends an end."
+    ],
+    "concepts": [
+      "final causality",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2360"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2394": {
+    "summary": "Nor does the end cause science without the object as agent, since the end presupposes the agent and causes only by moving others to act, whence it is the cause of causes.",
+    "claims": [
+      "The end is the cause of causes."
+    ],
+    "concepts": [
+      "final causality",
+      "cause of causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2329"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2410": {
+    "summary": "Announces three proofs that the distinction is taken more principally from the end.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2315"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2417": {
+    "summary": "First: of two concurring causes the more principal is that on which the effect more relies; the same thing, health, belongs to natural science as speculable when the end is speculation and to medicine as operable when the end is to produce health; so the object distinguishes sciences only through different ends, and is named from the end (speculable, operable).",
+    "claims": [
+      "The same thing belongs to different sciences through different ends.",
+      "An object as object is named from the end."
+    ],
+    "concepts": [
+      "health",
+      "medicine",
+      "natural science",
+      "object named from end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2410"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2488": {
+    "summary": "Second: the principal cause of the distinction is that which alone suffices for it to remain; God could remove the object's causality by causing practical and speculative science directly, and they would still differ by their ends; the object as terminating is not a cause of the habit.",
+    "claims": [
+      "God could cause sciences directly without the object's causality.",
+      "The object as terminating is not a cause of the habit."
+    ],
+    "concepts": [
+      "divine power",
+      "final causality",
+      "object as terminating"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2410"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2525": {
+    "summary": "Third: the end, as cause of causes, prescribes and determines the natures of practical and speculative and is determined by nothing else; Aristotle says all else is measured by the end, distinguishes speculative and practical by truth and work (Metaphysics II), and practical from speculative intellect by end (De anima III). The same cause distinguishes them for intellect and science, though not in the same way, and authorities mentioning only the object also imply the end.",
+    "claims": [
+      "The end determines all other causes and is determined by none.",
+      "The end of speculative science is truth, of practical science work."
+    ],
+    "concepts": [
+      "end as cause of causes",
+      "Aristotle",
+      "truth and work"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2410"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2595": {
+    "summary": "Reply to the first opposing argument: it rests on a false foundation; even granted, the relation could arise from its foundation's nature according to the exigence of the determining end, which would be the principal cause.",
+    "claims": [],
+    "concepts": [
+      "final causality",
+      "relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e495"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2613": {
+    "summary": "Reply to the second: the end causes not as loved or lovable (the object that causes the habit neither loves nor can love), but by determining the object to cause the habit according to the habit's exigence. Though the immediate end may not yet exist, there is a more principal end, man himself, according to whose exigence the speculation, the habit, and the object are determined.",
+    "claims": [
+      "The end causes by determining the object to cause the habit.",
+      "Man is the more principal end determining speculation and its habit."
+    ],
+    "concepts": [
+      "final causality",
+      "determination",
+      "man as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e550"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2670": {
+    "summary": "Reply to the third: it proceeds from an insufficient division, since the end causes the distinction neither as acquired, nor as known or intended, but as determining the object.",
+    "claims": [],
+    "concepts": [
+      "end as determining"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e579"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e379": {
+    "summary": "Article 1 asks whether the distinction between speculative and practical habits comes from the object. The author rejects three views. The first locates the practical in two aptitudinal relations (priority and conformity to the directed operation), the speculative in their privation, and derives both from the object, making them accidental differences of science: against it, relations cannot direct, lack terms, cannot be distinguished, and would give the practical no simple quiddity; privation cannot ground the nobler speculative; and practical and speculative are essential differences, mirroring essential differences of doable and speculable objects and of praxis and speculation. The second relates objects to the knower's power to make them (so moral science is practical in us, speculative in angels), which is self-defeating, since operable and non-operable contradict and a science cannot be of one species yet both. The third holds the distinction is accidental and from the end for the intellect, essential and from the object for habits, which leaves the end's role unexplained. The author's four conclusions: practical and speculative are said equivocally of intellect and habit; speculative is an essential, practical an accidental difference of the intellect, which becomes practical only by extension to an end willed; both are essential differences of habits, the practical habit being constituted by the doable; and the distinction is taken from object and end together, principally from the end, the cause of causes, as health is speculable for natural science and operable for medicine and as God could cause sciences without the object's causality.",
+    "claims": [
+      "Practical and speculative are said equivocally of intellect and habit.",
+      "Speculative is an essential difference of the intellect; practical is accidental, arising by extension to an end willed.",
+      "Practical and speculative are essential differences of habits.",
+      "The same object cannot be known both practically and speculatively.",
+      "The distinction of practical and speculative is taken from object and end, principally from the end."
+    ],
+    "concepts": [
+      "speculative and practical habit",
+      "aptitudinal relations",
+      "essential and accidental differences",
+      "extension of the intellect",
+      "final causality",
+      "object and end",
+      "medicine"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e387",
+        "gsX5tY-d1e114-d1e396",
+        "gsX5tY-d1e114-d1e472",
+        "gsX5tY-d1e114-d1e495",
+        "gsX5tY-d1e114-d1e550",
+        "gsX5tY-d1e114-d1e579",
+        "gsX5tY-d1e114-d1e629",
+        "gsX5tY-d1e114-d1e660",
+        "gsX5tY-d1e114-d1e669",
+        "gsX5tY-d1e114-d1e729",
+        "gsX5tY-d1e114-d1e773",
+        "gsX5tY-d1e114-d1e817",
+        "gsX5tY-d1e114-d1e833",
+        "gsX5tY-d1e114-d1e875",
+        "gsX5tY-d1e114-d1e891",
+        "gsX5tY-d1e114-d1e953",
+        "gsX5tY-d1e114-d1e1008",
+        "gsX5tY-d1e114-d1e1069",
+        "gsX5tY-d1e114-d1e1106",
+        "gsX5tY-d1e114-d1e1150",
+        "gsX5tY-d1e114-d1e1209",
+        "gsX5tY-d1e114-d1e1217",
+        "gsX5tY-d1e114-d1e1254",
+        "gsX5tY-d1e114-d1e1311",
+        "gsX5tY-d1e114-d1e1379",
+        "gsX5tY-d1e114-d1e1442",
+        "gsX5tY-d1e114-d1e1512",
+        "gsX5tY-d1e114-d1e1546",
+        "gsX5tY-d1e114-d1e1581",
+        "gsX5tY-d1e114-d1e1655",
+        "gsX5tY-d1e114-d1e1725",
+        "gsX5tY-d1e114-d1e1762",
+        "gsX5tY-d1e114-d1e1840",
+        "gsX5tY-d1e114-d1e1880",
+        "gsX5tY-d1e114-d1e1913",
+        "gsX5tY-d1e114-d1e1926",
+        "gsX5tY-d1e114-d1e1950",
+        "gsX5tY-d1e114-d1e1974",
+        "gsX5tY-d1e114-d1e1981",
+        "gsX5tY-d1e114-d1e2047",
+        "gsX5tY-d1e114-d1e2125",
+        "gsX5tY-d1e114-d1e2167",
+        "gsX5tY-d1e114-d1e2219",
+        "gsX5tY-d1e114-d1e2237",
+        "gsX5tY-d1e114-d1e2315",
+        "gsX5tY-d1e114-d1e2329",
+        "gsX5tY-d1e114-d1e2360",
+        "gsX5tY-d1e114-d1e2378",
+        "gsX5tY-d1e114-d1e2394",
+        "gsX5tY-d1e114-d1e2410",
+        "gsX5tY-d1e114-d1e2417",
+        "gsX5tY-d1e114-d1e2488",
+        "gsX5tY-d1e114-d1e2525",
+        "gsX5tY-d1e114-d1e2595",
+        "gsX5tY-d1e114-d1e2613",
+        "gsX5tY-d1e114-d1e2670"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2695": {
+    "summary": "Heading of the second article: whether the end of theology is speculation of truth.",
+    "claims": [],
+    "concepts": [
+      "speculation of truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e329"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2704": {
+    "summary": "Reports a view answering affirmatively. First: a science whose most perfect act cannot fall under praxis is speculative; theology's most perfect act is love of the ultimate end, an act of will that needs no directing or regulating practical knowledge, only a simple showing cognition. So speculative and practical differ not by having an extrinsic end but by how: the speculative may have an extrinsic act needing only showing cognition, the practical one needing direction.",
+    "claims": [],
+    "concepts": [
+      "love of the ultimate end",
+      "showing and directing cognition",
+      "extrinsic end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2695"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2772": {
+    "summary": "Second: speculative science is simply nobler than practical (Metaphysics I), as wisdom is nobler than prudence (Ethics VI, Averroes); theology is the noblest science, so speculative.",
+    "claims": [],
+    "concepts": [
+      "nobility of speculation",
+      "wisdom and prudence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2704"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2802": {
+    "summary": "Third: our theology derives from the theology of God and the blessed, which is speculative, not about an operable and contingent object; theology concerns a supremely necessary, non-operable object, so its intrinsic end is simple speculation of truth.",
+    "claims": [],
+    "concepts": [
+      "theology of the blessed",
+      "necessary object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2772"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2822": {
+    "summary": "The view fails first in holding that speculative science can reach an end beyond speculation outside the intellect, since extending the intellect beyond its essential order to its object to another power's act makes it practical; second, in calling theology speculative while giving it a more principal end, love, which is contradictory, since a science is named from its principal end.",
+    "claims": [
+      "A habit that extends the intellect to another power's act makes it practical.",
+      "A science is named from its principal end."
+    ],
+    "concepts": [
+      "extension of the intellect",
+      "principal end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2704",
+        "gsX5tY-d1e114-d1e2047"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2877": {
+    "summary": "Further, love of the ultimate end does need directing cognition, since an act liable to error needs regulation; a heretic or pagan could love God above all as ultimate end without that love being regulated according to the end's exigence.",
+    "claims": [
+      "Love of God can err and so needs directing cognition."
+    ],
+    "concepts": [
+      "regulation of love",
+      "heretic and pagan"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2704"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2901": {
+    "summary": "Finally, all its reasons commit the fallacy of the consequent, inferring from several possible causes to one: that theology is not practical does not show it is speculative, since it may be affective.",
+    "claims": [
+      "From 'not practical' it does not follow 'speculative'."
+    ],
+    "concepts": [
+      "fallacy of the consequent",
+      "affective science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2772",
+        "gsX5tY-d1e114-d1e2802"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e2687": {
+    "summary": "Article 2 rejects the view that theology's end is speculation of truth, argued from love of the ultimate end needing only showing (not directing) cognition, the greater nobility of speculative science, and the speculative character of the theology of God and the blessed. The author objects that a habit extending the intellect to another power's act is practical, that calling theology speculative while making love its principal end is contradictory since a science is named from its principal end, that love of God can err and so needs regulation, and that inferring 'speculative' from 'not practical' commits the fallacy of the consequent, since theology may be affective.",
+    "claims": [
+      "A science is named from its principal end.",
+      "Love of God needs directing cognition.",
+      "Theology's end is not speculation of truth."
+    ],
+    "concepts": [
+      "speculation of truth",
+      "principal end",
+      "fallacy of the consequent",
+      "affective science"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e2695",
+        "gsX5tY-d1e114-d1e2704",
+        "gsX5tY-d1e114-d1e2772",
+        "gsX5tY-d1e114-d1e2802",
+        "gsX5tY-d1e114-d1e2822",
+        "gsX5tY-d1e114-d1e2877",
+        "gsX5tY-d1e114-d1e2901"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2939": {
+    "summary": "Heading of the third article: whether theology's end is praxis or operation, so that it should be called practical.",
+    "claims": [],
+    "concepts": [
+      "praxis",
+      "practical science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e336"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e2948": {
+    "summary": "Reports a view that theological knowledge is simply practical: practical knowledge is prior to right volition and causes its rectitude by conforming it to itself (Aristotle: the practical mind's end is truth conformed to right appetite). The right love of God is posterior to theological knowledge and conformed to it; even apparently speculative knowledge like the Trinity virtually includes the rectitude of love, which is right only if it terminates at God in three persons; rules for rectifying love are taken from theology's object as ultimate end; so all its principles and conclusions are practical, though its object is not God under the ratio of end but its absolute foundation.",
+    "claims": [],
+    "concepts": [
+      "practical knowledge",
+      "right love",
+      "Trinity",
+      "rectitude of the will",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2939"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3059": {
+    "summary": "Approves this view's placing love of God as theology's end but rejects several points: that love of God is true praxis; that theology should be called practical by reason of the end of love; that theology would then be less noble than the human speculative sciences, since by Aristotle speculative is nobler than practical; and that principles taken from the object as ultimate end do not make God the subject under that ratio, which conflicts with their view that principles are virtually contained in the object.",
+    "claims": [
+      "Love of God is the end of theology.",
+      "Love of God is not true praxis.",
+      "Theology is not to be called practical by reason of love."
+    ],
+    "concepts": [
+      "love of God",
+      "praxis",
+      "subject of theology",
+      "nobility of speculative science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2948"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3117": {
+    "summary": "Reports a view extending the conclusion: theology is practical not only because it directs love in another power, but also because it directs cognition in the same power under a higher habit, faith, which theology generates, nourishes, defends, and strengthens. On this view a practical science need only extend to another habit's act, having an intrinsic end (its own elicited act) and an extrinsic end (the act it directs); so logic and rhetoric are practical.",
+    "claims": [],
+    "concepts": [
+      "direction of faith",
+      "intrinsic and extrinsic end",
+      "logic as practical"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e2939"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3174": {
+    "summary": "Their proofs that logic is practical: as a mode of knowing it extends beyond its own act to regulate other sciences' acts; it was invented for others' acts, not only its own; it makes its object (syllogisms, propositions), whereas speculative science does not; and it is divided into teaching and using, as no speculative science is; rhetoric likewise.",
+    "claims": [],
+    "concepts": [
+      "logic",
+      "modus sciendi",
+      "logica docens and utens"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3117"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3216": {
+    "summary": "Rejects this view: it is false that extending to another habit's act suffices for being practical, since then the practical ratio of the habit would precede that of the intellect, extension within the same power being to a nearer term than the intellect's extension to another power's act, so the habit's practicality would not depend on the intellect's, which is absurd.",
+    "claims": [
+      "The practicality of a habit depends on the practicality of the intellect."
+    ],
+    "concepts": [
+      "extension of the intellect",
+      "practical habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3117",
+        "gsX5tY-d1e114-d1e2047"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3277": {
+    "summary": "Further, it is absurd that being practical consists wholly in directing another act beyond the elicited one: then the habit of speculative principles would be practical (directing science of conclusions), metaphysics would be practical (declaring and defending others' principles), and practical habits would be nobler than speculative ones, combining more noble conditions.",
+    "claims": [
+      "The habit of principles and metaphysics are not practical though they direct other acts."
+    ],
+    "concepts": [
+      "direction",
+      "habit of principles",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3216"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3316": {
+    "summary": "Gives the author's account: the practical consists in directing the act proper to its object, taking the rule of direction not from the object made but from the end for which it is made. This does not make practical nobler: in a practical habit eliciting, directing, and making regarding one object are all required because it cannot attain its object by one act, eliciting being for directing and directing for making; whereas a speculative habit attains its object perfectly by eliciting, and any direction it exercises is not for making and arises from sufficiency rather than need.",
+    "claims": [
+      "The practical consists in directing the act proper to its object according to a rule taken from the end.",
+      "Practical direction arises from imperfection; speculative from sufficiency."
+    ],
+    "concepts": [
+      "practical habit",
+      "direction for making",
+      "elicit, direct, make",
+      "perfection of speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3277"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3390": {
+    "summary": "Further, logic is not practical: otherwise all sciences using it would be practical; the practical act would be prior to the speculative, which is absurd since the speculative is simpler; logical entities would be doable at the will's command; and their rectitude would be variable like that of doable things, whereas the rectitude of a syllogism is invariable like that of natural beings.",
+    "claims": [
+      "Logic is not a practical science.",
+      "The rectitude of logical entities is invariable."
+    ],
+    "concepts": [
+      "logic",
+      "invariable rectitude",
+      "doable things"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3174"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3452": {
+    "summary": "Reply to the first proof: though logic directs other sciences' acts, those acts are not about the same object as logic nor productive of it, nor in another power with respect to which the intellect could be productive; the intellect in itself is never productive.",
+    "claims": [
+      "The intellect in itself is never productive."
+    ],
+    "concepts": [
+      "logic",
+      "productive knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3174"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3474": {
+    "summary": "Reply to the second: logic is for the sake of other sciences, but their acts do not make its object, so its end does not pass beyond speculation.",
+    "claims": [],
+    "concepts": [
+      "logic",
+      "end of logic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3174"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3490": {
+    "summary": "Reply to the third: logic does not make its object. Taken as beings of reason following things understood, syllogisms and propositions have no efficient cause, signifying no positive nature; taken as the intellect's acts of reasoning and enunciating, making them is just eliciting those acts, and a habit is not called practical regarding its elicited act.",
+    "claims": [
+      "Logical entities as beings of reason have no efficient cause."
+    ],
+    "concepts": [
+      "beings of reason",
+      "syllogism",
+      "elicited act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3174"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3525": {
+    "summary": "Rejects the rejoinder that no science elicits its subject: where a habit's subject is not something constituted by another act as its term, the object and the elicited act may coincide, as in moral virtue, whose mean, its object, is the virtuous act it elicits.",
+    "claims": [
+      "In moral virtue the mean is the virtuous act itself."
+    ],
+    "concepts": [
+      "moral virtue",
+      "mean of virtue",
+      "object and act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3490"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3553": {
+    "summary": "Reply to the fourth: neither speculative nor practical science is so divided, a separate difficulty; or else speculative science too is divided into teaching and using, as natural science teaches principles of mobile body that metaphysics uses, and natural philosophy uses metaphysics against Parmenides and Melissus.",
+    "claims": [
+      "Speculative sciences can also be divided into teaching and using."
+    ],
+    "concepts": [
+      "docens and utens",
+      "natural science and metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3174"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3582": {
+    "summary": "Reply to the claim that theology directs the act of faith: it directs faith in teaching and declaring truths, but does not regulate it; rather theology takes from faith the principles regulating its whole procedure (Question 3). Even granted, faith's act does not make theology's object, so theology would not be practical; directing is not enough without directing for action.",
+    "claims": [
+      "Theology takes its regulating principles from faith.",
+      "Directing alone does not make a science practical; it must direct for action."
+    ],
+    "concepts": [
+      "faith and theology",
+      "direction for action"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3117",
+        "gsX5tY-d1e91-d1e525"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e2931": {
+    "summary": "Article 3 rejects calling theology practical. One view holds that theological knowledge is practical because it precedes and rectifies right love of God, even the doctrine of the Trinity determining love's object; the author accepts love as theology's end but denies that love is praxis, that theology is therefore practical, and that it would then be inferior to speculative human sciences. A second view makes any habit directing another habit's act practical, so that theology (directing faith), logic, and rhetoric are practical; the author replies that this would make the habit practical before the intellect, and would make the habit of principles and metaphysics practical. He defines the practical as directing the act proper to its object by a rule taken from the end for the sake of making, a direction born of the habit's insufficiency, whereas speculative direction arises from sufficiency. Logic is not practical, since its rectitude is invariable and it makes no object, its entities being beings of reason or its own elicited acts; and theology does not regulate faith but takes its principles from it.",
+    "claims": [
+      "Love of God is the end of theology but is not praxis.",
+      "The practical consists in directing the act proper to its object for the sake of making, by a rule taken from the end.",
+      "Logic is not a practical science.",
+      "Theology does not regulate faith but takes its principles from it."
+    ],
+    "concepts": [
+      "practical knowledge",
+      "direction for making",
+      "logic",
+      "beings of reason",
+      "faith and theology",
+      "rectitude of love"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e2939",
+        "gsX5tY-d1e114-d1e2948",
+        "gsX5tY-d1e114-d1e3059",
+        "gsX5tY-d1e114-d1e3117",
+        "gsX5tY-d1e114-d1e3174",
+        "gsX5tY-d1e114-d1e3216",
+        "gsX5tY-d1e114-d1e3277",
+        "gsX5tY-d1e114-d1e3316",
+        "gsX5tY-d1e114-d1e3390",
+        "gsX5tY-d1e114-d1e3452",
+        "gsX5tY-d1e114-d1e3474",
+        "gsX5tY-d1e114-d1e3490",
+        "gsX5tY-d1e114-d1e3525",
+        "gsX5tY-d1e114-d1e3553",
+        "gsX5tY-d1e114-d1e3582"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3626": {
+    "summary": "Heading of the fourth article: whether theology embraces both the end of praxis and of speculation and can be named in both ways.",
+    "claims": [],
+    "concepts": [
+      "speculative and practical"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e352"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3637": {
+    "summary": "Reports that some answer affirmatively, with two proofs.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3626"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3644": {
+    "summary": "First proof: a science whose formal ratio of consideration includes both speculables and doables is both; theology's formal ratio is revelability, extending to both.",
+    "claims": [],
+    "concepts": [
+      "revelability",
+      "formal ratio of consideration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3637"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3665": {
+    "summary": "Second: our theology is an image of divine wisdom, which, being one, is practical regarding what God makes and speculative regarding himself; so ours can be both. They add that it is more principally speculative, treating divine things more than human acts.",
+    "claims": [],
+    "concepts": [
+      "image of divine wisdom",
+      "divine knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3637"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3696": {
+    "summary": "Rejects the view as impossible in itself and inconsistent with its proponents' own statements.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3637"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3705": {
+    "summary": "Impossible: two opposed essential differences dividing a genus would belong to one species (and even as properties, opposed properties cannot); nor can theology's unity be saved by one formal ratio, since practical and speculative immediately divide science and cannot be reduced to a common ratio under it, as rational and irrational cannot under animal.",
+    "claims": [
+      "Opposed essential differences cannot belong to the same species.",
+      "Practical and speculative immediately divide science."
+    ],
+    "concepts": [
+      "essential differences",
+      "unity of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3696",
+        "gsX5tY-d1e114-d1e2125"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3755": {
+    "summary": "Further: if theology's unity survives the diversity of speculables and operables through the one ratio of revelability, then by the one ratio of natural knowability metaphysics and moral science, or indeed all sciences, would be one science.",
+    "claims": [
+      "A common ratio like knowability cannot unify all sciences."
+    ],
+    "concepts": [
+      "revelability",
+      "unity of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3705"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3788": {
+    "summary": "Inconsistent with themselves: elsewhere they posit one subject, God, but here two subjects, operable and speculable; and they make God as God the subject, so either revelability is not the formal ratio or nothing besides God would be revealable, though many things are. Reports others defending the conclusion differently, with two proofs.",
+    "claims": [],
+    "concepts": [
+      "subject of theology",
+      "revelability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3696"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3825": {
+    "summary": "Their proofs: theology considers both speculables and operables for their own sake, since if it considered one for the other it would borrow it from another science; and the faithful must be provided for no less than unbelievers, who have speculative and practical sciences for the contemplative and active lives, so theology must treat both to order both lives to God. They concede it has several subjects and less unity than other sciences, but is not simply many, its several intrinsic ends being connected to one extrinsic end, beatific vision.",
+    "claims": [],
+    "concepts": [
+      "active and contemplative life",
+      "plurality of subjects",
+      "beatific vision as extrinsic end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3788"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3913": {
+    "summary": "Rejects this: to say theology is a science yet not one is to say it is no science, as a proposition that is not one is not a proposition (Sophistical Refutations I).",
+    "claims": [
+      "What is not one science is not a science."
+    ],
+    "concepts": [
+      "unity of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3825"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3937": {
+    "summary": "Nor does unity of extrinsic end suffice, since then moral sciences and speculative sciences below metaphysics would be one, sharing the end of contemplative happiness through wisdom.",
+    "claims": [],
+    "concepts": [
+      "extrinsic end",
+      "contemplative happiness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3825"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3953": {
+    "summary": "Further, a science's unity is taken principally from its subject (Posterior Analytics I); positing many subjects makes theology simply many. Concludes that our theology is not to be named practical and speculative at once.",
+    "claims": [
+      "A science's unity is taken principally from its subject.",
+      "Theology is not both practical and speculative."
+    ],
+    "concepts": [
+      "unity of a science",
+      "subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3913"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e3977": {
+    "summary": "Reply to the first argument: theology does not contain doables and speculables under one formal ratio of consideration, which would have to be the ratio of the subject, making its unity merely rational and God not its subject. Even granted, one formal ratio requires one end. Reply to the second: our theology images God's knowledge but not in everything; and God knows himself principally and other things secondarily through himself, whereas our theology would treat both for their own sake, so the argument tells against them.",
+    "claims": [
+      "One formal ratio of consideration requires one end.",
+      "God knows himself principally and other things secondarily."
+    ],
+    "concepts": [
+      "formal ratio",
+      "divine knowledge",
+      "image"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3644",
+        "gsX5tY-d1e114-d1e3665"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4047": {
+    "summary": "Reply to Landulph's first argument: theology treats doables and speculables not for their own sake but for a more principal end, love, as the next article will show.",
+    "claims": [
+      "Theology treats speculables and doables for the sake of love."
+    ],
+    "concepts": [
+      "love as end",
+      "Landulph"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3825"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4063": {
+    "summary": "Reply to the proof: it need not borrow from another science, as metaphysics treats accidents for substance's sake without borrowing; and even if theology took something from sciences serving it, as metaphysics from natural science, that would be no great difficulty.",
+    "claims": [
+      "Metaphysics treats accidents for the sake of substance without borrowing from another science."
+    ],
+    "concepts": [
+      "subordinate considerations",
+      "handmaid sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3825"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4097": {
+    "summary": "Reply to the second: theology may treat both, but for neither speculation nor praxis as end, but for the more principal end, love.",
+    "claims": [
+      "Theology's principal end is love."
+    ],
+    "concepts": [
+      "love as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e3825"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e3618": {
+    "summary": "Article 4 denies that theology is both practical and speculative. Against the view that revelability, as one formal ratio, covers speculables and doables and that theology images God's knowledge, which is both, the author argues that opposed essential differences (or properties) cannot belong to one species, that practical and speculative immediately divide science and share no common ratio within it, that by parity natural knowability would unify all sciences, and that the view conflicts with its own claim that God alone is theology's subject. Against Landulph's view that theology treats both for their own sake to serve active and contemplative life, with several subjects unified by the extrinsic end of beatific vision, he argues that what is not one science is no science, that an extrinsic end would unify moral and speculative sciences too, and that unity comes from the subject. Theology treats speculables and doables not for their own sake but for a more principal end, love.",
+    "claims": [
+      "Opposed essential differences cannot belong to the same species.",
+      "A science's unity is taken principally from its subject.",
+      "Theology is not both practical and speculative.",
+      "Theology treats speculables and doables for the sake of love."
+    ],
+    "concepts": [
+      "unity of a science",
+      "revelability",
+      "essential differences",
+      "active and contemplative life",
+      "love as end",
+      "Landulph"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e3626",
+        "gsX5tY-d1e114-d1e3637",
+        "gsX5tY-d1e114-d1e3644",
+        "gsX5tY-d1e114-d1e3665",
+        "gsX5tY-d1e114-d1e3696",
+        "gsX5tY-d1e114-d1e3705",
+        "gsX5tY-d1e114-d1e3755",
+        "gsX5tY-d1e114-d1e3788",
+        "gsX5tY-d1e114-d1e3825",
+        "gsX5tY-d1e114-d1e3913",
+        "gsX5tY-d1e114-d1e3937",
+        "gsX5tY-d1e114-d1e3953",
+        "gsX5tY-d1e114-d1e3977",
+        "gsX5tY-d1e114-d1e4047",
+        "gsX5tY-d1e114-d1e4063",
+        "gsX5tY-d1e114-d1e4097"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4128": {
+    "summary": "Heading of the fifth article: whether love or charity is principally and simply theology's end.",
+    "claims": [],
+    "concepts": [
+      "charity",
+      "love as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e360"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4137": {
+    "summary": "States that Giles of Rome answers affirmatively, and that three reasons are drawn from his words.",
+    "claims": [
+      "Love is principally and simply the end of theology."
+    ],
+    "concepts": [
+      "Giles of Rome",
+      "love as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4128"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4146": {
+    "summary": "First reason: theology principally intends the act by which alone and immediately one is ordered to beatitude; Augustine (De Trinitate XIV) attributes to theology only what generates, nourishes, or defends the saving faith leading to beatitude. That act is charity, since neither speculation nor operation avail without it (1 Corinthians 13: prophecy, mysteries, giving one's body to be burned profit nothing without charity).",
+    "claims": [
+      "Charity alone immediately orders one to beatitude.",
+      "Theology aims to lead man to beatitude."
+    ],
+    "concepts": [
+      "charity",
+      "beatitude",
+      "1 Corinthians 13"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4210": {
+    "summary": "Confirmation: as moral science, aiming to lead to virtue, has as end that by which one acquires virtue, namely operation (knowing contributes little, Ethics II), so theology, aiming at beatitude, has as end love, knowing and doing contributing little; on love hang the law and the prophets.",
+    "claims": [
+      "In moral science operation, not knowing, leads to virtue."
+    ],
+    "concepts": [
+      "moral science",
+      "love",
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4146"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4256": {
+    "summary": "Second reason: theology principally intends the end most fitting to beatitude, which is love. If beatitude consists in love, this is evident; if in vision, though speculation resembles vision more, love is nearer to it in the ratio of merit, since we merit vision by love, not speculation.",
+    "claims": [
+      "We merit beatitude by love, not by speculation."
+    ],
+    "concepts": [
+      "merit",
+      "beatitude as vision or love",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4291": {
+    "summary": "Third reason: the end principally and universally intended in a science names it; speculation and operation are intended in different parts of theology, but love everywhere, as Augustine says (hold charity and you have all Scripture teaches) and Gregory (no passage so cold literally that, struck spiritually, does not blaze with charity, like flint).",
+    "claims": [
+      "Love is intended universally throughout theology and Scripture."
+    ],
+    "concepts": [
+      "charity",
+      "spiritual sense",
+      "Augustine",
+      "Gregory the Great"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4356": {
+    "summary": "Henry of Ghent's objection: the end naming a science should not be extrinsic to it, in another power; love is in the will, theology in the intellect.",
+    "claims": [],
+    "concepts": [
+      "Henry of Ghent",
+      "extrinsic end",
+      "will and intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4376": {
+    "summary": "Godfrey of Fontaines's objection: theology cannot both principally intend love of God and have God as subject, since a science intending love of God treats God only as loved or lovable, so love, not God, would be its subject.",
+    "claims": [],
+    "concepts": [
+      "Godfrey of Fontaines",
+      "subject of theology",
+      "love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4407": {
+    "summary": "Objection of 'the younger' doctors: if love were theology's end, it would be the end of any science, since love and delight can follow speculation of any object. Others also argue against the conclusion.",
+    "claims": [],
+    "concepts": [
+      "love and delight",
+      "end of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4426": {
+    "summary": "First further objection: habits differing in species cannot have the same proper end; charity and theology differ in species, and love is charity's proper end, so it cannot be theology's.",
+    "claims": [],
+    "concepts": [
+      "charity as habit",
+      "proper end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4407"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4444": {
+    "summary": "Second: a habit's proper end is an act it can elicit (prudence's end is directing, which it elicits); love is not elicited by theology, which is in the intellect while love is in the will. Third: if love of God were theology's end, no one could love God without theology, since a habit's proper end cannot be had without it.",
+    "claims": [],
+    "concepts": [
+      "elicited act",
+      "will and intellect",
+      "proper end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4426"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4475": {
+    "summary": "Judges Giles's view truer despite these objections and confirms it with two arguments.",
+    "claims": [
+      "Giles's view that love is theology's end is truer."
+    ],
+    "concepts": [
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4137"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4484": {
+    "summary": "First: the act that attains a habit's object in the noblest way possible is its end, since a habit's ultimate perfection is attaining its object most nobly; thus speculation is the end of speculative habit and praxis of practical. All agree that love in this life is better than speculation, indeed the most perfect act we can have of God in via, so love attains theology's object, God, most excellently and is its end simply.",
+    "claims": [
+      "A habit's end is the act attaining its object most nobly.",
+      "Love is the most perfect act regarding God in this life."
+    ],
+    "concepts": [
+      "love",
+      "end of a habit",
+      "perfection",
+      "speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4475"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4545": {
+    "summary": "Second: theology's end is pure speculation, pure operation, one simply and the other qualifiedly, both together, or love alone. Speculation is not intended universally and would exclude operation; so for operation. Neither can be reduced to the other, being opposed differences. Both seem necessary for beatitude, so neither is for the other; but both are reduced to love, since neither avails for beatitude without it (Paul), and all commandments are given for love (John, Augustine's Enchiridion). So love alone is simply theology's end.",
+    "claims": [
+      "Speculation and operation cannot be reduced to each other.",
+      "Both speculation and operation are ordered to love.",
+      "Love alone is simply the end of theology."
+    ],
+    "concepts": [
+      "love as end",
+      "speculation and operation",
+      "commandments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4475"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4626": {
+    "summary": "Further: all speculation granted to man about God is ordered to love, as Augustine says the perfection of rational nature is to understand God, love him in understanding, and live in him forever by loving. Speculation and operation are ordered to love and love immediately to beatitude; but theology is named from love, the proximate disposition, not from beatitude, the remote end, as moral science is named from operation rather than virtue.",
+    "claims": [
+      "Speculation about God is ordered to love.",
+      "Love is immediately ordered to beatitude.",
+      "A science is named from its proximate end."
+    ],
+    "concepts": [
+      "love",
+      "beatitude",
+      "proximate and remote end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4545"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4675": {
+    "summary": "Turns to answering the contrary arguments.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4356",
+        "gsX5tY-d1e114-d1e4376",
+        "gsX5tY-d1e114-d1e4407",
+        "gsX5tY-d1e114-d1e4426",
+        "gsX5tY-d1e114-d1e4444"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4682": {
+    "summary": "Reply to Henry: the end naming a science can be extrinsic, as moral science is named from operation, in another power. Reply to Godfrey: it is compatible that God be theology's subject under a special ratio and that love be principally intended in it.",
+    "claims": [
+      "The end naming a science can be in another power."
+    ],
+    "concepts": [
+      "extrinsic end",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4356",
+        "gsX5tY-d1e114-d1e4376"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4704": {
+    "summary": "To Godfrey's proof: it equivocates on 'intend', said of the end for the sake of which (finis cuius) and the end by which (finis quo). Natural science intends mobile body as end for which, extrinsic, and its speculation as end by which, intrinsically perfecting the knower and attaining mobile body most perfectly. So theology intends God principally as end for which, and love as end by which God is attained most excellently.",
+    "claims": [
+      "God is theology's end for which; love is its end by which."
+    ],
+    "concepts": [
+      "finis cuius and finis quo",
+      "subject and end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4376"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4750": {
+    "summary": "Reply to the third: it equivocates on love following speculation, which is either love of concupiscence, directed to the speculation itself and lesser than it, or love of friendship, directed to the object and nobler, able to be speculation's end. Only theology's object is lovable with love of friendship. Reply to the first further objection: different habits can share a proper end if it is elicited by one and principally intended by the other, as virtuous action is elicited by virtue and intended by moral science; or the premise holds only for unordered habits, and here charity as habit is also theology's end.",
+    "claims": [
+      "Love of concupiscence is lesser than speculation; love of friendship is nobler.",
+      "Only in theology is the object lovable with love of friendship.",
+      "Different habits can share an end as elicited by one and intended by the other."
+    ],
+    "concepts": [
+      "love of friendship",
+      "love of concupiscence",
+      "elicited and intended end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4407",
+        "gsX5tY-d1e114-d1e4426"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4852": {
+    "summary": "Reply to the second: the major is simply denied, since then no science would be practical, praxis not being elicited by any science.",
+    "claims": [
+      "Praxis is not an act elicited by any science."
+    ],
+    "concepts": [
+      "praxis",
+      "elicited act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4444"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4863": {
+    "summary": "Reply to the third: the inference is denied, since virtuous action is moral science's end yet one can act virtuously without it. Alternatively, whoever loves God has in a way theology's habit, since faith contains theology's principles and thus virtually all theology, and no one loves God with charity without faith.",
+    "claims": [
+      "Faith virtually contains all theology.",
+      "No one loves God with charity without faith."
+    ],
+    "concepts": [
+      "faith and theology",
+      "charity",
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4444"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e4120": {
+    "summary": "Article 5 holds with Giles of Rome that love or charity is principally and simply theology's end: charity alone immediately orders one to beatitude (1 Corinthians 13), as operation does to virtue in moral science; love is closest to beatitude by merit; and love alone is intended throughout Scripture (Augustine, Gregory). The author adds that love attains theology's object, God, in the noblest way possible in this life, and that speculation and operation, irreducible to each other, are both ordered to love, which is immediately ordered to beatitude, so that theology is named from love as its proximate end. Objections are answered: the naming end may be in another power (Henry of Ghent); God is the end for which and love the end by which (against Godfrey of Fontaines); only theology's object is lovable with love of friendship rather than concupiscence; different habits may share an end as elicited by one and intended by another; praxis is elicited by no science; and faith, which accompanies charity, virtually contains all theology.",
+    "claims": [
+      "Love or charity is principally and simply the end of theology.",
+      "Love attains God most nobly in this life.",
+      "Speculation and operation in theology are ordered to love.",
+      "God is theology's end for which; love its end by which.",
+      "Only theology's object is lovable with love of friendship."
+    ],
+    "concepts": [
+      "charity",
+      "love as end",
+      "beatitude",
+      "finis cuius and finis quo",
+      "love of friendship and concupiscence",
+      "Giles of Rome",
+      "Henry of Ghent",
+      "Godfrey of Fontaines"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e4128",
+        "gsX5tY-d1e114-d1e4137",
+        "gsX5tY-d1e114-d1e4146",
+        "gsX5tY-d1e114-d1e4210",
+        "gsX5tY-d1e114-d1e4256",
+        "gsX5tY-d1e114-d1e4291",
+        "gsX5tY-d1e114-d1e4356",
+        "gsX5tY-d1e114-d1e4376",
+        "gsX5tY-d1e114-d1e4407",
+        "gsX5tY-d1e114-d1e4426",
+        "gsX5tY-d1e114-d1e4444",
+        "gsX5tY-d1e114-d1e4475",
+        "gsX5tY-d1e114-d1e4484",
+        "gsX5tY-d1e114-d1e4545",
+        "gsX5tY-d1e114-d1e4626",
+        "gsX5tY-d1e114-d1e4675",
+        "gsX5tY-d1e114-d1e4682",
+        "gsX5tY-d1e114-d1e4704",
+        "gsX5tY-d1e114-d1e4750",
+        "gsX5tY-d1e114-d1e4852",
+        "gsX5tY-d1e114-d1e4863"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4906": {
+    "summary": "Heading of the sixth article: whether love should be reduced to speculation or praxis, or placed in a third genus, so that theology is called dilective or affective.",
+    "claims": [],
+    "concepts": [
+      "affective science",
+      "third genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e367"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e4922": {
+    "summary": "Reports Giles's answer: theology's end, love, is reducible to neither speculative nor practical, but forms a third genus, so theology is called affective. It is not speculative, since speculation is not love's end nor love a kind of speculation. Nor is it praxis: an act done in us and not from us is not praxis, since praxis is what is operable by us, which distinguishes practical from speculative; meritorious love from charity is from God's grace, not from us (Titus 3, 2 Corinthians 3), and those who have it are rather acted upon than acting (Romans 8).",
+    "claims": [
+      "Love is not praxis because it is done in us, not from us.",
+      "Praxis is what is operable by us.",
+      "Meritorious love is from God's grace."
+    ],
+    "concepts": [
+      "affective science",
+      "praxis",
+      "grace",
+      "merit",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4906"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5051": {
+    "summary": "Reports difficulties from others: some reduce theology to the speculative, since only operation directed by practical knowledge is praxis, while this love needs only simple showing cognition; since it is not operable by us it does not exceed speculative science; and every being is either operable by us (practical) or not (speculative).",
+    "claims": [],
+    "concepts": [
+      "speculative science",
+      "showing cognition",
+      "operable and non-operable"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4922"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5107": {
+    "summary": "Further: if love formed a third genus because done by God, not us, all God's works would belong to the affective genus.",
+    "claims": [],
+    "concepts": [
+      "works of God",
+      "affective genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4922"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5120": {
+    "summary": "Others argue love is true praxis: praxis is the operation of a power other than intellect, naturally posterior to it and apt to be elicited in conformity with right reason; love of the ultimate end has all these, since intellect is practical by extension, love is regulated by it, and Aristotle says right choice follows right reason and true reason conformed to right appetite is the practical mind's work.",
+    "claims": [],
+    "concepts": [
+      "definition of praxis",
+      "right reason",
+      "right appetite"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4922"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5164": {
+    "summary": "Further: if love of God were not praxis, some operation in our power would be neither practical nor speculative, which is unacceptable.",
+    "claims": [],
+    "concepts": [
+      "operation in our power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5177": {
+    "summary": "Further: if love formed a third genus because it is from God, theology's speculation, presupposing the light of faith from God, would also form a third genus; and as an eye created by God is of the same species as a naturally generated eye, so love from God can be of the same genus as natural love.",
+    "claims": [],
+    "concepts": [
+      "light of faith",
+      "supernatural and natural acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5208": {
+    "summary": "Affirms Giles's conclusion stands and sets out four requirements of true praxis, the first being that it is the end of some cognition, from which the cognition is named practical.",
+    "claims": [
+      "True praxis is the end of some cognition."
+    ],
+    "concepts": [
+      "conditions of praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e4922"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5239": {
+    "summary": "Second: it must be in our will's power to elicit or command it, since what is not in our power is not doable by us.",
+    "claims": [
+      "Praxis must be in the will's power to elicit or command."
+    ],
+    "concepts": [
+      "conditions of praxis",
+      "will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5208"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5253": {
+    "summary": "Third: our intellect must be able to direct or regulate it, since an operation in the will's power, which can act well or badly, presupposes a rule of right reason; vegetative acts, not in the will's power, are not directed by reason.",
+    "claims": [
+      "Praxis must be directable by our intellect."
+    ],
+    "concepts": [
+      "conditions of praxis",
+      "right reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5208"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5282": {
+    "summary": "Fourth: it must presuppose knowledge and volition of some end, else the intellect would become practical without extension, contrary to De anima III; so the volition of the end is not itself praxis, but choice or the commanded act following it, as Averroes says praxis is operation according to choice.",
+    "claims": [
+      "Praxis presupposes volition of an end.",
+      "Volition of the end is not itself praxis.",
+      "Praxis is operation according to choice."
+    ],
+    "concepts": [
+      "conditions of praxis",
+      "choice",
+      "volition of the end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5208",
+        "gsX5tY-d1e114-d1e2047"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5341": {
+    "summary": "Announces three proofs that love from charity, theology's end, is not praxis nor contained under it.",
+    "claims": [
+      "Love from charity is not praxis."
+    ],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5208"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5352": {
+    "summary": "First: an act not elicited by the will's natural power is not praxis; love from charity is such, else salvation gained through it would not be by grace, contrary to Ephesians 2.",
+    "claims": [
+      "Love from charity is not elicited by the will's natural power."
+    ],
+    "concepts": [
+      "grace",
+      "natural power of the will",
+      "salvation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5341",
+        "gsX5tY-d1e114-d1e5239"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5395": {
+    "summary": "Second: an act whose measure and direction exceed our intellect is not praxis; the rectitude of meritorious love depends on God's accepting good pleasure, unknown to human intellect, so natural reason cannot direct it. Hence Giles posits a special influx of the Holy Spirit beyond the will's informing by charity; even those who deny this must grant some supernatural directive, as moral virtue needs prudence, whence others posit a supernatural prudence connected with charity.",
+    "claims": [
+      "The rectitude of meritorious love depends on divine acceptance.",
+      "Meritorious love requires a supernatural directive.",
+      "Natural reason cannot direct meritorious love."
+    ],
+    "concepts": [
+      "divine acceptance",
+      "Holy Spirit",
+      "supernatural prudence",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5341",
+        "gsX5tY-d1e114-d1e5253"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5480": {
+    "summary": "Third: an act not presupposing volition of an end is not praxis; love of God presupposes none, since God is the ultimate end and charity refers him to nothing else but all things to him.",
+    "claims": [
+      "Charity refers all things to God and God to nothing else."
+    ],
+    "concepts": [
+      "ultimate end",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5341",
+        "gsX5tY-d1e114-d1e5282"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5499": {
+    "summary": "Concludes that love of God is properly entirely outside the genus of praxis, resembling it only in being the end of a cognition, theology's speculation. Augustine calls true wisdom the true worship of God and love of God true worship, religion, and piety; so theology, man's true wisdom, should be named from love and called dilective or affective, as Giles says.",
+    "claims": [
+      "Love of God is entirely outside the genus of praxis.",
+      "Theology should be called dilective or affective."
+    ],
+    "concepts": [
+      "affective science",
+      "true worship",
+      "wisdom",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5341"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e4898": {
+    "summary": "Article 6 holds with Giles that the love which is theology's end belongs neither to speculation nor praxis but to a third genus, so theology is affective or dilective. Love is not a kind of speculation, and it is not praxis because meritorious love is done in us by grace, not from us. Against objections that love is speculative since it needs only showing cognition, that it is true praxis as an act of the will following right reason, and that a divinely caused act need not leave its natural genus, the author specifies four conditions of true praxis: it is the end of a cognition, in the will's power to elicit or command, directable by our intellect, and presupposes volition of an end. Love from charity fails the last three: it is not from the will's natural power, else salvation would not be by grace; its rectitude depends on divine acceptance, requiring supernatural direction (the Holy Spirit's influx or a supernatural prudence); and it presupposes no further end, God being the ultimate end. So love of God resembles praxis only as the end of a cognition; with Augustine, true wisdom is true worship, and theology is named from love.",
+    "claims": [
+      "The love that is theology's end is neither speculation nor praxis.",
+      "True praxis is the end of a cognition, in the will's power, directable by our intellect, and presupposes volition of an end.",
+      "Meritorious love from charity is not from the will's natural power.",
+      "The rectitude of meritorious love depends on divine acceptance and requires supernatural direction.",
+      "Theology should be called affective or dilective."
+    ],
+    "concepts": [
+      "affective science",
+      "conditions of praxis",
+      "grace",
+      "merit",
+      "divine acceptance",
+      "Holy Spirit",
+      "supernatural prudence",
+      "true worship"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e4906",
+        "gsX5tY-d1e114-d1e4922",
+        "gsX5tY-d1e114-d1e5051",
+        "gsX5tY-d1e114-d1e5107",
+        "gsX5tY-d1e114-d1e5120",
+        "gsX5tY-d1e114-d1e5164",
+        "gsX5tY-d1e114-d1e5177",
+        "gsX5tY-d1e114-d1e5208",
+        "gsX5tY-d1e114-d1e5239",
+        "gsX5tY-d1e114-d1e5253",
+        "gsX5tY-d1e114-d1e5282",
+        "gsX5tY-d1e114-d1e5341",
+        "gsX5tY-d1e114-d1e5352",
+        "gsX5tY-d1e114-d1e5395",
+        "gsX5tY-d1e114-d1e5480",
+        "gsX5tY-d1e114-d1e5499"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5574": {
+    "summary": "Introduces replies to the arguments raising difficulties.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5051",
+        "gsX5tY-d1e114-d1e5107",
+        "gsX5tY-d1e114-d1e5120",
+        "gsX5tY-d1e114-d1e5164",
+        "gsX5tY-d1e114-d1e5177"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5581": {
+    "summary": "Reply to the first: not every operation is praxis, but it does not follow that love is reduced to speculation as its end; rather speculation is reduced to love as end.",
+    "claims": [
+      "Speculation is reduced to love as its end."
+    ],
+    "concepts": [
+      "love as end",
+      "speculation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5051"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5597": {
+    "summary": "On love not being doable by us: something non-operable by us may be a purely speculable object, or something following speculation as a supervening accident (both belong to speculative science), or something following speculation as an end perfecting it; the last fits neither practical science (being non-operable) nor speculative (whose only end is speculation), so it belongs to a third kind, as love of God from charity does. Even philosophers, had they posited a love of the ultimate end nobler than speculation, would have placed it in a third genus. Reply to the second follows: only the first sense of 'non-doable' belongs to speculative science.",
+    "claims": [
+      "What follows speculation as its perfecting end belongs to neither practical nor speculative science.",
+      "Speculative science has no end but speculation."
+    ],
+    "concepts": [
+      "third genus of science",
+      "non-operable",
+      "perfecting end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5051"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5695": {
+    "summary": "Reply to the third: love of God belongs to affective science not because it is God's work, but because it is a work of God that is the end of speculation; the argument takes a non-cause as cause.",
+    "claims": [
+      "Love belongs to affective science as God's work that is the end of speculation."
+    ],
+    "concepts": [
+      "affective science",
+      "fallacy of non-cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5107"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5709": {
+    "summary": "Reply to the fourth: love is simply denied to be true praxis; their description of praxis omits elements of its ratio.",
+    "claims": [
+      "Love of God is not true praxis."
+    ],
+    "concepts": [
+      "definition of praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5120"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5725": {
+    "summary": "Reply to the fifth: the consequence is denied, since supernatural love from charity is not wholly in our power, and even natural love of the ultimate end is not simply in our power, the ultimate end so determining the will that it cannot act contrary. Alternatively, it is no difficulty that some operation in our power be neither speculation nor praxis, since praxis requires more than being in our power.",
+    "claims": [
+      "The ultimate end determines the will so that it cannot act contrary.",
+      "Praxis requires more than being in our power."
+    ],
+    "concepts": [
+      "ultimate end",
+      "freedom of the will",
+      "praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5164"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5769": {
+    "summary": "Reply to the last: the principle of speculation is more extrinsic than intrinsic, so its genus is restricted by subject (the intellect), not principle; the principle of praxis is more intrinsic, so its genus is restricted by subject and principle, and an operation from an extrinsic principle leaves the genus of praxis even if about the same object.",
+    "claims": [
+      "The genus of praxis is restricted by its intrinsic principle.",
+      "The genus of speculation is restricted by its subject, the intellect."
+    ],
+    "concepts": [
+      "principle of praxis",
+      "principle of speculation",
+      "extrinsic principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5177"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-d1e5813": {
+    "summary": "Reply to the confirmation: the analogy fails, since love from charity has a formally supernatural rectitude and so perhaps differs in genus from natural love; and even if of the same genus, the reason it is not praxis is not genus but that it is not operable by man. Closes the prologue.",
+    "claims": [
+      "Love from charity has a formally supernatural rectitude."
+    ],
+    "concepts": [
+      "supernatural rectitude",
+      "natural and supernatural love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e114-d1e5177"
+      ]
+    }
+  },
+  "gsX5tY-d1e114-Dd1e5569": {
+    "summary": "Despite its TEI heading, this section answers the difficulties raised in Article 6 against affective theology rather than the question's principal arguments: speculation is ordered to love, not love to speculation; what follows speculation as a perfecting end and is not operable by us belongs to a third kind of science; love belongs to affective science not merely as God's work but as God's work that is the end of speculation; love is not true praxis; neither supernatural nor even natural love of the ultimate end is simply in our power, and praxis requires more than being in our power; praxis is restricted by its intrinsic principle, so an act from an extrinsic principle leaves its genus; and love from charity has a formally supernatural rectitude. The prologue closes here.",
+    "claims": [
+      "Speculation is ordered to love as its end.",
+      "What follows speculation as its perfecting end and is non-operable belongs to a third genus of science.",
+      "Love of God is not true praxis.",
+      "The genus of praxis is restricted by its intrinsic principle."
+    ],
+    "concepts": [
+      "affective science",
+      "third genus",
+      "praxis",
+      "intrinsic principle",
+      "supernatural rectitude"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-d1e5574",
+        "gsX5tY-d1e114-d1e5581",
+        "gsX5tY-d1e114-d1e5597",
+        "gsX5tY-d1e114-d1e5695",
+        "gsX5tY-d1e114-d1e5709",
+        "gsX5tY-d1e114-d1e5725",
+        "gsX5tY-d1e114-d1e5769",
+        "gsX5tY-d1e114-d1e5813"
+      ]
+    }
+  },
+  "gsX5tY-d1e114": {
+    "summary": "The fifth and final question of the prologue asks what the end of theology is. Article 1 establishes the general theory: practical and speculative are said equivocally of intellect and habit, speculative being essential to the intellect and practical accidental (arising by extension toward a willed end), while both are essential differences of habits; their distinction comes from object and end, principally the end. Articles 2-4 reject making theology's end speculation, praxis, or both: a science is named from its principal end, which is love; the love of God needs direction but is not praxis; logic and theology's direction of faith do not make a science practical; and a science that was both practical and speculative would lack unity, which comes from its subject. Article 5, with Giles of Rome, holds that love or charity is principally and simply theology's end, since it alone immediately orders one to beatitude, attains God most nobly in this life, and is that to which speculation and operation are ordered; God is the end for which and love the end by which. Article 6 concludes that this love falls outside praxis, since meritorious love is not in the will's natural power, is directed by divine acceptance through supernatural guidance, and presupposes no further end; so theology is neither speculative nor practical but affective, and the closing replies defend this third genus.",
+    "claims": [
+      "The distinction of practical and speculative is taken principally from the end.",
+      "Theology's end is neither speculation nor praxis nor both.",
+      "Love or charity is principally and simply the end of theology.",
+      "The love of God from charity is not praxis.",
+      "Theology is an affective science."
+    ],
+    "concepts": [
+      "end of theology",
+      "speculative and practical",
+      "final causality",
+      "charity",
+      "love as end",
+      "affective science",
+      "praxis",
+      "grace",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e114-Dd1e115",
+        "gsX5tY-d1e114-Dd1e130",
+        "gsX5tY-d1e114-Dd1e308",
+        "gsX5tY-d1e114-Dd1e379",
+        "gsX5tY-d1e114-Dd1e2687",
+        "gsX5tY-d1e114-Dd1e2931",
+        "gsX5tY-d1e114-Dd1e3618",
+        "gsX5tY-d1e114-Dd1e4120",
+        "gsX5tY-d1e114-Dd1e4898",
+        "gsX5tY-d1e114-Dd1e5569"
+      ]
+    }
+  }
+}

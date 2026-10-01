@@ -1,0 +1,1900 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "7247fd15520fe46af79694fffa31226b54cf0bde",
+    "generation_method": "hierarchical"
+  },
+  "gsX5tY-d1e102-d1e120": {
+    "summary": "Statement of the fourth question of the prologue: whether knowledge of theological truth is compatible with both the enigma of faith and the evidence of science.",
+    "claims": [],
+    "concepts": [
+      "enigma of faith",
+      "evidence of science",
+      "compatibility of faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-Dd1e115"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-Dd1e115": {
+    "summary": "Statement of the fourth question of the prologue: whether knowledge of theological truth is compatible with both the enigma of faith and the evidence of science.",
+    "claims": [],
+    "concepts": [
+      "enigma of faith",
+      "evidence of science"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e137": {
+    "summary": "First argument for the affirmative: things not opposed are compossible in the same subject; the enigma of faith and the evidence of science are not opposed, else faith and science could never bear on the same object, yet the wayfarers' faith and the blessed's knowledge bear on the same truth.",
+    "claims": [
+      "The faith of wayfarers and the knowledge of the blessed concern the same truth."
+    ],
+    "concepts": [
+      "compossibility",
+      "faith and vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e166": {
+    "summary": "Second argument: God can give the wayfarer a light in which theological truths are known, compatible with the light of faith. Augustine, commenting on John 1 and Psalm 71, interprets 'peace' as the wisdom illuminating the greater and 'justice' as the faith illuminating the lesser; this light of wisdom would be pointless unless theological truths were known scientifically in it, and it cannot exclude faith, else the wise would be outside the wayfaring state.",
+    "claims": [],
+    "concepts": [
+      "light of wisdom",
+      "light of faith",
+      "wayfaring state"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e137"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e223": {
+    "summary": "Third argument: God can give abstractive knowledge of the truth of his essence compatible with faith, as in Paul, who remembered his vision of the divinity when rapt to the third heaven; memory of a thing seen is abstractive knowledge, and since this did not place Paul outside the wayfaring state, such knowledge can coexist with faith in any wayfarer.",
+    "claims": [],
+    "concepts": [
+      "abstractive knowledge",
+      "rapture of Paul",
+      "vision of the divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e137"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e271": {
+    "summary": "First argument for the negative: such knowledge would be at once evident (as science) and non-evident (as faith), which is a contradiction.",
+    "claims": [],
+    "concepts": [
+      "evidence and non-evidence",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e303": {
+    "summary": "Second: knowledge had under the enigma of faith would not be voided in heaven by the evidence of science but would remain with it, contrary to the Apostle in 1 Corinthians.",
+    "claims": [
+      "Faith is voided in heaven."
+    ],
+    "concepts": [
+      "evacuation of faith",
+      "beatific knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e271"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-Dd1e132": {
+    "summary": "Principal arguments. For compatibility: faith's enigma and science's evidence are not opposed, since the wayfarer's faith and the blessed's knowledge concern the same truth; God gives the wise a light of wisdom above faith, as Augustine suggests; and Paul retained abstractive knowledge of the divine essence while remaining a wayfarer. Against: such knowledge would be both evident and non-evident, and faith would not be voided in heaven, contrary to the Apostle.",
+    "claims": [],
+    "concepts": [
+      "compatibility of faith and science",
+      "light of wisdom",
+      "abstractive knowledge",
+      "rapture of Paul",
+      "evacuation of faith"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-d1e137",
+        "gsX5tY-d1e102-d1e166",
+        "gsX5tY-d1e102-d1e223",
+        "gsX5tY-d1e102-d1e271",
+        "gsX5tY-d1e102-d1e303"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e327": {
+    "summary": "Opens the response, announcing three points to be examined.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e334",
+        "gsX5tY-d1e102-d1e343"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e334": {
+    "summary": "First article: whether faith is opposed to science by reason of enigma or in any other way, as the first argument raises.",
+    "claims": [],
+    "concepts": [
+      "enigma of faith",
+      "opposition of faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e137"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e343": {
+    "summary": "Second and third articles: whether, the light of faith remaining, another light can be given the wayfarer in which theological truths are scientifically known (second argument); and whether God can give the wayfarer abstractive knowledge of his essence without placing him outside the wayfaring state (third argument); from these the answer will follow.",
+    "claims": [],
+    "concepts": [
+      "light of theology",
+      "abstractive knowledge",
+      "wayfaring state"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e166",
+        "gsX5tY-d1e102-d1e223"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-Dd1e322": {
+    "summary": "Divides the response into three articles: whether faith is opposed to science by reason of enigma; whether another light for scientific knowledge of theological truths can coexist with faith; and whether God can give the wayfarer abstractive knowledge of his essence.",
+    "claims": [],
+    "concepts": [
+      "enigma of faith",
+      "light of theology",
+      "abstractive knowledge"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-d1e327",
+        "gsX5tY-d1e102-d1e334",
+        "gsX5tY-d1e102-d1e343"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e381": {
+    "summary": "Heading of the first article: whether faith is opposed to science by reason of enigma.",
+    "claims": [],
+    "concepts": [
+      "enigma of faith",
+      "opposition of faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e334"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e390": {
+    "summary": "Reports a view that enigma is not of faith's intrinsic ratio but accompanies it by reason of its matter, the indemonstrable articles; so taken in this matter faith conflicts with science by concomitant enigma, but in its proper formal ratio it is not opposed to science, as they prove twice.",
+    "claims": [],
+    "concepts": [
+      "enigma as concomitant",
+      "formal ratio of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e381"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e425": {
+    "summary": "First proof of that view: what is compossible by formal ratio is not repugnant. From experience: one who believes on an expert's authority that the moon is larger than the earth and later acquires a demonstration has a new assent agreeing with the first.",
+    "claims": [],
+    "concepts": [
+      "assent by authority",
+      "demonstration",
+      "compossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e390"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e457": {
+    "summary": "Further proof: assent by prior authority and assent by subsequent demonstration are of the same ratio, the latter confirming the former; so science confirms faith's formal ratio, assent to the speaker's authority. Second proof: faith and science are not opposed by objects (the same conclusion is demonstrated by the theologian and believed by a peasant), by media (authority and demonstration often agree), or by acts (faith does not cause non-evidence; not causing a habit is not causing an incompatible privation, as not causing sight is not causing blindness).",
+    "claims": [],
+    "concepts": [
+      "objects, media, acts",
+      "authority and demonstration",
+      "privation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e425"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e559": {
+    "summary": "Raises the objection that opinion is incompatible with science (Posterior Analytics I), and faith seems no less opposed to it; they reply that the cases differ.",
+    "claims": [],
+    "concepts": [
+      "opinion and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e457"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e572": {
+    "summary": "Their reply: opinion makes one judge that the thing could be otherwise, while science makes one judge it cannot, so these are opposed; if opinion merely assented through a probable middle as faith does through authority, it too could stand with science.",
+    "claims": [],
+    "concepts": [
+      "opinion",
+      "possibility of being otherwise"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e559"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e601": {
+    "summary": "To the objection that faith would then remain in heaven, they reply that its imperfection, the accompanying enigma, is voided, but what belongs to the habit of faith can remain.",
+    "claims": [],
+    "concepts": [
+      "evacuation of faith",
+      "enigma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e390"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e619": {
+    "summary": "Rejects the view on four counts. First, enigma is intrinsic to faith: otherwise the light of faith could pass from enigmatic to clear and serve in heaven without another light; the light of glory could become obscure, so its luminosity would be accidental, requiring an infinite regress of lights; and the lights of faith and glory, and the acts of believing and seeing, would not differ essentially, which is absurd.",
+    "claims": [
+      "Enigma is intrinsic to the ratio of faith.",
+      "The clarity of the light of glory is essential to it.",
+      "The lights of faith and glory differ essentially."
+    ],
+    "concepts": [
+      "enigma of faith",
+      "light of glory",
+      "believing and seeing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e390"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e708": {
+    "summary": "Second: faith and science are opposed in their formal rationes and cannot coexist in the same subject about the same object: obscure and clear about the same thing are opposed; faith's object is by nature not seen ('the evidence of things not apparent'; Thomas saw one thing and believed another), while science's is apparent; and even if not directly opposed, they relate as perfect and imperfect in the genus of assent, which cannot coexist in the same subject.",
+    "claims": [
+      "Faith's object is by nature not seen; science's is apparent.",
+      "Faith and science relate as imperfect and perfect assent.",
+      "Perfect and imperfect in the same genus cannot coexist in the same subject."
+    ],
+    "concepts": [
+      "object of faith",
+      "non-apparent things",
+      "perfect and imperfect assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e619"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e783": {
+    "summary": "Rejects the counterexample of substantial and accidental form, which coexist though differing as perfect and imperfect: they are in the subject for different reasons (substantial and accidental being), while assents of faith and science would be for the same inclination; and they differ only as more and less perfect, not simply as perfect and imperfect, whereas the opponents concede assent by science is simply perfect and so voids the imperfect assent of faith.",
+    "claims": [
+      "Substantial and accidental forms differ only as more and less perfect."
+    ],
+    "concepts": [
+      "substantial and accidental form",
+      "perfect and imperfect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e708"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e855": {
+    "summary": "Further: one intellect cannot be inclined to the same object by diverse inclinations of which one is simply perfect. A mobile receives several inclinations to one term only when each is imperfect (a heavy body through substantial form and gravity); the intellect is inclined by several probable reasons or demonstrations only until it reaches the most powerful demonstration aggregating all causes, which voids the others; so science voids faith.",
+    "claims": [
+      "A simply perfect inclination voids other inclinations to the same object.",
+      "The most powerful demonstration voids other demonstrations of the same conclusion."
+    ],
+    "concepts": [
+      "inclination",
+      "demonstratio potissima",
+      "evacuation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e708"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e933": {
+    "summary": "Third: the view inconsistently grants that opinion is incompatible with science by reason of its object yet denies this of faith, though the case is parallel: the believer takes the object as not seen just as the opiner takes it as possibly otherwise, each under a ratio opposed to science's object.",
+    "claims": [
+      "Faith's object is taken under a ratio opposed to science's object."
+    ],
+    "concepts": [
+      "opinion",
+      "object of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e572"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e966": {
+    "summary": "Fourth: holding that faith is voided in heaven only as to enigma would mean it is voided no more than charity, contrary to the Apostle, who says charity never fails but faith will be voided simply.",
+    "claims": [
+      "Faith is voided in heaven simply, unlike charity."
+    ],
+    "concepts": [
+      "evacuation of faith",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e601"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1013": {
+    "summary": "States the author's position: faith and science about the same object have opposed rationes, incompossible in the same subject, confirmed by two further arguments.",
+    "claims": [
+      "Faith and science about the same object are incompossible in the same subject."
+    ],
+    "concepts": [
+      "opposition of faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e619",
+        "gsX5tY-d1e102-d1e708"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1031": {
+    "summary": "First argument: as opinion is to fear (formido), so faith to enigma; opinion includes fear in its intrinsic ratio, being essentially an uncertain habit, whereby it is essentially distinguished from science; likewise faith is essentially an enigmatic, obscure habit, opposed to science as evident and clear, and cannot coexist with it about the same object.",
+    "claims": [
+      "Fear of the opposite is intrinsic to opinion.",
+      "Enigma is intrinsic to faith.",
+      "Faith is essentially distinguished from science as obscure from evident."
+    ],
+    "concepts": [
+      "formido",
+      "opinion",
+      "enigma of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1013"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1087": {
+    "summary": "Second argument: if faith and science coexisted in the same intellect about the same object, the intellect would tend to it through faith either as seen, which is impossible since faith is not a habit of seeing, or as not seen, while through science it tends to it as seen; but seen and not seen cannot hold of the same in the same respect.",
+    "claims": [
+      "Faith is not a habit of seeing."
+    ],
+    "concepts": [
+      "seen and not seen",
+      "faith",
+      "science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1013"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1120": {
+    "summary": "Objection to the first argument: opinion differs from science by its probable middle, not fear; indeed fear is rather opposed to opinion, since as opinion increases fear decreases, and Aristotle says some adhere to opinions as firmly as others to demonstrated conclusions.",
+    "claims": [],
+    "concepts": [
+      "probable middle",
+      "opinion",
+      "firmness of adhesion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1031"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1146": {
+    "summary": "Reply: adhering through a probable middle entails that the adhesion is intrinsically doubtful and fearful. Opinion within its species does not increase without fear; it is said to increase only improperly, as a path toward a habit of another species, science. Those who cling to opinions as to demonstrations use them not as opinions but mistakenly as sciences. So fear is intrinsic to opinion.",
+    "claims": [
+      "Adhering through a probable middle is intrinsically doubtful.",
+      "Opinion increases only as a path to another habit."
+    ],
+    "concepts": [
+      "formido",
+      "opinion",
+      "probable middle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1120"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1216": {
+    "summary": "Further objection: fear and enigma are privations, while opinion and faith are true habits, and privation is not of a habit's intrinsic ratio.",
+    "claims": [],
+    "concepts": [
+      "privation",
+      "habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1031"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1234": {
+    "summary": "Reply: fear and enigma are not privations annexed to habits, else faith could be increased into science and opinion could pass from doubt to certitude, the same opinion being sometimes certain, sometimes doubtful. Rather, fear in opinion is opinion itself as essentially a doubtful habit, as certitude in science is science itself, and so with enigma in faith.",
+    "claims": [
+      "Fear in opinion and enigma in faith are not annexed privations but the habits themselves."
+    ],
+    "concepts": [
+      "formido",
+      "enigma",
+      "essence of a habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1216"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1271": {
+    "summary": "Reply to the opposing view's first argument: the major is false, since many things not opposed cannot coexist in the same subject (two accidents of the same species); the minor is false, as their formal rationes are opposed. The experience is misread: prior authority agrees with later demonstration on the conclusion but not on the mode of concluding; and the perfect assent of science would void faith's imperfect assent.",
+    "claims": [
+      "Two accidents of the same species cannot coexist in one subject.",
+      "Assent by science voids assent by faith about the same object."
+    ],
+    "concepts": [
+      "compossibility",
+      "authority and demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e425"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1322": {
+    "summary": "Reply to the other proof: assent by demonstration voids prior assent by authority about the same proposition; it makes one more ready to believe the speaker on other propositions not yet demonstrated, but excludes all belief regarding what is demonstrated.",
+    "claims": [
+      "Demonstration excludes belief regarding the demonstrated proposition."
+    ],
+    "concepts": [
+      "belief and demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e457"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1351": {
+    "summary": "Reply to the second argument: faith and science are opposed by object, middle, and act; though they may bear on the same object in different persons, they are always truly opposed by the opposed middles they intrinsically include.",
+    "claims": [
+      "Faith and science are opposed by their intrinsic middles."
+    ],
+    "concepts": [
+      "objects, media, acts",
+      "opposition of faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e457"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-Dd1e373": {
+    "summary": "Article 1 holds that faith and science about the same object are opposed and cannot coexist in the same subject. It rejects the view that enigma merely accompanies faith by reason of its matter, so that faith and science are formally compatible (as when a belief held on authority is later demonstrated) and opposed neither by objects, media, nor acts. Against it: enigma is intrinsic to faith, otherwise the light of faith could become clear and the light of glory obscure, and believing and seeing would not differ essentially; faith's object is by nature not seen while science's is apparent; faith and science relate as imperfect and perfect assent, and a simply perfect inclination voids lesser ones to the same object; opinion and faith are parallel in their opposition to science; and faith, unlike charity, is voided in heaven simply. As fear (formido) is intrinsic to opinion, so enigma is intrinsic to faith, not an annexed privation but the habit itself. Demonstration of a proposition excludes belief in it, and faith and science are opposed by their intrinsic middles.",
+    "claims": [
+      "Enigma is intrinsic to the ratio of faith.",
+      "Faith's object is non-apparent; science's is apparent.",
+      "Faith and science about the same object cannot coexist in the same subject.",
+      "Fear of the opposite is intrinsic to opinion as enigma is to faith.",
+      "Demonstration of a proposition excludes belief in it.",
+      "Faith is voided in heaven simply."
+    ],
+    "concepts": [
+      "enigma of faith",
+      "opposition of faith and science",
+      "perfect and imperfect assent",
+      "formido",
+      "light of glory",
+      "evacuation of faith"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-d1e381",
+        "gsX5tY-d1e102-d1e390",
+        "gsX5tY-d1e102-d1e425",
+        "gsX5tY-d1e102-d1e457",
+        "gsX5tY-d1e102-d1e559",
+        "gsX5tY-d1e102-d1e572",
+        "gsX5tY-d1e102-d1e601",
+        "gsX5tY-d1e102-d1e619",
+        "gsX5tY-d1e102-d1e708",
+        "gsX5tY-d1e102-d1e783",
+        "gsX5tY-d1e102-d1e855",
+        "gsX5tY-d1e102-d1e933",
+        "gsX5tY-d1e102-d1e966",
+        "gsX5tY-d1e102-d1e1013",
+        "gsX5tY-d1e102-d1e1031",
+        "gsX5tY-d1e102-d1e1087",
+        "gsX5tY-d1e102-d1e1120",
+        "gsX5tY-d1e102-d1e1146",
+        "gsX5tY-d1e102-d1e1216",
+        "gsX5tY-d1e102-d1e1234",
+        "gsX5tY-d1e102-d1e1271",
+        "gsX5tY-d1e102-d1e1322",
+        "gsX5tY-d1e102-d1e1351"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1391": {
+    "summary": "Heading of the second article: whether, the light of faith remaining, there can be another light in which theological truths are scientifically known.",
+    "claims": [],
+    "concepts": [
+      "light of theology",
+      "light of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e343"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1402": {
+    "summary": "Reports a view answering affirmatively, distinguishing three ordered acts: believing (adhering on authority, as to an astronomer predicting an eclipse), understanding (knowing as under a veil, reaching certainty by syllogistic discourse), and seeing (immediate beholding by the mind's eye). Faith and vision are opposed as contraries at their extremes; faith and scientific understanding are like remitted contraries and can coexist. Since such scientific knowledge cannot be reduced to the obscure light of faith, a further light above faith must be posited, otherwise the theologian would know no more than the simple believer, contrary to Augustine.",
+    "claims": [],
+    "concepts": [
+      "believing, understanding, seeing",
+      "remitted contraries",
+      "light above faith",
+      "simple believer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1391"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1532": {
+    "summary": "First argument of that view: unless such a light were possible with faith, no wayfarer could reach science of credibilia; but Augustine (against Faustus) presumes to reach certain knowledge through the Catholic faith, and Richard of St. Victor, on 'unless you believe you will not understand', says those with trained senses should not despair of understanding while firm in faith.",
+    "claims": [],
+    "concepts": [
+      "understanding of faith",
+      "Richard of St. Victor",
+      "faith seeking understanding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1402"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1581": {
+    "summary": "Second argument: between two most distant extremes, the light of faith and the light of glory, there can be a middle light reached by remitting one extreme while it remains, as dawn emerges from night by remission before full daylight; so the obscurity of faith is remitted in this scientific light and wholly voided in glory.",
+    "claims": [],
+    "concepts": [
+      "middle light",
+      "light of glory",
+      "dawn analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1402"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1629": {
+    "summary": "Adds that this agrees with the doctors, who labored through theology to pass from faith's obscurity to clearer understanding, and with Richard of St. Victor's prologue to De Trinitate, which posits three knowledges, by faith, by understanding or science, and by experience, the middle having its middle light between faith and glory.",
+    "claims": [],
+    "concepts": [
+      "Richard of St. Victor",
+      "faith, understanding, experience",
+      "middle light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1581"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1690": {
+    "summary": "Judges that this view posits three unreasonable things.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1402"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1697": {
+    "summary": "First: that there is a middle light between faith and glory compatible with faith. But an extreme cannot remain with the middle in the same subject, as a middle color excludes an extreme one; and if the middle light were compatible with faith, it would be compatible with glory too, which is false since the light of glory voids every imperfect light.",
+    "claims": [
+      "An extreme cannot coexist with the middle in the same subject.",
+      "The light of glory voids every imperfect light."
+    ],
+    "concepts": [
+      "middle light",
+      "contraries",
+      "light of glory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1690"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1743": {
+    "summary": "Further: is this light acquired or infused? If acquired, it is less noble than faith and cannot give greater clarity; if infused, the Apostle would have named it among the theological virtues, even above faith, and it would be infused at baptism to all, which is false.",
+    "claims": [
+      "An acquired light is less noble than the light of faith."
+    ],
+    "concepts": [
+      "acquired and infused light",
+      "theological virtues",
+      "baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1697"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1780": {
+    "summary": "Second: that there is science of credibilia in this light; but science and faith of the same object conflict, especially on the side of the object, since faith's object is non-apparent and science's demonstrated and apparent.",
+    "claims": [
+      "Faith's object is non-apparent; science's is demonstrated."
+    ],
+    "concepts": [
+      "object of faith",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1690",
+        "gsX5tY-d1e102-d1e708"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1805": {
+    "summary": "Further: faith and science of the same object are subordinated habits, and among subordinated forms the nobler's arrival makes the lesser cede, since the higher contains all perfection of the lower; two forms regarding the same object and receivable in the same subject must be ordered.",
+    "claims": [
+      "Among subordinated forms, the nobler displaces the lesser."
+    ],
+    "concepts": [
+      "subordinated forms",
+      "faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1780"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1838": {
+    "summary": "Further: those with science through this light would not necessarily rely on faith, which is false since every theologian relies on faith; faith's truth cannot be demonstrated, only the defects of contrary reasons; and faith's merit requires that it not be demonstrable, as Gregory says faith has no merit where reason supplies proof.",
+    "claims": [
+      "Every theologian relies on faith.",
+      "The truth of faith cannot be demonstrated.",
+      "The merit of faith requires that it not be demonstrable."
+    ],
+    "concepts": [
+      "merit of faith",
+      "demonstration",
+      "Gregory the Great"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1780",
+        "gsX5tY-d1e91-d1e3551"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1875": {
+    "summary": "Third: that in the light of faith alone no greater knowledge of credibilia can be had than the simple believer's; this is false, since those sharing a light need not know equally what can be known in it, as all share natural light but know unequally, and all the blessed share the light of glory but do not see the beatific object equally.",
+    "claims": [
+      "Those who share a light need not know equally what is knowable in it.",
+      "The blessed do not see God equally."
+    ],
+    "concepts": [
+      "light of faith",
+      "degrees of knowledge",
+      "light of glory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1690"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1912": {
+    "summary": "Adds that such a light is unnecessary even if possible: within the same light of faith theologians know more of credibilia than simple believers through a habit acquired by study, as a natural philosopher knows more than a peasant within the same natural light.",
+    "claims": [
+      "Theologians know more than simple believers through an acquired habit within the light of faith."
+    ],
+    "concepts": [
+      "acquired theological habit",
+      "light of faith",
+      "study"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1875"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1938": {
+    "summary": "Turns to the arguments of the contrary view, which are easily answered.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1402"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1945": {
+    "summary": "Reply to the first argument: remitted contraries cannot coexist as two actually distinct forms, since the middle compared to an extreme has the ratio of the other extreme; they coexist only as virtually and indistinctly contained in one middle form, as white and black in an intermediate color. The opposing view, however, makes faith and science two distinct knowledges, and so errs.",
+    "claims": [
+      "Remitted contraries coexist only virtually in one middle form, not as distinct forms."
+    ],
+    "concepts": [
+      "remitted contraries",
+      "middle form",
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1402"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e1992": {
+    "summary": "Reply to the second: it is not necessary that the theologian know no more than the simple believer without a new light, so the inference is simply denied.",
+    "claims": [],
+    "concepts": [
+      "simple believer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1402",
+        "gsX5tY-d1e102-d1e1912"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2003": {
+    "summary": "Reply to the third: no wayfarer can reach science of credibilia properly so called, a demonstrative habit from self-evident principles; but one can reach a habit greatly resembling science, which proceeds like opinion through probable reasons but assents firmly like science, and proceeds like science in defending the truth. Because of this likeness the doctors speak of it as science without ascribing to it all of Aristotle's conditions.",
+    "claims": [
+      "No wayfarer has science of credibilia properly so called.",
+      "Theology resembles science in firm assent and in defense of truth."
+    ],
+    "concepts": [
+      "theology as science broadly",
+      "probable reasons",
+      "firm assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1532",
+        "gsX5tY-d1e91-d1e3551"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2064": {
+    "summary": "Reply to the last argument: it is false that a middle can be reached between most distant extremes while one remains; the dawn example proves the opposite, since the night's obscurity is truly corrupted, merely seeming not to be because weak dawn light shares in obscurity, as white truly perishes in passing to grey.",
+    "claims": [
+      "In passing to an intermediate, the extreme is truly corrupted."
+    ],
+    "concepts": [
+      "middle light",
+      "dawn analogy",
+      "corruption of contraries"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1581"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2095": {
+    "summary": "Reply to Richard of St. Victor: his 'middle' is explained by the rule given above, and his 'necessary reasons' for theological truths mean not true demonstrations but highly probable reasons, stronger in proving faith than opposing reasons in impugning it.",
+    "claims": [
+      "Richard's necessary reasons are highly probable reasons, not demonstrations."
+    ],
+    "concepts": [
+      "Richard of St. Victor",
+      "necessary reasons",
+      "probable reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e1629"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-Dd1e1383": {
+    "summary": "Article 2 denies that, while faith remains, there is another light in which theological truths are known scientifically. The opposing view, appealing to the order of believing, understanding, and seeing, to Augustine and Richard of St. Victor, and to the image of dawn as a middle light between night and day, posits a light between faith and glory that remits faith's obscurity. The author objects that an extreme cannot coexist with a middle, that such a light would also be compatible with glory, that it would be either acquired and thus inferior to faith or infused and thus a theological virtue given to all at baptism, that science and faith of the same object conflict as subordinated forms, that theologians always rely on faith, whose merit requires indemonstrability, and that those sharing one light need not know equally. Theologians surpass simple believers through a habit acquired by study within the light of faith. Remitted contraries coexist only virtually in one middle form; dawn truly corrupts night; and Richard's 'necessary reasons' are only highly probable ones. Theology is a habit resembling science in firm assent and in defense of faith, not science properly so called.",
+    "claims": [
+      "No light between faith and glory exists that permits scientific knowledge of credibilia.",
+      "An extreme cannot coexist with the middle in the same subject.",
+      "Theologians know more than simple believers through a habit acquired by study.",
+      "No wayfarer has science of credibilia properly so called.",
+      "Richard of St. Victor's necessary reasons are highly probable reasons."
+    ],
+    "concepts": [
+      "middle light",
+      "light of faith",
+      "light of glory",
+      "acquired theological habit",
+      "merit of faith",
+      "Richard of St. Victor",
+      "remitted contraries"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-d1e1391",
+        "gsX5tY-d1e102-d1e1402",
+        "gsX5tY-d1e102-d1e1532",
+        "gsX5tY-d1e102-d1e1581",
+        "gsX5tY-d1e102-d1e1629",
+        "gsX5tY-d1e102-d1e1690",
+        "gsX5tY-d1e102-d1e1697",
+        "gsX5tY-d1e102-d1e1743",
+        "gsX5tY-d1e102-d1e1780",
+        "gsX5tY-d1e102-d1e1805",
+        "gsX5tY-d1e102-d1e1838",
+        "gsX5tY-d1e102-d1e1875",
+        "gsX5tY-d1e102-d1e1912",
+        "gsX5tY-d1e102-d1e1938",
+        "gsX5tY-d1e102-d1e1945",
+        "gsX5tY-d1e102-d1e1992",
+        "gsX5tY-d1e102-d1e2003",
+        "gsX5tY-d1e102-d1e2064",
+        "gsX5tY-d1e102-d1e2095"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2128": {
+    "summary": "Heading of the third article: whether God can give the wayfarer abstractive knowledge of the divine essence that coexists with faith.",
+    "claims": [],
+    "concepts": [
+      "abstractive knowledge",
+      "divine essence",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e343"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2139": {
+    "summary": "Reports that some answer affirmatively, and first sets out what they mean by abstractive and intuitive cognition, which seem opposed.",
+    "claims": [],
+    "concepts": [
+      "intuitive and abstractive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2128"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2152": {
+    "summary": "Their definitions: intuitive cognition is of a thing in its actuality and presence; abstractive cognition is of a thing's quiddity abstracting from its actuality and presence, as sight is always intuitive and imagination abstractive, regarding the absent.",
+    "claims": [],
+    "concepts": [
+      "intuitive cognition",
+      "abstractive cognition",
+      "presence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2139"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2188": {
+    "summary": "Their thesis: God could communicate to a wayfarer abstractive knowledge of his essence, by which the wayfarer could know all theological truths scientifically.",
+    "claims": [],
+    "concepts": [
+      "abstractive knowledge of God",
+      "scientific theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2152"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2201": {
+    "summary": "Identifies two conclusions in their thesis, the first being that God can communicate abstractive knowledge of the divine essence to a wayfarer, proved in two ways.",
+    "claims": [],
+    "concepts": [
+      "abstractive knowledge of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2188"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2214": {
+    "summary": "First proof: whatever God does immediately ad extra through his essence he can do by his will alone; God causes knowledge of his essence immediately through it when present as object, so he can cause knowledge of it as absent by will alone, which would be abstractive; the divine will is the principal cause of all motion ad extra and can supply for other causes.",
+    "claims": [],
+    "concepts": [
+      "divine will",
+      "divine essence as object",
+      "supplying secondary causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2201"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2243": {
+    "summary": "Confirmation: our will causes assent to matters of faith, yet God could cause assent to them by his will alone without ours, and such assent would be from the evidence of the thing, which requires abstractive knowledge.",
+    "claims": [],
+    "concepts": [
+      "assent",
+      "divine will",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2214"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2263": {
+    "summary": "Second proof: God can communicate any knowledge not drawing the wayfarer out of the wayfaring state; abstractive knowledge does not, since only intuitive knowledge quiets, beatifies, and removes one from that state.",
+    "claims": [],
+    "concepts": [
+      "wayfaring state",
+      "beatific vision",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2201"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2285": {
+    "summary": "Their second conclusion: a wayfarer given this knowledge could know theological truths scientifically.",
+    "claims": [],
+    "concepts": [
+      "scientific theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2188"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2295": {
+    "summary": "Proof: whoever knows a subject under its proper quidditative ratio knows all truths about it, since knowing the quiddity one knows predicates immediately belonging to it, forming immediate propositions from which all demonstrable conclusions follow; abstractive knowledge of the divine essence is quidditative.",
+    "claims": [],
+    "concepts": [
+      "quidditative knowledge",
+      "immediate propositions",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2285"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2334": {
+    "summary": "Reports that some attack this view in two ways.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2188"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2341": {
+    "summary": "First attack: intuitive cognition can exist without the thing's presence, as after-images of the sun persist when eyes close (Augustine) and in dreams we see and sense without external objects (Averroes); if so in sense, much more in the intellect, which is more abstract.",
+    "claims": [],
+    "concepts": [
+      "after-images",
+      "dreams",
+      "intuitive cognition without presence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2334"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2394": {
+    "summary": "Second attack: God can preserve an absolute thing when the term of its relation is destroyed, and intuitive cognition is absolute founding a relation to its object, so God could preserve it without the object; and God can do more than art and nature, which make things seen without presence (conjuring, colors). Such delusions are still true visions, since any act of sight is a vision, and true and false do not diversify species of cognition. So presence should not enter the definition.",
+    "claims": [],
+    "concepts": [
+      "absolute and relative",
+      "divine power",
+      "illusions",
+      "truth and falsity of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2334"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2446": {
+    "summary": "Third: abstractive cognition is badly defined as abstracting from presence, since an astronomer at home knows the eclipse abstractively while it occurs. The distinction should come from the mode of cognition, which is a formal apprehension by which a thing appears in cognized being: intuitive when it appears actually and presently in cognized being, whether or not really present; abstractive when it appears as absent, even if really present.",
+    "claims": [],
+    "concepts": [
+      "cognized being",
+      "esse apparens",
+      "mode of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2334"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2509": {
+    "summary": "Judges this attack off the mark. First, it implies that the same cognition is intuitive and not intuitive, cognition and not cognition: with no external object, nothing is intuited; 'intuited in cognized being' fails, since cognized being is either the cognition itself (making it reflexive) or a relation, which is excluded for an absolute object.",
+    "claims": [
+      "A cognition by which nothing is intuited is not intuitive."
+    ],
+    "concepts": [
+      "cognized being",
+      "reflexive act",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2394",
+        "gsX5tY-d1e102-d1e2446"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2565": {
+    "summary": "Further: external things would not be known nor scientifically known, contrary to Aristotle and Averroes against Plato's separate quiddities; if intuitive cognition can be without a real object and cognized being is separate from real being, things would be known only in apparent being, as Aristotle argued that nothing is known formally through what is separate from it.",
+    "claims": [
+      "Nothing is known formally through what is separate from it."
+    ],
+    "concepts": [
+      "Platonic separate forms",
+      "apparent being",
+      "knowledge of external things"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2509"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2626": {
+    "summary": "Moreover our science would concern appearances, not things. Aristotle placed science of things through universal intentions, but did not separate them really from external things (else he would fall into Plato's view); so cognized being should not be separated from real being.",
+    "claims": [
+      "Universal intentions are not really separate from things."
+    ],
+    "concepts": [
+      "science of things",
+      "universals",
+      "apparent being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2565"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2663": {
+    "summary": "Further: there would be something measured without its proper measure, since science is measured by things (Metaphysics V, X), yet they posit science without an external thing; this would make the measured no more dependent on the measure than the converse, contrary to Aristotle's account of relatives.",
+    "claims": [
+      "Science is measured by things.",
+      "The measured depends really on the measure, not conversely."
+    ],
+    "concepts": [
+      "measure and measured",
+      "relatives"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2626"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2694": {
+    "summary": "Against the second attack: it is false that God can preserve an absolute when its relation and term are destroyed; by parity a creature, absolute and depending effectively on the creator, could be preserved without its relation to God, which is impossible.",
+    "claims": [
+      "God cannot preserve a creature without its relation to God."
+    ],
+    "concepts": [
+      "dependence on God",
+      "absolute and relative"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2394"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2738": {
+    "summary": "Further: a relation can be removed while the foundation remains only if it is not included in the foundation's substance; but the relation of the measured to the measure (third mode of relatives) is included in the substance of the measured, since each being is ordered in its genus through its essence by attaining the first of its genus, which is its measure.",
+    "claims": [
+      "The relation of measured to measure is essential to the measured.",
+      "Each being is ordered in its genus by its essence."
+    ],
+    "concepts": [
+      "third mode of relatives",
+      "measure",
+      "predicamental order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2694"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2790": {
+    "summary": "Further proof: if the relation to measure were not intrinsic, the measured would have complete being before ordination to its measure and could be fully known without it; but the measure causes the ordination of what falls under the category, and nothing has complete being without being ordered in its genus.",
+    "claims": [
+      "The measure causes the ordering of things in a category."
+    ],
+    "concepts": [
+      "measure",
+      "complete being",
+      "categories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2738"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2837": {
+    "summary": "Concludes that such a relation is essential to its foundation and cannot be removed without contradiction, especially for cognition, which takes its species and distinction from its object.",
+    "claims": [
+      "The relation of cognition to its object is essential to it.",
+      "Cognition takes its species from its object."
+    ],
+    "concepts": [
+      "specification by object",
+      "essential relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2790"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2859": {
+    "summary": "Raises a doubt: if a relation is essential to its foundation, the quiddity of the absolute and relative thing would be the same, removing the distinction of categories.",
+    "claims": [],
+    "concepts": [
+      "categories",
+      "relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2837"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2879": {
+    "summary": "Reply: such a relation is in the same genus as its foundation, a relation secundum dici, not secundum esse, a mode of relation within the genus of the absolute thing; so the quiddities are not identical. The cognition's relation to its object is not accidental, and even if it were, it would be like a property, which cannot clearly be removed while the subject remains.",
+    "claims": [
+      "The relation of cognition to object is a relation secundum dici, not secundum esse."
+    ],
+    "concepts": [
+      "relatio secundum dici",
+      "relatio secundum esse",
+      "properties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2859"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2914": {
+    "summary": "Against the third attack: true and false do diversify the species of cognition, since cognition is specified by its object at least as terminating; in delusion the object is removed, so either no cognition remains or not one of the same species. True and false are to cognition as virtue and vice to morals, and they place the intellect under opposed dispositions.",
+    "claims": [
+      "Truth and falsity diversify the species of cognition."
+    ],
+    "concepts": [
+      "truth and falsity",
+      "specification by object",
+      "virtue and vice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2394"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e2956": {
+    "summary": "Confirmation: if true and false did not diversify cognition, it would be indifferent to them either as a genus to differences (then it would be divided into species) or as a subject to accidents (then truth would be accidental and a cognition could be conceived as false while remaining the same, but scientific cognition cannot be conceived false).",
+    "claims": [
+      "Scientific cognition cannot be conceived as false."
+    ],
+    "concepts": [
+      "genus and difference",
+      "subject and accident",
+      "truth of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2914"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3006": {
+    "summary": "Against the fourth claim, their definitions fail: they cannot ground the distinction of intuitive and abstractive in object, subject, the cognitions themselves, or modes of appearing without regress; they cannot explain how cognition constitutes the object in apparent being (not formally, nor efficiently, since speculative cognition effects nothing and the measured would constitute its measure); and they cannot secure certitude, since we could never be sure a thing is as it appears.",
+    "claims": [
+      "Defining cognition as formal appearance undermines certitude."
+    ],
+    "concepts": [
+      "apparent being",
+      "certitude",
+      "speculative cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2446"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3064": {
+    "summary": "Reply to their reasons: the object is required differently in different cognitions, necessary in science, contingent in opinion; true cognition requires a real, true object, false and fictive cognition an apparent, feigned one.",
+    "claims": [
+      "Different kinds of cognition require different kinds of objects."
+    ],
+    "concepts": [
+      "object of cognition",
+      "fictive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2341",
+        "gsX5tY-d1e102-d1e2394"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3084": {
+    "summary": "Reply to Augustine: in the same chapter he says there is no vision without a visible thing, and the sun example shows that sensing leaves an impression strong enough to remain after the sensible is removed, which then is no vision or only equivocally. Conjurings are only fictive visions, arising from different causes; apparent cognition has an apparent object, conjurers always using some material for their appearances.",
+    "claims": [
+      "There is no true vision without a visible thing.",
+      "After-images are visions only equivocally."
+    ],
+    "concepts": [
+      "Augustine",
+      "after-images",
+      "illusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2341"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3135": {
+    "summary": "Reports others attacking the opinion's main motive, that God can do by will alone what he does through his essence: this seems to make the essence cause vision by natural necessity, whereas divine action ad extra is free; what belongs to God naturally cannot be subject to his free will; and the argument would equally show God could cause intuitive cognition by will alone.",
+    "claims": [],
+    "concepts": [
+      "divine freedom",
+      "natural necessity",
+      "intuitive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2214"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3190": {
+    "summary": "They also argue that abstractive cognition of God is impossible: a cognition preceded by no other cannot be abstractive, since abstractive cognition is derived from another; knowledge of God's quiddity is first, since God's quiddity shines in nothing else from which it could be abstracted, and prior knowledge of God's being would be intuitive.",
+    "claims": [],
+    "concepts": [
+      "first cognition",
+      "abstractive cognition",
+      "quiddity of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3135"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3240": {
+    "summary": "Further: whoever knows what a thing is knows whether it is, and so of an existing thing has intuitive cognition; God necessarily exists, so knowing his quiddity entails intuitive cognition.",
+    "claims": [],
+    "concepts": [
+      "quid est and an est",
+      "intuitive cognition",
+      "divine existence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3190"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3266": {
+    "summary": "Further: one knowing God's quiddity knows it as actually existing (intuitive) or as possible (false, since God necessarily exists and cannot be scientifically known otherwise); otherwise one would have only a nominal definition.",
+    "claims": [],
+    "concepts": [
+      "actual and possible existence",
+      "nominal definition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3240"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3287": {
+    "summary": "Judges this attack insufficient: the divine essence moves the intellect to vision only as determined by the divine will, so the motion is free by reason of the will; the principle that God can do by will alone what he does through his essence concerns the substance of the act, not its mode, and intuitive and abstractive cognition differ in mode.",
+    "claims": [
+      "The essence moves the intellect to vision only as determined by the divine will."
+    ],
+    "concepts": [
+      "divine freedom",
+      "substance and mode of an act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3135"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3337": {
+    "summary": "Reply to their argument: a first cognition is not abstractive if caused immediately by its object, but if caused by something else, like the will, it is not intuitive even though first.",
+    "claims": [],
+    "concepts": [
+      "first cognition",
+      "cause of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3190"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3357": {
+    "summary": "Reply to the second and third: even granting them, the conclusion does not follow, since we can know of a rose that it is, what it is, and that it actually exists, without intuitive cognition of it.",
+    "claims": [
+      "Knowing that and what a thing is does not entail intuitive cognition of it."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "quid est and an est"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3240",
+        "gsX5tY-d1e102-d1e3266"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3377": {
+    "summary": "States the author's view that the opinion fails both in itself and in its fundamental reason.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e2188"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3386": {
+    "summary": "First proof that it fails in itself: all abstractive cognition of a quiddity occurs through a virtual or rational precision and separation; in this life the intellect knows no quiddity intuitively, but always abstracts, prescinding natural things from individual conditions, mathematical from sensible matter, metaphysical from all sensible and intelligible matter to which they are joined at least virtually. The divine essence is joined to nothing extraneous really or virtually; the opponents themselves, arguing for univocal being, say created being does not virtually contain knowledge of uncreated being. So knowledge of God's quiddity cannot be abstractive.",
+    "claims": [
+      "All abstractive cognition proceeds by precision from something extraneous.",
+      "In this life the intellect knows no quiddity intuitively.",
+      "The divine essence is joined to nothing extraneous really or virtually.",
+      "Knowledge of God's quiddity is not virtually contained in anything else."
+    ],
+    "concepts": [
+      "precision",
+      "abstraction",
+      "degrees of abstraction",
+      "univocity of being",
+      "divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3377"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3497": {
+    "summary": "Second proof: such abstractive knowledge would be in natural light (but then faith would be inferior to it), in the light of faith (but it is higher than faith and science cannot coexist with faith), in the light of glory (which removes the wayfaring state), or in a middle light (which does not exist).",
+    "claims": [
+      "Abstractive knowledge of God fits no available light."
+    ],
+    "concepts": [
+      "natural light",
+      "light of faith",
+      "light of glory",
+      "middle light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3377",
+        "gsX5tY-d1e102-d1e1697"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3531": {
+    "summary": "Confirmation: without a distinct light the opinion cannot ground the distinction between intuitive and abstractive knowledge, since they concern the same object in the same subject and a difference in mode of attaining requires a cause, especially when one could attain all the other does.",
+    "claims": [],
+    "concepts": [
+      "intuitive and abstractive cognition",
+      "mode of attainment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3497"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3570": {
+    "summary": "Second, it fails in its fundamental reason: it supposes the essence has the ratio of mover in vision, which is false since every act from the essence as such is natural; and even granted, the essence has the ratio of object more as terminating than as moving, and the will can supply its moving role but not its terminating role.",
+    "claims": [
+      "Every act from the divine essence as such is natural.",
+      "The will can supply the object's moving role but not its terminating role."
+    ],
+    "concepts": [
+      "object as mover and terminus",
+      "divine will",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3377",
+        "gsX5tY-d1e91-d1e3247"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3609": {
+    "summary": "Offers a new distinction: intuitive cognition terminates at a thing without prescinding or abstracting it from anything extraneous to which it is really or virtually joined; abstractive cognition does prescind or abstract it. This explains why abstractive cognition does not reach a thing as present: either it separates the thing from conditions really joined to it (material quiddities from material conditions), or it reaches the thing not in itself but through something extraneous in which its cognition is virtually contained.",
+    "claims": [
+      "Intuitive cognition does not prescind its object from what it is joined to; abstractive cognition does.",
+      "Abstractive cognition fails to reach the thing as present by separation or by mediation."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "abstractive cognition",
+      "precision",
+      "mediation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3386"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3692": {
+    "summary": "Illustrates: the interior senses are abstractive, since though they do not separate a thing from its conditions, they reach it only through exterior sensation, and are certain of existence only while the exterior senses are; sight is intuitive, neither separating nor mediating, and ceases when its object is removed.",
+    "claims": [
+      "The interior senses know abstractively through exterior sensation.",
+      "Sight is intuitive."
+    ],
+    "concepts": [
+      "interior senses",
+      "exterior senses",
+      "certainty of existence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3609"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3751": {
+    "summary": "Concludes that since God can be abstracted in neither way, being joined to nothing extraneous and his quiddity being virtually contained in nothing else, no wayfarer can receive abstractive knowledge of the divine essence. Adds a third kind of cognition, deductive, with a formally distinct object: from something first known the intellect moves to something known secondarily (as from effect to cause); sight passes from one known to another; God knowing his essence intuitively knows others quasi-deductively; and our knowledge of God's unity is deductive, terminating in created effects. But even this cannot give the wayfarer scientific quidditative knowledge of the divine essence.",
+    "claims": [
+      "No wayfarer can receive abstractive knowledge of the divine essence.",
+      "There is a third, deductive kind of cognition.",
+      "Our knowledge of God's unity is deductive from created effects.",
+      "Deductive cognition cannot give quidditative science of the divine essence."
+    ],
+    "concepts": [
+      "deductive cognition",
+      "knowledge of God from effects",
+      "abstractive knowledge of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e3609",
+        "gsX5tY-d1e102-d1e3386"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3840": {
+    "summary": "Replies to the principal arguments. First: the minor is false, since faith's enigma and science's evidence are opposed; they bear on the same object under diverse, opposed rationes. Second: no middle light is possible; Augustine's 'mountains' signify theology, which may be called a light insofar as it declares matters of faith.",
+    "claims": [
+      "Faith and science bear on the same object only under opposed rationes.",
+      "Theology may be called a light insofar as it declares matters of faith."
+    ],
+    "concepts": [
+      "opposition of faith and science",
+      "light of wisdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e137",
+        "gsX5tY-d1e102-d1e166"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-d1e3883": {
+    "summary": "Reply to the third: Paul had no memory restoring an express knowledge of the divine essence, which exceeded memory's capacity and could not be kept by any species; he remembered only confusedly and generally that he had seen the divine essence, as Nebuchadnezzar remembered not his dream but that he had dreamed.",
+    "claims": [
+      "Paul retained only a confused memory of having seen the divine essence."
+    ],
+    "concepts": [
+      "rapture of Paul",
+      "memory",
+      "species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e102-d1e223"
+      ]
+    }
+  },
+  "gsX5tY-d1e102-Dd1e2120": {
+    "summary": "Article 3 denies that God can give the wayfarer abstractive knowledge of the divine essence compatible with faith. The opposing view defines intuitive cognition by the thing's presence and abstractive by abstraction from presence, and argues that God can cause by will alone what his essence causes as object, that abstractive knowledge does not remove the wayfaring state, and that quidditative knowledge would make all theological truths scientifically knowable. The author first rejects an attack on this view that allowed intuitive cognition without a real object and defined cognition as appearance in cognized being: this would make intuition intuit nothing, make knowledge of things knowledge of appearances, sever the measured from its measure, and undermine certitude. He argues that a cognition's relation to its object is essential (a relation secundum dici), that God cannot preserve such a relation's foundation without its term, and that truth and falsity diversify the species of cognition. He also finds a second attack insufficient. His own refutation: all abstractive knowledge proceeds by precision from something extraneous, yet the divine essence is joined to nothing really or virtually; no available light could host such knowledge; and the will can supply the object's moving but not its terminating role. He redefines intuitive cognition as reaching a thing without prescinding it from anything joined to it, abstractive as reaching it by such separation or mediation, adds a third, deductive cognition by which we know God from effects, and concludes that no wayfarer can have abstractive or scientific quidditative knowledge of God. The replies to the principal arguments follow: faith and science bear on the same truth under opposed rationes, the 'light' of the wise is theology itself, and Paul retained only a confused memory of his vision.",
+    "claims": [
+      "The relation of cognition to its object is essential to the cognition.",
+      "Truth and falsity diversify the species of cognition.",
+      "Intuitive cognition reaches a thing without prescinding it; abstractive cognition prescinds or mediates.",
+      "The divine essence cannot be known abstractively, being joined to nothing extraneous really or virtually.",
+      "No wayfarer can receive abstractive knowledge of the divine essence.",
+      "There is a third, deductive kind of cognition, by which we know God from effects.",
+      "Paul retained only a confused memory of seeing the divine essence."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "abstractive cognition",
+      "deductive cognition",
+      "cognized being",
+      "essential relation",
+      "precision",
+      "divine essence",
+      "rapture of Paul"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-d1e2128",
+        "gsX5tY-d1e102-d1e2139",
+        "gsX5tY-d1e102-d1e2152",
+        "gsX5tY-d1e102-d1e2188",
+        "gsX5tY-d1e102-d1e2201",
+        "gsX5tY-d1e102-d1e2214",
+        "gsX5tY-d1e102-d1e2243",
+        "gsX5tY-d1e102-d1e2263",
+        "gsX5tY-d1e102-d1e2285",
+        "gsX5tY-d1e102-d1e2295",
+        "gsX5tY-d1e102-d1e2334",
+        "gsX5tY-d1e102-d1e2341",
+        "gsX5tY-d1e102-d1e2394",
+        "gsX5tY-d1e102-d1e2446",
+        "gsX5tY-d1e102-d1e2509",
+        "gsX5tY-d1e102-d1e2565",
+        "gsX5tY-d1e102-d1e2626",
+        "gsX5tY-d1e102-d1e2663",
+        "gsX5tY-d1e102-d1e2694",
+        "gsX5tY-d1e102-d1e2738",
+        "gsX5tY-d1e102-d1e2790",
+        "gsX5tY-d1e102-d1e2837",
+        "gsX5tY-d1e102-d1e2859",
+        "gsX5tY-d1e102-d1e2879",
+        "gsX5tY-d1e102-d1e2914",
+        "gsX5tY-d1e102-d1e2956",
+        "gsX5tY-d1e102-d1e3006",
+        "gsX5tY-d1e102-d1e3064",
+        "gsX5tY-d1e102-d1e3084",
+        "gsX5tY-d1e102-d1e3135",
+        "gsX5tY-d1e102-d1e3190",
+        "gsX5tY-d1e102-d1e3240",
+        "gsX5tY-d1e102-d1e3266",
+        "gsX5tY-d1e102-d1e3287",
+        "gsX5tY-d1e102-d1e3337",
+        "gsX5tY-d1e102-d1e3357",
+        "gsX5tY-d1e102-d1e3377",
+        "gsX5tY-d1e102-d1e3386",
+        "gsX5tY-d1e102-d1e3497",
+        "gsX5tY-d1e102-d1e3531",
+        "gsX5tY-d1e102-d1e3570",
+        "gsX5tY-d1e102-d1e3609",
+        "gsX5tY-d1e102-d1e3692",
+        "gsX5tY-d1e102-d1e3751",
+        "gsX5tY-d1e102-d1e3840",
+        "gsX5tY-d1e102-d1e3883"
+      ]
+    }
+  },
+  "gsX5tY-d1e102": {
+    "summary": "The fourth question of the prologue asks whether theological knowledge can combine the enigma of faith with the evidence of science. Article 1 argues that enigma is intrinsic to faith, as fear is to opinion, so that faith and science about the same object are opposed in object, middle, and act and cannot coexist in one subject; demonstration excludes belief, and faith is voided in heaven. Article 2 rejects a middle light between faith and glory in which the wayfarer could know credibilia scientifically: such a light could not coexist with either extreme and is neither a plausible acquired nor infused habit; theologians exceed simple believers by a habit acquired through study within faith, a habit resembling science but not science properly so called. Article 3 rejects the claim that God could give the wayfarer abstractive knowledge of his essence: after criticizing accounts of intuitive cognition without real objects, the author defines intuitive and abstractive cognition by the absence or presence of precision from something extraneous and shows that the divine essence, joined to nothing, admits no abstraction; our natural knowledge of God is deductive from effects. Hence theological knowledge does not combine faith's enigma with science's evidence.",
+    "claims": [
+      "Faith and science about the same object cannot coexist in the same subject.",
+      "There is no middle light between faith and glory for scientific knowledge of credibilia.",
+      "No wayfarer can have abstractive knowledge of the divine essence.",
+      "Theological knowledge in this life does not combine the enigma of faith with the evidence of science."
+    ],
+    "concepts": [
+      "enigma of faith",
+      "evidence of science",
+      "light of faith",
+      "light of glory",
+      "intuitive and abstractive cognition",
+      "deductive cognition",
+      "acquired theological habit"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e102-Dd1e115",
+        "gsX5tY-d1e102-Dd1e132",
+        "gsX5tY-d1e102-Dd1e322",
+        "gsX5tY-d1e102-Dd1e373",
+        "gsX5tY-d1e102-Dd1e1383",
+        "gsX5tY-d1e102-Dd1e2120"
+      ]
+    }
+  }
+}

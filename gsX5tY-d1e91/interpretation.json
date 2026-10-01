@@ -1,0 +1,2205 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "7247fd15520fe46af79694fffa31226b54cf0bde",
+    "generation_method": "hierarchical"
+  },
+  "gsX5tY-d1e91-d1e120": {
+    "summary": "Statement of the third question of the prologue: whether knowledge of theological truth has as much certitude as the humanly discovered sciences.",
+    "claims": [],
+    "concepts": [
+      "certitude",
+      "theology",
+      "human sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-Dd1e115"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e115": {
+    "summary": "Statement of the third question of the prologue: whether knowledge of theological truth has as much certitude as the humanly discovered sciences.",
+    "claims": [],
+    "concepts": [
+      "certitude",
+      "theology",
+      "human sciences"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e137": {
+    "summary": "First argument for the negative: knowledge in any science is certain because it has certain principles from which truth is deduced; theology has none, since the most likely candidates, the articles of faith, are not its principles, as theology proceeds to explain them, nearly its whole course being ordered to their declaration.",
+    "claims": [
+      "Certitude in a science derives from its certain principles."
+    ],
+    "concepts": [
+      "principles of theology",
+      "articles of faith",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e174": {
+    "summary": "Second argument for the negative: if theology were as certain as human sciences, its certitude would not depend on a superior subalternating science, as many sciences are self-sufficient in certitude; but theology's whole certitude is founded on faith, which depends on God's knowledge.",
+    "claims": [
+      "Theology's certitude is founded on faith, which depends on God's knowledge."
+    ],
+    "concepts": [
+      "subalternation",
+      "faith",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e207": {
+    "summary": "Third argument for the negative: if theology had the certitude of human sciences, it would add something to the certitude of faith and so have firmer adhesion than faith; but theology is founded on faith and cannot have firmer adhesion than it.",
+    "claims": [
+      "The certitude of theology cannot exceed that of faith, on which it is founded."
+    ],
+    "concepts": [
+      "adhesion",
+      "certitude of faith",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e244": {
+    "summary": "First argument for the affirmative: whatever nobility is in other sciences should be posited in this one, and certitude of cognition confers nobility on sciences, as De anima I shows.",
+    "claims": [
+      "Certitude confers nobility on a science."
+    ],
+    "concepts": [
+      "nobility of science",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e261": {
+    "summary": "Second argument for the affirmative: Aristotle says the sciences of first things are most certain; theology concerns the first being.",
+    "claims": [
+      "The science of first things is most certain."
+    ],
+    "concepts": [
+      "first being",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e244"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e132": {
+    "summary": "Principal arguments. Against theology's equal certitude: it lacks certain principles, since the articles of faith, which it explains, cannot be its principles; its certitude depends on faith and thus on God's knowledge as on a subalternating science; and its certitude cannot exceed faith's adhesion. For it: whatever nobility other sciences have, including certitude, belongs to theology, and the science of first things is most certain.",
+    "claims": [],
+    "concepts": [
+      "principles of theology",
+      "subalternation",
+      "adhesion of faith",
+      "certitude",
+      "nobility of science"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e137",
+        "gsX5tY-d1e91-d1e174",
+        "gsX5tY-d1e91-d1e207",
+        "gsX5tY-d1e91-d1e244",
+        "gsX5tY-d1e91-d1e261"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e279": {
+    "summary": "Opens the response by announcing four points to be examined.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e286",
+        "gsX5tY-d1e91-d1e293",
+        "gsX5tY-d1e91-d1e302",
+        "gsX5tY-d1e91-d1e312"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e286": {
+    "summary": "First article: whether the articles of faith are the principles of theology, as the first argument raises.",
+    "claims": [],
+    "concepts": [
+      "articles of faith",
+      "principles of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e137"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e293": {
+    "summary": "Second article: whether the certitude of theological truth depends on a higher science as subalternating, as the second argument raises.",
+    "claims": [],
+    "concepts": [
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e174"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e302": {
+    "summary": "Third article: whether the certitude of theology makes the adhesion of faith firmer, as the third argument raises.",
+    "claims": [],
+    "concepts": [
+      "adhesion of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e207"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e312": {
+    "summary": "Fourth article: whether theology has as much certitude as the humanly discovered sciences, the principal question.",
+    "claims": [],
+    "concepts": [
+      "certitude",
+      "human sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e120"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e274": {
+    "summary": "Divides the response into four articles: whether the articles of faith are theology's principles; whether theology's certitude depends on a subalternating science; whether its certitude makes faith's adhesion firmer; and whether it has the certitude of the human sciences.",
+    "claims": [],
+    "concepts": [
+      "articles of faith",
+      "subalternation",
+      "adhesion",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e279",
+        "gsX5tY-d1e91-d1e286",
+        "gsX5tY-d1e91-d1e293",
+        "gsX5tY-d1e91-d1e302",
+        "gsX5tY-d1e91-d1e312"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e330": {
+    "summary": "Heading of the first article: whether the articles of faith are the principles of theology.",
+    "claims": [],
+    "concepts": [
+      "articles of faith",
+      "principles of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e286"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e339": {
+    "summary": "Reports that some answer negatively, proving in two ways that the articles of faith are not the principles of theology.",
+    "claims": [],
+    "concepts": [
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e330"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e355": {
+    "summary": "First argument of the negative view: what a science inquires into and proves is not its principle; theologians, including the saints, raise questions and doubts about the articles and try to prove them, as Augustine does for the Trinity in De Trinitate and against Faustus for the virgin birth and the Spirit's speaking through the prophets, and modern doctors do likewise.",
+    "claims": [],
+    "concepts": [
+      "principles of a science",
+      "proof of the articles",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e339"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e400": {
+    "summary": "Second argument: no science is ordered to defending its principles, but theology is ordered to defending the articles, since Augustine (De Trinitate I) attributes to it only what nourishes, defends, and strengthens the most saving faith.",
+    "claims": [],
+    "concepts": [
+      "defense of faith",
+      "principles of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e355"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e433": {
+    "summary": "Declares that this view departs entirely from the truth and announces four arguments for the opposite conclusion.",
+    "claims": [
+      "The articles of faith are the principles of theology."
+    ],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e339"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e442": {
+    "summary": "First argument: propositions formed about a science's subject that cannot be proved a priori by other propositions are its principles; the articles (God is triune, one, omnipotent) are such. Every proposition about a subject belongs to its science either as principle or as conclusion, and the articles cannot be deduced as conclusions; a posteriori proof does not suffice, else the principles of any science could be called conclusions.",
+    "claims": [
+      "Propositions about a science's subject that cannot be proved a priori are its principles.",
+      "The articles of faith cannot be deduced a priori."
+    ],
+    "concepts": [
+      "principles",
+      "a priori proof",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e433"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e488": {
+    "summary": "Second argument: principles are what include all truths belonging to a science and exclude all that do not; per Augustine's statement that theology concerns only what serves the most saving faith, truths foreign to the articles do not belong to theology and all truths reducible to them do.",
+    "claims": [
+      "All truths reducible to the articles of faith belong to theology."
+    ],
+    "concepts": [
+      "scope of theology",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e433",
+        "gsX5tY-d1e91-d1e400"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e525": {
+    "summary": "Third argument: what regulates and measures a science's whole consideration is its principle; theology's whole procedure is founded on the truth of the articles as rule and measure, a theological discourse being judged true when it agrees with the articles and erroneous when it disagrees.",
+    "claims": [
+      "The articles of faith are the rule and measure of theological discourse."
+    ],
+    "concepts": [
+      "rule and measure",
+      "articles of faith",
+      "theological reasoning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e433"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e558": {
+    "summary": "Fourth argument: that to which the ultimate resolution of a science's consideration stops is its principle; in theology the only such terminus is the articles of faith.",
+    "claims": [
+      "Theological consideration is ultimately resolved into the articles of faith."
+    ],
+    "concepts": [
+      "resolution",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e433"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e581": {
+    "summary": "Clarifies the kind of principle at issue: principles that are causes of the truth of all propositions in a science. Following Aristotle, there are three kinds: axioms (dignitates), suppositions, and postulates (petitiones); axioms are principles most properly, since all truths are resolved into them.",
+    "claims": [
+      "Axioms are principles most properly, since all truths of a science are resolved into them."
+    ],
+    "concepts": [
+      "axioms",
+      "suppositions",
+      "postulates",
+      "Posterior Analytics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e558"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e618": {
+    "summary": "Distinguishes them: axioms need no external truth for their evidence, being self-evident; a supposition can be demonstrated in some science but is accepted by the learner without demonstration as already proved; a postulate is contrary to the learner's opinion and so its concession is asked before proceeding.",
+    "claims": [],
+    "concepts": [
+      "axioms",
+      "suppositions",
+      "postulates",
+      "self-evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e581"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e653": {
+    "summary": "Holds that the articles of faith are principles in some way as axioms and in some way as suppositions, but not as postulates.",
+    "claims": [
+      "The articles of faith are principles partly as axioms and partly as suppositions, not as postulates."
+    ],
+    "concepts": [
+      "articles of faith",
+      "axioms",
+      "suppositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e618"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e664": {
+    "summary": "Proves that the articles are like axioms: an axiom is intelligible through itself without demonstration, as a lucid visible needs only sight. The articles are such in themselves; that we do not understand them comes from us, not them, just as a science's principles are not understood by all yet are per se intelligible, and the articles are understood by those who have theology perfectly, the blessed. Moreover theology uses them to measure and regulate its whole consideration, as human sciences use axioms, so they are principles by reason of use.",
+    "claims": [
+      "The articles of faith are intelligible through themselves.",
+      "The blessed understand the articles of faith.",
+      "Theology uses the articles as human sciences use axioms."
+    ],
+    "concepts": [
+      "axioms",
+      "per se intelligibility",
+      "beatific knowledge",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e653"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e736": {
+    "summary": "Proves that the articles resemble suppositions: as suppositions have evidence not from the science in which they are supposed but from a higher science, so the articles have evidence not from our theology but from the higher theology of God and the blessed. Hence, though our theology is not properly subalternated to theirs, there is some likeness of subalternation.",
+    "claims": [
+      "The articles have their evidence from the theology of God and the blessed.",
+      "Our theology is not properly subalternated but bears a likeness of subalternation."
+    ],
+    "concepts": [
+      "suppositions",
+      "subalternation",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e653"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e769": {
+    "summary": "Shows that the articles are not postulates: a postulate is contrary to the learner's opinion, but the articles are not contrary to one learning theology, else the science could not be learned, since they cannot be proved; so they must be supposed as known per se and true principles.",
+    "claims": [
+      "The articles of faith are not contrary to the learner of theology."
+    ],
+    "concepts": [
+      "postulates",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e653"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e799": {
+    "summary": "Announces replies to the arguments of the opposing view.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e355",
+        "gsX5tY-d1e91-d1e400"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e806": {
+    "summary": "Reply to the first argument: a science does not inquire into its principles in the sense of doubting their truth, and neither does theology. But it may inquire into the mode of apprehending their truth in particular, which can be done well or badly (whence fallacious syllogisms from misunderstood principles). Though all Catholics grasp each article's truth in general without error, it can be diversely apprehended in particular, so questions arise whose solutions clarify the articles in particular.",
+    "claims": [
+      "Theology does not doubt its principles.",
+      "An article's truth may be apprehended rightly or wrongly in particular.",
+      "Theological questions clarify the articles in particular."
+    ],
+    "concepts": [
+      "inquiry into principles",
+      "general and particular apprehension",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e355"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e865": {
+    "summary": "Adds that in such discourse the article always remains the principle: its general truth, proposed in Scripture, stays rule and measure, as shown by testing any particular explanation of an article against its general truth in Scripture. Such inquiry into principles is not denied to theology, since it belongs to other sciences too.",
+    "claims": [
+      "The general truth of an article proposed in Scripture remains the rule for explanations of it."
+    ],
+    "concepts": [
+      "Scripture as rule",
+      "articles of faith",
+      "theological explanation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e806"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e902": {
+    "summary": "Reply to the second argument: it is false that a science is not ordered to defending its principles, since metaphysics defends its own and others' principles (Metaphysics IV); indeed any science defending its conclusions implicitly defends its principles, since denying conclusions implicitly denies principles.",
+    "claims": [
+      "Metaphysics defends its own and other sciences' principles.",
+      "Defending conclusions implicitly defends principles."
+    ],
+    "concepts": [
+      "defense of principles",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e400"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e933": {
+    "summary": "Alternatively, the premise holds only of special sciences, which cannot argue further if their principles are denied; common sciences like logic and metaphysics can always find another route to defend principles. Theology is the most ample science, considering all being as it serves knowledge of God and the defense of faith, so though it cannot prove its principles a priori, it can defend them a posteriori, as metaphysics does, no route being closed to it.",
+    "claims": [
+      "Common sciences can defend their principles; special sciences cannot.",
+      "Theology is the most ample of sciences.",
+      "Theology can defend its principles a posteriori."
+    ],
+    "concepts": [
+      "common and special sciences",
+      "defense of faith",
+      "scope of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e902"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e322": {
+    "summary": "Article 1 holds against some contemporaries that the articles of faith are the principles of theology. They cannot be proved a priori, they include all truths belonging to theology and exclude others, they are the rule and measure of theological discourse, and all theological consideration is resolved into them. Using Aristotle's division of principles into axioms, suppositions, and postulates, the author argues that the articles are like axioms (intelligible in themselves, understood by the blessed, and used to regulate the whole science) and like suppositions (evident in the higher theology of God and the blessed, yielding a likeness of subalternation), but not postulates, since they do not contradict the learner. Theology questions the articles not by doubting their general truth, which Scripture proposes as rule, but by clarifying their correct apprehension in particular; and as the most ample science, like metaphysics, it can defend its principles a posteriori.",
+    "claims": [
+      "The articles of faith are the principles of theology.",
+      "The articles function as axioms and as suppositions, not as postulates.",
+      "The articles are evident in the theology of God and the blessed.",
+      "Theology inquires into the particular apprehension of the articles, not their general truth.",
+      "Theology can defend its principles a posteriori."
+    ],
+    "concepts": [
+      "articles of faith",
+      "axioms",
+      "suppositions",
+      "postulates",
+      "rule and measure",
+      "defense of faith",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e330",
+        "gsX5tY-d1e91-d1e339",
+        "gsX5tY-d1e91-d1e355",
+        "gsX5tY-d1e91-d1e400",
+        "gsX5tY-d1e91-d1e433",
+        "gsX5tY-d1e91-d1e442",
+        "gsX5tY-d1e91-d1e488",
+        "gsX5tY-d1e91-d1e525",
+        "gsX5tY-d1e91-d1e558",
+        "gsX5tY-d1e91-d1e581",
+        "gsX5tY-d1e91-d1e618",
+        "gsX5tY-d1e91-d1e653",
+        "gsX5tY-d1e91-d1e664",
+        "gsX5tY-d1e91-d1e736",
+        "gsX5tY-d1e91-d1e769",
+        "gsX5tY-d1e91-d1e799",
+        "gsX5tY-d1e91-d1e806",
+        "gsX5tY-d1e91-d1e865",
+        "gsX5tY-d1e91-d1e902",
+        "gsX5tY-d1e91-d1e933"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e981": {
+    "summary": "Heading of the second article: whether the certitude of theological truth depends on a higher science as on a subalternating science.",
+    "claims": [],
+    "concepts": [
+      "subalternation",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e293"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e992": {
+    "summary": "Reports a view answering affirmatively: certitude in a science depends on its principles; the principles of theology, the articles, have no evidence in our science, so their certitude depends on a higher science in which they are evident, that of God and the blessed, to which ours must be subalternated.",
+    "claims": [],
+    "concepts": [
+      "subalternation",
+      "articles of faith",
+      "knowledge of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e981"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1023": {
+    "summary": "Confirmation of that view: suppositions can be demonstrated in a higher science but are accepted as true in the lower; a science that takes its principles as suppositions from a higher science is subalternated to it; our theology takes the articles as principles on the supposed truth of God's revealing knowledge.",
+    "claims": [],
+    "concepts": [
+      "suppositions",
+      "subalternation",
+      "revelation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e992",
+        "gsX5tY-d1e91-d1e736"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1048": {
+    "summary": "Finds this view doubtful on two counts: it grants that theology is a science, and it makes it subalternated.",
+    "claims": [],
+    "concepts": [
+      "theology as science",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e992"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1064": {
+    "summary": "Against theology being a science: knowing scientifically presupposes the habit of principles, which is understanding (intellectus); but our habit regarding the articles, theology's principles, is not the natural habit of understanding but the supernatural habit of faith.",
+    "claims": [
+      "Scientific knowledge presupposes the habit of understanding principles.",
+      "Our habit regarding the articles of faith is faith, not understanding."
+    ],
+    "concepts": [
+      "habit of principles",
+      "intellectus",
+      "faith",
+      "theology as science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1048"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1095": {
+    "summary": "Second: theology would have more evidence in its conclusions than in its principles, since of the principles we have only belief, of the conclusions on this view scientific knowledge; this contradicts Aristotle, for whom we adhere more to principles than conclusions. To be resolved in the third article.",
+    "claims": [
+      "A science cannot have more evidence in its conclusions than in its principles."
+    ],
+    "concepts": [
+      "evidence",
+      "belief and knowledge",
+      "principles and conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1064"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1128": {
+    "summary": "Announces three arguments against theology's being subalternated.",
+    "claims": [],
+    "concepts": [
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1048"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1135": {
+    "summary": "First: if our theology were subalternated to that of God and the blessed, both could exist in the same intellect, as subalternating and subalternated sciences do; but all grant that they cannot.",
+    "claims": [
+      "Subalternating and subalternated sciences can coexist in one intellect.",
+      "Our theology and the theology of the blessed cannot coexist in one intellect."
+    ],
+    "concepts": [
+      "subalternation",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1128"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1155": {
+    "summary": "Second: the subject of our theology would add a condition to that of the blessed's theology, making it inferior and predicable of it, which the opponents deny by making God under the absolute ratio the subject of both. Third: the articles would be per se known and evident in our theology, since every science rests on per se known principles, known either through the terms (immediate principles) or through sense, memory, and experience (principles demonstrable elsewhere but known per se by their mode of acquisition); a subalternated science must know its principles at least in the second way, which would make the articles known to the wayfarer by sense, which is false.",
+    "claims": [
+      "In subalternation, the subordinate subject adds a condition to the superior subject.",
+      "Every science rests on per se known principles.",
+      "Principles are known either through their terms or through sense, memory, and experience.",
+      "A subalternated science knows its principles through sense, memory, and experience."
+    ],
+    "concepts": [
+      "subalternation",
+      "per se known principles",
+      "sense-memory-experience",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1128",
+        "gsX5tY-d1e91-d1e1135"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1286": {
+    "summary": "Raises a doubt: if a subalternated science rests on principles known through sense and experience, it seems not to receive its principles from the subalternating science and so not to depend on it.",
+    "claims": [],
+    "concepts": [
+      "subalternation",
+      "dependence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1155"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1302": {
+    "summary": "Answers that a subalternated science receives its principles from the subalternating science as from what contains the cause of their truth, not as from what manifests that truth to it; the subalternated science does not know that cause, else three absurdities would follow.",
+    "claims": [
+      "A subalternated science receives its principles from the higher science as containing, not manifesting, the cause of their truth."
+    ],
+    "concepts": [
+      "subalternation",
+      "cause of truth",
+      "manifestation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1286"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1344": {
+    "summary": "First absurdity: the subalternated science would transcend its consideration, which ends in its principles.",
+    "claims": [
+      "A science's consideration terminates in its principles."
+    ],
+    "concepts": [
+      "limits of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1302"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1362": {
+    "summary": "Second: the subalternated science could demonstrate its own principles, since whatever knows a truth and its cause can demonstrate it.",
+    "claims": [
+      "Knowing a truth through its cause enables demonstration."
+    ],
+    "concepts": [
+      "demonstration",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1302"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1378": {
+    "summary": "Third: no one could learn a subalternated science without the subalternating one, which is false, since one can acquire its principles through sense and experience and deduce conclusions knowing nothing of the higher science.",
+    "claims": [
+      "A subalternated science can be learned without the subalternating science."
+    ],
+    "concepts": [
+      "learning a science",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1302"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1407": {
+    "summary": "Reports a view granting that no one can have a subalternated science without the subalternating one, because the subalternating science is the habit of the subalternated science's principles, which are evident to it rather than to the lower science.",
+    "claims": [],
+    "concepts": [
+      "habit of principles",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1378"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1441": {
+    "summary": "Rejects this: the habit of principles would then be demonstrative, no different from the habit of conclusions; the subalternating science would demonstrate the subalternated one's conclusions, making it superfluous; the two would not be distinct sciences, since habits of principles and conclusions belong to the same art; and the subalternated science would be incomplete without the higher. So the subalternating science is not the habit of the lower one's principles, and one can know the lower without the higher.",
+    "claims": [
+      "The subalternating science is not the habit of the subalternated science's principles.",
+      "One can know a subalternated science without the subalternating one."
+    ],
+    "concepts": [
+      "habit of principles",
+      "subalternation",
+      "unity of an art"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1407"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1519": {
+    "summary": "Concludes that the subalternated science receives its principles from the higher only as containing the cause of their truth, and must gain certitude of them another way, through sense, memory, and experience, without which it would lack certitude about its conclusions and not be a true science.",
+    "claims": [
+      "A subalternated science gains certitude of its principles through sense, memory, and experience."
+    ],
+    "concepts": [
+      "certitude of principles",
+      "subalternation",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1302",
+        "gsX5tY-d1e91-d1e1441"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1578": {
+    "summary": "First conclusion: theology, properly speaking, is not subalternated to the knowledge of God or of the blessed, much less to any other science, since a subalternated science's principles must become manifest to it through sense, memory, and experience, which is impossible for the articles of faith.",
+    "claims": [
+      "Theology is not properly subalternated to the knowledge of God or the blessed."
+    ],
+    "concepts": [
+      "subalternation",
+      "articles of faith",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1519"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1604": {
+    "summary": "Second conclusion: even if theology were subalternated, it would not receive manifesting certitude of its principles from the higher science. Theology's certitude depends on the theology of God and the blessed as a disciple's faith depends on the master's knowledge: the theologian would not firmly believe theological truths unless supposing that God, teaching and revealing, has scientific certitude of them. Aristotle's 'the learner must believe' and Augustine's counsel to believe those who learned invisible things in a higher light confirm it; this is not true subalternation but a mode resembling it.",
+    "claims": [
+      "Theology's certitude depends on God's knowledge as a disciple's faith depends on the master's knowledge.",
+      "Theology is related to God's knowledge by a likeness of subalternation, not true subalternation."
+    ],
+    "concepts": [
+      "master and disciple",
+      "faith",
+      "revelation",
+      "quasi-subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1578",
+        "gsX5tY-d1e91-d1e736"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1709": {
+    "summary": "Endorses Giles of Rome's view that theology is not properly subalternated but has a likeness to a subalternated science, shown by running through Aristotle's three modes of subalternation.",
+    "claims": [
+      "Giles's view that theology has only a likeness of subalternation is reasonable."
+    ],
+    "concepts": [
+      "Giles of Rome",
+      "modes of subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1604"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1727": {
+    "summary": "First mode of subalternation (Metaphysics I): all sciences serve metaphysics, a kind of service arising because one science reaches the best in some genus that others do not.",
+    "claims": [],
+    "concepts": [
+      "service of sciences",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1709"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1744": {
+    "summary": "This mode does not fit our theology, since both it and the blessed's consider the best in the whole genus of being, God; but there is a likeness, since theirs considers it more nobly and under a nobler light.",
+    "claims": [
+      "Our theology and the blessed's both consider God, theirs under a nobler light."
+    ],
+    "concepts": [
+      "light of glory",
+      "theology of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1727"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1768": {
+    "summary": "Second mode (Posterior Analytics I): the subalternated science's subject is formed from the subalternating science's subject by an added condition, so its truths presuppose a cause in the higher subject.",
+    "claims": [],
+    "concepts": [
+      "subject with added condition",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1709"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1790": {
+    "summary": "This mode does not apply, since our theology's subject adds nothing to that of the blessed's; but there is a likeness, since their mode of consideration stands as if by addition to ours, theirs being clear and open, ours obscure and enigmatic.",
+    "claims": [
+      "Our theology's subject adds nothing to that of the blessed.",
+      "The blessed know God clearly, we obscurely and enigmatically."
+    ],
+    "concepts": [
+      "enigmatic knowledge",
+      "mode of consideration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1768"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1814": {
+    "summary": "Third mode (Posterior Analytics I): two sciences consider the same truth, one subtly and one crudely, like navigation and astronomy on the stars' course, one knowing the fact (quia), the other the reason why (propter quid).",
+    "claims": [],
+    "concepts": [
+      "quia and propter quid",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1709"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1832": {
+    "summary": "This mode does not properly apply, since of truths about God there is properly neither quia nor propter quid; but the blessed's clear consideration resembles propter quid, ours, being obscure, resembles quia.",
+    "claims": [
+      "Truths about God admit properly neither quia nor propter quid demonstration."
+    ],
+    "concepts": [
+      "quia and propter quid",
+      "clarity and obscurity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1814"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e973": {
+    "summary": "Article 2 asks whether theology's certitude depends on a higher subalternating science. Against a view that makes theology a science subalternated to God's and the blessed's knowledge, the author argues that our habit of the articles is faith, not understanding, and that subalternation fails: the two theologies cannot coexist in one intellect, our subject adds nothing to theirs, and a subalternated science must know its principles through sense, memory, and experience. A subalternated science receives its principles from the higher science only as containing, not manifesting, the cause of their truth; otherwise it would exceed its bounds, demonstrate its principles, and be unlearnable alone, and the claim that the higher science is the habit of the lower's principles is refuted. Hence theology is not properly subalternated; its certitude depends on God's knowledge as a disciple's belief depends on a master's knowledge (Aristotle, Augustine). Endorsing Giles of Rome, the author shows that each of Aristotle's three modes of subalternation fails to apply properly but has a likeness: the blessed consider God under a nobler light, more clearly rather than with an added subject condition, in a manner resembling propter quid against our quia.",
+    "claims": [
+      "Our habit of the articles of faith is faith, not understanding.",
+      "A subalternated science receives its principles from the higher as containing, not manifesting, the cause of their truth.",
+      "A subalternated science knows its principles through sense, memory, and experience.",
+      "Theology is not properly subalternated to the knowledge of God or the blessed.",
+      "Theology depends on God's knowledge as a disciple on a master's knowledge."
+    ],
+    "concepts": [
+      "subalternation",
+      "habit of principles",
+      "sense-memory-experience",
+      "master and disciple",
+      "modes of subalternation",
+      "quia and propter quid",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e981",
+        "gsX5tY-d1e91-d1e992",
+        "gsX5tY-d1e91-d1e1023",
+        "gsX5tY-d1e91-d1e1048",
+        "gsX5tY-d1e91-d1e1064",
+        "gsX5tY-d1e91-d1e1095",
+        "gsX5tY-d1e91-d1e1128",
+        "gsX5tY-d1e91-d1e1135",
+        "gsX5tY-d1e91-d1e1155",
+        "gsX5tY-d1e91-d1e1286",
+        "gsX5tY-d1e91-d1e1302",
+        "gsX5tY-d1e91-d1e1344",
+        "gsX5tY-d1e91-d1e1362",
+        "gsX5tY-d1e91-d1e1378",
+        "gsX5tY-d1e91-d1e1407",
+        "gsX5tY-d1e91-d1e1441",
+        "gsX5tY-d1e91-d1e1519",
+        "gsX5tY-d1e91-d1e1578",
+        "gsX5tY-d1e91-d1e1604",
+        "gsX5tY-d1e91-d1e1709",
+        "gsX5tY-d1e91-d1e1727",
+        "gsX5tY-d1e91-d1e1744",
+        "gsX5tY-d1e91-d1e1768",
+        "gsX5tY-d1e91-d1e1790",
+        "gsX5tY-d1e91-d1e1814",
+        "gsX5tY-d1e91-d1e1832"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1863": {
+    "summary": "Heading of the third article: whether the certitude of truth in theology adds something beyond the certitude of faith, by which it makes the adhesion of faith firmer.",
+    "claims": [],
+    "concepts": [
+      "certitude of faith",
+      "adhesion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e302"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1876": {
+    "summary": "Reports a view that the theological habit is not adhesive but only declarative, adding nothing to the certitude of faith. First conclusion: if theology made us adhere, it would do so by probable reasons (yielding weak adhesion, an opinative habit repugnant to faith) or necessary reasons (implying that its truths are demonstrable, which contradicts faith, whose truths cannot be demonstrated); so it is not adhesive.",
+    "claims": [],
+    "concepts": [
+      "adhesive and declarative habit",
+      "probable and necessary reasons",
+      "opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1863"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e1949": {
+    "summary": "Second conclusion of that view: theology is declarative, since it makes the intellect better conceive theological truth without any adhesion, by removing four impediments: it explains terms, provides guiding examples, removes obstructing reasons, and adduces probable reasons.",
+    "claims": [],
+    "concepts": [
+      "declarative habit",
+      "theological explanation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1876"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2015": {
+    "summary": "Rejects the view. First, its argument against adhesiveness also disproves declarativeness: it would declare by probable or necessary reasons, with the same consequences. Nor can it use reasons merely as probable without adhering: the intellect must assent, dissent, or be indifferent to any reason it uses; assent makes the habit adhesive, dissent makes the reason an obstacle, indifference leads back to one of these.",
+    "claims": [
+      "The intellect must assent, dissent, or remain indifferent to any reason it uses."
+    ],
+    "concepts": [
+      "assent",
+      "adhesive habit",
+      "theological reasoning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1876",
+        "gsX5tY-d1e91-d1e1949"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2087": {
+    "summary": "Second: the view makes the believer's theological habit weaker than an unbeliever's opinative habit about the same truths, since the latter both declares and produces some adhesion.",
+    "claims": [
+      "An opinative habit both declares and produces some adhesion."
+    ],
+    "concepts": [
+      "opinion",
+      "unbeliever",
+      "theological habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2015"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2126": {
+    "summary": "Third: faith would deprive the theological habit of its due perfection, since alone it would produce adhesion like opinion, but joined with faith it would not.",
+    "claims": [],
+    "concepts": [
+      "faith and theology",
+      "perfection of a habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2087"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2155": {
+    "summary": "Distinguishes two senses of the question: whether theology adds a certitude producing firm adhesion even without faith; or whether it adds to faith's certitude indirectly, by removing contrary dispositions, making faith's adhesion firmer.",
+    "claims": [],
+    "concepts": [
+      "direct and indirect certitude",
+      "adhesion of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e1863"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2190": {
+    "summary": "Denies the first sense: a habit resting throughout on faith has no certitude of its own producing firm adhesion apart from faith, since all certitude of a science depends on its foundation, its principles; theology's principles are the articles, and if removed no certitude remains.",
+    "claims": [
+      "Theology has no certitude of its own apart from faith.",
+      "All certitude of a science depends on its principles."
+    ],
+    "concepts": [
+      "certitude",
+      "foundation of faith",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2155"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2232": {
+    "summary": "Second proof: apart from faith, theology is only opinative, since it proceeds from things extraneous to the truth it declares: what it assumes beyond faith is naturally comprehensible, while the truth is entirely above natural reason, so these assumptions are disproportionate except as they reach the truth through faith.",
+    "claims": [
+      "Apart from faith, theology is only an opinative habit.",
+      "Naturally comprehensible premises are disproportionate to supernatural truth."
+    ],
+    "concepts": [
+      "opinion",
+      "natural reason",
+      "supernatural truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2190"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2285": {
+    "summary": "Grants the second sense: theology adds something indirectly by removing contrary dispositions. Two things can impede firm adhesion to faith: wrong apprehension of a truth in particular, and probable arguments against it. Theology explains faith's particular truths and supplies the means of solving all possible arguments against it, so it makes adhesion firmer.",
+    "claims": [
+      "Theology strengthens adhesion to faith indirectly by removing impediments.",
+      "Theology provides the means to solve all arguments against faith."
+    ],
+    "concepts": [
+      "adhesion of faith",
+      "removal of impediments",
+      "particular apprehension"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2155",
+        "gsX5tY-d1e91-d1e806"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2348": {
+    "summary": "Reports that some deny theology can solve all arguments against faith, and introduces their principal reasons.",
+    "claims": [],
+    "concepts": [
+      "solution of objections"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2285"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2359": {
+    "summary": "First reason: any solution would have to be drawn from what appears in creatures, but such appearances are sometimes contrary to faith, as that one nature subsists in three supposits.",
+    "claims": [],
+    "concepts": [
+      "creaturely appearances",
+      "Trinity",
+      "natural reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2348"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2381": {
+    "summary": "Second: if all arguments against faith could be solved, faith's truth could be shown possible, and so necessary (since whatever is possible in God's intrinsic being is necessary), and faith would be voided; solving them is showing faith's truth is not impossible, which is equivalent to possible.",
+    "claims": [],
+    "concepts": [
+      "possibility and necessity",
+      "demonstration",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2348"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2412": {
+    "summary": "Some add that an argument erring in matter can be solved only by an instance within the case itself, e.g. 'wherever there are distinct supposits there is distinct nature' denied by the instance of the divine persons; but an instance must come from outside the case for scientific evidence, and this one is known only by faith.",
+    "claims": [],
+    "concepts": [
+      "instance",
+      "counterexample",
+      "divine persons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2348"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2458": {
+    "summary": "Holds against them that the theologian can scientifically and evidently solve contrary arguments by showing their foundation does not extend to the matter at hand. Human reason reaches only as far as the human intellect comprehends truth, which is not all truth (Aristotle and Averroes concede even Aristotle did not grasp all truth); the truth of faith is incomprehensible to the human intellect, so no human reason extends to demonstrating or disproving it.",
+    "claims": [
+      "The theologian can evidently show that arguments against faith do not conclude.",
+      "The human intellect does not comprehend all truth.",
+      "No foundation of human reason extends to proving or disproving the truth of faith."
+    ],
+    "concepts": [
+      "limits of reason",
+      "solution of objections",
+      "incomprehensibility of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2348"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2535": {
+    "summary": "Raises the objection that this begs the question, presupposing that what faith posits is true and that it is incomprehensible to human intellect, neither of which is evident.",
+    "claims": [],
+    "concepts": [
+      "begging the question",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2458"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2566": {
+    "summary": "Replies that the solution does not suppose these, only that what faith says of God is so above reason that no reason can demonstrate it true or false. This is evident: the human intellect judges of God only through natural science (God as first mover) and metaphysics (God as first form and ultimate end); each judges true or false only what agrees with or contradicts its ratio, and cannot judge what is extraneous to it.",
+    "claims": [
+      "Natural science knows God only as first mover; metaphysics only as first form and ultimate end.",
+      "A science cannot judge truths extraneous to its ratio of its subject."
+    ],
+    "concepts": [
+      "natural theology",
+      "limits of metaphysics",
+      "first mover",
+      "first form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2535"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2636": {
+    "summary": "Since articles like God being three and one are attributed to God under none of these rationes, neither physicist nor metaphysician can judge their truth or falsity, but must leave judgment to the higher habit of faith or theology, as physics leaves to metaphysics what concerns God as first form and ultimate end; so the premise, though not evident at first glance, is easily made known.",
+    "claims": [
+      "Neither physics nor metaphysics can judge the truth of the articles of faith.",
+      "Judgment on the articles belongs to faith or theology."
+    ],
+    "concepts": [
+      "Trinity",
+      "hierarchy of sciences",
+      "judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2566"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2675": {
+    "summary": "Reply to the first reason: creaturely appearances can be used either to conclude whatever can be known of God, or to show that God exceeds our knowledge and remains naturally unknown in many truths. In the second sense they supply the solution: arguments against faith prove only what is knowable of God through relation to creatures and do not extend to truths extraneous to that relation.",
+    "claims": [
+      "Arguments from creatures prove only what is knowable of God through relation to creatures."
+    ],
+    "concepts": [
+      "knowledge of God from creatures",
+      "limits of reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2359"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2740": {
+    "summary": "Reply to the second reason: solving an argument against faith is not demonstrating that faith's truth is not impossible, but showing that the argument purporting to prove it impossible fails, which holds even if the conclusion were true; so faith's truth is not demonstrated.",
+    "claims": [
+      "Showing an argument fails is not demonstrating its conclusion's contradictory."
+    ],
+    "concepts": [
+      "refutation",
+      "possibility",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2381"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2771": {
+    "summary": "Reply to the third: arguments against faith proceed from misunderstood principles and propositions extended beyond their proper range; they are sufficiently solved by showing the major or minor does not extend to the matter at hand.",
+    "claims": [
+      "Arguments against faith overextend their premises."
+    ],
+    "concepts": [
+      "overextension of premises",
+      "refutation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2412"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2794": {
+    "summary": "Denies that the instance must be outside the case: that holds only where no ratio of the negation can be assigned. An instance may show a proposition false or show it does not extend to the matter, because the matter exceeds our intellect so that we cannot judge its truth; arguments against faith are met in the second way. Thus although we know only by faith that 'where supposits are distinct, nature is multiplied' is false in God, natural reason can show it does not hold there, since no naturally known ratio of God shows it true or false.",
+    "claims": [
+      "An instance can show that a proposition does not extend to a matter exceeding our judgment.",
+      "Natural reason can show that propositions about creatures do not bind divine matters."
+    ],
+    "concepts": [
+      "instance",
+      "divine persons",
+      "limits of natural reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2412",
+        "gsX5tY-d1e91-d1e2771"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e1855": {
+    "summary": "Article 3 asks whether theology's certitude adds anything to faith so as to make adhesion firmer. Against the view that theology is merely declarative and not adhesive, the author argues that any reason the intellect uses involves assent, dissent, or indifference, that the view would make the believer's habit weaker than an unbeliever's opinion, and that faith would rob theology of its perfection. Distinguishing two senses, he denies that theology adds a certitude producing firm adhesion apart from faith, since it rests wholly on the articles and without faith would be opinion, but grants that it strengthens adhesion indirectly by removing impediments: misapprehension of truths in particular and contrary arguments. Against those who deny that theology can solve all arguments against faith, he holds that it can evidently show their foundations do not reach the matter, because human reason, through physics (God as first mover) and metaphysics (God as first form and end), cannot judge truths like the Trinity that are extraneous to those rationes; refuting an argument is not proving faith's truth possible, and an instance can show that a proposition does not extend to a matter beyond our judgment.",
+    "claims": [
+      "Theology adds no certitude to faith that would produce firm adhesion apart from faith.",
+      "Apart from faith, theology is only opinative.",
+      "Theology strengthens faith's adhesion indirectly by removing impediments.",
+      "The theologian can evidently show that arguments against faith do not conclude.",
+      "Natural reason cannot judge the truth or falsity of the articles of faith."
+    ],
+    "concepts": [
+      "adhesive and declarative habit",
+      "certitude of faith",
+      "opinion",
+      "solution of objections",
+      "limits of natural reason",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e1863",
+        "gsX5tY-d1e91-d1e1876",
+        "gsX5tY-d1e91-d1e1949",
+        "gsX5tY-d1e91-d1e2015",
+        "gsX5tY-d1e91-d1e2087",
+        "gsX5tY-d1e91-d1e2126",
+        "gsX5tY-d1e91-d1e2155",
+        "gsX5tY-d1e91-d1e2190",
+        "gsX5tY-d1e91-d1e2232",
+        "gsX5tY-d1e91-d1e2285",
+        "gsX5tY-d1e91-d1e2348",
+        "gsX5tY-d1e91-d1e2359",
+        "gsX5tY-d1e91-d1e2381",
+        "gsX5tY-d1e91-d1e2412",
+        "gsX5tY-d1e91-d1e2458",
+        "gsX5tY-d1e91-d1e2535",
+        "gsX5tY-d1e91-d1e2566",
+        "gsX5tY-d1e91-d1e2636",
+        "gsX5tY-d1e91-d1e2675",
+        "gsX5tY-d1e91-d1e2740",
+        "gsX5tY-d1e91-d1e2771",
+        "gsX5tY-d1e91-d1e2794"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2862": {
+    "summary": "Heading of the fourth article: whether theology has as much certitude as the humanly discovered sciences.",
+    "claims": [],
+    "concepts": [
+      "certitude",
+      "human sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e312"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2880": {
+    "summary": "Since the article presupposes that theology is a science, a disputed matter, the author surveys the doctors' views, beginning with the view that it is a subalternated science, already refuted.",
+    "claims": [],
+    "concepts": [
+      "theology as science",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2862",
+        "gsX5tY-d1e91-d1e1578"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2898": {
+    "summary": "Reports the view that theology is a science of consequences: science requires firm adhesion with evidence, which in theology we have only for the consequences and deductions, not for the articles or conclusions.",
+    "claims": [],
+    "concepts": [
+      "science of consequences",
+      "evidence",
+      "adhesion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2880"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2925": {
+    "summary": "Judges this view unreasonable for three reasons.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2898"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2932": {
+    "summary": "First: the study of theology would be vain, giving no knowledge of theological truth, since a science of consequences is equally possible for false propositions.",
+    "claims": [
+      "Valid consequence can be drawn from false premises."
+    ],
+    "concepts": [
+      "validity",
+      "science of consequences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2925"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2952": {
+    "summary": "Second: theology would not declare the truth of the articles but only of deductions, contrary to its purpose.",
+    "claims": [],
+    "concepts": [
+      "declaration of the articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2925"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e2972": {
+    "summary": "Third: 'consequences' means either syllogistic form (which belongs to logic), the matter (the articles and conclusions, yielding evidence of these), or both (yielding greater evidence of consequences than of articles and conclusions, which is false and contrary to their intent).",
+    "claims": [
+      "The study of syllogistic form belongs to logic, not theology."
+    ],
+    "concepts": [
+      "syllogistic form and matter",
+      "logic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2925"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3011": {
+    "summary": "Reply to their reason: evidence is not to be sought equally in every science; natural science lacks the evidence of mathematics, whose demonstrations are of the first degree of certitude, yet it is truly a science.",
+    "claims": [
+      "Different sciences have different degrees of evidence.",
+      "Mathematics has demonstrations of the first degree of certitude."
+    ],
+    "concepts": [
+      "degrees of certitude",
+      "mathematics",
+      "natural science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2898"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3029": {
+    "summary": "Reports another view distinguishing theology in itself, truly a science since its subject and principles are maximally evident in themselves, from theology relative to our intellect, not properly a science, owing to our intellect's weakness.",
+    "claims": [],
+    "concepts": [
+      "theology in itself and in us",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2880"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3056": {
+    "summary": "Continuing: taking science more narrowly as certitude to the extent the matter allows (as Aristotle says of moral science), they grant theology is a science, giving the certitude and evidence its matter allows in this life.",
+    "claims": [],
+    "concepts": [
+      "moral science",
+      "certitude as matter allows"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3029"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3080": {
+    "summary": "Rejects this view for three reasons; first, the distinction is unreasonable, since if theology could be taken in itself it would be among forms not determining their subject, like mathematical forms, which is false.",
+    "claims": [
+      "Theology is not a form that exists apart from a determinate subject."
+    ],
+    "concepts": [
+      "forms determining a subject",
+      "theology in itself"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3029"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3096": {
+    "summary": "Second: granting the distinction, if theology in itself is truly a science, it is so in us too, since what belongs to a form by itself belongs to it wherever it is; the subject does not take away what is of the form's ratio.",
+    "claims": [
+      "What belongs to a form of itself belongs to it in any subject."
+    ],
+    "concepts": [
+      "form and subject",
+      "theology as science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3080"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3127": {
+    "summary": "Third: their comparison with moral science tells against them, since our superficial certitude about human acts stems from the variability of acts, whereas our superficial knowledge of God stems from our intellect, so theology is not a science 'as far as the matter allows'.",
+    "claims": [
+      "The limits of our knowledge of God stem from our intellect, not from the matter."
+    ],
+    "concepts": [
+      "moral science",
+      "variability",
+      "limits of the intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3056"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3160": {
+    "summary": "Reports a third view distinguishing three senses of theology: the habit of the prophets, apostles, and authors of the canon; the habit acquired from the sense of Scripture; and the habit acquired by expounding Scripture, solving doubts, and mixing in philosophy. In the first sense it is truly a science: though not giving evidence, it gave full certitude as if the things were present, since God can do immediately whatever he does through secondary efficient causes, and present, intuitively known things would cause certain knowledge.",
+    "claims": [],
+    "concepts": [
+      "prophetic knowledge",
+      "senses of theology",
+      "intuitive cognition",
+      "immediate divine causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2880"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3215": {
+    "summary": "In the second sense, they say, theology is not a science, since the literal sense of the canon is not demonstrative and produces only faith, by which we adhere immediately to everything written.",
+    "claims": [],
+    "concepts": [
+      "literal sense of Scripture",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3160"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3234": {
+    "summary": "In the third sense, though a habit other than faith, it is not scientific, since it does not demonstrate the truths of Scripture.",
+    "claims": [],
+    "concepts": [
+      "expository theology",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3160"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3247": {
+    "summary": "Against the first member: though God can supply for the object as efficient cause of cognition, he cannot supply for it as terminating; scientific certitude comes from the object as present in the ratio of terminating, not moving, so if the revealed things were not present to the authors of Scripture, they could not have certain, scientific knowledge of them.",
+    "claims": [
+      "God can supply the object's efficient role in cognition but not its terminating role.",
+      "Scientific certitude comes from the object as terminating cognition."
+    ],
+    "concepts": [
+      "object as mover and terminus",
+      "prophetic knowledge",
+      "scientific certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3160"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3280": {
+    "summary": "Against the second member: it coincides with the third, since the true sense of Scripture is had only by exposition and solving doubts; and no one studies Scripture to grasp its sense implicitly, which faith already gives from hearing. Also, the view seems to make faith result from studying Scripture, which is false, since many have faith without study and adhere immediately to all of Scripture.",
+    "claims": [
+      "The true sense of Scripture is had through exposition.",
+      "Faith does not result from study of Scripture."
+    ],
+    "concepts": [
+      "literal sense",
+      "exposition of Scripture",
+      "faith from hearing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3215"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3341": {
+    "summary": "Against the third member, at least in part: they rightly hold it is a habit distinct from faith, acquired by study (else the labor of studying Scripture would be vain), but wrongly deny it is scientific, since the infallible certitude of theology cannot coexist with a habit in no way scientific.",
+    "claims": [
+      "Theology is a habit distinct from faith, acquired by study."
+    ],
+    "concepts": [
+      "acquired theology",
+      "scientific habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3234"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3365": {
+    "summary": "Reports a further view that theology is truly a science, resting not on our faith but on another light compatible with the light of faith, by which theological truths become scientifically known.",
+    "claims": [],
+    "concepts": [
+      "light of theology",
+      "scientific knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2880"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3381": {
+    "summary": "Defers this view to the following question, which considers whether such a light is possible.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3365"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3393": {
+    "summary": "Reports a final view: theology is not properly a science but broadly so, since beyond the simple believer's knowledge by faith the theologian knows why credibilia are in Scripture, how they are declared, and how persuasive reasons can be adduced; but this knowledge does not by itself produce firm adhesion without faith, and without faith it would be an opinative habit.",
+    "claims": [],
+    "concepts": [
+      "theology as science broadly",
+      "simple believer",
+      "persuasive reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e2880"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3428": {
+    "summary": "Judges this view closer to the truth than the others but defective in two ways.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3393"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3446": {
+    "summary": "First defect: it gives theology no greater evidence than opinion, only greater certitude, which is false, since opinion cannot show the falsity of contrary reasons while theology can, even setting faith aside. This is consistent with the earlier claim that without faith theology is no more certain than opinion: compared to its object, it lacks evidence for firm adhesion without faith; compared to the failure of contrary reasons, it has more evidence than opinion.",
+    "claims": [
+      "Theology, even apart from faith, has greater evidence than opinion regarding the failure of contrary reasons."
+    ],
+    "concepts": [
+      "evidence",
+      "opinion",
+      "refutation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3428",
+        "gsX5tY-d1e91-d1e2232"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3498": {
+    "summary": "Second defect: it places the whole ratio of science in evidence; but if evident certitude alone constituted science, we would have science of singulars when actually present.",
+    "claims": [
+      "Evidence alone does not constitute science."
+    ],
+    "concepts": [
+      "evidence",
+      "science of singulars"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3428"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3522": {
+    "summary": "States three conditions of science properly so called from Posterior Analytics I: it is a truthful habit, concerned with truths; it is firm, concerned with necessary things; and it is demonstrative, proceeding from and resolving into indemonstrables.",
+    "claims": [
+      "Science properly so called is truthful, firm, and demonstrative from indemonstrables."
+    ],
+    "concepts": [
+      "conditions of science",
+      "demonstration",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3498"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3551": {
+    "summary": "Answers: by the first two conditions theology is truly a science, being about what is most true, the first truth through which others are true, and most necessary, at least regarding what is intrinsic to the divine essence. By the third it is a science only broadly. A science has two processes, demonstrating its truth from evident truths, and defending it by exposing the defects of contrary reasons. In the first, theology persuades and declares rather than demonstrates, sharing with opinion in persuading and with science in firmly adhering through faith; so it is science broadly. In the second, it is truly a science, since it can evidently demonstrate the defect of reasons against the believed truth.",
+    "claims": [
+      "Theology is truly a science as truthful and firm.",
+      "In demonstrating its truths theology is a science only broadly.",
+      "In refuting objections theology is truly a science."
+    ],
+    "concepts": [
+      "conditions of science",
+      "two processes of science",
+      "persuasion and declaration",
+      "refutation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3522",
+        "gsX5tY-d1e91-d1e2458"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3639": {
+    "summary": "Toward the principal question, defines certitude as cognition excluding all doubt, which happens by immutability or necessity, and by evidence of demonstration or speculation. The first is stronger, removing doubt both actually and potentially; the second removes it only actually, as with evident perception of a present particular, which becomes mere estimation once it leaves the senses (Averroes).",
+    "claims": [
+      "Certitude is cognition excluding all doubt.",
+      "Certitude from immutability is stronger than certitude from evidence."
+    ],
+    "concepts": [
+      "certitude",
+      "immutability",
+      "evidence",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3551"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3700": {
+    "summary": "Answers that theology has greater certitude than any humanly discovered science, since certitude from immutability is stronger and theology's assent is most immutable in the three factors of certitude: the thing known (the immutable first truth, its subject), the medium (the authority of that truth, which cannot lie), and the light (faith, under which only truth can be seen). Hence theology is said to be more certain with the certitude of adhesion.",
+    "claims": [
+      "Theology has greater certitude than any humanly discovered science.",
+      "Certitude depends on the thing known, the medium, and the light.",
+      "Theology's medium is the authority of first truth, which cannot deceive.",
+      "Theology is more certain by the certitude of adhesion."
+    ],
+    "concepts": [
+      "certitude of adhesion",
+      "light of faith",
+      "divine authority",
+      "first truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e3639"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e2854": {
+    "summary": "Article 4 answers the principal question. The author reviews and rejects views on theology's scientific status: that it is a subalternated science; that it is a science of consequences only; that it is a science in itself but not in us or only as far as the matter allows; and a threefold division into the prophets' habit, the literal sense of Scripture, and expository theology, against which he argues that God can supply an object's efficient but not its terminating role, that grasping the literal sense requires exposition and faith does not come from study, and that acquired theology must be scientific given its certitude. A view resting theology on a special light is deferred, and a view calling it science broadly is judged closest but faulted for equating its evidence with opinion's and for locating science solely in evidence. By Aristotle's three conditions, theology is truly a science as truthful and firm, but only broadly in demonstrating its truths, which it persuades rather than demonstrates, and truly in refuting objections. Since certitude from immutability surpasses certitude from evidence, and theology is most immutable in its object (first truth), medium (divine authority), and light (faith), theology has greater certitude than any human science: the certitude of adhesion.",
+    "claims": [
+      "Theology is not merely a science of consequences.",
+      "Theology is truly a science as truthful and firm, broadly as demonstrative, and truly in refuting objections.",
+      "Certitude from immutability exceeds certitude from evidence.",
+      "Theology has greater certitude of adhesion than any humanly discovered science."
+    ],
+    "concepts": [
+      "theology as science",
+      "conditions of science",
+      "certitude of adhesion",
+      "evidence",
+      "light of faith",
+      "divine authority",
+      "expository theology"
+    ],
+    "_metadata": {
+      "level": "article",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e2862",
+        "gsX5tY-d1e91-d1e2880",
+        "gsX5tY-d1e91-d1e2898",
+        "gsX5tY-d1e91-d1e2925",
+        "gsX5tY-d1e91-d1e2932",
+        "gsX5tY-d1e91-d1e2952",
+        "gsX5tY-d1e91-d1e2972",
+        "gsX5tY-d1e91-d1e3011",
+        "gsX5tY-d1e91-d1e3029",
+        "gsX5tY-d1e91-d1e3056",
+        "gsX5tY-d1e91-d1e3080",
+        "gsX5tY-d1e91-d1e3096",
+        "gsX5tY-d1e91-d1e3127",
+        "gsX5tY-d1e91-d1e3160",
+        "gsX5tY-d1e91-d1e3215",
+        "gsX5tY-d1e91-d1e3234",
+        "gsX5tY-d1e91-d1e3247",
+        "gsX5tY-d1e91-d1e3280",
+        "gsX5tY-d1e91-d1e3341",
+        "gsX5tY-d1e91-d1e3365",
+        "gsX5tY-d1e91-d1e3381",
+        "gsX5tY-d1e91-d1e3393",
+        "gsX5tY-d1e91-d1e3428",
+        "gsX5tY-d1e91-d1e3446",
+        "gsX5tY-d1e91-d1e3498",
+        "gsX5tY-d1e91-d1e3522",
+        "gsX5tY-d1e91-d1e3551",
+        "gsX5tY-d1e91-d1e3639",
+        "gsX5tY-d1e91-d1e3700"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3797": {
+    "summary": "Reply to the first principal argument: the articles are theology's principles; it does not declare them by doubting their general truth, which it supposes, but because they can be badly apprehended in particular, as shown in Article 1.",
+    "claims": [
+      "The articles of faith are the principles of theology.",
+      "Theology declares the articles in particular, not by doubting their general truth."
+    ],
+    "concepts": [
+      "articles of faith",
+      "declaration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e137",
+        "gsX5tY-d1e91-d1e806"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3826": {
+    "summary": "Reply to the second: theology is not properly subalternated to the knowledge of God and the blessed but only by likeness; its principles depend on it as a disciple's knowledge on a master's, and it receives them as from what contains, not manifests, the cause of their truth, which our theology does not know.",
+    "claims": [
+      "Theology depends on God's knowledge as a disciple on a master."
+    ],
+    "concepts": [
+      "quasi-subalternation",
+      "master and disciple"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e174",
+        "gsX5tY-d1e91-d1e1604"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-d1e3865": {
+    "summary": "Reply to the third: theology has greater certitude and adhesion than any other science. It adds nothing to faith regarding the thing known, but adds evidence and firmness of adhesion through speculative certitude, declaring truth and solving contrary reasons, since we adhere more firmly when we can remove arguments that might cause fear of the opposite.",
+    "claims": [
+      "Theology adds no certitude to faith concerning the thing known.",
+      "Theology makes adhesion firmer by removing contrary arguments."
+    ],
+    "concepts": [
+      "adhesion",
+      "certitude of speculation",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "gsX5tY-d1e91-d1e207",
+        "gsX5tY-d1e91-d1e2285"
+      ]
+    }
+  },
+  "gsX5tY-d1e91-Dd1e3792": {
+    "summary": "Replies to the principal arguments: the articles are theology's principles, which it declares in particular without doubting them in general; theology is not properly subalternated but depends on God's knowledge as a disciple on a master; and theology has greater certitude than other sciences, adding nothing to faith regarding the thing known but making adhesion firmer by declaring truth and removing contrary arguments.",
+    "claims": [
+      "The articles of faith are the principles of theology.",
+      "Theology depends on God's knowledge only by a likeness of subalternation.",
+      "Theology makes adhesion firmer by removing contrary arguments."
+    ],
+    "concepts": [
+      "articles of faith",
+      "quasi-subalternation",
+      "adhesion"
+    ],
+    "_metadata": {
+      "level": "section",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-d1e3797",
+        "gsX5tY-d1e91-d1e3826",
+        "gsX5tY-d1e91-d1e3865"
+      ]
+    }
+  },
+  "gsX5tY-d1e91": {
+    "summary": "The third question of the prologue asks whether theology has as much certitude as the human sciences. Article 1 establishes that the articles of faith are theology's principles, functioning like axioms and suppositions, and that theology clarifies their particular apprehension and can defend them. Article 2 denies that theology is properly subalternated to the knowledge of God and the blessed: a subalternated science knows its principles through experience and receives from the higher science only their cause, not their manifestation; theology instead depends on God's knowledge as a disciple on a master, with a likeness to each mode of subalternation. Article 3 holds that theology adds no adhesion-producing certitude apart from faith, but strengthens adhesion by correcting misapprehensions and refuting objections, which it can do evidently because natural reason cannot judge truths beyond its rationes of God. Article 4 rejects several accounts of theology's scientific status, holds that it is a science as truthful and firm, broadly in demonstrating and truly in refuting, and concludes that because certitude from immutability is stronger than certitude from evidence, theology, immutable in object, medium, and light, is more certain than any human science.",
+    "claims": [
+      "The articles of faith are the principles of theology.",
+      "Theology is not properly subalternated to the knowledge of God and the blessed.",
+      "Theology strengthens faith's adhesion only indirectly, by removing impediments.",
+      "Theology has greater certitude of adhesion than any humanly discovered science."
+    ],
+    "concepts": [
+      "certitude",
+      "articles of faith",
+      "subalternation",
+      "adhesion of faith",
+      "theology as science",
+      "limits of natural reason",
+      "light of faith"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e91-Dd1e115",
+        "gsX5tY-d1e91-Dd1e132",
+        "gsX5tY-d1e91-Dd1e274",
+        "gsX5tY-d1e91-Dd1e322",
+        "gsX5tY-d1e91-Dd1e973",
+        "gsX5tY-d1e91-Dd1e1855",
+        "gsX5tY-d1e91-Dd1e2854",
+        "gsX5tY-d1e91-Dd1e3792"
+      ]
+    }
+  }
+}

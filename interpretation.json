@@ -1,0 +1,64 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generation_method": "hierarchical",
+    "scope": "Prologue of Book I (gsX5tY-d1e64) only; other ancestors not yet generated",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "generated_at": "2026-10-01T00:00:00Z",
+    "source_commit": "7247fd1"
+  },
+  "gsX5tY-d1e64": {
+    "summary": "The prologue to Book I is a five-question inquiry into the nature of theology as a body of knowledge. Question 1 asks whether the knowledge of divine truth acquired in theology can be had through the philosophers' sciences. It distinguishes truth abstracted from sensibles, the first truth of the divine art that measures it, and the rational truth of beings of reason. It denies that theological truth falls under metaphysics, which reaches God only as first form and ultimate end through the analogy of being. It concludes that sciences are distinguished by truths their modes of consideration cannot share, so the truths that specify theology, such as the Trinity, cannot be had naturally. Question 2 defines the adequate object of our intellect as being taken universally as reducible into all its causes and principles, and the subject of metaphysics as being reducible into the highest causes. Following Giles of Rome, it holds that God is the subject of our theology not under the absolute, infinite ratio of deity but under the special ratio of 'glorifier'. Theological truth falls under our intellect's object only according to obediential potency. Question 3 makes the articles of faith theology's principles, functioning like axioms and suppositions. It denies that theology is properly subalternated to the knowledge of God and the blessed, comparing its dependence to a disciple's on a master. Theology does not add certitude to faith but strengthens adhesion by clarifying the articles and refuting objections. Because certitude from immutability surpasses certitude from evidence, theology is more certain than any human science. Question 4 argues that the enigma of faith and the evidence of science are incompatible about the same object. It rejects any middle light between faith and glory, and any abstractive knowledge of the divine essence for the wayfarer. Theologians surpass simple believers through a habit acquired by study within faith, a habit that resembles science without being science in the strict sense. Question 5 holds that the speculative-practical distinction is taken principally from the end. Theology's end is neither speculation nor praxis but love or charity, which falls outside praxis because it is done in us by grace; theology is therefore an affective science. Across the prologue, theology emerges as a distinct, revealed, faith-based habit that is more certain than the philosophical sciences, has God under a special ratio as subject, and is ordered ultimately to love.",
+    "claims": [
+      "The truths that specify theology cannot be had through the philosophers' sciences.",
+      "Theological truth is not contained under metaphysical truth.",
+      "The adequate object of our intellect is being taken universally as reducible into all its causes and principles.",
+      "God is the subject of our theology under a special, contracted ratio (that of glorifier), not under the absolute ratio of deity.",
+      "Theological truth falls under our intellect's adequate object according to obediential, not natural, potency.",
+      "The articles of faith are the principles of theology.",
+      "Theology is not properly subalternated to the knowledge of God and the blessed.",
+      "Theology has greater certitude of adhesion than any humanly discovered science.",
+      "Faith and science about the same object cannot coexist in the same subject.",
+      "No wayfarer can have a middle light or abstractive knowledge of the divine essence that would make theology a science properly so called.",
+      "Love or charity is principally and simply the end of theology, which is therefore an affective science."
+    ],
+    "concepts": [
+      "theology and metaphysics",
+      "divine truth",
+      "distinction of sciences",
+      "adequate object of the intellect",
+      "subject of theology",
+      "deity",
+      "God as glorifier",
+      "obediential potency",
+      "articles of faith",
+      "subalternation",
+      "certitude of adhesion",
+      "enigma of faith",
+      "light of faith",
+      "intuitive and abstractive cognition",
+      "speculative and practical",
+      "charity",
+      "affective science",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "prologus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e69",
+        "gsX5tY-d1e80",
+        "gsX5tY-d1e91",
+        "gsX5tY-d1e102",
+        "gsX5tY-d1e114"
+      ],
+      "partial": false,
+      "source_structure": "/Users/jcwitt/Projects/scta/scta-projectfiles/gsX5tY.xml",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "7247fd1"
+    }
+  }
+}
