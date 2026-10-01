@@ -1257,7 +1257,7 @@
     }
   },
   "gsX5tY-d1e80-d1e2409": {
-    "summary": "Heading of the third article (labelled 'Articulus 2' in the division but titled 'Articulus tertius'): whether God under the absolute ratio of deity is infinite and the subject in theology under that absolute ratio.",
+    "summary": "Heading of the third article: whether God under the absolute ratio of deity is infinite and the subject in theology under that absolute ratio.",
     "claims": [],
     "concepts": [
       "deity",
@@ -1269,7 +1269,11 @@
       "generation_method": "source_text_with_context",
       "context_ids": [
         "gsX5tY-d1e80-d1e348"
-      ]
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "cda1aa9"
     }
   },
   "gsX5tY-d1e80-d1e2420": {
@@ -2026,7 +2030,7 @@
     }
   },
   "gsX5tY-d1e80-Dd1e2401": {
-    "summary": "Article 3 (so titled in its heading, though the TEI head labels it Articulus 2) asks whether God under the absolute ratio of deity is infinite and so the subject of theology. Following Giles of Rome, the author holds that deity includes infinity more than the name 'infinite' does, since 'God' signifies the infinite nature positively while 'infinite' signifies it negatively from creatures; deity implies no limitation from the thing or our understanding, and otherwise an attribute would exceed the essence. He rejects two views making God under absolute deity the subject (outright, or for theology in itself, with infinite being as subject for theology in us), and defends Giles's position that, since acts and habits take species and quantity of virtue from their object, a science of God under deity would be infinite and equal God's own; so deity must be restricted by a special ratio, that of 'glorifier'. Objections (simplicity, identity with the glorifying essence, satiation of the blessed, the status of the ratio) are answered: the special ratio is a virtual precision in the essence, adding nothing real, arising from coexistence with our act, like the soul's division of celestial motion; the essence satiates as ultimate end. Rival replies (infinity merely annexed, finitude from the subject, no shared species with the object) are shown to be contradictory or to confuse commensuration in species with commensuration in quantity of virtue. The two rival views' foundations are also dismantled, including the use of 'infinite being', a negative and naturally knowable ratio, as the subject of a revealed science.",
+    "summary": "Article 3 asks whether God under the absolute ratio of deity is infinite and so the subject of theology. Following Giles of Rome, the author holds that deity includes infinity more than the name 'infinite' does, since 'God' signifies the infinite nature positively while 'infinite' signifies it negatively from creatures; deity implies no limitation from the thing or our understanding, and otherwise an attribute would exceed the essence. He rejects two views making God under absolute deity the subject (outright, or for theology in itself, with infinite being as subject for theology in us), and defends Giles's position that, since acts and habits take species and quantity of virtue from their object, a science of God under deity would be infinite and equal God's own; so deity must be restricted by a special ratio, that of 'glorifier'. Objections (simplicity, identity with the glorifying essence, satiation of the blessed, the status of the ratio) are answered: the special ratio is a virtual precision in the essence, adding nothing real, arising from coexistence with our act, like the soul's division of celestial motion; the essence satiates as ultimate end. Rival replies (infinity merely annexed, finitude from the subject, no shared species with the object) are shown to be contradictory or to confuse commensuration in species with commensuration in quantity of virtue. The two rival views' foundations are also dismantled, including the use of 'infinite being', a negative and naturally knowable ratio, as the subject of a revealed science.",
     "claims": [
       "The ratio of deity includes infinity more than the name 'infinite'.",
       "A science of God under the absolute ratio of deity would be infinite and equal to God's knowledge.",
@@ -2094,7 +2098,11 @@
         "gsX5tY-d1e80-d1e3841",
         "gsX5tY-d1e80-d1e3854",
         "gsX5tY-d1e80-d1e3872"
-      ]
+      ],
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-v1",
+      "generated_at": "2026-10-01T00:00:00Z",
+      "source_commit": "cda1aa9"
     }
   },
   "gsX5tY-d1e80-d1e3894": {
