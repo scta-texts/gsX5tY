@@ -2,11 +2,11 @@
   "_metadata": {
     "schema_version": "1.0",
     "generation_method": "hierarchical",
-    "scope": "Prologue of Book I (gsX5tY-d1e64) only; other ancestors not yet generated",
+    "scope": "Prologue of Book I (gsX5tY-d1e64), Distinction 37 (gsX5tY-d1e989), Book I (gsX5tY-d1e59, partial), and the whole work (gsX5tY, partial)",
     "model": "claude-opus-5-5",
     "prompt_version": "interpretation-ancestors-v1",
-    "generated_at": "2026-10-01T00:00:00Z",
-    "source_commit": "7247fd1"
+    "generated_at": "2026-10-03T00:00:00Z",
+    "source_commit": "119d338"
   },
   "gsX5tY-d1e64": {
     "summary": "The prologue to Book I is a five-question inquiry into the nature of theology as a body of knowledge. Question 1 asks whether the knowledge of divine truth acquired in theology can be had through the philosophers' sciences. It distinguishes truth abstracted from sensibles, the first truth of the divine art that measures it, and the rational truth of beings of reason. It denies that theological truth falls under metaphysics, which reaches God only as first form and ultimate end through the analogy of being. It concludes that sciences are distinguished by truths their modes of consideration cannot share, so the truths that specify theology, such as the Trinity, cannot be had naturally. Question 2 defines the adequate object of our intellect as being taken universally as reducible into all its causes and principles, and the subject of metaphysics as being reducible into the highest causes. Following Giles of Rome, it holds that God is the subject of our theology not under the absolute, infinite ratio of deity but under the special ratio of 'glorifier'. Theological truth falls under our intellect's object only according to obediential potency. Question 3 makes the articles of faith theology's principles, functioning like axioms and suppositions. It denies that theology is properly subalternated to the knowledge of God and the blessed, comparing its dependence to a disciple's on a master. Theology does not add certitude to faith but strengthens adhesion by clarifying the articles and refuting objections. Because certitude from immutability surpasses certitude from evidence, theology is more certain than any human science. Question 4 argues that the enigma of faith and the evidence of science are incompatible about the same object. It rejects any middle light between faith and glory, and any abstractive knowledge of the divine essence for the wayfarer. Theologians surpass simple believers through a habit acquired by study within faith, a habit that resembles science without being science in the strict sense. Question 5 holds that the speculative-practical distinction is taken principally from the end. Theology's end is neither speculation nor praxis but love or charity, which falls outside praxis because it is done in us by grace; theology is therefore an affective science. Across the prologue, theology emerges as a distinct, revealed, faith-based habit that is more certain than the philosophical sciences, has God under a special ratio as subject, and is ordered ultimately to love.",
@@ -59,6 +59,107 @@
       "prompt_version": "interpretation-ancestors-v1",
       "generated_at": "2026-10-01T00:00:00Z",
       "source_commit": "b82c781"
+    }
+  },
+  "gsX5tY-d1e989": {
+    "summary": "Distinction 37 consists of a single question: whether God is everywhere. Against objections from divine immutability (God was not everywhere before there was any place) and from divine simplicity (which seems to rule out a threefold mode of presence), the author argues in two articles. First, God is everywhere because his actual operation in every creature entails his essential presence to it. Second, the traditional three modes of omnipresence, by essence, presence, and power, are really distinct in creatures and correspondingly distinct only by reason in God, so their threefold assignment is fitting. Omnipresence beginning with creation implies change only in the created world, not in God.",
+    "claims": [
+      "God is everywhere by virtue of his actual operation in every creature.",
+      "The modes of divine omnipresence by essence, presence, and power are fittingly distinguished, really in creatures but only rationally in God.",
+      "God's coming to be everywhere upon creation implies change in creatures, not in God."
+    ],
+    "concepts": [
+      "divine omnipresence",
+      "divine immutability",
+      "divine simplicity",
+      "essence, presence, and power",
+      "real versus rational distinction"
+    ],
+    "_metadata": {
+      "level": "distinctio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e994"
+      ],
+      "partial": false,
+      "source_structure": "/Users/jcwitt/Projects/scta/scta-projectfiles/gsX5tY.xml",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-03T00:00:00Z",
+      "source_commit": "119d338"
+    }
+  },
+  "gsX5tY-d1e59": {
+    "summary": "This summary of Book I rests on only two of its forty-nine divisions: the prologue and Distinction 37. Distinctions 1-36 and 38-48 are not yet interpreted, so it does not represent the book as a whole. The prologue's five questions set out the nature of theology. Its truths cannot be reached by the philosophers' sciences or contained under metaphysics. Its subject is God under the special ratio of 'glorifier' rather than the absolute, infinite ratio of deity, following Giles of Rome. Its principles are the articles of faith, and it is not properly subalternated to the knowledge of the blessed. It is more certain in adhesion than any human science, yet not a science in the strict sense, since faith and evidence about the same object are incompatible in the wayfarer. Its end is charity, making it an affective science. Distinction 37 turns to the divine attributes, arguing that God is everywhere through his operation in every creature, and that the modes of presence by essence, presence, and power are really distinct in creatures but only rationally distinct in God.",
+    "claims": [
+      "The truths that specify theology cannot be had through the philosophers' sciences.",
+      "God is the subject of our theology under the special ratio of glorifier, not under the absolute ratio of deity.",
+      "The articles of faith are the principles of theology.",
+      "Theology has greater certitude of adhesion than any humanly discovered science, though it is not a science properly so called for the wayfarer.",
+      "Love or charity is principally the end of theology, which is therefore an affective science.",
+      "God is everywhere by virtue of his actual operation in every creature.",
+      "The modes of divine omnipresence by essence, presence, and power are distinct only rationally in God."
+    ],
+    "concepts": [
+      "theology and metaphysics",
+      "subject of theology",
+      "God as glorifier",
+      "articles of faith",
+      "subalternation",
+      "certitude of adhesion",
+      "enigma of faith",
+      "affective science",
+      "Giles of Rome",
+      "divine omnipresence",
+      "divine simplicity",
+      "real versus rational distinction"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e64",
+        "gsX5tY-d1e989"
+      ],
+      "partial": true,
+      "coverage": "2 of 49 direct children have interpretations",
+      "source_structure": "/Users/jcwitt/Projects/scta/scta-projectfiles/gsX5tY.xml",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-03T00:00:00Z",
+      "source_commit": "119d338"
+    }
+  },
+  "gsX5tY": {
+    "summary": "Gerard of Siena's Commentary on the Sentences, as represented in this repository, contains only Book I. This summary rests on the partial interpretation of that book, which covers only the prologue and Distinction 37, and should not be read as a summary of the whole commentary. The prologue treats theology as a distinct, revealed, faith-based habit. It holds God as subject under the special ratio of glorifier, takes the articles of faith as principles, is more certain than the philosophical sciences without being a science in the strict sense, and is ordered ultimately to charity as an affective science. Distinction 37 argues that God is everywhere through his operation in every creature, with the modes of presence by essence, presence, and power distinct only rationally in God.",
+    "claims": [
+      "God is the subject of our theology under the special ratio of glorifier, not under the absolute ratio of deity.",
+      "The articles of faith are the principles of theology.",
+      "Love or charity is principally the end of theology, which is therefore an affective science.",
+      "God is everywhere by virtue of his actual operation in every creature."
+    ],
+    "concepts": [
+      "subject of theology",
+      "God as glorifier",
+      "articles of faith",
+      "certitude of adhesion",
+      "affective science",
+      "Giles of Rome",
+      "divine omnipresence"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gsX5tY-d1e59"
+      ],
+      "partial": true,
+      "coverage": "1 of 1 direct children have interpretations; that child is itself partial",
+      "source_structure": "/Users/jcwitt/Projects/scta/scta-projectfiles/gsX5tY.xml",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-03T00:00:00Z",
+      "source_commit": "119d338"
     }
   }
 }
